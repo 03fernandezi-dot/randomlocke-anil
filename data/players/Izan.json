@@ -241,7 +241,7 @@
   "captures": [
     {
       "route": "",
-      "where": "",
+      "where": "Laboratorio",
       "species": "Jangmoo",
       "nickname": "Jambo Momo",
       "shiny": false,
@@ -251,13 +251,13 @@
       "mon": "Jangmoo"
     },
     {
-      "route": "",
-      "where": "",
+      "route": "ruta_1",
+      "where": "Ruta 1",
       "species": "Spinarak",
       "nickname": "Spidermon",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
+      "category": "salvaje",
       "level": 5,
       "mon": "Spinarak"
     }
@@ -266,9 +266,15 @@
     "gyms": {},
     "bosses": {},
     "npcs": {},
-    "routes": {},
+    "routes": {
+      "ruta_1": true,
+      "pueblo_paleta": true,
+      "ciudad_verde": true
+    },
     "items": {},
-    "encounters": {},
+    "encounters": {
+      "ruta_1": true
+    },
     "switches": [
       48,
       60,
