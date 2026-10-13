@@ -1,69 +1,239 @@
 {
   "id": "Izan",
-  "name": "Izan",
+  "name": "Izana",
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 15m jugadas · 452₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 0h 15m jugadas · 500₽ · vidas en el juego: 30",
   "team": [
     {
-      "nickname": "cabron",
-      "species": "Caterpie",
+      "nickname": "Jambo Momo",
+      "species": "Jangmoo",
       "level": 6,
       "types": [
-        "Bicho"
+        "Dragón"
       ],
-      "ability": "Dinamo",
-      "nature": "Alegre",
+      "ability": "Ensañamiento",
+      "nature": "Dócil",
       "item": "",
       "shiny": false,
       "moves": [
-        "Red Viscosa",
-        "Sellar",
-        "Carámbano"
+        "Alarido",
+        "Danza Dragón",
+        "Voltiocambio"
       ],
       "iv": [
-        21,
+        11,
+        25,
+        11,
+        13,
+        18,
+        1
+      ],
+      "ev": [
+        1,
         2,
-        4,
-        9,
-        20,
-        12
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Ensañamiento",
+        "Torrente"
+      ],
+      "abilHidden": [
+        "Néctar dulce"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Alarido"
+        },
+        {
+          "lvl": 1,
+          "m": "Danza Dragón"
+        },
+        {
+          "lvl": 4,
+          "m": "Voltiocambio"
+        },
+        {
+          "lvl": 8,
+          "m": "Ciclón"
+        },
+        {
+          "lvl": 12,
+          "m": "Viento Aciago"
+        },
+        {
+          "lvl": 16,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 20,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 24,
+          "m": "Día de Pago"
+        },
+        {
+          "lvl": 28,
+          "m": "Condena Silvana"
+        },
+        {
+          "lvl": 32,
+          "m": "Golpe Mordaza"
+        },
+        {
+          "lvl": 36,
+          "m": "Mundo Gélido"
+        },
+        {
+          "lvl": 40,
+          "m": "Psicorruido"
+        },
+        {
+          "lvl": 44,
+          "m": "Taladradora"
+        },
+        {
+          "lvl": 45,
+          "m": "Autotomía"
+        }
+      ],
+      "firstMoves": [
+        "Alarido",
+        "Danza Dragón",
+        "Voltiocambio"
+      ],
+      "spriteKey": "JANGMOO"
+    },
+    {
+      "nickname": "Spidermon",
+      "species": "Spinarak",
+      "level": 5,
+      "types": [
+        "Bicho",
+        "Veneno"
+      ],
+      "ability": "Prestidigitador",
+      "nature": "Grosera",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Picotazo Veneno",
+        "Cambiapoder",
+        "Lengüetazo"
+      ],
+      "iv": [
+        5,
+        0,
+        22,
+        17,
+        16,
+        9
       ],
       "ev": [
         0,
         0,
         0,
-        2,
+        0,
         0,
         0
       ],
       "abilPool": [
-        "Dinamo"
+        "Alerta",
+        "Prestidigitador"
       ],
       "abilHidden": [
-        "Manto Níveo"
+        "Velo Pastel"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Red Viscosa"
+          "m": "Picotazo Veneno"
         },
         {
           "lvl": 1,
-          "m": "Sellar"
+          "m": "Cambiapoder"
         },
         {
-          "lvl": 9,
-          "m": "Puño Bala"
+          "lvl": 5,
+          "m": "Lengüetazo"
+        },
+        {
+          "lvl": 8,
+          "m": "Acoso"
+        },
+        {
+          "lvl": 8,
+          "m": "Truco Fuerza"
+        },
+        {
+          "lvl": 12,
+          "m": "Imitación"
+        },
+        {
+          "lvl": 15,
+          "m": "Golpes Furia"
+        },
+        {
+          "lvl": 19,
+          "m": "Metrónomo"
+        },
+        {
+          "lvl": 22,
+          "m": "Embargo"
+        },
+        {
+          "lvl": 26,
+          "m": "Fría Acogida"
+        },
+        {
+          "lvl": 29,
+          "m": "Alto Voltaje"
+        },
+        {
+          "lvl": 29,
+          "m": "Trampa Rocas"
+        },
+        {
+          "lvl": 29,
+          "m": "Pin Misil"
+        },
+        {
+          "lvl": 33,
+          "m": "Beso Amoroso"
+        },
+        {
+          "lvl": 36,
+          "m": "Tambor"
+        },
+        {
+          "lvl": 40,
+          "m": "Ponzochoque"
+        },
+        {
+          "lvl": 44,
+          "m": "Residuos"
+        },
+        {
+          "lvl": 47,
+          "m": "Chupavidas"
+        },
+        {
+          "lvl": 51,
+          "m": "Plancha Corporal"
         }
       ],
       "firstMoves": [
-        "Red Viscosa",
-        "Sellar",
-        "Carámbano"
+        "Picotazo Veneno",
+        "Cambiapoder",
+        "Lengüetazo"
       ],
-      "spriteKey": "CATERPIE"
+      "spriteKey": "SPINARAK"
     }
   ],
   "box": [],
@@ -72,13 +242,24 @@
     {
       "route": "",
       "where": "",
-      "species": "Caterpie",
-      "nickname": "cabron",
+      "species": "Jangmoo",
+      "nickname": "Jambo Momo",
       "shiny": false,
       "status": "captured",
       "category": "estatico_regalo",
       "level": 5,
-      "mon": "Caterpie"
+      "mon": "Jangmoo"
+    },
+    {
+      "route": "",
+      "where": "",
+      "species": "Spinarak",
+      "nickname": "Spidermon",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Spinarak"
     }
   ],
   "progress": {
@@ -90,13 +271,11 @@
     "encounters": {},
     "switches": [
       48,
+      60,
       61,
-      62,
       63,
       66,
       67,
-      68,
-      69,
       110,
       176,
       179,
@@ -108,13 +287,17 @@
       334
     ],
     "foundItems": [
+      "Máscara Fuente",
       "Miniseta",
-      "Poké Montura",
-      "Real Oro",
-      "Reglamento",
-      "Vial"
+      "Reglamento"
     ],
     "bag": [
+      {
+        "id": "WELLSPRINGMASK",
+        "name": "Máscara Fuente",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
       {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
@@ -122,44 +305,20 @@
         "pocket": "Objetos"
       },
       {
-        "id": "POTION",
-        "name": "Poción",
-        "qty": 2,
+        "id": "RARECANDY",
+        "name": "Caramelo Raro",
+        "qty": 200,
         "pocket": "Medicinas"
       },
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 61,
-        "pocket": "Poké Balls"
-      },
-      {
-        "id": "PREMIERBALL",
-        "name": "Honor Ball",
-        "qty": 5,
-        "pocket": "Poké Balls"
-      },
-      {
-        "id": "POKEBALL",
-        "name": "Poké Ball",
-        "qty": 5,
+        "qty": 4,
         "pocket": "Poké Balls"
       },
       {
         "id": "RULEBOOK",
         "name": "Reglamento",
-        "qty": 1,
-        "pocket": "Objetos clave"
-      },
-      {
-        "id": "VIAL",
-        "name": "Vial",
-        "qty": 1,
-        "pocket": "Objetos clave"
-      },
-      {
-        "id": "POKERIDER",
-        "name": "Poké Montura",
         "qty": 1,
         "pocket": "Objetos clave"
       }
