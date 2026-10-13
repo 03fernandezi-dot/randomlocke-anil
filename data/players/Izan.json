@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 21m jugadas · 2,960₽ · vidas en el juego: ?",
+  "notes": "Importado del save · 0h 36m jugadas · 2,960₽ · vidas en el juego: ?",
   "team": [
     {
       "nickname": "Mariconchi",
@@ -33,7 +33,7 @@
       "ev": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0
@@ -129,6 +129,119 @@
         "Picotazo"
       ],
       "spriteKey": "MACHOP"
+    },
+    {
+      "nickname": "IceFrioHielo",
+      "species": "Sandshrew",
+      "level": 2,
+      "types": [
+        "Tierra"
+      ],
+      "ability": "Hedor",
+      "nature": "Agitada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Tajo Metralla",
+        "Neblina"
+      ],
+      "iv": [
+        17,
+        22,
+        29,
+        31,
+        14,
+        31
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Hedor"
+      ],
+      "abilHidden": [
+        "Simple"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Tajo Metralla"
+        },
+        {
+          "lvl": 1,
+          "m": "Neblina"
+        },
+        {
+          "lvl": 3,
+          "m": "Legado"
+        },
+        {
+          "lvl": 5,
+          "m": "Electrotela"
+        },
+        {
+          "lvl": 7,
+          "m": "Vaho Gélido"
+        },
+        {
+          "lvl": 9,
+          "m": "Bofetón Lodo"
+        },
+        {
+          "lvl": 11,
+          "m": "Gran Ojo"
+        },
+        {
+          "lvl": 14,
+          "m": "Poder Pasado"
+        },
+        {
+          "lvl": 17,
+          "m": "Pulimento"
+        },
+        {
+          "lvl": 20,
+          "m": "Cede Paso"
+        },
+        {
+          "lvl": 23,
+          "m": "Tumba Rocas"
+        },
+        {
+          "lvl": 26,
+          "m": "Cosquillas"
+        },
+        {
+          "lvl": 30,
+          "m": "Llanto Falso"
+        },
+        {
+          "lvl": 34,
+          "m": "Dracoflechas"
+        },
+        {
+          "lvl": 38,
+          "m": "Onda Mental"
+        },
+        {
+          "lvl": 42,
+          "m": "Remolino"
+        },
+        {
+          "lvl": 46,
+          "m": "Voltio Cruel"
+        }
+      ],
+      "firstMoves": [
+        "Tajo Metralla",
+        "Neblina"
+      ],
+      "spriteKey": "SANDSHREW_1"
     }
   ],
   "box": [],
@@ -144,6 +257,17 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Machop"
+    },
+    {
+      "route": "",
+      "where": "",
+      "species": "Sandshrew",
+      "nickname": "IceFrioHielo",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 2,
+      "mon": "Sandshrew"
     }
   ],
   "progress": {
@@ -160,6 +284,8 @@
       63,
       66,
       67,
+      68,
+      69,
       110,
       176,
       179,
@@ -173,13 +299,23 @@
     "foundItems": [
       "Blanco",
       "Menta Amable",
+      "Miniseta",
+      "Poké Montura",
       "Reglamento",
-      "Revivir"
+      "Revivir",
+      "Supercaña",
+      "Vial"
     ],
     "bag": [
       {
         "id": "RINGTARGET",
         "name": "Blanco",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "TINYMUSHROOM",
+        "name": "Miniseta",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -196,8 +332,44 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "POTION",
+        "name": "Poción",
+        "qty": 2,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "POKEBALL",
+        "name": "Poké Ball",
+        "qty": 4,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "GREATBALL",
+        "name": "Super Ball",
+        "qty": 10,
+        "pocket": "Poké Balls"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "SUPERROD",
+        "name": "Supercaña",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "VIAL",
+        "name": "Vial",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "POKERIDER",
+        "name": "Poké Montura",
         "qty": 1,
         "pocket": "Objetos clave"
       }
