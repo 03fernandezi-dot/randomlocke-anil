@@ -4,11 +4,148 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 8m jugadas · 3,000₽ · vidas en el juego: ?",
-  "team": [],
+  "notes": "Importado del save · 0h 14m jugadas · 3,000₽ · vidas en el juego: ?",
+  "team": [
+    {
+      "nickname": "Mariconchi",
+      "species": "Machop",
+      "level": 5,
+      "types": [
+        "Lucha"
+      ],
+      "ability": "",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Tóxico",
+        "Sustituto",
+        "Picotazo"
+      ],
+      "iv": [
+        13,
+        7,
+        14,
+        17,
+        4,
+        16
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Ímpetu Ardiente",
+        "Competitivo"
+      ],
+      "abilHidden": [
+        "Experto"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 1,
+          "m": "Sustituto"
+        },
+        {
+          "lvl": 4,
+          "m": "Picotazo"
+        },
+        {
+          "lvl": 8,
+          "m": "Puño Incremento"
+        },
+        {
+          "lvl": 10,
+          "m": "Camaradería"
+        },
+        {
+          "lvl": 12,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 16,
+          "m": "Telépata"
+        },
+        {
+          "lvl": 19,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 20,
+          "m": "Protección"
+        },
+        {
+          "lvl": 24,
+          "m": "Puntapié"
+        },
+        {
+          "lvl": 29,
+          "m": "Espacio Raro"
+        },
+        {
+          "lvl": 32,
+          "m": "Robasombra"
+        },
+        {
+          "lvl": 34,
+          "m": "Patada Relámpago"
+        },
+        {
+          "lvl": 36,
+          "m": "Furia Taurina"
+        },
+        {
+          "lvl": 37,
+          "m": "Tecno Shock"
+        },
+        {
+          "lvl": 40,
+          "m": "Polvo Explosivo"
+        },
+        {
+          "lvl": 44,
+          "m": "Desarme"
+        },
+        {
+          "lvl": 48,
+          "m": "Luna Roja"
+        },
+        {
+          "lvl": 52,
+          "m": "Roca Afilada"
+        }
+      ],
+      "firstMoves": [
+        "Tóxico",
+        "Sustituto",
+        "Picotazo"
+      ],
+      "spriteKey": "MACHOP"
+    }
+  ],
   "box": [],
   "graveyard": [],
-  "captures": [],
+  "captures": [
+    {
+      "route": "",
+      "where": "",
+      "species": "Machop",
+      "nickname": "Mariconchi",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Machop"
+    }
+  ],
   "progress": {
     "gyms": {},
     "bosses": {},
@@ -18,6 +155,8 @@
     "encounters": {},
     "switches": [
       48,
+      61,
+      62,
       110,
       176,
       179,
@@ -29,13 +168,27 @@
       339
     ],
     "foundItems": [
+      "Blanco",
       "Menta Amable",
-      "Reglamento"
+      "Reglamento",
+      "Revivir"
     ],
     "bag": [
       {
+        "id": "RINGTARGET",
+        "name": "Blanco",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "GENTLEMINT",
         "name": "Menta Amable",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "REVIVE",
+        "name": "Revivir",
         "qty": 1,
         "pocket": "Medicinas"
       },
