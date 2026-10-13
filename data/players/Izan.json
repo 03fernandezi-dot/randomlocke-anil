@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 8m jugadas · 2,960₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 11m jugadas · 2,960₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Espía",
@@ -21,7 +21,8 @@
       "moves": [
         "Cuchillada",
         "Refuerzo",
-        "Pulso de Campo"
+        "Pulso de Campo",
+        "Beso Dulce"
       ],
       "iv": [
         6,
@@ -111,6 +112,9 @@
           "m": "Adaptación"
         }
       ],
+      "tmMoves": [
+        "Beso Dulce"
+      ],
       "firstMoves": [
         "Cuchillada",
         "Refuerzo",
@@ -132,7 +136,8 @@
       "moves": [
         "Ronquido",
         "Tragar",
-        "Ataque Óseo"
+        "Ataque Óseo",
+        "Calamidad"
       ],
       "iv": [
         31,
@@ -234,6 +239,10 @@
           "lvl": 48,
           "m": "Joltioparálisis"
         }
+      ],
+      "tmMoves": [
+        "Calamidad",
+        "Onda Voltio"
       ],
       "firstMoves": [
         "Ronquido",
@@ -583,10 +592,14 @@
     ],
     "foundItems": [
       "Baya Caquic",
+      "Baya Meloc",
       "Bola de Humo",
       "Ensueño Ball",
       "Hierba Única",
       "Miniseta",
+      "MT47",
+      "MT71",
+      "MT83",
       "Poké Montura",
       "Reglamento",
       "Supercaña",
@@ -634,6 +647,30 @@
         "name": "Super Ball",
         "qty": 6,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM47",
+        "name": "MT47",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM71",
+        "name": "MT71",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM83",
+        "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "PECHABERRY",
+        "name": "Baya Meloc",
+        "qty": 1,
+        "pocket": "Bayas"
       },
       {
         "id": "PERSIMBERRY",
