@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 29m jugadas · 4,310₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 42m jugadas · 5,110₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Espía",
       "species": "Pidove",
-      "level": 10,
+      "level": 11,
       "types": [
         "Normal",
         "Volador"
@@ -33,12 +33,12 @@
         21
       ],
       "ev": [
-        1,
-        1,
         3,
-        1,
+        2,
+        3,
+        2,
         5,
-        1
+        3
       ],
       "abilPool": [
         "Metal Liviano"
@@ -125,7 +125,7 @@
     {
       "nickname": "GoticaCulona",
       "species": "Gothita",
-      "level": 10,
+      "level": 11,
       "types": [
         "Psíquico"
       ],
@@ -148,12 +148,12 @@
         11
       ],
       "ev": [
-        1,
-        1,
         3,
-        1,
+        2,
+        3,
+        2,
         4,
-        1
+        3
       ],
       "abilPool": [
         "Corrosión",
@@ -254,7 +254,7 @@
     {
       "nickname": "Princesita",
       "species": "Popplio",
-      "level": 10,
+      "level": 12,
       "types": [
         "Agua"
       ],
@@ -277,12 +277,12 @@
         6
       ],
       "ev": [
-        1,
-        1,
         3,
-        0,
+        2,
+        3,
+        1,
         4,
-        1
+        3
       ],
       "abilPool": [
         "Iceberg"
@@ -374,7 +374,7 @@
     {
       "nickname": "Ramirez",
       "species": "Rattata (Alola)",
-      "level": 9,
+      "level": 10,
       "types": [
         "Siniestro",
         "Normal"
@@ -385,7 +385,7 @@
       "shiny": false,
       "moves": [
         "Acoso",
-        "Refuerzo",
+        "Meteorobola",
         "Niebla Aromática",
         "Mordisco"
       ],
@@ -398,12 +398,12 @@
         7
       ],
       "ev": [
-        1,
-        1,
         3,
-        0,
+        2,
+        3,
+        1,
         4,
-        0
+        2
       ],
       "abilPool": [
         "Piel Herbácea",
@@ -476,7 +476,8 @@
       ],
       "tmMoves": [
         "Calamidad",
-        "Mordisco"
+        "Mordisco",
+        "Onda Voltio"
       ],
       "firstMoves": [
         "Acoso",
@@ -489,7 +490,7 @@
     {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 9,
+      "level": 10,
       "types": [
         "Acero",
         "Fantasma"
@@ -513,12 +514,12 @@
         28
       ],
       "ev": [
-        1,
-        1,
-        1,
-        0,
+        3,
         2,
-        0
+        1,
+        1,
+        2,
+        2
       ],
       "abilPool": [
         "Insomnio"
@@ -810,7 +811,9 @@
       "ruta_22": true,
       "ruta_2_sur": true,
       "bosque_verde": true,
-      "ruta_1": true
+      "ruta_1": true,
+      "ruta_2_norte": true,
+      "ciudad_plateada": true
     },
     "items": {},
     "encounters": {
@@ -819,7 +822,8 @@
       "ciudad_verde": true,
       "ruta_22": true,
       "ruta_2_sur": true,
-      "bosque_verde": true
+      "bosque_verde": true,
+      "ruta_2_norte": true
     },
     "switches": [
       48,
@@ -842,6 +846,7 @@
       334
     ],
     "foundItems": [
+      "Agua Mística",
       "Baya Caquic",
       "Baya Meloc",
       "Bola de Humo",
@@ -853,9 +858,11 @@
       "MT47",
       "MT71",
       "MT83",
+      "MT89",
       "Poké Montura",
       "Reglamento",
       "Supercaña",
+      "Tabla Helada",
       "Tabla Legendaria",
       "Tabla Linfa",
       "Vial"
@@ -892,22 +899,16 @@
         "pocket": "Objetos"
       },
       {
-        "id": "DREAMBALL",
-        "name": "Ensueño Ball",
+        "id": "ICICLEPLATE",
+        "name": "Tabla Helada",
         "qty": 1,
-        "pocket": "Poké Balls"
+        "pocket": "Objetos"
       },
       {
-        "id": "POKEBALL",
-        "name": "Poké Ball",
-        "qty": 3,
-        "pocket": "Poké Balls"
-      },
-      {
-        "id": "GREATBALL",
-        "name": "Super Ball",
-        "qty": 3,
-        "pocket": "Poké Balls"
+        "id": "MYSTICWATER",
+        "name": "Agua Mística",
+        "qty": 1,
+        "pocket": "Objetos"
       },
       {
         "id": "TM47",
@@ -924,6 +925,12 @@
       {
         "id": "TM83",
         "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM89",
+        "name": "MT89",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
