@@ -4,20 +4,161 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 24m jugadas · 3,000₽ · vidas en el juego: 30",
-  "team": [],
+  "notes": "Importado del save · 0h 28m jugadas · 3,500₽ · vidas en el juego: 30",
+  "team": [
+    {
+      "nickname": "Izan",
+      "species": "Mudkip",
+      "level": 5,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Alma Acerada",
+      "nature": "Seria",
+      "item": "Sana Ball",
+      "shiny": false,
+      "moves": [
+        "Cepo",
+        "Burbuja"
+      ],
+      "iv": [
+        27,
+        7,
+        25,
+        3,
+        27,
+        29
+      ],
+      "ev": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Alma Acerada"
+      ],
+      "abilHidden": [
+        "Iceberg"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cepo"
+        },
+        {
+          "lvl": 1,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 6,
+          "m": "Señuelo"
+        },
+        {
+          "lvl": 7,
+          "m": "Tenaza"
+        },
+        {
+          "lvl": 8,
+          "m": "Refugio"
+        },
+        {
+          "lvl": 9,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 12,
+          "m": "Relajo"
+        },
+        {
+          "lvl": 15,
+          "m": "Aguzar"
+        },
+        {
+          "lvl": 18,
+          "m": "Patada Giro"
+        },
+        {
+          "lvl": 19,
+          "m": "Onda Trueno"
+        },
+        {
+          "lvl": 21,
+          "m": "Protección"
+        },
+        {
+          "lvl": 24,
+          "m": "Llave Giro"
+        },
+        {
+          "lvl": 24,
+          "m": "Hidropulso"
+        },
+        {
+          "lvl": 27,
+          "m": "Mofa"
+        },
+        {
+          "lvl": 30,
+          "m": "Cambio de Cancha"
+        },
+        {
+          "lvl": 33,
+          "m": "Arremetida"
+        },
+        {
+          "lvl": 33,
+          "m": "Bombardeo"
+        },
+        {
+          "lvl": 36,
+          "m": "Puño Cometa"
+        },
+        {
+          "lvl": 39,
+          "m": "Camaradería"
+        }
+      ],
+      "firstMoves": [
+        "Cepo",
+        "Burbuja"
+      ],
+      "spriteKey": "MUDKIP"
+    }
+  ],
   "box": [],
   "graveyard": [],
-  "captures": [],
+  "captures": [
+    {
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Mudkip",
+      "nickname": "Izan",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Mudkip"
+    }
+  ],
   "progress": {
     "gyms": {},
     "bosses": {},
     "npcs": {},
-    "routes": {},
+    "routes": {
+      "pueblo_paleta": true
+    },
     "items": {},
     "encounters": {},
     "switches": [
       48,
+      60,
+      62,
+      63,
+      66,
+      67,
       110,
       176,
       179,
@@ -29,9 +170,30 @@
       334
     ],
     "foundItems": [
+      "Gema Fantasma",
+      "Menta Osada",
+      "MT99",
       "Reglamento"
     ],
     "bag": [
+      {
+        "id": "GHOSTGEM",
+        "name": "Gema Fantasma",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BOLDMINT",
+        "name": "Menta Osada",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "TM99",
+        "name": "MT99",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
       {
         "id": "RULEBOOK",
         "name": "Reglamento",
