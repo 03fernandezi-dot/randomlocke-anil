@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 0h 51m jugadas · 500₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 0h 58m jugadas · 500₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Jambo Momo",
@@ -533,7 +533,8 @@
       "ruta_1": true,
       "ciudad_verde": true,
       "pueblo_paleta": true,
-      "ruta_22": true
+      "ruta_22": true,
+      "ruta_2_sur": true
     },
     "switches": [
       48,
@@ -590,33 +591,15 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "POTION",
-        "name": "Poción",
-        "qty": 2,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "BOLDMINT",
         "name": "Menta Osada",
         "qty": 1,
         "pocket": "Medicinas"
       },
       {
-        "id": "GREATBALL",
-        "name": "Super Ball",
-        "qty": 7,
-        "pocket": "Poké Balls"
-      },
-      {
         "id": "DUSKBALL",
         "name": "Ocaso Ball",
         "qty": 1,
-        "pocket": "Poké Balls"
-      },
-      {
-        "id": "POKEBALL",
-        "name": "Poké Ball",
-        "qty": 4,
         "pocket": "Poké Balls"
       },
       {
