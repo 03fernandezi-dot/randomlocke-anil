@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 5m jugadas · 3,000₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 13m jugadas · 2,960₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Bombardero",
@@ -14,7 +14,7 @@
         "Tierra",
         "Siniestro"
       ],
-      "ability": "",
+      "ability": "Cálculo Final",
       "nature": "Alocada",
       "item": "Precisión X",
       "shiny": false,
@@ -166,6 +166,9 @@
       48,
       60,
       62,
+      63,
+      66,
+      67,
       110,
       176,
       179,
