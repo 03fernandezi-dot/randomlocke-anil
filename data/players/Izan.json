@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 43m jugadas · 500₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 44m jugadas · 500₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Jambo Momo",
@@ -543,7 +543,9 @@
     ],
     "foundItems": [
       "Máscara Fuente",
+      "Menta Osada",
       "Miniseta",
+      "MT53",
       "Ocaso Ball",
       "Poké Montura",
       "Reglamento",
@@ -576,6 +578,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "BOLDMINT",
+        "name": "Menta Osada",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 12,
@@ -592,6 +600,12 @@
         "name": "Poké Ball",
         "qty": 4,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM53",
+        "name": "MT53",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "RULEBOOK",
