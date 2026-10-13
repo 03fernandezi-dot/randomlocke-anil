@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 44m jugadas · 500₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 46m jugadas · 500₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Jambo Momo",
@@ -102,6 +102,9 @@
           "lvl": 45,
           "m": "Autotomía"
         }
+      ],
+      "tmMoves": [
+        "Pantalla de Luz"
       ],
       "firstMoves": [
         "Alarido",
@@ -355,7 +358,7 @@
       ],
       "ability": "Armadura Batalla",
       "nature": "Alocada",
-      "item": "",
+      "item": "Amuleto Puro",
       "shiny": false,
       "moves": [
         "Corpulencia",
@@ -451,6 +454,9 @@
           "m": "Teraclúster"
         }
       ],
+      "tmMoves": [
+        "Pantalla de Luz"
+      ],
       "firstMoves": [
         "Corpulencia",
         "Guardia Baja",
@@ -542,13 +548,16 @@
       334
     ],
     "foundItems": [
+      "Amuleto Puro",
       "Máscara Fuente",
       "Menta Osada",
       "Miniseta",
       "MT53",
+      "MT97",
       "Ocaso Ball",
       "Poké Montura",
       "Reglamento",
+      "Sana Ball",
       "Supercaña",
       "Vial"
     ],
@@ -602,8 +611,20 @@
         "pocket": "Poké Balls"
       },
       {
+        "id": "HEALBALL",
+        "name": "Sana Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
         "id": "TM53",
         "name": "MT53",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM97",
+        "name": "MT97",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
