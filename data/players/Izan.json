@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 11m jugadas · 2,960₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 13m jugadas · 2,960₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Espía",
@@ -38,7 +38,7 @@
         0,
         1,
         1,
-        0
+        1
       ],
       "abilPool": [
         "Metal Liviano"
@@ -125,7 +125,7 @@
     {
       "nickname": "GoticaCulona",
       "species": "Gothita",
-      "level": 6,
+      "level": 7,
       "types": [
         "Psíquico"
       ],
@@ -153,7 +153,7 @@
         0,
         1,
         0,
-        0
+        1
       ],
       "abilPool": [
         "Corrosión",
@@ -254,7 +254,7 @@
     {
       "nickname": "Princesita",
       "species": "Popplio",
-      "level": 6,
+      "level": 7,
       "types": [
         "Agua"
       ],
@@ -265,7 +265,8 @@
       "moves": [
         "Agua Fría",
         "Barrera",
-        "Copión"
+        "Copión",
+        "Polvo Mágico"
       ],
       "iv": [
         0,
@@ -281,7 +282,7 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "abilPool": [
         "Iceberg"
@@ -369,6 +370,116 @@
         "Copión"
       ],
       "spriteKey": "POPPLIO"
+    },
+    {
+      "nickname": "Ramirez",
+      "species": "Rattata (Alola)",
+      "level": 6,
+      "types": [
+        "Siniestro",
+        "Normal"
+      ],
+      "ability": "Piel Herbácea",
+      "nature": "Huraña",
+      "item": "Baya Chilan",
+      "shiny": false,
+      "moves": [
+        "Acoso",
+        "Refuerzo",
+        "Niebla Aromática"
+      ],
+      "iv": [
+        20,
+        3,
+        13,
+        23,
+        17,
+        7
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Piel Herbácea",
+        "Descarga"
+      ],
+      "abilHidden": [
+        "Espesura"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Acoso"
+        },
+        {
+          "lvl": 1,
+          "m": "Refuerzo"
+        },
+        {
+          "lvl": 4,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 7,
+          "m": "Calamidad"
+        },
+        {
+          "lvl": 10,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 13,
+          "m": "Clemencia"
+        },
+        {
+          "lvl": 13,
+          "m": "Golpe Calor"
+        },
+        {
+          "lvl": 16,
+          "m": "Bomba Imán"
+        },
+        {
+          "lvl": 16,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 19,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 22,
+          "m": "Picadura"
+        },
+        {
+          "lvl": 25,
+          "m": "Truco Fuerza"
+        },
+        {
+          "lvl": 28,
+          "m": "Daño Secreto"
+        },
+        {
+          "lvl": 31,
+          "m": "Dragoaliento"
+        },
+        {
+          "lvl": 34,
+          "m": "Látigo Ígneo"
+        }
+      ],
+      "firstMoves": [
+        "Acoso",
+        "Refuerzo",
+        "Niebla Aromática"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10091.png",
+      "spriteKey": "RATTATA_1"
     }
   ],
   "box": [],
@@ -543,6 +654,17 @@
       "mon": "Popplio"
     },
     {
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Rattata",
+      "nickname": "Ramirez",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Rattata"
+    },
+    {
       "route": "",
       "where": "Laboratorio",
       "species": "Sandile",
@@ -562,6 +684,7 @@
       "pueblo_paleta": true,
       "ciudad_verde": true,
       "ruta_22": true,
+      "ruta_2_sur": true,
       "ruta_1": true
     },
     "items": {},
@@ -569,7 +692,8 @@
       "ruta_1": true,
       "pueblo_paleta": true,
       "ciudad_verde": true,
-      "ruta_22": true
+      "ruta_22": true,
+      "ruta_2_sur": true
     },
     "switches": [
       48,
@@ -595,6 +719,7 @@
       "Baya Meloc",
       "Bola de Humo",
       "Ensueño Ball",
+      "Gran Lustresfera",
       "Hierba Única",
       "Miniseta",
       "MT47",
@@ -625,6 +750,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "LUSTROUSGLOBE",
+        "name": "Gran Lustresfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "POTION",
         "name": "Poción",
         "qty": 2,
@@ -639,13 +770,13 @@
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 4,
+        "qty": 3,
         "pocket": "Poké Balls"
       },
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 6,
+        "qty": 4,
         "pocket": "Poké Balls"
       },
       {
