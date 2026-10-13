@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 58m jugadas · 450₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 1h 0m jugadas · 450₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Izan",
@@ -32,7 +32,7 @@
         29
       ],
       "ev": [
-        2,
+        3,
         4,
         5,
         4,
@@ -159,7 +159,7 @@
         6
       ],
       "ev": [
-        1,
+        2,
         4,
         5,
         3,
@@ -262,7 +262,7 @@
         24
       ],
       "ev": [
-        0,
+        1,
         4,
         5,
         3,
@@ -374,7 +374,7 @@
         7
       ],
       "ev": [
-        0,
+        1,
         4,
         5,
         3,
@@ -484,7 +484,7 @@
         26
       ],
       "ev": [
-        0,
+        1,
         4,
         4,
         3,
@@ -597,7 +597,7 @@
         8
       ],
       "ev": [
-        0,
+        1,
         0,
         0,
         0,
@@ -930,6 +930,111 @@
         "Gruñido"
       ],
       "spriteKey": "RHYHORN"
+    },
+    {
+      "nickname": "Bonito",
+      "species": "Skwovet",
+      "level": 11,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Agallas",
+      "nature": "Alegre",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Estoicismo",
+        "Zona Extraña",
+        "Doble Equipo",
+        "Mimético"
+      ],
+      "iv": [
+        28,
+        0,
+        13,
+        9,
+        9,
+        25
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Agallas"
+      ],
+      "abilHidden": [
+        "Toque Ardiente"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Celebración"
+        },
+        {
+          "lvl": 1,
+          "m": "Danza Amiga"
+        },
+        {
+          "lvl": 5,
+          "m": "Zona Extraña"
+        },
+        {
+          "lvl": 10,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 10,
+          "m": "Mimético"
+        },
+        {
+          "lvl": 15,
+          "m": "Hueso Palo"
+        },
+        {
+          "lvl": 15,
+          "m": "Golpe Calor"
+        },
+        {
+          "lvl": 15,
+          "m": "Terratemblor"
+        },
+        {
+          "lvl": 20,
+          "m": "Día Soleado"
+        },
+        {
+          "lvl": 25,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 30,
+          "m": "Bombardeo"
+        },
+        {
+          "lvl": 35,
+          "m": "Pantalla de Humo"
+        },
+        {
+          "lvl": 40,
+          "m": "Constricción"
+        },
+        {
+          "lvl": 45,
+          "m": "Arenas Ardientes"
+        }
+      ],
+      "firstMoves": [
+        "Estoicismo",
+        "Zona Extraña",
+        "Doble Equipo",
+        "Mimético"
+      ],
+      "spriteKey": "SKWOVET"
     }
   ],
   "graveyard": [],
@@ -1021,6 +1126,17 @@
       "category": "salvaje",
       "level": 9,
       "mon": "Rhyhorn"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Skwovet",
+      "nickname": "Bonito",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 11,
+      "mon": "Skwovet"
     }
   ],
   "progress": {
@@ -1044,7 +1160,8 @@
       "ruta_22": true,
       "ruta_2_sur": true,
       "bosque_verde": true,
-      "ruta_2_norte": true
+      "ruta_2_norte": true,
+      "ciudad_plateada": true
     },
     "switches": [
       48,
@@ -1089,6 +1206,7 @@
       "MT89",
       "MT90",
       "MT92",
+      "MT94",
       "MT99",
       "Poción",
       "Poké Montura",
@@ -1161,7 +1279,7 @@
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 7,
+        "qty": 4,
         "pocket": "Poké Balls"
       },
       {
@@ -1197,6 +1315,12 @@
       {
         "id": "TM92",
         "name": "MT92",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM94",
+        "name": "MT94",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
