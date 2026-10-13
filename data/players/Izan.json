@@ -4,16 +4,16 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 7m jugadas · 3,000₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 15m jugadas · 452₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "cabron",
       "species": "Caterpie",
-      "level": 5,
+      "level": 6,
       "types": [
         "Bicho"
       ],
-      "ability": "",
+      "ability": "Dinamo",
       "nature": "Alegre",
       "item": "",
       "shiny": false,
@@ -34,7 +34,7 @@
         0,
         0,
         0,
-        0,
+        2,
         0,
         0
       ],
@@ -92,6 +92,11 @@
       48,
       61,
       62,
+      63,
+      66,
+      67,
+      68,
+      69,
       110,
       176,
       179,
@@ -103,19 +108,58 @@
       334
     ],
     "foundItems": [
+      "Miniseta",
+      "Poké Montura",
       "Real Oro",
-      "Reglamento"
+      "Reglamento",
+      "Vial"
     ],
     "bag": [
       {
-        "id": "RELICGOLD",
-        "name": "Real Oro",
+        "id": "TINYMUSHROOM",
+        "name": "Miniseta",
         "qty": 1,
         "pocket": "Objetos"
       },
       {
+        "id": "POTION",
+        "name": "Poción",
+        "qty": 2,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "GREATBALL",
+        "name": "Super Ball",
+        "qty": 61,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "PREMIERBALL",
+        "name": "Honor Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "POKEBALL",
+        "name": "Poké Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "VIAL",
+        "name": "Vial",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "POKERIDER",
+        "name": "Poké Montura",
         "qty": 1,
         "pocket": "Objetos clave"
       }
