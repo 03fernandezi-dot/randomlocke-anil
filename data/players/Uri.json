@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 53m jugadas · 450₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 58m jugadas · 450₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Izan",
@@ -225,7 +225,9 @@
         }
       ],
       "tmMoves": [
-        "Tajo Metralla"
+        "Ladrón",
+        "Tajo Metralla",
+        "Venganza"
       ],
       "firstMoves": [
         "Bruma Explosiva",
@@ -335,6 +337,9 @@
           "lvl": 49,
           "m": "Sustituto"
         }
+      ],
+      "tmMoves": [
+        "Venganza"
       ],
       "firstMoves": [
         "Viento Plata",
@@ -567,29 +572,29 @@
       "spriteKey": "SHELMET"
     },
     {
-      "nickname": "Tahm Kench",
-      "species": "Rhyhorn",
-      "level": 9,
+      "nickname": "Milo",
+      "species": "Totodile",
+      "level": 10,
       "types": [
-        "Tierra",
-        "Roca"
+        "Agua"
       ],
-      "ability": "Cromolente",
-      "nature": "Modesta",
+      "ability": "Recogebolas",
+      "nature": "Huraña",
       "item": "",
       "shiny": false,
       "moves": [
-        "Lanzarrocas",
-        "Deslome",
-        "Gruñido"
+        "Golpe Roca",
+        "Polvo Explosivo",
+        "Tajo Metralla",
+        "Defensa Floral"
       ],
       "iv": [
-        19,
-        27,
-        18,
-        26,
+        7,
         12,
-        29
+        3,
+        17,
+        3,
+        8
       ],
       "ev": [
         0,
@@ -600,88 +605,96 @@
         0
       ],
       "abilPool": [
-        "Cromolente",
-        "Coránima"
+        "Recogebolas"
       ],
       "abilHidden": [
-        "Esclusa de Aire"
+        "Rompeaura"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Lanzarrocas"
+          "m": "Polvo Mágico"
         },
         {
           "lvl": 1,
-          "m": "Deslome"
+          "m": "Kinético"
         },
         {
-          "lvl": 5,
+          "lvl": 6,
+          "m": "Decalcomanía"
+        },
+        {
+          "lvl": 8,
+          "m": "Polvo Explosivo"
+        },
+        {
+          "lvl": 8,
+          "m": "Metrónomo"
+        },
+        {
+          "lvl": 9,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 13,
+          "m": "Gota Vital"
+        },
+        {
+          "lvl": 19,
+          "m": "Chispa"
+        },
+        {
+          "lvl": 22,
           "m": "Gruñido"
         },
         {
-          "lvl": 10,
-          "m": "Sellar"
+          "lvl": 27,
+          "m": "Mismo Destino"
         },
         {
-          "lvl": 12,
-          "m": "Cerrojo Feérico"
+          "lvl": 29,
+          "m": "Tenaza"
         },
         {
-          "lvl": 15,
-          "m": "Envidia ardiente"
-        },
-        {
-          "lvl": 20,
-          "m": "Aromaterapia"
-        },
-        {
-          "lvl": 25,
-          "m": "Nieve Polvo"
+          "lvl": 29,
+          "m": "Alivio"
         },
         {
           "lvl": 30,
-          "m": "Tragar"
+          "m": "Clavo Cañón"
         },
         {
-          "lvl": 34,
-          "m": "Terremoto"
+          "lvl": 33,
+          "m": "Placaje"
         },
         {
-          "lvl": 35,
-          "m": "Puño Trueno"
+          "lvl": 37,
+          "m": "Pulpocañón"
         },
         {
-          "lvl": 40,
-          "m": "Deseo Cura"
-        },
-        {
-          "lvl": 43,
-          "m": "Viento Afín"
+          "lvl": 41,
+          "m": "Follaje"
         },
         {
           "lvl": 45,
-          "m": "Púas"
+          "m": "V de Fuego"
         },
         {
           "lvl": 50,
-          "m": "Sustituto"
-        },
-        {
-          "lvl": 55,
-          "m": "Zumbido"
-        },
-        {
-          "lvl": 60,
-          "m": "Patada Tropical"
+          "m": "Arenas Ardientes"
         }
       ],
-      "firstMoves": [
-        "Lanzarrocas",
-        "Deslome",
-        "Gruñido"
+      "tmMoves": [
+        "Ladrón",
+        "Tajo Metralla"
       ],
-      "spriteKey": "RHYHORN"
+      "firstMoves": [
+        "Golpe Roca",
+        "Polvo Explosivo",
+        "Metrónomo",
+        "Defensa Floral"
+      ],
+      "spriteKey": "TOTODILE"
     }
   ],
   "box": [
@@ -800,6 +813,123 @@
         "Afilagarras"
       ],
       "spriteKey": "FLABEBE"
+    },
+    {
+      "nickname": "Tahm Kench",
+      "species": "Rhyhorn",
+      "level": 9,
+      "types": [
+        "Tierra",
+        "Roca"
+      ],
+      "ability": "Cromolente",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Lanzarrocas",
+        "Deslome",
+        "Gruñido"
+      ],
+      "iv": [
+        19,
+        27,
+        18,
+        26,
+        12,
+        29
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Cromolente",
+        "Coránima"
+      ],
+      "abilHidden": [
+        "Esclusa de Aire"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 1,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 5,
+          "m": "Gruñido"
+        },
+        {
+          "lvl": 10,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 12,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 15,
+          "m": "Envidia ardiente"
+        },
+        {
+          "lvl": 20,
+          "m": "Aromaterapia"
+        },
+        {
+          "lvl": 25,
+          "m": "Nieve Polvo"
+        },
+        {
+          "lvl": 30,
+          "m": "Tragar"
+        },
+        {
+          "lvl": 34,
+          "m": "Terremoto"
+        },
+        {
+          "lvl": 35,
+          "m": "Puño Trueno"
+        },
+        {
+          "lvl": 40,
+          "m": "Deseo Cura"
+        },
+        {
+          "lvl": 43,
+          "m": "Viento Afín"
+        },
+        {
+          "lvl": 45,
+          "m": "Púas"
+        },
+        {
+          "lvl": 50,
+          "m": "Sustituto"
+        },
+        {
+          "lvl": 55,
+          "m": "Zumbido"
+        },
+        {
+          "lvl": 60,
+          "m": "Patada Tropical"
+        }
+      ],
+      "firstMoves": [
+        "Lanzarrocas",
+        "Deslome",
+        "Gruñido"
+      ],
+      "spriteKey": "RHYHORN"
     }
   ],
   "graveyard": [],
@@ -860,15 +990,15 @@
       "mon": "Shelmet"
     },
     {
-      "route": "ruta_2_norte",
-      "where": "Ruta 2 Norte",
-      "species": "Rhyhorn",
-      "nickname": "Tahm Kench",
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Totodile",
+      "nickname": "Milo",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 9,
-      "mon": "Rhyhorn"
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Totodile"
     },
     {
       "route": "bosque_verde",
@@ -880,6 +1010,17 @@
       "category": "salvaje",
       "level": 8,
       "mon": "Flabebe"
+    },
+    {
+      "route": "ruta_2_norte",
+      "where": "Ruta 2 Norte",
+      "species": "Rhyhorn",
+      "nickname": "Tahm Kench",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 9,
+      "mon": "Rhyhorn"
     }
   ],
   "progress": {
@@ -891,8 +1032,9 @@
       "pueblo_paleta": true,
       "ruta_22": true,
       "ruta_2_sur": true,
-      "ruta_2_norte": true,
+      "ciudad_plateada": true,
       "bosque_verde": true,
+      "ruta_2_norte": true,
       "ciudad_verde": true
     },
     "items": {},
@@ -915,6 +1057,9 @@
       69,
       71,
       110,
+      112,
+      113,
+      114,
       176,
       179,
       180,
@@ -925,6 +1070,8 @@
       334
     ],
     "foundItems": [
+      "Activaobjeto",
+      "Baya Ango",
       "Baya Baribá",
       "Baya Lagro",
       "Baya Meloc",
@@ -939,6 +1086,9 @@
       "MT109",
       "MT26",
       "MT83",
+      "MT89",
+      "MT90",
+      "MT92",
       "MT99",
       "Poción",
       "Poké Montura",
@@ -1033,6 +1183,24 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM89",
+        "name": "MT89",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM90",
+        "name": "MT90",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM92",
+        "name": "MT92",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM99",
         "name": "MT99",
         "qty": 1,
@@ -1051,6 +1219,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "MAGOBERRY",
+        "name": "Baya Ango",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "BABIRIBERRY",
         "name": "Baya Baribá",
         "qty": 1,
@@ -1061,6 +1235,12 @@
         "name": "Baya Lagro",
         "qty": 1,
         "pocket": "Bayas"
+      },
+      {
+        "id": "ITEMURGE",
+        "name": "Activaobjeto",
+        "qty": 1,
+        "pocket": "Objetos de combate"
       },
       {
         "id": "RULEBOOK",
@@ -1075,8 +1255,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
