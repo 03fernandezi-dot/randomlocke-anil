@@ -4,20 +4,168 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 3m jugadas · 3,000₽ · vidas en el juego: 30",
-  "team": [],
+  "notes": "Importado del save · 0h 5m jugadas · 3,000₽ · vidas en el juego: 30",
+  "team": [
+    {
+      "nickname": "Bombardero",
+      "species": "Sandile",
+      "level": 5,
+      "types": [
+        "Tierra",
+        "Siniestro"
+      ],
+      "ability": "",
+      "nature": "Alocada",
+      "item": "Precisión X",
+      "shiny": false,
+      "moves": [
+        "Meditación",
+        "Onda Anómala",
+        "Giro Mortífero",
+        "Bola Hielo"
+      ],
+      "iv": [
+        4,
+        7,
+        0,
+        4,
+        18,
+        26
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Cálculo Final",
+        "Presión"
+      ],
+      "abilHidden": [
+        "Cura Lluvia"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Meditación"
+        },
+        {
+          "lvl": 1,
+          "m": "Onda Anómala"
+        },
+        {
+          "lvl": 1,
+          "m": "Giro Mortífero"
+        },
+        {
+          "lvl": 3,
+          "m": "Bola Hielo"
+        },
+        {
+          "lvl": 6,
+          "m": "Bomba Imán"
+        },
+        {
+          "lvl": 9,
+          "m": "Prensa Metálica"
+        },
+        {
+          "lvl": 12,
+          "m": "Danza Lluvia"
+        },
+        {
+          "lvl": 15,
+          "m": "Antiaéreo"
+        },
+        {
+          "lvl": 16,
+          "m": "Canon"
+        },
+        {
+          "lvl": 18,
+          "m": "Fertilizante"
+        },
+        {
+          "lvl": 19,
+          "m": "Agua Fría"
+        },
+        {
+          "lvl": 21,
+          "m": "Onda Simple"
+        },
+        {
+          "lvl": 22,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 24,
+          "m": "Doble Bofetón"
+        },
+        {
+          "lvl": 27,
+          "m": "Pin Misil"
+        },
+        {
+          "lvl": 30,
+          "m": "Bofetón Lodo"
+        },
+        {
+          "lvl": 31,
+          "m": "Avalancha"
+        },
+        {
+          "lvl": 33,
+          "m": "Sofoco"
+        },
+        {
+          "lvl": 36,
+          "m": "Atracción"
+        },
+        {
+          "lvl": 39,
+          "m": "Ataque Óseo"
+        }
+      ],
+      "firstMoves": [
+        "Meditación",
+        "Onda Anómala",
+        "Giro Mortífero",
+        "Bola Hielo"
+      ],
+      "spriteKey": "SANDILE"
+    }
+  ],
   "box": [],
   "graveyard": [],
-  "captures": [],
+  "captures": [
+    {
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Sandile",
+      "nickname": "Bombardero",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Sandile"
+    }
+  ],
   "progress": {
     "gyms": {},
     "bosses": {},
     "npcs": {},
-    "routes": {},
+    "routes": {
+      "pueblo_paleta": true
+    },
     "items": {},
     "encounters": {},
     "switches": [
       48,
+      60,
+      62,
       110,
       176,
       179,
