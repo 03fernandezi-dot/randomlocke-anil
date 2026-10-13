@@ -2,9 +2,9 @@
   "id": "Izan",
   "name": "Izana",
   "lives": 30,
-  "livesUsed": 0,
+  "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 0h 46m jugadas · 500₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 51m jugadas · 500₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Jambo Momo",
@@ -239,117 +239,6 @@
       "spriteKey": "SPINARAK"
     },
     {
-      "nickname": "La Mas Puta",
-      "species": "Kabuto",
-      "level": 4,
-      "types": [
-        "Roca",
-        "Agua"
-      ],
-      "ability": "Perro Guardián",
-      "nature": "Audaz",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Rayo Burbuja",
-        "Pulso de Campo"
-      ],
-      "iv": [
-        30,
-        29,
-        2,
-        31,
-        8,
-        17
-      ],
-      "ev": [
-        0,
-        1,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Perro Guardián",
-        "Alas Vendaval"
-      ],
-      "abilHidden": [
-        "Metal Pesado"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Rayo Burbuja"
-        },
-        {
-          "lvl": 1,
-          "m": "Pulso de Campo"
-        },
-        {
-          "lvl": 5,
-          "m": "Deslumbrar"
-        },
-        {
-          "lvl": 10,
-          "m": "Red Viscosa"
-        },
-        {
-          "lvl": 15,
-          "m": "Torbellino"
-        },
-        {
-          "lvl": 20,
-          "m": "Polvo Ira"
-        },
-        {
-          "lvl": 25,
-          "m": "Estruendo Escama"
-        },
-        {
-          "lvl": 26,
-          "m": "Cura Selvática"
-        },
-        {
-          "lvl": 30,
-          "m": "Doble Ataque"
-        },
-        {
-          "lvl": 35,
-          "m": "Branquibocado"
-        },
-        {
-          "lvl": 41,
-          "m": "Llama Gélida"
-        },
-        {
-          "lvl": 45,
-          "m": "Cascabel Cura"
-        },
-        {
-          "lvl": 50,
-          "m": "Psicoonda"
-        },
-        {
-          "lvl": 51,
-          "m": "Lanzamugre"
-        },
-        {
-          "lvl": 55,
-          "m": "Viento Carámbano"
-        },
-        {
-          "lvl": 60,
-          "m": "Viraje"
-        }
-      ],
-      "firstMoves": [
-        "Rayo Burbuja",
-        "Pulso de Campo"
-      ],
-      "spriteKey": "KABUTO"
-    },
-    {
       "nickname": "Alviiiiiiin",
       "species": "Sentret",
       "level": 2,
@@ -466,7 +355,122 @@
     }
   ],
   "box": [],
-  "graveyard": [],
+  "graveyard": [
+    {
+      "nickname": "La Mas Puta",
+      "species": "Kabuto",
+      "level": 4,
+      "types": [
+        "Roca",
+        "Agua"
+      ],
+      "ability": "Perro Guardián",
+      "nature": "Audaz",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Rayo Burbuja",
+        "Pulso de Campo"
+      ],
+      "iv": [
+        30,
+        29,
+        2,
+        31,
+        8,
+        17
+      ],
+      "ev": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Perro Guardián",
+        "Alas Vendaval"
+      ],
+      "abilHidden": [
+        "Metal Pesado"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Rayo Burbuja"
+        },
+        {
+          "lvl": 1,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 5,
+          "m": "Deslumbrar"
+        },
+        {
+          "lvl": 10,
+          "m": "Red Viscosa"
+        },
+        {
+          "lvl": 15,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": 20,
+          "m": "Polvo Ira"
+        },
+        {
+          "lvl": 25,
+          "m": "Estruendo Escama"
+        },
+        {
+          "lvl": 26,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 30,
+          "m": "Doble Ataque"
+        },
+        {
+          "lvl": 35,
+          "m": "Branquibocado"
+        },
+        {
+          "lvl": 41,
+          "m": "Llama Gélida"
+        },
+        {
+          "lvl": 45,
+          "m": "Cascabel Cura"
+        },
+        {
+          "lvl": 50,
+          "m": "Psicoonda"
+        },
+        {
+          "lvl": 51,
+          "m": "Lanzamugre"
+        },
+        {
+          "lvl": 55,
+          "m": "Viento Carámbano"
+        },
+        {
+          "lvl": 60,
+          "m": "Viraje"
+        }
+      ],
+      "firstMoves": [
+        "Rayo Burbuja",
+        "Pulso de Campo"
+      ],
+      "spriteKey": "KABUTO",
+      "cause": "",
+      "route": "Ciudad Verde",
+      "date": ""
+    }
+  ],
   "captures": [
     {
       "route": "",
@@ -491,17 +495,6 @@
       "mon": "Spinarak"
     },
     {
-      "route": "ciudad_verde",
-      "where": "Ciudad Verde",
-      "species": "Kabuto",
-      "nickname": "La Mas Puta",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 4,
-      "mon": "Kabuto"
-    },
-    {
       "route": "pueblo_paleta",
       "where": "Pueblo Paleta",
       "species": "Sentret",
@@ -511,6 +504,17 @@
       "category": "ciudad",
       "level": 2,
       "mon": "Sentret"
+    },
+    {
+      "route": "ciudad_verde",
+      "where": "Ciudad Verde",
+      "species": "Kabuto",
+      "nickname": "La Mas Puta",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 4,
+      "mon": "Kabuto"
     }
   ],
   "progress": {
@@ -519,14 +523,17 @@
     "npcs": {},
     "routes": {
       "ruta_1": true,
+      "pueblo_paleta": true,
       "ciudad_verde": true,
-      "pueblo_paleta": true
+      "ruta_22": true,
+      "ruta_2_sur": true
     },
     "items": {},
     "encounters": {
       "ruta_1": true,
       "ciudad_verde": true,
-      "pueblo_paleta": true
+      "pueblo_paleta": true,
+      "ruta_22": true
     },
     "switches": [
       48,
@@ -552,7 +559,9 @@
       "Máscara Fuente",
       "Menta Osada",
       "Miniseta",
+      "MT20",
       "MT53",
+      "MT96",
       "MT97",
       "Ocaso Ball",
       "Poké Montura",
@@ -595,7 +604,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 12,
+        "qty": 7,
         "pocket": "Poké Balls"
       },
       {
@@ -617,8 +626,20 @@
         "pocket": "Poké Balls"
       },
       {
+        "id": "TM20",
+        "name": "MT20",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM53",
         "name": "MT53",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM96",
+        "name": "MT96",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -654,6 +675,8 @@
       }
     ]
   },
-  "deathLog": [],
+  "deathLog": [
+    "2958630252"
+  ],
   "revividos": 0
 }
