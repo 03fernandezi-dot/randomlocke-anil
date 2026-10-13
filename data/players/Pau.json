@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 43m jugadas · 160₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 44m jugadas · 160₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Shawn",
@@ -35,7 +35,7 @@
         1,
         2,
         1,
-        0,
+        1,
         0
       ],
       "abilPool": [
@@ -158,7 +158,7 @@
         1,
         1,
         0,
-        0,
+        1,
         0
       ],
       "abilPool": [
@@ -237,7 +237,7 @@
     {
       "nickname": "Cabalasa",
       "species": "Pumpkaboo",
-      "level": 4,
+      "level": 5,
       "types": [
         "Fantasma",
         "Planta"
@@ -264,7 +264,7 @@
         1,
         0,
         0,
-        0,
+        1,
         0
       ],
       "abilPool": [
@@ -345,7 +345,7 @@
     {
       "nickname": "Bicharraco",
       "species": "Golett",
-      "level": 4,
+      "level": 5,
       "types": [
         "Tierra",
         "Fantasma"
@@ -373,7 +373,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ],
       "abilPool": [
@@ -470,6 +470,134 @@
         "Tinieblas"
       ],
       "spriteKey": "GOLETT"
+    },
+    {
+      "nickname": "Calamardo",
+      "species": "Tentacool",
+      "level": 5,
+      "types": [
+        "Agua",
+        "Veneno"
+      ],
+      "ability": "Espada Debacle",
+      "nature": "Dócil",
+      "item": "Lodo Negro",
+      "shiny": false,
+      "moves": [
+        "Púas Tóxicas",
+        "Doble Ataque",
+        "Escupir"
+      ],
+      "iv": [
+        23,
+        9,
+        15,
+        25,
+        27,
+        27
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Espada Debacle",
+        "Pararrayos"
+      ],
+      "abilHidden": [
+        "Unidad Ecuestre"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 1,
+          "m": "Doble Ataque"
+        },
+        {
+          "lvl": 4,
+          "m": "Escupir"
+        },
+        {
+          "lvl": 8,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 8,
+          "m": "Voltiocambio"
+        },
+        {
+          "lvl": 12,
+          "m": "Pedrada"
+        },
+        {
+          "lvl": 15,
+          "m": "Roca Veloz"
+        },
+        {
+          "lvl": 16,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 20,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 24,
+          "m": "Viento Hielo"
+        },
+        {
+          "lvl": 26,
+          "m": "Cuerpo Pesado"
+        },
+        {
+          "lvl": 28,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 29,
+          "m": "Hidropulso"
+        },
+        {
+          "lvl": 32,
+          "m": "Truco Defensa"
+        },
+        {
+          "lvl": 36,
+          "m": "Beso Dulce"
+        },
+        {
+          "lvl": 40,
+          "m": "Rayo Infinito"
+        },
+        {
+          "lvl": 44,
+          "m": "Terratemblor"
+        },
+        {
+          "lvl": 48,
+          "m": "Branquibocado"
+        },
+        {
+          "lvl": 54,
+          "m": "Sylveotornado"
+        }
+      ],
+      "tmMoves": [
+        "Danza Lunar"
+      ],
+      "firstMoves": [
+        "Púas Tóxicas",
+        "Doble Ataque",
+        "Escupir"
+      ],
+      "spriteKey": "TENTACOOL"
     }
   ],
   "box": [],
@@ -518,6 +646,17 @@
       "category": "salvaje",
       "level": 4,
       "mon": "Golett"
+    },
+    {
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Tentacool",
+      "nickname": "Calamardo",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 5,
+      "mon": "Tentacool"
     }
   ],
   "progress": {
@@ -528,6 +667,7 @@
       "ruta_1": true,
       "ciudad_verde": true,
       "ruta_22": true,
+      "ruta_2_sur": true,
       "pueblo_paleta": true
     },
     "items": {},
@@ -535,7 +675,8 @@
       "pueblo_paleta": true,
       "ruta_1": true,
       "ciudad_verde": true,
-      "ruta_22": true
+      "ruta_22": true,
+      "ruta_2_sur": true
     },
     "switches": [
       48,
@@ -561,6 +702,7 @@
       "Baya Aricoc",
       "Botón Escape",
       "Incienso Marino",
+      "Lodo Negro",
       "Lustresfera",
       "Menta Audaz",
       "Menta Huraña",
@@ -650,7 +792,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 7,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
