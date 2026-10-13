@@ -4,154 +4,31 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 44m jugadas · 2,960₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 7m jugadas · 3,000₽ · vidas en el juego: 30",
   "team": [
     {
-      "nickname": "Mariconchi",
-      "species": "Machop",
+      "nickname": "cabron",
+      "species": "Caterpie",
       "level": 5,
       "types": [
-        "Lucha"
+        "Bicho"
       ],
-      "ability": "Competitivo",
-      "nature": "Tímida",
+      "ability": "",
+      "nature": "Alegre",
       "item": "",
       "shiny": false,
       "moves": [
-        "Tóxico",
-        "Sustituto",
-        "Picotazo"
+        "Red Viscosa",
+        "Sellar",
+        "Carámbano"
       ],
       "iv": [
-        13,
-        7,
-        14,
-        17,
+        21,
+        2,
         4,
-        16
-      ],
-      "ev": [
-        0,
-        0,
-        1,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Ímpetu Ardiente",
-        "Competitivo"
-      ],
-      "abilHidden": [
-        "Experto"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Tóxico"
-        },
-        {
-          "lvl": 1,
-          "m": "Sustituto"
-        },
-        {
-          "lvl": 4,
-          "m": "Picotazo"
-        },
-        {
-          "lvl": 8,
-          "m": "Puño Incremento"
-        },
-        {
-          "lvl": 10,
-          "m": "Camaradería"
-        },
-        {
-          "lvl": 12,
-          "m": "Manos Juntas"
-        },
-        {
-          "lvl": 16,
-          "m": "Telépata"
-        },
-        {
-          "lvl": 19,
-          "m": "A Defender"
-        },
-        {
-          "lvl": 20,
-          "m": "Protección"
-        },
-        {
-          "lvl": 24,
-          "m": "Puntapié"
-        },
-        {
-          "lvl": 29,
-          "m": "Espacio Raro"
-        },
-        {
-          "lvl": 32,
-          "m": "Robasombra"
-        },
-        {
-          "lvl": 34,
-          "m": "Patada Relámpago"
-        },
-        {
-          "lvl": 36,
-          "m": "Furia Taurina"
-        },
-        {
-          "lvl": 37,
-          "m": "Tecno Shock"
-        },
-        {
-          "lvl": 40,
-          "m": "Polvo Explosivo"
-        },
-        {
-          "lvl": 44,
-          "m": "Desarme"
-        },
-        {
-          "lvl": 48,
-          "m": "Luna Roja"
-        },
-        {
-          "lvl": 52,
-          "m": "Roca Afilada"
-        }
-      ],
-      "firstMoves": [
-        "Tóxico",
-        "Sustituto",
-        "Picotazo"
-      ],
-      "spriteKey": "MACHOP"
-    },
-    {
-      "nickname": "IceFrioHielo",
-      "species": "Sandshrew",
-      "level": 2,
-      "types": [
-        "Tierra"
-      ],
-      "ability": "Hedor",
-      "nature": "Agitada",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Tajo Metralla",
-        "Neblina"
-      ],
-      "iv": [
-        17,
-        22,
-        29,
-        31,
-        14,
-        31
+        9,
+        20,
+        12
       ],
       "ev": [
         0,
@@ -162,86 +39,31 @@
         0
       ],
       "abilPool": [
-        "Hedor"
+        "Dinamo"
       ],
       "abilHidden": [
-        "Simple"
+        "Manto Níveo"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Tajo Metralla"
+          "m": "Red Viscosa"
         },
         {
           "lvl": 1,
-          "m": "Neblina"
-        },
-        {
-          "lvl": 3,
-          "m": "Legado"
-        },
-        {
-          "lvl": 5,
-          "m": "Electrotela"
-        },
-        {
-          "lvl": 7,
-          "m": "Vaho Gélido"
+          "m": "Sellar"
         },
         {
           "lvl": 9,
-          "m": "Bofetón Lodo"
-        },
-        {
-          "lvl": 11,
-          "m": "Gran Ojo"
-        },
-        {
-          "lvl": 14,
-          "m": "Poder Pasado"
-        },
-        {
-          "lvl": 17,
-          "m": "Pulimento"
-        },
-        {
-          "lvl": 20,
-          "m": "Cede Paso"
-        },
-        {
-          "lvl": 23,
-          "m": "Tumba Rocas"
-        },
-        {
-          "lvl": 26,
-          "m": "Cosquillas"
-        },
-        {
-          "lvl": 30,
-          "m": "Llanto Falso"
-        },
-        {
-          "lvl": 34,
-          "m": "Dracoflechas"
-        },
-        {
-          "lvl": 38,
-          "m": "Onda Mental"
-        },
-        {
-          "lvl": 42,
-          "m": "Remolino"
-        },
-        {
-          "lvl": 46,
-          "m": "Voltio Cruel"
+          "m": "Puño Bala"
         }
       ],
       "firstMoves": [
-        "Tajo Metralla",
-        "Neblina"
+        "Red Viscosa",
+        "Sellar",
+        "Carámbano"
       ],
-      "spriteKey": "SANDSHREW_1"
+      "spriteKey": "CATERPIE"
     }
   ],
   "box": [],
@@ -250,24 +72,13 @@
     {
       "route": "",
       "where": "",
-      "species": "Machop",
-      "nickname": "Mariconchi",
+      "species": "Caterpie",
+      "nickname": "cabron",
       "shiny": false,
       "status": "captured",
       "category": "estatico_regalo",
       "level": 5,
-      "mon": "Machop"
-    },
-    {
-      "route": "",
-      "where": "",
-      "species": "Sandshrew",
-      "nickname": "IceFrioHielo",
-      "shiny": false,
-      "status": "captured",
-      "category": "estatico_regalo",
-      "level": 2,
-      "mon": "Sandshrew"
+      "mon": "Caterpie"
     }
   ],
   "progress": {
@@ -281,11 +92,6 @@
       48,
       61,
       62,
-      63,
-      66,
-      67,
-      68,
-      69,
       110,
       176,
       179,
@@ -294,82 +100,22 @@
       182,
       183,
       323,
-      339
+      334
     ],
     "foundItems": [
-      "Blanco",
-      "Menta Amable",
-      "Miniseta",
-      "Poké Montura",
-      "Reglamento",
-      "Revivir",
-      "Supercaña",
-      "Vial"
+      "Real Oro",
+      "Reglamento"
     ],
     "bag": [
       {
-        "id": "RINGTARGET",
-        "name": "Blanco",
+        "id": "RELICGOLD",
+        "name": "Real Oro",
         "qty": 1,
         "pocket": "Objetos"
-      },
-      {
-        "id": "TINYMUSHROOM",
-        "name": "Miniseta",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "GENTLEMINT",
-        "name": "Menta Amable",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "REVIVE",
-        "name": "Revivir",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "POTION",
-        "name": "Poción",
-        "qty": 2,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "POKEBALL",
-        "name": "Poké Ball",
-        "qty": 4,
-        "pocket": "Poké Balls"
-      },
-      {
-        "id": "GREATBALL",
-        "name": "Super Ball",
-        "qty": 10,
-        "pocket": "Poké Balls"
       },
       {
         "id": "RULEBOOK",
         "name": "Reglamento",
-        "qty": 1,
-        "pocket": "Objetos clave"
-      },
-      {
-        "id": "SUPERROD",
-        "name": "Supercaña",
-        "qty": 1,
-        "pocket": "Objetos clave"
-      },
-      {
-        "id": "VIAL",
-        "name": "Vial",
-        "qty": 1,
-        "pocket": "Objetos clave"
-      },
-      {
-        "id": "POKERIDER",
-        "name": "Poké Montura",
         "qty": 1,
         "pocket": "Objetos clave"
       }
