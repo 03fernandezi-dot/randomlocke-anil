@@ -21,6 +21,11 @@
       "id": "Pau",
       "name": "Pau",
       "avatar": "assets/avatars/blue.png"
+    },
+    {
+      "id": "Uri",
+      "name": "Uri",
+      "avatar": "assets/avatars/ethan.png"
     }
   ],
   "_avatarsDisponibles": [
