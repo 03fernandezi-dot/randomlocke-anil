@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 52m jugadas · 860₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 56m jugadas · 860₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Shawn",
@@ -15,13 +15,13 @@
       ],
       "ability": "Despiste",
       "nature": "Serena",
-      "item": "Incienso Marino",
+      "item": "",
       "shiny": false,
       "moves": [
         "Tajo Acuático",
         "Viento Aciago",
         "Deslome",
-        "Aura Magnética"
+        "Camelo"
       ],
       "iv": [
         10,
@@ -141,7 +141,7 @@
       "item": "",
       "shiny": false,
       "moves": [
-        "Tajo Acuático",
+        "Amnesia",
         "Poder Pasado",
         "Estrujón",
         "Fotosíntesis"
@@ -354,7 +354,7 @@
       ],
       "ability": "Piel Seca",
       "nature": "Firme",
-      "item": "",
+      "item": "Incienso Marino",
       "shiny": false,
       "moves": [
         "Tenaza",
