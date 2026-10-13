@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 13m jugadas · 2,960₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 49m jugadas · 2,960₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Bombardero",
@@ -158,10 +158,13 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "pueblo_paleta": true
+      "pueblo_paleta": true,
+      "ruta_1": true
     },
     "items": {},
-    "encounters": {},
+    "encounters": {
+      "ruta_1": true
+    },
     "switches": [
       48,
       60,
@@ -181,9 +184,16 @@
     ],
     "foundItems": [
       "Baya Caquic",
+      "Ensueño Ball",
       "Reglamento"
     ],
     "bag": [
+      {
+        "id": "DREAMBALL",
+        "name": "Ensueño Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
       {
         "id": "PERSIMBERRY",
         "name": "Baya Caquic",
