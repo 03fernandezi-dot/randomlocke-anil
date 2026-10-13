@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 28m jugadas · 3,500₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 39m jugadas · 100₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Izan",
       "species": "Mudkip",
-      "level": 5,
+      "level": 8,
       "types": [
         "Agua"
       ],
@@ -19,7 +19,9 @@
       "shiny": false,
       "moves": [
         "Cepo",
-        "Burbuja"
+        "Burbuja",
+        "Tajo Metralla",
+        "Tenaza"
       ],
       "iv": [
         27,
@@ -30,12 +32,12 @@
         29
       ],
       "ev": [
+        2,
+        0,
+        1,
         1,
         0,
-        0,
-        0,
-        0,
-        0
+        1
       ],
       "abilPool": [
         "Alma Acerada"
@@ -121,11 +123,446 @@
           "m": "Camaradería"
         }
       ],
+      "tmMoves": [
+        "Poder Pasado",
+        "Tajo Metralla"
+      ],
       "firstMoves": [
         "Cepo",
         "Burbuja"
       ],
       "spriteKey": "MUDKIP"
+    },
+    {
+      "nickname": "Bonifacio",
+      "species": "Cherubi",
+      "level": 7,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Piel Tétrica",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Bruma Explosiva",
+        "Giro Fuego",
+        "Bomba Ácida",
+        "Tajo Metralla"
+      ],
+      "iv": [
+        13,
+        12,
+        16,
+        0,
+        20,
+        6
+      ],
+      "ev": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "abilPool": [
+        "Piel Tétrica"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Bruma Explosiva"
+        },
+        {
+          "lvl": 1,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 5,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 10,
+          "m": "Hierba Lazo"
+        },
+        {
+          "lvl": 15,
+          "m": "Fijar Blanco"
+        },
+        {
+          "lvl": 20,
+          "m": "Descanso"
+        },
+        {
+          "lvl": 22,
+          "m": "Sonámbulo"
+        },
+        {
+          "lvl": 26,
+          "m": "Imitación"
+        },
+        {
+          "lvl": 30,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 35,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 40,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 40,
+          "m": "Llama Final"
+        },
+        {
+          "lvl": 45,
+          "m": "Acua Cola"
+        }
+      ],
+      "tmMoves": [
+        "Tajo Metralla"
+      ],
+      "firstMoves": [
+        "Bruma Explosiva",
+        "Giro Fuego",
+        "Bomba Ácida"
+      ],
+      "spriteKey": "CHERUBI"
+    },
+    {
+      "nickname": "Pau",
+      "species": "Bidoof",
+      "level": 7,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Unidad Ecuestre",
+      "nature": "Amable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Viento Plata",
+        "Pulso de Campo",
+        "Doble Equipo"
+      ],
+      "iv": [
+        19,
+        23,
+        8,
+        18,
+        3,
+        24
+      ],
+      "ev": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "abilPool": [
+        "Unidad Ecuestre",
+        "Escudo Recio"
+      ],
+      "abilHidden": [
+        "Latido Oricalco"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Viento Plata"
+        },
+        {
+          "lvl": 1,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 5,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 9,
+          "m": "Falso Tortazo"
+        },
+        {
+          "lvl": 13,
+          "m": "Marcha Espectral"
+        },
+        {
+          "lvl": 17,
+          "m": "Poder Pasado"
+        },
+        {
+          "lvl": 21,
+          "m": "Alivio"
+        },
+        {
+          "lvl": 21,
+          "m": "Vasta Guardia"
+        },
+        {
+          "lvl": 25,
+          "m": "Placaje"
+        },
+        {
+          "lvl": 29,
+          "m": "Plegaria Vital"
+        },
+        {
+          "lvl": 33,
+          "m": "Celebración"
+        },
+        {
+          "lvl": 37,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 41,
+          "m": "Reducción"
+        },
+        {
+          "lvl": 45,
+          "m": "Mimético"
+        },
+        {
+          "lvl": 49,
+          "m": "Sustituto"
+        }
+      ],
+      "firstMoves": [
+        "Viento Plata",
+        "Pulso de Campo",
+        "Doble Equipo"
+      ],
+      "spriteKey": "BIDOOF"
+    },
+    {
+      "nickname": "Samuel",
+      "species": "Diglett",
+      "level": 6,
+      "types": [
+        "Tierra"
+      ],
+      "ability": "Mudar",
+      "nature": "Ingenua",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Divide Dolor",
+        "Bastión Final",
+        "Recogearena",
+        "Roca Veloz"
+      ],
+      "iv": [
+        18,
+        17,
+        1,
+        8,
+        3,
+        7
+      ],
+      "ev": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Cuerpo Llama",
+        "Mudar"
+      ],
+      "abilHidden": [
+        "Sobrecarga"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Divide Dolor"
+        },
+        {
+          "lvl": 1,
+          "m": "Bastión Final"
+        },
+        {
+          "lvl": 4,
+          "m": "Recogearena"
+        },
+        {
+          "lvl": 8,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 12,
+          "m": "Fisura"
+        },
+        {
+          "lvl": 15,
+          "m": "Día Soleado"
+        },
+        {
+          "lvl": 16,
+          "m": "Ayuda"
+        },
+        {
+          "lvl": 20,
+          "m": "Puño Incremento"
+        },
+        {
+          "lvl": 24,
+          "m": "Anticura"
+        },
+        {
+          "lvl": 26,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 28,
+          "m": "Manto Espejo"
+        },
+        {
+          "lvl": 32,
+          "m": "Polvo Veneno"
+        },
+        {
+          "lvl": 36,
+          "m": "Rayo Confuso"
+        },
+        {
+          "lvl": 40,
+          "m": "Bola Voltio"
+        },
+        {
+          "lvl": 44,
+          "m": "Bucle Arena"
+        }
+      ],
+      "firstMoves": [
+        "Divide Dolor",
+        "Bastión Final",
+        "Recogearena",
+        "Roca Veloz"
+      ],
+      "spriteKey": "DIGLETT"
+    },
+    {
+      "nickname": "Calaca",
+      "species": "Shelmet",
+      "level": 6,
+      "types": [
+        "Bicho"
+      ],
+      "ability": "Aura Feérica",
+      "nature": "Grosera",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cuerno Certero",
+        "A Defender",
+        "Rencor"
+      ],
+      "iv": [
+        1,
+        25,
+        20,
+        29,
+        29,
+        26
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Aura Feérica",
+        "Coraza Ira"
+      ],
+      "abilHidden": [
+        "Puño Invisible"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 1,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 4,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 8,
+          "m": "Mil Púas Tóxicas"
+        },
+        {
+          "lvl": 8,
+          "m": "Pin Misil"
+        },
+        {
+          "lvl": 12,
+          "m": "Telatrampa"
+        },
+        {
+          "lvl": 16,
+          "m": "Golpe Cabeza"
+        },
+        {
+          "lvl": 20,
+          "m": "Rodillo de Púas"
+        },
+        {
+          "lvl": 24,
+          "m": "Aligerar"
+        },
+        {
+          "lvl": 28,
+          "m": "Brinco"
+        },
+        {
+          "lvl": 32,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 36,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 40,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 44,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 48,
+          "m": "Bola Sombra"
+        },
+        {
+          "lvl": 56,
+          "m": "Ovocuración"
+        }
+      ],
+      "firstMoves": [
+        "Cuerno Certero",
+        "A Defender",
+        "Rencor"
+      ],
+      "spriteKey": "SHELMET"
     }
   ],
   "box": [],
@@ -141,6 +578,50 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Mudkip"
+    },
+    {
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Cherubi",
+      "nickname": "Bonifacio",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 5,
+      "mon": "Cherubi"
+    },
+    {
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Bidoof",
+      "nickname": "Pau",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 5,
+      "mon": "Bidoof"
+    },
+    {
+      "route": "ruta_22",
+      "where": "Ruta 22",
+      "species": "Diglett",
+      "nickname": "Samuel",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Diglett"
+    },
+    {
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Shelmet",
+      "nickname": "Calaca",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Shelmet"
     }
   ],
   "progress": {
@@ -148,10 +629,19 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "pueblo_paleta": true
+      "ruta_1": true,
+      "pueblo_paleta": true,
+      "ruta_22": true,
+      "ruta_2_sur": true,
+      "ciudad_verde": true
     },
     "items": {},
-    "encounters": {},
+    "encounters": {
+      "ruta_1": true,
+      "pueblo_paleta": true,
+      "ruta_22": true,
+      "ruta_2_sur": true
+    },
     "switches": [
       48,
       60,
@@ -159,6 +649,8 @@
       63,
       66,
       67,
+      68,
+      69,
       110,
       176,
       179,
@@ -170,15 +662,40 @@
       334
     ],
     "foundItems": [
+      "Baya Baribá",
+      "Baya Lagro",
+      "Gema Eléctrica",
       "Gema Fantasma",
+      "Menta Agitada",
       "Menta Osada",
+      "Miniseta",
+      "MT06",
+      "MT109",
+      "MT26",
+      "MT83",
       "MT99",
-      "Reglamento"
+      "Poké Montura",
+      "Radar",
+      "Reglamento",
+      "Supercaña",
+      "Vial"
     ],
     "bag": [
       {
         "id": "GHOSTGEM",
         "name": "Gema Fantasma",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "TINYMUSHROOM",
+        "name": "Miniseta",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ELECTRICGEM",
+        "name": "Gema Eléctrica",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -189,14 +706,104 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "IMPISHMINT",
+        "name": "Menta Agitada",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "POTION",
+        "name": "Poción",
+        "qty": 2,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "RARECANDY",
+        "name": "Caramelo Raro",
+        "qty": 196,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "GREATBALL",
+        "name": "Super Ball",
+        "qty": 11,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "POKEBALL",
+        "name": "Poké Ball",
+        "qty": 8,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM06",
+        "name": "MT06",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM26",
+        "name": "MT26",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM83",
+        "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM99",
         "name": "MT99",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM109",
+        "name": "MT109",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "BABIRIBERRY",
+        "name": "Baya Baribá",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "MICLEBERRY",
+        "name": "Baya Lagro",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "SUPERROD",
+        "name": "Supercaña",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "VIAL",
+        "name": "Vial",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "POKERIDER",
+        "name": "Poké Montura",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "RADAR",
+        "name": "Radar",
         "qty": 1,
         "pocket": "Objetos clave"
       }
