@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 44m jugadas · 160₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 52m jugadas · 860₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Shawn",
       "species": "Mareep",
-      "level": 7,
+      "level": 9,
       "types": [
         "Eléctrico"
       ],
@@ -20,7 +20,8 @@
       "moves": [
         "Tajo Acuático",
         "Viento Aciago",
-        "Deslome"
+        "Deslome",
+        "Aura Magnética"
       ],
       "iv": [
         10,
@@ -31,10 +32,10 @@
         19
       ],
       "ev": [
-        0,
         1,
         2,
-        1,
+        2,
+        2,
         1,
         0
       ],
@@ -131,7 +132,7 @@
     {
       "nickname": "Partyfiesta",
       "species": "Hatenna",
-      "level": 5,
+      "level": 7,
       "types": [
         "Psíquico"
       ],
@@ -154,10 +155,10 @@
         19
       ],
       "ev": [
-        0,
+        1,
+        2,
         1,
         1,
-        0,
         1,
         0
       ],
@@ -237,7 +238,7 @@
     {
       "nickname": "Cabalasa",
       "species": "Pumpkaboo",
-      "level": 5,
+      "level": 7,
       "types": [
         "Fantasma",
         "Planta"
@@ -248,8 +249,9 @@
       "shiny": false,
       "moves": [
         "Psicocorte",
+        "Barrera",
         "Telépata",
-        "Barrera"
+        "Tormenta Arena"
       ],
       "iv": [
         2,
@@ -260,10 +262,10 @@
         9
       ],
       "ev": [
+        1,
+        2,
         0,
         1,
-        0,
-        0,
         1,
         0
       ],
@@ -345,7 +347,7 @@
     {
       "nickname": "Bicharraco",
       "species": "Golett",
-      "level": 5,
+      "level": 7,
       "types": [
         "Tierra",
         "Fantasma"
@@ -369,10 +371,10 @@
         27
       ],
       "ev": [
+        1,
+        1,
         0,
-        0,
-        0,
-        0,
+        1,
         1,
         0
       ],
@@ -474,7 +476,7 @@
     {
       "nickname": "Calamardo",
       "species": "Tentacool",
-      "level": 5,
+      "level": 7,
       "types": [
         "Agua",
         "Veneno"
@@ -497,10 +499,10 @@
         27
       ],
       "ev": [
+        1,
+        1,
         0,
-        0,
-        0,
-        0,
+        1,
         0,
         0
       ],
@@ -598,6 +600,63 @@
         "Escupir"
       ],
       "spriteKey": "TENTACOOL"
+    },
+    {
+      "nickname": "Mariposon",
+      "species": "Caterpie",
+      "level": 7,
+      "types": [
+        "Bicho"
+      ],
+      "ability": "Cola Armadura",
+      "nature": "Huraña",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Doble Ataque",
+        "Doble Bofetón"
+      ],
+      "iv": [
+        9,
+        8,
+        24,
+        20,
+        18,
+        19
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Cola Armadura"
+      ],
+      "abilHidden": [
+        "Clorofila"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Doble Ataque"
+        },
+        {
+          "lvl": 1,
+          "m": "Doble Bofetón"
+        },
+        {
+          "lvl": 9,
+          "m": "Vendetta"
+        }
+      ],
+      "firstMoves": [
+        "Doble Ataque",
+        "Doble Bofetón"
+      ],
+      "spriteKey": "CATERPIE"
     }
   ],
   "box": [],
@@ -657,6 +716,17 @@
       "category": "salvaje",
       "level": 5,
       "mon": "Tentacool"
+    },
+    {
+      "route": "bosque_verde",
+      "where": "Bosque Verde",
+      "species": "Caterpie",
+      "nickname": "Mariposon",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 7,
+      "mon": "Caterpie"
     }
   ],
   "progress": {
@@ -668,6 +738,7 @@
       "ciudad_verde": true,
       "ruta_22": true,
       "ruta_2_sur": true,
+      "bosque_verde": true,
       "pueblo_paleta": true
     },
     "items": {},
@@ -676,7 +747,8 @@
       "ruta_1": true,
       "ciudad_verde": true,
       "ruta_22": true,
-      "ruta_2_sur": true
+      "ruta_2_sur": true,
+      "bosque_verde": true
     },
     "switches": [
       48,
@@ -687,6 +759,7 @@
       67,
       68,
       69,
+      71,
       110,
       176,
       179,
@@ -700,6 +773,7 @@
     "foundItems": [
       "Baya Algama",
       "Baya Aricoc",
+      "Baya Grana",
       "Botón Escape",
       "Incienso Marino",
       "Lodo Negro",
@@ -762,7 +836,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 997,
+        "qty": 993,
         "pocket": "Medicinas"
       },
       {
@@ -792,13 +866,13 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 6,
+        "qty": 5,
         "pocket": "Poké Balls"
       },
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 5,
+        "qty": 2,
         "pocket": "Poké Balls"
       },
       {
@@ -812,6 +886,12 @@
         "name": "MT86",
         "qty": 1,
         "pocket": "MTs y MOs"
+      },
+      {
+        "id": "POMEGBERRY",
+        "name": "Baya Grana",
+        "qty": 1,
+        "pocket": "Bayas"
       },
       {
         "id": "KELPSYBERRY",
