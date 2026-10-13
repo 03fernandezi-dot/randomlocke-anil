@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 14m jugadas · 3,000₽ · vidas en el juego: ?",
+  "notes": "Importado del save · 0h 21m jugadas · 2,960₽ · vidas en el juego: ?",
   "team": [
     {
       "nickname": "Mariconchi",
@@ -13,7 +13,7 @@
       "types": [
         "Lucha"
       ],
-      "ability": "",
+      "ability": "Competitivo",
       "nature": "Tímida",
       "item": "",
       "shiny": false,
@@ -157,6 +157,9 @@
       48,
       61,
       62,
+      63,
+      66,
+      67,
       110,
       176,
       179,
