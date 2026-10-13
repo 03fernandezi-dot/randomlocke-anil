@@ -2,10 +2,249 @@
   "id": "Izan",
   "name": "Mariconchi",
   "lives": 30,
-  "livesUsed": 0,
+  "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 0h 49m jugadas · 2,960₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 1h 4m jugadas · 2,960₽ · vidas en el juego: 29",
   "team": [
+    {
+      "nickname": "Espía",
+      "species": "Pidove",
+      "level": 5,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Metal Liviano",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cuchillada",
+        "Refuerzo",
+        "Pulso de Campo"
+      ],
+      "iv": [
+        6,
+        11,
+        2,
+        21,
+        2,
+        21
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "abilPool": [
+        "Metal Liviano"
+      ],
+      "abilHidden": [
+        "Piel Seca"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cuchillada"
+        },
+        {
+          "lvl": 1,
+          "m": "Refuerzo"
+        },
+        {
+          "lvl": 4,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 8,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 12,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 13,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 16,
+          "m": "Aguzar"
+        },
+        {
+          "lvl": 20,
+          "m": "Gravedad"
+        },
+        {
+          "lvl": 24,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 28,
+          "m": "Persecución"
+        },
+        {
+          "lvl": 32,
+          "m": "Paga Extra"
+        },
+        {
+          "lvl": 32,
+          "m": "Salazón"
+        },
+        {
+          "lvl": 36,
+          "m": "Golpe Cuerpo"
+        },
+        {
+          "lvl": 40,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 43,
+          "m": "Amplificador"
+        },
+        {
+          "lvl": 44,
+          "m": "Adaptación"
+        }
+      ],
+      "firstMoves": [
+        "Cuchillada",
+        "Refuerzo",
+        "Pulso de Campo"
+      ],
+      "spriteKey": "PIDOVE"
+    },
+    {
+      "nickname": "GoticaCulona",
+      "species": "Gothita",
+      "level": 5,
+      "types": [
+        "Psíquico"
+      ],
+      "ability": "Corrosión",
+      "nature": "Grosera",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Ronquido",
+        "Tragar",
+        "Ataque Óseo"
+      ],
+      "iv": [
+        31,
+        16,
+        13,
+        6,
+        30,
+        11
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Corrosión",
+        "Escudo Magma"
+      ],
+      "abilHidden": [
+        "Piel Seca"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Ronquido"
+        },
+        {
+          "lvl": 1,
+          "m": "Tragar"
+        },
+        {
+          "lvl": 4,
+          "m": "Ataque Óseo"
+        },
+        {
+          "lvl": 8,
+          "m": "Chispa"
+        },
+        {
+          "lvl": 12,
+          "m": "Paliza"
+        },
+        {
+          "lvl": 14,
+          "m": "Shuriken de Agua"
+        },
+        {
+          "lvl": 16,
+          "m": "Extracto Picante"
+        },
+        {
+          "lvl": 19,
+          "m": "Gravedad"
+        },
+        {
+          "lvl": 20,
+          "m": "Otra Vez"
+        },
+        {
+          "lvl": 24,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 24,
+          "m": "Psicocambio"
+        },
+        {
+          "lvl": 28,
+          "m": "Hueso Palo"
+        },
+        {
+          "lvl": 33,
+          "m": "Psicoataque"
+        },
+        {
+          "lvl": 33,
+          "m": "Proliferación"
+        },
+        {
+          "lvl": 36,
+          "m": "Anclaje"
+        },
+        {
+          "lvl": 40,
+          "m": "Campo Psíquico"
+        },
+        {
+          "lvl": 40,
+          "m": "Concha Filo"
+        },
+        {
+          "lvl": 44,
+          "m": "Furia Candente"
+        },
+        {
+          "lvl": 48,
+          "m": "Joltioparálisis"
+        }
+      ],
+      "firstMoves": [
+        "Ronquido",
+        "Tragar",
+        "Ataque Óseo"
+      ],
+      "spriteKey": "GOTHITA"
+    }
+  ],
+  "box": [],
+  "graveyard": [
     {
       "nickname": "Bombardero",
       "species": "Sandile",
@@ -34,7 +273,7 @@
       ],
       "ev": [
         0,
-        0,
+        1,
         0,
         0,
         0,
@@ -135,19 +374,42 @@
         "Giro Mortífero",
         "Bola Hielo"
       ],
-      "spriteKey": "SANDILE"
+      "spriteKey": "SANDILE",
+      "cause": "",
+      "route": "Laboratorio",
+      "date": ""
     }
   ],
-  "box": [],
-  "graveyard": [],
   "captures": [
+    {
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Pidove",
+      "nickname": "Espía",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 4,
+      "mon": "Pidove"
+    },
+    {
+      "route": "ciudad_verde",
+      "where": "Ciudad Verde",
+      "species": "Gothita",
+      "nickname": "GoticaCulona",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 5,
+      "mon": "Gothita"
+    },
     {
       "route": "",
       "where": "Laboratorio",
       "species": "Sandile",
       "nickname": "Bombardero",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Sandile"
@@ -159,11 +421,14 @@
     "npcs": {},
     "routes": {
       "pueblo_paleta": true,
+      "ciudad_verde": true,
       "ruta_1": true
     },
     "items": {},
     "encounters": {
-      "ruta_1": true
+      "ruta_1": true,
+      "pueblo_paleta": true,
+      "ciudad_verde": true
     },
     "switches": [
       48,
@@ -172,6 +437,8 @@
       63,
       66,
       67,
+      68,
+      69,
       110,
       176,
       179,
@@ -184,14 +451,56 @@
     ],
     "foundItems": [
       "Baya Caquic",
+      "Bola de Humo",
       "Ensueño Ball",
-      "Reglamento"
+      "Hierba Única",
+      "Miniseta",
+      "Poké Montura",
+      "Reglamento",
+      "Supercaña",
+      "Vial"
     ],
     "bag": [
+      {
+        "id": "SMOKEBALL",
+        "name": "Bola de Humo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "TINYMUSHROOM",
+        "name": "Miniseta",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "POWERHERB",
+        "name": "Hierba Única",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "POTION",
+        "name": "Poción",
+        "qty": 2,
+        "pocket": "Medicinas"
+      },
       {
         "id": "DREAMBALL",
         "name": "Ensueño Ball",
         "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "POKEBALL",
+        "name": "Poké Ball",
+        "qty": 4,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "GREATBALL",
+        "name": "Super Ball",
+        "qty": 7,
         "pocket": "Poké Balls"
       },
       {
@@ -205,13 +514,32 @@
         "name": "Reglamento",
         "qty": 1,
         "pocket": "Objetos clave"
+      },
+      {
+        "id": "VIAL",
+        "name": "Vial",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "POKERIDER",
+        "name": "Poké Montura",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "SUPERROD",
+        "name": "Supercaña",
+        "qty": 1,
+        "pocket": "Objetos clave"
       }
     ]
   },
   "deathLog": [
     "2958630252",
     "1527282694",
-    "3835983897"
+    "3835983897",
+    "3786647394"
   ],
   "revividos": 3
 }
