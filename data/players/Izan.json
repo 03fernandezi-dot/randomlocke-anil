@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 46m jugadas · 110₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 2h 1m jugadas · 2,610₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Espía",
@@ -35,8 +35,8 @@
       "ev": [
         3,
         3,
+        4,
         3,
-        2,
         5,
         3
       ],
@@ -150,8 +150,8 @@
       "ev": [
         3,
         3,
+        4,
         3,
-        2,
         4,
         3
       ],
@@ -279,8 +279,8 @@
       "ev": [
         3,
         3,
-        3,
-        1,
+        4,
+        2,
         4,
         3
       ],
@@ -374,7 +374,7 @@
     {
       "nickname": "Ramirez",
       "species": "Rattata (Alola)",
-      "level": 10,
+      "level": 11,
       "types": [
         "Siniestro",
         "Normal"
@@ -400,8 +400,8 @@
       "ev": [
         3,
         3,
-        3,
-        1,
+        4,
+        2,
         4,
         2
       ],
@@ -490,14 +490,14 @@
     {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 10,
+      "level": 11,
       "types": [
         "Acero",
         "Fantasma"
       ],
       "ability": "Insomnio",
       "nature": "Pícara",
-      "item": "",
+      "item": "Baya Caoca",
       "shiny": false,
       "moves": [
         "Eco Metálico",
@@ -516,8 +516,8 @@
       "ev": [
         3,
         3,
-        1,
-        1,
+        2,
+        2,
         2,
         2
       ],
@@ -596,6 +596,68 @@
       "spriteKey": "HONEDGE"
     },
     {
+      "nickname": "MECAGOENTODO",
+      "species": "Metapod",
+      "level": 10,
+      "types": [
+        "Bicho"
+      ],
+      "ability": "Aura Oscura",
+      "nature": "Agitada",
+      "item": "Ataque X 6",
+      "shiny": false,
+      "moves": [
+        "Púas",
+        "Ofrenda",
+        "Finta"
+      ],
+      "iv": [
+        31,
+        1,
+        8,
+        25,
+        9,
+        10
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Aura Oscura"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Púas"
+        },
+        {
+          "lvl": 9,
+          "m": "Ofrenda"
+        },
+        {
+          "lvl": 15,
+          "m": "Legado"
+        }
+      ],
+      "tmMoves": [
+        "Beso Dulce"
+      ],
+      "firstMoves": [
+        "Púas",
+        "Ofrenda",
+        "Finta"
+      ],
+      "spriteKey": "METAPOD"
+    }
+  ],
+  "box": [
+    {
       "nickname": "Nemo",
       "species": "Goldeen",
       "level": 11,
@@ -623,8 +685,8 @@
       "ev": [
         0,
         0,
-        0,
-        0,
+        1,
+        1,
         0,
         0
       ],
@@ -693,6 +755,9 @@
           "m": "Danza Lunar"
         }
       ],
+      "tmMoves": [
+        "Calamidad"
+      ],
       "firstMoves": [
         "Isofuerza",
         "Meteorobola",
@@ -702,7 +767,6 @@
       "spriteKey": "GOLDEEN"
     }
   ],
-  "box": [],
   "graveyard": [
     {
       "nickname": "Bombardero",
@@ -898,13 +962,13 @@
     {
       "route": "ciudad_plateada",
       "where": "Ciudad Plateada",
-      "species": "Goldeen",
-      "nickname": "Nemo",
+      "species": "Metapod",
+      "nickname": "MECAGOENTODO",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
-      "level": 11,
-      "mon": "Goldeen"
+      "level": 10,
+      "mon": "Metapod"
     },
     {
       "route": "",
@@ -916,6 +980,17 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Sandile"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Goldeen",
+      "nickname": "Nemo",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 11,
+      "mon": "Goldeen"
     }
   ],
   "progress": {
@@ -954,6 +1029,9 @@
       69,
       71,
       110,
+      112,
+      113,
+      114,
       176,
       179,
       180,
@@ -965,23 +1043,31 @@
     ],
     "foundItems": [
       "Agua Mística",
+      "Baya Caoca",
       "Baya Caquic",
       "Baya Meloc",
       "Bola de Humo",
+      "Cola Plúmbea",
       "Ensueño Ball",
       "Gema Fantasma",
       "Gema Planta",
       "Gran Lustresfera",
       "Hierba Única",
       "Mejora",
+      "Menta Miedosa",
       "Miniseta",
+      "MT104",
       "MT111",
+      "MT114",
+      "MT27",
       "MT47",
       "MT71",
       "MT83",
       "MT89",
       "MT94",
       "Poké Montura",
+      "Porcehelado",
+      "Precisión X 3",
       "Reglamento",
       "Supercaña",
       "Tabla Helada",
@@ -1051,6 +1137,24 @@
         "pocket": "Objetos"
       },
       {
+        "id": "LAGGINGTAIL",
+        "name": "Cola Plúmbea",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "TIMIDMINT",
+        "name": "Menta Miedosa",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "CASTELIACONE",
+        "name": "Porcehelado",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 6,
@@ -1061,6 +1165,12 @@
         "name": "Poké Ball",
         "qty": 1,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM27",
+        "name": "MT27",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "TM47",
@@ -1093,8 +1203,20 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM104",
+        "name": "MT104",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM111",
         "name": "MT111",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM114",
+        "name": "MT114",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -1115,6 +1237,12 @@
         "name": "Baya Chilan",
         "qty": 1,
         "pocket": "Bayas"
+      },
+      {
+        "id": "XACCURACY3",
+        "name": "Precisión X 3",
+        "qty": 1,
+        "pocket": "Objetos de combate"
       },
       {
         "id": "RULEBOOK",
