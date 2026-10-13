@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 4m jugadas · 2,960₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 8m jugadas · 2,960₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Espía",
       "species": "Pidove",
-      "level": 5,
+      "level": 7,
       "types": [
         "Normal",
         "Volador"
@@ -35,7 +35,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1,
         0
       ],
@@ -121,7 +121,7 @@
     {
       "nickname": "GoticaCulona",
       "species": "Gothita",
-      "level": 5,
+      "level": 6,
       "types": [
         "Psíquico"
       ],
@@ -146,7 +146,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0
       ],
@@ -241,6 +241,125 @@
         "Ataque Óseo"
       ],
       "spriteKey": "GOTHITA"
+    },
+    {
+      "nickname": "Princesita",
+      "species": "Popplio",
+      "level": 6,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Iceberg",
+      "nature": "Serena",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Agua Fría",
+        "Barrera",
+        "Copión"
+      ],
+      "iv": [
+        0,
+        5,
+        13,
+        1,
+        1,
+        6
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Iceberg"
+      ],
+      "abilHidden": [
+        "Inflamable"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Agua Fría"
+        },
+        {
+          "lvl": 1,
+          "m": "Barrera"
+        },
+        {
+          "lvl": 6,
+          "m": "Copión"
+        },
+        {
+          "lvl": 7,
+          "m": "Polvo Mágico"
+        },
+        {
+          "lvl": 9,
+          "m": "Voz Cautivadora"
+        },
+        {
+          "lvl": 11,
+          "m": "Embargo"
+        },
+        {
+          "lvl": 12,
+          "m": "Pesadilla"
+        },
+        {
+          "lvl": 15,
+          "m": "Cambio de Banda"
+        },
+        {
+          "lvl": 18,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 21,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 24,
+          "m": "Agitacola"
+        },
+        {
+          "lvl": 27,
+          "m": "Defensa Férrea"
+        },
+        {
+          "lvl": 29,
+          "m": "Limpieza General"
+        },
+        {
+          "lvl": 30,
+          "m": "Gas Venenoso"
+        },
+        {
+          "lvl": 33,
+          "m": "Garra Nociva"
+        },
+        {
+          "lvl": 36,
+          "m": "Retribución"
+        },
+        {
+          "lvl": 39,
+          "m": "Rueda Fuego"
+        },
+        {
+          "lvl": 46,
+          "m": "Búnker"
+        }
+      ],
+      "firstMoves": [
+        "Agua Fría",
+        "Barrera",
+        "Copión"
+      ],
+      "spriteKey": "POPPLIO"
     }
   ],
   "box": [],
@@ -404,6 +523,17 @@
       "mon": "Gothita"
     },
     {
+      "route": "ruta_22",
+      "where": "Ruta 22",
+      "species": "Popplio",
+      "nickname": "Princesita",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Popplio"
+    },
+    {
       "route": "",
       "where": "Laboratorio",
       "species": "Sandile",
@@ -422,13 +552,15 @@
     "routes": {
       "pueblo_paleta": true,
       "ciudad_verde": true,
+      "ruta_22": true,
       "ruta_1": true
     },
     "items": {},
     "encounters": {
       "ruta_1": true,
       "pueblo_paleta": true,
-      "ciudad_verde": true
+      "ciudad_verde": true,
+      "ruta_22": true
     },
     "switches": [
       48,
@@ -500,7 +632,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 7,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
