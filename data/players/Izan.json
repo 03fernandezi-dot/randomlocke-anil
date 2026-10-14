@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 4h 7m jugadas · 15,840₽ · vidas en el juego: 25",
+  "notes": "Importado del save · 4h 8m jugadas · 15,840₽ · vidas en el juego: 25",
   "team": [
     {
       "nickname": "Princesita",
@@ -602,6 +602,100 @@
         "Respiro"
       ],
       "spriteKey": "TADBULB"
+    },
+    {
+      "nickname": "Marilus",
+      "species": "Azurill",
+      "level": 1,
+      "types": [
+        "Normal",
+        "Hada"
+      ],
+      "ability": "Raíz robusta",
+      "nature": "Modesta",
+      "item": "Mochi Intelecto",
+      "shiny": false,
+      "moves": [
+        "Constricción",
+        "Red Viscosa",
+        "Yo Primero",
+        "Rugido"
+      ],
+      "iv": [
+        13,
+        20,
+        6,
+        25,
+        15,
+        15
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Raíz robusta",
+        "Pareja de Baile"
+      ],
+      "abilHidden": [
+        "Compensación"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Constricción"
+        },
+        {
+          "lvl": 1,
+          "m": "Red Viscosa"
+        },
+        {
+          "lvl": 1,
+          "m": "Yo Primero"
+        },
+        {
+          "lvl": 1,
+          "m": "Rugido"
+        },
+        {
+          "lvl": 3,
+          "m": "Castigo"
+        },
+        {
+          "lvl": 5,
+          "m": "Beso Drenaje"
+        },
+        {
+          "lvl": 6,
+          "m": "Cascabel Cura"
+        },
+        {
+          "lvl": 9,
+          "m": "Voz Cautivadora"
+        },
+        {
+          "lvl": 12,
+          "m": "Aromaterapia"
+        },
+        {
+          "lvl": 15,
+          "m": "Tajo Acuático"
+        }
+      ],
+      "tmMoves": [
+        "Danza Lunar"
+      ],
+      "firstMoves": [
+        "Constricción",
+        "Red Viscosa",
+        "Yo Primero",
+        "Rugido"
+      ],
+      "spriteKey": "AZURILL"
     }
   ],
   "box": [
@@ -1480,6 +1574,17 @@
       "mon": "Tadbulb"
     },
     {
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Azurill",
+      "nickname": "Marilus",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Azurill"
+    },
+    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Morelull",
@@ -1608,6 +1713,7 @@
       113,
       114,
       121,
+      171,
       176,
       179,
       180,
@@ -1758,12 +1864,6 @@
       {
         "id": "QUICKCLAW",
         "name": "Garra Rápida",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "HELIXFOSSIL",
-        "name": "Fósil Hélix",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -1948,8 +2048,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
