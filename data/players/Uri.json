@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 23m jugadas · 6,510₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 29m jugadas · 610₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Izan",
@@ -36,8 +36,8 @@
         6,
         7,
         8,
-        5,
-        6
+        6,
+        7
       ],
       "abilPool": [
         "Alma Acerada"
@@ -136,7 +136,7 @@
     {
       "nickname": "Bonifacio",
       "species": "Cherubi",
-      "level": 14,
+      "level": 15,
       "types": [
         "Planta"
       ],
@@ -163,8 +163,8 @@
         6,
         7,
         7,
-        5,
-        6
+        6,
+        7
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -238,12 +238,13 @@
     },
     {
       "nickname": "Pau",
-      "species": "Bidoof",
-      "level": 14,
+      "species": "Bibarel",
+      "level": 15,
       "types": [
-        "Normal"
+        "Normal",
+        "Agua"
       ],
-      "ability": "Unidad Ecuestre",
+      "ability": "Irascible",
       "nature": "Amable",
       "item": "",
       "shiny": false,
@@ -266,92 +267,97 @@
         6,
         7,
         7,
-        5,
-        6
+        6,
+        7
       ],
       "abilPool": [
-        "Unidad Ecuestre",
-        "Escudo Recio"
+        "Irascible",
+        "Cola Armadura"
       ],
       "abilHidden": [
-        "Latido Oricalco"
+        "Mutatipo"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Viento Plata"
+          "m": "Sellar"
         },
         {
           "lvl": 1,
-          "m": "Pulso de Campo"
+          "m": "Beso Dulce"
+        },
+        {
+          "lvl": 1,
+          "m": "Barrera"
+        },
+        {
+          "lvl": 1,
+          "m": "Rompecoraza"
         },
         {
           "lvl": 5,
-          "m": "Doble Equipo"
+          "m": "Reflejo"
         },
         {
           "lvl": 9,
-          "m": "Falso Tortazo"
+          "m": "Eco Voz"
         },
         {
           "lvl": 13,
-          "m": "Marcha Espectral"
+          "m": "Furia"
         },
         {
-          "lvl": 17,
-          "m": "Poder Pasado"
+          "lvl": 18,
+          "m": "Asalto Barrera"
         },
         {
-          "lvl": 21,
-          "m": "Alivio"
+          "lvl": 23,
+          "m": "Bola Voltio"
         },
         {
-          "lvl": 21,
-          "m": "Vasta Guardia"
+          "lvl": 23,
+          "m": "Envidia ardiente"
         },
         {
-          "lvl": 25,
-          "m": "Placaje"
-        },
-        {
-          "lvl": 29,
-          "m": "Plegaria Vital"
+          "lvl": 28,
+          "m": "Nitrocarga"
         },
         {
           "lvl": 33,
-          "m": "Celebración"
+          "m": "Brecha Negra"
         },
         {
-          "lvl": 37,
-          "m": "Niebla Clara"
+          "lvl": 38,
+          "m": "Fortaleza"
         },
         {
-          "lvl": 41,
-          "m": "Reducción"
+          "lvl": 43,
+          "m": "Hilo Venenoso"
         },
         {
-          "lvl": 45,
-          "m": "Mimético"
+          "lvl": 48,
+          "m": "Esfuerzo"
         },
         {
-          "lvl": 49,
-          "m": "Sustituto"
+          "lvl": 53,
+          "m": "Leafitobombas"
+        },
+        {
+          "lvl": 58,
+          "m": "Arremetida"
         }
-      ],
-      "tmMoves": [
-        "Venganza"
       ],
       "firstMoves": [
         "Viento Plata",
         "Pulso de Campo",
         "Doble Equipo"
       ],
-      "spriteKey": "BIDOOF"
+      "spriteKey": "BIBAREL"
     },
     {
       "nickname": "Calaca",
       "species": "Shelmet",
-      "level": 14,
+      "level": 15,
       "types": [
         "Bicho"
       ],
@@ -378,8 +384,8 @@
         6,
         6,
         7,
-        5,
-        5
+        6,
+        6
       ],
       "abilPool": [
         "Aura Feérica",
@@ -491,8 +497,8 @@
         2,
         2,
         4,
-        4,
-        3
+        5,
+        4
       ],
       "abilPool": [
         "Recogebolas"
@@ -589,7 +595,7 @@
     {
       "nickname": "Petunia",
       "species": "Flabebe",
-      "level": 13,
+      "level": 14,
       "types": [
         "Hada"
       ],
@@ -616,8 +622,8 @@
         6,
         6,
         1,
-        3,
-        4
+        4,
+        5
       ],
       "abilPool": [
         "Anticipación"
@@ -695,6 +701,9 @@
           "m": "Láser Veleidoso"
         }
       ],
+      "tmMoves": [
+        "Hidrochorro"
+      ],
       "firstMoves": [
         "Rodar",
         "Llanto Falso",
@@ -704,6 +713,130 @@
     }
   ],
   "box": [
+    {
+      "nickname": "Matao",
+      "species": "Swirlix",
+      "level": 5,
+      "types": [
+        "Hada"
+      ],
+      "ability": "",
+      "nature": "Fuerte",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Corte",
+        "Impactrueno",
+        "Buena Baza"
+      ],
+      "iv": [
+        25,
+        15,
+        5,
+        10,
+        26,
+        31
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Cura Lluvia",
+        "Mar del Albor"
+      ],
+      "abilHidden": [
+        "Justiciero"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Corte"
+        },
+        {
+          "lvl": 1,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 3,
+          "m": "Buena Baza"
+        },
+        {
+          "lvl": 6,
+          "m": "Batido"
+        },
+        {
+          "lvl": 8,
+          "m": "Represión Metal"
+        },
+        {
+          "lvl": 9,
+          "m": "Decoración"
+        },
+        {
+          "lvl": 12,
+          "m": "Beso Drenaje"
+        },
+        {
+          "lvl": 15,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 18,
+          "m": "Onda Simple"
+        },
+        {
+          "lvl": 21,
+          "m": "Golpe Rastrero"
+        },
+        {
+          "lvl": 24,
+          "m": "Aullido"
+        },
+        {
+          "lvl": 27,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 30,
+          "m": "Golpe Kárate"
+        },
+        {
+          "lvl": 33,
+          "m": "Plancha"
+        },
+        {
+          "lvl": 36,
+          "m": "Luz Aniquiladora"
+        },
+        {
+          "lvl": 38,
+          "m": "Canto Encantador"
+        },
+        {
+          "lvl": 39,
+          "m": "Carantoña"
+        },
+        {
+          "lvl": 58,
+          "m": "Cuchillada"
+        },
+        {
+          "lvl": 67,
+          "m": "Purificación"
+        }
+      ],
+      "firstMoves": [
+        "Corte",
+        "Impactrueno",
+        "Buena Baza"
+      ],
+      "spriteKey": "SWIRLIX"
+    },
     {
       "nickname": "Tahm Kench",
       "species": "Rhyhorn",
@@ -925,6 +1058,107 @@
         "Mimético"
       ],
       "spriteKey": "SKWOVET"
+    },
+    {
+      "nickname": "Gustav",
+      "species": "Sobble",
+      "level": 14,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Sal Purificadora",
+      "nature": "Serena",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Meditación",
+        "Conversión2",
+        "Paliza",
+        "Pisotón"
+      ],
+      "iv": [
+        17,
+        5,
+        26,
+        8,
+        30,
+        13
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Sal Purificadora"
+      ],
+      "abilHidden": [
+        "Absorbe Fuego"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Golpes Furia"
+        },
+        {
+          "lvl": 1,
+          "m": "Meditación"
+        },
+        {
+          "lvl": 6,
+          "m": "Conversión2"
+        },
+        {
+          "lvl": 8,
+          "m": "Paliza"
+        },
+        {
+          "lvl": 12,
+          "m": "Pisotón"
+        },
+        {
+          "lvl": 17,
+          "m": "Pistola Agua"
+        },
+        {
+          "lvl": 17,
+          "m": "Embargo"
+        },
+        {
+          "lvl": 20,
+          "m": "Agarrón"
+        },
+        {
+          "lvl": 24,
+          "m": "Rugido"
+        },
+        {
+          "lvl": 28,
+          "m": "Salmuera"
+        },
+        {
+          "lvl": 28,
+          "m": "Viento Afín"
+        },
+        {
+          "lvl": 32,
+          "m": "Viento Aciago"
+        },
+        {
+          "lvl": 36,
+          "m": "Clemencia"
+        }
+      ],
+      "firstMoves": [
+        "Meditación",
+        "Conversión2",
+        "Paliza",
+        "Pisotón"
+      ],
+      "spriteKey": "SOBBLE"
     }
   ],
   "graveyard": [
@@ -1068,13 +1302,13 @@
     {
       "route": "pueblo_paleta",
       "where": "Pueblo Paleta",
-      "species": "Bidoof",
+      "species": "Bibarel",
       "nickname": "Pau",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
       "level": 5,
-      "mon": "Bidoof"
+      "mon": "Bibarel"
     },
     {
       "route": "ruta_2_sur",
@@ -1110,6 +1344,17 @@
       "mon": "Flabebe"
     },
     {
+      "route": "",
+      "where": "Centro Pokémon",
+      "species": "Swirlix",
+      "nickname": "Matao",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Swirlix"
+    },
+    {
       "route": "ruta_2_norte",
       "where": "Ruta 2 Norte",
       "species": "Rhyhorn",
@@ -1130,6 +1375,17 @@
       "category": "ciudad",
       "level": 11,
       "mon": "Skwovet"
+    },
+    {
+      "route": "monte_moon",
+      "where": "Monte Moon",
+      "species": "Sobble",
+      "nickname": "Gustav",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 14,
+      "mon": "Sobble"
     },
     {
       "route": "ruta_22",
@@ -1156,6 +1412,7 @@
       "ciudad_plateada": true,
       "bosque_verde": true,
       "ruta_2_norte": true,
+      "monte_moon": true,
       "ruta_22": true,
       "ciudad_verde": true,
       "ruta_3": true
@@ -1169,7 +1426,8 @@
       "bosque_verde": true,
       "ruta_2_norte": true,
       "ciudad_plateada": true,
-      "ruta_3": true
+      "ruta_3": true,
+      "monte_moon": true
     },
     "switches": [
       48,
@@ -1202,6 +1460,7 @@
       "Baya Baribá",
       "Baya Lagro",
       "Baya Meloc",
+      "Bola de Nieve",
       "Bola Luminosa",
       "Cenizas Sagradas",
       "Gema Eléctrica",
@@ -1283,6 +1542,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "SNOWBALL",
+        "name": "Bola de Nieve",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "RELICGOLD",
+        "name": "Real Oro",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "BOLDMINT",
         "name": "Menta Osada",
         "qty": 1,
@@ -1321,18 +1592,24 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 13,
+        "qty": 14,
         "pocket": "Poké Balls"
       },
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 4,
+        "qty": 18,
         "pocket": "Poké Balls"
       },
       {
         "id": "REPEATBALL",
         "name": "Acopio Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "PREMIERBALL",
+        "name": "Honor Ball",
         "qty": 1,
         "pocket": "Poké Balls"
       },
@@ -1439,8 +1716,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
