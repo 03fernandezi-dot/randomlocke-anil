@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 1m jugadas · 1,160₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 10m jugadas · 160₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Calamardo",
       "species": "Tentacool",
-      "level": 8,
+      "level": 10,
       "types": [
         "Agua",
         "Veneno"
@@ -33,12 +33,12 @@
         27
       ],
       "ev": [
+        3,
         1,
-        1,
+        2,
+        6,
         0,
-        4,
-        0,
-        0
+        1
       ],
       "abilPool": [
         "Espada Debacle",
@@ -138,7 +138,7 @@
     {
       "nickname": "Cabalasa",
       "species": "Pumpkaboo",
-      "level": 8,
+      "level": 10,
       "types": [
         "Fantasma",
         "Planta"
@@ -162,12 +162,12 @@
         9
       ],
       "ev": [
-        1,
+        3,
         2,
-        0,
-        4,
+        2,
+        6,
         1,
-        0
+        1
       ],
       "abilPool": [
         "Aura Feérica",
@@ -247,7 +247,7 @@
     {
       "nickname": "Bicharraco",
       "species": "Golett",
-      "level": 8,
+      "level": 10,
       "types": [
         "Tierra",
         "Fantasma"
@@ -260,7 +260,7 @@
         "Tenaza",
         "Colmillo Veneno",
         "Tinieblas",
-        "Homenaje Póstumo"
+        "Estrujón"
       ],
       "iv": [
         25,
@@ -271,12 +271,12 @@
         27
       ],
       "ev": [
+        3,
         1,
+        2,
+        6,
         1,
-        0,
-        4,
-        1,
-        0
+        1
       ],
       "abilPool": [
         "Primer Auxilio",
@@ -376,7 +376,7 @@
     {
       "nickname": "Shawn",
       "species": "Mareep",
-      "level": 9,
+      "level": 11,
       "types": [
         "Eléctrico"
       ],
@@ -388,7 +388,7 @@
         "Tajo Acuático",
         "Viento Aciago",
         "Deslome",
-        "Camelo"
+        "Levitón"
       ],
       "iv": [
         10,
@@ -399,12 +399,12 @@
         19
       ],
       "ev": [
-        1,
+        3,
         2,
-        2,
-        5,
+        4,
+        7,
         1,
-        0
+        1
       ],
       "abilPool": [
         "Despiste"
@@ -498,18 +498,20 @@
     },
     {
       "nickname": "Mariposon",
-      "species": "Caterpie",
-      "level": 7,
+      "species": "Metapod",
+      "level": 10,
       "types": [
         "Bicho"
       ],
-      "ability": "Cola Armadura",
+      "ability": "Unísono",
       "nature": "Huraña",
       "item": "",
       "shiny": false,
       "moves": [
         "Doble Ataque",
-        "Doble Bofetón"
+        "Doble Bofetón",
+        "Vendetta",
+        "Viraje"
       ],
       "iv": [
         9,
@@ -520,38 +522,91 @@
         19
       ],
       "ev": [
+        2,
         0,
+        2,
+        5,
         0,
-        0,
-        3,
-        0,
-        0
+        1
       ],
       "abilPool": [
-        "Cola Armadura"
+        "Unísono"
       ],
-      "abilHidden": [
-        "Clorofila"
-      ],
+      "abilHidden": [],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Doble Ataque"
-        },
-        {
-          "lvl": 1,
-          "m": "Doble Bofetón"
+          "m": "Danza Lunar"
         },
         {
           "lvl": 9,
-          "m": "Vendetta"
+          "m": "Viraje"
+        },
+        {
+          "lvl": 15,
+          "m": "Eco Voz"
         }
+      ],
+      "tmMoves": [
+        "Camelo"
       ],
       "firstMoves": [
         "Doble Ataque",
         "Doble Bofetón"
       ],
-      "spriteKey": "CATERPIE"
+      "spriteKey": "METAPOD"
+    },
+    {
+      "nickname": "Capullazo",
+      "species": "Spewpa",
+      "level": 9,
+      "types": [
+        "Bicho"
+      ],
+      "ability": "Cortante",
+      "nature": "Activa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Aguijón Letal"
+      ],
+      "iv": [
+        2,
+        11,
+        9,
+        8,
+        2,
+        13
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Cortante",
+        "Ignífugo"
+      ],
+      "abilHidden": [
+        "Pareja de Baile"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Rueda Fuego"
+        },
+        {
+          "lvl": 1,
+          "m": "Aguijón Letal"
+        }
+      ],
+      "firstMoves": [
+        "Aguijón Letal"
+      ],
+      "spriteKey": "SPEWPA_17"
     }
   ],
   "box": [],
@@ -679,17 +734,6 @@
       "mon": "Tentacool"
     },
     {
-      "route": "ruta_1",
-      "where": "Ruta 1",
-      "species": "Hatenna",
-      "nickname": "Partyfiesta",
-      "shiny": false,
-      "status": "dead",
-      "category": "salvaje",
-      "level": 3,
-      "mon": "Hatenna"
-    },
-    {
       "route": "ciudad_verde",
       "where": "Ciudad Verde",
       "species": "Pumpkaboo",
@@ -725,13 +769,35 @@
     {
       "route": "bosque_verde",
       "where": "Bosque Verde",
-      "species": "Caterpie",
+      "species": "Metapod",
       "nickname": "Mariposon",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 7,
-      "mon": "Caterpie"
+      "mon": "Metapod"
+    },
+    {
+      "route": "ruta_2_norte",
+      "where": "Ruta 2 Norte",
+      "species": "Spewpa",
+      "nickname": "Capullazo",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 9,
+      "mon": "Spewpa"
+    },
+    {
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Hatenna",
+      "nickname": "Partyfiesta",
+      "shiny": false,
+      "status": "dead",
+      "category": "salvaje",
+      "level": 3,
+      "mon": "Hatenna"
     }
   ],
   "progress": {
@@ -740,11 +806,13 @@
     "npcs": {},
     "routes": {
       "ruta_2_sur": true,
-      "ruta_1": true,
       "ciudad_verde": true,
       "ruta_22": true,
       "bosque_verde": true,
-      "pueblo_paleta": true
+      "ruta_2_norte": true,
+      "ruta_1": true,
+      "pueblo_paleta": true,
+      "ciudad_plateada": true
     },
     "items": {},
     "encounters": {
@@ -753,7 +821,8 @@
       "ciudad_verde": true,
       "ruta_22": true,
       "ruta_2_sur": true,
-      "bosque_verde": true
+      "bosque_verde": true,
+      "ruta_2_norte": true
     },
     "switches": [
       48,
@@ -766,6 +835,7 @@
       69,
       71,
       110,
+      112,
       176,
       179,
       180,
@@ -784,12 +854,14 @@
       "Incienso Marino",
       "Lodo Negro",
       "Lustresfera",
+      "Manuscrito Sombras",
       "Menta Audaz",
       "Menta Huraña",
       "Miniseta",
       "MT83",
       "MT86",
       "Poké Montura",
+      "Rapid Ball",
       "Reglamento",
       "Scapsula",
       "Servicio Raro",
@@ -829,6 +901,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "SCROLLOFDARKNESS",
+        "name": "Manuscrito Sombras",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "LONELYMINT",
         "name": "Menta Huraña",
         "qty": 1,
@@ -849,7 +927,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 993,
+        "qty": 988,
         "pocket": "Medicinas"
       },
       {
@@ -879,13 +957,19 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 5,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 2,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "FASTBALL",
+        "name": "Rapid Ball",
+        "qty": 1,
         "pocket": "Poké Balls"
       },
       {
