@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 9,
   "champion": false,
-  "notes": "Importado del save · 7h 37m jugadas · 84,060₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 7h 44m jugadas · 87,060₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Princesita",
       "species": "Brionne",
-      "level": 28,
+      "level": 29,
       "types": [
         "Agua"
       ],
@@ -33,8 +33,8 @@
       ],
       "ev": [
         33,
-        29,
-        32,
+        30,
+        33,
         13,
         20,
         30
@@ -169,8 +169,8 @@
       ],
       "ev": [
         34,
-        30,
         31,
+        32,
         13,
         18,
         31
@@ -285,8 +285,8 @@
       ],
       "ev": [
         18,
-        24,
-        26,
+        25,
+        27,
         10,
         12,
         23
@@ -377,159 +377,6 @@
       "spriteKey": "TADBULB"
     },
     {
-      "nickname": "MECAGOENTODO",
-      "species": "Butterfree",
-      "level": 28,
-      "types": [
-        "Bicho",
-        "Volador"
-      ],
-      "ability": "Sebo",
-      "nature": "Agitada",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Púas",
-        "Estoicismo",
-        "Finta",
-        "Aire Afilado"
-      ],
-      "iv": [
-        31,
-        1,
-        8,
-        25,
-        9,
-        10
-      ],
-      "ev": [
-        12,
-        8,
-        5,
-        0,
-        2,
-        9
-      ],
-      "abilPool": [
-        "Sebo"
-      ],
-      "abilHidden": [
-        "Polvo Escudo"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Estoicismo"
-        },
-        {
-          "lvl": 1,
-          "m": "Punzada Rama"
-        },
-        {
-          "lvl": 1,
-          "m": "Drenadoras"
-        },
-        {
-          "lvl": 1,
-          "m": "Agilidad"
-        },
-        {
-          "lvl": 1,
-          "m": "Atiborramiento"
-        },
-        {
-          "lvl": 4,
-          "m": "Confidencia"
-        },
-        {
-          "lvl": 8,
-          "m": "Esquema"
-        },
-        {
-          "lvl": 12,
-          "m": "Paz Mental"
-        },
-        {
-          "lvl": 12,
-          "m": "Doble Ataque"
-        },
-        {
-          "lvl": 12,
-          "m": "Recogearena"
-        },
-        {
-          "lvl": 16,
-          "m": "Polvo Veneno"
-        },
-        {
-          "lvl": 20,
-          "m": "Aire Afilado"
-        },
-        {
-          "lvl": 21,
-          "m": "Ácido"
-        },
-        {
-          "lvl": 24,
-          "m": "Púas Tóxicas"
-        },
-        {
-          "lvl": 26,
-          "m": "Agarre"
-        },
-        {
-          "lvl": 28,
-          "m": "Cura Selvática"
-        },
-        {
-          "lvl": 32,
-          "m": "Escudo Tatami"
-        },
-        {
-          "lvl": 36,
-          "m": "Cañón Dinamax"
-        },
-        {
-          "lvl": 40,
-          "m": "Tajo Metralla"
-        },
-        {
-          "lvl": 40,
-          "m": "Ultrapuño"
-        },
-        {
-          "lvl": 44,
-          "m": "Garra Metal"
-        }
-      ],
-      "tmMoves": [
-        "Aguante",
-        "Beso Dulce",
-        "Bloqueo",
-        "Brecha Negra",
-        "Calamidad",
-        "Cambiaalmas",
-        "Cambiafuerza",
-        "Campo Eléctrico",
-        "Carámbano",
-        "Cascabel Cura",
-        "Detección",
-        "Gruñido",
-        "Hipnosis",
-        "Limpieza General",
-        "Onda Voltio",
-        "Reciclaje",
-        "Remolino",
-        "Robo"
-      ],
-      "firstMoves": [
-        "Púas",
-        "Ofrenda",
-        "Finta"
-      ],
-      "spriteKey": "BUTTERFREE"
-    },
-    {
       "nickname": "Bonsai",
       "species": "Sudowoodo",
       "level": 28,
@@ -556,8 +403,8 @@
       ],
       "ev": [
         1,
-        7,
-        2,
+        8,
+        3,
         0,
         0,
         3
@@ -682,7 +529,7 @@
     {
       "nickname": "Perro Sanche",
       "species": "Granbull",
-      "level": 23,
+      "level": 24,
       "types": [
         "Hada"
       ],
@@ -706,8 +553,8 @@
       ],
       "ev": [
         0,
+        3,
         2,
-        1,
         0,
         0,
         0
@@ -819,6 +666,119 @@
         "Destello"
       ],
       "spriteKey": "GRANBULL"
+    },
+    {
+      "nickname": "No Es Vini",
+      "species": "Grookey",
+      "level": 33,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Escama Especial",
+      "nature": "Alocada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Venganza",
+        "Búnker",
+        "Enrosque",
+        "Tormenta Floral"
+      ],
+      "iv": [
+        28,
+        24,
+        29,
+        29,
+        0,
+        21
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Escama Especial"
+      ],
+      "abilHidden": [
+        "Allanamiento"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Destello"
+        },
+        {
+          "lvl": 1,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 6,
+          "m": "Mal de Ojo"
+        },
+        {
+          "lvl": 7,
+          "m": "Intercambio"
+        },
+        {
+          "lvl": 8,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 12,
+          "m": "Mandato"
+        },
+        {
+          "lvl": 17,
+          "m": "Deslumbrar"
+        },
+        {
+          "lvl": 20,
+          "m": "Venganza"
+        },
+        {
+          "lvl": 24,
+          "m": "Búnker"
+        },
+        {
+          "lvl": 28,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 32,
+          "m": "Tormenta Floral"
+        },
+        {
+          "lvl": 36,
+          "m": "Pikatormenta"
+        }
+      ],
+      "tmMoves": [
+        "Beso Dulce",
+        "Bloqueo",
+        "Brecha Negra",
+        "Cambiaalmas",
+        "Campo Eléctrico",
+        "Detección",
+        "Divide Dolor",
+        "Gruñido",
+        "Hipnosis",
+        "Kinético",
+        "Limpieza General",
+        "Onda Voltio",
+        "Remolino",
+        "Restricción"
+      ],
+      "firstMoves": [
+        "Venganza",
+        "Búnker",
+        "Enrosque",
+        "Tormenta Floral"
+      ],
+      "spriteKey": "GROOKEY"
     }
   ],
   "box": [
@@ -1420,6 +1380,159 @@
         "Ojitos Tiernos"
       ],
       "spriteKey": "BIBAREL"
+    },
+    {
+      "nickname": "MECAGOENTODO",
+      "species": "Butterfree",
+      "level": 28,
+      "types": [
+        "Bicho",
+        "Volador"
+      ],
+      "ability": "Sebo",
+      "nature": "Agitada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Púas",
+        "Estoicismo",
+        "Finta",
+        "Aire Afilado"
+      ],
+      "iv": [
+        31,
+        1,
+        8,
+        25,
+        9,
+        10
+      ],
+      "ev": [
+        12,
+        9,
+        6,
+        0,
+        2,
+        9
+      ],
+      "abilPool": [
+        "Sebo"
+      ],
+      "abilHidden": [
+        "Polvo Escudo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Estoicismo"
+        },
+        {
+          "lvl": 1,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 1,
+          "m": "Drenadoras"
+        },
+        {
+          "lvl": 1,
+          "m": "Agilidad"
+        },
+        {
+          "lvl": 1,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 4,
+          "m": "Confidencia"
+        },
+        {
+          "lvl": 8,
+          "m": "Esquema"
+        },
+        {
+          "lvl": 12,
+          "m": "Paz Mental"
+        },
+        {
+          "lvl": 12,
+          "m": "Doble Ataque"
+        },
+        {
+          "lvl": 12,
+          "m": "Recogearena"
+        },
+        {
+          "lvl": 16,
+          "m": "Polvo Veneno"
+        },
+        {
+          "lvl": 20,
+          "m": "Aire Afilado"
+        },
+        {
+          "lvl": 21,
+          "m": "Ácido"
+        },
+        {
+          "lvl": 24,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 26,
+          "m": "Agarre"
+        },
+        {
+          "lvl": 28,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 32,
+          "m": "Escudo Tatami"
+        },
+        {
+          "lvl": 36,
+          "m": "Cañón Dinamax"
+        },
+        {
+          "lvl": 40,
+          "m": "Tajo Metralla"
+        },
+        {
+          "lvl": 40,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 44,
+          "m": "Garra Metal"
+        }
+      ],
+      "tmMoves": [
+        "Aguante",
+        "Beso Dulce",
+        "Bloqueo",
+        "Brecha Negra",
+        "Calamidad",
+        "Cambiaalmas",
+        "Cambiafuerza",
+        "Campo Eléctrico",
+        "Carámbano",
+        "Cascabel Cura",
+        "Detección",
+        "Gruñido",
+        "Hipnosis",
+        "Limpieza General",
+        "Onda Voltio",
+        "Reciclaje",
+        "Remolino",
+        "Robo"
+      ],
+      "firstMoves": [
+        "Púas",
+        "Ofrenda",
+        "Finta"
+      ],
+      "spriteKey": "BUTTERFREE"
     }
   ],
   "graveyard": [
@@ -2592,17 +2705,6 @@
       "mon": "Tadbulb"
     },
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Butterfree",
-      "nickname": "MECAGOENTODO",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 10,
-      "mon": "Butterfree"
-    },
-    {
       "route": "ruta_5",
       "where": "Ruta 5",
       "species": "Sudowoodo",
@@ -2623,6 +2725,17 @@
       "category": "salvaje",
       "level": 23,
       "mon": "Granbull"
+    },
+    {
+      "route": "ruta_12",
+      "where": "Ruta 12",
+      "species": "Grookey",
+      "nickname": "No Es Vini",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 33,
+      "mon": "Grookey"
     },
     {
       "route": "monte_moon_exterior",
@@ -2777,6 +2890,17 @@
       "category": "salvaje",
       "level": 17,
       "mon": "Bibarel"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Butterfree",
+      "nickname": "MECAGOENTODO",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Butterfree"
     }
   ],
   "progress": {
@@ -2790,9 +2914,9 @@
     "routes": {
       "ruta_22": true,
       "bosque_verde": true,
-      "ciudad_plateada": true,
       "ruta_5": true,
       "ruta_15": true,
+      "ruta_12": true,
       "monte_moon_exterior": true,
       "monte_moon": true,
       "ciudad_celeste": true,
@@ -2802,6 +2926,7 @@
       "pueblo_paleta": true,
       "ruta_20": true,
       "ciudad_carmin": true,
+      "ciudad_plateada": true,
       "ruta_4": true,
       "ruta_1": true,
       "ruta_2_norte": true,
@@ -2828,7 +2953,8 @@
       "ruta_5": true,
       "ruta_6": true,
       "ciudad_carmin": true,
-      "ruta_15": true
+      "ruta_15": true,
+      "ruta_12": true
     },
     "switches": [
       48,
@@ -2885,6 +3011,7 @@
       "Baya Caquic",
       "Baya Kouba",
       "Baya Meloc",
+      "Baya Ziuela",
       "Bici",
       "Bola de Humo",
       "Bola Férrea",
@@ -2970,6 +3097,7 @@
       "Tabla Legendaria",
       "Tabla Linfa",
       "Ticket Barco",
+      "Vcapsula",
       "Vial"
     ],
     "bag": [
@@ -3190,9 +3318,15 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "VCapsula",
+        "name": "Vcapsula",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 10,
+        "qty": 8,
         "pocket": "Poké Balls"
       },
       {
@@ -3402,6 +3536,12 @@
       {
         "id": "PERSIMBERRY",
         "name": "Baya Caquic",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "LUMBERRY",
+        "name": "Baya Ziuela",
         "qty": 1,
         "pocket": "Bayas"
       },
