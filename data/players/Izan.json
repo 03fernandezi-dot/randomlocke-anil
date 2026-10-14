@@ -2,135 +2,14 @@
   "id": "Izan",
   "name": "Mariconchi",
   "lives": 30,
-  "livesUsed": 2,
+  "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 3h 17m jugadas · 3,560₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 3h 27m jugadas · 7,160₽ · vidas en el juego: 26",
   "team": [
-    {
-      "nickname": "Espía",
-      "species": "Pidove",
-      "level": 16,
-      "types": [
-        "Normal",
-        "Volador"
-      ],
-      "ability": "Metal Liviano",
-      "nature": "Modesta",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Cuchillada",
-        "Nitrocarga",
-        "Aguzar",
-        "Beso Dulce"
-      ],
-      "iv": [
-        6,
-        11,
-        2,
-        21,
-        2,
-        21
-      ],
-      "ev": [
-        14,
-        5,
-        7,
-        3,
-        7,
-        9
-      ],
-      "abilPool": [
-        "Metal Liviano"
-      ],
-      "abilHidden": [
-        "Piel Seca"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Cuchillada"
-        },
-        {
-          "lvl": 1,
-          "m": "Refuerzo"
-        },
-        {
-          "lvl": 4,
-          "m": "Pulso de Campo"
-        },
-        {
-          "lvl": 8,
-          "m": "Nitrocarga"
-        },
-        {
-          "lvl": 12,
-          "m": "Avivar"
-        },
-        {
-          "lvl": 13,
-          "m": "Rayo Carga"
-        },
-        {
-          "lvl": 16,
-          "m": "Aguzar"
-        },
-        {
-          "lvl": 20,
-          "m": "Gravedad"
-        },
-        {
-          "lvl": 24,
-          "m": "Ultrapuño"
-        },
-        {
-          "lvl": 28,
-          "m": "Persecución"
-        },
-        {
-          "lvl": 32,
-          "m": "Paga Extra"
-        },
-        {
-          "lvl": 32,
-          "m": "Salazón"
-        },
-        {
-          "lvl": 36,
-          "m": "Golpe Cuerpo"
-        },
-        {
-          "lvl": 40,
-          "m": "Bomba Fango"
-        },
-        {
-          "lvl": 43,
-          "m": "Amplificador"
-        },
-        {
-          "lvl": 44,
-          "m": "Adaptación"
-        }
-      ],
-      "tmMoves": [
-        "Beso Dulce",
-        "Colmillo Ígneo",
-        "Danza Lunar",
-        "Onda Vacío",
-        "Restricción",
-        "Robo"
-      ],
-      "firstMoves": [
-        "Cuchillada",
-        "Refuerzo",
-        "Pulso de Campo"
-      ],
-      "spriteKey": "PIDOVE"
-    },
     {
       "nickname": "GoticaCulona",
       "species": "Gothita",
-      "level": 16,
+      "level": 17,
       "types": [
         "Psíquico"
       ],
@@ -153,11 +32,11 @@
         11
       ],
       "ev": [
-        14,
-        5,
-        7,
-        3,
+        16,
         6,
+        7,
+        4,
+        8,
         9
       ],
       "abilPool": [
@@ -261,7 +140,7 @@
     {
       "nickname": "Princesita",
       "species": "Brionne",
-      "level": 16,
+      "level": 17,
       "types": [
         "Agua"
       ],
@@ -284,11 +163,11 @@
         6
       ],
       "ev": [
-        13,
-        5,
-        7,
-        2,
+        15,
         6,
+        7,
+        3,
+        8,
         9
       ],
       "abilPool": [
@@ -387,7 +266,7 @@
     {
       "nickname": "Nemo",
       "species": "Goldeen",
-      "level": 15,
+      "level": 16,
       "types": [
         "Agua"
       ],
@@ -410,11 +289,11 @@
         3
       ],
       "ev": [
-        6,
-        2,
+        8,
         3,
-        1,
+        3,
         2,
+        4,
         4
       ],
       "abilPool": [
@@ -503,7 +382,7 @@
     {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 15,
+      "level": 16,
       "types": [
         "Acero",
         "Fantasma"
@@ -513,7 +392,7 @@
       "item": "Baya Caoca",
       "shiny": false,
       "moves": [
-        "Eco Metálico",
+        "Veneno X",
         "Nieve Polvo",
         "Antojo",
         "Danza Dragón"
@@ -527,11 +406,11 @@
         28
       ],
       "ev": [
-        14,
+        16,
+        6,
         5,
-        5,
-        2,
-        4,
+        3,
+        6,
         8
       ],
       "abilPool": [
@@ -616,7 +495,7 @@
     {
       "nickname": "Mariquita",
       "species": "Makuhita",
-      "level": 10,
+      "level": 15,
       "types": [
         "Lucha"
       ],
@@ -626,7 +505,7 @@
       "shiny": false,
       "moves": [
         "Alud",
-        "Onda Voltio",
+        "Brinco",
         "Cambiapoder",
         "Onda Vacío"
       ],
@@ -639,11 +518,11 @@
         20
       ],
       "ev": [
+        2,
+        2,
         0,
         1,
-        0,
-        0,
-        0,
+        2,
         0
       ],
       "abilPool": [
@@ -1027,6 +906,130 @@
   ],
   "graveyard": [
     {
+      "nickname": "Espía",
+      "species": "Pidove",
+      "level": 17,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Metal Liviano",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cuchillada",
+        "Nitrocarga",
+        "Aguzar",
+        "Beso Dulce"
+      ],
+      "iv": [
+        6,
+        11,
+        2,
+        21,
+        2,
+        21
+      ],
+      "ev": [
+        16,
+        5,
+        7,
+        3,
+        9,
+        9
+      ],
+      "abilPool": [
+        "Metal Liviano"
+      ],
+      "abilHidden": [
+        "Piel Seca"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cuchillada"
+        },
+        {
+          "lvl": 1,
+          "m": "Refuerzo"
+        },
+        {
+          "lvl": 4,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 8,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 12,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 13,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 16,
+          "m": "Aguzar"
+        },
+        {
+          "lvl": 20,
+          "m": "Gravedad"
+        },
+        {
+          "lvl": 24,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 28,
+          "m": "Persecución"
+        },
+        {
+          "lvl": 32,
+          "m": "Paga Extra"
+        },
+        {
+          "lvl": 32,
+          "m": "Salazón"
+        },
+        {
+          "lvl": 36,
+          "m": "Golpe Cuerpo"
+        },
+        {
+          "lvl": 40,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 43,
+          "m": "Amplificador"
+        },
+        {
+          "lvl": 44,
+          "m": "Adaptación"
+        }
+      ],
+      "tmMoves": [
+        "Beso Dulce",
+        "Colmillo Ígneo",
+        "Danza Lunar",
+        "Onda Vacío",
+        "Restricción",
+        "Robo"
+      ],
+      "firstMoves": [
+        "Cuchillada",
+        "Refuerzo",
+        "Pulso de Campo"
+      ],
+      "spriteKey": "PIDOVE",
+      "cause": "",
+      "route": "Pueblo Paleta",
+      "date": ""
+    },
+    {
       "nickname": "Bombardero",
       "species": "Sandile",
       "level": 5,
@@ -1287,7 +1290,7 @@
       "species": "Pidove",
       "nickname": "Espía",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "ciudad",
       "level": 4,
       "mon": "Pidove"
@@ -1460,10 +1463,12 @@
     ],
     "foundItems": [
       "Agua Mística",
+      "Amor Ball",
       "Baya Caoca",
       "Baya Caquic",
       "Baya Meloc",
       "Bola de Humo",
+      "Bola Férrea",
       "Cenizas Sagradas",
       "Cola Plúmbea",
       "Cubresuelos",
@@ -1496,6 +1501,7 @@
       "Refleluz",
       "Reglamento",
       "Supercaña",
+      "Swiftfeather",
       "Tabla Helada",
       "Tabla Legendaria",
       "Tabla Linfa",
@@ -1581,6 +1587,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "IRONBALL",
+        "name": "Bola Férrea",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "TIMIDMINT",
         "name": "Menta Miedosa",
         "qty": 1,
@@ -1599,6 +1611,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "SWIFTFEATHER",
+        "name": "Swiftfeather",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 12,
@@ -1613,6 +1631,12 @@
       {
         "id": "PREMIERBALL",
         "name": "Honor Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "LOVEBALL",
+        "name": "Amor Ball",
         "qty": 1,
         "pocket": "Poké Balls"
       },
@@ -1761,7 +1785,8 @@
     "1527282694",
     "3835983897",
     "3786647394",
-    "3097426726"
+    "3097426726",
+    "765933415"
   ],
   "revividos": 3
 }
