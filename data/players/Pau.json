@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 1h 31m jugadas · 930₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 1h 36m jugadas · 2,820₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Calamardo",
       "species": "Tentacool",
-      "level": 12,
+      "level": 14,
       "types": [
         "Agua",
         "Veneno"
@@ -34,11 +34,11 @@
       ],
       "ev": [
         3,
-        3,
+        4,
         2,
         8,
-        2,
-        4
+        4,
+        7
       ],
       "abilPool": [
         "Espada Debacle",
@@ -141,13 +141,13 @@
     {
       "nickname": "Mariposon",
       "species": "Metapod",
-      "level": 13,
+      "level": 14,
       "types": [
         "Bicho"
       ],
       "ability": "Unísono",
       "nature": "Huraña",
-      "item": "",
+      "item": "Incienso Marino",
       "shiny": false,
       "moves": [
         "Doble Ataque",
@@ -165,11 +165,11 @@
       ],
       "ev": [
         2,
-        2,
+        3,
         2,
         7,
-        2,
-        4
+        4,
+        7
       ],
       "abilPool": [
         "Unísono"
@@ -203,7 +203,7 @@
     {
       "nickname": "Shawn",
       "species": "Mareep",
-      "level": 14,
+      "level": 15,
       "types": [
         "Eléctrico"
       ],
@@ -214,7 +214,7 @@
       "moves": [
         "Tajo Acuático",
         "Viento Aciago",
-        "Deslome",
+        "Bola Voltio",
         "Levitón"
       ],
       "iv": [
@@ -227,11 +227,11 @@
       ],
       "ev": [
         3,
-        4,
+        5,
         4,
         9,
-        3,
-        4
+        5,
+        7
       ],
       "abilPool": [
         "Despiste"
@@ -327,7 +327,7 @@
     {
       "nickname": "Poleomenta",
       "species": "Sinistea",
-      "level": 13,
+      "level": 14,
       "types": [
         "Fantasma"
       ],
@@ -351,11 +351,11 @@
       ],
       "ev": [
         0,
-        2,
+        3,
         0,
         1,
-        2,
-        3
+        4,
+        6
       ],
       "abilPool": [
         "Firmeza"
@@ -438,7 +438,7 @@
     {
       "nickname": "Hedwig",
       "species": "Rowlet",
-      "level": 14,
+      "level": 15,
       "types": [
         "Planta",
         "Volador"
@@ -463,11 +463,11 @@
       ],
       "ev": [
         0,
-        2,
+        3,
         0,
         2,
-        2,
-        3
+        4,
+        6
       ],
       "abilPool": [
         "Vigilante"
@@ -564,7 +564,7 @@
         "Bicho",
         "Volador"
       ],
-      "ability": "",
+      "ability": "Camorrista",
       "nature": "Activa",
       "item": "",
       "shiny": false,
@@ -584,11 +584,11 @@
       ],
       "ev": [
         0,
+        1,
         0,
         0,
-        0,
-        0,
-        0
+        2,
+        3
       ],
       "abilPool": [
         "Camorrista",
@@ -782,6 +782,125 @@
         "Psicocorte"
       ],
       "spriteKey": "PUMPKABOO_1"
+    },
+    {
+      "nickname": "Bambino",
+      "species": "Deerling",
+      "level": 13,
+      "types": [
+        "Normal",
+        "Planta"
+      ],
+      "ability": "Cabeza Roca",
+      "nature": "Huraña",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Meteorobola",
+        "Cosquillas",
+        "Decalcomanía",
+        "Tóxico"
+      ],
+      "iv": [
+        25,
+        5,
+        29,
+        29,
+        14,
+        13
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Aclimatación",
+        "Cabeza Roca"
+      ],
+      "abilHidden": [
+        "Electromotor"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 1,
+          "m": "Chapoteo Lodo"
+        },
+        {
+          "lvl": 4,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 7,
+          "m": "Cosquillas"
+        },
+        {
+          "lvl": 10,
+          "m": "Decalcomanía"
+        },
+        {
+          "lvl": 13,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 16,
+          "m": "Patada Tropical"
+        },
+        {
+          "lvl": 16,
+          "m": "Onda Simple"
+        },
+        {
+          "lvl": 20,
+          "m": "Tambor"
+        },
+        {
+          "lvl": 24,
+          "m": "Cambiaalmas"
+        },
+        {
+          "lvl": 24,
+          "m": "Carga"
+        },
+        {
+          "lvl": 28,
+          "m": "Venganza"
+        },
+        {
+          "lvl": 28,
+          "m": "Gravedad"
+        },
+        {
+          "lvl": 32,
+          "m": "Último Lugar"
+        },
+        {
+          "lvl": 41,
+          "m": "Fuerza"
+        },
+        {
+          "lvl": 42,
+          "m": "Maldición"
+        },
+        {
+          "lvl": 46,
+          "m": "Doble Golpe"
+        }
+      ],
+      "firstMoves": [
+        "Meteorobola",
+        "Cosquillas",
+        "Decalcomanía",
+        "Tóxico"
+      ],
+      "spriteKey": "DEERLING"
     }
   ],
   "graveyard": [
@@ -1107,6 +1226,17 @@
       "mon": "Pumpkaboo"
     },
     {
+      "route": "ruta_3",
+      "where": "Ruta 3",
+      "species": "Deerling",
+      "nickname": "Bambino",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 13,
+      "mon": "Deerling"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -1141,10 +1271,10 @@
       "ciudad_plateada": true,
       "ruta_2_norte": true,
       "ciudad_verde": true,
+      "ruta_3": true,
       "ruta_1": true,
       "ruta_22": true,
-      "pueblo_paleta": true,
-      "ruta_3": true
+      "pueblo_paleta": true
     },
     "items": {},
     "encounters": {
@@ -1155,7 +1285,8 @@
       "ruta_2_sur": true,
       "bosque_verde": true,
       "ruta_2_norte": true,
-      "ciudad_plateada": true
+      "ciudad_plateada": true,
+      "ruta_3": true
     },
     "switches": [
       48,
@@ -1201,6 +1332,7 @@
       "MT19",
       "MT38",
       "MT39",
+      "MT55",
       "MT83",
       "MT85",
       "MT86",
@@ -1256,12 +1388,6 @@
       {
         "id": "POWERWEIGHT",
         "name": "Pesa Recia",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "SEAINCENSE",
-        "name": "Incienso Marino",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -1328,7 +1454,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 9,
+        "qty": 8,
         "pocket": "Poké Balls"
       },
       {
@@ -1364,6 +1490,12 @@
       {
         "id": "TM39",
         "name": "MT39",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM55",
+        "name": "MT55",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
