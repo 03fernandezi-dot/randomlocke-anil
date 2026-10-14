@@ -844,11 +844,34 @@ function monCard(mon, opts = {}) {
    revivido con Ceniza Sagrada; la vida sigue consumida aunque el juego borre el rastro. */
 function playerStats(pdata, extraDeaths) {
   const alive = (pdata.team || []).length + (pdata.box || []).length;
-  const dead = (pdata.graveyard || []).length; // los que están en el cementerio ahora
-  // revividos con ceniza (la vida sigue gastada): usa el argumento si viene, si no el dato
-  // sincronizado por el companion (pdata.revividos).
-  const extra = Number(extraDeaths != null ? extraDeaths : (pdata.revividos || 0)) || 0;
-  const used = (pdata.livesUsed ?? dead) + extra;
-  const livesLeft = Math.max(0, (pdata.lives ?? 30) - used);
-  return { alive, dead, revived: extra, used, livesLeft, lives: pdata.lives ?? 30, eliminated: livesLeft <= 0 && used > 0 };
+  const dead = (pdata.graveyard || []).length;
+  const extra = Number(
+    extraDeaths != null ? extraDeaths : (pdata.revividos || 0)
+  ) || 0;
+
+  // Leer las vidas reales desde "notes"
+  const notes = pdata.notes || "";
+  const match = notes.match(/vidas en el juego:\s*(\d+)/i);
+
+  const gameLives = match ? Number(match[1]) : null;
+
+  // Si encontramos las vidas reales del save, usamos esas.
+  // Si no, usamos el cálculo antiguo como respaldo.
+  const livesLeft = gameLives !== null
+    ? gameLives
+    : Math.max(
+        0,
+        (pdata.lives ?? 30) - ((pdata.livesUsed ?? dead) + extra)
+      );
+
+  return {
+    alive,
+    dead,
+    revived: extra,
+    used: Math.max(0, (pdata.lives ?? 30) - livesLeft),
+    livesLeft,
+    lives: pdata.lives ?? 30,
+    eliminated: livesLeft <= 0
+  };
 }
+  
