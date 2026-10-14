@@ -4,121 +4,8 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 6h 1m jugadas · 48,490₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 6h 6m jugadas · 48,490₽ · vidas en el juego: 24",
   "team": [
-    {
-      "nickname": "Espía",
-      "species": "Tranquill",
-      "level": 22,
-      "types": [
-        "Normal",
-        "Volador"
-      ],
-      "ability": "Pelaje Recio",
-      "nature": "Modesta",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Cuchillada",
-        "Nitrocarga",
-        "Cambiafuerza",
-        "Beso Dulce"
-      ],
-      "iv": [
-        6,
-        11,
-        2,
-        21,
-        2,
-        21
-      ],
-      "ev": [
-        18,
-        11,
-        11,
-        4,
-        11,
-        10
-      ],
-      "abilPool": [
-        "Pelaje Recio"
-      ],
-      "abilHidden": [
-        "Poder Fúngico"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Pantalla de Humo"
-        },
-        {
-          "lvl": 1,
-          "m": "Estrujón"
-        },
-        {
-          "lvl": 1,
-          "m": "Destructor"
-        },
-        {
-          "lvl": 1,
-          "m": "Psicocambio"
-        },
-        {
-          "lvl": 12,
-          "m": "Sacrificio"
-        },
-        {
-          "lvl": 13,
-          "m": "Cede Paso"
-        },
-        {
-          "lvl": 16,
-          "m": "Vaho Gélido"
-        },
-        {
-          "lvl": 20,
-          "m": "Pesadilla"
-        },
-        {
-          "lvl": 26,
-          "m": "Fría Acogida"
-        },
-        {
-          "lvl": 34,
-          "m": "Pikaturbo"
-        },
-        {
-          "lvl": 36,
-          "m": "Pugnachoque"
-        },
-        {
-          "lvl": 38,
-          "m": "Balón Ígneo"
-        },
-        {
-          "lvl": 44,
-          "m": "Mordisco"
-        },
-        {
-          "lvl": 50,
-          "m": "Pantalla de Luz"
-        },
-        {
-          "lvl": 50,
-          "m": "Onda Tóxica"
-        },
-        {
-          "lvl": 56,
-          "m": "Azote"
-        }
-      ],
-      "firstMoves": [
-        "Cuchillada",
-        "Refuerzo",
-        "Pulso de Campo"
-      ],
-      "spriteKey": "TRANQUILL"
-    },
     {
       "nickname": "Chess.com",
       "species": "Quilladin",
@@ -149,7 +36,7 @@
       "ev": [
         5,
         12,
-        7,
+        8,
         2,
         4,
         5
@@ -273,7 +160,7 @@
       "ev": [
         26,
         22,
-        25,
+        26,
         9,
         15,
         19
@@ -389,7 +276,7 @@
       "ev": [
         10,
         16,
-        20,
+        21,
         6,
         9,
         11
@@ -507,7 +394,7 @@
       "ev": [
         25,
         22,
-        27,
+        28,
         9,
         17,
         20
@@ -642,7 +529,7 @@
       "ev": [
         10,
         12,
-        20,
+        21,
         6,
         9,
         8
@@ -752,12 +639,125 @@
           "m": "Desarrollo"
         }
       ],
+      "tmMoves": [
+        "Campo Eléctrico"
+      ],
       "firstMoves": [
         "Vasta Guardia",
         "Onda Voltio",
         "Cambiapoder"
       ],
       "spriteKey": "HARIYAMA"
+    },
+    {
+      "nickname": "Peakaboo",
+      "species": "Pumpkaboo",
+      "level": 24,
+      "types": [
+        "Fantasma",
+        "Planta"
+      ],
+      "ability": "Cosecha",
+      "nature": "Firme",
+      "item": "Mineral Evol",
+      "shiny": false,
+      "moves": [
+        "Conjuro",
+        "Vasto Impacto",
+        "Obstrucción",
+        "Niebla Clara"
+      ],
+      "iv": [
+        28,
+        11,
+        8,
+        22,
+        3,
+        3
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Cosecha",
+        "Despiste"
+      ],
+      "abilHidden": [
+        "Absorbe Agua"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Rayo Burbuja"
+        },
+        {
+          "lvl": 4,
+          "m": "Cuchillada"
+        },
+        {
+          "lvl": 6,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 8,
+          "m": "Hidropulso"
+        },
+        {
+          "lvl": 12,
+          "m": "Conjuro"
+        },
+        {
+          "lvl": 16,
+          "m": "Vasto Impacto"
+        },
+        {
+          "lvl": 20,
+          "m": "Obstrucción"
+        },
+        {
+          "lvl": 24,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 28,
+          "m": "Ofrenda"
+        },
+        {
+          "lvl": 32,
+          "m": "Cede Paso"
+        },
+        {
+          "lvl": 36,
+          "m": "Taladradora"
+        },
+        {
+          "lvl": 36,
+          "m": "Batería Asalto"
+        },
+        {
+          "lvl": 40,
+          "m": "Atrapabicho"
+        },
+        {
+          "lvl": 44,
+          "m": "Pirotecnia"
+        }
+      ],
+      "tmMoves": [
+        "Danza Lunar"
+      ],
+      "firstMoves": [
+        "Conjuro",
+        "Vasto Impacto",
+        "Obstrucción",
+        "Niebla Clara"
+      ],
+      "spriteKey": "PUMPKABOO_1"
     }
   ],
   "box": [
@@ -1637,6 +1637,122 @@
         "Salazón"
       ],
       "spriteKey": "BONSLY"
+    },
+    {
+      "nickname": "Espía",
+      "species": "Tranquill",
+      "level": 22,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Pelaje Recio",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cuchillada",
+        "Nitrocarga",
+        "Cambiafuerza",
+        "Beso Dulce"
+      ],
+      "iv": [
+        6,
+        11,
+        2,
+        21,
+        2,
+        21
+      ],
+      "ev": [
+        18,
+        11,
+        12,
+        4,
+        11,
+        10
+      ],
+      "abilPool": [
+        "Pelaje Recio"
+      ],
+      "abilHidden": [
+        "Poder Fúngico"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Pantalla de Humo"
+        },
+        {
+          "lvl": 1,
+          "m": "Estrujón"
+        },
+        {
+          "lvl": 1,
+          "m": "Destructor"
+        },
+        {
+          "lvl": 1,
+          "m": "Psicocambio"
+        },
+        {
+          "lvl": 12,
+          "m": "Sacrificio"
+        },
+        {
+          "lvl": 13,
+          "m": "Cede Paso"
+        },
+        {
+          "lvl": 16,
+          "m": "Vaho Gélido"
+        },
+        {
+          "lvl": 20,
+          "m": "Pesadilla"
+        },
+        {
+          "lvl": 26,
+          "m": "Fría Acogida"
+        },
+        {
+          "lvl": 34,
+          "m": "Pikaturbo"
+        },
+        {
+          "lvl": 36,
+          "m": "Pugnachoque"
+        },
+        {
+          "lvl": 38,
+          "m": "Balón Ígneo"
+        },
+        {
+          "lvl": 44,
+          "m": "Mordisco"
+        },
+        {
+          "lvl": 50,
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 50,
+          "m": "Onda Tóxica"
+        },
+        {
+          "lvl": 56,
+          "m": "Azote"
+        }
+      ],
+      "tmMoves": [
+        "Campo Eléctrico"
+      ],
+      "firstMoves": [
+        "Cuchillada",
+        "Refuerzo",
+        "Pulso de Campo"
+      ],
+      "spriteKey": "TRANQUILL"
     }
   ],
   "graveyard": [
@@ -2134,17 +2250,6 @@
   ],
   "captures": [
     {
-      "route": "pueblo_paleta",
-      "where": "Pueblo Paleta",
-      "species": "Tranquill",
-      "nickname": "Espía",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 4,
-      "mon": "Tranquill"
-    },
-    {
       "route": "ruta_20",
       "where": "Ruta 20",
       "species": "Quilladin",
@@ -2198,6 +2303,17 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Hariyama"
+    },
+    {
+      "route": "ciudad_carmin",
+      "where": "Ciudad Carmín",
+      "species": "Pumpkaboo",
+      "nickname": "Peakaboo",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 24,
+      "mon": "Pumpkaboo"
     },
     {
       "route": "monte_moon_exterior",
@@ -2288,6 +2404,17 @@
       "mon": "Bonsly"
     },
     {
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Tranquill",
+      "nickname": "Espía",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 4,
+      "mon": "Tranquill"
+    },
+    {
       "route": "",
       "where": "Laboratorio",
       "species": "Sandile",
@@ -2340,10 +2467,10 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "pueblo_paleta": true,
       "ruta_20": true,
       "bosque_verde": true,
       "ruta_22": true,
+      "ciudad_carmin": true,
       "monte_moon_exterior": true,
       "ciudad_plateada": true,
       "monte_moon": true,
@@ -2351,13 +2478,13 @@
       "ciudad_celeste": true,
       "ruta_21": true,
       "ruta_5": true,
+      "pueblo_paleta": true,
       "ruta_2_sur": true,
       "ciudad_verde": true,
       "ruta_1": true,
       "ruta_2_norte": true,
       "ruta_3": true,
-      "ruta_6": true,
-      "ciudad_carmin": true
+      "ruta_6": true
     },
     "items": {},
     "encounters": {
@@ -2377,7 +2504,8 @@
       "ruta_20": true,
       "ruta_21": true,
       "ruta_5": true,
-      "ruta_6": true
+      "ruta_6": true,
+      "ciudad_carmin": true
     },
     "switches": [
       48,
@@ -2674,13 +2802,13 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 2,
+        "qty": 1,
         "pocket": "Poké Balls"
       },
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 11,
+        "qty": 10,
         "pocket": "Poké Balls"
       },
       {
