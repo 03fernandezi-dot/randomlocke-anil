@@ -2,9 +2,9 @@
   "id": "Izan",
   "name": "Mariconchi",
   "lives": 30,
-  "livesUsed": 8,
+  "livesUsed": 9,
   "champion": false,
-  "notes": "Importado del save · 7h 5m jugadas · 72,280₽ · vidas en el juego: 20",
+  "notes": "Importado del save · 7h 21m jugadas · 82,380₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Princesita",
@@ -32,12 +32,12 @@
         6
       ],
       "ev": [
-        32,
-        23,
+        33,
+        25,
         31,
         13,
         20,
-        29
+        30
       ],
       "abilPool": [
         "Psicogénesis"
@@ -144,7 +144,7 @@
     {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 27,
+      "level": 29,
       "types": [
         "Acero",
         "Fantasma"
@@ -168,12 +168,12 @@
         28
       ],
       "ev": [
-        33,
-        23,
-        29,
+        34,
+        26,
+        30,
         13,
         18,
-        28
+        31
       ],
       "abilPool": [
         "Insomnio"
@@ -260,7 +260,7 @@
     {
       "nickname": "Tadbulb",
       "species": "Tadbulb",
-      "level": 28,
+      "level": 30,
       "types": [
         "Eléctrico"
       ],
@@ -284,12 +284,12 @@
         7
       ],
       "ev": [
-        17,
-        17,
-        24,
+        18,
+        20,
+        25,
         10,
         12,
-        20
+        23
       ],
       "abilPool": [
         "Perro Guardián",
@@ -377,126 +377,122 @@
       "spriteKey": "TADBULB"
     },
     {
-      "nickname": "Nemo",
-      "species": "Goldeen",
-      "level": 25,
+      "nickname": "Pereira",
+      "species": "Bidoof",
+      "level": 17,
       "types": [
-        "Agua"
+        "Normal"
       ],
-      "ability": "Cola Surf",
-      "nature": "Floja",
+      "ability": "Cobardía",
+      "nature": "Mansa",
       "item": "",
       "shiny": false,
       "moves": [
-        "Isofuerza",
-        "Meteorobola",
-        "Represalia",
-        "Colmillo Ígneo"
+        "Ojos Llorosos",
+        "Destello",
+        "Carga Parábola",
+        "Ojitos Tiernos"
       ],
       "iv": [
-        20,
-        30,
-        26,
-        15,
-        12,
-        3
+        8,
+        29,
+        2,
+        7,
+        27,
+        11
       ],
       "ev": [
-        17,
-        13,
-        19,
-        10,
-        13,
-        18
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Cola Surf",
-        "Transistor"
+        "Inmunidad",
+        "Cobardía"
       ],
       "abilHidden": [
-        "Muro Mágico"
+        "Presión"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Supersónico"
+          "m": "Aromaterapia"
         },
         {
           "lvl": 1,
-          "m": "Isofuerza"
-        },
-        {
-          "lvl": 1,
-          "m": "Meteorobola"
+          "m": "Estrujón"
         },
         {
           "lvl": 5,
-          "m": "Represalia"
+          "m": "Ojos Llorosos"
         },
         {
-          "lvl": 10,
-          "m": "Danza Lluvia"
+          "lvl": 9,
+          "m": "Destello"
         },
         {
-          "lvl": 15,
-          "m": "Halloween"
+          "lvl": 13,
+          "m": "Carga Parábola"
         },
         {
-          "lvl": 20,
-          "m": "Amago"
+          "lvl": 17,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 21,
+          "m": "Zona Extraña"
+        },
+        {
+          "lvl": 21,
+          "m": "Sonámbulo"
         },
         {
           "lvl": 25,
-          "m": "Corte Furia"
+          "m": "Desarrollo"
         },
         {
-          "lvl": 30,
-          "m": "Onda Simple"
+          "lvl": 29,
+          "m": "Dulce Aroma"
         },
         {
-          "lvl": 31,
-          "m": "Chirrido"
+          "lvl": 33,
+          "m": "Daño Secreto"
         },
         {
-          "lvl": 35,
-          "m": "Meteoros"
+          "lvl": 37,
+          "m": "Deslome"
         },
         {
-          "lvl": 40,
-          "m": "Golpe Kárate"
+          "lvl": 41,
+          "m": "Hipertaladro"
         },
         {
           "lvl": 45,
-          "m": "Bola Neblina"
+          "m": "Guillotina"
         },
         {
-          "lvl": 50,
-          "m": "Danza Lunar"
+          "lvl": 49,
+          "m": "Puño Bala"
         }
       ],
       "tmMoves": [
-        "Calamidad",
-        "Colmillo Ígneo",
-        "Danza Lunar",
-        "Divide Dolor",
-        "Mordisco",
-        "Onda Vacío",
-        "Onda Voltio",
-        "Restricción",
-        "Robo"
+        "Bilis"
       ],
       "firstMoves": [
-        "Isofuerza",
-        "Meteorobola",
-        "Represalia",
-        "Danza Lluvia"
+        "Ojos Llorosos",
+        "Destello",
+        "Carga Parábola",
+        "Ojitos Tiernos"
       ],
-      "spriteKey": "GOLDEEN"
+      "spriteKey": "BIDOOF"
     },
     {
       "nickname": "MECAGOENTODO",
       "species": "Butterfree",
-      "level": 26,
+      "level": 27,
       "types": [
         "Bicho",
         "Volador"
@@ -507,9 +503,9 @@
       "shiny": false,
       "moves": [
         "Púas",
-        "Ofrenda",
+        "Estoicismo",
         "Finta",
-        "Legado"
+        "Aire Afilado"
       ],
       "iv": [
         31,
@@ -520,12 +516,12 @@
         10
       ],
       "ev": [
-        11,
-        1,
-        3,
+        12,
+        4,
+        4,
         0,
         2,
-        6
+        9
       ],
       "abilPool": [
         "Sebo"
@@ -620,7 +616,24 @@
         }
       ],
       "tmMoves": [
-        "Cascabel Cura"
+        "Aguante",
+        "Beso Dulce",
+        "Bloqueo",
+        "Brecha Negra",
+        "Calamidad",
+        "Cambiaalmas",
+        "Cambiafuerza",
+        "Campo Eléctrico",
+        "Carámbano",
+        "Cascabel Cura",
+        "Detección",
+        "Gruñido",
+        "Hipnosis",
+        "Limpieza General",
+        "Onda Voltio",
+        "Reciclaje",
+        "Remolino",
+        "Robo"
       ],
       "firstMoves": [
         "Púas",
@@ -632,7 +645,7 @@
     {
       "nickname": "Bonsai",
       "species": "Sudowoodo",
-      "level": 26,
+      "level": 27,
       "types": [
         "Roca"
       ],
@@ -642,7 +655,7 @@
       "shiny": false,
       "moves": [
         "Pirotecnia",
-        "Metrónomo",
+        "Poder Místico",
         "Fortaleza",
         "Salazón"
       ],
@@ -655,12 +668,12 @@
         24
       ],
       "ev": [
+        1,
+        3,
+        1,
         0,
         0,
-        0,
-        0,
-        0,
-        0
+        3
       ],
       "abilPool": [
         "Líbero",
@@ -760,7 +773,16 @@
         }
       ],
       "tmMoves": [
-        "Remolino"
+        "Bilis",
+        "Brecha Negra",
+        "Gruñido",
+        "Hipnosis",
+        "Kinético",
+        "Onda Voltio",
+        "Remolino",
+        "Restricción",
+        "Rodillo de Púas",
+        "Viento Afín"
       ],
       "firstMoves": [
         "Pirotecnia",
@@ -1011,119 +1033,6 @@
         "Shuriken de Agua"
       ],
       "spriteKey": "KRABBY"
-    },
-    {
-      "nickname": "Pereira",
-      "species": "Bidoof",
-      "level": 17,
-      "types": [
-        "Normal"
-      ],
-      "ability": "Cobardía",
-      "nature": "Mansa",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Ojos Llorosos",
-        "Destello",
-        "Carga Parábola",
-        "Ojitos Tiernos"
-      ],
-      "iv": [
-        8,
-        29,
-        2,
-        7,
-        27,
-        11
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Inmunidad",
-        "Cobardía"
-      ],
-      "abilHidden": [
-        "Presión"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Aromaterapia"
-        },
-        {
-          "lvl": 1,
-          "m": "Estrujón"
-        },
-        {
-          "lvl": 5,
-          "m": "Ojos Llorosos"
-        },
-        {
-          "lvl": 9,
-          "m": "Destello"
-        },
-        {
-          "lvl": 13,
-          "m": "Carga Parábola"
-        },
-        {
-          "lvl": 17,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 21,
-          "m": "Zona Extraña"
-        },
-        {
-          "lvl": 21,
-          "m": "Sonámbulo"
-        },
-        {
-          "lvl": 25,
-          "m": "Desarrollo"
-        },
-        {
-          "lvl": 29,
-          "m": "Dulce Aroma"
-        },
-        {
-          "lvl": 33,
-          "m": "Daño Secreto"
-        },
-        {
-          "lvl": 37,
-          "m": "Deslome"
-        },
-        {
-          "lvl": 41,
-          "m": "Hipertaladro"
-        },
-        {
-          "lvl": 45,
-          "m": "Guillotina"
-        },
-        {
-          "lvl": 49,
-          "m": "Puño Bala"
-        }
-      ],
-      "tmMoves": [
-        "Bilis"
-      ],
-      "firstMoves": [
-        "Ojos Llorosos",
-        "Destello",
-        "Carga Parábola",
-        "Ojitos Tiernos"
-      ],
-      "spriteKey": "BIDOOF"
     },
     {
       "nickname": "Mrs.Krabb",
@@ -2365,6 +2274,126 @@
       "cause": "",
       "route": "Ciudad Carmín",
       "date": ""
+    },
+    {
+      "nickname": "Nemo",
+      "species": "Goldeen",
+      "level": 26,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Cola Surf",
+      "nature": "Floja",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Isofuerza",
+        "Meteorobola",
+        "Represalia",
+        "Colmillo Ígneo"
+      ],
+      "iv": [
+        20,
+        30,
+        26,
+        15,
+        12,
+        3
+      ],
+      "ev": [
+        18,
+        16,
+        19,
+        10,
+        13,
+        19
+      ],
+      "abilPool": [
+        "Cola Surf",
+        "Transistor"
+      ],
+      "abilHidden": [
+        "Muro Mágico"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Supersónico"
+        },
+        {
+          "lvl": 1,
+          "m": "Isofuerza"
+        },
+        {
+          "lvl": 1,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 5,
+          "m": "Represalia"
+        },
+        {
+          "lvl": 10,
+          "m": "Danza Lluvia"
+        },
+        {
+          "lvl": 15,
+          "m": "Halloween"
+        },
+        {
+          "lvl": 20,
+          "m": "Amago"
+        },
+        {
+          "lvl": 25,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 30,
+          "m": "Onda Simple"
+        },
+        {
+          "lvl": 31,
+          "m": "Chirrido"
+        },
+        {
+          "lvl": 35,
+          "m": "Meteoros"
+        },
+        {
+          "lvl": 40,
+          "m": "Golpe Kárate"
+        },
+        {
+          "lvl": 45,
+          "m": "Bola Neblina"
+        },
+        {
+          "lvl": 50,
+          "m": "Danza Lunar"
+        }
+      ],
+      "tmMoves": [
+        "Calamidad",
+        "Colmillo Ígneo",
+        "Danza Lunar",
+        "Divide Dolor",
+        "Mordisco",
+        "Onda Vacío",
+        "Onda Voltio",
+        "Restricción",
+        "Robo"
+      ],
+      "firstMoves": [
+        "Isofuerza",
+        "Meteorobola",
+        "Represalia",
+        "Danza Lluvia"
+      ],
+      "spriteKey": "GOLDEEN",
+      "cause": "",
+      "route": "Ciudad Plateada",
+      "date": ""
     }
   ],
   "captures": [
@@ -2402,15 +2431,15 @@
       "mon": "Tadbulb"
     },
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Goldeen",
-      "nickname": "Nemo",
+      "route": "ruta_4",
+      "where": "Ruta 4",
+      "species": "Bidoof",
+      "nickname": "Pereira",
       "shiny": false,
       "status": "captured",
-      "category": "ciudad",
-      "level": 11,
-      "mon": "Goldeen"
+      "category": "salvaje",
+      "level": 17,
+      "mon": "Bidoof"
     },
     {
       "route": "ciudad_plateada",
@@ -2455,17 +2484,6 @@
       "category": "salvaje",
       "level": 13,
       "mon": "Krabby"
-    },
-    {
-      "route": "ruta_4",
-      "where": "Ruta 4",
-      "species": "Bidoof",
-      "nickname": "Pereira",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 17,
-      "mon": "Bidoof"
     },
     {
       "route": "ciudad_celeste",
@@ -2576,23 +2594,35 @@
       "category": "ciudad",
       "level": 24,
       "mon": "Pumpkaboo"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Goldeen",
+      "nickname": "Nemo",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 11,
+      "mon": "Goldeen"
     }
   ],
   "progress": {
     "gyms": {
       "gym1": true,
-      "gym2": true
+      "gym2": true,
+      "gym3": true
     },
     "bosses": {},
     "npcs": {},
     "routes": {
       "ruta_22": true,
       "bosque_verde": true,
+      "ruta_4": true,
       "ciudad_plateada": true,
       "ruta_5": true,
       "monte_moon_exterior": true,
       "monte_moon": true,
-      "ruta_4": true,
       "ciudad_celeste": true,
       "ruta_21": true,
       "ruta_2_sur": true,
@@ -2666,6 +2696,7 @@
       183,
       184,
       185,
+      186,
       323,
       334,
       363,
@@ -2684,6 +2715,8 @@
       "Bola de Humo",
       "Bola Férrea",
       "Bono Bici",
+      "Botas Gruesas",
+      "Caramelo Furia",
       "Cascabel Concha",
       "Cenizas Sagradas",
       "Cinta Fuerte",
@@ -2736,6 +2769,7 @@
       "MT54",
       "MT69",
       "MT71",
+      "MT73",
       "MT74",
       "MT79",
       "MT83",
@@ -2934,6 +2968,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "HEAVYDUTYBOOTS",
+        "name": "Botas Gruesas",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "TIMIDMINT",
         "name": "Menta Miedosa",
         "qty": 1,
@@ -2967,6 +3007,12 @@
         "id": "RARECANDY",
         "name": "Caramelo Raro",
         "qty": 883,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "RAGECANDYBAR",
+        "name": "Caramelo Furia",
+        "qty": 1,
         "pocket": "Medicinas"
       },
       {
@@ -3080,6 +3126,12 @@
       {
         "id": "TM71",
         "name": "MT71",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM73",
+        "name": "MT73",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -3300,7 +3352,8 @@
     "3658473390",
     "489493532",
     "3706938389",
-    "1660281778"
+    "1660281778",
+    "88354284"
   ],
   "revividos": 3
 }
