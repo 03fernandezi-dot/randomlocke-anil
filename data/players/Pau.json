@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 2h 12m jugadas · 8,090₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 2h 51m jugadas · 10,280₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Calamardo",
       "species": "Tentacool",
-      "level": 16,
+      "level": 19,
       "types": [
         "Agua",
         "Veneno"
@@ -33,12 +33,12 @@
         27
       ],
       "ev": [
-        6,
-        6,
-        3,
+        9,
+        14,
+        5,
+        10,
         8,
-        6,
-        10
+        16
       ],
       "abilPool": [
         "Espada Debacle",
@@ -142,135 +142,139 @@
       "spriteKey": "TENTACOOL"
     },
     {
-      "nickname": "Shawn",
-      "species": "Mareep",
-      "level": 17,
+      "nickname": "Bicharraco",
+      "species": "Golett",
+      "level": 19,
       "types": [
-        "Eléctrico"
+        "Tierra",
+        "Fantasma"
       ],
-      "ability": "Despiste",
-      "nature": "Serena",
-      "item": "Supereviolita",
+      "ability": "Piel Seca",
+      "nature": "Firme",
+      "item": "Incienso Marino",
       "shiny": false,
       "moves": [
-        "Bola Voltio",
-        "Viento Aciago",
-        "Burbuja",
-        "Levitón"
+        "Tenaza",
+        "Colmillo Veneno",
+        "Tinieblas",
+        "Ladrón"
       ],
       "iv": [
-        10,
-        4,
-        31,
-        1,
-        11,
-        19
+        25,
+        8,
+        5,
+        20,
+        9,
+        27
       ],
       "ev": [
-        6,
-        7,
+        8,
+        10,
         5,
-        9,
-        7,
+        10,
+        6,
         10
       ],
       "abilPool": [
-        "Despiste"
+        "Primer Auxilio",
+        "Piel Seca"
       ],
       "abilHidden": [
-        "Descarga"
+        "Mandíbula dragón"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Viento Aciago"
+          "m": "Tenaza"
         },
         {
           "lvl": 1,
-          "m": "Tajo Acuático"
+          "m": "Colmillo Veneno"
         },
         {
           "lvl": 4,
-          "m": "Deslome"
+          "m": "Tinieblas"
         },
         {
           "lvl": 8,
-          "m": "Aura Magnética"
+          "m": "Homenaje Póstumo"
         },
         {
-          "lvl": 11,
-          "m": "Levitón"
+          "lvl": 9,
+          "m": "Estrujón"
         },
         {
-          "lvl": 15,
-          "m": "Bola Voltio"
+          "lvl": 12,
+          "m": "Ladrón"
         },
         {
-          "lvl": 18,
-          "m": "Protección"
+          "lvl": 16,
+          "m": "Punzada Rama"
         },
         {
           "lvl": 20,
-          "m": "A Defender"
+          "m": "Ataque Arena"
         },
         {
-          "lvl": 22,
-          "m": "Zona Mágica"
+          "lvl": 24,
+          "m": "Rencor"
         },
         {
           "lvl": 25,
-          "m": "Disparo Demora"
+          "m": "Profecía"
         },
         {
-          "lvl": 29,
-          "m": "Recogearena"
+          "lvl": 28,
+          "m": "Poder Reserva"
         },
         {
           "lvl": 32,
-          "m": "Danza Aleteo"
+          "m": "Cede Paso"
         },
         {
           "lvl": 36,
-          "m": "Electrorrayo"
+          "m": "Decoración"
         },
         {
-          "lvl": 39,
-          "m": "Pulso de Campo"
+          "lvl": 40,
+          "m": "Viento Aciago"
         },
         {
-          "lvl": 39,
-          "m": "Electropalmas"
+          "lvl": 44,
+          "m": "Frustración"
         },
         {
-          "lvl": 39,
-          "m": "Extracto Picante"
+          "lvl": 48,
+          "m": "Halloween"
         },
         {
-          "lvl": 43,
-          "m": "Orbes Espectro"
+          "lvl": 52,
+          "m": "Martillo Dragón"
         },
         {
-          "lvl": 46,
-          "m": "Trampa Rocas"
+          "lvl": 55,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 56,
+          "m": "Pesadilla"
         }
       ],
       "tmMoves": [
-        "Burbuja",
-        "Camelo",
-        "Estrujón",
-        "Gas Corrosivo"
+        "Danza Lunar",
+        "Velo Sagrado"
       ],
       "firstMoves": [
-        "Viento Aciago",
-        "Tajo Acuático",
-        "Deslome"
+        "Tenaza",
+        "Colmillo Veneno",
+        "Tinieblas"
       ],
-      "spriteKey": "MAREEP"
+      "spriteKey": "GOLETT"
     },
     {
       "nickname": "Mariposon",
       "species": "Butterfree",
-      "level": 17,
+      "level": 20,
       "types": [
         "Bicho",
         "Volador"
@@ -281,7 +285,7 @@
       "shiny": false,
       "moves": [
         "Aire Afilado",
-        "Eco Voz",
+        "Acoso",
         "Viento Feérico",
         "Viraje"
       ],
@@ -294,12 +298,12 @@
         19
       ],
       "ev": [
+        8,
+        13,
         5,
-        5,
-        3,
-        7,
-        6,
-        10
+        9,
+        8,
+        16
       ],
       "abilPool": [
         "Mano Rápida"
@@ -411,7 +415,7 @@
     {
       "nickname": "Hedwig",
       "species": "Dartrix",
-      "level": 17,
+      "level": 21,
       "types": [
         "Planta",
         "Volador"
@@ -435,12 +439,12 @@
         15
       ],
       "ev": [
-        3,
-        5,
-        1,
-        2,
         6,
-        9
+        13,
+        3,
+        4,
+        8,
+        15
       ],
       "abilPool": [
         "Gran Encanto"
@@ -534,247 +538,257 @@
       "spriteKey": "DARTRIX"
     },
     {
-      "nickname": "Poleomenta",
-      "species": "Sinistea",
-      "level": 17,
+      "nickname": "Hazard",
+      "species": "Linoone (Galar)",
+      "level": 20,
       "types": [
-        "Fantasma"
+        "Siniestro",
+        "Normal"
       ],
-      "ability": "Firmeza",
-      "nature": "Fuerte",
+      "ability": "Transportarrocas",
+      "nature": "Activa",
       "item": "",
       "shiny": false,
       "moves": [
-        "Puño Furia",
-        "Rayo Confuso",
-        "Palmeo",
-        "Clavo Cañón"
+        "Buena Baza",
+        "Rodillo de Púas",
+        "Deslizamiento",
+        "Protección"
       ],
       "iv": [
+        27,
+        1,
+        18,
         24,
-        6,
-        13,
-        5,
-        2,
-        10
-      ],
-      "ev": [
-        3,
-        5,
-        1,
-        1,
-        6,
-        9
-      ],
-      "abilPool": [
-        "Firmeza"
-      ],
-      "abilHidden": [
-        "Espejo Mágico"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Clonatipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Rayo Confuso"
-        },
-        {
-          "lvl": 6,
-          "m": "Palmeo"
-        },
-        {
-          "lvl": 6,
-          "m": "Halloween"
-        },
-        {
-          "lvl": 12,
-          "m": "Puño Furia"
-        },
-        {
-          "lvl": 18,
-          "m": "Confusión"
-        },
-        {
-          "lvl": 24,
-          "m": "Escupir"
-        },
-        {
-          "lvl": 30,
-          "m": "Manto Espejo"
-        },
-        {
-          "lvl": 30,
-          "m": "Bramido Dragón"
-        },
-        {
-          "lvl": 36,
-          "m": "Divide Dolor"
-        },
-        {
-          "lvl": 42,
-          "m": "Lengüetazo"
-        },
-        {
-          "lvl": 48,
-          "m": "Rayo Umbrío"
-        },
-        {
-          "lvl": 54,
-          "m": "Rencor Reprimido"
-        },
-        {
-          "lvl": 60,
-          "m": "Celebración"
-        }
-      ],
-      "tmMoves": [
-        "Camelo",
-        "Clavo Cañón",
-        "Danza Lunar",
-        "Gas Corrosivo",
-        "Piñón Auxiliar",
-        "Velo Sagrado"
-      ],
-      "firstMoves": [
-        "Clonatipo",
-        "Rayo Confuso",
-        "Palmeo",
-        "Halloween"
-      ],
-      "spriteKey": "SINISTEA_1"
-    },
-    {
-      "nickname": "Bicharraco",
-      "species": "Golett",
-      "level": 16,
-      "types": [
-        "Tierra",
-        "Fantasma"
-      ],
-      "ability": "Piel Seca",
-      "nature": "Firme",
-      "item": "Incienso Marino",
-      "shiny": false,
-      "moves": [
-        "Tenaza",
-        "Colmillo Veneno",
-        "Tinieblas",
-        "Ladrón"
-      ],
-      "iv": [
-        25,
-        8,
-        5,
         20,
-        9,
-        27
+        0
       ],
       "ev": [
-        5,
         2,
         3,
-        8,
-        4,
-        4
+        2,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Primer Auxilio",
-        "Piel Seca"
+        "Energía Eólica",
+        "Transportarrocas"
       ],
       "abilHidden": [
-        "Mandíbula dragón"
+        "Prestidigitador"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Tenaza"
+          "lvl": 0,
+          "m": "Superdiente"
         },
         {
           "lvl": 1,
-          "m": "Colmillo Veneno"
+          "m": "Refuerzo"
         },
         {
-          "lvl": 4,
-          "m": "Tinieblas"
+          "lvl": 1,
+          "m": "Fortaleza"
         },
         {
-          "lvl": 8,
-          "m": "Homenaje Póstumo"
+          "lvl": 1,
+          "m": "Deslizamiento"
+        },
+        {
+          "lvl": 1,
+          "m": "Picadura"
+        },
+        {
+          "lvl": 1,
+          "m": "Reducción"
+        },
+        {
+          "lvl": 1,
+          "m": "Piñón Auxiliar"
+        },
+        {
+          "lvl": 1,
+          "m": "Relevo"
         },
         {
           "lvl": 9,
-          "m": "Estrujón"
+          "m": "Seducción"
         },
         {
           "lvl": 12,
-          "m": "Ladrón"
+          "m": "Truco Floral"
         },
         {
-          "lvl": 16,
-          "m": "Punzada Rama"
+          "lvl": 15,
+          "m": "Velo Sagrado"
         },
         {
-          "lvl": 20,
-          "m": "Ataque Arena"
+          "lvl": 18,
+          "m": "Otra Vez"
         },
         {
-          "lvl": 24,
-          "m": "Rencor"
-        },
-        {
-          "lvl": 25,
-          "m": "Profecía"
+          "lvl": 23,
+          "m": "Prensa Metálica"
         },
         {
           "lvl": 28,
-          "m": "Poder Reserva"
+          "m": "Telequinesis"
         },
         {
-          "lvl": 32,
-          "m": "Cede Paso"
+          "lvl": 33,
+          "m": "Corpulencia"
         },
         {
-          "lvl": 36,
-          "m": "Decoración"
+          "lvl": 38,
+          "m": "Alarido"
         },
         {
-          "lvl": 40,
-          "m": "Viento Aciago"
-        },
-        {
-          "lvl": 44,
-          "m": "Frustración"
+          "lvl": 43,
+          "m": "Arraigo"
         },
         {
           "lvl": 48,
-          "m": "Halloween"
-        },
-        {
-          "lvl": 52,
-          "m": "Martillo Dragón"
-        },
-        {
-          "lvl": 55,
-          "m": "Puño Furia"
-        },
-        {
-          "lvl": 56,
-          "m": "Pesadilla"
+          "m": "Gota Vital"
         }
       ],
       "tmMoves": [
-        "Danza Lunar",
+        "Asalto Barrera",
+        "Barrera",
+        "Burbuja",
+        "Camelo",
+        "Estrujón",
+        "Gas Corrosivo",
+        "Pulso de Campo",
         "Velo Sagrado"
       ],
       "firstMoves": [
-        "Tenaza",
-        "Colmillo Veneno",
-        "Tinieblas"
+        "Deslome",
+        "Palmeo"
       ],
-      "spriteKey": "GOLETT"
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10175.png",
+      "spriteKey": "LINOONE_1"
+    },
+    {
+      "nickname": "Envape",
+      "species": "Wartortle",
+      "level": 19,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Sal Purificadora",
+      "nature": "Huraña",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Clavo Cañón",
+        "Terratemblor",
+        "Arrumaco",
+        "Rayo Carga"
+      ],
+      "iv": [
+        3,
+        24,
+        5,
+        31,
+        25,
+        23
+      ],
+      "ev": [
+        2,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Sal Purificadora"
+      ],
+      "abilHidden": [
+        "Flexibilidad"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 1,
+          "m": "Dulce Aroma"
+        },
+        {
+          "lvl": 1,
+          "m": "Agitacola"
+        },
+        {
+          "lvl": 1,
+          "m": "Hidropulso"
+        },
+        {
+          "lvl": 1,
+          "m": "Plumerazo"
+        },
+        {
+          "lvl": 9,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 12,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 15,
+          "m": "Cambiapoder"
+        },
+        {
+          "lvl": 20,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 25,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 30,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 35,
+          "m": "Pirueta Helada"
+        },
+        {
+          "lvl": 40,
+          "m": "Alivio"
+        },
+        {
+          "lvl": 45,
+          "m": "Rayo Señal"
+        },
+        {
+          "lvl": 50,
+          "m": "Giro Rápido"
+        },
+        {
+          "lvl": 50,
+          "m": "Latigazo"
+        }
+      ],
+      "tmMoves": [
+        "Asalto Barrera",
+        "Barrera",
+        "Burbuja",
+        "Clavo Cañón",
+        "Golpe Roca",
+        "Represión Metal"
+      ],
+      "firstMoves": [
+        "Rayo Burbuja",
+        "Rayo Carga",
+        "Arrumaco",
+        "Pistola Agua"
+      ],
+      "spriteKey": "WARTORTLE"
     }
   ],
   "box": [
@@ -1456,6 +1470,454 @@
         "Furia Natural"
       ],
       "spriteKey": "FLABEBE"
+    },
+    {
+      "nickname": "Mojonazo",
+      "species": "Surskit",
+      "level": 17,
+      "types": [
+        "Bicho",
+        "Agua"
+      ],
+      "ability": "Presión",
+      "nature": "Activa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Foco Energía",
+        "Truco Defensa",
+        "Cura Floral",
+        "Acoso"
+      ],
+      "iv": [
+        0,
+        10,
+        18,
+        15,
+        8,
+        31
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Presión"
+      ],
+      "abilHidden": [
+        "Ojo Mental"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Ataque Arena"
+        },
+        {
+          "lvl": 1,
+          "m": "Danza Triunfal"
+        },
+        {
+          "lvl": 6,
+          "m": "Foco Energía"
+        },
+        {
+          "lvl": 9,
+          "m": "Truco Defensa"
+        },
+        {
+          "lvl": 14,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 17,
+          "m": "Acoso"
+        },
+        {
+          "lvl": 19,
+          "m": "Última Palabra"
+        },
+        {
+          "lvl": 22,
+          "m": "Campo de Niebla"
+        },
+        {
+          "lvl": 25,
+          "m": "Fertilizante"
+        },
+        {
+          "lvl": 25,
+          "m": "Prensa Metálica"
+        },
+        {
+          "lvl": 30,
+          "m": "Destructor"
+        },
+        {
+          "lvl": 35,
+          "m": "Auxilio"
+        },
+        {
+          "lvl": 38,
+          "m": "Surf"
+        }
+      ],
+      "firstMoves": [
+        "Foco Energía",
+        "Truco Defensa",
+        "Cura Floral",
+        "Acoso"
+      ],
+      "spriteKey": "SURSKIT"
+    },
+    {
+      "nickname": "Poleomenta",
+      "species": "Sinistea",
+      "level": 19,
+      "types": [
+        "Fantasma"
+      ],
+      "ability": "Firmeza",
+      "nature": "Fuerte",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Puño Furia",
+        "Confusión",
+        "Palmeo",
+        "Clavo Cañón"
+      ],
+      "iv": [
+        24,
+        6,
+        13,
+        5,
+        2,
+        10
+      ],
+      "ev": [
+        4,
+        10,
+        1,
+        3,
+        8,
+        15
+      ],
+      "abilPool": [
+        "Firmeza"
+      ],
+      "abilHidden": [
+        "Espejo Mágico"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Clonatipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Rayo Confuso"
+        },
+        {
+          "lvl": 6,
+          "m": "Palmeo"
+        },
+        {
+          "lvl": 6,
+          "m": "Halloween"
+        },
+        {
+          "lvl": 12,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 18,
+          "m": "Confusión"
+        },
+        {
+          "lvl": 24,
+          "m": "Escupir"
+        },
+        {
+          "lvl": 30,
+          "m": "Manto Espejo"
+        },
+        {
+          "lvl": 30,
+          "m": "Bramido Dragón"
+        },
+        {
+          "lvl": 36,
+          "m": "Divide Dolor"
+        },
+        {
+          "lvl": 42,
+          "m": "Lengüetazo"
+        },
+        {
+          "lvl": 48,
+          "m": "Rayo Umbrío"
+        },
+        {
+          "lvl": 54,
+          "m": "Rencor Reprimido"
+        },
+        {
+          "lvl": 60,
+          "m": "Celebración"
+        }
+      ],
+      "tmMoves": [
+        "Camelo",
+        "Clavo Cañón",
+        "Danza Lunar",
+        "Gas Corrosivo",
+        "Piñón Auxiliar",
+        "Velo Sagrado"
+      ],
+      "firstMoves": [
+        "Clonatipo",
+        "Rayo Confuso",
+        "Palmeo",
+        "Halloween"
+      ],
+      "spriteKey": "SINISTEA_1"
+    },
+    {
+      "nickname": "Ensaimada",
+      "species": "Fidough",
+      "level": 1,
+      "types": [
+        "Hada"
+      ],
+      "ability": "Relincho Negro",
+      "nature": "Plácida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Beso Drenaje",
+        "Luminicola"
+      ],
+      "iv": [
+        13,
+        8,
+        22,
+        4,
+        6,
+        31
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Relincho Negro"
+      ],
+      "abilHidden": [
+        "Cosecha"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Beso Drenaje"
+        },
+        {
+          "lvl": 1,
+          "m": "Luminicola"
+        },
+        {
+          "lvl": 3,
+          "m": "Señuelo"
+        },
+        {
+          "lvl": 6,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 8,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 11,
+          "m": "Camaradería"
+        },
+        {
+          "lvl": 15,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 18,
+          "m": "Mundo Gélido"
+        },
+        {
+          "lvl": 22,
+          "m": "Viento Feérico"
+        },
+        {
+          "lvl": 26,
+          "m": "Puño Cometa"
+        },
+        {
+          "lvl": 30,
+          "m": "Ayuda"
+        },
+        {
+          "lvl": 33,
+          "m": "Lanza Glacial"
+        },
+        {
+          "lvl": 36,
+          "m": "Triple Flecha"
+        },
+        {
+          "lvl": 40,
+          "m": "Joya de Luz"
+        },
+        {
+          "lvl": 45,
+          "m": "Cerrojo Feérico"
+        }
+      ],
+      "firstMoves": [
+        "Beso Drenaje",
+        "Luminicola"
+      ],
+      "spriteKey": "FIDOUGH"
+    },
+    {
+      "nickname": "Shawn",
+      "species": "Flaaffy",
+      "level": 21,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Audaz",
+      "nature": "Serena",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Carga Parábola",
+        "Viento Aciago",
+        "Burbuja",
+        "Levitón"
+      ],
+      "iv": [
+        10,
+        4,
+        31,
+        1,
+        11,
+        19
+      ],
+      "ev": [
+        7,
+        13,
+        6,
+        11,
+        9,
+        16
+      ],
+      "abilPool": [
+        "Audaz"
+      ],
+      "abilHidden": [
+        "Antibalas"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Fisura"
+        },
+        {
+          "lvl": 1,
+          "m": "Terratemblor"
+        },
+        {
+          "lvl": 6,
+          "m": "Caída Libre"
+        },
+        {
+          "lvl": 9,
+          "m": "Carga Parábola"
+        },
+        {
+          "lvl": 11,
+          "m": "Sacrificio"
+        },
+        {
+          "lvl": 16,
+          "m": "Halloween"
+        },
+        {
+          "lvl": 20,
+          "m": "Espacio Raro"
+        },
+        {
+          "lvl": 22,
+          "m": "Shuriken de Agua"
+        },
+        {
+          "lvl": 25,
+          "m": "Pikaturbo"
+        },
+        {
+          "lvl": 29,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 34,
+          "m": "Bola Hielo"
+        },
+        {
+          "lvl": 38,
+          "m": "Ácido Málico"
+        },
+        {
+          "lvl": 43,
+          "m": "Calcinación"
+        },
+        {
+          "lvl": 47,
+          "m": "Electormenta"
+        },
+        {
+          "lvl": 47,
+          "m": "Aura Magnética"
+        },
+        {
+          "lvl": 47,
+          "m": "Lanza Glacial"
+        },
+        {
+          "lvl": 52,
+          "m": "Voltio Cruel"
+        },
+        {
+          "lvl": 56,
+          "m": "Voltiocambio"
+        }
+      ],
+      "tmMoves": [
+        "Barrera",
+        "Burbuja",
+        "Danza Lunar",
+        "Golpe Roca",
+        "Piñón Auxiliar",
+        "Velo Sagrado"
+      ],
+      "firstMoves": [
+        "Viento Aciago",
+        "Tajo Acuático",
+        "Deslome"
+      ],
+      "spriteKey": "FLAAFFY"
     }
   ],
   "graveyard": [
@@ -1582,15 +2044,15 @@
       "mon": "Tentacool"
     },
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Mareep",
-      "nickname": "Shawn",
+      "route": "ruta_22",
+      "where": "Ruta 22",
+      "species": "Golett",
+      "nickname": "Bicharraco",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Mareep"
+      "category": "salvaje",
+      "level": 4,
+      "mon": "Golett"
     },
     {
       "route": "bosque_verde",
@@ -1615,26 +2077,26 @@
       "mon": "Dartrix"
     },
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Sinistea",
-      "nickname": "Poleomenta",
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Linoone",
+      "nickname": "Hazard",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Linoone"
+    },
+    {
+      "route": "ciudad_celeste",
+      "where": "Ciudad Celeste",
+      "species": "Wartortle",
+      "nickname": "Envape",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
-      "level": 10,
-      "mon": "Sinistea"
-    },
-    {
-      "route": "ruta_22",
-      "where": "Ruta 22",
-      "species": "Golett",
-      "nickname": "Bicharraco",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 4,
-      "mon": "Golett"
+      "level": 18,
+      "mon": "Wartortle"
     },
     {
       "route": "ciudad_verde",
@@ -1703,6 +2165,50 @@
       "mon": "Flabebe"
     },
     {
+      "route": "ruta_4",
+      "where": "Ruta 4",
+      "species": "Surskit",
+      "nickname": "Mojonazo",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 17,
+      "mon": "Surskit"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Sinistea",
+      "nickname": "Poleomenta",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Sinistea"
+    },
+    {
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Fidough",
+      "nickname": "Ensaimada",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Fidough"
+    },
+    {
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Flaaffy",
+      "nickname": "Shawn",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Flaaffy"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -1722,14 +2228,16 @@
     "npcs": {},
     "routes": {
       "ruta_2_sur": true,
+      "ruta_22": true,
       "bosque_verde": true,
       "ciudad_plateada": true,
-      "ruta_22": true,
+      "ciudad_celeste": true,
       "ciudad_verde": true,
       "ruta_3": true,
       "monte_moon": true,
       "ruta_2_norte": true,
       "monte_moon_exterior": true,
+      "ruta_4": true,
       "ruta_1": true,
       "pueblo_paleta": true
     },
@@ -1745,7 +2253,9 @@
       "ciudad_plateada": true,
       "ruta_3": true,
       "monte_moon": true,
-      "monte_moon_exterior": true
+      "monte_moon_exterior": true,
+      "ruta_4": true,
+      "ciudad_celeste": true
     },
     "switches": [
       48,
@@ -1759,11 +2269,15 @@
       71,
       72,
       73,
+      74,
+      75,
+      76,
       110,
       112,
       113,
       114,
       121,
+      171,
       176,
       179,
       180,
@@ -1781,13 +2295,18 @@
       "Baya Tamate",
       "Botón Escape",
       "Cenizas Sagradas",
+      "Cleverfeather",
       "Cuerda Huida",
       "Escama Dragón",
+      "Fósil Garra",
+      "Fósil Hélix",
       "Gema Roca",
       "Incienso Marino",
+      "Leche Mu-mu",
       "Lodo Negro",
       "Lustresfera",
       "Manuscrito Sombras",
+      "Más PP",
       "Más PS",
       "Menta Audaz",
       "Menta Huraña",
@@ -1795,6 +2314,7 @@
       "Miniseta",
       "MO Golpe Roca",
       "MT07",
+      "MT102",
       "MT123",
       "MT19",
       "MT38",
@@ -1882,6 +2402,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "FULLINCENSE",
+        "name": "Incienso Lento",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SUPEREVIOLITE",
+        "name": "Supereviolita",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "LONELYMINT",
         "name": "Menta Huraña",
         "qty": 1,
@@ -1902,7 +2434,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 979,
+        "qty": 958,
         "pocket": "Medicinas"
       },
       {
@@ -1914,12 +2446,6 @@
       {
         "id": "BRAVEMINT",
         "name": "Menta Audaz",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "POTION",
-        "name": "Poción",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -1942,15 +2468,33 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "CLEVERFEATHER",
+        "name": "Cleverfeather",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "PPUP",
+        "name": "Más PP",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "MOOMOOMILK",
+        "name": "Leche Mu-mu",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 6,
+        "qty": 10,
         "pocket": "Poké Balls"
       },
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 6,
+        "qty": 12,
         "pocket": "Poké Balls"
       },
       {
@@ -1963,6 +2507,12 @@
         "id": "ULTRABALL",
         "name": "Ultra Ball",
         "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "PREMIERBALL",
+        "name": "Honor Ball",
+        "qty": 2,
         "pocket": "Poké Balls"
       },
       {
@@ -2028,6 +2578,12 @@
       {
         "id": "TM90",
         "name": "MT90",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM102",
+        "name": "MT102",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
