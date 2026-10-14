@@ -4,138 +4,106 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 4h 8m jugadas · 15,840₽ · vidas en el juego: 25",
+  "notes": "Importado del save · 4h 20m jugadas · 19,070₽ · vidas en el juego: 25",
   "team": [
     {
-      "nickname": "Princesita",
-      "species": "Brionne",
-      "level": 19,
+      "nickname": "Marilus",
+      "species": "Azurill",
+      "level": 14,
       "types": [
-        "Agua"
+        "Normal",
+        "Hada"
       ],
-      "ability": "Psicogénesis",
-      "nature": "Serena",
-      "item": "Tabla Linfa",
+      "ability": "Raíz robusta",
+      "nature": "Modesta",
+      "item": "Mochi Intelecto",
       "shiny": false,
       "moves": [
-        "Agua Fría",
-        "Barrera",
-        "Copión",
-        "Voz Cautivadora"
+        "Beso Drenaje",
+        "Red Viscosa",
+        "Yo Primero",
+        "Rugido"
       ],
       "iv": [
-        0,
-        5,
         13,
-        1,
-        1,
-        6
+        20,
+        6,
+        25,
+        15,
+        15
       ],
       "ev": [
-        18,
-        7,
-        12,
-        5,
-        12,
-        12
+        1,
+        0,
+        1,
+        0,
+        0,
+        2
       ],
       "abilPool": [
-        "Psicogénesis"
+        "Raíz robusta",
+        "Pareja de Baile"
       ],
       "abilHidden": [
-        "Piel Herbácea"
+        "Compensación"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Sorpresa"
+          "m": "Constricción"
         },
         {
           "lvl": 1,
+          "m": "Red Viscosa"
+        },
+        {
+          "lvl": 1,
+          "m": "Yo Primero"
+        },
+        {
+          "lvl": 1,
+          "m": "Rugido"
+        },
+        {
+          "lvl": 3,
           "m": "Castigo"
         },
         {
-          "lvl": 1,
-          "m": "Relámpago Súbito"
+          "lvl": 5,
+          "m": "Beso Drenaje"
         },
         {
-          "lvl": 1,
-          "m": "Rencor"
+          "lvl": 6,
+          "m": "Cascabel Cura"
         },
         {
           "lvl": 9,
-          "m": "Venganza"
-        },
-        {
-          "lvl": 11,
-          "m": "Giro Vil"
+          "m": "Voz Cautivadora"
         },
         {
           "lvl": 12,
-          "m": "Residuos"
+          "m": "Aromaterapia"
         },
         {
           "lvl": 15,
-          "m": "Pantalla de Luz"
-        },
-        {
-          "lvl": 20,
-          "m": "Zona Mágica"
-        },
-        {
-          "lvl": 25,
-          "m": "Daño Secreto"
-        },
-        {
-          "lvl": 30,
-          "m": "Puño Jet"
-        },
-        {
-          "lvl": 33,
-          "m": "Hidroariete"
-        },
-        {
-          "lvl": 35,
-          "m": "Acua Jet"
-        },
-        {
-          "lvl": 40,
-          "m": "Telaraña"
-        },
-        {
-          "lvl": 45,
-          "m": "Mil Flechas"
-        },
-        {
-          "lvl": 46,
-          "m": "Persecución"
-        },
-        {
-          "lvl": 50,
           "m": "Tajo Acuático"
-        },
-        {
-          "lvl": 55,
-          "m": "Gravedad"
         }
       ],
       "tmMoves": [
-        "Beso Dulce",
-        "Brecha Negra",
-        "Reciclaje",
-        "Restricción"
+        "Danza Lunar"
       ],
       "firstMoves": [
-        "Agua Fría",
-        "Barrera",
-        "Copión"
+        "Constricción",
+        "Red Viscosa",
+        "Yo Primero",
+        "Rugido"
       ],
-      "spriteKey": "BRIONNE"
+      "spriteKey": "AZURILL"
     },
     {
       "nickname": "Nemo",
       "species": "Goldeen",
-      "level": 18,
+      "level": 19,
       "types": [
         "Agua"
       ],
@@ -158,12 +126,12 @@
         3
       ],
       "ev": [
-        11,
+        12,
+        4,
+        9,
         4,
         8,
-        4,
-        8,
-        7
+        9
       ],
       "abilPool": [
         "Cola Surf",
@@ -251,7 +219,7 @@
     {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 18,
+      "level": 19,
       "types": [
         "Acero",
         "Fantasma"
@@ -275,12 +243,12 @@
         28
       ],
       "ev": [
-        19,
+        20,
         7,
-        10,
+        11,
         5,
         10,
-        11
+        13
       ],
       "abilPool": [
         "Insomnio"
@@ -387,12 +355,12 @@
         20
       ],
       "ev": [
-        5,
-        3,
-        5,
+        6,
         3,
         6,
-        3
+        3,
+        6,
+        5
       ],
       "abilPool": [
         "Megadisparador",
@@ -499,7 +467,7 @@
     {
       "nickname": "Tadbulb",
       "species": "Tadbulb",
-      "level": 18,
+      "level": 19,
       "types": [
         "Eléctrico"
       ],
@@ -523,12 +491,12 @@
         7
       ],
       "ev": [
-        3,
+        4,
         1,
-        5,
+        6,
         2,
         4,
-        3
+        5
       ],
       "abilPool": [
         "Perro Guardián",
@@ -604,98 +572,130 @@
       "spriteKey": "TADBULB"
     },
     {
-      "nickname": "Marilus",
-      "species": "Azurill",
-      "level": 1,
+      "nickname": "Princesita",
+      "species": "Brionne",
+      "level": 20,
       "types": [
-        "Normal",
-        "Hada"
+        "Agua"
       ],
-      "ability": "Raíz robusta",
-      "nature": "Modesta",
-      "item": "Mochi Intelecto",
+      "ability": "Psicogénesis",
+      "nature": "Serena",
+      "item": "Tabla Linfa",
       "shiny": false,
       "moves": [
-        "Constricción",
-        "Red Viscosa",
-        "Yo Primero",
-        "Rugido"
+        "Agua Fría",
+        "Barrera",
+        "Zona Mágica",
+        "Voz Cautivadora"
       ],
       "iv": [
+        0,
+        5,
         13,
-        20,
-        6,
-        25,
-        15,
-        15
+        1,
+        1,
+        6
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        19,
+        7,
+        13,
+        5,
+        12,
+        14
       ],
       "abilPool": [
-        "Raíz robusta",
-        "Pareja de Baile"
+        "Psicogénesis"
       ],
       "abilHidden": [
-        "Compensación"
+        "Piel Herbácea"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Constricción"
+          "m": "Sorpresa"
         },
         {
           "lvl": 1,
-          "m": "Red Viscosa"
-        },
-        {
-          "lvl": 1,
-          "m": "Yo Primero"
-        },
-        {
-          "lvl": 1,
-          "m": "Rugido"
-        },
-        {
-          "lvl": 3,
           "m": "Castigo"
         },
         {
-          "lvl": 5,
-          "m": "Beso Drenaje"
+          "lvl": 1,
+          "m": "Relámpago Súbito"
         },
         {
-          "lvl": 6,
-          "m": "Cascabel Cura"
+          "lvl": 1,
+          "m": "Rencor"
         },
         {
           "lvl": 9,
-          "m": "Voz Cautivadora"
+          "m": "Venganza"
+        },
+        {
+          "lvl": 11,
+          "m": "Giro Vil"
         },
         {
           "lvl": 12,
-          "m": "Aromaterapia"
+          "m": "Residuos"
         },
         {
           "lvl": 15,
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 20,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 25,
+          "m": "Daño Secreto"
+        },
+        {
+          "lvl": 30,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 33,
+          "m": "Hidroariete"
+        },
+        {
+          "lvl": 35,
+          "m": "Acua Jet"
+        },
+        {
+          "lvl": 40,
+          "m": "Telaraña"
+        },
+        {
+          "lvl": 45,
+          "m": "Mil Flechas"
+        },
+        {
+          "lvl": 46,
+          "m": "Persecución"
+        },
+        {
+          "lvl": 50,
           "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 55,
+          "m": "Gravedad"
         }
       ],
       "tmMoves": [
-        "Danza Lunar"
+        "Beso Dulce",
+        "Brecha Negra",
+        "Reciclaje",
+        "Restricción"
       ],
       "firstMoves": [
-        "Constricción",
-        "Red Viscosa",
-        "Yo Primero",
-        "Rugido"
+        "Agua Fría",
+        "Barrera",
+        "Copión"
       ],
-      "spriteKey": "AZURILL"
+      "spriteKey": "BRIONNE"
     }
   ],
   "box": [
@@ -1002,6 +1002,119 @@
         "Shuriken de Agua"
       ],
       "spriteKey": "KRABBY"
+    },
+    {
+      "nickname": "Pereira",
+      "species": "Bidoof",
+      "level": 17,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Cobardía",
+      "nature": "Mansa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Ojos Llorosos",
+        "Destello",
+        "Carga Parábola",
+        "Ojitos Tiernos"
+      ],
+      "iv": [
+        8,
+        29,
+        2,
+        7,
+        27,
+        11
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Inmunidad",
+        "Cobardía"
+      ],
+      "abilHidden": [
+        "Presión"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Aromaterapia"
+        },
+        {
+          "lvl": 1,
+          "m": "Estrujón"
+        },
+        {
+          "lvl": 5,
+          "m": "Ojos Llorosos"
+        },
+        {
+          "lvl": 9,
+          "m": "Destello"
+        },
+        {
+          "lvl": 13,
+          "m": "Carga Parábola"
+        },
+        {
+          "lvl": 17,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 21,
+          "m": "Zona Extraña"
+        },
+        {
+          "lvl": 21,
+          "m": "Sonámbulo"
+        },
+        {
+          "lvl": 25,
+          "m": "Desarrollo"
+        },
+        {
+          "lvl": 29,
+          "m": "Dulce Aroma"
+        },
+        {
+          "lvl": 33,
+          "m": "Daño Secreto"
+        },
+        {
+          "lvl": 37,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 41,
+          "m": "Hipertaladro"
+        },
+        {
+          "lvl": 45,
+          "m": "Guillotina"
+        },
+        {
+          "lvl": 49,
+          "m": "Puño Bala"
+        }
+      ],
+      "tmMoves": [
+        "Bilis"
+      ],
+      "firstMoves": [
+        "Ojos Llorosos",
+        "Destello",
+        "Carga Parábola",
+        "Ojitos Tiernos"
+      ],
+      "spriteKey": "BIDOOF"
     }
   ],
   "graveyard": [
@@ -1519,15 +1632,15 @@
   ],
   "captures": [
     {
-      "route": "ruta_22",
-      "where": "Ruta 22",
-      "species": "Brionne",
-      "nickname": "Princesita",
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Azurill",
+      "nickname": "Marilus",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 6,
-      "mon": "Brionne"
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Azurill"
     },
     {
       "route": "ciudad_plateada",
@@ -1574,15 +1687,15 @@
       "mon": "Tadbulb"
     },
     {
-      "route": "",
-      "where": "Museo Pokémon",
-      "species": "Azurill",
-      "nickname": "Marilus",
+      "route": "ruta_22",
+      "where": "Ruta 22",
+      "species": "Brionne",
+      "nickname": "Princesita",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 1,
-      "mon": "Azurill"
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Brionne"
     },
     {
       "route": "monte_moon_exterior",
@@ -1660,6 +1773,17 @@
       "category": "ciudad",
       "level": 5,
       "mon": "Gothita"
+    },
+    {
+      "route": "ruta_4",
+      "where": "Ruta 4",
+      "species": "Bidoof",
+      "nickname": "Pereira",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 17,
+      "mon": "Bidoof"
     }
   ],
   "progress": {
@@ -1669,17 +1793,19 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ruta_22": true,
       "ciudad_plateada": true,
       "bosque_verde": true,
+      "ruta_22": true,
       "monte_moon_exterior": true,
       "monte_moon": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
       "ciudad_verde": true,
+      "ruta_4": true,
       "ruta_1": true,
       "ruta_2_norte": true,
-      "ruta_3": true
+      "ruta_3": true,
+      "ciudad_celeste": true
     },
     "items": {},
     "encounters": {
@@ -1693,7 +1819,8 @@
       "ciudad_plateada": true,
       "ruta_3": true,
       "monte_moon": true,
-      "monte_moon_exterior": true
+      "monte_moon_exterior": true,
+      "ruta_4": true
     },
     "switches": [
       48,
@@ -1707,6 +1834,7 @@
       71,
       72,
       73,
+      74,
       75,
       110,
       112,
@@ -1734,11 +1862,13 @@
       "Bola Férrea",
       "Cenizas Sagradas",
       "Cola Plúmbea",
+      "Crítico X 3",
       "Cubresuelos",
       "Cuerda Huida",
       "Ensueño Ball",
       "Fósil Hélix",
       "Galleta Lava",
+      "Garra Garfio",
       "Garra Rápida",
       "Gema Fantasma",
       "Gema Planta",
@@ -1746,14 +1876,17 @@
       "Hierba Única",
       "Mejora",
       "Menta Floja",
+      "Menta Mansa",
       "Menta Miedosa",
       "Miniseta",
       "MO Golpe Roca",
       "MT01",
+      "MT102",
       "MT104",
       "MT111",
       "MT114",
       "MT120",
+      "MT16",
       "MT23",
       "MT27",
       "MT34",
@@ -1868,6 +2001,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "GRIPCLAW",
+        "name": "Garra Garfio",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "TIMIDMINT",
         "name": "Menta Miedosa",
         "qty": 1,
@@ -1898,9 +2037,15 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "QUIETMINT",
+        "name": "Menta Mansa",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 11,
+        "qty": 10,
         "pocket": "Poké Balls"
       },
       {
@@ -1924,6 +2069,12 @@
       {
         "id": "TM01",
         "name": "MT01",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM16",
+        "name": "MT16",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -1988,6 +2139,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM102",
+        "name": "MT102",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM104",
         "name": "MT104",
         "qty": 1,
@@ -2038,6 +2195,12 @@
       {
         "id": "XATTACK6",
         "name": "Ataque X 6",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "DIREHIT3",
+        "name": "Crítico X 3",
         "qty": 1,
         "pocket": "Objetos de combate"
       },
