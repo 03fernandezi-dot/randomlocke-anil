@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 2h 26m jugadas · 6,480₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 2h 54m jugadas · 7,080₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Espía",
@@ -33,12 +33,12 @@
         21
       ],
       "ev": [
-        8,
+        10,
         4,
         6,
         3,
         5,
-        5
+        6
       ],
       "abilPool": [
         "Metal Liviano"
@@ -153,12 +153,12 @@
         11
       ],
       "ev": [
-        8,
+        10,
         4,
         6,
         3,
         4,
-        5
+        6
       ],
       "abilPool": [
         "Corrosión",
@@ -284,12 +284,12 @@
         6
       ],
       "ev": [
-        7,
+        9,
         4,
         6,
         2,
         4,
-        5
+        6
       ],
       "abilPool": [
         "Iceberg"
@@ -386,7 +386,7 @@
     {
       "nickname": "Nemo",
       "species": "Goldeen",
-      "level": 11,
+      "level": 12,
       "types": [
         "Agua"
       ],
@@ -409,12 +409,12 @@
         3
       ],
       "ev": [
-        0,
+        2,
         1,
         2,
         1,
         0,
-        0
+        1
       ],
       "abilPool": [
         "Cola Surf",
@@ -526,12 +526,12 @@
         28
       ],
       "ev": [
-        8,
+        10,
         4,
         4,
         2,
         2,
-        4
+        5
       ],
       "abilPool": [
         "Insomnio"
@@ -615,7 +615,7 @@
     {
       "nickname": "MECAGOENTODO",
       "species": "Metapod",
-      "level": 12,
+      "level": 13,
       "types": [
         "Bicho"
       ],
@@ -637,12 +637,12 @@
         10
       ],
       "ev": [
-        5,
+        7,
         1,
         2,
         0,
         0,
-        2
+        3
       ],
       "abilPool": [
         "Aura Oscura"
@@ -1314,8 +1314,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
