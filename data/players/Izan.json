@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 4h 56m jugadas · 26,570₽ · vidas en el juego: 25",
+  "notes": "Importado del save · 4h 57m jugadas · 26,570₽ · vidas en el juego: 25",
   "team": [
     {
       "nickname": "Marilus",
@@ -661,7 +661,16 @@
         }
       ],
       "tmMoves": [
-        "Cascabel Cura"
+        "Bilis",
+        "Brecha Negra",
+        "Calamidad",
+        "Cambiaalmas",
+        "Cascabel Cura",
+        "Danza Lunar",
+        "Mordisco",
+        "Restricción",
+        "Robo",
+        "Viento Afín"
       ],
       "firstMoves": [
         "Barrera Espinosa",
@@ -2496,8 +2505,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
