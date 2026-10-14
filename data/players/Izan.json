@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 3h 13m jugadas · 3,560₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 3h 16m jugadas · 3,560₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Espía",
@@ -34,7 +34,7 @@
       ],
       "ev": [
         14,
-        4,
+        5,
         7,
         3,
         7,
@@ -154,7 +154,7 @@
       ],
       "ev": [
         14,
-        4,
+        5,
         7,
         3,
         6,
@@ -285,7 +285,7 @@
       ],
       "ev": [
         13,
-        4,
+        5,
         7,
         2,
         6,
@@ -371,6 +371,12 @@
           "m": "Gravedad"
         }
       ],
+      "tmMoves": [
+        "Beso Dulce",
+        "Brecha Negra",
+        "Reciclaje",
+        "Restricción"
+      ],
       "firstMoves": [
         "Agua Fría",
         "Barrera",
@@ -405,7 +411,7 @@
       ],
       "ev": [
         6,
-        1,
+        2,
         3,
         1,
         2,
@@ -522,7 +528,7 @@
       ],
       "ev": [
         14,
-        4,
+        5,
         5,
         2,
         4,
@@ -610,7 +616,7 @@
     {
       "nickname": "Mariquita",
       "species": "Makuhita",
-      "level": 5,
+      "level": 10,
       "types": [
         "Lucha"
       ],
@@ -619,9 +625,10 @@
       "item": "",
       "shiny": false,
       "moves": [
-        "Vasta Guardia",
+        "Alud",
         "Onda Voltio",
-        "Cambiapoder"
+        "Cambiapoder",
+        "Onda Vacío"
       ],
       "iv": [
         21,
@@ -633,7 +640,7 @@
       ],
       "ev": [
         0,
-        0,
+        1,
         0,
         0,
         0,
@@ -729,7 +736,10 @@
         }
       ],
       "tmMoves": [
-        "Onda Vacío"
+        "Calamidad",
+        "Onda Vacío",
+        "Reciclaje",
+        "Restricción"
       ],
       "firstMoves": [
         "Vasta Guardia",
@@ -887,6 +897,132 @@
         "Finta"
       ],
       "spriteKey": "METAPOD"
+    },
+    {
+      "nickname": "Mister.Krabb",
+      "species": "Krabby",
+      "level": 13,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Poder Gélido",
+      "nature": "Afable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Transformación",
+        "Ayuda",
+        "Bilis",
+        "Shuriken de Agua"
+      ],
+      "iv": [
+        9,
+        29,
+        7,
+        5,
+        13,
+        26
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Armadura Batalla",
+        "Poder Gélido"
+      ],
+      "abilHidden": [
+        "Batería"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Pin Misil"
+        },
+        {
+          "lvl": 1,
+          "m": "Perforador"
+        },
+        {
+          "lvl": 1,
+          "m": "Danza Lluvia"
+        },
+        {
+          "lvl": 1,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 4,
+          "m": "Transformación"
+        },
+        {
+          "lvl": 5,
+          "m": "Ayuda"
+        },
+        {
+          "lvl": 8,
+          "m": "Bilis"
+        },
+        {
+          "lvl": 12,
+          "m": "Shuriken de Agua"
+        },
+        {
+          "lvl": 15,
+          "m": "Triple Inmersión"
+        },
+        {
+          "lvl": 16,
+          "m": "Deslumbrar"
+        },
+        {
+          "lvl": 20,
+          "m": "Silbato"
+        },
+        {
+          "lvl": 24,
+          "m": "Rugido"
+        },
+        {
+          "lvl": 29,
+          "m": "Rayo Burbuja"
+        },
+        {
+          "lvl": 32,
+          "m": "Antojo"
+        },
+        {
+          "lvl": 36,
+          "m": "Profecía"
+        },
+        {
+          "lvl": 39,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 40,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 44,
+          "m": "Contraataque"
+        },
+        {
+          "lvl": 48,
+          "m": "Chorro de Vapor"
+        }
+      ],
+      "firstMoves": [
+        "Transformación",
+        "Ayuda",
+        "Bilis",
+        "Shuriken de Agua"
+      ],
+      "spriteKey": "KRABBY"
     }
   ],
   "graveyard": [
@@ -1234,6 +1370,17 @@
       "mon": "Metapod"
     },
     {
+      "route": "monte_moon",
+      "where": "Monte Moon",
+      "species": "Krabby",
+      "nickname": "Mister.Krabb",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 13,
+      "mon": "Krabby"
+    },
+    {
       "route": "",
       "where": "Laboratorio",
       "species": "Sandile",
@@ -1269,6 +1416,7 @@
       "ciudad_plateada": true,
       "bosque_verde": true,
       "ruta_3": true,
+      "monte_moon": true,
       "ruta_2_sur": true,
       "ruta_1": true,
       "ruta_2_norte": true
@@ -1283,7 +1431,8 @@
       "bosque_verde": true,
       "ruta_2_norte": true,
       "ciudad_plateada": true,
-      "ruta_3": true
+      "ruta_3": true,
+      "monte_moon": true
     },
     "switches": [
       48,
@@ -1452,7 +1601,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 13,
+        "qty": 12,
         "pocket": "Poké Balls"
       },
       {
