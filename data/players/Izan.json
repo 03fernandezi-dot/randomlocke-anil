@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 5h 36m jugadas · 40,400₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 5h 39m jugadas · 40,400₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Chess.com",
@@ -36,10 +36,10 @@
       "ev": [
         3,
         6,
-        4,
-        1,
+        5,
         2,
-        4
+        2,
+        5
       ],
       "abilPool": [
         "Alma Errante"
@@ -132,7 +132,7 @@
     {
       "nickname": "Espía",
       "species": "Pidove",
-      "level": 17,
+      "level": 18,
       "types": [
         "Normal",
         "Volador"
@@ -158,10 +158,10 @@
       "ev": [
         16,
         5,
-        8,
-        3,
         9,
-        9
+        4,
+        9,
+        10
       ],
       "abilPool": [
         "Metal Liviano"
@@ -281,10 +281,10 @@
       "ev": [
         24,
         16,
-        22,
-        8,
+        23,
+        9,
         13,
-        18
+        19
       ],
       "abilPool": [
         "Insomnio"
@@ -397,10 +397,10 @@
       "ev": [
         8,
         10,
-        17,
-        5,
+        18,
+        6,
         7,
-        10
+        11
       ],
       "abilPool": [
         "Perro Guardián",
@@ -514,10 +514,10 @@
       "ev": [
         23,
         16,
-        24,
-        8,
+        25,
+        9,
         15,
-        19
+        20
       ],
       "abilPool": [
         "Psicogénesis"
@@ -648,10 +648,10 @@
       "ev": [
         8,
         6,
-        17,
-        5,
+        18,
+        6,
         7,
-        7
+        8
       ],
       "abilPool": [
         "Megadisparador",
@@ -2357,7 +2357,8 @@
       "ciudad_verde": true,
       "ruta_1": true,
       "ruta_2_norte": true,
-      "ruta_3": true
+      "ruta_3": true,
+      "ruta_6": true
     },
     "items": {},
     "encounters": {
@@ -2376,7 +2377,8 @@
       "ciudad_celeste": true,
       "ruta_20": true,
       "ruta_21": true,
-      "ruta_5": true
+      "ruta_5": true,
+      "ruta_6": true
     },
     "switches": [
       48,
@@ -2467,6 +2469,7 @@
       "MT47",
       "MT51",
       "MT71",
+      "MT79",
       "MT83",
       "MT85",
       "MT86",
@@ -2757,6 +2760,12 @@
       {
         "id": "TM71",
         "name": "MT71",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM79",
+        "name": "MT79",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
