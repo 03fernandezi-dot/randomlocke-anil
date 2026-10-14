@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 2h 54m jugadas · 7,080₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 3h 1m jugadas · 1,190₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Espía",
       "species": "Pidove",
-      "level": 14,
+      "level": 15,
       "types": [
         "Normal",
         "Volador"
@@ -33,12 +33,12 @@
         21
       ],
       "ev": [
-        10,
+        11,
         4,
-        6,
+        7,
         3,
         5,
-        6
+        7
       ],
       "abilPool": [
         "Metal Liviano"
@@ -130,7 +130,7 @@
     {
       "nickname": "GoticaCulona",
       "species": "Gothita",
-      "level": 14,
+      "level": 15,
       "types": [
         "Psíquico"
       ],
@@ -153,12 +153,12 @@
         11
       ],
       "ev": [
-        10,
+        11,
         4,
-        6,
+        7,
         3,
         4,
-        6
+        7
       ],
       "abilPool": [
         "Corrosión",
@@ -261,7 +261,7 @@
     {
       "nickname": "Princesita",
       "species": "Popplio",
-      "level": 14,
+      "level": 15,
       "types": [
         "Agua"
       ],
@@ -284,12 +284,12 @@
         6
       ],
       "ev": [
-        9,
+        10,
         4,
-        6,
+        7,
         2,
         4,
-        6
+        7
       ],
       "abilPool": [
         "Iceberg"
@@ -386,7 +386,7 @@
     {
       "nickname": "Nemo",
       "species": "Goldeen",
-      "level": 12,
+      "level": 13,
       "types": [
         "Agua"
       ],
@@ -409,12 +409,12 @@
         3
       ],
       "ev": [
-        2,
+        3,
         1,
-        2,
+        3,
         1,
         0,
-        1
+        2
       ],
       "abilPool": [
         "Cola Surf",
@@ -502,7 +502,7 @@
     {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 13,
+      "level": 14,
       "types": [
         "Acero",
         "Fantasma"
@@ -526,12 +526,12 @@
         28
       ],
       "ev": [
-        10,
+        11,
         4,
-        4,
+        5,
         2,
         2,
-        5
+        6
       ],
       "abilPool": [
         "Insomnio"
@@ -615,7 +615,7 @@
     {
       "nickname": "MECAGOENTODO",
       "species": "Metapod",
-      "level": 13,
+      "level": 14,
       "types": [
         "Bicho"
       ],
@@ -637,12 +637,12 @@
         10
       ],
       "ev": [
-        7,
+        8,
         1,
-        2,
+        3,
         0,
         0,
-        3
+        4
       ],
       "abilPool": [
         "Aura Oscura"
@@ -676,7 +676,92 @@
       "spriteKey": "METAPOD"
     }
   ],
-  "box": [],
+  "box": [
+    {
+      "nickname": "Whopper",
+      "species": "Wynaut",
+      "level": 13,
+      "types": [
+        "Psíquico"
+      ],
+      "ability": "Energía Eólica",
+      "nature": "Osada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Trampa Rocas",
+        "Auxilio",
+        "Campo de Hierba",
+        "Picadura"
+      ],
+      "iv": [
+        13,
+        29,
+        1,
+        6,
+        19,
+        24
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Energía Eólica"
+      ],
+      "abilHidden": [
+        "Cacheo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Conversión"
+        },
+        {
+          "lvl": 1,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 1,
+          "m": "Conversión2"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Roca"
+        },
+        {
+          "lvl": 1,
+          "m": "Trampa Rocas"
+        },
+        {
+          "lvl": 1,
+          "m": "Auxilio"
+        },
+        {
+          "lvl": 1,
+          "m": "Campo de Hierba"
+        },
+        {
+          "lvl": 1,
+          "m": "Picadura"
+        }
+      ],
+      "tmMoves": [
+        "Danza Lunar"
+      ],
+      "firstMoves": [
+        "Trampa Rocas",
+        "Auxilio",
+        "Campo de Hierba",
+        "Picadura"
+      ],
+      "spriteKey": "WYNAUT"
+    }
+  ],
   "graveyard": [
     {
       "nickname": "Bombardero",
@@ -1000,6 +1085,17 @@
       "mon": "Metapod"
     },
     {
+      "route": "ruta_3",
+      "where": "Ruta 3",
+      "species": "Wynaut",
+      "nickname": "Whopper",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 13,
+      "mon": "Wynaut"
+    },
+    {
       "route": "",
       "where": "Laboratorio",
       "species": "Sandile",
@@ -1034,10 +1130,10 @@
       "ruta_22": true,
       "ciudad_plateada": true,
       "bosque_verde": true,
+      "ruta_3": true,
       "ruta_2_sur": true,
       "ruta_1": true,
-      "ruta_2_norte": true,
-      "ruta_3": true
+      "ruta_2_norte": true
     },
     "items": {},
     "encounters": {
@@ -1048,7 +1144,8 @@
       "ruta_2_sur": true,
       "bosque_verde": true,
       "ruta_2_norte": true,
-      "ciudad_plateada": true
+      "ciudad_plateada": true,
+      "ruta_3": true
     },
     "switches": [
       48,
@@ -1093,6 +1190,7 @@
       "Menta Miedosa",
       "Miniseta",
       "MO Golpe Roca",
+      "MT01",
       "MT104",
       "MT111",
       "MT114",
@@ -1208,14 +1306,26 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 6,
+        "qty": 13,
         "pocket": "Poké Balls"
       },
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
+        "qty": 11,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "PREMIERBALL",
+        "name": "Honor Ball",
         "qty": 1,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM01",
+        "name": "MT01",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "TM27",
