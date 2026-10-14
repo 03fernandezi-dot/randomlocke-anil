@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 4h 57m jugadas · 26,570₽ · vidas en el juego: 25",
+  "notes": "Importado del save · 4h 58m jugadas · 26,570₽ · vidas en el juego: 25",
   "team": [
     {
       "nickname": "Marilus",
@@ -571,7 +571,7 @@
         "Planta"
       ],
       "ability": "Irascible",
-      "nature": "Ingenua",
+      "nature": "Floja",
       "item": "",
       "shiny": false,
       "moves": [
@@ -580,6 +580,8 @@
         "Bomba Caramelo",
         "Sustituto"
       ],
+      "natureMint": true,
+      "natureBase": "Ingenua",
       "iv": [
         17,
         13,
@@ -2303,12 +2305,6 @@
       {
         "id": "CASTELIACONE",
         "name": "Porcehelado",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "LAXMINT",
-        "name": "Menta Floja",
         "qty": 1,
         "pocket": "Medicinas"
       },
