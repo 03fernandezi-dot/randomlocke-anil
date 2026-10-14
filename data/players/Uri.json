@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 41m jugadas · 6,130₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 44m jugadas · 7,830₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Matao",
       "species": "Swirlix",
-      "level": 16,
+      "level": 17,
       "types": [
         "Hada"
       ],
@@ -33,11 +33,11 @@
       ],
       "ev": [
         3,
-        2,
+        3,
         2,
         0,
         2,
-        1
+        3
       ],
       "abilPool": [
         "Cura Lluvia",
@@ -134,7 +134,7 @@
     {
       "nickname": "Bonifacio",
       "species": "Cherubi",
-      "level": 16,
+      "level": 17,
       "types": [
         "Planta"
       ],
@@ -158,11 +158,11 @@
       ],
       "ev": [
         7,
-        8,
+        9,
         9,
         7,
         8,
-        8
+        10
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -237,7 +237,7 @@
     {
       "nickname": "Pau",
       "species": "Bibarel",
-      "level": 16,
+      "level": 17,
       "types": [
         "Normal",
         "Agua"
@@ -262,11 +262,11 @@
       ],
       "ev": [
         6,
-        8,
+        9,
         9,
         7,
         8,
-        8
+        10
       ],
       "abilPool": [
         "Irascible",
@@ -358,7 +358,7 @@
     {
       "nickname": "Calaca",
       "species": "Shelmet",
-      "level": 16,
+      "level": 17,
       "types": [
         "Bicho"
       ],
@@ -382,11 +382,11 @@
       ],
       "ev": [
         6,
-        8,
+        9,
         8,
         7,
         8,
-        7
+        9
       ],
       "abilPool": [
         "Aura Feérica",
@@ -470,12 +470,12 @@
     },
     {
       "nickname": "Milo",
-      "species": "Totodile",
-      "level": 17,
+      "species": "Croconaw",
+      "level": 18,
       "types": [
         "Agua"
       ],
-      "ability": "Recogebolas",
+      "ability": "Cola Surf",
       "nature": "Huraña",
       "item": "",
       "shiny": false,
@@ -495,95 +495,91 @@
       ],
       "ev": [
         6,
-        4,
+        5,
         4,
         4,
         7,
-        5
+        7
       ],
       "abilPool": [
-        "Recogebolas"
+        "Cola Surf"
       ],
       "abilHidden": [
-        "Rompeaura"
+        "Pompa"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Polvo Mágico"
+          "m": "Refugio"
         },
         {
           "lvl": 1,
-          "m": "Kinético"
+          "m": "Acua Aro"
         },
         {
-          "lvl": 6,
-          "m": "Decalcomanía"
-        },
-        {
-          "lvl": 8,
-          "m": "Polvo Explosivo"
+          "lvl": 1,
+          "m": "Estrujón"
         },
         {
           "lvl": 8,
-          "m": "Metrónomo"
+          "m": "Alud"
         },
         {
-          "lvl": 9,
-          "m": "Defensa Floral"
-        },
-        {
-          "lvl": 13,
-          "m": "Gota Vital"
-        },
-        {
-          "lvl": 19,
-          "m": "Chispa"
-        },
-        {
-          "lvl": 22,
-          "m": "Gruñido"
-        },
-        {
-          "lvl": 27,
-          "m": "Mismo Destino"
-        },
-        {
-          "lvl": 29,
-          "m": "Tenaza"
-        },
-        {
-          "lvl": 29,
-          "m": "Alivio"
-        },
-        {
-          "lvl": 30,
+          "lvl": 8,
           "m": "Clavo Cañón"
         },
         {
+          "lvl": 13,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 15,
+          "m": "Descanso"
+        },
+        {
+          "lvl": 21,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 24,
+          "m": "Agua Fría"
+        },
+        {
+          "lvl": 30,
+          "m": "Maquinación"
+        },
+        {
           "lvl": 33,
-          "m": "Placaje"
+          "m": "Salpicar"
+        },
+        {
+          "lvl": 33,
+          "m": "Empapar"
+        },
+        {
+          "lvl": 34,
+          "m": "Aerochorro"
         },
         {
           "lvl": 37,
+          "m": "Carantoña"
+        },
+        {
+          "lvl": 42,
           "m": "Pulpocañón"
         },
         {
-          "lvl": 41,
-          "m": "Follaje"
-        },
-        {
-          "lvl": 45,
-          "m": "V de Fuego"
+          "lvl": 47,
+          "m": "Atracción"
         },
         {
           "lvl": 50,
-          "m": "Arenas Ardientes"
+          "m": "Aria Burbuja"
+        },
+        {
+          "lvl": 55,
+          "m": "Gota Vital"
         }
-      ],
-      "tmMoves": [
-        "Ladrón",
-        "Tajo Metralla"
       ],
       "firstMoves": [
         "Golpe Roca",
@@ -591,12 +587,12 @@
         "Metrónomo",
         "Defensa Floral"
       ],
-      "spriteKey": "TOTODILE"
+      "spriteKey": "CROCONAW"
     },
     {
       "nickname": "Izan",
       "species": "Marshtomp",
-      "level": 17,
+      "level": 18,
       "types": [
         "Agua",
         "Tierra"
@@ -621,11 +617,11 @@
       ],
       "ev": [
         8,
-        8,
+        9,
         9,
         8,
         8,
-        8
+        10
       ],
       "abilPool": [
         "Teracaparazón"
@@ -1331,13 +1327,13 @@
     {
       "route": "ciudad_plateada",
       "where": "Ciudad Plateada",
-      "species": "Totodile",
+      "species": "Croconaw",
       "nickname": "Milo",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
       "level": 10,
-      "mon": "Totodile"
+      "mon": "Croconaw"
     },
     {
       "route": "",
@@ -1422,7 +1418,8 @@
       "bosque_verde": true,
       "ruta_22": true,
       "ciudad_verde": true,
-      "ruta_3": true
+      "ruta_3": true,
+      "monte_moon_exterior": true
     },
     "items": {},
     "encounters": {
@@ -1446,10 +1443,13 @@
       68,
       69,
       71,
+      72,
+      73,
       110,
       112,
       113,
       114,
+      121,
       176,
       179,
       180,
