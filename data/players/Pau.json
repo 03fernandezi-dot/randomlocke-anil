@@ -4,132 +4,8 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 1h 39m jugadas · 1,920₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 1h 43m jugadas · 3,420₽ · vidas en el juego: 28",
   "team": [
-    {
-      "nickname": "Shawn",
-      "species": "Mareep",
-      "level": 15,
-      "types": [
-        "Eléctrico"
-      ],
-      "ability": "Despiste",
-      "nature": "Serena",
-      "item": "Supereviolita",
-      "shiny": false,
-      "moves": [
-        "Tajo Acuático",
-        "Viento Aciago",
-        "Bola Voltio",
-        "Levitón"
-      ],
-      "iv": [
-        10,
-        4,
-        31,
-        1,
-        11,
-        19
-      ],
-      "ev": [
-        3,
-        6,
-        4,
-        9,
-        5,
-        7
-      ],
-      "abilPool": [
-        "Despiste"
-      ],
-      "abilHidden": [
-        "Descarga"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Viento Aciago"
-        },
-        {
-          "lvl": 1,
-          "m": "Tajo Acuático"
-        },
-        {
-          "lvl": 4,
-          "m": "Deslome"
-        },
-        {
-          "lvl": 8,
-          "m": "Aura Magnética"
-        },
-        {
-          "lvl": 11,
-          "m": "Levitón"
-        },
-        {
-          "lvl": 15,
-          "m": "Bola Voltio"
-        },
-        {
-          "lvl": 18,
-          "m": "Protección"
-        },
-        {
-          "lvl": 20,
-          "m": "A Defender"
-        },
-        {
-          "lvl": 22,
-          "m": "Zona Mágica"
-        },
-        {
-          "lvl": 25,
-          "m": "Disparo Demora"
-        },
-        {
-          "lvl": 29,
-          "m": "Recogearena"
-        },
-        {
-          "lvl": 32,
-          "m": "Danza Aleteo"
-        },
-        {
-          "lvl": 36,
-          "m": "Electrorrayo"
-        },
-        {
-          "lvl": 39,
-          "m": "Pulso de Campo"
-        },
-        {
-          "lvl": 39,
-          "m": "Electropalmas"
-        },
-        {
-          "lvl": 39,
-          "m": "Extracto Picante"
-        },
-        {
-          "lvl": 43,
-          "m": "Orbes Espectro"
-        },
-        {
-          "lvl": 46,
-          "m": "Trampa Rocas"
-        }
-      ],
-      "tmMoves": [
-        "Camelo",
-        "Estrujón"
-      ],
-      "firstMoves": [
-        "Viento Aciago",
-        "Tajo Acuático",
-        "Deslome"
-      ],
-      "spriteKey": "MAREEP"
-    },
     {
       "nickname": "Calamardo",
       "species": "Tentacool",
@@ -143,8 +19,8 @@
       "item": "Lodo Negro",
       "shiny": false,
       "moves": [
+        "Burbuja",
         "Púas Tóxicas",
-        "Clavo Cañón",
         "Voltiocambio",
         "Pedrada"
       ],
@@ -158,11 +34,11 @@
       ],
       "ev": [
         3,
-        5,
+        6,
         2,
         8,
         4,
-        7
+        8
       ],
       "abilPool": [
         "Espada Debacle",
@@ -250,6 +126,8 @@
         }
       ],
       "tmMoves": [
+        "Barrera",
+        "Burbuja",
         "Clavo Cañón",
         "Danza Lunar",
         "Pulso de Campo",
@@ -263,9 +141,135 @@
       "spriteKey": "TENTACOOL"
     },
     {
+      "nickname": "Shawn",
+      "species": "Mareep",
+      "level": 16,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Despiste",
+      "nature": "Serena",
+      "item": "Supereviolita",
+      "shiny": false,
+      "moves": [
+        "Bola Voltio",
+        "Viento Aciago",
+        "Burbuja",
+        "Levitón"
+      ],
+      "iv": [
+        10,
+        4,
+        31,
+        1,
+        11,
+        19
+      ],
+      "ev": [
+        3,
+        7,
+        4,
+        9,
+        5,
+        8
+      ],
+      "abilPool": [
+        "Despiste"
+      ],
+      "abilHidden": [
+        "Descarga"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Viento Aciago"
+        },
+        {
+          "lvl": 1,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 4,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 8,
+          "m": "Aura Magnética"
+        },
+        {
+          "lvl": 11,
+          "m": "Levitón"
+        },
+        {
+          "lvl": 15,
+          "m": "Bola Voltio"
+        },
+        {
+          "lvl": 18,
+          "m": "Protección"
+        },
+        {
+          "lvl": 20,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 22,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 25,
+          "m": "Disparo Demora"
+        },
+        {
+          "lvl": 29,
+          "m": "Recogearena"
+        },
+        {
+          "lvl": 32,
+          "m": "Danza Aleteo"
+        },
+        {
+          "lvl": 36,
+          "m": "Electrorrayo"
+        },
+        {
+          "lvl": 39,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 39,
+          "m": "Electropalmas"
+        },
+        {
+          "lvl": 39,
+          "m": "Extracto Picante"
+        },
+        {
+          "lvl": 43,
+          "m": "Orbes Espectro"
+        },
+        {
+          "lvl": 46,
+          "m": "Trampa Rocas"
+        }
+      ],
+      "tmMoves": [
+        "Burbuja",
+        "Camelo",
+        "Estrujón",
+        "Gas Corrosivo"
+      ],
+      "firstMoves": [
+        "Viento Aciago",
+        "Tajo Acuático",
+        "Deslome"
+      ],
+      "spriteKey": "MAREEP"
+    },
+    {
       "nickname": "Mariposon",
       "species": "Metapod",
-      "level": 14,
+      "level": 15,
       "types": [
         "Bicho"
       ],
@@ -275,7 +279,7 @@
       "shiny": false,
       "moves": [
         "Doble Ataque",
-        "Doble Bofetón",
+        "Eco Voz",
         "Vendetta",
         "Viraje"
       ],
@@ -289,11 +293,11 @@
       ],
       "ev": [
         2,
-        4,
+        5,
         2,
         7,
         4,
-        7
+        8
       ],
       "abilPool": [
         "Unísono"
@@ -314,8 +318,10 @@
         }
       ],
       "tmMoves": [
+        "Burbuja",
         "Camelo",
         "Estrujón",
+        "Gas Corrosivo",
         "Pulso de Campo"
       ],
       "firstMoves": [
@@ -327,7 +333,7 @@
     {
       "nickname": "Poleomenta",
       "species": "Sinistea",
-      "level": 14,
+      "level": 15,
       "types": [
         "Fantasma"
       ],
@@ -351,11 +357,11 @@
       ],
       "ev": [
         0,
-        4,
+        5,
         0,
         1,
         4,
-        6
+        7
       ],
       "abilPool": [
         "Firmeza"
@@ -425,6 +431,7 @@
         "Camelo",
         "Clavo Cañón",
         "Danza Lunar",
+        "Gas Corrosivo",
         "Velo Sagrado"
       ],
       "firstMoves": [
@@ -437,13 +444,13 @@
     },
     {
       "nickname": "Hedwig",
-      "species": "Rowlet",
-      "level": 15,
+      "species": "Dartrix",
+      "level": 16,
       "types": [
         "Planta",
         "Volador"
       ],
-      "ability": "Vigilante",
+      "ability": "Gran Encanto",
       "nature": "Amable",
       "item": "",
       "shiny": false,
@@ -463,90 +470,87 @@
       ],
       "ev": [
         0,
-        4,
+        5,
         0,
         2,
         4,
-        6
+        7
       ],
       "abilPool": [
-        "Vigilante"
+        "Gran Encanto"
       ],
       "abilHidden": [
-        "Pareja de Baile"
+        "Velo Agua"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Golpe Kárate"
-        },
-        {
-          "lvl": 1,
-          "m": "Motivación"
-        },
-        {
-          "lvl": 6,
-          "m": "Follaje"
-        },
-        {
-          "lvl": 7,
-          "m": "Hoja Mágica"
-        },
-        {
-          "lvl": 8,
-          "m": "Mofa"
-        },
-        {
-          "lvl": 9,
-          "m": "Truco Floral"
-        },
-        {
-          "lvl": 12,
-          "m": "Ofrenda"
-        },
-        {
-          "lvl": 15,
           "m": "Punzada Rama"
         },
         {
-          "lvl": 18,
-          "m": "Barrera Espinosa"
+          "lvl": 1,
+          "m": "Tragar"
         },
         {
-          "lvl": 18,
-          "m": "Brecha Negra"
+          "lvl": 1,
+          "m": "Espora"
         },
         {
-          "lvl": 21,
-          "m": "Patada Tropical"
+          "lvl": 1,
+          "m": "Furia"
         },
         {
-          "lvl": 24,
-          "m": "Respiro"
+          "lvl": 1,
+          "m": "Tormenta Arena"
         },
         {
-          "lvl": 27,
-          "m": "Ojos Llorosos"
+          "lvl": 9,
+          "m": "Furia Natural"
         },
         {
-          "lvl": 29,
-          "m": "Encanto"
+          "lvl": 12,
+          "m": "Viento Afín"
+        },
+        {
+          "lvl": 15,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 19,
+          "m": "Onda Simple"
+        },
+        {
+          "lvl": 20,
+          "m": "Paga Extra"
+        },
+        {
+          "lvl": 25,
+          "m": "Represalia"
         },
         {
           "lvl": 30,
-          "m": "Somnífero"
+          "m": "Camelo"
         },
         {
           "lvl": 33,
-          "m": "Psicorrayo"
+          "m": "Liofilización"
         },
         {
-          "lvl": 36,
-          "m": "Viento Plata"
+          "lvl": 35,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 40,
+          "m": "Patada Giro"
+        },
+        {
+          "lvl": 45,
+          "m": "Tornado"
+        },
+        {
+          "lvl": 50,
+          "m": "Calcinación"
         }
-      ],
-      "tmMoves": [
-        "Estrujón"
       ],
       "firstMoves": [
         "Follaje",
@@ -554,7 +558,7 @@
         "Mofa",
         "Truco Floral"
       ],
-      "spriteKey": "ROWLET"
+      "spriteKey": "DARTRIX"
     },
     {
       "nickname": "Capullazo",
@@ -584,11 +588,11 @@
       ],
       "ev": [
         0,
-        2,
+        3,
         0,
         0,
         2,
-        3
+        4
       ],
       "abilPool": [
         "Camorrista",
@@ -666,6 +670,12 @@
           "lvl": 55,
           "m": "Esfera Aural"
         }
+      ],
+      "tmMoves": [
+        "Camelo",
+        "Danza Lunar",
+        "Estrujón",
+        "Represión Metal"
       ],
       "firstMoves": [
         "Aguijón Letal"
@@ -1370,17 +1380,6 @@
   ],
   "captures": [
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Mareep",
-      "nickname": "Shawn",
-      "shiny": false,
-      "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Mareep"
-    },
-    {
       "route": "ruta_2_sur",
       "where": "Ruta 2 Sur",
       "species": "Tentacool",
@@ -1390,6 +1389,17 @@
       "category": "salvaje",
       "level": 5,
       "mon": "Tentacool"
+    },
+    {
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Mareep",
+      "nickname": "Shawn",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Mareep"
     },
     {
       "route": "bosque_verde",
@@ -1416,13 +1426,13 @@
     {
       "route": "ciudad_plateada",
       "where": "Ciudad Plateada",
-      "species": "Rowlet",
+      "species": "Dartrix",
       "nickname": "Hedwig",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
       "level": 10,
-      "mon": "Rowlet"
+      "mon": "Dartrix"
     },
     {
       "route": "ruta_2_norte",
@@ -1576,6 +1586,7 @@
       "Miniseta",
       "MO Golpe Roca",
       "MT07",
+      "MT123",
       "MT19",
       "MT38",
       "MT39",
@@ -1584,9 +1595,11 @@
       "MT85",
       "MT86",
       "MT89",
+      "MT90",
       "Pesa Recia",
       "Poké Montura",
       "Rapid Ball",
+      "Real Plata",
       "Reglamento",
       "Scapsula",
       "Servicio Raro",
@@ -1645,6 +1658,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "RELICSILVER",
+        "name": "Real Plata",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "LONELYMINT",
         "name": "Menta Huraña",
         "qty": 1,
@@ -1683,7 +1702,7 @@
       {
         "id": "POTION",
         "name": "Poción",
-        "qty": 2,
+        "qty": 1,
         "pocket": "Medicinas"
       },
       {
@@ -1773,6 +1792,18 @@
       {
         "id": "TM89",
         "name": "MT89",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM90",
+        "name": "MT90",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM123",
+        "name": "MT123",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
