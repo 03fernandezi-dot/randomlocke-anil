@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 44m jugadas · 7,830₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 46m jugadas · 7,330₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Matao",
@@ -580,6 +580,9 @@
           "lvl": 55,
           "m": "Gota Vital"
         }
+      ],
+      "tmMoves": [
+        "Poder Pasado"
       ],
       "firstMoves": [
         "Golpe Roca",
@@ -1450,6 +1453,7 @@
       113,
       114,
       121,
+      138,
       176,
       179,
       180,
@@ -1463,6 +1467,7 @@
     "foundItems": [
       "Acopio Ball",
       "Activaobjeto",
+      "Álbum de Fotos",
       "Baya Ango",
       "Baya Baribá",
       "Baya Lagro",
@@ -1485,6 +1490,7 @@
       "MT06",
       "MT103",
       "MT109",
+      "MT11",
       "MT26",
       "MT39",
       "MT43",
@@ -1500,6 +1506,7 @@
       "Poké Montura",
       "Radar",
       "Reglamento",
+      "Seguro Fallo",
       "Supercaña",
       "Vial"
     ],
@@ -1571,6 +1578,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "BLUNDERPOLICY",
+        "name": "Seguro Fallo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "BOLDMINT",
         "name": "Menta Osada",
         "qty": 1,
@@ -1633,6 +1646,12 @@
       {
         "id": "TM06",
         "name": "MT06",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM11",
+        "name": "MT11",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -1771,6 +1790,12 @@
       {
         "id": "ROCKSMASHITEM",
         "name": "MO Golpe Roca",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "ALBUMFOTOS",
+        "name": "Álbum de Fotos",
         "qty": 1,
         "pocket": "Objetos clave"
       }
