@@ -4,12 +4,125 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 5h 39m jugadas · 40,400₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 6h 1m jugadas · 48,490₽ · vidas en el juego: 24",
   "team": [
+    {
+      "nickname": "Espía",
+      "species": "Tranquill",
+      "level": 22,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Pelaje Recio",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cuchillada",
+        "Nitrocarga",
+        "Cambiafuerza",
+        "Beso Dulce"
+      ],
+      "iv": [
+        6,
+        11,
+        2,
+        21,
+        2,
+        21
+      ],
+      "ev": [
+        18,
+        11,
+        11,
+        4,
+        11,
+        10
+      ],
+      "abilPool": [
+        "Pelaje Recio"
+      ],
+      "abilHidden": [
+        "Poder Fúngico"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Pantalla de Humo"
+        },
+        {
+          "lvl": 1,
+          "m": "Estrujón"
+        },
+        {
+          "lvl": 1,
+          "m": "Destructor"
+        },
+        {
+          "lvl": 1,
+          "m": "Psicocambio"
+        },
+        {
+          "lvl": 12,
+          "m": "Sacrificio"
+        },
+        {
+          "lvl": 13,
+          "m": "Cede Paso"
+        },
+        {
+          "lvl": 16,
+          "m": "Vaho Gélido"
+        },
+        {
+          "lvl": 20,
+          "m": "Pesadilla"
+        },
+        {
+          "lvl": 26,
+          "m": "Fría Acogida"
+        },
+        {
+          "lvl": 34,
+          "m": "Pikaturbo"
+        },
+        {
+          "lvl": 36,
+          "m": "Pugnachoque"
+        },
+        {
+          "lvl": 38,
+          "m": "Balón Ígneo"
+        },
+        {
+          "lvl": 44,
+          "m": "Mordisco"
+        },
+        {
+          "lvl": 50,
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 50,
+          "m": "Onda Tóxica"
+        },
+        {
+          "lvl": 56,
+          "m": "Azote"
+        }
+      ],
+      "firstMoves": [
+        "Cuchillada",
+        "Refuerzo",
+        "Pulso de Campo"
+      ],
+      "spriteKey": "TRANQUILL"
+    },
     {
       "nickname": "Chess.com",
       "species": "Quilladin",
-      "level": 22,
+      "level": 24,
       "types": [
         "Planta"
       ],
@@ -34,11 +147,11 @@
         27
       ],
       "ev": [
-        3,
-        6,
         5,
+        12,
+        7,
         2,
-        2,
+        4,
         5
       ],
       "abilPool": [
@@ -115,7 +228,9 @@
       ],
       "tmMoves": [
         "Aguante",
+        "Bloqueo",
         "Calamidad",
+        "Campo Eléctrico",
         "Cascabel Cura",
         "Danza Lunar",
         "Mordisco",
@@ -130,132 +245,9 @@
       "spriteKey": "QUILLADIN"
     },
     {
-      "nickname": "Espía",
-      "species": "Pidove",
-      "level": 18,
-      "types": [
-        "Normal",
-        "Volador"
-      ],
-      "ability": "Metal Liviano",
-      "nature": "Modesta",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Cuchillada",
-        "Nitrocarga",
-        "Aguzar",
-        "Beso Dulce"
-      ],
-      "iv": [
-        6,
-        11,
-        2,
-        21,
-        2,
-        21
-      ],
-      "ev": [
-        16,
-        5,
-        9,
-        4,
-        9,
-        10
-      ],
-      "abilPool": [
-        "Metal Liviano"
-      ],
-      "abilHidden": [
-        "Piel Seca"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Cuchillada"
-        },
-        {
-          "lvl": 1,
-          "m": "Refuerzo"
-        },
-        {
-          "lvl": 4,
-          "m": "Pulso de Campo"
-        },
-        {
-          "lvl": 8,
-          "m": "Nitrocarga"
-        },
-        {
-          "lvl": 12,
-          "m": "Avivar"
-        },
-        {
-          "lvl": 13,
-          "m": "Rayo Carga"
-        },
-        {
-          "lvl": 16,
-          "m": "Aguzar"
-        },
-        {
-          "lvl": 20,
-          "m": "Gravedad"
-        },
-        {
-          "lvl": 24,
-          "m": "Ultrapuño"
-        },
-        {
-          "lvl": 28,
-          "m": "Persecución"
-        },
-        {
-          "lvl": 32,
-          "m": "Paga Extra"
-        },
-        {
-          "lvl": 32,
-          "m": "Salazón"
-        },
-        {
-          "lvl": 36,
-          "m": "Golpe Cuerpo"
-        },
-        {
-          "lvl": 40,
-          "m": "Bomba Fango"
-        },
-        {
-          "lvl": 43,
-          "m": "Amplificador"
-        },
-        {
-          "lvl": 44,
-          "m": "Adaptación"
-        }
-      ],
-      "tmMoves": [
-        "Beso Dulce",
-        "Colmillo Ígneo",
-        "Danza Lunar",
-        "Detección",
-        "Onda Trueno",
-        "Onda Vacío",
-        "Restricción",
-        "Robo"
-      ],
-      "firstMoves": [
-        "Cuchillada",
-        "Refuerzo",
-        "Pulso de Campo"
-      ],
-      "spriteKey": "PIDOVE"
-    },
-    {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 23,
+      "level": 24,
       "types": [
         "Acero",
         "Fantasma"
@@ -279,11 +271,11 @@
         28
       ],
       "ev": [
-        24,
-        16,
-        23,
+        26,
+        22,
+        25,
         9,
-        13,
+        15,
         19
       ],
       "abilPool": [
@@ -371,7 +363,7 @@
     {
       "nickname": "Tadbulb",
       "species": "Tadbulb",
-      "level": 23,
+      "level": 24,
       "types": [
         "Eléctrico"
       ],
@@ -383,7 +375,7 @@
         "Onda Trueno",
         "Golpe Aéreo",
         "Alto Voltaje",
-        "Respiro"
+        "Campo Eléctrico"
       ],
       "origin": "don_prodigio",
       "iv": [
@@ -395,11 +387,11 @@
         7
       ],
       "ev": [
-        8,
         10,
-        18,
+        16,
+        20,
         6,
-        7,
+        9,
         11
       ],
       "abilPool": [
@@ -469,6 +461,7 @@
         "Brecha Negra",
         "Calamidad",
         "Cambiaalmas",
+        "Campo Eléctrico",
         "Cascabel Cura",
         "Colmillo Ígneo",
         "Divide Dolor",
@@ -489,7 +482,7 @@
     {
       "nickname": "Princesita",
       "species": "Brionne",
-      "level": 23,
+      "level": 24,
       "types": [
         "Agua"
       ],
@@ -512,11 +505,11 @@
         6
       ],
       "ev": [
-        23,
-        16,
         25,
+        22,
+        27,
         9,
-        15,
+        17,
         20
       ],
       "abilPool": [
@@ -603,6 +596,7 @@
         "Aguante",
         "Beso Dulce",
         "Bilis",
+        "Bloqueo",
         "Brecha Negra",
         "Cambiaalmas",
         "Carámbano",
@@ -622,12 +616,12 @@
     },
     {
       "nickname": "Mariquita",
-      "species": "Makuhita",
-      "level": 22,
+      "species": "Hariyama",
+      "level": 24,
       "types": [
         "Lucha"
       ],
-      "ability": "Megadisparador",
+      "ability": "Afortunado",
       "nature": "Plácida",
       "item": "",
       "shiny": false,
@@ -646,56 +640,56 @@
         20
       ],
       "ev": [
-        8,
+        10,
+        12,
+        20,
         6,
-        18,
-        6,
-        7,
+        9,
         8
       ],
       "abilPool": [
-        "Megadisparador",
-        "Cobardía"
+        "Afortunado",
+        "Coraza Reflejo"
       ],
       "abilHidden": [
-        "Batería"
+        "Caldero Debacle"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Vasta Guardia"
+          "m": "Triple Patada"
         },
         {
           "lvl": 1,
-          "m": "Onda Voltio"
+          "m": "Canto Mortal"
         },
         {
-          "lvl": 4,
-          "m": "Cambiapoder"
+          "lvl": 1,
+          "m": "Bilis"
         },
         {
-          "lvl": 7,
-          "m": "Furia Natural"
+          "lvl": 1,
+          "m": "Contraataque"
+        },
+        {
+          "lvl": 1,
+          "m": "Chapoteo Lodo"
         },
         {
           "lvl": 10,
-          "m": "Alud"
+          "m": "Estímulo"
         },
         {
           "lvl": 13,
-          "m": "Brinco"
+          "m": "Desarme"
         },
         {
           "lvl": 16,
-          "m": "Hidropulso"
+          "m": "Bomba Imán"
         },
         {
           "lvl": 19,
-          "m": "Pantalla de Humo"
-        },
-        {
-          "lvl": 22,
-          "m": "Látigo Cepa"
+          "m": "Antojo"
         },
         {
           "lvl": 22,
@@ -703,63 +697,67 @@
         },
         {
           "lvl": 22,
-          "m": "Meditación"
+          "m": "Clemencia"
         },
         {
-          "lvl": 25,
-          "m": "Acupresión"
+          "lvl": 22,
+          "m": "Golpe Rastrero"
         },
         {
-          "lvl": 28,
-          "m": "Buena Baza"
+          "lvl": 26,
+          "m": "Mandato"
         },
         {
-          "lvl": 31,
-          "m": "Patada Hacha"
+          "lvl": 30,
+          "m": "Día de Pago"
+        },
+        {
+          "lvl": 30,
+          "m": "Sombra Vil"
         },
         {
           "lvl": 34,
-          "m": "Puntada Sombría"
+          "m": "Follaje"
         },
         {
-          "lvl": 34,
-          "m": "Ladrón"
+          "lvl": 38,
+          "m": "Daño Secreto"
         },
         {
-          "lvl": 37,
-          "m": "Fragor Escamas"
+          "lvl": 42,
+          "m": "Psicocolmillo"
         },
         {
-          "lvl": 40,
-          "m": "Palma Rauda"
+          "lvl": 42,
+          "m": "Polvo Ira"
         },
         {
-          "lvl": 43,
-          "m": "Alto Voltaje"
+          "lvl": 45,
+          "m": "Demolición"
         },
         {
           "lvl": 46,
-          "m": "Alquitranazo"
+          "m": "Destello"
+        },
+        {
+          "lvl": 50,
+          "m": "Buena Baza"
+        },
+        {
+          "lvl": 54,
+          "m": "Pikapicado"
+        },
+        {
+          "lvl": 60,
+          "m": "Desarrollo"
         }
-      ],
-      "tmMoves": [
-        "Calamidad",
-        "Colmillo Ígneo",
-        "Limpieza General",
-        "Mordisco",
-        "Onda Trueno",
-        "Onda Vacío",
-        "Reciclaje",
-        "Restricción",
-        "Rodillo de Púas",
-        "Viento Afín"
       ],
       "firstMoves": [
         "Vasta Guardia",
         "Onda Voltio",
         "Cambiapoder"
       ],
-      "spriteKey": "MAKUHITA"
+      "spriteKey": "HARIYAMA"
     }
   ],
   "box": [
@@ -2136,6 +2134,17 @@
   ],
   "captures": [
     {
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Tranquill",
+      "nickname": "Espía",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 4,
+      "mon": "Tranquill"
+    },
+    {
       "route": "ruta_20",
       "where": "Ruta 20",
       "species": "Quilladin",
@@ -2145,17 +2154,6 @@
       "category": "salvaje",
       "level": 18,
       "mon": "Quilladin"
-    },
-    {
-      "route": "pueblo_paleta",
-      "where": "Pueblo Paleta",
-      "species": "Pidove",
-      "nickname": "Espía",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 4,
-      "mon": "Pidove"
     },
     {
       "route": "bosque_verde",
@@ -2193,13 +2191,13 @@
     {
       "route": "",
       "where": "Centro Pokémon",
-      "species": "Makuhita",
+      "species": "Hariyama",
       "nickname": "Mariquita",
       "shiny": false,
       "status": "captured",
       "category": "estatico_regalo",
       "level": 5,
-      "mon": "Makuhita"
+      "mon": "Hariyama"
     },
     {
       "route": "monte_moon_exterior",
@@ -2342,8 +2340,8 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ruta_20": true,
       "pueblo_paleta": true,
+      "ruta_20": true,
       "bosque_verde": true,
       "ruta_22": true,
       "monte_moon_exterior": true,
@@ -2358,7 +2356,8 @@
       "ruta_1": true,
       "ruta_2_norte": true,
       "ruta_3": true,
-      "ruta_6": true
+      "ruta_6": true,
+      "ciudad_carmin": true
     },
     "items": {},
     "encounters": {
@@ -2419,6 +2418,7 @@
     "foundItems": [
       "Agua Mística",
       "Amor Ball",
+      "Amuleto Oval",
       "Baya Caoca",
       "Baya Caquic",
       "Baya Kouba",
@@ -2432,6 +2432,7 @@
       "Cubresuelos",
       "Cuerda Huida",
       "Def. Esp. X 3",
+      "Def. Esp. X 6",
       "Ensueño Ball",
       "Fósil Hélix",
       "Galleta Lava",
@@ -2451,6 +2452,7 @@
       "Miniseta",
       "MO Golpe Roca",
       "MT01",
+      "MT07",
       "MT101",
       "MT102",
       "MT104",
@@ -2468,6 +2470,7 @@
       "MT46",
       "MT47",
       "MT51",
+      "MT69",
       "MT71",
       "MT79",
       "MT83",
@@ -2475,6 +2478,7 @@
       "MT86",
       "MT89",
       "MT94",
+      "MT95",
       "Parte Amarilla",
       "Parte Roja",
       "Poké Montura",
@@ -2698,6 +2702,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM07",
+        "name": "MT07",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM16",
         "name": "MT16",
         "qty": 1,
@@ -2758,6 +2768,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM69",
+        "name": "MT69",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM71",
         "name": "MT71",
         "qty": 1,
@@ -2796,6 +2812,12 @@
       {
         "id": "TM94",
         "name": "MT94",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM95",
+        "name": "MT95",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -2890,6 +2912,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "XSPDEF6",
+        "name": "Def. Esp. X 6",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -2928,6 +2956,12 @@
       {
         "id": "TICKETBARCO",
         "name": "Ticket Barco",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "OVALCHARM",
+        "name": "Amuleto Oval",
         "qty": 1,
         "pocket": "Objetos clave"
       }
