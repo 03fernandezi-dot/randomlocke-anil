@@ -2,9 +2,9 @@
   "id": "Pau",
   "name": "Pau",
   "lives": 30,
-  "livesUsed": 1,
+  "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 1h 24m jugadas · 2,960₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 31m jugadas · 930₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Calamardo",
@@ -20,7 +20,7 @@
       "shiny": false,
       "moves": [
         "Púas Tóxicas",
-        "Doble Ataque",
+        "Clavo Cañón",
         "Voltiocambio",
         "Pedrada"
       ],
@@ -34,11 +34,11 @@
       ],
       "ev": [
         3,
-        2,
+        3,
         2,
         8,
         2,
-        3
+        4
       ],
       "abilPool": [
         "Espada Debacle",
@@ -126,7 +126,10 @@
         }
       ],
       "tmMoves": [
-        "Danza Lunar"
+        "Clavo Cañón",
+        "Danza Lunar",
+        "Pulso de Campo",
+        "Represión Metal"
       ],
       "firstMoves": [
         "Púas Tóxicas",
@@ -162,11 +165,11 @@
       ],
       "ev": [
         2,
-        1,
+        2,
         2,
         7,
         2,
-        3
+        4
       ],
       "abilPool": [
         "Unísono"
@@ -187,7 +190,9 @@
         }
       ],
       "tmMoves": [
-        "Camelo"
+        "Camelo",
+        "Estrujón",
+        "Pulso de Campo"
       ],
       "firstMoves": [
         "Doble Ataque",
@@ -222,11 +227,11 @@
       ],
       "ev": [
         3,
-        3,
+        4,
         4,
         9,
         3,
-        3
+        4
       ],
       "abilPool": [
         "Despiste"
@@ -309,7 +314,8 @@
         }
       ],
       "tmMoves": [
-        "Camelo"
+        "Camelo",
+        "Estrujón"
       ],
       "firstMoves": [
         "Viento Aciago",
@@ -321,7 +327,7 @@
     {
       "nickname": "Poleomenta",
       "species": "Sinistea",
-      "level": 12,
+      "level": 13,
       "types": [
         "Fantasma"
       ],
@@ -345,11 +351,11 @@
       ],
       "ev": [
         0,
-        1,
+        2,
         0,
         1,
         2,
-        2
+        3
       ],
       "abilPool": [
         "Firmeza"
@@ -417,6 +423,7 @@
       ],
       "tmMoves": [
         "Camelo",
+        "Clavo Cañón",
         "Danza Lunar",
         "Velo Sagrado"
       ],
@@ -456,11 +463,11 @@
       ],
       "ev": [
         0,
-        1,
+        2,
         0,
         2,
         2,
-        2
+        3
       ],
       "abilPool": [
         "Vigilante"
@@ -538,6 +545,9 @@
           "m": "Viento Plata"
         }
       ],
+      "tmMoves": [
+        "Estrujón"
+      ],
       "firstMoves": [
         "Follaje",
         "Hoja Mágica",
@@ -547,144 +557,14 @@
       "spriteKey": "ROWLET"
     },
     {
-      "nickname": "Bicharraco",
-      "species": "Golett",
-      "level": 13,
-      "types": [
-        "Tierra",
-        "Fantasma"
-      ],
-      "ability": "Piel Seca",
-      "nature": "Firme",
-      "item": "Incienso Marino",
-      "shiny": false,
-      "moves": [
-        "Tenaza",
-        "Colmillo Veneno",
-        "Tinieblas",
-        "Ladrón"
-      ],
-      "iv": [
-        25,
-        8,
-        5,
-        20,
-        9,
-        27
-      ],
-      "ev": [
-        3,
-        2,
-        2,
-        8,
-        3,
-        3
-      ],
-      "abilPool": [
-        "Primer Auxilio",
-        "Piel Seca"
-      ],
-      "abilHidden": [
-        "Mandíbula dragón"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Tenaza"
-        },
-        {
-          "lvl": 1,
-          "m": "Colmillo Veneno"
-        },
-        {
-          "lvl": 4,
-          "m": "Tinieblas"
-        },
-        {
-          "lvl": 8,
-          "m": "Homenaje Póstumo"
-        },
-        {
-          "lvl": 9,
-          "m": "Estrujón"
-        },
-        {
-          "lvl": 12,
-          "m": "Ladrón"
-        },
-        {
-          "lvl": 16,
-          "m": "Punzada Rama"
-        },
-        {
-          "lvl": 20,
-          "m": "Ataque Arena"
-        },
-        {
-          "lvl": 24,
-          "m": "Rencor"
-        },
-        {
-          "lvl": 25,
-          "m": "Profecía"
-        },
-        {
-          "lvl": 28,
-          "m": "Poder Reserva"
-        },
-        {
-          "lvl": 32,
-          "m": "Cede Paso"
-        },
-        {
-          "lvl": 36,
-          "m": "Decoración"
-        },
-        {
-          "lvl": 40,
-          "m": "Viento Aciago"
-        },
-        {
-          "lvl": 44,
-          "m": "Frustración"
-        },
-        {
-          "lvl": 48,
-          "m": "Halloween"
-        },
-        {
-          "lvl": 52,
-          "m": "Martillo Dragón"
-        },
-        {
-          "lvl": 55,
-          "m": "Puño Furia"
-        },
-        {
-          "lvl": 56,
-          "m": "Pesadilla"
-        }
-      ],
-      "tmMoves": [
-        "Danza Lunar"
-      ],
-      "firstMoves": [
-        "Tenaza",
-        "Colmillo Veneno",
-        "Tinieblas"
-      ],
-      "spriteKey": "GOLETT"
-    }
-  ],
-  "box": [
-    {
       "nickname": "Capullazo",
-      "species": "Spewpa",
-      "level": 9,
+      "species": "Vivillon",
+      "level": 14,
       "types": [
-        "Bicho"
+        "Bicho",
+        "Volador"
       ],
-      "ability": "Cortante",
+      "ability": "",
       "nature": "Activa",
       "item": "",
       "shiny": false,
@@ -711,32 +591,89 @@
         0
       ],
       "abilPool": [
-        "Cortante",
-        "Ignífugo"
+        "Camorrista",
+        "Adaptable"
       ],
       "abilHidden": [
-        "Pareja de Baile"
+        "Nevada"
       ],
       "learnset": [
         {
           "lvl": -1,
-          "m": "Rueda Fuego"
+          "m": "Deslome"
         },
         {
           "lvl": 1,
-          "m": "Aguijón Letal"
+          "m": "Truco Floral"
+        },
+        {
+          "lvl": 1,
+          "m": "Picadura"
+        },
+        {
+          "lvl": 1,
+          "m": "Meditación"
+        },
+        {
+          "lvl": 1,
+          "m": "Corte"
+        },
+        {
+          "lvl": 12,
+          "m": "Red Viscosa"
+        },
+        {
+          "lvl": 17,
+          "m": "Telaraña"
+        },
+        {
+          "lvl": 21,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 21,
+          "m": "Agilidad"
+        },
+        {
+          "lvl": 25,
+          "m": "Polvo Ira"
+        },
+        {
+          "lvl": 28,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 31,
+          "m": "Otra Vez"
+        },
+        {
+          "lvl": 31,
+          "m": "Telatrampa"
+        },
+        {
+          "lvl": 35,
+          "m": "Golpe Rastrero"
+        },
+        {
+          "lvl": 45,
+          "m": "Aerochorro"
+        },
+        {
+          "lvl": 50,
+          "m": "Luminicola"
+        },
+        {
+          "lvl": 55,
+          "m": "Esfera Aural"
         }
-      ],
-      "tmMoves": [
-        "Barrera",
-        "Camelo",
-        "Velo Sagrado"
       ],
       "firstMoves": [
         "Aguijón Letal"
       ],
-      "spriteKey": "SPEWPA_17"
-    },
+      "spriteKey": "VIVILLON_17"
+    }
+  ],
+  "box": [
     {
       "nickname": "Cabalasa",
       "species": "Pumpkaboo",
@@ -956,6 +893,139 @@
       "cause": "",
       "route": "Ruta 1",
       "date": ""
+    },
+    {
+      "nickname": "Bicharraco",
+      "species": "Golett",
+      "level": 13,
+      "types": [
+        "Tierra",
+        "Fantasma"
+      ],
+      "ability": "Piel Seca",
+      "nature": "Firme",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Tenaza",
+        "Colmillo Veneno",
+        "Tinieblas",
+        "Ladrón"
+      ],
+      "iv": [
+        25,
+        8,
+        5,
+        20,
+        9,
+        27
+      ],
+      "ev": [
+        3,
+        2,
+        2,
+        8,
+        3,
+        4
+      ],
+      "abilPool": [
+        "Primer Auxilio",
+        "Piel Seca"
+      ],
+      "abilHidden": [
+        "Mandíbula dragón"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Tenaza"
+        },
+        {
+          "lvl": 1,
+          "m": "Colmillo Veneno"
+        },
+        {
+          "lvl": 4,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 8,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 9,
+          "m": "Estrujón"
+        },
+        {
+          "lvl": 12,
+          "m": "Ladrón"
+        },
+        {
+          "lvl": 16,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 20,
+          "m": "Ataque Arena"
+        },
+        {
+          "lvl": 24,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 25,
+          "m": "Profecía"
+        },
+        {
+          "lvl": 28,
+          "m": "Poder Reserva"
+        },
+        {
+          "lvl": 32,
+          "m": "Cede Paso"
+        },
+        {
+          "lvl": 36,
+          "m": "Decoración"
+        },
+        {
+          "lvl": 40,
+          "m": "Viento Aciago"
+        },
+        {
+          "lvl": 44,
+          "m": "Frustración"
+        },
+        {
+          "lvl": 48,
+          "m": "Halloween"
+        },
+        {
+          "lvl": 52,
+          "m": "Martillo Dragón"
+        },
+        {
+          "lvl": 55,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 56,
+          "m": "Pesadilla"
+        }
+      ],
+      "tmMoves": [
+        "Danza Lunar",
+        "Velo Sagrado"
+      ],
+      "firstMoves": [
+        "Tenaza",
+        "Colmillo Veneno",
+        "Tinieblas"
+      ],
+      "spriteKey": "GOLETT",
+      "cause": "",
+      "route": "Ruta 22",
+      "date": ""
     }
   ],
   "captures": [
@@ -1015,26 +1085,15 @@
       "mon": "Rowlet"
     },
     {
-      "route": "ruta_22",
-      "where": "Ruta 22",
-      "species": "Golett",
-      "nickname": "Bicharraco",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 4,
-      "mon": "Golett"
-    },
-    {
       "route": "ruta_2_norte",
       "where": "Ruta 2 Norte",
-      "species": "Spewpa",
+      "species": "Vivillon",
       "nickname": "Capullazo",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 9,
-      "mon": "Spewpa"
+      "mon": "Vivillon"
     },
     {
       "route": "ciudad_verde",
@@ -1057,6 +1116,17 @@
       "category": "salvaje",
       "level": 3,
       "mon": "Hatenna"
+    },
+    {
+      "route": "ruta_22",
+      "where": "Ruta 22",
+      "species": "Golett",
+      "nickname": "Bicharraco",
+      "shiny": false,
+      "status": "dead",
+      "category": "salvaje",
+      "level": 4,
+      "mon": "Golett"
     }
   ],
   "progress": {
@@ -1069,11 +1139,12 @@
       "ruta_2_sur": true,
       "bosque_verde": true,
       "ciudad_plateada": true,
-      "ruta_22": true,
       "ruta_2_norte": true,
       "ciudad_verde": true,
       "ruta_1": true,
-      "pueblo_paleta": true
+      "ruta_22": true,
+      "pueblo_paleta": true,
+      "ruta_3": true
     },
     "items": {},
     "encounters": {
@@ -1127,9 +1198,11 @@
       "Miniseta",
       "MO Golpe Roca",
       "MT07",
+      "MT19",
       "MT38",
       "MT39",
       "MT83",
+      "MT85",
       "MT86",
       "MT89",
       "Pesa Recia",
@@ -1187,6 +1260,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "SEAINCENSE",
+        "name": "Incienso Marino",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "LONELYMINT",
         "name": "Menta Huraña",
         "qty": 1,
@@ -1207,7 +1286,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 986,
+        "qty": 981,
         "pocket": "Medicinas"
       },
       {
@@ -1249,13 +1328,13 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 5,
+        "qty": 9,
         "pocket": "Poké Balls"
       },
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 2,
+        "qty": 4,
         "pocket": "Poké Balls"
       },
       {
@@ -1267,6 +1346,12 @@
       {
         "id": "TM07",
         "name": "MT07",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM19",
+        "name": "MT19",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -1285,6 +1370,12 @@
       {
         "id": "TM83",
         "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM85",
+        "name": "MT85",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -1357,7 +1448,8 @@
     ]
   },
   "deathLog": [
-    "1873600814"
+    "1873600814",
+    "2853338953"
   ],
   "revividos": 0
 }
