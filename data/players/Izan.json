@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 5h 32m jugadas · 40,400₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 5h 36m jugadas · 40,400₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Chess.com",
@@ -36,7 +36,7 @@
       "ev": [
         3,
         6,
-        3,
+        4,
         1,
         2,
         4
@@ -118,7 +118,8 @@
         "Calamidad",
         "Cascabel Cura",
         "Danza Lunar",
-        "Mordisco"
+        "Mordisco",
+        "Onda Trueno"
       ],
       "firstMoves": [
         "Barrera Espinosa",
@@ -157,7 +158,7 @@
       "ev": [
         16,
         5,
-        7,
+        8,
         3,
         9,
         9
@@ -238,6 +239,8 @@
         "Beso Dulce",
         "Colmillo Ígneo",
         "Danza Lunar",
+        "Detección",
+        "Onda Trueno",
         "Onda Vacío",
         "Restricción",
         "Robo"
@@ -278,7 +281,7 @@
       "ev": [
         24,
         16,
-        21,
+        22,
         8,
         13,
         18
@@ -377,7 +380,7 @@
       "item": "",
       "shiny": false,
       "moves": [
-        "Levitón",
+        "Onda Trueno",
         "Golpe Aéreo",
         "Alto Voltaje",
         "Respiro"
@@ -394,7 +397,7 @@
       "ev": [
         8,
         10,
-        16,
+        17,
         5,
         7,
         10
@@ -470,6 +473,7 @@
         "Colmillo Ígneo",
         "Divide Dolor",
         "Limpieza General",
+        "Onda Trueno",
         "Onda Vacío",
         "Onda Voltio",
         "Viento Afín"
@@ -510,7 +514,7 @@
       "ev": [
         23,
         16,
-        23,
+        24,
         8,
         15,
         19
@@ -644,7 +648,7 @@
       "ev": [
         8,
         6,
-        16,
+        17,
         5,
         7,
         7
@@ -743,6 +747,7 @@
         "Colmillo Ígneo",
         "Limpieza General",
         "Mordisco",
+        "Onda Trueno",
         "Onda Vacío",
         "Reciclaje",
         "Restricción",
@@ -1517,6 +1522,123 @@
         "Voltiocambio"
       ],
       "spriteKey": "BLITZLE"
+    },
+    {
+      "nickname": "Bonsai",
+      "species": "Bonsly",
+      "level": 20,
+      "types": [
+        "Roca"
+      ],
+      "ability": "Monotema",
+      "nature": "Pícara",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Pirotecnia",
+        "Metrónomo",
+        "Fortaleza",
+        "Salazón"
+      ],
+      "iv": [
+        10,
+        22,
+        3,
+        25,
+        15,
+        24
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Monotema",
+        "Intrépido"
+      ],
+      "abilHidden": [
+        "Intimidación"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Antiaéreo"
+        },
+        {
+          "lvl": 1,
+          "m": "Danza Espada"
+        },
+        {
+          "lvl": 1,
+          "m": "Camaradería"
+        },
+        {
+          "lvl": 4,
+          "m": "Paisaje Nevado"
+        },
+        {
+          "lvl": 8,
+          "m": "Brecha Negra"
+        },
+        {
+          "lvl": 12,
+          "m": "Ladrón"
+        },
+        {
+          "lvl": 15,
+          "m": "Pirotecnia"
+        },
+        {
+          "lvl": 16,
+          "m": "Metrónomo"
+        },
+        {
+          "lvl": 19,
+          "m": "Fortaleza"
+        },
+        {
+          "lvl": 20,
+          "m": "Salazón"
+        },
+        {
+          "lvl": 24,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 28,
+          "m": "Danza Lluvia"
+        },
+        {
+          "lvl": 32,
+          "m": "Deseo"
+        },
+        {
+          "lvl": 36,
+          "m": "Sustituto"
+        },
+        {
+          "lvl": 40,
+          "m": "Hidrobomba"
+        },
+        {
+          "lvl": 44,
+          "m": "Purificación"
+        }
+      ],
+      "tmMoves": [
+        "Cascabel Cura"
+      ],
+      "firstMoves": [
+        "Pirotecnia",
+        "Metrónomo",
+        "Fortaleza",
+        "Salazón"
+      ],
+      "spriteKey": "BONSLY"
     }
   ],
   "graveyard": [
@@ -2157,6 +2279,17 @@
       "mon": "Blitzle"
     },
     {
+      "route": "ruta_5",
+      "where": "Ruta 5",
+      "species": "Bonsly",
+      "nickname": "Bonsai",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 20,
+      "mon": "Bonsly"
+    },
+    {
       "route": "",
       "where": "Laboratorio",
       "species": "Sandile",
@@ -2219,6 +2352,7 @@
       "ruta_4": true,
       "ciudad_celeste": true,
       "ruta_21": true,
+      "ruta_5": true,
       "ruta_2_sur": true,
       "ciudad_verde": true,
       "ruta_1": true,
@@ -2241,7 +2375,8 @@
       "ruta_4": true,
       "ciudad_celeste": true,
       "ruta_20": true,
-      "ruta_21": true
+      "ruta_21": true,
+      "ruta_5": true
     },
     "switches": [
       48,
@@ -2294,6 +2429,7 @@
       "Crítico X 3",
       "Cubresuelos",
       "Cuerda Huida",
+      "Def. Esp. X 3",
       "Ensueño Ball",
       "Fósil Hélix",
       "Galleta Lava",
@@ -2305,6 +2441,7 @@
       "Griseosfera",
       "Guante de Boxeo",
       "Hierba Única",
+      "Máscara Cimiento",
       "Mejora",
       "Menta Floja",
       "Menta Mansa",
@@ -2312,6 +2449,7 @@
       "Miniseta",
       "MO Golpe Roca",
       "MT01",
+      "MT101",
       "MT102",
       "MT104",
       "MT111",
@@ -2325,6 +2463,7 @@
       "MT35",
       "MT39",
       "MT43",
+      "MT46",
       "MT47",
       "MT51",
       "MT71",
@@ -2334,6 +2473,7 @@
       "MT89",
       "MT94",
       "Parte Amarilla",
+      "Parte Roja",
       "Poké Montura",
       "Porcehelado",
       "Precisión X 3",
@@ -2483,6 +2623,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "CORNERSTONEMASK",
+        "name": "Máscara Cimiento",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "REDSHARD",
+        "name": "Parte Roja",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "TIMIDMINT",
         "name": "Menta Miedosa",
         "qty": 1,
@@ -2515,7 +2667,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 3,
+        "qty": 2,
         "pocket": "Poké Balls"
       },
       {
@@ -2585,6 +2737,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM46",
+        "name": "MT46",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM47",
         "name": "MT47",
         "qty": 1,
@@ -2629,6 +2787,12 @@
       {
         "id": "TM94",
         "name": "MT94",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM101",
+        "name": "MT101",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -2707,6 +2871,12 @@
       {
         "id": "DIREHIT3",
         "name": "Crítico X 3",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "XSPDEF3",
+        "name": "Def. Esp. X 3",
         "qty": 1,
         "pocket": "Objetos de combate"
       },
