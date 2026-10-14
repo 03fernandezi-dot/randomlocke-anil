@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 4h 41m jugadas · 20,970₽ · vidas en el juego: 25",
+  "notes": "Importado del save · 4h 56m jugadas · 26,570₽ · vidas en el juego: 25",
   "team": [
     {
       "nickname": "Marilus",
       "species": "Azurill",
-      "level": 16,
+      "level": 19,
       "types": [
         "Normal",
         "Hada"
@@ -33,12 +33,12 @@
         15
       ],
       "ev": [
-        1,
         2,
         3,
+        8,
+        2,
         1,
-        0,
-        2
+        3
       ],
       "abilPool": [
         "Raíz robusta",
@@ -103,7 +103,7 @@
     {
       "nickname": "Nemo",
       "species": "Goldeen",
-      "level": 20,
+      "level": 21,
       "types": [
         "Agua"
       ],
@@ -126,12 +126,12 @@
         3
       ],
       "ev": [
-        12,
+        13,
+        7,
+        16,
         6,
-        11,
-        5,
-        8,
-        9
+        9,
+        10
       ],
       "abilPool": [
         "Cola Surf",
@@ -219,7 +219,7 @@
     {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 20,
+      "level": 21,
       "types": [
         "Acero",
         "Fantasma"
@@ -243,12 +243,12 @@
         28
       ],
       "ev": [
-        20,
-        9,
-        13,
-        6,
+        21,
         10,
-        13
+        18,
+        7,
+        11,
+        14
       ],
       "abilPool": [
         "Insomnio"
@@ -330,144 +330,9 @@
       "spriteKey": "HONEDGE"
     },
     {
-      "nickname": "Mariquita",
-      "species": "Makuhita",
-      "level": 20,
-      "types": [
-        "Lucha"
-      ],
-      "ability": "Megadisparador",
-      "nature": "Plácida",
-      "item": "Cinta Fuerte",
-      "shiny": false,
-      "moves": [
-        "Alud",
-        "Brinco",
-        "Pantalla de Humo",
-        "Onda Vacío"
-      ],
-      "iv": [
-        21,
-        11,
-        0,
-        29,
-        14,
-        20
-      ],
-      "ev": [
-        6,
-        5,
-        8,
-        4,
-        6,
-        5
-      ],
-      "abilPool": [
-        "Megadisparador",
-        "Cobardía"
-      ],
-      "abilHidden": [
-        "Batería"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Vasta Guardia"
-        },
-        {
-          "lvl": 1,
-          "m": "Onda Voltio"
-        },
-        {
-          "lvl": 4,
-          "m": "Cambiapoder"
-        },
-        {
-          "lvl": 7,
-          "m": "Furia Natural"
-        },
-        {
-          "lvl": 10,
-          "m": "Alud"
-        },
-        {
-          "lvl": 13,
-          "m": "Brinco"
-        },
-        {
-          "lvl": 16,
-          "m": "Hidropulso"
-        },
-        {
-          "lvl": 19,
-          "m": "Pantalla de Humo"
-        },
-        {
-          "lvl": 22,
-          "m": "Látigo Cepa"
-        },
-        {
-          "lvl": 22,
-          "m": "Neblina"
-        },
-        {
-          "lvl": 22,
-          "m": "Meditación"
-        },
-        {
-          "lvl": 25,
-          "m": "Acupresión"
-        },
-        {
-          "lvl": 28,
-          "m": "Buena Baza"
-        },
-        {
-          "lvl": 31,
-          "m": "Patada Hacha"
-        },
-        {
-          "lvl": 34,
-          "m": "Puntada Sombría"
-        },
-        {
-          "lvl": 34,
-          "m": "Ladrón"
-        },
-        {
-          "lvl": 37,
-          "m": "Fragor Escamas"
-        },
-        {
-          "lvl": 40,
-          "m": "Palma Rauda"
-        },
-        {
-          "lvl": 43,
-          "m": "Alto Voltaje"
-        },
-        {
-          "lvl": 46,
-          "m": "Alquitranazo"
-        }
-      ],
-      "tmMoves": [
-        "Calamidad",
-        "Onda Vacío",
-        "Reciclaje",
-        "Restricción"
-      ],
-      "firstMoves": [
-        "Vasta Guardia",
-        "Onda Voltio",
-        "Cambiapoder"
-      ],
-      "spriteKey": "MAKUHITA"
-    },
-    {
       "nickname": "Tadbulb",
       "species": "Tadbulb",
-      "level": 20,
+      "level": 21,
       "types": [
         "Eléctrico"
       ],
@@ -491,12 +356,12 @@
         7
       ],
       "ev": [
+        5,
         4,
-        3,
-        8,
-        3,
+        13,
         4,
-        5
+        5,
+        6
       ],
       "abilPool": [
         "Perro Guardián",
@@ -575,7 +440,7 @@
     {
       "nickname": "Princesita",
       "species": "Brionne",
-      "level": 20,
+      "level": 21,
       "types": [
         "Agua"
       ],
@@ -598,12 +463,12 @@
         6
       ],
       "ev": [
-        19,
-        9,
-        15,
-        6,
-        12,
-        14
+        20,
+        10,
+        20,
+        7,
+        13,
+        15
       ],
       "abilPool": [
         "Psicogénesis"
@@ -697,6 +562,114 @@
         "Copión"
       ],
       "spriteKey": "BRIONNE"
+    },
+    {
+      "nickname": "Chess.com",
+      "species": "Chespin",
+      "level": 18,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Irascible",
+      "nature": "Ingenua",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Barrera Espinosa",
+        "Canto",
+        "Bomba Caramelo",
+        "Sustituto"
+      ],
+      "iv": [
+        17,
+        13,
+        23,
+        14,
+        22,
+        27
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Irascible"
+      ],
+      "abilHidden": [
+        "Telepatía"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Polvo Veneno"
+        },
+        {
+          "lvl": 1,
+          "m": "Condena Silvana"
+        },
+        {
+          "lvl": 5,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 8,
+          "m": "Barrera Espinosa"
+        },
+        {
+          "lvl": 11,
+          "m": "Canto"
+        },
+        {
+          "lvl": 15,
+          "m": "Bomba Caramelo"
+        },
+        {
+          "lvl": 18,
+          "m": "Sustituto"
+        },
+        {
+          "lvl": 27,
+          "m": "Roca Veloz"
+        },
+        {
+          "lvl": 32,
+          "m": "Reversión"
+        },
+        {
+          "lvl": 35,
+          "m": "Aguante"
+        },
+        {
+          "lvl": 39,
+          "m": "Picotazo Veneno"
+        },
+        {
+          "lvl": 42,
+          "m": "Fuerza Equina"
+        },
+        {
+          "lvl": 45,
+          "m": "Rayo Burbuja"
+        },
+        {
+          "lvl": 48,
+          "m": "Buena Baza"
+        }
+      ],
+      "tmMoves": [
+        "Cascabel Cura"
+      ],
+      "firstMoves": [
+        "Barrera Espinosa",
+        "Canto",
+        "Bomba Caramelo",
+        "Sustituto"
+      ],
+      "spriteKey": "CHESPIN"
     }
   ],
   "box": [
@@ -1237,6 +1210,141 @@
         "Colmillo Veneno"
       ],
       "spriteKey": "CORPHISH"
+    },
+    {
+      "nickname": "Mariquita",
+      "species": "Makuhita",
+      "level": 21,
+      "types": [
+        "Lucha"
+      ],
+      "ability": "Megadisparador",
+      "nature": "Plácida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Alud",
+        "Brinco",
+        "Pantalla de Humo",
+        "Onda Vacío"
+      ],
+      "iv": [
+        21,
+        11,
+        0,
+        29,
+        14,
+        20
+      ],
+      "ev": [
+        7,
+        6,
+        13,
+        5,
+        7,
+        6
+      ],
+      "abilPool": [
+        "Megadisparador",
+        "Cobardía"
+      ],
+      "abilHidden": [
+        "Batería"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Vasta Guardia"
+        },
+        {
+          "lvl": 1,
+          "m": "Onda Voltio"
+        },
+        {
+          "lvl": 4,
+          "m": "Cambiapoder"
+        },
+        {
+          "lvl": 7,
+          "m": "Furia Natural"
+        },
+        {
+          "lvl": 10,
+          "m": "Alud"
+        },
+        {
+          "lvl": 13,
+          "m": "Brinco"
+        },
+        {
+          "lvl": 16,
+          "m": "Hidropulso"
+        },
+        {
+          "lvl": 19,
+          "m": "Pantalla de Humo"
+        },
+        {
+          "lvl": 22,
+          "m": "Látigo Cepa"
+        },
+        {
+          "lvl": 22,
+          "m": "Neblina"
+        },
+        {
+          "lvl": 22,
+          "m": "Meditación"
+        },
+        {
+          "lvl": 25,
+          "m": "Acupresión"
+        },
+        {
+          "lvl": 28,
+          "m": "Buena Baza"
+        },
+        {
+          "lvl": 31,
+          "m": "Patada Hacha"
+        },
+        {
+          "lvl": 34,
+          "m": "Puntada Sombría"
+        },
+        {
+          "lvl": 34,
+          "m": "Ladrón"
+        },
+        {
+          "lvl": 37,
+          "m": "Fragor Escamas"
+        },
+        {
+          "lvl": 40,
+          "m": "Palma Rauda"
+        },
+        {
+          "lvl": 43,
+          "m": "Alto Voltaje"
+        },
+        {
+          "lvl": 46,
+          "m": "Alquitranazo"
+        }
+      ],
+      "tmMoves": [
+        "Calamidad",
+        "Onda Vacío",
+        "Reciclaje",
+        "Restricción"
+      ],
+      "firstMoves": [
+        "Vasta Guardia",
+        "Onda Voltio",
+        "Cambiapoder"
+      ],
+      "spriteKey": "MAKUHITA"
     }
   ],
   "graveyard": [
@@ -1788,17 +1896,6 @@
     },
     {
       "route": "",
-      "where": "Centro Pokémon",
-      "species": "Makuhita",
-      "nickname": "Mariquita",
-      "shiny": false,
-      "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Makuhita"
-    },
-    {
-      "route": "",
       "where": "Monte Moon",
       "species": "Tadbulb",
       "nickname": "",
@@ -1818,6 +1915,17 @@
       "category": "salvaje",
       "level": 6,
       "mon": "Brionne"
+    },
+    {
+      "route": "ruta_20",
+      "where": "Ruta 20",
+      "species": "Chespin",
+      "nickname": "Chess.com",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 18,
+      "mon": "Chespin"
     },
     {
       "route": "monte_moon_exterior",
@@ -1876,6 +1984,17 @@
     },
     {
       "route": "",
+      "where": "Centro Pokémon",
+      "species": "Makuhita",
+      "nickname": "Mariquita",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Makuhita"
+    },
+    {
+      "route": "",
       "where": "Laboratorio",
       "species": "Sandile",
       "nickname": "Bombardero",
@@ -1929,6 +2048,7 @@
       "ciudad_plateada": true,
       "bosque_verde": true,
       "ruta_22": true,
+      "ruta_20": true,
       "monte_moon_exterior": true,
       "monte_moon": true,
       "ruta_4": true,
@@ -1938,8 +2058,7 @@
       "ciudad_verde": true,
       "ruta_1": true,
       "ruta_2_norte": true,
-      "ruta_3": true,
-      "ruta_20": true
+      "ruta_3": true
     },
     "items": {},
     "encounters": {
@@ -1955,7 +2074,8 @@
       "monte_moon": true,
       "monte_moon_exterior": true,
       "ruta_4": true,
-      "ciudad_celeste": true
+      "ciudad_celeste": true,
+      "ruta_20": true
     },
     "switches": [
       48,
@@ -1972,6 +2092,7 @@
       74,
       75,
       76,
+      80,
       110,
       112,
       113,
@@ -2101,7 +2222,7 @@
       {
         "id": "GHOSTGEM",
         "name": "Gema Fantasma",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -2159,6 +2280,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "MUSCLEBAND",
+        "name": "Cinta Fuerte",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "TIMIDMINT",
         "name": "Menta Miedosa",
         "qty": 1,
@@ -2197,7 +2324,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 9,
+        "qty": 4,
         "pocket": "Poké Balls"
       },
       {
@@ -2369,8 +2496,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
