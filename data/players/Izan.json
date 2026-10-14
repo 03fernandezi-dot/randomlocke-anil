@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 9,
   "champion": false,
-  "notes": "Importado del save · 7h 21m jugadas · 82,380₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 7h 24m jugadas · 82,380₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Princesita",
@@ -378,20 +378,21 @@
     },
     {
       "nickname": "Pereira",
-      "species": "Bidoof",
-      "level": 17,
+      "species": "Bibarel",
+      "level": 27,
       "types": [
-        "Normal"
+        "Normal",
+        "Agua"
       ],
-      "ability": "Cobardía",
+      "ability": "",
       "nature": "Mansa",
       "item": "",
       "shiny": false,
       "moves": [
         "Ojos Llorosos",
-        "Destello",
-        "Carga Parábola",
-        "Ojitos Tiernos"
+        "Desarrollo",
+        "Atizar",
+        "Mordisco"
       ],
       "iv": [
         8,
@@ -410,76 +411,95 @@
         0
       ],
       "abilPool": [
-        "Inmunidad",
-        "Cobardía"
+        "Escama de Hielo",
+        "Calco"
       ],
       "abilHidden": [
-        "Presión"
+        "Simbiosis"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Aromaterapia"
+          "m": "Anticipo"
         },
         {
           "lvl": 1,
-          "m": "Estrujón"
+          "m": "Último Lugar"
+        },
+        {
+          "lvl": 1,
+          "m": "Furia Natural"
+        },
+        {
+          "lvl": 1,
+          "m": "Última Palabra"
         },
         {
           "lvl": 5,
-          "m": "Ojos Llorosos"
+          "m": "Autotomía"
         },
         {
           "lvl": 9,
-          "m": "Destello"
+          "m": "Viento Afín"
         },
         {
           "lvl": 13,
-          "m": "Carga Parábola"
+          "m": "Refuerzo"
         },
         {
-          "lvl": 17,
-          "m": "Ojitos Tiernos"
+          "lvl": 18,
+          "m": "Pantalla de Luz"
         },
         {
-          "lvl": 21,
-          "m": "Zona Extraña"
+          "lvl": 23,
+          "m": "Transformación"
         },
         {
-          "lvl": 21,
-          "m": "Sonámbulo"
+          "lvl": 23,
+          "m": "Ataque Ala"
         },
         {
-          "lvl": 25,
-          "m": "Desarrollo"
-        },
-        {
-          "lvl": 29,
-          "m": "Dulce Aroma"
+          "lvl": 28,
+          "m": "Picotazo Veneno"
         },
         {
           "lvl": 33,
-          "m": "Daño Secreto"
+          "m": "Salpicar"
         },
         {
-          "lvl": 37,
-          "m": "Deslome"
+          "lvl": 38,
+          "m": "Chorro de Vapor"
         },
         {
-          "lvl": 41,
-          "m": "Hipertaladro"
+          "lvl": 43,
+          "m": "Deseo"
         },
         {
-          "lvl": 45,
-          "m": "Guillotina"
+          "lvl": 48,
+          "m": "Clavo Cañón"
         },
         {
-          "lvl": 49,
-          "m": "Puño Bala"
+          "lvl": 53,
+          "m": "Romperrocas"
+        },
+        {
+          "lvl": 58,
+          "m": "Chulería"
         }
       ],
       "tmMoves": [
-        "Bilis"
+        "Atizar",
+        "Brecha Negra",
+        "Cambiaalmas",
+        "Campo Eléctrico",
+        "Cascabel Cura",
+        "Cosquillas",
+        "Divide Dolor",
+        "Limpieza General",
+        "Mordisco",
+        "Remolino",
+        "Robo",
+        "Rodillo de Púas"
       ],
       "firstMoves": [
         "Ojos Llorosos",
@@ -487,7 +507,7 @@
         "Carga Parábola",
         "Ojitos Tiernos"
       ],
-      "spriteKey": "BIDOOF"
+      "spriteKey": "BIBAREL"
     },
     {
       "nickname": "MECAGOENTODO",
@@ -2433,13 +2453,13 @@
     {
       "route": "ruta_4",
       "where": "Ruta 4",
-      "species": "Bidoof",
+      "species": "Bibarel",
       "nickname": "Pereira",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 17,
-      "mon": "Bidoof"
+      "mon": "Bibarel"
     },
     {
       "route": "ciudad_plateada",
@@ -3006,7 +3026,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 883,
+        "qty": 873,
         "pocket": "Medicinas"
       },
       {
