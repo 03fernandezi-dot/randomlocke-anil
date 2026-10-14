@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 2h 3m jugadas · 6,390₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 2h 12m jugadas · 8,090₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Calamardo",
       "species": "Tentacool",
-      "level": 15,
+      "level": 16,
       "types": [
         "Agua",
         "Veneno"
@@ -19,7 +19,7 @@
       "item": "Lodo Negro",
       "shiny": false,
       "moves": [
-        "Burbuja",
+        "Clavo Cañón",
         "Púas Tóxicas",
         "Voltiocambio",
         "Pedrada"
@@ -33,11 +33,11 @@
         27
       ],
       "ev": [
-        4,
         6,
-        2,
+        6,
+        3,
         8,
-        5,
+        6,
         10
       ],
       "abilPool": [
@@ -144,7 +144,7 @@
     {
       "nickname": "Shawn",
       "species": "Mareep",
-      "level": 16,
+      "level": 17,
       "types": [
         "Eléctrico"
       ],
@@ -167,11 +167,11 @@
         19
       ],
       "ev": [
-        4,
-        7,
-        4,
-        9,
         6,
+        7,
+        5,
+        9,
+        7,
         10
       ],
       "abilPool": [
@@ -270,7 +270,7 @@
     {
       "nickname": "Mariposon",
       "species": "Butterfree",
-      "level": 16,
+      "level": 17,
       "types": [
         "Bicho",
         "Volador"
@@ -294,11 +294,11 @@
         19
       ],
       "ev": [
+        5,
+        5,
         3,
-        5,
-        2,
         7,
-        5,
+        6,
         10
       ],
       "abilPool": [
@@ -411,7 +411,7 @@
     {
       "nickname": "Hedwig",
       "species": "Dartrix",
-      "level": 16,
+      "level": 17,
       "types": [
         "Planta",
         "Volador"
@@ -435,11 +435,11 @@
         15
       ],
       "ev": [
+        3,
+        5,
         1,
-        5,
-        0,
         2,
-        5,
+        6,
         9
       ],
       "abilPool": [
@@ -536,7 +536,7 @@
     {
       "nickname": "Poleomenta",
       "species": "Sinistea",
-      "level": 16,
+      "level": 17,
       "types": [
         "Fantasma"
       ],
@@ -548,7 +548,7 @@
         "Puño Furia",
         "Rayo Confuso",
         "Palmeo",
-        "Halloween"
+        "Clavo Cañón"
       ],
       "iv": [
         24,
@@ -559,11 +559,11 @@
         10
       ],
       "ev": [
-        1,
+        3,
         5,
-        0,
         1,
-        5,
+        1,
+        6,
         9
       ],
       "abilPool": [
@@ -649,7 +649,7 @@
     {
       "nickname": "Bicharraco",
       "species": "Golett",
-      "level": 15,
+      "level": 16,
       "types": [
         "Tierra",
         "Fantasma"
@@ -673,11 +673,11 @@
         27
       ],
       "ev": [
+        5,
+        2,
         3,
-        2,
-        2,
         8,
-        3,
+        4,
         4
       ],
       "abilPool": [
@@ -1339,6 +1339,123 @@
         "Aguijón Letal"
       ],
       "spriteKey": "VIVILLON_17"
+    },
+    {
+      "nickname": "Mariconada",
+      "species": "Flabebe",
+      "level": 15,
+      "types": [
+        "Hada"
+      ],
+      "ability": "Cuerpo Puro",
+      "nature": "Grosera",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Lanzarrocas",
+        "Giro Fuego",
+        "Beso Drenaje",
+        "Furia Natural"
+      ],
+      "iv": [
+        29,
+        12,
+        17,
+        30,
+        19,
+        13
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Cuerpo Puro"
+      ],
+      "abilHidden": [
+        "Rezagado"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Giro Vil"
+        },
+        {
+          "lvl": 1,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 6,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 10,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 10,
+          "m": "Beso Drenaje"
+        },
+        {
+          "lvl": 15,
+          "m": "Furia Natural"
+        },
+        {
+          "lvl": 20,
+          "m": "Geocontrol"
+        },
+        {
+          "lvl": 22,
+          "m": "Truco Fuerza"
+        },
+        {
+          "lvl": 24,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 24,
+          "m": "Ofrenda"
+        },
+        {
+          "lvl": 28,
+          "m": "Disparo Demora"
+        },
+        {
+          "lvl": 33,
+          "m": "Láser Veleidoso"
+        },
+        {
+          "lvl": 33,
+          "m": "Rayo Solar"
+        },
+        {
+          "lvl": 37,
+          "m": "Bruma Explosiva"
+        },
+        {
+          "lvl": 41,
+          "m": "Hipercolmillo"
+        },
+        {
+          "lvl": 45,
+          "m": "Psicocambio"
+        },
+        {
+          "lvl": 48,
+          "m": "Voltiocambio"
+        }
+      ],
+      "firstMoves": [
+        "Lanzarrocas",
+        "Giro Fuego",
+        "Beso Drenaje",
+        "Furia Natural"
+      ],
+      "spriteKey": "FLABEBE"
     }
   ],
   "graveyard": [
@@ -1575,6 +1692,17 @@
       "mon": "Vivillon"
     },
     {
+      "route": "monte_moon_exterior",
+      "where": "Monte Moon Exterior",
+      "species": "Flabebe",
+      "nickname": "Mariconada",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 15,
+      "mon": "Flabebe"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -1601,9 +1729,9 @@
       "ruta_3": true,
       "monte_moon": true,
       "ruta_2_norte": true,
+      "monte_moon_exterior": true,
       "ruta_1": true,
-      "pueblo_paleta": true,
-      "monte_moon_exterior": true
+      "pueblo_paleta": true
     },
     "items": {},
     "encounters": {
@@ -1616,7 +1744,8 @@
       "ruta_2_norte": true,
       "ciudad_plateada": true,
       "ruta_3": true,
-      "monte_moon": true
+      "monte_moon": true,
+      "monte_moon_exterior": true
     },
     "switches": [
       48,
@@ -1628,10 +1757,13 @@
       68,
       69,
       71,
+      72,
+      73,
       110,
       112,
       113,
       114,
+      121,
       176,
       179,
       180,
@@ -1649,12 +1781,14 @@
       "Baya Tamate",
       "Botón Escape",
       "Cenizas Sagradas",
+      "Cuerda Huida",
       "Escama Dragón",
       "Gema Roca",
       "Incienso Marino",
       "Lodo Negro",
       "Lustresfera",
       "Manuscrito Sombras",
+      "Más PS",
       "Menta Audaz",
       "Menta Huraña",
       "Menta Seria",
@@ -1681,6 +1815,7 @@
       "Servicio Raro",
       "Supercaña",
       "Supereviolita",
+      "Tabla Acero",
       "Ultra Ball",
       "Velocidad X 6",
       "Vial"
@@ -1741,6 +1876,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "IRONPLATE",
+        "name": "Tabla Acero",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "LONELYMINT",
         "name": "Menta Huraña",
         "qty": 1,
@@ -1795,9 +1936,15 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "HPUP",
+        "name": "Más PS",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 7,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
@@ -1947,6 +2094,12 @@
       {
         "id": "ROCKSMASHITEM",
         "name": "MO Golpe Roca",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "ESCAPEROPE",
+        "name": "Cuerda Huida",
         "qty": 1,
         "pocket": "Objetos clave"
       }
