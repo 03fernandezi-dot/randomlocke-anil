@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 10m jugadas · 160₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 13m jugadas · 160₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Calamardo",
@@ -36,7 +36,7 @@
         3,
         1,
         2,
-        6,
+        7,
         0,
         1
       ],
@@ -136,115 +136,6 @@
       "spriteKey": "TENTACOOL"
     },
     {
-      "nickname": "Cabalasa",
-      "species": "Pumpkaboo",
-      "level": 10,
-      "types": [
-        "Fantasma",
-        "Planta"
-      ],
-      "ability": "Aura Feérica",
-      "nature": "Afable",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Psicocorte",
-        "Barrera",
-        "Telépata",
-        "Tormenta Arena"
-      ],
-      "iv": [
-        2,
-        25,
-        9,
-        29,
-        24,
-        9
-      ],
-      "ev": [
-        3,
-        2,
-        2,
-        6,
-        1,
-        1
-      ],
-      "abilPool": [
-        "Aura Feérica",
-        "Tablilla Debacle"
-      ],
-      "abilHidden": [
-        "Intrépido"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Barrera"
-        },
-        {
-          "lvl": 4,
-          "m": "Telépata"
-        },
-        {
-          "lvl": 6,
-          "m": "Tormenta Arena"
-        },
-        {
-          "lvl": 8,
-          "m": "Ataque Rápido"
-        },
-        {
-          "lvl": 12,
-          "m": "Homenaje Póstumo"
-        },
-        {
-          "lvl": 16,
-          "m": "Cuerpo Pesado"
-        },
-        {
-          "lvl": 20,
-          "m": "Arraigo"
-        },
-        {
-          "lvl": 24,
-          "m": "Garra Umbría"
-        },
-        {
-          "lvl": 28,
-          "m": "Eco Metálico"
-        },
-        {
-          "lvl": 32,
-          "m": "Llama Fusión"
-        },
-        {
-          "lvl": 36,
-          "m": "Puño Sombra"
-        },
-        {
-          "lvl": 36,
-          "m": "Campo Eléctrico"
-        },
-        {
-          "lvl": 40,
-          "m": "Puño Drenaje"
-        },
-        {
-          "lvl": 44,
-          "m": "Patada Baja"
-        }
-      ],
-      "tmMoves": [
-        "Camelo"
-      ],
-      "firstMoves": [
-        "Barrera",
-        "Telépata",
-        "Psicocorte"
-      ],
-      "spriteKey": "PUMPKABOO_1"
-    },
-    {
       "nickname": "Bicharraco",
       "species": "Golett",
       "level": 10,
@@ -274,7 +165,7 @@
         3,
         1,
         2,
-        6,
+        7,
         1,
         1
       ],
@@ -402,7 +293,7 @@
         3,
         2,
         4,
-        7,
+        8,
         1,
         1
       ],
@@ -525,7 +416,7 @@
         2,
         0,
         2,
-        5,
+        6,
         0,
         1
       ],
@@ -556,6 +447,231 @@
       ],
       "spriteKey": "METAPOD"
     },
+    {
+      "nickname": "Hedwig",
+      "species": "Rowlet",
+      "level": 10,
+      "types": [
+        "Planta",
+        "Volador"
+      ],
+      "ability": "Vigilante",
+      "nature": "Amable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Follaje",
+        "Hoja Mágica",
+        "Mofa",
+        "Truco Floral"
+      ],
+      "iv": [
+        21,
+        4,
+        14,
+        26,
+        25,
+        15
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Vigilante"
+      ],
+      "abilHidden": [
+        "Pareja de Baile"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Golpe Kárate"
+        },
+        {
+          "lvl": 1,
+          "m": "Motivación"
+        },
+        {
+          "lvl": 6,
+          "m": "Follaje"
+        },
+        {
+          "lvl": 7,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 8,
+          "m": "Mofa"
+        },
+        {
+          "lvl": 9,
+          "m": "Truco Floral"
+        },
+        {
+          "lvl": 12,
+          "m": "Ofrenda"
+        },
+        {
+          "lvl": 15,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 18,
+          "m": "Barrera Espinosa"
+        },
+        {
+          "lvl": 18,
+          "m": "Brecha Negra"
+        },
+        {
+          "lvl": 21,
+          "m": "Patada Tropical"
+        },
+        {
+          "lvl": 24,
+          "m": "Respiro"
+        },
+        {
+          "lvl": 27,
+          "m": "Ojos Llorosos"
+        },
+        {
+          "lvl": 29,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 30,
+          "m": "Somnífero"
+        },
+        {
+          "lvl": 33,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 36,
+          "m": "Viento Plata"
+        }
+      ],
+      "firstMoves": [
+        "Follaje",
+        "Hoja Mágica",
+        "Mofa",
+        "Truco Floral"
+      ],
+      "spriteKey": "ROWLET"
+    },
+    {
+      "nickname": "Poleomenta",
+      "species": "Sinistea",
+      "level": 10,
+      "types": [
+        "Fantasma"
+      ],
+      "ability": "Firmeza",
+      "nature": "Fuerte",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Clonatipo",
+        "Rayo Confuso",
+        "Palmeo",
+        "Halloween"
+      ],
+      "iv": [
+        24,
+        6,
+        13,
+        5,
+        2,
+        10
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Firmeza"
+      ],
+      "abilHidden": [
+        "Espejo Mágico"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Clonatipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Rayo Confuso"
+        },
+        {
+          "lvl": 6,
+          "m": "Palmeo"
+        },
+        {
+          "lvl": 6,
+          "m": "Halloween"
+        },
+        {
+          "lvl": 12,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 18,
+          "m": "Confusión"
+        },
+        {
+          "lvl": 24,
+          "m": "Escupir"
+        },
+        {
+          "lvl": 30,
+          "m": "Manto Espejo"
+        },
+        {
+          "lvl": 30,
+          "m": "Bramido Dragón"
+        },
+        {
+          "lvl": 36,
+          "m": "Divide Dolor"
+        },
+        {
+          "lvl": 42,
+          "m": "Lengüetazo"
+        },
+        {
+          "lvl": 48,
+          "m": "Rayo Umbrío"
+        },
+        {
+          "lvl": 54,
+          "m": "Rencor Reprimido"
+        },
+        {
+          "lvl": 60,
+          "m": "Celebración"
+        }
+      ],
+      "firstMoves": [
+        "Clonatipo",
+        "Rayo Confuso",
+        "Palmeo",
+        "Halloween"
+      ],
+      "spriteKey": "SINISTEA_1"
+    }
+  ],
+  "box": [
     {
       "nickname": "Capullazo",
       "species": "Spewpa",
@@ -607,9 +723,117 @@
         "Aguijón Letal"
       ],
       "spriteKey": "SPEWPA_17"
+    },
+    {
+      "nickname": "Cabalasa",
+      "species": "Pumpkaboo",
+      "level": 10,
+      "types": [
+        "Fantasma",
+        "Planta"
+      ],
+      "ability": "Aura Feérica",
+      "nature": "Afable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Psicocorte",
+        "Barrera",
+        "Telépata",
+        "Tormenta Arena"
+      ],
+      "iv": [
+        2,
+        25,
+        9,
+        29,
+        24,
+        9
+      ],
+      "ev": [
+        3,
+        2,
+        2,
+        7,
+        1,
+        1
+      ],
+      "abilPool": [
+        "Aura Feérica",
+        "Tablilla Debacle"
+      ],
+      "abilHidden": [
+        "Intrépido"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Barrera"
+        },
+        {
+          "lvl": 4,
+          "m": "Telépata"
+        },
+        {
+          "lvl": 6,
+          "m": "Tormenta Arena"
+        },
+        {
+          "lvl": 8,
+          "m": "Ataque Rápido"
+        },
+        {
+          "lvl": 12,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 16,
+          "m": "Cuerpo Pesado"
+        },
+        {
+          "lvl": 20,
+          "m": "Arraigo"
+        },
+        {
+          "lvl": 24,
+          "m": "Garra Umbría"
+        },
+        {
+          "lvl": 28,
+          "m": "Eco Metálico"
+        },
+        {
+          "lvl": 32,
+          "m": "Llama Fusión"
+        },
+        {
+          "lvl": 36,
+          "m": "Puño Sombra"
+        },
+        {
+          "lvl": 36,
+          "m": "Campo Eléctrico"
+        },
+        {
+          "lvl": 40,
+          "m": "Puño Drenaje"
+        },
+        {
+          "lvl": 44,
+          "m": "Patada Baja"
+        }
+      ],
+      "tmMoves": [
+        "Camelo"
+      ],
+      "firstMoves": [
+        "Barrera",
+        "Telépata",
+        "Psicocorte"
+      ],
+      "spriteKey": "PUMPKABOO_1"
     }
   ],
-  "box": [],
   "graveyard": [
     {
       "nickname": "Partyfiesta",
@@ -734,17 +958,6 @@
       "mon": "Tentacool"
     },
     {
-      "route": "ciudad_verde",
-      "where": "Ciudad Verde",
-      "species": "Pumpkaboo",
-      "nickname": "Cabalasa",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 4,
-      "mon": "Pumpkaboo"
-    },
-    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Golett",
@@ -778,6 +991,28 @@
       "mon": "Metapod"
     },
     {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Rowlet",
+      "nickname": "Hedwig",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Rowlet"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Sinistea",
+      "nickname": "Poleomenta",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Sinistea"
+    },
+    {
       "route": "ruta_2_norte",
       "where": "Ruta 2 Norte",
       "species": "Spewpa",
@@ -787,6 +1022,17 @@
       "category": "salvaje",
       "level": 9,
       "mon": "Spewpa"
+    },
+    {
+      "route": "ciudad_verde",
+      "where": "Ciudad Verde",
+      "species": "Pumpkaboo",
+      "nickname": "Cabalasa",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 4,
+      "mon": "Pumpkaboo"
     },
     {
       "route": "ruta_1",
@@ -806,13 +1052,13 @@
     "npcs": {},
     "routes": {
       "ruta_2_sur": true,
-      "ciudad_verde": true,
       "ruta_22": true,
       "bosque_verde": true,
+      "ciudad_plateada": true,
       "ruta_2_norte": true,
+      "ciudad_verde": true,
       "ruta_1": true,
-      "pueblo_paleta": true,
-      "ciudad_plateada": true
+      "pueblo_paleta": true
     },
     "items": {},
     "encounters": {
@@ -822,7 +1068,8 @@
       "ruta_22": true,
       "ruta_2_sur": true,
       "bosque_verde": true,
-      "ruta_2_norte": true
+      "ruta_2_norte": true,
+      "ciudad_plateada": true
     },
     "switches": [
       48,
@@ -836,6 +1083,8 @@
       71,
       110,
       112,
+      113,
+      114,
       176,
       179,
       180,
@@ -858,8 +1107,11 @@
       "Menta Audaz",
       "Menta Huraña",
       "Miniseta",
+      "MT07",
       "MT83",
       "MT86",
+      "MT89",
+      "Pesa Recia",
       "Poké Montura",
       "Rapid Ball",
       "Reglamento",
@@ -903,6 +1155,12 @@
       {
         "id": "SCROLLOFDARKNESS",
         "name": "Manuscrito Sombras",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "POWERWEIGHT",
+        "name": "Pesa Recia",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -957,7 +1215,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 6,
+        "qty": 5,
         "pocket": "Poké Balls"
       },
       {
@@ -973,6 +1231,12 @@
         "pocket": "Poké Balls"
       },
       {
+        "id": "TM07",
+        "name": "MT07",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM83",
         "name": "MT83",
         "qty": 1,
@@ -981,6 +1245,12 @@
       {
         "id": "TM86",
         "name": "MT86",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM89",
+        "name": "MT89",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
