@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 4h 28m jugadas · 19,070₽ · vidas en el juego: 25",
+  "notes": "Importado del save · 4h 41m jugadas · 20,970₽ · vidas en el juego: 25",
   "team": [
     {
       "nickname": "Marilus",
       "species": "Azurill",
-      "level": 15,
+      "level": 16,
       "types": [
         "Normal",
         "Hada"
@@ -34,9 +34,9 @@
       ],
       "ev": [
         1,
+        2,
+        3,
         1,
-        1,
-        0,
         0,
         2
       ],
@@ -103,7 +103,7 @@
     {
       "nickname": "Nemo",
       "species": "Goldeen",
-      "level": 19,
+      "level": 20,
       "types": [
         "Agua"
       ],
@@ -127,9 +127,9 @@
       ],
       "ev": [
         12,
+        6,
+        11,
         5,
-        9,
-        4,
         8,
         9
       ],
@@ -219,7 +219,7 @@
     {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 19,
+      "level": 20,
       "types": [
         "Acero",
         "Fantasma"
@@ -231,7 +231,7 @@
       "moves": [
         "Veneno X",
         "Nieve Polvo",
-        "Antojo",
+        "Tajo Metralla",
         "Danza Dragón"
       ],
       "iv": [
@@ -244,9 +244,9 @@
       ],
       "ev": [
         20,
-        8,
-        11,
-        5,
+        9,
+        13,
+        6,
         10,
         13
       ],
@@ -332,13 +332,13 @@
     {
       "nickname": "Mariquita",
       "species": "Makuhita",
-      "level": 19,
+      "level": 20,
       "types": [
         "Lucha"
       ],
       "ability": "Megadisparador",
       "nature": "Plácida",
-      "item": "",
+      "item": "Cinta Fuerte",
       "shiny": false,
       "moves": [
         "Alud",
@@ -356,9 +356,9 @@
       ],
       "ev": [
         6,
+        5,
+        8,
         4,
-        6,
-        3,
         6,
         5
       ],
@@ -467,7 +467,7 @@
     {
       "nickname": "Tadbulb",
       "species": "Tadbulb",
-      "level": 19,
+      "level": 20,
       "types": [
         "Eléctrico"
       ],
@@ -492,9 +492,9 @@
       ],
       "ev": [
         4,
-        2,
-        6,
-        2,
+        3,
+        8,
+        3,
         4,
         5
       ],
@@ -561,7 +561,8 @@
       ],
       "tmMoves": [
         "Bilis",
-        "Cascabel Cura"
+        "Cascabel Cura",
+        "Onda Vacío"
       ],
       "firstMoves": [
         "Cascabel Cura",
@@ -598,9 +599,9 @@
       ],
       "ev": [
         19,
-        8,
-        13,
-        5,
+        9,
+        15,
+        6,
         12,
         14
       ],
@@ -1937,7 +1938,8 @@
       "ciudad_verde": true,
       "ruta_1": true,
       "ruta_2_norte": true,
-      "ruta_3": true
+      "ruta_3": true,
+      "ruta_20": true
     },
     "items": {},
     "encounters": {
@@ -1969,6 +1971,7 @@
       73,
       74,
       75,
+      76,
       110,
       112,
       113,
@@ -1995,6 +1998,7 @@
       "Bola de Humo",
       "Bola Férrea",
       "Cenizas Sagradas",
+      "Cinta Fuerte",
       "Cola Plúmbea",
       "Crítico X 3",
       "Cubresuelos",
@@ -2365,8 +2369,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
