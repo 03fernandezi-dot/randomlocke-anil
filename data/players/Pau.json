@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 13m jugadas · 160₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 18m jugadas · 860₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Calamardo",
@@ -36,8 +36,8 @@
         3,
         1,
         2,
-        7,
-        0,
+        8,
+        1,
         1
       ],
       "abilPool": [
@@ -136,9 +136,420 @@
       "spriteKey": "TENTACOOL"
     },
     {
+      "nickname": "Mariposon",
+      "species": "Metapod",
+      "level": 11,
+      "types": [
+        "Bicho"
+      ],
+      "ability": "Unísono",
+      "nature": "Huraña",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Doble Ataque",
+        "Doble Bofetón",
+        "Vendetta",
+        "Viraje"
+      ],
+      "iv": [
+        9,
+        8,
+        24,
+        20,
+        18,
+        19
+      ],
+      "ev": [
+        2,
+        0,
+        2,
+        7,
+        1,
+        1
+      ],
+      "abilPool": [
+        "Unísono"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Danza Lunar"
+        },
+        {
+          "lvl": 9,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 15,
+          "m": "Eco Voz"
+        }
+      ],
+      "tmMoves": [
+        "Camelo"
+      ],
+      "firstMoves": [
+        "Doble Ataque",
+        "Doble Bofetón"
+      ],
+      "spriteKey": "METAPOD"
+    },
+    {
+      "nickname": "Shawn",
+      "species": "Mareep",
+      "level": 12,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Despiste",
+      "nature": "Serena",
+      "item": "Supereviolita",
+      "shiny": false,
+      "moves": [
+        "Tajo Acuático",
+        "Viento Aciago",
+        "Deslome",
+        "Levitón"
+      ],
+      "iv": [
+        10,
+        4,
+        31,
+        1,
+        11,
+        19
+      ],
+      "ev": [
+        3,
+        2,
+        4,
+        9,
+        2,
+        1
+      ],
+      "abilPool": [
+        "Despiste"
+      ],
+      "abilHidden": [
+        "Descarga"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Viento Aciago"
+        },
+        {
+          "lvl": 1,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 4,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 8,
+          "m": "Aura Magnética"
+        },
+        {
+          "lvl": 11,
+          "m": "Levitón"
+        },
+        {
+          "lvl": 15,
+          "m": "Bola Voltio"
+        },
+        {
+          "lvl": 18,
+          "m": "Protección"
+        },
+        {
+          "lvl": 20,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 22,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 25,
+          "m": "Disparo Demora"
+        },
+        {
+          "lvl": 29,
+          "m": "Recogearena"
+        },
+        {
+          "lvl": 32,
+          "m": "Danza Aleteo"
+        },
+        {
+          "lvl": 36,
+          "m": "Electrorrayo"
+        },
+        {
+          "lvl": 39,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 39,
+          "m": "Electropalmas"
+        },
+        {
+          "lvl": 39,
+          "m": "Extracto Picante"
+        },
+        {
+          "lvl": 43,
+          "m": "Orbes Espectro"
+        },
+        {
+          "lvl": 46,
+          "m": "Trampa Rocas"
+        }
+      ],
+      "tmMoves": [
+        "Camelo"
+      ],
+      "firstMoves": [
+        "Viento Aciago",
+        "Tajo Acuático",
+        "Deslome"
+      ],
+      "spriteKey": "MAREEP"
+    },
+    {
+      "nickname": "Poleomenta",
+      "species": "Sinistea",
+      "level": 10,
+      "types": [
+        "Fantasma"
+      ],
+      "ability": "Firmeza",
+      "nature": "Fuerte",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Velo Sagrado",
+        "Rayo Confuso",
+        "Palmeo",
+        "Halloween"
+      ],
+      "iv": [
+        24,
+        6,
+        13,
+        5,
+        2,
+        10
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "abilPool": [
+        "Firmeza"
+      ],
+      "abilHidden": [
+        "Espejo Mágico"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Clonatipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Rayo Confuso"
+        },
+        {
+          "lvl": 6,
+          "m": "Palmeo"
+        },
+        {
+          "lvl": 6,
+          "m": "Halloween"
+        },
+        {
+          "lvl": 12,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 18,
+          "m": "Confusión"
+        },
+        {
+          "lvl": 24,
+          "m": "Escupir"
+        },
+        {
+          "lvl": 30,
+          "m": "Manto Espejo"
+        },
+        {
+          "lvl": 30,
+          "m": "Bramido Dragón"
+        },
+        {
+          "lvl": 36,
+          "m": "Divide Dolor"
+        },
+        {
+          "lvl": 42,
+          "m": "Lengüetazo"
+        },
+        {
+          "lvl": 48,
+          "m": "Rayo Umbrío"
+        },
+        {
+          "lvl": 54,
+          "m": "Rencor Reprimido"
+        },
+        {
+          "lvl": 60,
+          "m": "Celebración"
+        }
+      ],
+      "tmMoves": [
+        "Camelo",
+        "Danza Lunar",
+        "Velo Sagrado"
+      ],
+      "firstMoves": [
+        "Clonatipo",
+        "Rayo Confuso",
+        "Palmeo",
+        "Halloween"
+      ],
+      "spriteKey": "SINISTEA_1"
+    },
+    {
+      "nickname": "Hedwig",
+      "species": "Rowlet",
+      "level": 11,
+      "types": [
+        "Planta",
+        "Volador"
+      ],
+      "ability": "Vigilante",
+      "nature": "Amable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Truco Floral",
+        "Hoja Mágica",
+        "Golpe Kárate",
+        "Mofa"
+      ],
+      "iv": [
+        21,
+        4,
+        14,
+        26,
+        25,
+        15
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "abilPool": [
+        "Vigilante"
+      ],
+      "abilHidden": [
+        "Pareja de Baile"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Golpe Kárate"
+        },
+        {
+          "lvl": 1,
+          "m": "Motivación"
+        },
+        {
+          "lvl": 6,
+          "m": "Follaje"
+        },
+        {
+          "lvl": 7,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 8,
+          "m": "Mofa"
+        },
+        {
+          "lvl": 9,
+          "m": "Truco Floral"
+        },
+        {
+          "lvl": 12,
+          "m": "Ofrenda"
+        },
+        {
+          "lvl": 15,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 18,
+          "m": "Barrera Espinosa"
+        },
+        {
+          "lvl": 18,
+          "m": "Brecha Negra"
+        },
+        {
+          "lvl": 21,
+          "m": "Patada Tropical"
+        },
+        {
+          "lvl": 24,
+          "m": "Respiro"
+        },
+        {
+          "lvl": 27,
+          "m": "Ojos Llorosos"
+        },
+        {
+          "lvl": 29,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 30,
+          "m": "Somnífero"
+        },
+        {
+          "lvl": 33,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 36,
+          "m": "Viento Plata"
+        }
+      ],
+      "firstMoves": [
+        "Follaje",
+        "Hoja Mágica",
+        "Mofa",
+        "Truco Floral"
+      ],
+      "spriteKey": "ROWLET"
+    },
+    {
       "nickname": "Bicharraco",
       "species": "Golett",
-      "level": 10,
+      "level": 11,
       "types": [
         "Tierra",
         "Fantasma"
@@ -165,8 +576,8 @@
         3,
         1,
         2,
-        7,
-        1,
+        8,
+        2,
         1
       ],
       "abilPool": [
@@ -263,412 +674,6 @@
         "Tinieblas"
       ],
       "spriteKey": "GOLETT"
-    },
-    {
-      "nickname": "Shawn",
-      "species": "Mareep",
-      "level": 11,
-      "types": [
-        "Eléctrico"
-      ],
-      "ability": "Despiste",
-      "nature": "Serena",
-      "item": "Supereviolita",
-      "shiny": false,
-      "moves": [
-        "Tajo Acuático",
-        "Viento Aciago",
-        "Deslome",
-        "Levitón"
-      ],
-      "iv": [
-        10,
-        4,
-        31,
-        1,
-        11,
-        19
-      ],
-      "ev": [
-        3,
-        2,
-        4,
-        8,
-        1,
-        1
-      ],
-      "abilPool": [
-        "Despiste"
-      ],
-      "abilHidden": [
-        "Descarga"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Viento Aciago"
-        },
-        {
-          "lvl": 1,
-          "m": "Tajo Acuático"
-        },
-        {
-          "lvl": 4,
-          "m": "Deslome"
-        },
-        {
-          "lvl": 8,
-          "m": "Aura Magnética"
-        },
-        {
-          "lvl": 11,
-          "m": "Levitón"
-        },
-        {
-          "lvl": 15,
-          "m": "Bola Voltio"
-        },
-        {
-          "lvl": 18,
-          "m": "Protección"
-        },
-        {
-          "lvl": 20,
-          "m": "A Defender"
-        },
-        {
-          "lvl": 22,
-          "m": "Zona Mágica"
-        },
-        {
-          "lvl": 25,
-          "m": "Disparo Demora"
-        },
-        {
-          "lvl": 29,
-          "m": "Recogearena"
-        },
-        {
-          "lvl": 32,
-          "m": "Danza Aleteo"
-        },
-        {
-          "lvl": 36,
-          "m": "Electrorrayo"
-        },
-        {
-          "lvl": 39,
-          "m": "Pulso de Campo"
-        },
-        {
-          "lvl": 39,
-          "m": "Electropalmas"
-        },
-        {
-          "lvl": 39,
-          "m": "Extracto Picante"
-        },
-        {
-          "lvl": 43,
-          "m": "Orbes Espectro"
-        },
-        {
-          "lvl": 46,
-          "m": "Trampa Rocas"
-        }
-      ],
-      "tmMoves": [
-        "Camelo"
-      ],
-      "firstMoves": [
-        "Viento Aciago",
-        "Tajo Acuático",
-        "Deslome"
-      ],
-      "spriteKey": "MAREEP"
-    },
-    {
-      "nickname": "Mariposon",
-      "species": "Metapod",
-      "level": 10,
-      "types": [
-        "Bicho"
-      ],
-      "ability": "Unísono",
-      "nature": "Huraña",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Doble Ataque",
-        "Doble Bofetón",
-        "Vendetta",
-        "Viraje"
-      ],
-      "iv": [
-        9,
-        8,
-        24,
-        20,
-        18,
-        19
-      ],
-      "ev": [
-        2,
-        0,
-        2,
-        6,
-        0,
-        1
-      ],
-      "abilPool": [
-        "Unísono"
-      ],
-      "abilHidden": [],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Danza Lunar"
-        },
-        {
-          "lvl": 9,
-          "m": "Viraje"
-        },
-        {
-          "lvl": 15,
-          "m": "Eco Voz"
-        }
-      ],
-      "tmMoves": [
-        "Camelo"
-      ],
-      "firstMoves": [
-        "Doble Ataque",
-        "Doble Bofetón"
-      ],
-      "spriteKey": "METAPOD"
-    },
-    {
-      "nickname": "Hedwig",
-      "species": "Rowlet",
-      "level": 10,
-      "types": [
-        "Planta",
-        "Volador"
-      ],
-      "ability": "Vigilante",
-      "nature": "Amable",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Follaje",
-        "Hoja Mágica",
-        "Mofa",
-        "Truco Floral"
-      ],
-      "iv": [
-        21,
-        4,
-        14,
-        26,
-        25,
-        15
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        1,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Vigilante"
-      ],
-      "abilHidden": [
-        "Pareja de Baile"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Golpe Kárate"
-        },
-        {
-          "lvl": 1,
-          "m": "Motivación"
-        },
-        {
-          "lvl": 6,
-          "m": "Follaje"
-        },
-        {
-          "lvl": 7,
-          "m": "Hoja Mágica"
-        },
-        {
-          "lvl": 8,
-          "m": "Mofa"
-        },
-        {
-          "lvl": 9,
-          "m": "Truco Floral"
-        },
-        {
-          "lvl": 12,
-          "m": "Ofrenda"
-        },
-        {
-          "lvl": 15,
-          "m": "Punzada Rama"
-        },
-        {
-          "lvl": 18,
-          "m": "Barrera Espinosa"
-        },
-        {
-          "lvl": 18,
-          "m": "Brecha Negra"
-        },
-        {
-          "lvl": 21,
-          "m": "Patada Tropical"
-        },
-        {
-          "lvl": 24,
-          "m": "Respiro"
-        },
-        {
-          "lvl": 27,
-          "m": "Ojos Llorosos"
-        },
-        {
-          "lvl": 29,
-          "m": "Encanto"
-        },
-        {
-          "lvl": 30,
-          "m": "Somnífero"
-        },
-        {
-          "lvl": 33,
-          "m": "Psicorrayo"
-        },
-        {
-          "lvl": 36,
-          "m": "Viento Plata"
-        }
-      ],
-      "firstMoves": [
-        "Follaje",
-        "Hoja Mágica",
-        "Mofa",
-        "Truco Floral"
-      ],
-      "spriteKey": "ROWLET"
-    },
-    {
-      "nickname": "Poleomenta",
-      "species": "Sinistea",
-      "level": 10,
-      "types": [
-        "Fantasma"
-      ],
-      "ability": "Firmeza",
-      "nature": "Fuerte",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Clonatipo",
-        "Rayo Confuso",
-        "Palmeo",
-        "Halloween"
-      ],
-      "iv": [
-        24,
-        6,
-        13,
-        5,
-        2,
-        10
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Firmeza"
-      ],
-      "abilHidden": [
-        "Espejo Mágico"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Clonatipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Rayo Confuso"
-        },
-        {
-          "lvl": 6,
-          "m": "Palmeo"
-        },
-        {
-          "lvl": 6,
-          "m": "Halloween"
-        },
-        {
-          "lvl": 12,
-          "m": "Puño Furia"
-        },
-        {
-          "lvl": 18,
-          "m": "Confusión"
-        },
-        {
-          "lvl": 24,
-          "m": "Escupir"
-        },
-        {
-          "lvl": 30,
-          "m": "Manto Espejo"
-        },
-        {
-          "lvl": 30,
-          "m": "Bramido Dragón"
-        },
-        {
-          "lvl": 36,
-          "m": "Divide Dolor"
-        },
-        {
-          "lvl": 42,
-          "m": "Lengüetazo"
-        },
-        {
-          "lvl": 48,
-          "m": "Rayo Umbrío"
-        },
-        {
-          "lvl": 54,
-          "m": "Rencor Reprimido"
-        },
-        {
-          "lvl": 60,
-          "m": "Celebración"
-        }
-      ],
-      "firstMoves": [
-        "Clonatipo",
-        "Rayo Confuso",
-        "Palmeo",
-        "Halloween"
-      ],
-      "spriteKey": "SINISTEA_1"
     }
   ],
   "box": [
@@ -684,7 +689,10 @@
       "item": "",
       "shiny": false,
       "moves": [
-        "Aguijón Letal"
+        "Aguijón Letal",
+        "Rueda Fuego",
+        "Barrera",
+        "Velo Sagrado"
       ],
       "iv": [
         2,
@@ -718,6 +726,11 @@
           "lvl": 1,
           "m": "Aguijón Letal"
         }
+      ],
+      "tmMoves": [
+        "Barrera",
+        "Camelo",
+        "Velo Sagrado"
       ],
       "firstMoves": [
         "Aguijón Letal"
@@ -958,15 +971,15 @@
       "mon": "Tentacool"
     },
     {
-      "route": "ruta_22",
-      "where": "Ruta 22",
-      "species": "Golett",
-      "nickname": "Bicharraco",
+      "route": "bosque_verde",
+      "where": "Bosque Verde",
+      "species": "Metapod",
+      "nickname": "Mariposon",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 4,
-      "mon": "Golett"
+      "level": 7,
+      "mon": "Metapod"
     },
     {
       "route": "",
@@ -980,15 +993,15 @@
       "mon": "Mareep"
     },
     {
-      "route": "bosque_verde",
-      "where": "Bosque Verde",
-      "species": "Metapod",
-      "nickname": "Mariposon",
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Sinistea",
+      "nickname": "Poleomenta",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 7,
-      "mon": "Metapod"
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Sinistea"
     },
     {
       "route": "ciudad_plateada",
@@ -1002,15 +1015,15 @@
       "mon": "Rowlet"
     },
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Sinistea",
-      "nickname": "Poleomenta",
+      "route": "ruta_22",
+      "where": "Ruta 22",
+      "species": "Golett",
+      "nickname": "Bicharraco",
       "shiny": false,
       "status": "captured",
-      "category": "ciudad",
-      "level": 10,
-      "mon": "Sinistea"
+      "category": "salvaje",
+      "level": 4,
+      "mon": "Golett"
     },
     {
       "route": "ruta_2_norte",
@@ -1052,9 +1065,9 @@
     "npcs": {},
     "routes": {
       "ruta_2_sur": true,
-      "ruta_22": true,
       "bosque_verde": true,
       "ciudad_plateada": true,
+      "ruta_22": true,
       "ruta_2_norte": true,
       "ciudad_verde": true,
       "ruta_1": true,
@@ -1106,6 +1119,7 @@
       "Manuscrito Sombras",
       "Menta Audaz",
       "Menta Huraña",
+      "Menta Seria",
       "Miniseta",
       "MT07",
       "MT83",
@@ -1209,6 +1223,12 @@
       {
         "id": "CAREFULMINT",
         "name": "Menta Cauta",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "SERIOUSMINT",
+        "name": "Menta Seria",
         "qty": 1,
         "pocket": "Medicinas"
       },
