@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 2h 16m jugadas · 5,710₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 2h 26m jugadas · 6,480₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Espía",
@@ -34,8 +34,8 @@
       ],
       "ev": [
         8,
-        3,
-        5,
+        4,
+        6,
         3,
         5,
         5
@@ -114,7 +114,11 @@
       ],
       "tmMoves": [
         "Beso Dulce",
-        "Onda Vacío"
+        "Colmillo Ígneo",
+        "Danza Lunar",
+        "Onda Vacío",
+        "Restricción",
+        "Robo"
       ],
       "firstMoves": [
         "Cuchillada",
@@ -150,8 +154,8 @@
       ],
       "ev": [
         8,
-        3,
-        5,
+        4,
+        6,
         3,
         4,
         5
@@ -243,6 +247,8 @@
       ],
       "tmMoves": [
         "Calamidad",
+        "Colmillo Ígneo",
+        "Danza Lunar",
         "Onda Voltio"
       ],
       "firstMoves": [
@@ -279,8 +285,8 @@
       ],
       "ev": [
         7,
-        3,
-        5,
+        4,
+        6,
         2,
         4,
         5
@@ -366,7 +372,9 @@
         }
       ],
       "tmMoves": [
-        "Onda Vacío"
+        "Onda Vacío",
+        "Reciclaje",
+        "Robo"
       ],
       "firstMoves": [
         "Agua Fría",
@@ -390,7 +398,7 @@
         "Isofuerza",
         "Meteorobola",
         "Represalia",
-        "Danza Lluvia"
+        "Colmillo Ígneo"
       ],
       "iv": [
         20,
@@ -402,8 +410,8 @@
       ],
       "ev": [
         0,
-        0,
         1,
+        2,
         1,
         0,
         0
@@ -474,7 +482,14 @@
         }
       ],
       "tmMoves": [
-        "Calamidad"
+        "Calamidad",
+        "Colmillo Ígneo",
+        "Danza Lunar",
+        "Mordisco",
+        "Onda Vacío",
+        "Onda Voltio",
+        "Restricción",
+        "Robo"
       ],
       "firstMoves": [
         "Isofuerza",
@@ -512,8 +527,8 @@
       ],
       "ev": [
         8,
-        3,
-        3,
+        4,
+        4,
         2,
         2,
         4
@@ -585,7 +600,9 @@
         }
       ],
       "tmMoves": [
-        "Onda Vacío"
+        "Onda Vacío",
+        "Restricción",
+        "Robo"
       ],
       "firstMoves": [
         "Eco Metálico",
@@ -621,8 +638,8 @@
       ],
       "ev": [
         5,
-        0,
         1,
+        2,
         0,
         0,
         2
@@ -646,7 +663,10 @@
         }
       ],
       "tmMoves": [
-        "Beso Dulce"
+        "Beso Dulce",
+        "Colmillo Ígneo",
+        "Mordisco",
+        "Robo"
       ],
       "firstMoves": [
         "Púas",
@@ -1016,7 +1036,8 @@
       "bosque_verde": true,
       "ruta_2_sur": true,
       "ruta_1": true,
-      "ruta_2_norte": true
+      "ruta_2_norte": true,
+      "ruta_3": true
     },
     "items": {},
     "encounters": {
