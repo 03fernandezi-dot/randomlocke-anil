@@ -4,507 +4,12 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 6h 6m jugadas · 48,490₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 6h 28m jugadas · 58,170₽ · vidas en el juego: 24",
   "team": [
-    {
-      "nickname": "Chess.com",
-      "species": "Quilladin",
-      "level": 24,
-      "types": [
-        "Planta"
-      ],
-      "ability": "Alma Errante",
-      "nature": "Floja",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Barrera Espinosa",
-        "Canto",
-        "Bomba Caramelo",
-        "Masa Cósmica"
-      ],
-      "natureMint": true,
-      "natureBase": "Ingenua",
-      "iv": [
-        17,
-        13,
-        23,
-        14,
-        22,
-        27
-      ],
-      "ev": [
-        5,
-        12,
-        8,
-        2,
-        4,
-        5
-      ],
-      "abilPool": [
-        "Alma Errante"
-      ],
-      "abilHidden": [
-        "Unidad Ecuestre"
-      ],
-      "learnset": [
-        {
-          "lvl": 0,
-          "m": "Masa Cósmica"
-        },
-        {
-          "lvl": 1,
-          "m": "Cuerno Certero"
-        },
-        {
-          "lvl": 1,
-          "m": "Magnitud"
-        },
-        {
-          "lvl": 1,
-          "m": "Pikaturbo"
-        },
-        {
-          "lvl": 8,
-          "m": "Zona Mágica"
-        },
-        {
-          "lvl": 11,
-          "m": "Lengüetazo"
-        },
-        {
-          "lvl": 15,
-          "m": "Espora"
-        },
-        {
-          "lvl": 19,
-          "m": "Sísmico"
-        },
-        {
-          "lvl": 20,
-          "m": "Pesadilla"
-        },
-        {
-          "lvl": 24,
-          "m": "Aire Afilado"
-        },
-        {
-          "lvl": 29,
-          "m": "Megaagotar"
-        },
-        {
-          "lvl": 34,
-          "m": "Reciclaje"
-        },
-        {
-          "lvl": 38,
-          "m": "Puños Plasma"
-        },
-        {
-          "lvl": 43,
-          "m": "Onda Ígnea"
-        },
-        {
-          "lvl": 47,
-          "m": "Demolición"
-        },
-        {
-          "lvl": 53,
-          "m": "Hipnosis"
-        }
-      ],
-      "tmMoves": [
-        "Aguante",
-        "Bloqueo",
-        "Calamidad",
-        "Campo Eléctrico",
-        "Cascabel Cura",
-        "Danza Lunar",
-        "Mordisco",
-        "Onda Trueno"
-      ],
-      "firstMoves": [
-        "Barrera Espinosa",
-        "Canto",
-        "Bomba Caramelo",
-        "Sustituto"
-      ],
-      "spriteKey": "QUILLADIN"
-    },
-    {
-      "nickname": "RamonYCajal",
-      "species": "Honedge",
-      "level": 24,
-      "types": [
-        "Acero",
-        "Fantasma"
-      ],
-      "ability": "Insomnio",
-      "nature": "Pícara",
-      "item": "Baya Caoca",
-      "shiny": false,
-      "moves": [
-        "Veneno X",
-        "Nieve Polvo",
-        "Tajo Metralla",
-        "Danza Dragón"
-      ],
-      "iv": [
-        31,
-        31,
-        12,
-        12,
-        14,
-        28
-      ],
-      "ev": [
-        26,
-        22,
-        26,
-        9,
-        15,
-        19
-      ],
-      "abilPool": [
-        "Insomnio"
-      ],
-      "abilHidden": [],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Eco Metálico"
-        },
-        {
-          "lvl": 1,
-          "m": "Luminicola"
-        },
-        {
-          "lvl": 4,
-          "m": "Antojo"
-        },
-        {
-          "lvl": 8,
-          "m": "Danza Dragón"
-        },
-        {
-          "lvl": 12,
-          "m": "Canto Mortal"
-        },
-        {
-          "lvl": 13,
-          "m": "Nieve Polvo"
-        },
-        {
-          "lvl": 16,
-          "m": "Veneno X"
-        },
-        {
-          "lvl": 20,
-          "m": "Tajo Metralla"
-        },
-        {
-          "lvl": 24,
-          "m": "Despejar"
-        },
-        {
-          "lvl": 28,
-          "m": "Mundo Gélido"
-        },
-        {
-          "lvl": 32,
-          "m": "Aguijón Letal"
-        },
-        {
-          "lvl": 36,
-          "m": "Sacrificio"
-        },
-        {
-          "lvl": 40,
-          "m": "Aullido"
-        },
-        {
-          "lvl": 44,
-          "m": "Quemarrueda"
-        },
-        {
-          "lvl": 48,
-          "m": "Ataque Aéreo"
-        }
-      ],
-      "tmMoves": [
-        "Aguante",
-        "Cascabel Cura",
-        "Divide Dolor",
-        "Onda Vacío",
-        "Restricción",
-        "Robo"
-      ],
-      "firstMoves": [
-        "Eco Metálico",
-        "Luminicola",
-        "Antojo",
-        "Danza Dragón"
-      ],
-      "spriteKey": "HONEDGE"
-    },
-    {
-      "nickname": "Tadbulb",
-      "species": "Tadbulb",
-      "level": 24,
-      "types": [
-        "Eléctrico"
-      ],
-      "ability": "Perro Guardián",
-      "nature": "Ingenua",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Onda Trueno",
-        "Golpe Aéreo",
-        "Alto Voltaje",
-        "Campo Eléctrico"
-      ],
-      "origin": "don_prodigio",
-      "iv": [
-        11,
-        4,
-        9,
-        6,
-        25,
-        7
-      ],
-      "ev": [
-        10,
-        16,
-        21,
-        6,
-        9,
-        11
-      ],
-      "abilPool": [
-        "Perro Guardián",
-        "Coraza Ira"
-      ],
-      "abilHidden": [
-        "Poder Sabio"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Cascabel Cura"
-        },
-        {
-          "lvl": 1,
-          "m": "Golpe Aéreo"
-        },
-        {
-          "lvl": 7,
-          "m": "Alto Voltaje"
-        },
-        {
-          "lvl": 11,
-          "m": "Respiro"
-        },
-        {
-          "lvl": 17,
-          "m": "Levitón"
-        },
-        {
-          "lvl": 21,
-          "m": "Perforador"
-        },
-        {
-          "lvl": 24,
-          "m": "Llanto Falso"
-        },
-        {
-          "lvl": 25,
-          "m": "Octopresa"
-        },
-        {
-          "lvl": 32,
-          "m": "Onda Voltio"
-        },
-        {
-          "lvl": 36,
-          "m": "Electrocañón"
-        },
-        {
-          "lvl": 40,
-          "m": "Puño Trueno"
-        },
-        {
-          "lvl": 45,
-          "m": "Ascuas"
-        },
-        {
-          "lvl": 50,
-          "m": "Telépata"
-        }
-      ],
-      "tmMoves": [
-        "Beso Dulce",
-        "Bilis",
-        "Brecha Negra",
-        "Calamidad",
-        "Cambiaalmas",
-        "Campo Eléctrico",
-        "Cascabel Cura",
-        "Colmillo Ígneo",
-        "Divide Dolor",
-        "Limpieza General",
-        "Onda Trueno",
-        "Onda Vacío",
-        "Onda Voltio",
-        "Viento Afín"
-      ],
-      "firstMoves": [
-        "Cascabel Cura",
-        "Golpe Aéreo",
-        "Alto Voltaje",
-        "Respiro"
-      ],
-      "spriteKey": "TADBULB"
-    },
-    {
-      "nickname": "Princesita",
-      "species": "Brionne",
-      "level": 24,
-      "types": [
-        "Agua"
-      ],
-      "ability": "Psicogénesis",
-      "nature": "Serena",
-      "item": "Tabla Linfa",
-      "shiny": false,
-      "moves": [
-        "Agua Fría",
-        "Barrera",
-        "Carámbano",
-        "Voz Cautivadora"
-      ],
-      "iv": [
-        0,
-        5,
-        13,
-        1,
-        1,
-        6
-      ],
-      "ev": [
-        25,
-        22,
-        28,
-        9,
-        17,
-        20
-      ],
-      "abilPool": [
-        "Psicogénesis"
-      ],
-      "abilHidden": [
-        "Piel Herbácea"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Sorpresa"
-        },
-        {
-          "lvl": 1,
-          "m": "Castigo"
-        },
-        {
-          "lvl": 1,
-          "m": "Relámpago Súbito"
-        },
-        {
-          "lvl": 1,
-          "m": "Rencor"
-        },
-        {
-          "lvl": 9,
-          "m": "Venganza"
-        },
-        {
-          "lvl": 11,
-          "m": "Giro Vil"
-        },
-        {
-          "lvl": 12,
-          "m": "Residuos"
-        },
-        {
-          "lvl": 15,
-          "m": "Pantalla de Luz"
-        },
-        {
-          "lvl": 20,
-          "m": "Zona Mágica"
-        },
-        {
-          "lvl": 25,
-          "m": "Daño Secreto"
-        },
-        {
-          "lvl": 30,
-          "m": "Puño Jet"
-        },
-        {
-          "lvl": 33,
-          "m": "Hidroariete"
-        },
-        {
-          "lvl": 35,
-          "m": "Acua Jet"
-        },
-        {
-          "lvl": 40,
-          "m": "Telaraña"
-        },
-        {
-          "lvl": 45,
-          "m": "Mil Flechas"
-        },
-        {
-          "lvl": 46,
-          "m": "Persecución"
-        },
-        {
-          "lvl": 50,
-          "m": "Tajo Acuático"
-        },
-        {
-          "lvl": 55,
-          "m": "Gravedad"
-        }
-      ],
-      "tmMoves": [
-        "Aguante",
-        "Beso Dulce",
-        "Bilis",
-        "Bloqueo",
-        "Brecha Negra",
-        "Cambiaalmas",
-        "Carámbano",
-        "Cascabel Cura",
-        "Divide Dolor",
-        "Gruñido",
-        "Reciclaje",
-        "Restricción",
-        "Rodillo de Púas"
-      ],
-      "firstMoves": [
-        "Agua Fría",
-        "Barrera",
-        "Copión"
-      ],
-      "spriteKey": "BRIONNE"
-    },
     {
       "nickname": "Mariquita",
       "species": "Hariyama",
-      "level": 24,
+      "level": 25,
       "types": [
         "Lucha"
       ],
@@ -527,12 +32,12 @@
         20
       ],
       "ev": [
-        10,
-        12,
-        21,
+        14,
+        13,
+        22,
         6,
-        9,
-        8
+        10,
+        11
       ],
       "abilPool": [
         "Afortunado",
@@ -650,16 +155,511 @@
       "spriteKey": "HARIYAMA"
     },
     {
+      "nickname": "RamonYCajal",
+      "species": "Honedge",
+      "level": 25,
+      "types": [
+        "Acero",
+        "Fantasma"
+      ],
+      "ability": "Insomnio",
+      "nature": "Pícara",
+      "item": "Baya Caoca",
+      "shiny": false,
+      "moves": [
+        "Veneno X",
+        "Nieve Polvo",
+        "Tajo Metralla",
+        "Danza Dragón"
+      ],
+      "iv": [
+        31,
+        31,
+        12,
+        12,
+        14,
+        28
+      ],
+      "ev": [
+        30,
+        23,
+        27,
+        9,
+        16,
+        22
+      ],
+      "abilPool": [
+        "Insomnio"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Eco Metálico"
+        },
+        {
+          "lvl": 1,
+          "m": "Luminicola"
+        },
+        {
+          "lvl": 4,
+          "m": "Antojo"
+        },
+        {
+          "lvl": 8,
+          "m": "Danza Dragón"
+        },
+        {
+          "lvl": 12,
+          "m": "Canto Mortal"
+        },
+        {
+          "lvl": 13,
+          "m": "Nieve Polvo"
+        },
+        {
+          "lvl": 16,
+          "m": "Veneno X"
+        },
+        {
+          "lvl": 20,
+          "m": "Tajo Metralla"
+        },
+        {
+          "lvl": 24,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 28,
+          "m": "Mundo Gélido"
+        },
+        {
+          "lvl": 32,
+          "m": "Aguijón Letal"
+        },
+        {
+          "lvl": 36,
+          "m": "Sacrificio"
+        },
+        {
+          "lvl": 40,
+          "m": "Aullido"
+        },
+        {
+          "lvl": 44,
+          "m": "Quemarrueda"
+        },
+        {
+          "lvl": 48,
+          "m": "Ataque Aéreo"
+        }
+      ],
+      "tmMoves": [
+        "Aguante",
+        "Cascabel Cura",
+        "Divide Dolor",
+        "Onda Vacío",
+        "Restricción",
+        "Robo"
+      ],
+      "firstMoves": [
+        "Eco Metálico",
+        "Luminicola",
+        "Antojo",
+        "Danza Dragón"
+      ],
+      "spriteKey": "HONEDGE"
+    },
+    {
+      "nickname": "Tadbulb",
+      "species": "Tadbulb",
+      "level": 26,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Perro Guardián",
+      "nature": "Ingenua",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Onda Trueno",
+        "Golpe Aéreo",
+        "Alto Voltaje",
+        "Octopresa"
+      ],
+      "origin": "don_prodigio",
+      "iv": [
+        11,
+        4,
+        9,
+        6,
+        25,
+        7
+      ],
+      "ev": [
+        14,
+        17,
+        22,
+        6,
+        10,
+        14
+      ],
+      "abilPool": [
+        "Perro Guardián",
+        "Coraza Ira"
+      ],
+      "abilHidden": [
+        "Poder Sabio"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cascabel Cura"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Aéreo"
+        },
+        {
+          "lvl": 7,
+          "m": "Alto Voltaje"
+        },
+        {
+          "lvl": 11,
+          "m": "Respiro"
+        },
+        {
+          "lvl": 17,
+          "m": "Levitón"
+        },
+        {
+          "lvl": 21,
+          "m": "Perforador"
+        },
+        {
+          "lvl": 24,
+          "m": "Llanto Falso"
+        },
+        {
+          "lvl": 25,
+          "m": "Octopresa"
+        },
+        {
+          "lvl": 32,
+          "m": "Onda Voltio"
+        },
+        {
+          "lvl": 36,
+          "m": "Electrocañón"
+        },
+        {
+          "lvl": 40,
+          "m": "Puño Trueno"
+        },
+        {
+          "lvl": 45,
+          "m": "Ascuas"
+        },
+        {
+          "lvl": 50,
+          "m": "Telépata"
+        }
+      ],
+      "tmMoves": [
+        "Beso Dulce",
+        "Bilis",
+        "Brecha Negra",
+        "Calamidad",
+        "Cambiaalmas",
+        "Campo Eléctrico",
+        "Cascabel Cura",
+        "Colmillo Ígneo",
+        "Divide Dolor",
+        "Limpieza General",
+        "Onda Trueno",
+        "Onda Vacío",
+        "Onda Voltio",
+        "Viento Afín"
+      ],
+      "firstMoves": [
+        "Cascabel Cura",
+        "Golpe Aéreo",
+        "Alto Voltaje",
+        "Respiro"
+      ],
+      "spriteKey": "TADBULB"
+    },
+    {
+      "nickname": "Princesita",
+      "species": "Brionne",
+      "level": 26,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Psicogénesis",
+      "nature": "Serena",
+      "item": "Tabla Linfa",
+      "shiny": false,
+      "moves": [
+        "Agua Fría",
+        "Barrera",
+        "Carámbano",
+        "Voz Cautivadora"
+      ],
+      "iv": [
+        0,
+        5,
+        13,
+        1,
+        1,
+        6
+      ],
+      "ev": [
+        29,
+        23,
+        29,
+        9,
+        18,
+        23
+      ],
+      "abilPool": [
+        "Psicogénesis"
+      ],
+      "abilHidden": [
+        "Piel Herbácea"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Sorpresa"
+        },
+        {
+          "lvl": 1,
+          "m": "Castigo"
+        },
+        {
+          "lvl": 1,
+          "m": "Relámpago Súbito"
+        },
+        {
+          "lvl": 1,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 9,
+          "m": "Venganza"
+        },
+        {
+          "lvl": 11,
+          "m": "Giro Vil"
+        },
+        {
+          "lvl": 12,
+          "m": "Residuos"
+        },
+        {
+          "lvl": 15,
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 20,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 25,
+          "m": "Daño Secreto"
+        },
+        {
+          "lvl": 30,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 33,
+          "m": "Hidroariete"
+        },
+        {
+          "lvl": 35,
+          "m": "Acua Jet"
+        },
+        {
+          "lvl": 40,
+          "m": "Telaraña"
+        },
+        {
+          "lvl": 45,
+          "m": "Mil Flechas"
+        },
+        {
+          "lvl": 46,
+          "m": "Persecución"
+        },
+        {
+          "lvl": 50,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 55,
+          "m": "Gravedad"
+        }
+      ],
+      "tmMoves": [
+        "Aguante",
+        "Beso Dulce",
+        "Bilis",
+        "Bloqueo",
+        "Brecha Negra",
+        "Cambiaalmas",
+        "Carámbano",
+        "Cascabel Cura",
+        "Divide Dolor",
+        "Gruñido",
+        "Reciclaje",
+        "Restricción",
+        "Rodillo de Púas"
+      ],
+      "firstMoves": [
+        "Agua Fría",
+        "Barrera",
+        "Copión"
+      ],
+      "spriteKey": "BRIONNE"
+    },
+    {
+      "nickname": "Chess.com",
+      "species": "Quilladin",
+      "level": 26,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Alma Errante",
+      "nature": "Floja",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Barrera Espinosa",
+        "Canto",
+        "Bomba Caramelo",
+        "Masa Cósmica"
+      ],
+      "natureMint": true,
+      "natureBase": "Ingenua",
+      "iv": [
+        17,
+        13,
+        23,
+        14,
+        22,
+        27
+      ],
+      "ev": [
+        9,
+        13,
+        9,
+        2,
+        5,
+        8
+      ],
+      "abilPool": [
+        "Alma Errante"
+      ],
+      "abilHidden": [
+        "Unidad Ecuestre"
+      ],
+      "learnset": [
+        {
+          "lvl": 0,
+          "m": "Masa Cósmica"
+        },
+        {
+          "lvl": 1,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 1,
+          "m": "Magnitud"
+        },
+        {
+          "lvl": 1,
+          "m": "Pikaturbo"
+        },
+        {
+          "lvl": 8,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 11,
+          "m": "Lengüetazo"
+        },
+        {
+          "lvl": 15,
+          "m": "Espora"
+        },
+        {
+          "lvl": 19,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 20,
+          "m": "Pesadilla"
+        },
+        {
+          "lvl": 24,
+          "m": "Aire Afilado"
+        },
+        {
+          "lvl": 29,
+          "m": "Megaagotar"
+        },
+        {
+          "lvl": 34,
+          "m": "Reciclaje"
+        },
+        {
+          "lvl": 38,
+          "m": "Puños Plasma"
+        },
+        {
+          "lvl": 43,
+          "m": "Onda Ígnea"
+        },
+        {
+          "lvl": 47,
+          "m": "Demolición"
+        },
+        {
+          "lvl": 53,
+          "m": "Hipnosis"
+        }
+      ],
+      "tmMoves": [
+        "Aguante",
+        "Bloqueo",
+        "Calamidad",
+        "Campo Eléctrico",
+        "Cascabel Cura",
+        "Danza Lunar",
+        "Mordisco",
+        "Onda Trueno"
+      ],
+      "firstMoves": [
+        "Barrera Espinosa",
+        "Canto",
+        "Bomba Caramelo",
+        "Sustituto"
+      ],
+      "spriteKey": "QUILLADIN"
+    },
+    {
       "nickname": "Peakaboo",
       "species": "Pumpkaboo",
-      "level": 24,
+      "level": 25,
       "types": [
         "Fantasma",
         "Planta"
       ],
       "ability": "Cosecha",
       "nature": "Firme",
-      "item": "Mineral Evol",
+      "item": "Tabla Draco",
       "shiny": false,
       "moves": [
         "Conjuro",
@@ -676,12 +676,12 @@
         3
       ],
       "ev": [
+        4,
+        1,
+        1,
         0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1,
+        3
       ],
       "abilPool": [
         "Cosecha",
@@ -2250,15 +2250,15 @@
   ],
   "captures": [
     {
-      "route": "ruta_20",
-      "where": "Ruta 20",
-      "species": "Quilladin",
-      "nickname": "Chess.com",
+      "route": "",
+      "where": "Centro Pokémon",
+      "species": "Hariyama",
+      "nickname": "Mariquita",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 18,
-      "mon": "Quilladin"
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Hariyama"
     },
     {
       "route": "bosque_verde",
@@ -2294,15 +2294,15 @@
       "mon": "Brionne"
     },
     {
-      "route": "",
-      "where": "Centro Pokémon",
-      "species": "Hariyama",
-      "nickname": "Mariquita",
+      "route": "ruta_20",
+      "where": "Ruta 20",
+      "species": "Quilladin",
+      "nickname": "Chess.com",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Hariyama"
+      "category": "salvaje",
+      "level": 18,
+      "mon": "Quilladin"
     },
     {
       "route": "ciudad_carmin",
@@ -2467,9 +2467,9 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ruta_20": true,
       "bosque_verde": true,
       "ruta_22": true,
+      "ruta_20": true,
       "ciudad_carmin": true,
       "monte_moon_exterior": true,
       "ciudad_plateada": true,
@@ -2526,11 +2526,14 @@
       81,
       82,
       83,
+      84,
+      85,
       110,
       112,
       113,
       114,
       121,
+      138,
       171,
       176,
       179,
@@ -2541,7 +2544,10 @@
       184,
       185,
       323,
-      334
+      334,
+      363,
+      364,
+      365
     ],
     "foundItems": [
       "Agua Mística",
@@ -2551,8 +2557,10 @@
       "Baya Caquic",
       "Baya Kouba",
       "Baya Meloc",
+      "Bici",
       "Bola de Humo",
       "Bola Férrea",
+      "Bono Bici",
       "Cenizas Sagradas",
       "Cinta Fuerte",
       "Cola Plúmbea",
@@ -2561,6 +2569,7 @@
       "Cuerda Huida",
       "Def. Esp. X 3",
       "Def. Esp. X 6",
+      "Dulce de Nata",
       "Ensueño Ball",
       "Fósil Hélix",
       "Galleta Lava",
@@ -2600,6 +2609,7 @@
       "MT51",
       "MT69",
       "MT71",
+      "MT74",
       "MT79",
       "MT83",
       "MT85",
@@ -2610,6 +2620,7 @@
       "Parte Amarilla",
       "Parte Roja",
       "Poké Montura",
+      "Polvo Brillo",
       "Porcehelado",
       "Precisión X 3",
       "Refleluz",
@@ -2618,6 +2629,7 @@
       "Seta Grande",
       "Supercaña",
       "Swiftfeather",
+      "Tabla Draco",
       "Tabla Helada",
       "Tabla Legendaria",
       "Tabla Linfa",
@@ -2694,7 +2706,7 @@
       {
         "id": "TERRAINEXTENDER",
         "name": "Cubresuelos",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -2766,6 +2778,24 @@
       {
         "id": "REDSHARD",
         "name": "Parte Roja",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BRIGHTPOWDER",
+        "name": "Polvo Brillo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "WHIPPEDDREAM",
+        "name": "Dulce de Nata",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "EVIOLITE",
+        "name": "Mineral Evol",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -2908,6 +2938,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM74",
+        "name": "MT74",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM79",
         "name": "MT79",
         "qty": 1,
@@ -3042,7 +3078,7 @@
       {
         "id": "XSPDEF6",
         "name": "Def. Esp. X 6",
-        "qty": 1,
+        "qty": 3,
         "pocket": "Objetos de combate"
       },
       {
@@ -3090,6 +3126,12 @@
       {
         "id": "OVALCHARM",
         "name": "Amuleto Oval",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "BICYCLE",
+        "name": "Bici",
         "qty": 1,
         "pocket": "Objetos clave"
       }
