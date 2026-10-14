@@ -2,145 +2,14 @@
   "id": "Izan",
   "name": "Mariconchi",
   "lives": 30,
-  "livesUsed": 3,
+  "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 3h 56m jugadas · 10,780₽ · vidas en el juego: 26",
+  "notes": "Importado del save · 4h 7m jugadas · 15,840₽ · vidas en el juego: 25",
   "team": [
-    {
-      "nickname": "GoticaCulona",
-      "species": "Gothita",
-      "level": 18,
-      "types": [
-        "Psíquico"
-      ],
-      "ability": "Corrosión",
-      "nature": "Grosera",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Ronquido",
-        "Chispa",
-        "Ataque Óseo",
-        "Shuriken de Agua"
-      ],
-      "iv": [
-        31,
-        16,
-        13,
-        6,
-        30,
-        11
-      ],
-      "ev": [
-        16,
-        6,
-        9,
-        4,
-        12,
-        11
-      ],
-      "abilPool": [
-        "Corrosión",
-        "Escudo Magma"
-      ],
-      "abilHidden": [
-        "Piel Seca"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Ronquido"
-        },
-        {
-          "lvl": 1,
-          "m": "Tragar"
-        },
-        {
-          "lvl": 4,
-          "m": "Ataque Óseo"
-        },
-        {
-          "lvl": 8,
-          "m": "Chispa"
-        },
-        {
-          "lvl": 12,
-          "m": "Paliza"
-        },
-        {
-          "lvl": 14,
-          "m": "Shuriken de Agua"
-        },
-        {
-          "lvl": 16,
-          "m": "Extracto Picante"
-        },
-        {
-          "lvl": 19,
-          "m": "Gravedad"
-        },
-        {
-          "lvl": 20,
-          "m": "Otra Vez"
-        },
-        {
-          "lvl": 24,
-          "m": "Homenaje Póstumo"
-        },
-        {
-          "lvl": 24,
-          "m": "Psicocambio"
-        },
-        {
-          "lvl": 28,
-          "m": "Hueso Palo"
-        },
-        {
-          "lvl": 33,
-          "m": "Psicoataque"
-        },
-        {
-          "lvl": 33,
-          "m": "Proliferación"
-        },
-        {
-          "lvl": 36,
-          "m": "Anclaje"
-        },
-        {
-          "lvl": 40,
-          "m": "Campo Psíquico"
-        },
-        {
-          "lvl": 40,
-          "m": "Concha Filo"
-        },
-        {
-          "lvl": 44,
-          "m": "Furia Candente"
-        },
-        {
-          "lvl": 48,
-          "m": "Joltioparálisis"
-        }
-      ],
-      "tmMoves": [
-        "Calamidad",
-        "Colmillo Ígneo",
-        "Danza Lunar",
-        "Onda Voltio"
-      ],
-      "firstMoves": [
-        "Ronquido",
-        "Tragar",
-        "Ataque Óseo"
-      ],
-      "spriteKey": "GOTHITA"
-    },
     {
       "nickname": "Princesita",
       "species": "Brionne",
-      "level": 18,
+      "level": 19,
       "types": [
         "Agua"
       ],
@@ -163,12 +32,12 @@
         6
       ],
       "ev": [
-        15,
-        6,
-        9,
-        3,
+        18,
+        7,
         12,
-        11
+        5,
+        12,
+        12
       ],
       "abilPool": [
         "Psicogénesis"
@@ -266,7 +135,7 @@
     {
       "nickname": "Nemo",
       "species": "Goldeen",
-      "level": 17,
+      "level": 18,
       "types": [
         "Agua"
       ],
@@ -289,12 +158,12 @@
         3
       ],
       "ev": [
+        11,
+        4,
         8,
-        3,
-        5,
-        2,
+        4,
         8,
-        6
+        7
       ],
       "abilPool": [
         "Cola Surf",
@@ -382,7 +251,7 @@
     {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 17,
+      "level": 18,
       "types": [
         "Acero",
         "Fantasma"
@@ -406,12 +275,12 @@
         28
       ],
       "ev": [
-        16,
-        6,
+        19,
         7,
-        3,
         10,
-        10
+        5,
+        10,
+        11
       ],
       "abilPool": [
         "Insomnio"
@@ -495,7 +364,7 @@
     {
       "nickname": "Mariquita",
       "species": "Makuhita",
-      "level": 17,
+      "level": 19,
       "types": [
         "Lucha"
       ],
@@ -506,7 +375,7 @@
       "moves": [
         "Alud",
         "Brinco",
-        "Cambiapoder",
+        "Pantalla de Humo",
         "Onda Vacío"
       ],
       "iv": [
@@ -518,12 +387,12 @@
         20
       ],
       "ev": [
-        2,
-        2,
-        2,
-        1,
+        5,
+        3,
+        5,
+        3,
         6,
-        2
+        3
       ],
       "abilPool": [
         "Megadisparador",
@@ -630,7 +499,7 @@
     {
       "nickname": "Tadbulb",
       "species": "Tadbulb",
-      "level": 17,
+      "level": 18,
       "types": [
         "Eléctrico"
       ],
@@ -654,12 +523,12 @@
         7
       ],
       "ev": [
-        0,
-        0,
+        3,
+        1,
+        5,
         2,
-        0,
         4,
-        2
+        3
       ],
       "abilPool": [
         "Perro Guardián",
@@ -1418,20 +1287,143 @@
       "cause": "",
       "route": "Pueblo Paleta",
       "date": ""
+    },
+    {
+      "nickname": "GoticaCulona",
+      "species": "Gothita",
+      "level": 19,
+      "types": [
+        "Psíquico"
+      ],
+      "ability": "Corrosión",
+      "nature": "Grosera",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Ronquido",
+        "Chispa",
+        "Ataque Óseo",
+        "Shuriken de Agua"
+      ],
+      "iv": [
+        31,
+        16,
+        13,
+        6,
+        30,
+        11
+      ],
+      "ev": [
+        17,
+        7,
+        11,
+        6,
+        12,
+        11
+      ],
+      "abilPool": [
+        "Corrosión",
+        "Escudo Magma"
+      ],
+      "abilHidden": [
+        "Piel Seca"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Ronquido"
+        },
+        {
+          "lvl": 1,
+          "m": "Tragar"
+        },
+        {
+          "lvl": 4,
+          "m": "Ataque Óseo"
+        },
+        {
+          "lvl": 8,
+          "m": "Chispa"
+        },
+        {
+          "lvl": 12,
+          "m": "Paliza"
+        },
+        {
+          "lvl": 14,
+          "m": "Shuriken de Agua"
+        },
+        {
+          "lvl": 16,
+          "m": "Extracto Picante"
+        },
+        {
+          "lvl": 19,
+          "m": "Gravedad"
+        },
+        {
+          "lvl": 20,
+          "m": "Otra Vez"
+        },
+        {
+          "lvl": 24,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 24,
+          "m": "Psicocambio"
+        },
+        {
+          "lvl": 28,
+          "m": "Hueso Palo"
+        },
+        {
+          "lvl": 33,
+          "m": "Psicoataque"
+        },
+        {
+          "lvl": 33,
+          "m": "Proliferación"
+        },
+        {
+          "lvl": 36,
+          "m": "Anclaje"
+        },
+        {
+          "lvl": 40,
+          "m": "Campo Psíquico"
+        },
+        {
+          "lvl": 40,
+          "m": "Concha Filo"
+        },
+        {
+          "lvl": 44,
+          "m": "Furia Candente"
+        },
+        {
+          "lvl": 48,
+          "m": "Joltioparálisis"
+        }
+      ],
+      "tmMoves": [
+        "Calamidad",
+        "Colmillo Ígneo",
+        "Danza Lunar",
+        "Onda Voltio"
+      ],
+      "firstMoves": [
+        "Ronquido",
+        "Tragar",
+        "Ataque Óseo"
+      ],
+      "spriteKey": "GOTHITA",
+      "cause": "",
+      "route": "Ciudad Verde",
+      "date": ""
     }
   ],
   "captures": [
-    {
-      "route": "ciudad_verde",
-      "where": "Ciudad Verde",
-      "species": "Gothita",
-      "nickname": "GoticaCulona",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 5,
-      "mon": "Gothita"
-    },
     {
       "route": "ruta_22",
       "where": "Ruta 22",
@@ -1552,6 +1544,17 @@
       "category": "ciudad",
       "level": 4,
       "mon": "Pidove"
+    },
+    {
+      "route": "ciudad_verde",
+      "where": "Ciudad Verde",
+      "species": "Gothita",
+      "nickname": "GoticaCulona",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 5,
+      "mon": "Gothita"
     }
   ],
   "progress": {
@@ -1561,7 +1564,6 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ciudad_verde": true,
       "ruta_22": true,
       "ciudad_plateada": true,
       "bosque_verde": true,
@@ -1569,6 +1571,7 @@
       "monte_moon": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
+      "ciudad_verde": true,
       "ruta_1": true,
       "ruta_2_norte": true,
       "ruta_3": true
@@ -1599,6 +1602,7 @@
       71,
       72,
       73,
+      75,
       110,
       112,
       113,
@@ -1627,7 +1631,9 @@
       "Cubresuelos",
       "Cuerda Huida",
       "Ensueño Ball",
+      "Fósil Hélix",
       "Galleta Lava",
+      "Garra Rápida",
       "Gema Fantasma",
       "Gema Planta",
       "Gran Lustresfera",
@@ -1746,6 +1752,18 @@
       {
         "id": "IRONBALL",
         "name": "Bola Férrea",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "QUICKCLAW",
+        "name": "Garra Rápida",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "HELIXFOSSIL",
+        "name": "Fósil Hélix",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -1967,7 +1985,8 @@
     "3835983897",
     "3786647394",
     "3097426726",
-    "765933415"
+    "765933415",
+    "1893623822"
   ],
   "revividos": 3
 }
