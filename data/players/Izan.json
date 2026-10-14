@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 9,
   "champion": false,
-  "notes": "Importado del save · 7h 44m jugadas · 87,060₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 7h 51m jugadas · 87,060₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Princesita",
@@ -35,7 +35,7 @@
         33,
         30,
         33,
-        13,
+        14,
         20,
         30
       ],
@@ -171,7 +171,7 @@
         34,
         31,
         32,
-        13,
+        14,
         18,
         31
       ],
@@ -287,7 +287,7 @@
         18,
         25,
         27,
-        10,
+        11,
         12,
         23
       ],
@@ -377,159 +377,9 @@
       "spriteKey": "TADBULB"
     },
     {
-      "nickname": "Bonsai",
-      "species": "Sudowoodo",
-      "level": 28,
-      "types": [
-        "Roca"
-      ],
-      "ability": "Líbero",
-      "nature": "Pícara",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Pirotecnia",
-        "Poder Místico",
-        "Fortaleza",
-        "Salazón"
-      ],
-      "iv": [
-        10,
-        22,
-        3,
-        25,
-        15,
-        24
-      ],
-      "ev": [
-        1,
-        8,
-        3,
-        0,
-        0,
-        3
-      ],
-      "abilPool": [
-        "Líbero",
-        "Garra Dura"
-      ],
-      "abilHidden": [
-        "Polvo Escudo"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Poder Místico"
-        },
-        {
-          "lvl": 1,
-          "m": "Roca Veloz"
-        },
-        {
-          "lvl": 1,
-          "m": "A Defender"
-        },
-        {
-          "lvl": 1,
-          "m": "Garra Metal"
-        },
-        {
-          "lvl": 1,
-          "m": "Bramido Dragón"
-        },
-        {
-          "lvl": 1,
-          "m": "Arraigo"
-        },
-        {
-          "lvl": 1,
-          "m": "Agarre"
-        },
-        {
-          "lvl": 1,
-          "m": "Salazón"
-        },
-        {
-          "lvl": 1,
-          "m": "Gas Venenoso"
-        },
-        {
-          "lvl": 12,
-          "m": "Vendetta"
-        },
-        {
-          "lvl": 16,
-          "m": "Danza Lunar"
-        },
-        {
-          "lvl": 19,
-          "m": "Rodar"
-        },
-        {
-          "lvl": 20,
-          "m": "Truco Fuerza"
-        },
-        {
-          "lvl": 24,
-          "m": "Lanzarrocas"
-        },
-        {
-          "lvl": 28,
-          "m": "Picotazo"
-        },
-        {
-          "lvl": 32,
-          "m": "Furia Taurina"
-        },
-        {
-          "lvl": 36,
-          "m": "Superdiente"
-        },
-        {
-          "lvl": 40,
-          "m": "Escaldar"
-        },
-        {
-          "lvl": 40,
-          "m": "Vasto Impacto"
-        },
-        {
-          "lvl": 44,
-          "m": "Paisaje Nevado"
-        },
-        {
-          "lvl": 48,
-          "m": "Furia Candente"
-        },
-        {
-          "lvl": 50,
-          "m": "Telépata"
-        }
-      ],
-      "tmMoves": [
-        "Bilis",
-        "Brecha Negra",
-        "Gruñido",
-        "Hipnosis",
-        "Kinético",
-        "Onda Voltio",
-        "Remolino",
-        "Restricción",
-        "Rodillo de Púas",
-        "Viento Afín"
-      ],
-      "firstMoves": [
-        "Pirotecnia",
-        "Metrónomo",
-        "Fortaleza",
-        "Salazón"
-      ],
-      "spriteKey": "SUDOWOODO"
-    },
-    {
       "nickname": "Perro Sanche",
       "species": "Granbull",
-      "level": 24,
+      "level": 25,
       "types": [
         "Hada"
       ],
@@ -555,7 +405,7 @@
         0,
         3,
         2,
-        0,
+        1,
         0,
         0
       ],
@@ -657,7 +507,9 @@
         }
       ],
       "tmMoves": [
-        "Cambiaalmas"
+        "Brecha Negra",
+        "Cambiaalmas",
+        "Reciclaje"
       ],
       "firstMoves": [
         "Esquema",
@@ -696,7 +548,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0
       ],
@@ -779,6 +631,129 @@
         "Tormenta Floral"
       ],
       "spriteKey": "GROOKEY"
+    },
+    {
+      "nickname": "ACTIVOTORRE",
+      "species": "Impidimp",
+      "level": 25,
+      "types": [
+        "Siniestro",
+        "Hada"
+      ],
+      "ability": "Puño Férreo",
+      "nature": "Activa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Buena Baza",
+        "Confusión",
+        "Lanzarrocas",
+        "Colmillo Ígneo"
+      ],
+      "iv": [
+        26,
+        10,
+        2,
+        16,
+        15,
+        19
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Puño Férreo",
+        "Piel Helada"
+      ],
+      "abilHidden": [
+        "Olor Persistente"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Buena Baza"
+        },
+        {
+          "lvl": 1,
+          "m": "Detección"
+        },
+        {
+          "lvl": 1,
+          "m": "Bostezo"
+        },
+        {
+          "lvl": 4,
+          "m": "Velo Aurora"
+        },
+        {
+          "lvl": 8,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 12,
+          "m": "Vendetta"
+        },
+        {
+          "lvl": 16,
+          "m": "Confusión"
+        },
+        {
+          "lvl": 20,
+          "m": "Malicioso"
+        },
+        {
+          "lvl": 24,
+          "m": "Agarre"
+        },
+        {
+          "lvl": 28,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 33,
+          "m": "Picotazo"
+        },
+        {
+          "lvl": 36,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 40,
+          "m": "Corpulencia"
+        },
+        {
+          "lvl": 44,
+          "m": "Furia Candente"
+        }
+      ],
+      "tmMoves": [
+        "Beso Dulce",
+        "Bilis",
+        "Brecha Negra",
+        "Calamidad",
+        "Cambiaalmas",
+        "Carámbano",
+        "Cascabel Cura",
+        "Colmillo Ígneo",
+        "Danza Lunar",
+        "Kinético",
+        "Mordisco",
+        "Onda Vacío",
+        "Reciclaje",
+        "Restricción"
+      ],
+      "firstMoves": [
+        "Vendetta",
+        "Confusión",
+        "Malicioso",
+        "Agarre"
+      ],
+      "spriteKey": "IMPIDIMP"
     }
   ],
   "box": [
@@ -1533,6 +1508,156 @@
         "Finta"
       ],
       "spriteKey": "BUTTERFREE"
+    },
+    {
+      "nickname": "Bonsai",
+      "species": "Sudowoodo",
+      "level": 28,
+      "types": [
+        "Roca"
+      ],
+      "ability": "Líbero",
+      "nature": "Pícara",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Pirotecnia",
+        "Poder Místico",
+        "Fortaleza",
+        "Salazón"
+      ],
+      "iv": [
+        10,
+        22,
+        3,
+        25,
+        15,
+        24
+      ],
+      "ev": [
+        1,
+        8,
+        3,
+        1,
+        0,
+        3
+      ],
+      "abilPool": [
+        "Líbero",
+        "Garra Dura"
+      ],
+      "abilHidden": [
+        "Polvo Escudo"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Poder Místico"
+        },
+        {
+          "lvl": 1,
+          "m": "Roca Veloz"
+        },
+        {
+          "lvl": 1,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 1,
+          "m": "Garra Metal"
+        },
+        {
+          "lvl": 1,
+          "m": "Bramido Dragón"
+        },
+        {
+          "lvl": 1,
+          "m": "Arraigo"
+        },
+        {
+          "lvl": 1,
+          "m": "Agarre"
+        },
+        {
+          "lvl": 1,
+          "m": "Salazón"
+        },
+        {
+          "lvl": 1,
+          "m": "Gas Venenoso"
+        },
+        {
+          "lvl": 12,
+          "m": "Vendetta"
+        },
+        {
+          "lvl": 16,
+          "m": "Danza Lunar"
+        },
+        {
+          "lvl": 19,
+          "m": "Rodar"
+        },
+        {
+          "lvl": 20,
+          "m": "Truco Fuerza"
+        },
+        {
+          "lvl": 24,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 28,
+          "m": "Picotazo"
+        },
+        {
+          "lvl": 32,
+          "m": "Furia Taurina"
+        },
+        {
+          "lvl": 36,
+          "m": "Superdiente"
+        },
+        {
+          "lvl": 40,
+          "m": "Escaldar"
+        },
+        {
+          "lvl": 40,
+          "m": "Vasto Impacto"
+        },
+        {
+          "lvl": 44,
+          "m": "Paisaje Nevado"
+        },
+        {
+          "lvl": 48,
+          "m": "Furia Candente"
+        },
+        {
+          "lvl": 50,
+          "m": "Telépata"
+        }
+      ],
+      "tmMoves": [
+        "Bilis",
+        "Brecha Negra",
+        "Gruñido",
+        "Hipnosis",
+        "Kinético",
+        "Onda Voltio",
+        "Remolino",
+        "Restricción",
+        "Rodillo de Púas",
+        "Viento Afín"
+      ],
+      "firstMoves": [
+        "Pirotecnia",
+        "Metrónomo",
+        "Fortaleza",
+        "Salazón"
+      ],
+      "spriteKey": "SUDOWOODO"
     }
   ],
   "graveyard": [
@@ -2705,17 +2830,6 @@
       "mon": "Tadbulb"
     },
     {
-      "route": "ruta_5",
-      "where": "Ruta 5",
-      "species": "Sudowoodo",
-      "nickname": "Bonsai",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 20,
-      "mon": "Sudowoodo"
-    },
-    {
       "route": "ruta_15",
       "where": "Ruta 15",
       "species": "Granbull",
@@ -2736,6 +2850,17 @@
       "category": "salvaje",
       "level": 33,
       "mon": "Grookey"
+    },
+    {
+      "route": "tunel_diglett",
+      "where": "Túnel Diglett",
+      "species": "Impidimp",
+      "nickname": "ACTIVOTORRE",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 25,
+      "mon": "Impidimp"
     },
     {
       "route": "monte_moon_exterior",
@@ -2901,6 +3026,17 @@
       "category": "ciudad",
       "level": 10,
       "mon": "Butterfree"
+    },
+    {
+      "route": "ruta_5",
+      "where": "Ruta 5",
+      "species": "Sudowoodo",
+      "nickname": "Bonsai",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 20,
+      "mon": "Sudowoodo"
     }
   ],
   "progress": {
@@ -2914,9 +3050,9 @@
     "routes": {
       "ruta_22": true,
       "bosque_verde": true,
-      "ruta_5": true,
       "ruta_15": true,
       "ruta_12": true,
+      "tunel_diglett": true,
       "monte_moon_exterior": true,
       "monte_moon": true,
       "ciudad_celeste": true,
@@ -2928,6 +3064,7 @@
       "ciudad_carmin": true,
       "ciudad_plateada": true,
       "ruta_4": true,
+      "ruta_5": true,
       "ruta_1": true,
       "ruta_2_norte": true,
       "ruta_3": true,
@@ -2954,7 +3091,8 @@
       "ruta_6": true,
       "ciudad_carmin": true,
       "ruta_15": true,
-      "ruta_12": true
+      "ruta_12": true,
+      "tunel_diglett": true
     },
     "switches": [
       48,
@@ -3326,7 +3464,7 @@
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 8,
+        "qty": 7,
         "pocket": "Poké Balls"
       },
       {
