@@ -2,481 +2,14 @@
   "id": "Pau",
   "name": "Pau",
   "lives": 30,
-  "livesUsed": 0,
+  "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 0h 56m jugadas · 860₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 1h 1m jugadas · 1,160₽ · vidas en el juego: 29",
   "team": [
-    {
-      "nickname": "Shawn",
-      "species": "Mareep",
-      "level": 9,
-      "types": [
-        "Eléctrico"
-      ],
-      "ability": "Despiste",
-      "nature": "Serena",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Tajo Acuático",
-        "Viento Aciago",
-        "Deslome",
-        "Camelo"
-      ],
-      "iv": [
-        10,
-        4,
-        31,
-        1,
-        11,
-        19
-      ],
-      "ev": [
-        1,
-        2,
-        2,
-        2,
-        1,
-        0
-      ],
-      "abilPool": [
-        "Despiste"
-      ],
-      "abilHidden": [
-        "Descarga"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Viento Aciago"
-        },
-        {
-          "lvl": 1,
-          "m": "Tajo Acuático"
-        },
-        {
-          "lvl": 4,
-          "m": "Deslome"
-        },
-        {
-          "lvl": 8,
-          "m": "Aura Magnética"
-        },
-        {
-          "lvl": 11,
-          "m": "Levitón"
-        },
-        {
-          "lvl": 15,
-          "m": "Bola Voltio"
-        },
-        {
-          "lvl": 18,
-          "m": "Protección"
-        },
-        {
-          "lvl": 20,
-          "m": "A Defender"
-        },
-        {
-          "lvl": 22,
-          "m": "Zona Mágica"
-        },
-        {
-          "lvl": 25,
-          "m": "Disparo Demora"
-        },
-        {
-          "lvl": 29,
-          "m": "Recogearena"
-        },
-        {
-          "lvl": 32,
-          "m": "Danza Aleteo"
-        },
-        {
-          "lvl": 36,
-          "m": "Electrorrayo"
-        },
-        {
-          "lvl": 39,
-          "m": "Pulso de Campo"
-        },
-        {
-          "lvl": 39,
-          "m": "Electropalmas"
-        },
-        {
-          "lvl": 39,
-          "m": "Extracto Picante"
-        },
-        {
-          "lvl": 43,
-          "m": "Orbes Espectro"
-        },
-        {
-          "lvl": 46,
-          "m": "Trampa Rocas"
-        }
-      ],
-      "tmMoves": [
-        "Camelo"
-      ],
-      "firstMoves": [
-        "Viento Aciago",
-        "Tajo Acuático",
-        "Deslome"
-      ],
-      "spriteKey": "MAREEP"
-    },
-    {
-      "nickname": "Partyfiesta",
-      "species": "Hatenna",
-      "level": 7,
-      "types": [
-        "Psíquico"
-      ],
-      "ability": "Metal Liviano",
-      "nature": "Ingenua",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Amnesia",
-        "Poder Pasado",
-        "Estrujón",
-        "Fotosíntesis"
-      ],
-      "iv": [
-        4,
-        9,
-        4,
-        5,
-        16,
-        19
-      ],
-      "ev": [
-        1,
-        2,
-        1,
-        1,
-        1,
-        0
-      ],
-      "abilPool": [
-        "Metal Liviano",
-        "Despiste"
-      ],
-      "abilHidden": [
-        "Unísono"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Fotosíntesis"
-        },
-        {
-          "lvl": 1,
-          "m": "Ojos Llorosos"
-        },
-        {
-          "lvl": 1,
-          "m": "Estrujón"
-        },
-        {
-          "lvl": 5,
-          "m": "Poder Pasado"
-        },
-        {
-          "lvl": 5,
-          "m": "Amnesia"
-        },
-        {
-          "lvl": 10,
-          "m": "Mandato"
-        },
-        {
-          "lvl": 15,
-          "m": "Sellar"
-        },
-        {
-          "lvl": 15,
-          "m": "Ascuas"
-        },
-        {
-          "lvl": 20,
-          "m": "Sonámbulo"
-        },
-        {
-          "lvl": 25,
-          "m": "Espora"
-        },
-        {
-          "lvl": 30,
-          "m": "Canon"
-        },
-        {
-          "lvl": 35,
-          "m": "Reversión"
-        },
-        {
-          "lvl": 40,
-          "m": "Choque Anímico"
-        },
-        {
-          "lvl": 45,
-          "m": "Llama Azul"
-        }
-      ],
-      "firstMoves": [
-        "Fotosíntesis",
-        "Ojos Llorosos",
-        "Estrujón",
-        "Tajo Acuático"
-      ],
-      "spriteKey": "HATENNA"
-    },
-    {
-      "nickname": "Cabalasa",
-      "species": "Pumpkaboo",
-      "level": 7,
-      "types": [
-        "Fantasma",
-        "Planta"
-      ],
-      "ability": "Aura Feérica",
-      "nature": "Afable",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Psicocorte",
-        "Barrera",
-        "Telépata",
-        "Tormenta Arena"
-      ],
-      "iv": [
-        2,
-        25,
-        9,
-        29,
-        24,
-        9
-      ],
-      "ev": [
-        1,
-        2,
-        0,
-        1,
-        1,
-        0
-      ],
-      "abilPool": [
-        "Aura Feérica",
-        "Tablilla Debacle"
-      ],
-      "abilHidden": [
-        "Intrépido"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Barrera"
-        },
-        {
-          "lvl": 4,
-          "m": "Telépata"
-        },
-        {
-          "lvl": 6,
-          "m": "Tormenta Arena"
-        },
-        {
-          "lvl": 8,
-          "m": "Ataque Rápido"
-        },
-        {
-          "lvl": 12,
-          "m": "Homenaje Póstumo"
-        },
-        {
-          "lvl": 16,
-          "m": "Cuerpo Pesado"
-        },
-        {
-          "lvl": 20,
-          "m": "Arraigo"
-        },
-        {
-          "lvl": 24,
-          "m": "Garra Umbría"
-        },
-        {
-          "lvl": 28,
-          "m": "Eco Metálico"
-        },
-        {
-          "lvl": 32,
-          "m": "Llama Fusión"
-        },
-        {
-          "lvl": 36,
-          "m": "Puño Sombra"
-        },
-        {
-          "lvl": 36,
-          "m": "Campo Eléctrico"
-        },
-        {
-          "lvl": 40,
-          "m": "Puño Drenaje"
-        },
-        {
-          "lvl": 44,
-          "m": "Patada Baja"
-        }
-      ],
-      "tmMoves": [
-        "Camelo"
-      ],
-      "firstMoves": [
-        "Barrera",
-        "Telépata",
-        "Psicocorte"
-      ],
-      "spriteKey": "PUMPKABOO_1"
-    },
-    {
-      "nickname": "Bicharraco",
-      "species": "Golett",
-      "level": 7,
-      "types": [
-        "Tierra",
-        "Fantasma"
-      ],
-      "ability": "Piel Seca",
-      "nature": "Firme",
-      "item": "Incienso Marino",
-      "shiny": false,
-      "moves": [
-        "Tenaza",
-        "Colmillo Veneno",
-        "Tinieblas",
-        "Danza Lunar"
-      ],
-      "iv": [
-        25,
-        8,
-        5,
-        20,
-        9,
-        27
-      ],
-      "ev": [
-        1,
-        1,
-        0,
-        1,
-        1,
-        0
-      ],
-      "abilPool": [
-        "Primer Auxilio",
-        "Piel Seca"
-      ],
-      "abilHidden": [
-        "Mandíbula dragón"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Tenaza"
-        },
-        {
-          "lvl": 1,
-          "m": "Colmillo Veneno"
-        },
-        {
-          "lvl": 4,
-          "m": "Tinieblas"
-        },
-        {
-          "lvl": 8,
-          "m": "Homenaje Póstumo"
-        },
-        {
-          "lvl": 9,
-          "m": "Estrujón"
-        },
-        {
-          "lvl": 12,
-          "m": "Ladrón"
-        },
-        {
-          "lvl": 16,
-          "m": "Punzada Rama"
-        },
-        {
-          "lvl": 20,
-          "m": "Ataque Arena"
-        },
-        {
-          "lvl": 24,
-          "m": "Rencor"
-        },
-        {
-          "lvl": 25,
-          "m": "Profecía"
-        },
-        {
-          "lvl": 28,
-          "m": "Poder Reserva"
-        },
-        {
-          "lvl": 32,
-          "m": "Cede Paso"
-        },
-        {
-          "lvl": 36,
-          "m": "Decoración"
-        },
-        {
-          "lvl": 40,
-          "m": "Viento Aciago"
-        },
-        {
-          "lvl": 44,
-          "m": "Frustración"
-        },
-        {
-          "lvl": 48,
-          "m": "Halloween"
-        },
-        {
-          "lvl": 52,
-          "m": "Martillo Dragón"
-        },
-        {
-          "lvl": 55,
-          "m": "Puño Furia"
-        },
-        {
-          "lvl": 56,
-          "m": "Pesadilla"
-        }
-      ],
-      "tmMoves": [
-        "Danza Lunar"
-      ],
-      "firstMoves": [
-        "Tenaza",
-        "Colmillo Veneno",
-        "Tinieblas"
-      ],
-      "spriteKey": "GOLETT"
-    },
     {
       "nickname": "Calamardo",
       "species": "Tentacool",
-      "level": 7,
+      "level": 8,
       "types": [
         "Agua",
         "Veneno"
@@ -488,7 +21,8 @@
       "moves": [
         "Púas Tóxicas",
         "Doble Ataque",
-        "Escupir"
+        "Voltiocambio",
+        "Manos Juntas"
       ],
       "iv": [
         23,
@@ -502,7 +36,7 @@
         1,
         1,
         0,
-        1,
+        4,
         0,
         0
       ],
@@ -602,6 +136,367 @@
       "spriteKey": "TENTACOOL"
     },
     {
+      "nickname": "Cabalasa",
+      "species": "Pumpkaboo",
+      "level": 8,
+      "types": [
+        "Fantasma",
+        "Planta"
+      ],
+      "ability": "Aura Feérica",
+      "nature": "Afable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Psicocorte",
+        "Barrera",
+        "Telépata",
+        "Tormenta Arena"
+      ],
+      "iv": [
+        2,
+        25,
+        9,
+        29,
+        24,
+        9
+      ],
+      "ev": [
+        1,
+        2,
+        0,
+        4,
+        1,
+        0
+      ],
+      "abilPool": [
+        "Aura Feérica",
+        "Tablilla Debacle"
+      ],
+      "abilHidden": [
+        "Intrépido"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Barrera"
+        },
+        {
+          "lvl": 4,
+          "m": "Telépata"
+        },
+        {
+          "lvl": 6,
+          "m": "Tormenta Arena"
+        },
+        {
+          "lvl": 8,
+          "m": "Ataque Rápido"
+        },
+        {
+          "lvl": 12,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 16,
+          "m": "Cuerpo Pesado"
+        },
+        {
+          "lvl": 20,
+          "m": "Arraigo"
+        },
+        {
+          "lvl": 24,
+          "m": "Garra Umbría"
+        },
+        {
+          "lvl": 28,
+          "m": "Eco Metálico"
+        },
+        {
+          "lvl": 32,
+          "m": "Llama Fusión"
+        },
+        {
+          "lvl": 36,
+          "m": "Puño Sombra"
+        },
+        {
+          "lvl": 36,
+          "m": "Campo Eléctrico"
+        },
+        {
+          "lvl": 40,
+          "m": "Puño Drenaje"
+        },
+        {
+          "lvl": 44,
+          "m": "Patada Baja"
+        }
+      ],
+      "tmMoves": [
+        "Camelo"
+      ],
+      "firstMoves": [
+        "Barrera",
+        "Telépata",
+        "Psicocorte"
+      ],
+      "spriteKey": "PUMPKABOO_1"
+    },
+    {
+      "nickname": "Bicharraco",
+      "species": "Golett",
+      "level": 8,
+      "types": [
+        "Tierra",
+        "Fantasma"
+      ],
+      "ability": "Piel Seca",
+      "nature": "Firme",
+      "item": "Incienso Marino",
+      "shiny": false,
+      "moves": [
+        "Tenaza",
+        "Colmillo Veneno",
+        "Tinieblas",
+        "Homenaje Póstumo"
+      ],
+      "iv": [
+        25,
+        8,
+        5,
+        20,
+        9,
+        27
+      ],
+      "ev": [
+        1,
+        1,
+        0,
+        4,
+        1,
+        0
+      ],
+      "abilPool": [
+        "Primer Auxilio",
+        "Piel Seca"
+      ],
+      "abilHidden": [
+        "Mandíbula dragón"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Tenaza"
+        },
+        {
+          "lvl": 1,
+          "m": "Colmillo Veneno"
+        },
+        {
+          "lvl": 4,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 8,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 9,
+          "m": "Estrujón"
+        },
+        {
+          "lvl": 12,
+          "m": "Ladrón"
+        },
+        {
+          "lvl": 16,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 20,
+          "m": "Ataque Arena"
+        },
+        {
+          "lvl": 24,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 25,
+          "m": "Profecía"
+        },
+        {
+          "lvl": 28,
+          "m": "Poder Reserva"
+        },
+        {
+          "lvl": 32,
+          "m": "Cede Paso"
+        },
+        {
+          "lvl": 36,
+          "m": "Decoración"
+        },
+        {
+          "lvl": 40,
+          "m": "Viento Aciago"
+        },
+        {
+          "lvl": 44,
+          "m": "Frustración"
+        },
+        {
+          "lvl": 48,
+          "m": "Halloween"
+        },
+        {
+          "lvl": 52,
+          "m": "Martillo Dragón"
+        },
+        {
+          "lvl": 55,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 56,
+          "m": "Pesadilla"
+        }
+      ],
+      "tmMoves": [
+        "Danza Lunar"
+      ],
+      "firstMoves": [
+        "Tenaza",
+        "Colmillo Veneno",
+        "Tinieblas"
+      ],
+      "spriteKey": "GOLETT"
+    },
+    {
+      "nickname": "Shawn",
+      "species": "Mareep",
+      "level": 9,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Despiste",
+      "nature": "Serena",
+      "item": "Supereviolita",
+      "shiny": false,
+      "moves": [
+        "Tajo Acuático",
+        "Viento Aciago",
+        "Deslome",
+        "Camelo"
+      ],
+      "iv": [
+        10,
+        4,
+        31,
+        1,
+        11,
+        19
+      ],
+      "ev": [
+        1,
+        2,
+        2,
+        5,
+        1,
+        0
+      ],
+      "abilPool": [
+        "Despiste"
+      ],
+      "abilHidden": [
+        "Descarga"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Viento Aciago"
+        },
+        {
+          "lvl": 1,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 4,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 8,
+          "m": "Aura Magnética"
+        },
+        {
+          "lvl": 11,
+          "m": "Levitón"
+        },
+        {
+          "lvl": 15,
+          "m": "Bola Voltio"
+        },
+        {
+          "lvl": 18,
+          "m": "Protección"
+        },
+        {
+          "lvl": 20,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 22,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 25,
+          "m": "Disparo Demora"
+        },
+        {
+          "lvl": 29,
+          "m": "Recogearena"
+        },
+        {
+          "lvl": 32,
+          "m": "Danza Aleteo"
+        },
+        {
+          "lvl": 36,
+          "m": "Electrorrayo"
+        },
+        {
+          "lvl": 39,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 39,
+          "m": "Electropalmas"
+        },
+        {
+          "lvl": 39,
+          "m": "Extracto Picante"
+        },
+        {
+          "lvl": 43,
+          "m": "Orbes Espectro"
+        },
+        {
+          "lvl": 46,
+          "m": "Trampa Rocas"
+        }
+      ],
+      "tmMoves": [
+        "Camelo"
+      ],
+      "firstMoves": [
+        "Viento Aciago",
+        "Tajo Acuático",
+        "Deslome"
+      ],
+      "spriteKey": "MAREEP"
+    },
+    {
       "nickname": "Mariposon",
       "species": "Caterpie",
       "level": 7,
@@ -628,7 +523,7 @@
         0,
         0,
         0,
-        0,
+        3,
         0,
         0
       ],
@@ -660,18 +555,128 @@
     }
   ],
   "box": [],
-  "graveyard": [],
+  "graveyard": [
+    {
+      "nickname": "Partyfiesta",
+      "species": "Hatenna",
+      "level": 7,
+      "types": [
+        "Psíquico"
+      ],
+      "ability": "Metal Liviano",
+      "nature": "Ingenua",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Amnesia",
+        "Poder Pasado",
+        "Estrujón",
+        "Fotosíntesis"
+      ],
+      "iv": [
+        4,
+        9,
+        4,
+        5,
+        16,
+        19
+      ],
+      "ev": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        0
+      ],
+      "abilPool": [
+        "Metal Liviano",
+        "Despiste"
+      ],
+      "abilHidden": [
+        "Unísono"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 1,
+          "m": "Ojos Llorosos"
+        },
+        {
+          "lvl": 1,
+          "m": "Estrujón"
+        },
+        {
+          "lvl": 5,
+          "m": "Poder Pasado"
+        },
+        {
+          "lvl": 5,
+          "m": "Amnesia"
+        },
+        {
+          "lvl": 10,
+          "m": "Mandato"
+        },
+        {
+          "lvl": 15,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 15,
+          "m": "Ascuas"
+        },
+        {
+          "lvl": 20,
+          "m": "Sonámbulo"
+        },
+        {
+          "lvl": 25,
+          "m": "Espora"
+        },
+        {
+          "lvl": 30,
+          "m": "Canon"
+        },
+        {
+          "lvl": 35,
+          "m": "Reversión"
+        },
+        {
+          "lvl": 40,
+          "m": "Choque Anímico"
+        },
+        {
+          "lvl": 45,
+          "m": "Llama Azul"
+        }
+      ],
+      "firstMoves": [
+        "Fotosíntesis",
+        "Ojos Llorosos",
+        "Estrujón",
+        "Tajo Acuático"
+      ],
+      "spriteKey": "HATENNA",
+      "cause": "",
+      "route": "Ruta 1",
+      "date": ""
+    }
+  ],
   "captures": [
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Mareep",
-      "nickname": "Shawn",
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Tentacool",
+      "nickname": "Calamardo",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
+      "category": "salvaje",
       "level": 5,
-      "mon": "Mareep"
+      "mon": "Tentacool"
     },
     {
       "route": "ruta_1",
@@ -679,7 +684,7 @@
       "species": "Hatenna",
       "nickname": "Partyfiesta",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "salvaje",
       "level": 3,
       "mon": "Hatenna"
@@ -707,15 +712,15 @@
       "mon": "Golett"
     },
     {
-      "route": "ruta_2_sur",
-      "where": "Ruta 2 Sur",
-      "species": "Tentacool",
-      "nickname": "Calamardo",
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Mareep",
+      "nickname": "Shawn",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
+      "category": "estatico_regalo",
       "level": 5,
-      "mon": "Tentacool"
+      "mon": "Mareep"
     },
     {
       "route": "bosque_verde",
@@ -734,10 +739,10 @@
     "bosses": {},
     "npcs": {},
     "routes": {
+      "ruta_2_sur": true,
       "ruta_1": true,
       "ciudad_verde": true,
       "ruta_22": true,
-      "ruta_2_sur": true,
       "bosque_verde": true,
       "pueblo_paleta": true
     },
@@ -775,6 +780,7 @@
       "Baya Aricoc",
       "Baya Grana",
       "Botón Escape",
+      "Escama Dragón",
       "Incienso Marino",
       "Lodo Negro",
       "Lustresfera",
@@ -788,6 +794,7 @@
       "Scapsula",
       "Servicio Raro",
       "Supercaña",
+      "Supereviolita",
       "Vial"
     ],
     "bag": [
@@ -812,6 +819,12 @@
       {
         "id": "ROOMSERVICE",
         "name": "Servicio Raro",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "DRAGONSCALE",
+        "name": "Escama Dragón",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -931,6 +944,8 @@
       }
     ]
   },
-  "deathLog": [],
+  "deathLog": [
+    "1873600814"
+  ],
   "revividos": 0
 }
