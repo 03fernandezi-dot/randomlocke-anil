@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 46m jugadas · 7,330₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 54m jugadas · 9,570₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Matao",
       "species": "Swirlix",
-      "level": 17,
+      "level": 18,
       "types": [
         "Hada"
       ],
@@ -33,11 +33,11 @@
       ],
       "ev": [
         3,
-        3,
+        4,
         2,
         0,
-        2,
-        3
+        5,
+        6
       ],
       "abilPool": [
         "Cura Lluvia",
@@ -134,7 +134,7 @@
     {
       "nickname": "Bonifacio",
       "species": "Cherubi",
-      "level": 17,
+      "level": 18,
       "types": [
         "Planta"
       ],
@@ -158,11 +158,11 @@
       ],
       "ev": [
         7,
-        9,
+        10,
         9,
         7,
-        8,
-        10
+        11,
+        13
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -237,7 +237,7 @@
     {
       "nickname": "Pau",
       "species": "Bibarel",
-      "level": 17,
+      "level": 18,
       "types": [
         "Normal",
         "Agua"
@@ -248,7 +248,7 @@
       "shiny": false,
       "moves": [
         "Viento Plata",
-        "Pulso de Campo",
+        "Asalto Barrera",
         "Doble Equipo",
         "Marcha Espectral"
       ],
@@ -262,11 +262,11 @@
       ],
       "ev": [
         6,
-        9,
+        10,
         9,
         7,
-        8,
-        10
+        11,
+        13
       ],
       "abilPool": [
         "Irascible",
@@ -358,7 +358,7 @@
     {
       "nickname": "Calaca",
       "species": "Shelmet",
-      "level": 17,
+      "level": 18,
       "types": [
         "Bicho"
       ],
@@ -382,11 +382,11 @@
       ],
       "ev": [
         6,
-        9,
+        10,
         8,
         7,
-        8,
-        9
+        11,
+        12
       ],
       "abilPool": [
         "Aura Feérica",
@@ -495,11 +495,11 @@
       ],
       "ev": [
         6,
-        5,
+        6,
         4,
         4,
-        7,
-        7
+        10,
+        10
       ],
       "abilPool": [
         "Cola Surf"
@@ -595,7 +595,7 @@
     {
       "nickname": "Izan",
       "species": "Marshtomp",
-      "level": 18,
+      "level": 19,
       "types": [
         "Agua",
         "Tierra"
@@ -620,11 +620,11 @@
       ],
       "ev": [
         8,
-        9,
+        10,
         9,
         8,
-        8,
-        10
+        11,
+        13
       ],
       "abilPool": [
         "Teracaparazón"
@@ -1165,6 +1165,133 @@
         "Afilagarras"
       ],
       "spriteKey": "FLABEBE"
+    },
+    {
+      "nickname": "Roger",
+      "species": "Frillish",
+      "level": 16,
+      "types": [
+        "Agua",
+        "Fantasma"
+      ],
+      "ability": "Llovizna",
+      "nature": "Floja",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Plegaria Vital",
+        "Día de Pago",
+        "Doble Patada",
+        "Disparo Lodo"
+      ],
+      "iv": [
+        22,
+        1,
+        0,
+        23,
+        16,
+        12
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Llovizna",
+        "Espada Debacle"
+      ],
+      "abilHidden": [
+        "Sacapecho"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Danza Amiga"
+        },
+        {
+          "lvl": 1,
+          "m": "Pistola Agua"
+        },
+        {
+          "lvl": 1,
+          "m": "Pesadilla"
+        },
+        {
+          "lvl": 1,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 4,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 8,
+          "m": "Plegaria Vital"
+        },
+        {
+          "lvl": 12,
+          "m": "Día de Pago"
+        },
+        {
+          "lvl": 13,
+          "m": "Doble Patada"
+        },
+        {
+          "lvl": 16,
+          "m": "Disparo Lodo"
+        },
+        {
+          "lvl": 20,
+          "m": "Tajo Umbrío"
+        },
+        {
+          "lvl": 24,
+          "m": "Dulce Aroma"
+        },
+        {
+          "lvl": 27,
+          "m": "Mal de Ojo"
+        },
+        {
+          "lvl": 28,
+          "m": "Relajo"
+        },
+        {
+          "lvl": 32,
+          "m": "Capa Mágica"
+        },
+        {
+          "lvl": 36,
+          "m": "Martillo Dragón"
+        },
+        {
+          "lvl": 41,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 44,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 48,
+          "m": "Acupresión"
+        },
+        {
+          "lvl": 55,
+          "m": "Rugido de Guerra"
+        }
+      ],
+      "firstMoves": [
+        "Plegaria Vital",
+        "Día de Pago",
+        "Doble Patada",
+        "Disparo Lodo"
+      ],
+      "spriteKey": "FRILLISH"
     }
   ],
   "graveyard": [
@@ -1394,6 +1521,17 @@
       "mon": "Flabebe"
     },
     {
+      "route": "monte_moon_exterior",
+      "where": "Monte Moon Exterior",
+      "species": "Frillish",
+      "nickname": "Roger",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 16,
+      "mon": "Frillish"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -1419,10 +1557,10 @@
       "monte_moon": true,
       "ruta_2_norte": true,
       "bosque_verde": true,
+      "monte_moon_exterior": true,
       "ruta_22": true,
       "ciudad_verde": true,
-      "ruta_3": true,
-      "monte_moon_exterior": true
+      "ruta_3": true
     },
     "items": {},
     "encounters": {
@@ -1434,7 +1572,8 @@
       "ruta_2_norte": true,
       "ciudad_plateada": true,
       "ruta_3": true,
-      "monte_moon": true
+      "monte_moon": true,
+      "monte_moon_exterior": true
     },
     "switches": [
       48,
@@ -1476,6 +1615,7 @@
       "Bola Luminosa",
       "Cenizas Sagradas",
       "Cuchara Torcida",
+      "Cuerda Huida",
       "Gema Eléctrica",
       "Gema Fantasma",
       "Hechizo",
@@ -1502,6 +1642,7 @@
       "MT94",
       "MT99",
       "Nerviosfera",
+      "Parte Amarilla",
       "Poción",
       "Poké Montura",
       "Radar",
@@ -1550,7 +1691,7 @@
       {
         "id": "LIGHTBALL",
         "name": "Bola Luminosa",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -1580,6 +1721,12 @@
       {
         "id": "BLUNDERPOLICY",
         "name": "Seguro Fallo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "YELLOWSHARD",
+        "name": "Parte Amarilla",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -1628,7 +1775,7 @@
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 18,
+        "qty": 17,
         "pocket": "Poké Balls"
       },
       {
@@ -1796,6 +1943,12 @@
       {
         "id": "ALBUMFOTOS",
         "name": "Álbum de Fotos",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "ESCAPEROPE",
+        "name": "Cuerda Huida",
         "qty": 1,
         "pocket": "Objetos clave"
       }
