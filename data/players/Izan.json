@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 3h 27m jugadas · 7,160₽ · vidas en el juego: 26",
+  "notes": "Importado del save · 3h 30m jugadas · 7,160₽ · vidas en el juego: 26",
   "team": [
     {
       "nickname": "GoticaCulona",
@@ -626,33 +626,32 @@
         "Cambiapoder"
       ],
       "spriteKey": "MAKUHITA"
-    }
-  ],
-  "box": [
+    },
     {
-      "nickname": "Whopper",
-      "species": "Wynaut",
+      "nickname": "Tadbulb",
+      "species": "Tadbulb",
       "level": 13,
       "types": [
-        "Psíquico"
+        "Eléctrico"
       ],
-      "ability": "Energía Eólica",
-      "nature": "Osada",
+      "ability": "Perro Guardián",
+      "nature": "Ingenua",
       "item": "",
       "shiny": false,
       "moves": [
-        "Trampa Rocas",
-        "Auxilio",
-        "Campo de Hierba",
-        "Picadura"
+        "Cascabel Cura",
+        "Golpe Aéreo",
+        "Alto Voltaje",
+        "Respiro"
       ],
+      "origin": "don_prodigio",
       "iv": [
-        13,
-        29,
-        1,
+        11,
+        4,
+        9,
         6,
-        19,
-        24
+        25,
+        7
       ],
       "ev": [
         0,
@@ -663,56 +662,80 @@
         0
       ],
       "abilPool": [
-        "Energía Eólica"
+        "Perro Guardián",
+        "Coraza Ira"
       ],
       "abilHidden": [
-        "Cacheo"
+        "Poder Sabio"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Conversión"
+          "m": "Cascabel Cura"
         },
         {
           "lvl": 1,
-          "m": "Semilladora"
+          "m": "Golpe Aéreo"
         },
         {
-          "lvl": 1,
-          "m": "Conversión2"
+          "lvl": 7,
+          "m": "Alto Voltaje"
         },
         {
-          "lvl": 1,
-          "m": "Golpe Roca"
+          "lvl": 11,
+          "m": "Respiro"
         },
         {
-          "lvl": 1,
-          "m": "Trampa Rocas"
+          "lvl": 17,
+          "m": "Levitón"
         },
         {
-          "lvl": 1,
-          "m": "Auxilio"
+          "lvl": 21,
+          "m": "Perforador"
         },
         {
-          "lvl": 1,
-          "m": "Campo de Hierba"
+          "lvl": 24,
+          "m": "Llanto Falso"
         },
         {
-          "lvl": 1,
-          "m": "Picadura"
+          "lvl": 25,
+          "m": "Octopresa"
+        },
+        {
+          "lvl": 32,
+          "m": "Onda Voltio"
+        },
+        {
+          "lvl": 36,
+          "m": "Electrocañón"
+        },
+        {
+          "lvl": 40,
+          "m": "Puño Trueno"
+        },
+        {
+          "lvl": 45,
+          "m": "Ascuas"
+        },
+        {
+          "lvl": 50,
+          "m": "Telépata"
         }
       ],
       "tmMoves": [
-        "Danza Lunar"
+        "Bilis",
+        "Cascabel Cura"
       ],
       "firstMoves": [
-        "Trampa Rocas",
-        "Auxilio",
-        "Campo de Hierba",
-        "Picadura"
+        "Cascabel Cura",
+        "Golpe Aéreo",
+        "Alto Voltaje",
+        "Respiro"
       ],
-      "spriteKey": "WYNAUT"
-    },
+      "spriteKey": "TADBULB"
+    }
+  ],
+  "box": [
     {
       "nickname": "MECAGOENTODO",
       "species": "Metapod",
@@ -905,130 +928,6 @@
     }
   ],
   "graveyard": [
-    {
-      "nickname": "Espía",
-      "species": "Pidove",
-      "level": 17,
-      "types": [
-        "Normal",
-        "Volador"
-      ],
-      "ability": "Metal Liviano",
-      "nature": "Modesta",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Cuchillada",
-        "Nitrocarga",
-        "Aguzar",
-        "Beso Dulce"
-      ],
-      "iv": [
-        6,
-        11,
-        2,
-        21,
-        2,
-        21
-      ],
-      "ev": [
-        16,
-        5,
-        7,
-        3,
-        9,
-        9
-      ],
-      "abilPool": [
-        "Metal Liviano"
-      ],
-      "abilHidden": [
-        "Piel Seca"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Cuchillada"
-        },
-        {
-          "lvl": 1,
-          "m": "Refuerzo"
-        },
-        {
-          "lvl": 4,
-          "m": "Pulso de Campo"
-        },
-        {
-          "lvl": 8,
-          "m": "Nitrocarga"
-        },
-        {
-          "lvl": 12,
-          "m": "Avivar"
-        },
-        {
-          "lvl": 13,
-          "m": "Rayo Carga"
-        },
-        {
-          "lvl": 16,
-          "m": "Aguzar"
-        },
-        {
-          "lvl": 20,
-          "m": "Gravedad"
-        },
-        {
-          "lvl": 24,
-          "m": "Ultrapuño"
-        },
-        {
-          "lvl": 28,
-          "m": "Persecución"
-        },
-        {
-          "lvl": 32,
-          "m": "Paga Extra"
-        },
-        {
-          "lvl": 32,
-          "m": "Salazón"
-        },
-        {
-          "lvl": 36,
-          "m": "Golpe Cuerpo"
-        },
-        {
-          "lvl": 40,
-          "m": "Bomba Fango"
-        },
-        {
-          "lvl": 43,
-          "m": "Amplificador"
-        },
-        {
-          "lvl": 44,
-          "m": "Adaptación"
-        }
-      ],
-      "tmMoves": [
-        "Beso Dulce",
-        "Colmillo Ígneo",
-        "Danza Lunar",
-        "Onda Vacío",
-        "Restricción",
-        "Robo"
-      ],
-      "firstMoves": [
-        "Cuchillada",
-        "Refuerzo",
-        "Pulso de Campo"
-      ],
-      "spriteKey": "PIDOVE",
-      "cause": "",
-      "route": "Pueblo Paleta",
-      "date": ""
-    },
     {
       "nickname": "Bombardero",
       "species": "Sandile",
@@ -1281,20 +1180,133 @@
       "cause": "",
       "route": "Ruta 2 Sur",
       "date": ""
+    },
+    {
+      "nickname": "Espía",
+      "species": "Pidove",
+      "level": 17,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Metal Liviano",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cuchillada",
+        "Nitrocarga",
+        "Aguzar",
+        "Beso Dulce"
+      ],
+      "iv": [
+        6,
+        11,
+        2,
+        21,
+        2,
+        21
+      ],
+      "ev": [
+        16,
+        5,
+        7,
+        3,
+        9,
+        9
+      ],
+      "abilPool": [
+        "Metal Liviano"
+      ],
+      "abilHidden": [
+        "Piel Seca"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cuchillada"
+        },
+        {
+          "lvl": 1,
+          "m": "Refuerzo"
+        },
+        {
+          "lvl": 4,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 8,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 12,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 13,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 16,
+          "m": "Aguzar"
+        },
+        {
+          "lvl": 20,
+          "m": "Gravedad"
+        },
+        {
+          "lvl": 24,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 28,
+          "m": "Persecución"
+        },
+        {
+          "lvl": 32,
+          "m": "Paga Extra"
+        },
+        {
+          "lvl": 32,
+          "m": "Salazón"
+        },
+        {
+          "lvl": 36,
+          "m": "Golpe Cuerpo"
+        },
+        {
+          "lvl": 40,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 43,
+          "m": "Amplificador"
+        },
+        {
+          "lvl": 44,
+          "m": "Adaptación"
+        }
+      ],
+      "tmMoves": [
+        "Beso Dulce",
+        "Colmillo Ígneo",
+        "Danza Lunar",
+        "Onda Vacío",
+        "Restricción",
+        "Robo"
+      ],
+      "firstMoves": [
+        "Cuchillada",
+        "Refuerzo",
+        "Pulso de Campo"
+      ],
+      "spriteKey": "PIDOVE",
+      "cause": "",
+      "route": "Pueblo Paleta",
+      "date": ""
     }
   ],
   "captures": [
-    {
-      "route": "pueblo_paleta",
-      "where": "Pueblo Paleta",
-      "species": "Pidove",
-      "nickname": "Espía",
-      "shiny": false,
-      "status": "dead",
-      "category": "ciudad",
-      "level": 4,
-      "mon": "Pidove"
-    },
     {
       "route": "ciudad_verde",
       "where": "Ciudad Verde",
@@ -1351,15 +1363,15 @@
       "mon": "Makuhita"
     },
     {
-      "route": "ruta_3",
-      "where": "Ruta 3",
-      "species": "Wynaut",
-      "nickname": "Whopper",
+      "route": "",
+      "where": "Monte Moon",
+      "species": "Tadbulb",
+      "nickname": "",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
+      "category": "intercambio",
       "level": 13,
-      "mon": "Wynaut"
+      "mon": "Tadbulb"
     },
     {
       "route": "ciudad_plateada",
@@ -1404,6 +1416,17 @@
       "category": "salvaje",
       "level": 6,
       "mon": "Rattata"
+    },
+    {
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Pidove",
+      "nickname": "Espía",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 4,
+      "mon": "Pidove"
     }
   ],
   "progress": {
@@ -1413,16 +1436,16 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "pueblo_paleta": true,
       "ciudad_verde": true,
       "ruta_22": true,
       "ciudad_plateada": true,
       "bosque_verde": true,
-      "ruta_3": true,
       "monte_moon": true,
       "ruta_2_sur": true,
+      "pueblo_paleta": true,
       "ruta_1": true,
-      "ruta_2_norte": true
+      "ruta_2_norte": true,
+      "ruta_3": true
     },
     "items": {},
     "encounters": {
@@ -1486,6 +1509,7 @@
       "MT104",
       "MT111",
       "MT114",
+      "MT120",
       "MT23",
       "MT27",
       "MT34",
@@ -1715,6 +1739,12 @@
       {
         "id": "TM114",
         "name": "MT114",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM120",
+        "name": "MT120",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
