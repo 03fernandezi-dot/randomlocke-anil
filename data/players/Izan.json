@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 4h 58m jugadas · 26,570₽ · vidas en el juego: 25",
+  "notes": "Importado del save · 5h 15m jugadas · 31,650₽ · vidas en el juego: 25",
   "team": [
     {
       "nickname": "Marilus",
       "species": "Azurill",
-      "level": 19,
+      "level": 21,
       "types": [
         "Normal",
         "Hada"
@@ -21,7 +21,7 @@
       "moves": [
         "Beso Drenaje",
         "Red Viscosa",
-        "Yo Primero",
+        "Limpieza General",
         "Rugido"
       ],
       "iv": [
@@ -33,12 +33,12 @@
         15
       ],
       "ev": [
-        2,
-        3,
+        4,
+        6,
         8,
         2,
-        1,
-        3
+        3,
+        5
       ],
       "abilPool": [
         "Raíz robusta",
@@ -90,7 +90,12 @@
         }
       ],
       "tmMoves": [
-        "Danza Lunar"
+        "Beso Dulce",
+        "Cambiaalmas",
+        "Danza Lunar",
+        "Divide Dolor",
+        "Gruñido",
+        "Limpieza General"
       ],
       "firstMoves": [
         "Constricción",
@@ -126,12 +131,12 @@
         3
       ],
       "ev": [
-        13,
-        7,
+        15,
+        10,
         16,
         6,
-        9,
-        10
+        11,
+        12
       ],
       "abilPool": [
         "Cola Surf",
@@ -202,6 +207,7 @@
         "Calamidad",
         "Colmillo Ígneo",
         "Danza Lunar",
+        "Divide Dolor",
         "Mordisco",
         "Onda Vacío",
         "Onda Voltio",
@@ -243,12 +249,12 @@
         28
       ],
       "ev": [
-        21,
-        10,
+        23,
+        13,
         18,
         7,
-        11,
-        14
+        13,
+        16
       ],
       "abilPool": [
         "Insomnio"
@@ -317,6 +323,7 @@
         }
       ],
       "tmMoves": [
+        "Divide Dolor",
         "Onda Vacío",
         "Restricción",
         "Robo"
@@ -332,7 +339,7 @@
     {
       "nickname": "Tadbulb",
       "species": "Tadbulb",
-      "level": 21,
+      "level": 22,
       "types": [
         "Eléctrico"
       ],
@@ -356,12 +363,12 @@
         7
       ],
       "ev": [
-        5,
-        4,
+        7,
+        7,
         13,
         4,
-        5,
-        6
+        7,
+        8
       ],
       "abilPool": [
         "Perro Guardián",
@@ -425,9 +432,15 @@
         }
       ],
       "tmMoves": [
+        "Beso Dulce",
         "Bilis",
+        "Calamidad",
+        "Cambiaalmas",
         "Cascabel Cura",
-        "Onda Vacío"
+        "Divide Dolor",
+        "Limpieza General",
+        "Onda Vacío",
+        "Onda Voltio"
       ],
       "firstMoves": [
         "Cascabel Cura",
@@ -440,7 +453,7 @@
     {
       "nickname": "Princesita",
       "species": "Brionne",
-      "level": 21,
+      "level": 22,
       "types": [
         "Agua"
       ],
@@ -463,12 +476,12 @@
         6
       ],
       "ev": [
-        20,
-        10,
+        22,
+        13,
         20,
         7,
-        13,
-        15
+        15,
+        17
       ],
       "abilPool": [
         "Psicogénesis"
@@ -552,7 +565,11 @@
       ],
       "tmMoves": [
         "Beso Dulce",
+        "Bilis",
         "Brecha Negra",
+        "Cambiaalmas",
+        "Divide Dolor",
+        "Gruñido",
         "Reciclaje",
         "Restricción"
       ],
@@ -565,12 +582,12 @@
     },
     {
       "nickname": "Chess.com",
-      "species": "Chespin",
-      "level": 18,
+      "species": "Quilladin",
+      "level": 20,
       "types": [
         "Planta"
       ],
-      "ability": "Irascible",
+      "ability": "Alma Errante",
       "nature": "Floja",
       "item": "",
       "shiny": false,
@@ -578,7 +595,7 @@
         "Barrera Espinosa",
         "Canto",
         "Bomba Caramelo",
-        "Sustituto"
+        "Masa Cósmica"
       ],
       "natureMint": true,
       "natureBase": "Ingenua",
@@ -591,88 +608,84 @@
         27
       ],
       "ev": [
+        2,
+        3,
         0,
         0,
-        0,
-        0,
-        0,
-        0
+        2,
+        2
       ],
       "abilPool": [
-        "Irascible"
+        "Alma Errante"
       ],
       "abilHidden": [
-        "Telepatía"
+        "Unidad Ecuestre"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Polvo Veneno"
+          "lvl": 0,
+          "m": "Masa Cósmica"
         },
         {
           "lvl": 1,
-          "m": "Condena Silvana"
+          "m": "Cuerno Certero"
         },
         {
-          "lvl": 5,
-          "m": "Absorbefuerza"
+          "lvl": 1,
+          "m": "Magnitud"
+        },
+        {
+          "lvl": 1,
+          "m": "Pikaturbo"
         },
         {
           "lvl": 8,
-          "m": "Barrera Espinosa"
+          "m": "Zona Mágica"
         },
         {
           "lvl": 11,
-          "m": "Canto"
+          "m": "Lengüetazo"
         },
         {
           "lvl": 15,
-          "m": "Bomba Caramelo"
+          "m": "Espora"
         },
         {
-          "lvl": 18,
-          "m": "Sustituto"
+          "lvl": 19,
+          "m": "Sísmico"
         },
         {
-          "lvl": 27,
-          "m": "Roca Veloz"
+          "lvl": 20,
+          "m": "Pesadilla"
         },
         {
-          "lvl": 32,
-          "m": "Reversión"
+          "lvl": 24,
+          "m": "Aire Afilado"
         },
         {
-          "lvl": 35,
-          "m": "Aguante"
+          "lvl": 29,
+          "m": "Megaagotar"
         },
         {
-          "lvl": 39,
-          "m": "Picotazo Veneno"
+          "lvl": 34,
+          "m": "Reciclaje"
         },
         {
-          "lvl": 42,
-          "m": "Fuerza Equina"
+          "lvl": 38,
+          "m": "Puños Plasma"
         },
         {
-          "lvl": 45,
-          "m": "Rayo Burbuja"
+          "lvl": 43,
+          "m": "Onda Ígnea"
         },
         {
-          "lvl": 48,
-          "m": "Buena Baza"
+          "lvl": 47,
+          "m": "Demolición"
+        },
+        {
+          "lvl": 53,
+          "m": "Hipnosis"
         }
-      ],
-      "tmMoves": [
-        "Bilis",
-        "Brecha Negra",
-        "Calamidad",
-        "Cambiaalmas",
-        "Cascabel Cura",
-        "Danza Lunar",
-        "Mordisco",
-        "Restricción",
-        "Robo",
-        "Viento Afín"
       ],
       "firstMoves": [
         "Barrera Espinosa",
@@ -680,7 +693,7 @@
         "Bomba Caramelo",
         "Sustituto"
       ],
-      "spriteKey": "CHESPIN"
+      "spriteKey": "QUILLADIN"
     }
   ],
   "box": [
@@ -1356,6 +1369,111 @@
         "Cambiapoder"
       ],
       "spriteKey": "MAKUHITA"
+    },
+    {
+      "nickname": "PasoDeZebra",
+      "species": "Blitzle",
+      "level": 20,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Antibarrera",
+      "nature": "Rara",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Púas Tóxicas",
+        "Hierba Lazo",
+        "Cepo",
+        "Voltiocambio"
+      ],
+      "iv": [
+        22,
+        9,
+        2,
+        5,
+        1,
+        31
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Antibarrera",
+        "Primer Auxilio"
+      ],
+      "abilHidden": [
+        "Pereza"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Reserva"
+        },
+        {
+          "lvl": 4,
+          "m": "Doble Golpe"
+        },
+        {
+          "lvl": 8,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 11,
+          "m": "Hierba Lazo"
+        },
+        {
+          "lvl": 15,
+          "m": "Cepo"
+        },
+        {
+          "lvl": 18,
+          "m": "Voltiocambio"
+        },
+        {
+          "lvl": 22,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 22,
+          "m": "Granizo"
+        },
+        {
+          "lvl": 25,
+          "m": "Picotazo"
+        },
+        {
+          "lvl": 29,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 33,
+          "m": "Ariete"
+        },
+        {
+          "lvl": 35,
+          "m": "Zumbido"
+        },
+        {
+          "lvl": 40,
+          "m": "Restricción"
+        }
+      ],
+      "tmMoves": [
+        "Cambiaalmas"
+      ],
+      "firstMoves": [
+        "Púas Tóxicas",
+        "Hierba Lazo",
+        "Cepo",
+        "Voltiocambio"
+      ],
+      "spriteKey": "BLITZLE"
     }
   ],
   "graveyard": [
@@ -1930,13 +2048,13 @@
     {
       "route": "ruta_20",
       "where": "Ruta 20",
-      "species": "Chespin",
+      "species": "Quilladin",
       "nickname": "Chess.com",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 18,
-      "mon": "Chespin"
+      "mon": "Quilladin"
     },
     {
       "route": "monte_moon_exterior",
@@ -2005,6 +2123,17 @@
       "mon": "Makuhita"
     },
     {
+      "route": "ruta_21",
+      "where": "Ruta 21",
+      "species": "Blitzle",
+      "nickname": "PasoDeZebra",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 20,
+      "mon": "Blitzle"
+    },
+    {
       "route": "",
       "where": "Laboratorio",
       "species": "Sandile",
@@ -2064,6 +2193,7 @@
       "monte_moon": true,
       "ruta_4": true,
       "ciudad_celeste": true,
+      "ruta_21": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
       "ciudad_verde": true,
@@ -2086,7 +2216,8 @@
       "monte_moon_exterior": true,
       "ruta_4": true,
       "ciudad_celeste": true,
-      "ruta_20": true
+      "ruta_20": true,
+      "ruta_21": true
     },
     "switches": [
       48,
@@ -2104,6 +2235,9 @@
       75,
       76,
       80,
+      81,
+      82,
+      83,
       110,
       112,
       113,
@@ -2143,6 +2277,7 @@
       "Gema Fantasma",
       "Gema Planta",
       "Gran Lustresfera",
+      "Griseosfera",
       "Hierba Única",
       "Mejora",
       "Menta Floja",
@@ -2165,8 +2300,11 @@
       "MT47",
       "MT71",
       "MT83",
+      "MT85",
+      "MT86",
       "MT89",
       "MT94",
+      "Parte Amarilla",
       "Poké Montura",
       "Porcehelado",
       "Precisión X 3",
@@ -2179,6 +2317,7 @@
       "Tabla Helada",
       "Tabla Legendaria",
       "Tabla Linfa",
+      "Ticket Barco",
       "Vial"
     ],
     "bag": [
@@ -2297,6 +2436,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "GRISEOUSORB",
+        "name": "Griseosfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "YELLOWSHARD",
+        "name": "Parte Amarilla",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "TIMIDMINT",
         "name": "Menta Miedosa",
         "qty": 1,
@@ -2329,7 +2480,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 4,
+        "qty": 3,
         "pocket": "Poké Balls"
       },
       {
@@ -2407,6 +2558,18 @@
       {
         "id": "TM83",
         "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM85",
+        "name": "MT85",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM86",
+        "name": "MT86",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -2501,8 +2664,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
@@ -2527,6 +2690,12 @@
       {
         "id": "ESCAPEROPE",
         "name": "Cuerda Huida",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "TICKETBARCO",
+        "name": "Ticket Barco",
         "qty": 1,
         "pocket": "Objetos clave"
       }
