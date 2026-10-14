@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 3h 30m jugadas · 7,160₽ · vidas en el juego: 26",
+  "notes": "Importado del save · 3h 56m jugadas · 10,780₽ · vidas en el juego: 26",
   "team": [
     {
       "nickname": "GoticaCulona",
       "species": "Gothita",
-      "level": 17,
+      "level": 18,
       "types": [
         "Psíquico"
       ],
@@ -34,10 +34,10 @@
       "ev": [
         16,
         6,
-        7,
+        9,
         4,
-        8,
-        9
+        12,
+        11
       ],
       "abilPool": [
         "Corrosión",
@@ -140,7 +140,7 @@
     {
       "nickname": "Princesita",
       "species": "Brionne",
-      "level": 17,
+      "level": 18,
       "types": [
         "Agua"
       ],
@@ -165,10 +165,10 @@
       "ev": [
         15,
         6,
-        7,
+        9,
         3,
-        8,
-        9
+        12,
+        11
       ],
       "abilPool": [
         "Psicogénesis"
@@ -266,7 +266,7 @@
     {
       "nickname": "Nemo",
       "species": "Goldeen",
-      "level": 16,
+      "level": 17,
       "types": [
         "Agua"
       ],
@@ -291,10 +291,10 @@
       "ev": [
         8,
         3,
-        3,
+        5,
         2,
-        4,
-        4
+        8,
+        6
       ],
       "abilPool": [
         "Cola Surf",
@@ -382,7 +382,7 @@
     {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 16,
+      "level": 17,
       "types": [
         "Acero",
         "Fantasma"
@@ -408,10 +408,10 @@
       "ev": [
         16,
         6,
-        5,
+        7,
         3,
-        6,
-        8
+        10,
+        10
       ],
       "abilPool": [
         "Insomnio"
@@ -495,7 +495,7 @@
     {
       "nickname": "Mariquita",
       "species": "Makuhita",
-      "level": 15,
+      "level": 17,
       "types": [
         "Lucha"
       ],
@@ -520,10 +520,10 @@
       "ev": [
         2,
         2,
-        0,
-        1,
         2,
-        0
+        1,
+        6,
+        2
       ],
       "abilPool": [
         "Megadisparador",
@@ -630,7 +630,7 @@
     {
       "nickname": "Tadbulb",
       "species": "Tadbulb",
-      "level": 13,
+      "level": 17,
       "types": [
         "Eléctrico"
       ],
@@ -639,7 +639,7 @@
       "item": "",
       "shiny": false,
       "moves": [
-        "Cascabel Cura",
+        "Levitón",
         "Golpe Aéreo",
         "Alto Voltaje",
         "Respiro"
@@ -656,10 +656,10 @@
       "ev": [
         0,
         0,
+        2,
         0,
-        0,
-        0,
-        0
+        4,
+        2
       ],
       "abilPool": [
         "Perro Guardián",
@@ -736,6 +736,120 @@
     }
   ],
   "box": [
+    {
+      "nickname": "Fungicida",
+      "species": "Morelull",
+      "level": 16,
+      "types": [
+        "Planta",
+        "Hada"
+      ],
+      "ability": "Medicina Extraña",
+      "nature": "Miedosa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cuerno Certero",
+        "Relevo",
+        "Encanto",
+        "Estímulo"
+      ],
+      "iv": [
+        18,
+        2,
+        5,
+        20,
+        25,
+        7
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Medicina Extraña",
+        "Audaz"
+      ],
+      "abilHidden": [
+        "Inmunidad"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Protección"
+        },
+        {
+          "lvl": 1,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 4,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 8,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 8,
+          "m": "Relevo"
+        },
+        {
+          "lvl": 12,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 16,
+          "m": "Estímulo"
+        },
+        {
+          "lvl": 20,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 25,
+          "m": "Pesadilla"
+        },
+        {
+          "lvl": 28,
+          "m": "Autosugestión"
+        },
+        {
+          "lvl": 32,
+          "m": "Machada"
+        },
+        {
+          "lvl": 32,
+          "m": "Pájaro Osado"
+        },
+        {
+          "lvl": 36,
+          "m": "Paga Extra"
+        },
+        {
+          "lvl": 40,
+          "m": "Fijar Blanco"
+        },
+        {
+          "lvl": 44,
+          "m": "Armadura Ácida"
+        }
+      ],
+      "tmMoves": [
+        "Cascabel Cura"
+      ],
+      "firstMoves": [
+        "Cuerno Certero",
+        "Relevo",
+        "Encanto",
+        "Estímulo"
+      ],
+      "spriteKey": "MORELULL"
+    },
     {
       "nickname": "MECAGOENTODO",
       "species": "Metapod",
@@ -1374,6 +1488,17 @@
       "mon": "Tadbulb"
     },
     {
+      "route": "monte_moon_exterior",
+      "where": "Monte Moon Exterior",
+      "species": "Morelull",
+      "nickname": "Fungicida",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 16,
+      "mon": "Morelull"
+    },
+    {
       "route": "ciudad_plateada",
       "where": "Ciudad Plateada",
       "species": "Metapod",
@@ -1440,6 +1565,7 @@
       "ruta_22": true,
       "ciudad_plateada": true,
       "bosque_verde": true,
+      "monte_moon_exterior": true,
       "monte_moon": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
@@ -1458,7 +1584,8 @@
       "ruta_2_norte": true,
       "ciudad_plateada": true,
       "ruta_3": true,
-      "monte_moon": true
+      "monte_moon": true,
+      "monte_moon_exterior": true
     },
     "switches": [
       48,
@@ -1470,10 +1597,13 @@
       68,
       69,
       71,
+      72,
+      73,
       110,
       112,
       113,
       114,
+      121,
       176,
       179,
       180,
@@ -1495,7 +1625,9 @@
       "Cenizas Sagradas",
       "Cola Plúmbea",
       "Cubresuelos",
+      "Cuerda Huida",
       "Ensueño Ball",
+      "Galleta Lava",
       "Gema Fantasma",
       "Gema Planta",
       "Gran Lustresfera",
@@ -1514,6 +1646,7 @@
       "MT27",
       "MT34",
       "MT39",
+      "MT43",
       "MT47",
       "MT71",
       "MT83",
@@ -1641,9 +1774,15 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "LAVACOOKIE",
+        "name": "Galleta Lava",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 12,
+        "qty": 11,
         "pocket": "Poké Balls"
       },
       {
@@ -1691,6 +1830,12 @@
       {
         "id": "TM39",
         "name": "MT39",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM43",
+        "name": "MT43",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -1785,8 +1930,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
@@ -1805,6 +1950,12 @@
       {
         "id": "ROCKSMASHITEM",
         "name": "MO Golpe Roca",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "ESCAPEROPE",
+        "name": "Cuerda Huida",
         "qty": 1,
         "pocket": "Objetos clave"
       }
