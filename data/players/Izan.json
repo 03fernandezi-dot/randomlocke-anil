@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 4h 20m jugadas · 19,070₽ · vidas en el juego: 25",
+  "notes": "Importado del save · 4h 28m jugadas · 19,070₽ · vidas en el juego: 25",
   "team": [
     {
       "nickname": "Marilus",
       "species": "Azurill",
-      "level": 14,
+      "level": 15,
       "types": [
         "Normal",
         "Hada"
@@ -34,7 +34,7 @@
       ],
       "ev": [
         1,
-        0,
+        1,
         1,
         0,
         0,
@@ -127,7 +127,7 @@
       ],
       "ev": [
         12,
-        4,
+        5,
         9,
         4,
         8,
@@ -244,7 +244,7 @@
       ],
       "ev": [
         20,
-        7,
+        8,
         11,
         5,
         10,
@@ -356,7 +356,7 @@
       ],
       "ev": [
         6,
-        3,
+        4,
         6,
         3,
         6,
@@ -492,7 +492,7 @@
       ],
       "ev": [
         4,
-        1,
+        2,
         6,
         2,
         4,
@@ -598,7 +598,7 @@
       ],
       "ev": [
         19,
-        7,
+        8,
         13,
         5,
         12,
@@ -1115,6 +1115,127 @@
         "Ojitos Tiernos"
       ],
       "spriteKey": "BIDOOF"
+    },
+    {
+      "nickname": "Mrs.Krabb",
+      "species": "Corphish",
+      "level": 17,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Megadisparador",
+      "nature": "Floja",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Bombardeo",
+        "Tóxico",
+        "Danza Lluvia",
+        "Colmillo Veneno"
+      ],
+      "iv": [
+        9,
+        16,
+        27,
+        22,
+        27,
+        22
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Megadisparador",
+        "Bromista"
+      ],
+      "abilHidden": [
+        "Imán"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Onda Voltio"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 1,
+          "m": "Frío Polar"
+        },
+        {
+          "lvl": 4,
+          "m": "Caída Libre"
+        },
+        {
+          "lvl": 8,
+          "m": "Bombardeo"
+        },
+        {
+          "lvl": 10,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 12,
+          "m": "Danza Lluvia"
+        },
+        {
+          "lvl": 16,
+          "m": "Colmillo Veneno"
+        },
+        {
+          "lvl": 20,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 24,
+          "m": "Hidrochorro"
+        },
+        {
+          "lvl": 28,
+          "m": "Recuperación"
+        },
+        {
+          "lvl": 32,
+          "m": "Onda Mental"
+        },
+        {
+          "lvl": 36,
+          "m": "Explosion"
+        },
+        {
+          "lvl": 40,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 44,
+          "m": "Triple Inmersión"
+        },
+        {
+          "lvl": 48,
+          "m": "Bote"
+        },
+        {
+          "lvl": 52,
+          "m": "Halloween"
+        }
+      ],
+      "tmMoves": [
+        "Onda Vacío"
+      ],
+      "firstMoves": [
+        "Bombardeo",
+        "Tóxico",
+        "Danza Lluvia",
+        "Colmillo Veneno"
+      ],
+      "spriteKey": "CORPHISH"
     }
   ],
   "graveyard": [
@@ -1731,6 +1852,28 @@
       "mon": "Krabby"
     },
     {
+      "route": "ruta_4",
+      "where": "Ruta 4",
+      "species": "Bidoof",
+      "nickname": "Pereira",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 17,
+      "mon": "Bidoof"
+    },
+    {
+      "route": "ciudad_celeste",
+      "where": "Ciudad Celeste",
+      "species": "Corphish",
+      "nickname": "Mrs.Krabb",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 17,
+      "mon": "Corphish"
+    },
+    {
       "route": "",
       "where": "Laboratorio",
       "species": "Sandile",
@@ -1773,17 +1916,6 @@
       "category": "ciudad",
       "level": 5,
       "mon": "Gothita"
-    },
-    {
-      "route": "ruta_4",
-      "where": "Ruta 4",
-      "species": "Bidoof",
-      "nickname": "Pereira",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 17,
-      "mon": "Bidoof"
     }
   ],
   "progress": {
@@ -1798,14 +1930,14 @@
       "ruta_22": true,
       "monte_moon_exterior": true,
       "monte_moon": true,
+      "ruta_4": true,
+      "ciudad_celeste": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
       "ciudad_verde": true,
-      "ruta_4": true,
       "ruta_1": true,
       "ruta_2_norte": true,
-      "ruta_3": true,
-      "ciudad_celeste": true
+      "ruta_3": true
     },
     "items": {},
     "encounters": {
@@ -1820,7 +1952,8 @@
       "ruta_3": true,
       "monte_moon": true,
       "monte_moon_exterior": true,
-      "ruta_4": true
+      "ruta_4": true,
+      "ciudad_celeste": true
     },
     "switches": [
       48,
@@ -1857,6 +1990,7 @@
       "Amor Ball",
       "Baya Caoca",
       "Baya Caquic",
+      "Baya Kouba",
       "Baya Meloc",
       "Bola de Humo",
       "Bola Férrea",
@@ -1902,6 +2036,8 @@
       "Precisión X 3",
       "Refleluz",
       "Reglamento",
+      "Roca Calor",
+      "Seta Grande",
       "Supercaña",
       "Swiftfeather",
       "Tabla Helada",
@@ -2007,6 +2143,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "HEATROCK",
+        "name": "Roca Calor",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BIGMUSHROOM",
+        "name": "Seta Grande",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "TIMIDMINT",
         "name": "Menta Miedosa",
         "qty": 1,
@@ -2045,7 +2193,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 10,
+        "qty": 9,
         "pocket": "Poké Balls"
       },
       {
@@ -2181,6 +2329,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "COBABERRY",
+        "name": "Baya Kouba",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "CHILANBERRY",
         "name": "Baya Chilan",
         "qty": 1,
@@ -2211,8 +2365,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
