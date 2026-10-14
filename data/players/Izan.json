@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 9,
   "champion": false,
-  "notes": "Importado del save · 7h 24m jugadas · 82,380₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 7h 37m jugadas · 84,060₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Princesita",
@@ -33,8 +33,8 @@
       ],
       "ev": [
         33,
-        25,
-        31,
+        29,
+        32,
         13,
         20,
         30
@@ -169,8 +169,8 @@
       ],
       "ev": [
         34,
-        26,
         30,
+        31,
         13,
         18,
         31
@@ -285,8 +285,8 @@
       ],
       "ev": [
         18,
-        20,
-        25,
+        24,
+        26,
         10,
         12,
         23
@@ -377,142 +377,9 @@
       "spriteKey": "TADBULB"
     },
     {
-      "nickname": "Pereira",
-      "species": "Bibarel",
-      "level": 27,
-      "types": [
-        "Normal",
-        "Agua"
-      ],
-      "ability": "",
-      "nature": "Mansa",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Ojos Llorosos",
-        "Desarrollo",
-        "Atizar",
-        "Mordisco"
-      ],
-      "iv": [
-        8,
-        29,
-        2,
-        7,
-        27,
-        11
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Escama de Hielo",
-        "Calco"
-      ],
-      "abilHidden": [
-        "Simbiosis"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Anticipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Último Lugar"
-        },
-        {
-          "lvl": 1,
-          "m": "Furia Natural"
-        },
-        {
-          "lvl": 1,
-          "m": "Última Palabra"
-        },
-        {
-          "lvl": 5,
-          "m": "Autotomía"
-        },
-        {
-          "lvl": 9,
-          "m": "Viento Afín"
-        },
-        {
-          "lvl": 13,
-          "m": "Refuerzo"
-        },
-        {
-          "lvl": 18,
-          "m": "Pantalla de Luz"
-        },
-        {
-          "lvl": 23,
-          "m": "Transformación"
-        },
-        {
-          "lvl": 23,
-          "m": "Ataque Ala"
-        },
-        {
-          "lvl": 28,
-          "m": "Picotazo Veneno"
-        },
-        {
-          "lvl": 33,
-          "m": "Salpicar"
-        },
-        {
-          "lvl": 38,
-          "m": "Chorro de Vapor"
-        },
-        {
-          "lvl": 43,
-          "m": "Deseo"
-        },
-        {
-          "lvl": 48,
-          "m": "Clavo Cañón"
-        },
-        {
-          "lvl": 53,
-          "m": "Romperrocas"
-        },
-        {
-          "lvl": 58,
-          "m": "Chulería"
-        }
-      ],
-      "tmMoves": [
-        "Atizar",
-        "Brecha Negra",
-        "Cambiaalmas",
-        "Campo Eléctrico",
-        "Cascabel Cura",
-        "Cosquillas",
-        "Divide Dolor",
-        "Limpieza General",
-        "Mordisco",
-        "Remolino",
-        "Robo",
-        "Rodillo de Púas"
-      ],
-      "firstMoves": [
-        "Ojos Llorosos",
-        "Destello",
-        "Carga Parábola",
-        "Ojitos Tiernos"
-      ],
-      "spriteKey": "BIBAREL"
-    },
-    {
       "nickname": "MECAGOENTODO",
       "species": "Butterfree",
-      "level": 27,
+      "level": 28,
       "types": [
         "Bicho",
         "Volador"
@@ -537,8 +404,8 @@
       ],
       "ev": [
         12,
-        4,
-        4,
+        8,
+        5,
         0,
         2,
         9
@@ -665,7 +532,7 @@
     {
       "nickname": "Bonsai",
       "species": "Sudowoodo",
-      "level": 27,
+      "level": 28,
       "types": [
         "Roca"
       ],
@@ -689,8 +556,8 @@
       ],
       "ev": [
         1,
-        3,
-        1,
+        7,
+        2,
         0,
         0,
         3
@@ -811,6 +678,147 @@
         "Salazón"
       ],
       "spriteKey": "SUDOWOODO"
+    },
+    {
+      "nickname": "Perro Sanche",
+      "species": "Granbull",
+      "level": 23,
+      "types": [
+        "Hada"
+      ],
+      "ability": "Geofagia",
+      "nature": "Firme",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Esquema",
+        "Picadura",
+        "Beso Dulce",
+        "Destello"
+      ],
+      "iv": [
+        31,
+        22,
+        11,
+        20,
+        28,
+        4
+      ],
+      "ev": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Efecto Espora",
+        "Geofagia"
+      ],
+      "abilHidden": [
+        "Chorro Arena"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Disparo Espejo"
+        },
+        {
+          "lvl": 1,
+          "m": "Paliza"
+        },
+        {
+          "lvl": 1,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 1,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 1,
+          "m": "Picoteo"
+        },
+        {
+          "lvl": 1,
+          "m": "Atracción"
+        },
+        {
+          "lvl": 1,
+          "m": "Robo"
+        },
+        {
+          "lvl": 1,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 1,
+          "m": "Esquema"
+        },
+        {
+          "lvl": 7,
+          "m": "Picadura"
+        },
+        {
+          "lvl": 13,
+          "m": "Beso Dulce"
+        },
+        {
+          "lvl": 19,
+          "m": "Destello"
+        },
+        {
+          "lvl": 24,
+          "m": "Barrera Espinosa"
+        },
+        {
+          "lvl": 27,
+          "m": "Rayo Confuso"
+        },
+        {
+          "lvl": 35,
+          "m": "Látigo Cepa"
+        },
+        {
+          "lvl": 35,
+          "m": "Bostezo"
+        },
+        {
+          "lvl": 35,
+          "m": "Garra Nociva"
+        },
+        {
+          "lvl": 40,
+          "m": "Patada Hacha"
+        },
+        {
+          "lvl": 43,
+          "m": "Proliferación"
+        },
+        {
+          "lvl": 47,
+          "m": "Fuerza Equina"
+        },
+        {
+          "lvl": 51,
+          "m": "Flarembestida"
+        },
+        {
+          "lvl": 59,
+          "m": "Placaje Eléctrico"
+        }
+      ],
+      "tmMoves": [
+        "Cambiaalmas"
+      ],
+      "firstMoves": [
+        "Esquema",
+        "Picadura",
+        "Beso Dulce",
+        "Destello"
+      ],
+      "spriteKey": "GRANBULL"
     }
   ],
   "box": [
@@ -1279,6 +1287,139 @@
         "Voltiocambio"
       ],
       "spriteKey": "BLITZLE"
+    },
+    {
+      "nickname": "Pereira",
+      "species": "Bibarel",
+      "level": 27,
+      "types": [
+        "Normal",
+        "Agua"
+      ],
+      "ability": "Calco",
+      "nature": "Mansa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Ojos Llorosos",
+        "Desarrollo",
+        "Atizar",
+        "Mordisco"
+      ],
+      "iv": [
+        8,
+        29,
+        2,
+        7,
+        27,
+        11
+      ],
+      "ev": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Escama de Hielo",
+        "Calco"
+      ],
+      "abilHidden": [
+        "Simbiosis"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Anticipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Último Lugar"
+        },
+        {
+          "lvl": 1,
+          "m": "Furia Natural"
+        },
+        {
+          "lvl": 1,
+          "m": "Última Palabra"
+        },
+        {
+          "lvl": 5,
+          "m": "Autotomía"
+        },
+        {
+          "lvl": 9,
+          "m": "Viento Afín"
+        },
+        {
+          "lvl": 13,
+          "m": "Refuerzo"
+        },
+        {
+          "lvl": 18,
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 23,
+          "m": "Transformación"
+        },
+        {
+          "lvl": 23,
+          "m": "Ataque Ala"
+        },
+        {
+          "lvl": 28,
+          "m": "Picotazo Veneno"
+        },
+        {
+          "lvl": 33,
+          "m": "Salpicar"
+        },
+        {
+          "lvl": 38,
+          "m": "Chorro de Vapor"
+        },
+        {
+          "lvl": 43,
+          "m": "Deseo"
+        },
+        {
+          "lvl": 48,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 53,
+          "m": "Romperrocas"
+        },
+        {
+          "lvl": 58,
+          "m": "Chulería"
+        }
+      ],
+      "tmMoves": [
+        "Atizar",
+        "Brecha Negra",
+        "Cambiaalmas",
+        "Campo Eléctrico",
+        "Cascabel Cura",
+        "Cosquillas",
+        "Divide Dolor",
+        "Limpieza General",
+        "Mordisco",
+        "Remolino",
+        "Robo",
+        "Rodillo de Púas"
+      ],
+      "firstMoves": [
+        "Ojos Llorosos",
+        "Destello",
+        "Carga Parábola",
+        "Ojitos Tiernos"
+      ],
+      "spriteKey": "BIBAREL"
     }
   ],
   "graveyard": [
@@ -2451,17 +2592,6 @@
       "mon": "Tadbulb"
     },
     {
-      "route": "ruta_4",
-      "where": "Ruta 4",
-      "species": "Bibarel",
-      "nickname": "Pereira",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 17,
-      "mon": "Bibarel"
-    },
-    {
       "route": "ciudad_plateada",
       "where": "Ciudad Plateada",
       "species": "Butterfree",
@@ -2482,6 +2612,17 @@
       "category": "salvaje",
       "level": 20,
       "mon": "Sudowoodo"
+    },
+    {
+      "route": "ruta_15",
+      "where": "Ruta 15",
+      "species": "Granbull",
+      "nickname": "Perro Sanche",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 23,
+      "mon": "Granbull"
     },
     {
       "route": "monte_moon_exterior",
@@ -2625,6 +2766,17 @@
       "category": "ciudad",
       "level": 11,
       "mon": "Goldeen"
+    },
+    {
+      "route": "ruta_4",
+      "where": "Ruta 4",
+      "species": "Bibarel",
+      "nickname": "Pereira",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 17,
+      "mon": "Bibarel"
     }
   ],
   "progress": {
@@ -2638,9 +2790,9 @@
     "routes": {
       "ruta_22": true,
       "bosque_verde": true,
-      "ruta_4": true,
       "ciudad_plateada": true,
       "ruta_5": true,
+      "ruta_15": true,
       "monte_moon_exterior": true,
       "monte_moon": true,
       "ciudad_celeste": true,
@@ -2650,6 +2802,7 @@
       "pueblo_paleta": true,
       "ruta_20": true,
       "ciudad_carmin": true,
+      "ruta_4": true,
       "ruta_1": true,
       "ruta_2_norte": true,
       "ruta_3": true,
@@ -2674,7 +2827,8 @@
       "ruta_21": true,
       "ruta_5": true,
       "ruta_6": true,
-      "ciudad_carmin": true
+      "ciudad_carmin": true,
+      "ruta_15": true
     },
     "switches": [
       48,
@@ -3036,12 +3190,6 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "GREATBALL",
-        "name": "Super Ball",
-        "qty": 1,
-        "pocket": "Poké Balls"
-      },
-      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 10,
@@ -3248,7 +3396,7 @@
       {
         "id": "PECHABERRY",
         "name": "Baya Meloc",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Bayas"
       },
       {
