@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 3h 1m jugadas · 1,190₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 3h 10m jugadas · 3,080₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Espía",
       "species": "Pidove",
-      "level": 15,
+      "level": 16,
       "types": [
         "Normal",
         "Volador"
@@ -21,7 +21,7 @@
       "moves": [
         "Cuchillada",
         "Nitrocarga",
-        "Avivar",
+        "Aguzar",
         "Beso Dulce"
       ],
       "iv": [
@@ -33,12 +33,12 @@
         21
       ],
       "ev": [
-        11,
+        14,
         4,
         7,
         3,
-        5,
-        7
+        6,
+        9
       ],
       "abilPool": [
         "Metal Liviano"
@@ -130,7 +130,7 @@
     {
       "nickname": "GoticaCulona",
       "species": "Gothita",
-      "level": 15,
+      "level": 16,
       "types": [
         "Psíquico"
       ],
@@ -153,12 +153,12 @@
         11
       ],
       "ev": [
-        11,
+        14,
         4,
         7,
         3,
-        4,
-        7
+        5,
+        9
       ],
       "abilPool": [
         "Corrosión",
@@ -260,12 +260,12 @@
     },
     {
       "nickname": "Princesita",
-      "species": "Popplio",
-      "level": 15,
+      "species": "Brionne",
+      "level": 16,
       "types": [
         "Agua"
       ],
-      "ability": "Iceberg",
+      "ability": "Psicogénesis",
       "nature": "Serena",
       "item": "Tabla Linfa",
       "shiny": false,
@@ -284,109 +284,104 @@
         6
       ],
       "ev": [
-        10,
+        13,
         4,
         7,
         2,
-        4,
-        7
+        5,
+        9
       ],
       "abilPool": [
-        "Iceberg"
+        "Psicogénesis"
       ],
       "abilHidden": [
-        "Inflamable"
+        "Piel Herbácea"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Agua Fría"
+          "m": "Sorpresa"
         },
         {
           "lvl": 1,
-          "m": "Barrera"
+          "m": "Castigo"
         },
         {
-          "lvl": 6,
-          "m": "Copión"
+          "lvl": 1,
+          "m": "Relámpago Súbito"
         },
         {
-          "lvl": 7,
-          "m": "Polvo Mágico"
+          "lvl": 1,
+          "m": "Rencor"
         },
         {
           "lvl": 9,
-          "m": "Voz Cautivadora"
+          "m": "Venganza"
         },
         {
           "lvl": 11,
-          "m": "Embargo"
+          "m": "Giro Vil"
         },
         {
           "lvl": 12,
-          "m": "Pesadilla"
+          "m": "Residuos"
         },
         {
           "lvl": 15,
-          "m": "Cambio de Banda"
+          "m": "Pantalla de Luz"
         },
         {
-          "lvl": 18,
-          "m": "Atiborramiento"
+          "lvl": 20,
+          "m": "Zona Mágica"
         },
         {
-          "lvl": 21,
-          "m": "Puño Jet"
-        },
-        {
-          "lvl": 24,
-          "m": "Agitacola"
-        },
-        {
-          "lvl": 27,
-          "m": "Defensa Férrea"
-        },
-        {
-          "lvl": 29,
-          "m": "Limpieza General"
+          "lvl": 25,
+          "m": "Daño Secreto"
         },
         {
           "lvl": 30,
-          "m": "Gas Venenoso"
+          "m": "Puño Jet"
         },
         {
           "lvl": 33,
-          "m": "Garra Nociva"
+          "m": "Hidroariete"
         },
         {
-          "lvl": 36,
-          "m": "Retribución"
+          "lvl": 35,
+          "m": "Acua Jet"
         },
         {
-          "lvl": 39,
-          "m": "Rueda Fuego"
+          "lvl": 40,
+          "m": "Telaraña"
+        },
+        {
+          "lvl": 45,
+          "m": "Mil Flechas"
         },
         {
           "lvl": 46,
-          "m": "Búnker"
+          "m": "Persecución"
+        },
+        {
+          "lvl": 50,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 55,
+          "m": "Gravedad"
         }
-      ],
-      "tmMoves": [
-        "Onda Vacío",
-        "Reciclaje",
-        "Robo"
       ],
       "firstMoves": [
         "Agua Fría",
         "Barrera",
         "Copión"
       ],
-      "spriteKey": "POPPLIO"
+      "spriteKey": "BRIONNE"
     },
     {
       "nickname": "Nemo",
       "species": "Goldeen",
-      "level": 13,
+      "level": 14,
       "types": [
         "Agua"
       ],
@@ -409,12 +404,12 @@
         3
       ],
       "ev": [
-        3,
+        6,
         1,
         3,
         1,
-        0,
-        2
+        1,
+        4
       ],
       "abilPool": [
         "Cola Surf",
@@ -502,7 +497,7 @@
     {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 14,
+      "level": 15,
       "types": [
         "Acero",
         "Fantasma"
@@ -526,12 +521,12 @@
         28
       ],
       "ev": [
-        11,
+        14,
         4,
         5,
         2,
-        2,
-        6
+        3,
+        8
       ],
       "abilPool": [
         "Insomnio"
@@ -615,7 +610,7 @@
     {
       "nickname": "MECAGOENTODO",
       "species": "Metapod",
-      "level": 14,
+      "level": 15,
       "types": [
         "Bicho"
       ],
@@ -626,7 +621,8 @@
       "moves": [
         "Púas",
         "Ofrenda",
-        "Finta"
+        "Finta",
+        "Legado"
       ],
       "iv": [
         31,
@@ -637,12 +633,12 @@
         10
       ],
       "ev": [
-        8,
+        11,
         1,
         3,
         0,
-        0,
-        4
+        1,
+        6
       ],
       "abilPool": [
         "Aura Oscura"
@@ -1043,13 +1039,13 @@
     {
       "route": "ruta_22",
       "where": "Ruta 22",
-      "species": "Popplio",
+      "species": "Brionne",
       "nickname": "Princesita",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 6,
-      "mon": "Popplio"
+      "mon": "Brionne"
     },
     {
       "route": "ciudad_plateada",
@@ -1194,6 +1190,7 @@
       "MT104",
       "MT111",
       "MT114",
+      "MT23",
       "MT27",
       "MT34",
       "MT39",
@@ -1328,6 +1325,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM23",
+        "name": "MT23",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM27",
         "name": "MT27",
         "qty": 1,
@@ -1424,8 +1427,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
