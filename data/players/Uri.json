@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 2h 2m jugadas · 15,620₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 2h 9m jugadas · 15,620₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Izan",
@@ -35,7 +35,7 @@
       "ev": [
         8,
         13,
-        11,
+        13,
         8,
         12,
         17
@@ -158,7 +158,7 @@
       "ev": [
         7,
         13,
-        11,
+        13,
         7,
         12,
         17
@@ -262,7 +262,7 @@
       "ev": [
         6,
         13,
-        11,
+        13,
         7,
         12,
         17
@@ -382,7 +382,7 @@
       "ev": [
         6,
         13,
-        10,
+        12,
         7,
         12,
         16
@@ -495,7 +495,7 @@
       "ev": [
         6,
         9,
-        6,
+        8,
         4,
         11,
         14
@@ -619,7 +619,7 @@
       "ev": [
         3,
         7,
-        4,
+        6,
         0,
         6,
         10
@@ -1292,6 +1292,352 @@
         "Disparo Lodo"
       ],
       "spriteKey": "FRILLISH"
+    },
+    {
+      "nickname": "Casper",
+      "species": "Yamask",
+      "level": 18,
+      "types": [
+        "Fantasma"
+      ],
+      "ability": "Pelusa",
+      "nature": "Amable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Ataque Arena",
+        "Disparo Demora",
+        "Deslumbrar",
+        "Mil Púas Tóxicas"
+      ],
+      "iv": [
+        30,
+        1,
+        14,
+        2,
+        24,
+        1
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Pelusa"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Viento Aciago"
+        },
+        {
+          "lvl": 1,
+          "m": "Rabia"
+        },
+        {
+          "lvl": 4,
+          "m": "Ataque Arena"
+        },
+        {
+          "lvl": 8,
+          "m": "Disparo Demora"
+        },
+        {
+          "lvl": 12,
+          "m": "Deslumbrar"
+        },
+        {
+          "lvl": 16,
+          "m": "Mil Púas Tóxicas"
+        },
+        {
+          "lvl": 20,
+          "m": "Cambiafuerza"
+        },
+        {
+          "lvl": 24,
+          "m": "Ayuda"
+        },
+        {
+          "lvl": 28,
+          "m": "Trampa Rocas"
+        },
+        {
+          "lvl": 32,
+          "m": "Infierno"
+        },
+        {
+          "lvl": 36,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 40,
+          "m": "Multiataque"
+        },
+        {
+          "lvl": 44,
+          "m": "Cornada"
+        },
+        {
+          "lvl": 48,
+          "m": "Infortunio"
+        },
+        {
+          "lvl": 48,
+          "m": "Onda Voltio"
+        },
+        {
+          "lvl": 52,
+          "m": "Terratemblor"
+        }
+      ],
+      "firstMoves": [
+        "Ataque Arena",
+        "Disparo Demora",
+        "Deslumbrar",
+        "Mil Púas Tóxicas"
+      ],
+      "spriteKey": "YAMASK"
+    },
+    {
+      "nickname": "Peseta",
+      "species": "Bronzor",
+      "level": 4,
+      "types": [
+        "Acero",
+        "Psíquico"
+      ],
+      "ability": "Recogebolas",
+      "nature": "Cauta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Garra Metal",
+        "Palma Rauda",
+        "Beso Dulce"
+      ],
+      "iv": [
+        13,
+        3,
+        13,
+        19,
+        26,
+        13
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Recogebolas",
+        "Espada Indómita"
+      ],
+      "abilHidden": [
+        "Toque Tóxico"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Garra Metal"
+        },
+        {
+          "lvl": 1,
+          "m": "Palma Rauda"
+        },
+        {
+          "lvl": 4,
+          "m": "Beso Dulce"
+        },
+        {
+          "lvl": 8,
+          "m": "Cambiavelocidad"
+        },
+        {
+          "lvl": 12,
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 15,
+          "m": "Niebla"
+        },
+        {
+          "lvl": 16,
+          "m": "Mordisco"
+        },
+        {
+          "lvl": 20,
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 21,
+          "m": "Levitón"
+        },
+        {
+          "lvl": 24,
+          "m": "Poder Místico"
+        },
+        {
+          "lvl": 28,
+          "m": "Aligerar"
+        },
+        {
+          "lvl": 32,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 36,
+          "m": "Disparo Demora"
+        },
+        {
+          "lvl": 40,
+          "m": "Arraigo"
+        },
+        {
+          "lvl": 44,
+          "m": "Sacrificio"
+        },
+        {
+          "lvl": 45,
+          "m": "Esporagodón"
+        }
+      ],
+      "firstMoves": [
+        "Garra Metal",
+        "Palma Rauda",
+        "Beso Dulce"
+      ],
+      "spriteKey": "BRONZOR"
+    },
+    {
+      "nickname": "Rem",
+      "species": "Gothita",
+      "level": 1,
+      "types": [
+        "Psíquico"
+      ],
+      "ability": "",
+      "nature": "Activa",
+      "item": "Ultra Ball",
+      "shiny": false,
+      "moves": [
+        "Acua Jet",
+        "Campo Eléctrico"
+      ],
+      "iv": [
+        25,
+        31,
+        31,
+        28,
+        7,
+        21
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Armadura Prisma",
+        "Recogebolas"
+      ],
+      "abilHidden": [
+        "Electromotor"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Acua Jet"
+        },
+        {
+          "lvl": 1,
+          "m": "Campo Eléctrico"
+        },
+        {
+          "lvl": 4,
+          "m": "Gravedad"
+        },
+        {
+          "lvl": 8,
+          "m": "Capa Mágica"
+        },
+        {
+          "lvl": 12,
+          "m": "Represalia"
+        },
+        {
+          "lvl": 14,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 16,
+          "m": "Onda Anómala"
+        },
+        {
+          "lvl": 19,
+          "m": "Niebla"
+        },
+        {
+          "lvl": 20,
+          "m": "Truco Fuerza"
+        },
+        {
+          "lvl": 24,
+          "m": "Polvo Mágico"
+        },
+        {
+          "lvl": 24,
+          "m": "Gran Ojo"
+        },
+        {
+          "lvl": 28,
+          "m": "Imitación"
+        },
+        {
+          "lvl": 33,
+          "m": "Psicoataque"
+        },
+        {
+          "lvl": 33,
+          "m": "Comesueños"
+        },
+        {
+          "lvl": 36,
+          "m": "Sonámbulo"
+        },
+        {
+          "lvl": 40,
+          "m": "Limpieza General"
+        },
+        {
+          "lvl": 40,
+          "m": "Paranormal"
+        },
+        {
+          "lvl": 44,
+          "m": "Psicorruido"
+        },
+        {
+          "lvl": 48,
+          "m": "Mirada Heladora"
+        }
+      ],
+      "firstMoves": [
+        "Acua Jet",
+        "Campo Eléctrico"
+      ],
+      "spriteKey": "GOTHITA"
     }
   ],
   "graveyard": [
@@ -1532,6 +1878,39 @@
       "mon": "Frillish"
     },
     {
+      "route": "ruta_4",
+      "where": "Ruta 4",
+      "species": "Yamask",
+      "nickname": "Casper",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 18,
+      "mon": "Yamask"
+    },
+    {
+      "route": "ciudad_verde",
+      "where": "Ciudad Verde",
+      "species": "Bronzor",
+      "nickname": "Peseta",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 4,
+      "mon": "Bronzor"
+    },
+    {
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Gothita",
+      "nickname": "Rem",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Gothita"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -1558,10 +1937,11 @@
       "ruta_2_norte": true,
       "bosque_verde": true,
       "monte_moon_exterior": true,
-      "ruta_22": true,
+      "ruta_4": true,
       "ciudad_verde": true,
+      "ruta_22": true,
       "ruta_3": true,
-      "ruta_4": true
+      "ciudad_celeste": true
     },
     "items": {},
     "encounters": {
@@ -1574,7 +1954,9 @@
       "ciudad_plateada": true,
       "ruta_3": true,
       "monte_moon": true,
-      "monte_moon_exterior": true
+      "monte_moon_exterior": true,
+      "ruta_4": true,
+      "ciudad_verde": true
     },
     "switches": [
       48,
@@ -1596,6 +1978,7 @@
       114,
       121,
       138,
+      171,
       176,
       179,
       180,
@@ -1619,6 +2002,7 @@
       "Cenizas Sagradas",
       "Cuchara Torcida",
       "Cuerda Huida",
+      "Defensa X 2",
       "Fósil Hélix",
       "Gema Eléctrica",
       "Gema Fantasma",
@@ -1632,6 +2016,7 @@
       "Miniseta",
       "MO Golpe Roca",
       "MT06",
+      "MT102",
       "MT103",
       "MT109",
       "MT11",
@@ -1650,10 +2035,12 @@
       "Piedra Eterna",
       "Poción",
       "Poké Montura",
+      "Porcehelado",
       "Radar",
       "Reglamento",
       "Seguro Fallo",
       "Supercaña",
+      "Toxisfera",
       "Vial"
     ],
     "bag": [
@@ -1742,8 +2129,8 @@
         "pocket": "Objetos"
       },
       {
-        "id": "HELIXFOSSIL",
-        "name": "Fósil Hélix",
+        "id": "TOXICORB",
+        "name": "Toxisfera",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -1784,9 +2171,15 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "CASTELIACONE",
+        "name": "Porcehelado",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 14,
+        "qty": 12,
         "pocket": "Poké Balls"
       },
       {
@@ -1880,6 +2273,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM102",
+        "name": "MT102",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM103",
         "name": "MT103",
         "qty": 1,
@@ -1922,6 +2321,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "XDEFENSE2",
+        "name": "Defensa X 2",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -1934,8 +2339,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
