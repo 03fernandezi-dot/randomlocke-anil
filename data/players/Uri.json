@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 5h 54m jugadas · 102,320₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 5h 56m jugadas · 102,320₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Izan",
@@ -536,9 +536,9 @@
       "shiny": false,
       "moves": [
         "Giro Vil",
-        "Conversión",
-        "Geocontrol",
-        "Bramido Dragón"
+        "Escudo Real",
+        "Ida y Vuelta",
+        "Espora"
       ],
       "iv": [
         30,
@@ -630,7 +630,23 @@
         }
       ],
       "tmMoves": [
-        "Hidrochorro"
+        "Alivio",
+        "Beso Drenaje",
+        "Bomba Fango",
+        "Cerrojo Feérico",
+        "Escudo Real",
+        "Espora",
+        "Giro Mortífero",
+        "Hidrochorro",
+        "Ida y Vuelta",
+        "Meteorobola",
+        "Motivación",
+        "Pesadilla",
+        "Rayo Confuso",
+        "Rayo Señal",
+        "Salazón",
+        "Señuelo",
+        "Voz Cautivadora"
       ],
       "firstMoves": [
         "Giro Vil",
