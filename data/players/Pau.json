@@ -2,145 +2,10 @@
   "id": "Pau",
   "name": "Pau",
   "lives": 30,
-  "livesUsed": 1,
+  "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 2h 54m jugadas · 11,470₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 2h 55m jugadas · 12,370₽ · vidas en el juego: 27",
   "team": [
-    {
-      "nickname": "Calamardo",
-      "species": "Tentacool",
-      "level": 19,
-      "types": [
-        "Agua",
-        "Veneno"
-      ],
-      "ability": "Espada Debacle",
-      "nature": "Dócil",
-      "item": "Lodo Negro",
-      "shiny": false,
-      "moves": [
-        "Clavo Cañón",
-        "Púas Tóxicas",
-        "Voltiocambio",
-        "Pedrada"
-      ],
-      "iv": [
-        23,
-        9,
-        15,
-        25,
-        27,
-        27
-      ],
-      "ev": [
-        9,
-        14,
-        5,
-        11,
-        8,
-        17
-      ],
-      "abilPool": [
-        "Espada Debacle",
-        "Pararrayos"
-      ],
-      "abilHidden": [
-        "Unidad Ecuestre"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Púas Tóxicas"
-        },
-        {
-          "lvl": 1,
-          "m": "Doble Ataque"
-        },
-        {
-          "lvl": 4,
-          "m": "Escupir"
-        },
-        {
-          "lvl": 8,
-          "m": "Manos Juntas"
-        },
-        {
-          "lvl": 8,
-          "m": "Voltiocambio"
-        },
-        {
-          "lvl": 12,
-          "m": "Pedrada"
-        },
-        {
-          "lvl": 15,
-          "m": "Roca Veloz"
-        },
-        {
-          "lvl": 16,
-          "m": "Acua Aro"
-        },
-        {
-          "lvl": 20,
-          "m": "Llama Protectora"
-        },
-        {
-          "lvl": 24,
-          "m": "Viento Hielo"
-        },
-        {
-          "lvl": 26,
-          "m": "Cuerpo Pesado"
-        },
-        {
-          "lvl": 28,
-          "m": "Mismo Destino"
-        },
-        {
-          "lvl": 29,
-          "m": "Hidropulso"
-        },
-        {
-          "lvl": 32,
-          "m": "Truco Defensa"
-        },
-        {
-          "lvl": 36,
-          "m": "Beso Dulce"
-        },
-        {
-          "lvl": 40,
-          "m": "Rayo Infinito"
-        },
-        {
-          "lvl": 44,
-          "m": "Terratemblor"
-        },
-        {
-          "lvl": 48,
-          "m": "Branquibocado"
-        },
-        {
-          "lvl": 54,
-          "m": "Sylveotornado"
-        }
-      ],
-      "tmMoves": [
-        "Asalto Barrera",
-        "Barrera",
-        "Burbuja",
-        "Clavo Cañón",
-        "Danza Lunar",
-        "Pulso de Campo",
-        "Represión Metal"
-      ],
-      "firstMoves": [
-        "Púas Tóxicas",
-        "Doble Ataque",
-        "Escupir"
-      ],
-      "spriteKey": "TENTACOOL"
-    },
     {
       "nickname": "Bicharraco",
       "species": "Golett",
@@ -169,7 +34,7 @@
       ],
       "ev": [
         8,
-        10,
+        11,
         5,
         11,
         6,
@@ -299,7 +164,7 @@
       ],
       "ev": [
         8,
-        13,
+        14,
         5,
         10,
         8,
@@ -440,7 +305,7 @@
       ],
       "ev": [
         6,
-        13,
+        14,
         3,
         5,
         8,
@@ -565,7 +430,7 @@
       ],
       "ev": [
         2,
-        3,
+        4,
         2,
         1,
         0,
@@ -672,7 +537,7 @@
     {
       "nickname": "Envape",
       "species": "Wartortle",
-      "level": 19,
+      "level": 20,
       "types": [
         "Agua"
       ],
@@ -696,7 +561,7 @@
       ],
       "ev": [
         2,
-        2,
+        3,
         1,
         1,
         0,
@@ -1922,6 +1787,144 @@
   ],
   "graveyard": [
     {
+      "nickname": "Calamardo",
+      "species": "Tentacool",
+      "level": 19,
+      "types": [
+        "Agua",
+        "Veneno"
+      ],
+      "ability": "Espada Debacle",
+      "nature": "Dócil",
+      "item": "Lodo Negro",
+      "shiny": false,
+      "moves": [
+        "Clavo Cañón",
+        "Púas Tóxicas",
+        "Voltiocambio",
+        "Pedrada"
+      ],
+      "iv": [
+        23,
+        9,
+        15,
+        25,
+        27,
+        27
+      ],
+      "ev": [
+        9,
+        14,
+        5,
+        11,
+        8,
+        17
+      ],
+      "abilPool": [
+        "Espada Debacle",
+        "Pararrayos"
+      ],
+      "abilHidden": [
+        "Unidad Ecuestre"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 1,
+          "m": "Doble Ataque"
+        },
+        {
+          "lvl": 4,
+          "m": "Escupir"
+        },
+        {
+          "lvl": 8,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 8,
+          "m": "Voltiocambio"
+        },
+        {
+          "lvl": 12,
+          "m": "Pedrada"
+        },
+        {
+          "lvl": 15,
+          "m": "Roca Veloz"
+        },
+        {
+          "lvl": 16,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 20,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 24,
+          "m": "Viento Hielo"
+        },
+        {
+          "lvl": 26,
+          "m": "Cuerpo Pesado"
+        },
+        {
+          "lvl": 28,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 29,
+          "m": "Hidropulso"
+        },
+        {
+          "lvl": 32,
+          "m": "Truco Defensa"
+        },
+        {
+          "lvl": 36,
+          "m": "Beso Dulce"
+        },
+        {
+          "lvl": 40,
+          "m": "Rayo Infinito"
+        },
+        {
+          "lvl": 44,
+          "m": "Terratemblor"
+        },
+        {
+          "lvl": 48,
+          "m": "Branquibocado"
+        },
+        {
+          "lvl": 54,
+          "m": "Sylveotornado"
+        }
+      ],
+      "tmMoves": [
+        "Asalto Barrera",
+        "Barrera",
+        "Burbuja",
+        "Clavo Cañón",
+        "Danza Lunar",
+        "Pulso de Campo",
+        "Represión Metal"
+      ],
+      "firstMoves": [
+        "Púas Tóxicas",
+        "Doble Ataque",
+        "Escupir"
+      ],
+      "spriteKey": "TENTACOOL",
+      "cause": "",
+      "route": "Ruta 2 Sur",
+      "date": ""
+    },
+    {
       "nickname": "Partyfiesta",
       "species": "Hatenna",
       "level": 7,
@@ -2038,7 +2041,7 @@
       "species": "Tentacool",
       "nickname": "Calamardo",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "salvaje",
       "level": 5,
       "mon": "Tentacool"
@@ -2664,7 +2667,8 @@
   },
   "deathLog": [
     "1873600814",
-    "2853338953"
+    "2853338953",
+    "2427181806"
   ],
   "revividos": 1
 }
