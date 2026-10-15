@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 2h 58m jugadas · 14,410₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 3h 3m jugadas · 15,880₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Mariposon",
       "species": "Butterfree",
-      "level": 20,
+      "level": 21,
       "types": [
         "Bicho",
         "Volador"
@@ -34,11 +34,11 @@
       ],
       "ev": [
         9,
-        15,
-        5,
+        17,
+        7,
         11,
         8,
-        18
+        19
       ],
       "abilPool": [
         "Mano Rápida"
@@ -150,7 +150,7 @@
     {
       "nickname": "Bicharraco",
       "species": "Golett",
-      "level": 20,
+      "level": 21,
       "types": [
         "Tierra",
         "Fantasma"
@@ -175,11 +175,11 @@
       ],
       "ev": [
         9,
-        12,
-        5,
+        14,
+        7,
         12,
         6,
-        12
+        13
       ],
       "abilPool": [
         "Primer Auxilio",
@@ -280,7 +280,7 @@
     {
       "nickname": "Shawn",
       "species": "Flaaffy",
-      "level": 21,
+      "level": 22,
       "types": [
         "Eléctrico"
       ],
@@ -291,7 +291,7 @@
       "moves": [
         "Carga Parábola",
         "Viento Aciago",
-        "Burbuja",
+        "Shuriken de Agua",
         "Levitón"
       ],
       "iv": [
@@ -304,11 +304,11 @@
       ],
       "ev": [
         8,
-        14,
-        6,
+        16,
+        8,
         12,
         9,
-        17
+        18
       ],
       "abilPool": [
         "Audaz"
@@ -408,7 +408,7 @@
     {
       "nickname": "Hedwig",
       "species": "Dartrix",
-      "level": 21,
+      "level": 22,
       "types": [
         "Planta",
         "Volador"
@@ -433,11 +433,11 @@
       ],
       "ev": [
         7,
-        15,
-        3,
+        17,
+        5,
         6,
         8,
-        17
+        18
       ],
       "abilPool": [
         "Gran Encanto"
@@ -558,11 +558,11 @@
       ],
       "ev": [
         3,
-        5,
-        2,
+        7,
+        4,
         2,
         0,
-        2
+        3
       ],
       "abilPool": [
         "Energía Eólica",
@@ -665,7 +665,7 @@
     {
       "nickname": "Envape",
       "species": "Wartortle",
-      "level": 20,
+      "level": 21,
       "types": [
         "Agua"
       ],
@@ -689,11 +689,11 @@
       ],
       "ev": [
         3,
-        4,
-        1,
+        6,
+        3,
         2,
         0,
-        2
+        3
       ],
       "abilPool": [
         "Sal Purificadora"
@@ -1783,6 +1783,123 @@
         "Luminicola"
       ],
       "spriteKey": "FIDOUGH"
+    },
+    {
+      "nickname": "Motoraton",
+      "species": "Cyndaquil",
+      "level": 19,
+      "types": [
+        "Fuego"
+      ],
+      "ability": "Momia",
+      "nature": "Grosera",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Viraje",
+        "Otra Vez",
+        "Puño Mareo",
+        "Canon"
+      ],
+      "iv": [
+        15,
+        16,
+        1,
+        14,
+        25,
+        2
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Momia"
+      ],
+      "abilHidden": [
+        "Ilusión"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Zona Extraña"
+        },
+        {
+          "lvl": 1,
+          "m": "Onda Simple"
+        },
+        {
+          "lvl": 5,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 6,
+          "m": "Otra Vez"
+        },
+        {
+          "lvl": 13,
+          "m": "Puño Mareo"
+        },
+        {
+          "lvl": 19,
+          "m": "Canon"
+        },
+        {
+          "lvl": 22,
+          "m": "Tambor"
+        },
+        {
+          "lvl": 28,
+          "m": "Maquinación"
+        },
+        {
+          "lvl": 31,
+          "m": "Coraza Trampa"
+        },
+        {
+          "lvl": 37,
+          "m": "Látigo Ígneo"
+        },
+        {
+          "lvl": 40,
+          "m": "Represión Metal"
+        },
+        {
+          "lvl": 46,
+          "m": "Agarre"
+        },
+        {
+          "lvl": 49,
+          "m": "Gigaimpacto"
+        },
+        {
+          "lvl": 55,
+          "m": "Vozarrón"
+        },
+        {
+          "lvl": 58,
+          "m": "Hipercolmillo"
+        },
+        {
+          "lvl": 58,
+          "m": "Gas Corrosivo"
+        },
+        {
+          "lvl": 64,
+          "m": "Balón Ígneo"
+        }
+      ],
+      "firstMoves": [
+        "Viraje",
+        "Otra Vez",
+        "Puño Mareo",
+        "Canon"
+      ],
+      "spriteKey": "CYNDAQUIL"
     }
   ],
   "graveyard": [
@@ -2201,6 +2318,17 @@
       "mon": "Fidough"
     },
     {
+      "route": "ruta_20",
+      "where": "Ruta 20",
+      "species": "Cyndaquil",
+      "nickname": "Motoraton",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 19,
+      "mon": "Cyndaquil"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -2240,10 +2368,10 @@
       "ruta_2_norte": true,
       "monte_moon_exterior": true,
       "ruta_4": true,
+      "ruta_20": true,
       "ruta_1": true,
       "ruta_2_sur": true,
-      "pueblo_paleta": true,
-      "ruta_20": true
+      "pueblo_paleta": true
     },
     "items": {},
     "encounters": {
@@ -2259,7 +2387,8 @@
       "monte_moon": true,
       "monte_moon_exterior": true,
       "ruta_4": true,
-      "ciudad_celeste": true
+      "ciudad_celeste": true,
+      "ruta_20": true
     },
     "switches": [
       48,
@@ -2276,6 +2405,7 @@
       74,
       75,
       76,
+      80,
       110,
       112,
       113,
@@ -2296,6 +2426,7 @@
       "Baya Algama",
       "Baya Aricoc",
       "Baya Grana",
+      "Baya Perasi",
       "Baya Tamate",
       "Botón Escape",
       "Cenizas Sagradas",
@@ -2498,7 +2629,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 10,
+        "qty": 8,
         "pocket": "Poké Balls"
       },
       {
@@ -2510,12 +2641,6 @@
       {
         "id": "FASTBALL",
         "name": "Rapid Ball",
-        "qty": 1,
-        "pocket": "Poké Balls"
-      },
-      {
-        "id": "ULTRABALL",
-        "name": "Ultra Ball",
         "qty": 1,
         "pocket": "Poké Balls"
       },
@@ -2602,6 +2727,12 @@
         "name": "MT123",
         "qty": 1,
         "pocket": "MTs y MOs"
+      },
+      {
+        "id": "ASPEARBERRY",
+        "name": "Baya Perasi",
+        "qty": 1,
+        "pocket": "Bayas"
       },
       {
         "id": "POMEGBERRY",
