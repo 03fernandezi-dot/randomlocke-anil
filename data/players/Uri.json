@@ -2156,6 +2156,7 @@
       "MT26",
       "MT39",
       "MT43",
+      "MT47",
       "MT61",
       "MT83",
       "MT85",
@@ -2375,6 +2376,12 @@
       {
         "id": "TM43",
         "name": "MT43",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM47",
+        "name": "MT47",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
