@@ -4,131 +4,120 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 2h 17m jugadas · 18,710₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 2h 19m jugadas · 20,800₽ · vidas en el juego: 29",
   "team": [
     {
-      "nickname": "Izan",
-      "species": "Marshtomp",
-      "level": 21,
+      "nickname": "Calaca",
+      "species": "Shelmet",
+      "level": 20,
       "types": [
-        "Agua",
-        "Tierra"
+        "Bicho"
       ],
-      "ability": "Teracaparazón",
-      "nature": "Seria",
-      "item": "Sana Ball",
+      "ability": "Aura Feérica",
+      "nature": "Grosera",
+      "item": "",
       "shiny": false,
       "moves": [
-        "Chispa",
-        "Relajo",
-        "Tajo Metralla",
-        "Puño Jet"
+        "Cuerno Certero",
+        "A Defender",
+        "Rodillo de Púas",
+        "Mil Púas Tóxicas"
       ],
       "iv": [
-        27,
-        7,
+        1,
         25,
-        3,
-        27,
-        29
+        20,
+        29,
+        29,
+        26
       ],
       "ev": [
-        8,
-        14,
+        6,
+        16,
         15,
         10,
         14,
-        17
+        16
       ],
       "abilPool": [
-        "Teracaparazón"
+        "Aura Feérica",
+        "Coraza Ira"
       ],
       "abilHidden": [
-        "Cálculo Final"
+        "Puño Invisible"
       ],
       "learnset": [
         {
-          "lvl": -1,
-          "m": "Torbellino"
-        },
-        {
-          "lvl": -1,
-          "m": "Voltiocambio"
+          "lvl": 1,
+          "m": "Cuerno Certero"
         },
         {
           "lvl": 1,
-          "m": "Púas"
+          "m": "A Defender"
         },
         {
-          "lvl": 1,
-          "m": "Puño Jet"
+          "lvl": 4,
+          "m": "Rencor"
         },
         {
-          "lvl": 1,
-          "m": "Tajo Umbrío"
+          "lvl": 8,
+          "m": "Mil Púas Tóxicas"
         },
         {
-          "lvl": 1,
-          "m": "Burbuja"
-        },
-        {
-          "lvl": 9,
-          "m": "Refuerzo"
+          "lvl": 8,
+          "m": "Pin Misil"
         },
         {
           "lvl": 12,
-          "m": "Atracción"
+          "m": "Telatrampa"
         },
         {
-          "lvl": 15,
-          "m": "Tormento"
-        },
-        {
-          "lvl": 20,
-          "m": "Chispa"
+          "lvl": 16,
+          "m": "Golpe Cabeza"
         },
         {
           "lvl": 20,
-          "m": "Arraigo"
+          "m": "Rodillo de Púas"
         },
         {
-          "lvl": 25,
-          "m": "Fertilizante"
+          "lvl": 24,
+          "m": "Aligerar"
         },
         {
-          "lvl": 25,
-          "m": "Pistola Agua"
+          "lvl": 28,
+          "m": "Brinco"
         },
         {
-          "lvl": 30,
-          "m": "Rabia"
+          "lvl": 32,
+          "m": "Corte Furia"
         },
         {
-          "lvl": 35,
-          "m": "Huesomerang"
+          "lvl": 36,
+          "m": "Pulso de Campo"
         },
         {
           "lvl": 40,
-          "m": "Última Baza"
+          "m": "Ojitos Tiernos"
         },
         {
-          "lvl": 45,
-          "m": "Zona Mágica"
+          "lvl": 44,
+          "m": "Ciclón de Hojas"
         },
         {
-          "lvl": 50,
-          "m": "Fuerza"
+          "lvl": 48,
+          "m": "Bola Sombra"
         },
         {
-          "lvl": 55,
-          "m": "Octopresa"
+          "lvl": 56,
+          "m": "Ovocuración"
         }
       ],
       "firstMoves": [
-        "Cepo",
-        "Burbuja"
+        "Cuerno Certero",
+        "A Defender",
+        "Rencor"
       ],
-      "spriteKey": "MARSHTOMP"
+      "spriteKey": "SHELMET"
     },
     {
       "nickname": "Bonifacio",
@@ -157,9 +146,9 @@
       ],
       "ev": [
         7,
-        14,
-        15,
-        9,
+        16,
+        16,
+        10,
         14,
         17
       ],
@@ -261,9 +250,9 @@
       ],
       "ev": [
         6,
-        14,
-        15,
-        9,
+        16,
+        16,
+        10,
         14,
         17
       ],
@@ -355,117 +344,128 @@
       "spriteKey": "BIBAREL"
     },
     {
-      "nickname": "Calaca",
-      "species": "Shelmet",
-      "level": 20,
+      "nickname": "Izan",
+      "species": "Marshtomp",
+      "level": 21,
       "types": [
-        "Bicho"
+        "Agua",
+        "Tierra"
       ],
-      "ability": "Aura Feérica",
-      "nature": "Grosera",
-      "item": "",
+      "ability": "Teracaparazón",
+      "nature": "Seria",
+      "item": "Sana Ball",
       "shiny": false,
       "moves": [
-        "Cuerno Certero",
-        "A Defender",
-        "Rodillo de Púas",
-        "Mil Púas Tóxicas"
+        "Chispa",
+        "Relajo",
+        "Tajo Metralla",
+        "Puño Jet"
       ],
       "iv": [
-        1,
+        27,
+        7,
         25,
-        20,
-        29,
-        29,
-        26
+        3,
+        27,
+        29
       ],
       "ev": [
-        6,
+        8,
+        16,
+        16,
+        11,
         14,
-        14,
-        9,
-        14,
-        16
+        17
       ],
       "abilPool": [
-        "Aura Feérica",
-        "Coraza Ira"
+        "Teracaparazón"
       ],
       "abilHidden": [
-        "Puño Invisible"
+        "Cálculo Final"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Cuerno Certero"
+          "lvl": -1,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": -1,
+          "m": "Voltiocambio"
         },
         {
           "lvl": 1,
-          "m": "A Defender"
+          "m": "Púas"
         },
         {
-          "lvl": 4,
-          "m": "Rencor"
+          "lvl": 1,
+          "m": "Puño Jet"
         },
         {
-          "lvl": 8,
-          "m": "Mil Púas Tóxicas"
+          "lvl": 1,
+          "m": "Tajo Umbrío"
         },
         {
-          "lvl": 8,
-          "m": "Pin Misil"
+          "lvl": 1,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 9,
+          "m": "Refuerzo"
         },
         {
           "lvl": 12,
-          "m": "Telatrampa"
+          "m": "Atracción"
         },
         {
-          "lvl": 16,
-          "m": "Golpe Cabeza"
+          "lvl": 15,
+          "m": "Tormento"
         },
         {
           "lvl": 20,
-          "m": "Rodillo de Púas"
+          "m": "Chispa"
         },
         {
-          "lvl": 24,
-          "m": "Aligerar"
+          "lvl": 20,
+          "m": "Arraigo"
         },
         {
-          "lvl": 28,
-          "m": "Brinco"
+          "lvl": 25,
+          "m": "Fertilizante"
         },
         {
-          "lvl": 32,
-          "m": "Corte Furia"
+          "lvl": 25,
+          "m": "Pistola Agua"
         },
         {
-          "lvl": 36,
-          "m": "Pulso de Campo"
+          "lvl": 30,
+          "m": "Rabia"
+        },
+        {
+          "lvl": 35,
+          "m": "Huesomerang"
         },
         {
           "lvl": 40,
-          "m": "Ojitos Tiernos"
+          "m": "Última Baza"
         },
         {
-          "lvl": 44,
-          "m": "Ciclón de Hojas"
+          "lvl": 45,
+          "m": "Zona Mágica"
         },
         {
-          "lvl": 48,
-          "m": "Bola Sombra"
+          "lvl": 50,
+          "m": "Fuerza"
         },
         {
-          "lvl": 56,
-          "m": "Ovocuración"
+          "lvl": 55,
+          "m": "Octopresa"
         }
       ],
       "firstMoves": [
-        "Cuerno Certero",
-        "A Defender",
-        "Rencor"
+        "Cepo",
+        "Burbuja"
       ],
-      "spriteKey": "SHELMET"
+      "spriteKey": "MARSHTOMP"
     },
     {
       "nickname": "Milo",
@@ -494,9 +494,9 @@
       ],
       "ev": [
         6,
-        10,
-        10,
-        6,
+        12,
+        11,
+        7,
         13,
         14
       ],
@@ -618,9 +618,9 @@
       ],
       "ev": [
         3,
-        8,
-        8,
-        2,
+        10,
+        9,
+        3,
         8,
         10
       ],
@@ -1757,15 +1757,15 @@
   ],
   "captures": [
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Marshtomp",
-      "nickname": "Izan",
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Shelmet",
+      "nickname": "Calaca",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Marshtomp"
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Shelmet"
     },
     {
       "route": "ruta_1",
@@ -1790,15 +1790,15 @@
       "mon": "Bibarel"
     },
     {
-      "route": "ruta_2_sur",
-      "where": "Ruta 2 Sur",
-      "species": "Shelmet",
-      "nickname": "Calaca",
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Marshtomp",
+      "nickname": "Izan",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 6,
-      "mon": "Shelmet"
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Marshtomp"
     },
     {
       "route": "ciudad_plateada",
@@ -1929,9 +1929,9 @@
     "bosses": {},
     "npcs": {},
     "routes": {
+      "ruta_2_sur": true,
       "ruta_1": true,
       "pueblo_paleta": true,
-      "ruta_2_sur": true,
       "ciudad_plateada": true,
       "monte_moon": true,
       "ruta_2_norte": true,
