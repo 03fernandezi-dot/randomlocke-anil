@@ -4,134 +4,144 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 3h 48m jugadas · 60,150₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 3h 50m jugadas · 60,150₽ · vidas en el juego: 29",
   "team": [
     {
-      "nickname": "Izan",
-      "species": "Marshtomp",
-      "level": 23,
+      "nickname": "Rammus",
+      "species": "Ivysaur",
+      "level": 21,
       "types": [
-        "Agua",
-        "Tierra"
+        "Planta",
+        "Veneno"
       ],
-      "ability": "Teracaparazón",
-      "nature": "Seria",
-      "item": "Seguro Fallo",
+      "ability": "Trampa Arena",
+      "nature": "Serena",
+      "item": "Toxisfera",
       "shiny": false,
       "moves": [
-        "Chispa",
-        "Relajo",
-        "Tajo Metralla",
-        "Puño Jet"
+        "Aire Afilado",
+        "Residuos",
+        "Poder Pasado",
+        "Batido"
       ],
       "iv": [
+        19,
+        21,
+        0,
         27,
-        7,
-        25,
-        3,
-        27,
-        29
+        30,
+        19
       ],
       "ev": [
-        12,
-        20,
-        18,
-        14,
-        20,
-        21
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Teracaparazón"
+        "Trampa Arena"
       ],
       "abilHidden": [
-        "Cálculo Final"
+        "Sacapecho"
       ],
       "learnset": [
         {
-          "lvl": -1,
-          "m": "Torbellino"
-        },
-        {
-          "lvl": -1,
-          "m": "Voltiocambio"
+          "lvl": 1,
+          "m": "Impactrueno"
         },
         {
           "lvl": 1,
-          "m": "Púas"
+          "m": "Sustituto"
         },
         {
           "lvl": 1,
-          "m": "Puño Jet"
+          "m": "Mandato"
         },
         {
           "lvl": 1,
-          "m": "Tajo Umbrío"
-        },
-        {
-          "lvl": 1,
-          "m": "Burbuja"
+          "m": "Punzada Rama"
         },
         {
           "lvl": 9,
-          "m": "Refuerzo"
+          "m": "Látigo Cepa"
         },
         {
           "lvl": 12,
-          "m": "Atracción"
+          "m": "Campo de Hierba"
         },
         {
           "lvl": 15,
-          "m": "Tormento"
+          "m": "Cuchillada"
+        },
+        {
+          "lvl": 15,
+          "m": "Paralizador"
         },
         {
           "lvl": 20,
-          "m": "Chispa"
+          "m": "Residuos"
         },
         {
-          "lvl": 20,
-          "m": "Arraigo"
-        },
-        {
-          "lvl": 25,
-          "m": "Fertilizante"
+          "lvl": 23,
+          "m": "Fitoimpulso"
         },
         {
           "lvl": 25,
-          "m": "Pistola Agua"
+          "m": "Telépata"
+        },
+        {
+          "lvl": 25,
+          "m": "Mimético"
         },
         {
           "lvl": 30,
-          "m": "Rabia"
+          "m": "Pulso de Campo"
         },
         {
           "lvl": 35,
-          "m": "Huesomerang"
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 36,
+          "m": "Esporagodón"
         },
         {
           "lvl": 40,
-          "m": "Última Baza"
+          "m": "Barrera Espinosa"
         },
         {
           "lvl": 45,
-          "m": "Zona Mágica"
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 45,
+          "m": "Ofrenda"
         },
         {
           "lvl": 50,
-          "m": "Fuerza"
-        },
-        {
-          "lvl": 55,
-          "m": "Octopresa"
+          "m": "Telaraña"
         }
       ],
       "tmMoves": [
-        "Hidrochorro"
+        "Agarre",
+        "Aire Afilado",
+        "Batido",
+        "Corpulencia",
+        "Giro Mortífero",
+        "Ida y Vuelta",
+        "Poder Pasado",
+        "Señuelo",
+        "Sorpresa"
       ],
       "firstMoves": [
-        "Cepo",
-        "Burbuja"
+        "Campo de Hierba",
+        "Cuchillada",
+        "Paralizador",
+        "Residuos"
       ],
-      "spriteKey": "MARSHTOMP"
+      "spriteKey": "IVYSAUR"
     },
     {
       "nickname": "Calaca",
@@ -618,130 +628,131 @@
       "spriteKey": "SWIRLIX"
     },
     {
-      "nickname": "Rammus",
-      "species": "Ivysaur",
-      "level": 21,
+      "nickname": "Izan",
+      "species": "Marshtomp",
+      "level": 23,
       "types": [
-        "Planta",
-        "Veneno"
+        "Agua",
+        "Tierra"
       ],
-      "ability": "Trampa Arena",
-      "nature": "Serena",
-      "item": "",
+      "ability": "Teracaparazón",
+      "nature": "Seria",
+      "item": "Seguro Fallo",
       "shiny": false,
       "moves": [
-        "Campo de Hierba",
-        "Cuchillada",
-        "Paralizador",
-        "Residuos"
+        "Chispa",
+        "Relajo",
+        "Tajo Metralla",
+        "Puño Jet"
       ],
       "iv": [
-        19,
-        21,
-        0,
         27,
-        30,
-        19
+        7,
+        25,
+        3,
+        27,
+        29
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        12,
+        20,
+        18,
+        14,
+        20,
+        21
       ],
       "abilPool": [
-        "Trampa Arena"
+        "Teracaparazón"
       ],
       "abilHidden": [
-        "Sacapecho"
+        "Cálculo Final"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Impactrueno"
+          "lvl": -1,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": -1,
+          "m": "Voltiocambio"
         },
         {
           "lvl": 1,
-          "m": "Sustituto"
+          "m": "Púas"
         },
         {
           "lvl": 1,
-          "m": "Mandato"
+          "m": "Puño Jet"
         },
         {
           "lvl": 1,
-          "m": "Punzada Rama"
+          "m": "Tajo Umbrío"
+        },
+        {
+          "lvl": 1,
+          "m": "Burbuja"
         },
         {
           "lvl": 9,
-          "m": "Látigo Cepa"
+          "m": "Refuerzo"
         },
         {
           "lvl": 12,
-          "m": "Campo de Hierba"
+          "m": "Atracción"
         },
         {
           "lvl": 15,
-          "m": "Cuchillada"
-        },
-        {
-          "lvl": 15,
-          "m": "Paralizador"
+          "m": "Tormento"
         },
         {
           "lvl": 20,
-          "m": "Residuos"
+          "m": "Chispa"
         },
         {
-          "lvl": 23,
-          "m": "Fitoimpulso"
-        },
-        {
-          "lvl": 25,
-          "m": "Telépata"
+          "lvl": 20,
+          "m": "Arraigo"
         },
         {
           "lvl": 25,
-          "m": "Mimético"
+          "m": "Fertilizante"
+        },
+        {
+          "lvl": 25,
+          "m": "Pistola Agua"
         },
         {
           "lvl": 30,
-          "m": "Pulso de Campo"
+          "m": "Rabia"
         },
         {
           "lvl": 35,
-          "m": "Hoja Mágica"
-        },
-        {
-          "lvl": 36,
-          "m": "Esporagodón"
+          "m": "Huesomerang"
         },
         {
           "lvl": 40,
-          "m": "Barrera Espinosa"
+          "m": "Última Baza"
         },
         {
           "lvl": 45,
-          "m": "Tóxico"
-        },
-        {
-          "lvl": 45,
-          "m": "Ofrenda"
+          "m": "Zona Mágica"
         },
         {
           "lvl": 50,
-          "m": "Telaraña"
+          "m": "Fuerza"
+        },
+        {
+          "lvl": 55,
+          "m": "Octopresa"
         }
       ],
-      "firstMoves": [
-        "Campo de Hierba",
-        "Cuchillada",
-        "Paralizador",
-        "Residuos"
+      "tmMoves": [
+        "Hidrochorro"
       ],
-      "spriteKey": "IVYSAUR"
+      "firstMoves": [
+        "Cepo",
+        "Burbuja"
+      ],
+      "spriteKey": "MARSHTOMP"
     }
   ],
   "box": [
@@ -2138,15 +2149,15 @@
   ],
   "captures": [
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Marshtomp",
-      "nickname": "Izan",
+      "route": "ruta_5",
+      "where": "Ruta 5",
+      "species": "Ivysaur",
+      "nickname": "Rammus",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Marshtomp"
+      "category": "salvaje",
+      "level": 21,
+      "mon": "Ivysaur"
     },
     {
       "route": "ruta_2_sur",
@@ -2193,15 +2204,15 @@
       "mon": "Swirlix"
     },
     {
-      "route": "ruta_5",
-      "where": "Ruta 5",
-      "species": "Ivysaur",
-      "nickname": "Rammus",
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Marshtomp",
+      "nickname": "Izan",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 21,
-      "mon": "Ivysaur"
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Marshtomp"
     },
     {
       "route": "monte_moon",
@@ -2344,10 +2355,10 @@
     "bosses": {},
     "npcs": {},
     "routes": {
+      "ruta_5": true,
       "ruta_2_sur": true,
       "ciudad_celeste": true,
       "pueblo_paleta": true,
-      "ruta_5": true,
       "monte_moon": true,
       "ruta_2_norte": true,
       "ciudad_plateada": true,
@@ -2546,12 +2557,6 @@
       {
         "id": "EVERSTONE",
         "name": "Piedra Eterna",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "TOXICORB",
-        "name": "Toxisfera",
         "qty": 1,
         "pocket": "Objetos"
       },
