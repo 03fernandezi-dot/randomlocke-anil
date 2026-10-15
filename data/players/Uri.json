@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 3h 58m jugadas · 63,400₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 3h 59m jugadas · 63,400₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Rammus",
       "species": "Ivysaur",
-      "level": 22,
+      "level": 23,
       "types": [
         "Planta",
         "Veneno"
@@ -19,7 +19,7 @@
       "item": "Toxisfera",
       "shiny": false,
       "moves": [
-        "Aire Afilado",
+        "Fitoimpulso",
         "Residuos",
         "Poder Pasado",
         "Batido"
@@ -33,7 +33,7 @@
         19
       ],
       "ev": [
-        2,
+        3,
         2,
         2,
         3,
@@ -169,7 +169,7 @@
         26
       ],
       "ev": [
-        12,
+        13,
         22,
         19,
         16,
@@ -282,7 +282,7 @@
         17
       ],
       "ev": [
-        3,
+        4,
         4,
         2,
         4,
@@ -408,7 +408,7 @@
         24
       ],
       "ev": [
-        12,
+        13,
         22,
         20,
         16,
@@ -528,7 +528,7 @@
         31
       ],
       "ev": [
-        9,
+        10,
         16,
         13,
         9,
@@ -654,7 +654,7 @@
         29
       ],
       "ev": [
-        14,
+        15,
         22,
         20,
         17,
@@ -2030,6 +2030,96 @@
         "Bomba Ácida"
       ],
       "spriteKey": "CHERUBI"
+    },
+    {
+      "nickname": "Gracia",
+      "species": "Happiny",
+      "level": 18,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Motor Hadrónico",
+      "nature": "Alegre",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Electrotela",
+        "Doble Equipo",
+        "Sol Matinal",
+        "Plumerazo"
+      ],
+      "iv": [
+        11,
+        13,
+        26,
+        4,
+        7,
+        10
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Pareja de Baile",
+        "Motor Hadrónico"
+      ],
+      "abilHidden": [
+        "Ritmo Propio"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Piñón Auxiliar"
+        },
+        {
+          "lvl": 1,
+          "m": "Abrecaminos"
+        },
+        {
+          "lvl": 1,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 4,
+          "m": "Brecha Negra"
+        },
+        {
+          "lvl": 5,
+          "m": "Llave Vital"
+        },
+        {
+          "lvl": 8,
+          "m": "Electrotela"
+        },
+        {
+          "lvl": 9,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 12,
+          "m": "Sol Matinal"
+        },
+        {
+          "lvl": 16,
+          "m": "Plumerazo"
+        },
+        {
+          "lvl": 20,
+          "m": "Espejo"
+        }
+      ],
+      "firstMoves": [
+        "Electrotela",
+        "Doble Equipo",
+        "Sol Matinal",
+        "Plumerazo"
+      ],
+      "spriteKey": "HAPPINY"
     }
   ],
   "graveyard": [
@@ -2336,6 +2426,17 @@
       "mon": "Cherubi"
     },
     {
+      "route": "ruta_6",
+      "where": "Ruta 6",
+      "species": "Happiny",
+      "nickname": "Gracia",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 18,
+      "mon": "Happiny"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -2368,9 +2469,9 @@
       "ciudad_verde": true,
       "ruta_20": true,
       "ruta_1": true,
+      "ruta_6": true,
       "ruta_22": true,
       "ruta_3": true,
-      "ruta_6": true,
       "ruta_21": true
     },
     "items": {},
@@ -2389,7 +2490,8 @@
       "ciudad_verde": true,
       "ruta_20": true,
       "ciudad_celeste": true,
-      "ruta_5": true
+      "ruta_5": true,
+      "ruta_6": true
     },
     "switches": [
       48,
@@ -2488,6 +2590,7 @@
       "MT99",
       "Nerviosfera",
       "Parte Amarilla",
+      "Perla",
       "Piedra Eterna",
       "Piedra Lunar",
       "Piedra Oval",
@@ -2595,6 +2698,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "PEARL",
+        "name": "Perla",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "BOLDMINT",
         "name": "Menta Osada",
         "qty": 1,
@@ -2651,7 +2760,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 15,
+        "qty": 14,
         "pocket": "Poké Balls"
       },
       {
