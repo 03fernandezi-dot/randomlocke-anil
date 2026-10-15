@@ -4,19 +4,19 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 3h 13m jugadas · 20,960₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 3h 18m jugadas · 25,510₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Mariposon",
       "species": "Butterfree",
-      "level": 22,
+      "level": 23,
       "types": [
         "Bicho",
         "Volador"
       ],
       "ability": "Mano Rápida",
       "nature": "Huraña",
-      "item": "",
+      "item": "Incienso Marino",
       "shiny": false,
       "moves": [
         "Aire Afilado",
@@ -34,11 +34,11 @@
       ],
       "ev": [
         11,
-        20,
+        21,
         9,
-        11,
+        12,
         9,
-        19
+        22
       ],
       "abilPool": [
         "Mano Rápida"
@@ -150,14 +150,14 @@
     {
       "nickname": "Bicharraco",
       "species": "Golett",
-      "level": 22,
+      "level": 23,
       "types": [
         "Tierra",
         "Fantasma"
       ],
       "ability": "Piel Seca",
       "nature": "Firme",
-      "item": "Incienso Marino",
+      "item": "Chaleco Asalto",
       "shiny": false,
       "moves": [
         "Tenaza",
@@ -175,11 +175,11 @@
       ],
       "ev": [
         11,
-        17,
+        18,
         9,
-        12,
+        13,
         7,
-        13
+        16
       ],
       "abilPool": [
         "Primer Auxilio",
@@ -278,139 +278,132 @@
       "spriteKey": "GOLETT"
     },
     {
-      "nickname": "Motoraton",
-      "species": "Quilava",
-      "level": 21,
+      "nickname": "Shawn",
+      "species": "Flaaffy",
+      "level": 23,
       "types": [
-        "Fuego"
+        "Eléctrico"
       ],
-      "ability": "Herbívoro",
-      "nature": "Grosera",
+      "ability": "Audaz",
+      "nature": "Serena",
       "item": "",
       "shiny": false,
       "moves": [
-        "Clavo Cañón",
-        "Infortunio",
-        "Viraje",
-        "Puño Mareo"
+        "Carga Parábola",
+        "Viento Aciago",
+        "Shuriken de Agua",
+        "Levitón"
       ],
       "iv": [
-        15,
-        16,
+        10,
+        4,
+        31,
         1,
-        14,
-        25,
-        2
+        11,
+        19
       ],
       "ev": [
-        2,
-        3,
-        2,
-        0,
-        1,
-        0
+        8,
+        17,
+        8,
+        13,
+        9,
+        21
       ],
       "abilPool": [
-        "Herbívoro"
+        "Audaz"
       ],
       "abilHidden": [
-        "Cuerpo Áureo"
+        "Antibalas"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Rugido de Guerra"
+          "m": "Fisura"
         },
         {
           "lvl": 1,
-          "m": "Fachada"
+          "m": "Terratemblor"
         },
         {
-          "lvl": 1,
-          "m": "Agarrón"
+          "lvl": 6,
+          "m": "Caída Libre"
         },
         {
-          "lvl": 10,
-          "m": "Alivio"
+          "lvl": 9,
+          "m": "Carga Parábola"
         },
         {
-          "lvl": 13,
-          "m": "Conversión2"
+          "lvl": 11,
+          "m": "Sacrificio"
         },
         {
           "lvl": 16,
-          "m": "Infortunio"
+          "m": "Halloween"
         },
         {
           "lvl": 20,
-          "m": "Chirrido"
+          "m": "Espacio Raro"
         },
         {
-          "lvl": 24,
-          "m": "Canto Mortal"
+          "lvl": 22,
+          "m": "Shuriken de Agua"
         },
         {
-          "lvl": 31,
-          "m": "Embargo"
+          "lvl": 25,
+          "m": "Pikaturbo"
         },
         {
-          "lvl": 31,
-          "m": "Fuego Fatuo"
+          "lvl": 29,
+          "m": "Meteorobola"
         },
         {
-          "lvl": 35,
-          "m": "Guillotina"
+          "lvl": 34,
+          "m": "Bola Hielo"
         },
         {
-          "lvl": 42,
-          "m": "Bomba Huevo"
+          "lvl": 38,
+          "m": "Ácido Málico"
         },
         {
-          "lvl": 46,
-          "m": "Estruendo Escama"
+          "lvl": 43,
+          "m": "Calcinación"
         },
         {
-          "lvl": 53,
-          "m": "Ojos Llorosos"
+          "lvl": 47,
+          "m": "Electormenta"
         },
         {
-          "lvl": 57,
-          "m": "Ovocuración"
+          "lvl": 47,
+          "m": "Aura Magnética"
         },
         {
-          "lvl": 64,
-          "m": "Cambiapoder"
+          "lvl": 47,
+          "m": "Lanza Glacial"
         },
         {
-          "lvl": 68,
-          "m": "Megapatada"
+          "lvl": 52,
+          "m": "Voltio Cruel"
         },
         {
-          "lvl": 68,
-          "m": "Triple Golpe"
-        },
-        {
-          "lvl": 75,
-          "m": "Camaradería"
+          "lvl": 56,
+          "m": "Voltiocambio"
         }
       ],
       "tmMoves": [
         "Barrera",
         "Burbuja",
-        "Camelo",
-        "Clavo Cañón",
-        "Estrujón",
-        "Pulso de Campo",
-        "Represión Metal",
+        "Danza Lunar",
+        "Golpe Roca",
+        "Piñón Auxiliar",
         "Velo Sagrado"
       ],
       "firstMoves": [
-        "Viraje",
-        "Otra Vez",
-        "Puño Mareo",
-        "Canon"
+        "Viento Aciago",
+        "Tajo Acuático",
+        "Deslome"
       ],
-      "spriteKey": "QUILAVA"
+      "spriteKey": "FLAAFFY"
     },
     {
       "nickname": "Hedwig",
@@ -440,11 +433,11 @@
       ],
       "ev": [
         9,
-        20,
+        21,
         7,
-        6,
+        7,
         9,
-        18
+        21
       ],
       "abilPool": [
         "Gran Encanto"
@@ -540,7 +533,7 @@
     {
       "nickname": "Hazard",
       "species": "Linoone (Galar)",
-      "level": 22,
+      "level": 23,
       "types": [
         "Siniestro",
         "Normal"
@@ -565,11 +558,11 @@
       ],
       "ev": [
         5,
-        10,
+        11,
         6,
-        2,
+        3,
         1,
-        3
+        6
       ],
       "abilPool": [
         "Energía Eólica",
@@ -672,7 +665,7 @@
     {
       "nickname": "Envape",
       "species": "Wartortle",
-      "level": 22,
+      "level": 23,
       "types": [
         "Agua"
       ],
@@ -696,11 +689,11 @@
       ],
       "ev": [
         5,
-        9,
+        10,
         5,
-        2,
+        3,
         1,
-        3
+        6
       ],
       "abilPool": [
         "Sal Purificadora"
@@ -1792,132 +1785,139 @@
       "spriteKey": "FIDOUGH"
     },
     {
-      "nickname": "Shawn",
-      "species": "Flaaffy",
-      "level": 22,
+      "nickname": "Motoraton",
+      "species": "Quilava",
+      "level": 21,
       "types": [
-        "Eléctrico"
+        "Fuego"
       ],
-      "ability": "Audaz",
-      "nature": "Serena",
+      "ability": "Herbívoro",
+      "nature": "Grosera",
       "item": "",
       "shiny": false,
       "moves": [
-        "Carga Parábola",
-        "Viento Aciago",
-        "Shuriken de Agua",
-        "Levitón"
+        "Clavo Cañón",
+        "Infortunio",
+        "Viraje",
+        "Puño Mareo"
       ],
       "iv": [
-        10,
-        4,
-        31,
+        15,
+        16,
         1,
-        11,
-        19
+        14,
+        25,
+        2
       ],
       "ev": [
-        8,
-        16,
-        8,
-        12,
-        9,
-        18
+        2,
+        3,
+        2,
+        0,
+        1,
+        0
       ],
       "abilPool": [
-        "Audaz"
+        "Herbívoro"
       ],
       "abilHidden": [
-        "Antibalas"
+        "Cuerpo Áureo"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Fisura"
+          "m": "Rugido de Guerra"
         },
         {
           "lvl": 1,
-          "m": "Terratemblor"
+          "m": "Fachada"
         },
         {
-          "lvl": 6,
-          "m": "Caída Libre"
+          "lvl": 1,
+          "m": "Agarrón"
         },
         {
-          "lvl": 9,
-          "m": "Carga Parábola"
+          "lvl": 10,
+          "m": "Alivio"
         },
         {
-          "lvl": 11,
-          "m": "Sacrificio"
+          "lvl": 13,
+          "m": "Conversión2"
         },
         {
           "lvl": 16,
-          "m": "Halloween"
+          "m": "Infortunio"
         },
         {
           "lvl": 20,
-          "m": "Espacio Raro"
+          "m": "Chirrido"
         },
         {
-          "lvl": 22,
-          "m": "Shuriken de Agua"
+          "lvl": 24,
+          "m": "Canto Mortal"
         },
         {
-          "lvl": 25,
-          "m": "Pikaturbo"
+          "lvl": 31,
+          "m": "Embargo"
         },
         {
-          "lvl": 29,
-          "m": "Meteorobola"
+          "lvl": 31,
+          "m": "Fuego Fatuo"
         },
         {
-          "lvl": 34,
-          "m": "Bola Hielo"
+          "lvl": 35,
+          "m": "Guillotina"
         },
         {
-          "lvl": 38,
-          "m": "Ácido Málico"
+          "lvl": 42,
+          "m": "Bomba Huevo"
         },
         {
-          "lvl": 43,
-          "m": "Calcinación"
+          "lvl": 46,
+          "m": "Estruendo Escama"
         },
         {
-          "lvl": 47,
-          "m": "Electormenta"
+          "lvl": 53,
+          "m": "Ojos Llorosos"
         },
         {
-          "lvl": 47,
-          "m": "Aura Magnética"
+          "lvl": 57,
+          "m": "Ovocuración"
         },
         {
-          "lvl": 47,
-          "m": "Lanza Glacial"
+          "lvl": 64,
+          "m": "Cambiapoder"
         },
         {
-          "lvl": 52,
-          "m": "Voltio Cruel"
+          "lvl": 68,
+          "m": "Megapatada"
         },
         {
-          "lvl": 56,
-          "m": "Voltiocambio"
+          "lvl": 68,
+          "m": "Triple Golpe"
+        },
+        {
+          "lvl": 75,
+          "m": "Camaradería"
         }
       ],
       "tmMoves": [
         "Barrera",
         "Burbuja",
-        "Danza Lunar",
-        "Golpe Roca",
-        "Piñón Auxiliar",
+        "Camelo",
+        "Clavo Cañón",
+        "Estrujón",
+        "Pulso de Campo",
+        "Represión Metal",
         "Velo Sagrado"
       ],
       "firstMoves": [
-        "Viento Aciago",
-        "Tajo Acuático",
-        "Deslome"
+        "Viraje",
+        "Otra Vez",
+        "Puño Mareo",
+        "Canon"
       ],
-      "spriteKey": "FLAAFFY"
+      "spriteKey": "QUILAVA"
     }
   ],
   "graveyard": [
@@ -2193,15 +2193,15 @@
       "mon": "Golett"
     },
     {
-      "route": "ruta_20",
-      "where": "Ruta 20",
-      "species": "Quilava",
-      "nickname": "Motoraton",
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Flaaffy",
+      "nickname": "Shawn",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 19,
-      "mon": "Quilava"
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Flaaffy"
     },
     {
       "route": "ciudad_plateada",
@@ -2336,15 +2336,15 @@
       "mon": "Fidough"
     },
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Flaaffy",
-      "nickname": "Shawn",
+      "route": "ruta_20",
+      "where": "Ruta 20",
+      "species": "Quilava",
+      "nickname": "Motoraton",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Flaaffy"
+      "category": "salvaje",
+      "level": 19,
+      "mon": "Quilava"
     },
     {
       "route": "ruta_1",
@@ -2371,14 +2371,14 @@
   ],
   "progress": {
     "gyms": {
-      "gym1": true
+      "gym1": true,
+      "gym2": true
     },
     "bosses": {},
     "npcs": {},
     "routes": {
       "bosque_verde": true,
       "ruta_22": true,
-      "ruta_20": true,
       "ciudad_plateada": true,
       "ciudad_celeste": true,
       "ciudad_verde": true,
@@ -2387,6 +2387,7 @@
       "ruta_2_norte": true,
       "monte_moon_exterior": true,
       "ruta_4": true,
+      "ruta_20": true,
       "ruta_1": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
@@ -2441,10 +2442,12 @@
       182,
       183,
       184,
+      185,
       323,
       334
     ],
     "foundItems": [
+      "Aecapsula",
       "Baya Algama",
       "Baya Aricoc",
       "Baya Grana",
@@ -2452,6 +2455,7 @@
       "Baya Tamate",
       "Botón Escape",
       "Cenizas Sagradas",
+      "Chaleco Asalto",
       "Cinto Recio",
       "Cleverfeather",
       "Competi Ball",
@@ -2475,11 +2479,13 @@
       "MT07",
       "MT102",
       "MT123",
+      "MT13",
       "MT19",
       "MT38",
       "MT39",
       "MT43",
       "MT47",
+      "MT51",
       "MT55",
       "MT83",
       "MT85",
@@ -2667,6 +2673,18 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "AECapsula",
+        "name": "Aecapsula",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "CENIZASSAGRADAS",
+        "name": "Cenizas Sagradas",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 8,
@@ -2703,6 +2721,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM13",
+        "name": "MT13",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM19",
         "name": "MT19",
         "qty": 1,
@@ -2729,6 +2753,12 @@
       {
         "id": "TM47",
         "name": "MT47",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM51",
+        "name": "MT51",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
