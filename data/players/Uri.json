@@ -4,473 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 2h 19m jugadas · 20,800₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 3h 26m jugadas · 28,200₽ · vidas en el juego: 29",
   "team": [
-    {
-      "nickname": "Calaca",
-      "species": "Shelmet",
-      "level": 20,
-      "types": [
-        "Bicho"
-      ],
-      "ability": "Aura Feérica",
-      "nature": "Grosera",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Cuerno Certero",
-        "A Defender",
-        "Rodillo de Púas",
-        "Mil Púas Tóxicas"
-      ],
-      "iv": [
-        1,
-        25,
-        20,
-        29,
-        29,
-        26
-      ],
-      "ev": [
-        6,
-        16,
-        15,
-        10,
-        14,
-        16
-      ],
-      "abilPool": [
-        "Aura Feérica",
-        "Coraza Ira"
-      ],
-      "abilHidden": [
-        "Puño Invisible"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Cuerno Certero"
-        },
-        {
-          "lvl": 1,
-          "m": "A Defender"
-        },
-        {
-          "lvl": 4,
-          "m": "Rencor"
-        },
-        {
-          "lvl": 8,
-          "m": "Mil Púas Tóxicas"
-        },
-        {
-          "lvl": 8,
-          "m": "Pin Misil"
-        },
-        {
-          "lvl": 12,
-          "m": "Telatrampa"
-        },
-        {
-          "lvl": 16,
-          "m": "Golpe Cabeza"
-        },
-        {
-          "lvl": 20,
-          "m": "Rodillo de Púas"
-        },
-        {
-          "lvl": 24,
-          "m": "Aligerar"
-        },
-        {
-          "lvl": 28,
-          "m": "Brinco"
-        },
-        {
-          "lvl": 32,
-          "m": "Corte Furia"
-        },
-        {
-          "lvl": 36,
-          "m": "Pulso de Campo"
-        },
-        {
-          "lvl": 40,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 44,
-          "m": "Ciclón de Hojas"
-        },
-        {
-          "lvl": 48,
-          "m": "Bola Sombra"
-        },
-        {
-          "lvl": 56,
-          "m": "Ovocuración"
-        }
-      ],
-      "firstMoves": [
-        "Cuerno Certero",
-        "A Defender",
-        "Rencor"
-      ],
-      "spriteKey": "SHELMET"
-    },
-    {
-      "nickname": "Bonifacio",
-      "species": "Cherubi",
-      "level": 20,
-      "types": [
-        "Planta"
-      ],
-      "ability": "Piel Tétrica",
-      "nature": "Dócil",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Bruma Explosiva",
-        "Giro Fuego",
-        "Bomba Ácida",
-        "Hierba Lazo"
-      ],
-      "iv": [
-        13,
-        12,
-        16,
-        0,
-        20,
-        6
-      ],
-      "ev": [
-        7,
-        16,
-        16,
-        10,
-        14,
-        17
-      ],
-      "abilPool": [
-        "Piel Tétrica"
-      ],
-      "abilHidden": [],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Bruma Explosiva"
-        },
-        {
-          "lvl": 1,
-          "m": "Giro Fuego"
-        },
-        {
-          "lvl": 5,
-          "m": "Bomba Ácida"
-        },
-        {
-          "lvl": 10,
-          "m": "Hierba Lazo"
-        },
-        {
-          "lvl": 15,
-          "m": "Fijar Blanco"
-        },
-        {
-          "lvl": 20,
-          "m": "Descanso"
-        },
-        {
-          "lvl": 22,
-          "m": "Sonámbulo"
-        },
-        {
-          "lvl": 26,
-          "m": "Imitación"
-        },
-        {
-          "lvl": 30,
-          "m": "Guardia Baja"
-        },
-        {
-          "lvl": 35,
-          "m": "Despejar"
-        },
-        {
-          "lvl": 40,
-          "m": "Rencor"
-        },
-        {
-          "lvl": 40,
-          "m": "Llama Final"
-        },
-        {
-          "lvl": 45,
-          "m": "Acua Cola"
-        }
-      ],
-      "tmMoves": [
-        "Ladrón",
-        "Tajo Metralla",
-        "Venganza"
-      ],
-      "firstMoves": [
-        "Bruma Explosiva",
-        "Giro Fuego",
-        "Bomba Ácida"
-      ],
-      "spriteKey": "CHERUBI"
-    },
-    {
-      "nickname": "Pau",
-      "species": "Bibarel",
-      "level": 20,
-      "types": [
-        "Normal",
-        "Agua"
-      ],
-      "ability": "Irascible",
-      "nature": "Amable",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Viento Plata",
-        "Asalto Barrera",
-        "Doble Equipo",
-        "Marcha Espectral"
-      ],
-      "iv": [
-        19,
-        23,
-        8,
-        18,
-        3,
-        24
-      ],
-      "ev": [
-        6,
-        16,
-        16,
-        10,
-        14,
-        17
-      ],
-      "abilPool": [
-        "Irascible",
-        "Cola Armadura"
-      ],
-      "abilHidden": [
-        "Mutatipo"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Sellar"
-        },
-        {
-          "lvl": 1,
-          "m": "Beso Dulce"
-        },
-        {
-          "lvl": 1,
-          "m": "Barrera"
-        },
-        {
-          "lvl": 1,
-          "m": "Rompecoraza"
-        },
-        {
-          "lvl": 5,
-          "m": "Reflejo"
-        },
-        {
-          "lvl": 9,
-          "m": "Eco Voz"
-        },
-        {
-          "lvl": 13,
-          "m": "Furia"
-        },
-        {
-          "lvl": 18,
-          "m": "Asalto Barrera"
-        },
-        {
-          "lvl": 23,
-          "m": "Bola Voltio"
-        },
-        {
-          "lvl": 23,
-          "m": "Envidia ardiente"
-        },
-        {
-          "lvl": 28,
-          "m": "Nitrocarga"
-        },
-        {
-          "lvl": 33,
-          "m": "Brecha Negra"
-        },
-        {
-          "lvl": 38,
-          "m": "Fortaleza"
-        },
-        {
-          "lvl": 43,
-          "m": "Hilo Venenoso"
-        },
-        {
-          "lvl": 48,
-          "m": "Esfuerzo"
-        },
-        {
-          "lvl": 53,
-          "m": "Leafitobombas"
-        },
-        {
-          "lvl": 58,
-          "m": "Arremetida"
-        }
-      ],
-      "tmMoves": [
-        "Poder Pasado"
-      ],
-      "firstMoves": [
-        "Viento Plata",
-        "Pulso de Campo",
-        "Doble Equipo"
-      ],
-      "spriteKey": "BIBAREL"
-    },
-    {
-      "nickname": "Izan",
-      "species": "Marshtomp",
-      "level": 21,
-      "types": [
-        "Agua",
-        "Tierra"
-      ],
-      "ability": "Teracaparazón",
-      "nature": "Seria",
-      "item": "Sana Ball",
-      "shiny": false,
-      "moves": [
-        "Chispa",
-        "Relajo",
-        "Tajo Metralla",
-        "Puño Jet"
-      ],
-      "iv": [
-        27,
-        7,
-        25,
-        3,
-        27,
-        29
-      ],
-      "ev": [
-        8,
-        16,
-        16,
-        11,
-        14,
-        17
-      ],
-      "abilPool": [
-        "Teracaparazón"
-      ],
-      "abilHidden": [
-        "Cálculo Final"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Torbellino"
-        },
-        {
-          "lvl": -1,
-          "m": "Voltiocambio"
-        },
-        {
-          "lvl": 1,
-          "m": "Púas"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Jet"
-        },
-        {
-          "lvl": 1,
-          "m": "Tajo Umbrío"
-        },
-        {
-          "lvl": 1,
-          "m": "Burbuja"
-        },
-        {
-          "lvl": 9,
-          "m": "Refuerzo"
-        },
-        {
-          "lvl": 12,
-          "m": "Atracción"
-        },
-        {
-          "lvl": 15,
-          "m": "Tormento"
-        },
-        {
-          "lvl": 20,
-          "m": "Chispa"
-        },
-        {
-          "lvl": 20,
-          "m": "Arraigo"
-        },
-        {
-          "lvl": 25,
-          "m": "Fertilizante"
-        },
-        {
-          "lvl": 25,
-          "m": "Pistola Agua"
-        },
-        {
-          "lvl": 30,
-          "m": "Rabia"
-        },
-        {
-          "lvl": 35,
-          "m": "Huesomerang"
-        },
-        {
-          "lvl": 40,
-          "m": "Última Baza"
-        },
-        {
-          "lvl": 45,
-          "m": "Zona Mágica"
-        },
-        {
-          "lvl": 50,
-          "m": "Fuerza"
-        },
-        {
-          "lvl": 55,
-          "m": "Octopresa"
-        }
-      ],
-      "firstMoves": [
-        "Cepo",
-        "Burbuja"
-      ],
-      "spriteKey": "MARSHTOMP"
-    },
     {
       "nickname": "Milo",
       "species": "Croconaw",
-      "level": 21,
+      "level": 23,
       "types": [
         "Agua"
       ],
@@ -493,12 +32,12 @@
         8
       ],
       "ev": [
-        6,
-        12,
-        11,
-        7,
+        9,
+        14,
         13,
-        14
+        9,
+        15,
+        17
       ],
       "abilPool": [
         "Cola Surf"
@@ -592,9 +131,470 @@
       "spriteKey": "CROCONAW"
     },
     {
+      "nickname": "Bonifacio",
+      "species": "Cherubi",
+      "level": 22,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Piel Tétrica",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Bruma Explosiva",
+        "Giro Fuego",
+        "Bomba Ácida",
+        "Hierba Lazo"
+      ],
+      "iv": [
+        13,
+        12,
+        16,
+        0,
+        20,
+        6
+      ],
+      "ev": [
+        10,
+        18,
+        18,
+        12,
+        16,
+        20
+      ],
+      "abilPool": [
+        "Piel Tétrica"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Bruma Explosiva"
+        },
+        {
+          "lvl": 1,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 5,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 10,
+          "m": "Hierba Lazo"
+        },
+        {
+          "lvl": 15,
+          "m": "Fijar Blanco"
+        },
+        {
+          "lvl": 20,
+          "m": "Descanso"
+        },
+        {
+          "lvl": 22,
+          "m": "Sonámbulo"
+        },
+        {
+          "lvl": 26,
+          "m": "Imitación"
+        },
+        {
+          "lvl": 30,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 35,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 40,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 40,
+          "m": "Llama Final"
+        },
+        {
+          "lvl": 45,
+          "m": "Acua Cola"
+        }
+      ],
+      "tmMoves": [
+        "Ladrón",
+        "Tajo Metralla",
+        "Venganza"
+      ],
+      "firstMoves": [
+        "Bruma Explosiva",
+        "Giro Fuego",
+        "Bomba Ácida"
+      ],
+      "spriteKey": "CHERUBI"
+    },
+    {
+      "nickname": "Calaca",
+      "species": "Shelmet",
+      "level": 22,
+      "types": [
+        "Bicho"
+      ],
+      "ability": "Aura Feérica",
+      "nature": "Grosera",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cuerno Certero",
+        "A Defender",
+        "Rodillo de Púas",
+        "Mil Púas Tóxicas"
+      ],
+      "iv": [
+        1,
+        25,
+        20,
+        29,
+        29,
+        26
+      ],
+      "ev": [
+        9,
+        18,
+        17,
+        12,
+        16,
+        19
+      ],
+      "abilPool": [
+        "Aura Feérica",
+        "Coraza Ira"
+      ],
+      "abilHidden": [
+        "Puño Invisible"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 1,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 4,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 8,
+          "m": "Mil Púas Tóxicas"
+        },
+        {
+          "lvl": 8,
+          "m": "Pin Misil"
+        },
+        {
+          "lvl": 12,
+          "m": "Telatrampa"
+        },
+        {
+          "lvl": 16,
+          "m": "Golpe Cabeza"
+        },
+        {
+          "lvl": 20,
+          "m": "Rodillo de Púas"
+        },
+        {
+          "lvl": 24,
+          "m": "Aligerar"
+        },
+        {
+          "lvl": 28,
+          "m": "Brinco"
+        },
+        {
+          "lvl": 32,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 36,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 40,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 44,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 48,
+          "m": "Bola Sombra"
+        },
+        {
+          "lvl": 56,
+          "m": "Ovocuración"
+        }
+      ],
+      "firstMoves": [
+        "Cuerno Certero",
+        "A Defender",
+        "Rencor"
+      ],
+      "spriteKey": "SHELMET"
+    },
+    {
+      "nickname": "Izan",
+      "species": "Marshtomp",
+      "level": 23,
+      "types": [
+        "Agua",
+        "Tierra"
+      ],
+      "ability": "Teracaparazón",
+      "nature": "Seria",
+      "item": "Sana Ball",
+      "shiny": false,
+      "moves": [
+        "Chispa",
+        "Relajo",
+        "Tajo Metralla",
+        "Puño Jet"
+      ],
+      "iv": [
+        27,
+        7,
+        25,
+        3,
+        27,
+        29
+      ],
+      "ev": [
+        11,
+        18,
+        18,
+        13,
+        16,
+        20
+      ],
+      "abilPool": [
+        "Teracaparazón"
+      ],
+      "abilHidden": [
+        "Cálculo Final"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": -1,
+          "m": "Voltiocambio"
+        },
+        {
+          "lvl": 1,
+          "m": "Púas"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 1,
+          "m": "Tajo Umbrío"
+        },
+        {
+          "lvl": 1,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 9,
+          "m": "Refuerzo"
+        },
+        {
+          "lvl": 12,
+          "m": "Atracción"
+        },
+        {
+          "lvl": 15,
+          "m": "Tormento"
+        },
+        {
+          "lvl": 20,
+          "m": "Chispa"
+        },
+        {
+          "lvl": 20,
+          "m": "Arraigo"
+        },
+        {
+          "lvl": 25,
+          "m": "Fertilizante"
+        },
+        {
+          "lvl": 25,
+          "m": "Pistola Agua"
+        },
+        {
+          "lvl": 30,
+          "m": "Rabia"
+        },
+        {
+          "lvl": 35,
+          "m": "Huesomerang"
+        },
+        {
+          "lvl": 40,
+          "m": "Última Baza"
+        },
+        {
+          "lvl": 45,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 50,
+          "m": "Fuerza"
+        },
+        {
+          "lvl": 55,
+          "m": "Octopresa"
+        }
+      ],
+      "firstMoves": [
+        "Cepo",
+        "Burbuja"
+      ],
+      "spriteKey": "MARSHTOMP"
+    },
+    {
+      "nickname": "Pau",
+      "species": "Bibarel",
+      "level": 22,
+      "types": [
+        "Normal",
+        "Agua"
+      ],
+      "ability": "Irascible",
+      "nature": "Amable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Viento Plata",
+        "Asalto Barrera",
+        "Doble Equipo",
+        "Marcha Espectral"
+      ],
+      "iv": [
+        19,
+        23,
+        8,
+        18,
+        3,
+        24
+      ],
+      "ev": [
+        9,
+        18,
+        18,
+        12,
+        16,
+        20
+      ],
+      "abilPool": [
+        "Irascible",
+        "Cola Armadura"
+      ],
+      "abilHidden": [
+        "Mutatipo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 1,
+          "m": "Beso Dulce"
+        },
+        {
+          "lvl": 1,
+          "m": "Barrera"
+        },
+        {
+          "lvl": 1,
+          "m": "Rompecoraza"
+        },
+        {
+          "lvl": 5,
+          "m": "Reflejo"
+        },
+        {
+          "lvl": 9,
+          "m": "Eco Voz"
+        },
+        {
+          "lvl": 13,
+          "m": "Furia"
+        },
+        {
+          "lvl": 18,
+          "m": "Asalto Barrera"
+        },
+        {
+          "lvl": 23,
+          "m": "Bola Voltio"
+        },
+        {
+          "lvl": 23,
+          "m": "Envidia ardiente"
+        },
+        {
+          "lvl": 28,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 33,
+          "m": "Brecha Negra"
+        },
+        {
+          "lvl": 38,
+          "m": "Fortaleza"
+        },
+        {
+          "lvl": 43,
+          "m": "Hilo Venenoso"
+        },
+        {
+          "lvl": 48,
+          "m": "Esfuerzo"
+        },
+        {
+          "lvl": 53,
+          "m": "Leafitobombas"
+        },
+        {
+          "lvl": 58,
+          "m": "Arremetida"
+        }
+      ],
+      "tmMoves": [
+        "Poder Pasado"
+      ],
+      "firstMoves": [
+        "Viento Plata",
+        "Pulso de Campo",
+        "Doble Equipo"
+      ],
+      "spriteKey": "BIBAREL"
+    },
+    {
       "nickname": "Matao",
       "species": "Swirlix",
-      "level": 20,
+      "level": 22,
       "types": [
         "Hada"
       ],
@@ -617,12 +617,12 @@
         31
       ],
       "ev": [
-        3,
+        6,
+        12,
+        11,
+        5,
         10,
-        9,
-        3,
-        8,
-        10
+        13
       ],
       "abilPool": [
         "Cura Lluvia",
@@ -1638,6 +1638,121 @@
         "Campo Eléctrico"
       ],
       "spriteKey": "GOTHITA"
+    },
+    {
+      "nickname": "Filipino",
+      "species": "Spheal",
+      "level": 18,
+      "types": [
+        "Hielo",
+        "Agua"
+      ],
+      "ability": "Abalorio Debacle",
+      "nature": "Fuerte",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Piñón Auxiliar",
+        "Nieve Polvo",
+        "Pistola Agua",
+        "Acua Jet"
+      ],
+      "iv": [
+        26,
+        3,
+        21,
+        13,
+        9,
+        11
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Piel Eléctrica",
+        "Abalorio Debacle"
+      ],
+      "abilHidden": [
+        "Gas Reactivo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Golpes Furia"
+        },
+        {
+          "lvl": 1,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 4,
+          "m": "Hidrochorro"
+        },
+        {
+          "lvl": 8,
+          "m": "Piñón Auxiliar"
+        },
+        {
+          "lvl": 12,
+          "m": "Nieve Polvo"
+        },
+        {
+          "lvl": 13,
+          "m": "Pistola Agua"
+        },
+        {
+          "lvl": 16,
+          "m": "Acua Jet"
+        },
+        {
+          "lvl": 20,
+          "m": "Cepo"
+        },
+        {
+          "lvl": 24,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 28,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 33,
+          "m": "Irreverencia"
+        },
+        {
+          "lvl": 36,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": 40,
+          "m": "Masa Cósmica"
+        },
+        {
+          "lvl": 44,
+          "m": "Rayo Fusión"
+        },
+        {
+          "lvl": 48,
+          "m": "Triple Axel"
+        },
+        {
+          "lvl": 52,
+          "m": "Trampa Venenosa"
+        }
+      ],
+      "firstMoves": [
+        "Piñón Auxiliar",
+        "Nieve Polvo",
+        "Pistola Agua",
+        "Acua Jet"
+      ],
+      "spriteKey": "SPHEAL"
     }
   ],
   "graveyard": [
@@ -1757,15 +1872,15 @@
   ],
   "captures": [
     {
-      "route": "ruta_2_sur",
-      "where": "Ruta 2 Sur",
-      "species": "Shelmet",
-      "nickname": "Calaca",
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Croconaw",
+      "nickname": "Milo",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 6,
-      "mon": "Shelmet"
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Croconaw"
     },
     {
       "route": "ruta_1",
@@ -1779,15 +1894,15 @@
       "mon": "Cherubi"
     },
     {
-      "route": "pueblo_paleta",
-      "where": "Pueblo Paleta",
-      "species": "Bibarel",
-      "nickname": "Pau",
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Shelmet",
+      "nickname": "Calaca",
       "shiny": false,
       "status": "captured",
-      "category": "ciudad",
-      "level": 5,
-      "mon": "Bibarel"
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Shelmet"
     },
     {
       "route": "",
@@ -1801,15 +1916,15 @@
       "mon": "Marshtomp"
     },
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Croconaw",
-      "nickname": "Milo",
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Bibarel",
+      "nickname": "Pau",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
-      "level": 10,
-      "mon": "Croconaw"
+      "level": 5,
+      "mon": "Bibarel"
     },
     {
       "route": "",
@@ -1911,6 +2026,17 @@
       "mon": "Gothita"
     },
     {
+      "route": "ruta_20",
+      "where": "Ruta 20",
+      "species": "Spheal",
+      "nickname": "Filipino",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 18,
+      "mon": "Spheal"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -1929,20 +2055,21 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ruta_2_sur": true,
-      "ruta_1": true,
-      "pueblo_paleta": true,
       "ciudad_plateada": true,
+      "ruta_1": true,
+      "ruta_2_sur": true,
+      "pueblo_paleta": true,
       "monte_moon": true,
       "ruta_2_norte": true,
       "bosque_verde": true,
       "monte_moon_exterior": true,
       "ruta_4": true,
       "ciudad_verde": true,
+      "ruta_20": true,
       "ruta_22": true,
       "ruta_3": true,
       "ciudad_celeste": true,
-      "ruta_20": true
+      "ruta_21": true
     },
     "items": {},
     "encounters": {
@@ -1957,7 +2084,8 @@
       "monte_moon": true,
       "monte_moon_exterior": true,
       "ruta_4": true,
-      "ciudad_verde": true
+      "ciudad_verde": true,
+      "ruta_20": true
     },
     "switches": [
       48,
@@ -1974,6 +2102,7 @@
       74,
       75,
       76,
+      80,
       110,
       112,
       113,
@@ -1995,6 +2124,7 @@
       "Acopio Ball",
       "Activaobjeto",
       "Álbum de Fotos",
+      "Antídoto",
       "Baya Ango",
       "Baya Aricoc",
       "Baya Baribá",
@@ -2028,6 +2158,8 @@
       "MT43",
       "MT61",
       "MT83",
+      "MT85",
+      "MT86",
       "MT89",
       "MT90",
       "MT92",
@@ -2043,6 +2175,7 @@
       "Reglamento",
       "Seguro Fallo",
       "Supercaña",
+      "Tabla Trueno",
       "Toxisfera",
       "Vial"
     ],
@@ -2138,6 +2271,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "ZAPPLATE",
+        "name": "Tabla Trueno",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "BOLDMINT",
         "name": "Menta Osada",
         "qty": 1,
@@ -2180,9 +2319,15 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "ANTIDOTE",
+        "name": "Antídoto",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 12,
+        "qty": 11,
         "pocket": "Poké Balls"
       },
       {
@@ -2242,6 +2387,18 @@
       {
         "id": "TM83",
         "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM85",
+        "name": "MT85",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM86",
+        "name": "MT86",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
