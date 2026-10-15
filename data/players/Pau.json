@@ -2,14 +2,14 @@
   "id": "Pau",
   "name": "Pau",
   "lives": 30,
-  "livesUsed": 2,
+  "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 3h 50m jugadas · 21,560₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 3h 53m jugadas · 26,150₽ · vidas en el juego: 26",
   "team": [
     {
       "nickname": "Mariposon",
       "species": "Butterfree",
-      "level": 26,
+      "level": 27,
       "types": [
         "Bicho",
         "Volador"
@@ -34,11 +34,11 @@
       ],
       "ev": [
         19,
-        26,
+        28,
         14,
         16,
         12,
-        28
+        30
       ],
       "abilPool": [
         "Mano Rápida"
@@ -153,7 +153,7 @@
     {
       "nickname": "Bicharraco",
       "species": "Golett",
-      "level": 26,
+      "level": 27,
       "types": [
         "Tierra",
         "Fantasma"
@@ -178,11 +178,11 @@
       ],
       "ev": [
         19,
-        23,
+        25,
         14,
         17,
         10,
-        22
+        24
       ],
       "abilPool": [
         "Primer Auxilio",
@@ -289,7 +289,7 @@
     {
       "nickname": "Shawn",
       "species": "Flaaffy",
-      "level": 26,
+      "level": 27,
       "types": [
         "Eléctrico"
       ],
@@ -313,11 +313,11 @@
       ],
       "ev": [
         16,
-        22,
+        24,
         13,
         17,
         12,
-        27
+        29
       ],
       "abilPool": [
         "Audaz"
@@ -419,7 +419,7 @@
     {
       "nickname": "Hedwig",
       "species": "Dartrix",
-      "level": 26,
+      "level": 27,
       "types": [
         "Planta",
         "Volador"
@@ -444,11 +444,11 @@
       ],
       "ev": [
         17,
-        26,
+        28,
         12,
         11,
         12,
-        27
+        29
       ],
       "abilPool": [
         "Gran Encanto"
@@ -550,7 +550,7 @@
     {
       "nickname": "Hazard",
       "species": "Linoone (Galar)",
-      "level": 26,
+      "level": 27,
       "types": [
         "Siniestro",
         "Normal"
@@ -575,11 +575,11 @@
       ],
       "ev": [
         13,
-        16,
+        18,
         11,
         7,
         4,
-        12
+        14
       ],
       "abilPool": [
         "Energía Eólica",
@@ -681,131 +681,6 @@
       ],
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10175.png",
       "spriteKey": "LINOONE_1"
-    },
-    {
-      "nickname": "Envape",
-      "species": "Wartortle",
-      "level": 26,
-      "types": [
-        "Agua"
-      ],
-      "ability": "Sal Purificadora",
-      "nature": "Huraña",
-      "item": "Seguro Debilidad",
-      "shiny": false,
-      "moves": [
-        "Clavo Cañón",
-        "Terratemblor",
-        "Arrumaco",
-        "Cambio de Marcha"
-      ],
-      "iv": [
-        3,
-        24,
-        5,
-        31,
-        25,
-        23
-      ],
-      "ev": [
-        13,
-        15,
-        10,
-        7,
-        4,
-        12
-      ],
-      "abilPool": [
-        "Sal Purificadora"
-      ],
-      "abilHidden": [
-        "Flexibilidad"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Burbuja"
-        },
-        {
-          "lvl": 1,
-          "m": "Dulce Aroma"
-        },
-        {
-          "lvl": 1,
-          "m": "Agitacola"
-        },
-        {
-          "lvl": 1,
-          "m": "Hidropulso"
-        },
-        {
-          "lvl": 1,
-          "m": "Plumerazo"
-        },
-        {
-          "lvl": 9,
-          "m": "Cola Veneno"
-        },
-        {
-          "lvl": 12,
-          "m": "Clavo Cañón"
-        },
-        {
-          "lvl": 15,
-          "m": "Cambiapoder"
-        },
-        {
-          "lvl": 20,
-          "m": "Anulación"
-        },
-        {
-          "lvl": 25,
-          "m": "Cambio de Marcha"
-        },
-        {
-          "lvl": 30,
-          "m": "Tajo Acuático"
-        },
-        {
-          "lvl": 35,
-          "m": "Pirueta Helada"
-        },
-        {
-          "lvl": 40,
-          "m": "Alivio"
-        },
-        {
-          "lvl": 45,
-          "m": "Rayo Señal"
-        },
-        {
-          "lvl": 50,
-          "m": "Giro Rápido"
-        },
-        {
-          "lvl": 50,
-          "m": "Latigazo"
-        }
-      ],
-      "tmMoves": [
-        "Asalto Barrera",
-        "Barrera",
-        "Burbuja",
-        "Clavo Cañón",
-        "Danza Aleteo",
-        "Golpe Roca",
-        "Ovocuración",
-        "Represión Metal",
-        "Sacrificio",
-        "Vendetta"
-      ],
-      "firstMoves": [
-        "Rayo Burbuja",
-        "Rayo Carga",
-        "Arrumaco",
-        "Pistola Agua"
-      ],
-      "spriteKey": "WARTORTLE"
     }
   ],
   "box": [
@@ -2546,6 +2421,134 @@
   ],
   "graveyard": [
     {
+      "nickname": "Envape",
+      "species": "Wartortle",
+      "level": 26,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Sal Purificadora",
+      "nature": "Huraña",
+      "item": "Seguro Debilidad",
+      "shiny": false,
+      "moves": [
+        "Clavo Cañón",
+        "Terratemblor",
+        "Arrumaco",
+        "Cambio de Marcha"
+      ],
+      "iv": [
+        3,
+        24,
+        5,
+        31,
+        25,
+        23
+      ],
+      "ev": [
+        13,
+        15,
+        10,
+        7,
+        4,
+        14
+      ],
+      "abilPool": [
+        "Sal Purificadora"
+      ],
+      "abilHidden": [
+        "Flexibilidad"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 1,
+          "m": "Dulce Aroma"
+        },
+        {
+          "lvl": 1,
+          "m": "Agitacola"
+        },
+        {
+          "lvl": 1,
+          "m": "Hidropulso"
+        },
+        {
+          "lvl": 1,
+          "m": "Plumerazo"
+        },
+        {
+          "lvl": 9,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 12,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 15,
+          "m": "Cambiapoder"
+        },
+        {
+          "lvl": 20,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 25,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 30,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 35,
+          "m": "Pirueta Helada"
+        },
+        {
+          "lvl": 40,
+          "m": "Alivio"
+        },
+        {
+          "lvl": 45,
+          "m": "Rayo Señal"
+        },
+        {
+          "lvl": 50,
+          "m": "Giro Rápido"
+        },
+        {
+          "lvl": 50,
+          "m": "Latigazo"
+        }
+      ],
+      "tmMoves": [
+        "Asalto Barrera",
+        "Barrera",
+        "Burbuja",
+        "Clavo Cañón",
+        "Danza Aleteo",
+        "Golpe Roca",
+        "Ovocuración",
+        "Represión Metal",
+        "Sacrificio",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Rayo Burbuja",
+        "Rayo Carga",
+        "Arrumaco",
+        "Pistola Agua"
+      ],
+      "spriteKey": "WARTORTLE",
+      "cause": "",
+      "route": "Ciudad Celeste",
+      "date": ""
+    },
+    {
       "nickname": "Partyfiesta",
       "species": "Hatenna",
       "level": 7,
@@ -2855,7 +2858,7 @@
       "species": "Wartortle",
       "nickname": "Envape",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "ciudad",
       "level": 18,
       "mon": "Wartortle"
@@ -3122,8 +3125,9 @@
       83,
       84,
       85,
-      86,
       87,
+      88,
+      89,
       110,
       112,
       113,
@@ -3185,6 +3189,7 @@
       "Menta Huraña",
       "Menta Seria",
       "Miniseta",
+      "MO Corte",
       "MO Golpe Roca",
       "Mochi Ímpetu",
       "Mochi Intelecto",
@@ -3204,6 +3209,7 @@
       "MT54",
       "MT55",
       "MT72",
+      "MT82",
       "MT83",
       "MT85",
       "MT86",
@@ -3568,6 +3574,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM82",
+        "name": "MT82",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM83",
         "name": "MT83",
         "qty": 1,
@@ -3694,8 +3706,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
@@ -3734,13 +3746,20 @@
         "name": "Bono Bici",
         "qty": 1,
         "pocket": "Objetos clave"
+      },
+      {
+        "id": "CUTITEM",
+        "name": "MO Corte",
+        "qty": 1,
+        "pocket": "Objetos clave"
       }
     ]
   },
   "deathLog": [
     "1873600814",
     "2853338953",
-    "2427181806"
+    "2427181806",
+    "2750763801"
   ],
   "revividos": 1
 }
