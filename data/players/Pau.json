@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 3h 55m jugadas · 26,150₽ · vidas en el juego: 26",
+  "notes": "Importado del save · 3h 59m jugadas · 30,650₽ · vidas en el juego: 26",
   "team": [
     {
       "nickname": "Mariposon",
@@ -34,10 +34,10 @@
       ],
       "ev": [
         19,
-        28,
+        30,
         14,
         16,
-        12,
+        14,
         30
       ],
       "abilPool": [
@@ -178,10 +178,10 @@
       ],
       "ev": [
         19,
-        25,
+        27,
         14,
         17,
-        10,
+        12,
         24
       ],
       "abilPool": [
@@ -313,10 +313,10 @@
       ],
       "ev": [
         16,
-        24,
+        26,
         13,
         17,
-        12,
+        14,
         29
       ],
       "abilPool": [
@@ -444,10 +444,10 @@
       ],
       "ev": [
         17,
-        28,
+        30,
         12,
         11,
-        12,
+        14,
         29
       ],
       "abilPool": [
@@ -575,10 +575,10 @@
       ],
       "ev": [
         13,
-        18,
+        20,
         11,
         7,
-        4,
+        6,
         14
       ],
       "abilPool": [
@@ -709,10 +709,10 @@
       ],
       "ev": [
         13,
-        15,
+        17,
         10,
         7,
-        4,
+        6,
         14
       ],
       "abilPool": [
@@ -3051,7 +3051,8 @@
   "progress": {
     "gyms": {
       "gym1": true,
-      "gym2": true
+      "gym2": true,
+      "gym3": true
     },
     "bosses": {},
     "npcs": {},
@@ -3141,6 +3142,7 @@
       183,
       184,
       185,
+      186,
       323,
       334,
       363,
@@ -3168,6 +3170,7 @@
       "Cinto Recio",
       "Cleverfeather",
       "Competi Ball",
+      "Crítico X 3",
       "Cuerda Huida",
       "Efigie Antigua",
       "Escama Dragón",
@@ -3206,7 +3209,9 @@
       "MT51",
       "MT54",
       "MT55",
+      "MT59",
       "MT72",
+      "MT73",
       "MT82",
       "MT83",
       "MT85",
@@ -3464,6 +3469,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "CENIZASSAGRADAS",
+        "name": "Cenizas Sagradas",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 22,
@@ -3566,8 +3577,20 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM59",
+        "name": "MT59",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM72",
         "name": "MT72",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM73",
+        "name": "MT73",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -3688,6 +3711,12 @@
       {
         "id": "XSPEED6",
         "name": "Velocidad X 6",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "DIREHIT3",
+        "name": "Crítico X 3",
         "qty": 1,
         "pocket": "Objetos de combate"
       },
