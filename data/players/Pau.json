@@ -4,146 +4,8 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 5h 33m jugadas · 67,480₽ · vidas en el juego: 25",
+  "notes": "Importado del save · 5h 35m jugadas · 67,480₽ · vidas en el juego: 25",
   "team": [
-    {
-      "nickname": "Sabanero",
-      "species": "Mudsdale",
-      "level": 34,
-      "types": [
-        "Tierra"
-      ],
-      "ability": "Peluche",
-      "nature": "Amable",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Hachazo Pétreo",
-        "Llave Corsé",
-        "Rueda Fuego",
-        "Llama Protectora"
-      ],
-      "iv": [
-        5,
-        24,
-        9,
-        29,
-        8,
-        0
-      ],
-      "ev": [
-        0,
-        6,
-        0,
-        0,
-        0,
-        2
-      ],
-      "abilPool": [
-        "Peluche",
-        "Albino"
-      ],
-      "abilHidden": [
-        "Baba"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Fisura"
-        },
-        {
-          "lvl": 1,
-          "m": "Viento Feérico"
-        },
-        {
-          "lvl": 1,
-          "m": "Enrosque"
-        },
-        {
-          "lvl": 1,
-          "m": "Bastión Final"
-        },
-        {
-          "lvl": 3,
-          "m": "Llama Protectora"
-        },
-        {
-          "lvl": 8,
-          "m": "Relámpago Súbito"
-        },
-        {
-          "lvl": 12,
-          "m": "Destructor"
-        },
-        {
-          "lvl": 16,
-          "m": "Fotosíntesis"
-        },
-        {
-          "lvl": 20,
-          "m": "Púas"
-        },
-        {
-          "lvl": 22,
-          "m": "Absorbefuerza"
-        },
-        {
-          "lvl": 24,
-          "m": "Asalto Barrera"
-        },
-        {
-          "lvl": 28,
-          "m": "Bofetón Lodo"
-        },
-        {
-          "lvl": 34,
-          "m": "Tragar"
-        },
-        {
-          "lvl": 40,
-          "m": "Terratemblor"
-        },
-        {
-          "lvl": 40,
-          "m": "Taladradora"
-        },
-        {
-          "lvl": 46,
-          "m": "Conjuro Funesto"
-        },
-        {
-          "lvl": 52,
-          "m": "Lanzallamas"
-        },
-        {
-          "lvl": 53,
-          "m": "Allanador Férreo"
-        }
-      ],
-      "tmMoves": [
-        "Arenas Ardientes",
-        "Barrera",
-        "Carga Parábola",
-        "Clavo Cañón",
-        "Decalcomanía",
-        "Gas Corrosivo",
-        "Granizo",
-        "Hachazo Pétreo",
-        "Llave Corsé",
-        "Represión Metal",
-        "Shuriken de Agua",
-        "Velo Sagrado",
-        "Vendetta",
-        "Viento Plata"
-      ],
-      "firstMoves": [
-        "Impresionar",
-        "Telequinesis",
-        "Represalia",
-        "Fertilizante"
-      ],
-      "spriteKey": "MUDSDALE"
-    },
     {
       "nickname": "Hazard",
       "species": "Obstagoon",
@@ -152,7 +14,7 @@
         "Siniestro",
         "Normal"
       ],
-      "ability": "",
+      "ability": "Alma Cura",
       "nature": "Activa",
       "item": "Chaleco Asalto",
       "shiny": false,
@@ -173,7 +35,7 @@
       "ev": [
         18,
         46,
-        18,
+        19,
         17,
         12,
         18
@@ -303,6 +165,144 @@
       "spriteKey": "OBSTAGOON_1"
     },
     {
+      "nickname": "Sabanero",
+      "species": "Mudsdale",
+      "level": 34,
+      "types": [
+        "Tierra"
+      ],
+      "ability": "Peluche",
+      "nature": "Amable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Hachazo Pétreo",
+        "Llave Corsé",
+        "Rueda Fuego",
+        "Llama Protectora"
+      ],
+      "iv": [
+        5,
+        24,
+        9,
+        29,
+        8,
+        0
+      ],
+      "ev": [
+        0,
+        6,
+        1,
+        0,
+        0,
+        2
+      ],
+      "abilPool": [
+        "Peluche",
+        "Albino"
+      ],
+      "abilHidden": [
+        "Baba"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Fisura"
+        },
+        {
+          "lvl": 1,
+          "m": "Viento Feérico"
+        },
+        {
+          "lvl": 1,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 1,
+          "m": "Bastión Final"
+        },
+        {
+          "lvl": 3,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 8,
+          "m": "Relámpago Súbito"
+        },
+        {
+          "lvl": 12,
+          "m": "Destructor"
+        },
+        {
+          "lvl": 16,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 20,
+          "m": "Púas"
+        },
+        {
+          "lvl": 22,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 24,
+          "m": "Asalto Barrera"
+        },
+        {
+          "lvl": 28,
+          "m": "Bofetón Lodo"
+        },
+        {
+          "lvl": 34,
+          "m": "Tragar"
+        },
+        {
+          "lvl": 40,
+          "m": "Terratemblor"
+        },
+        {
+          "lvl": 40,
+          "m": "Taladradora"
+        },
+        {
+          "lvl": 46,
+          "m": "Conjuro Funesto"
+        },
+        {
+          "lvl": 52,
+          "m": "Lanzallamas"
+        },
+        {
+          "lvl": 53,
+          "m": "Allanador Férreo"
+        }
+      ],
+      "tmMoves": [
+        "Arenas Ardientes",
+        "Barrera",
+        "Carga Parábola",
+        "Clavo Cañón",
+        "Decalcomanía",
+        "Gas Corrosivo",
+        "Granizo",
+        "Hachazo Pétreo",
+        "Llave Corsé",
+        "Represión Metal",
+        "Shuriken de Agua",
+        "Velo Sagrado",
+        "Vendetta",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Impresionar",
+        "Telequinesis",
+        "Represalia",
+        "Fertilizante"
+      ],
+      "spriteKey": "MUDSDALE"
+    },
+    {
       "nickname": "Shawn",
       "species": "Ampharos",
       "level": 35,
@@ -330,7 +330,7 @@
       "ev": [
         21,
         52,
-        20,
+        21,
         27,
         20,
         33
@@ -489,7 +489,7 @@
       "ev": [
         22,
         56,
-        19,
+        20,
         21,
         20,
         33
@@ -650,7 +650,7 @@
       "ev": [
         18,
         43,
-        17,
+        18,
         17,
         12,
         18
@@ -788,7 +788,7 @@
       "ev": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0
@@ -3399,6 +3399,128 @@
         "Fisura"
       ],
       "spriteKey": "DUGTRIO"
+    },
+    {
+      "nickname": "Titanic",
+      "species": "Bergmite",
+      "level": 30,
+      "types": [
+        "Hielo"
+      ],
+      "ability": "Funda",
+      "nature": "Audaz",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Semilladora",
+        "Atiborramiento",
+        "Escalofrío",
+        "Velo Aurora"
+      ],
+      "iv": [
+        5,
+        30,
+        25,
+        18,
+        1,
+        8
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Intimidación",
+        "Funda"
+      ],
+      "abilHidden": [
+        "Relincho Negro"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 1,
+          "m": "Geocontrol"
+        },
+        {
+          "lvl": 3,
+          "m": "Antiaéreo"
+        },
+        {
+          "lvl": 6,
+          "m": "Fanfarronear"
+        },
+        {
+          "lvl": 9,
+          "m": "Aguzar"
+        },
+        {
+          "lvl": 12,
+          "m": "Decoración"
+        },
+        {
+          "lvl": 15,
+          "m": "Dulce Aroma"
+        },
+        {
+          "lvl": 18,
+          "m": "Envidia ardiente"
+        },
+        {
+          "lvl": 20,
+          "m": "Decalcomanía"
+        },
+        {
+          "lvl": 21,
+          "m": "Acua Jet"
+        },
+        {
+          "lvl": 24,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 27,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 30,
+          "m": "Escalofrío"
+        },
+        {
+          "lvl": 30,
+          "m": "Velo Aurora"
+        },
+        {
+          "lvl": 33,
+          "m": "Paliza"
+        },
+        {
+          "lvl": 36,
+          "m": "Mundo Gélido"
+        },
+        {
+          "lvl": 39,
+          "m": "Glaceoprisma"
+        },
+        {
+          "lvl": 42,
+          "m": "Amplificador"
+        }
+      ],
+      "firstMoves": [
+        "Semilladora",
+        "Atiborramiento",
+        "Escalofrío",
+        "Velo Aurora"
+      ],
+      "spriteKey": "BERGMITE"
     }
   ],
   "graveyard": [
@@ -3804,17 +3926,6 @@
   ],
   "captures": [
     {
-      "route": "ruta_10_sur",
-      "where": "Ruta 10 Sur",
-      "species": "Mudsdale",
-      "nickname": "Sabanero",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 31,
-      "mon": "Mudsdale"
-    },
-    {
       "route": "",
       "where": "Museo Pokémon",
       "species": "Obstagoon",
@@ -3824,6 +3935,17 @@
       "category": "estatico_regalo",
       "level": 1,
       "mon": "Obstagoon"
+    },
+    {
+      "route": "ruta_10_sur",
+      "where": "Ruta 10 Sur",
+      "species": "Mudsdale",
+      "nickname": "Sabanero",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 31,
+      "mon": "Mudsdale"
     },
     {
       "route": "",
@@ -4079,6 +4201,17 @@
       "mon": "Dugtrio"
     },
     {
+      "route": "pueblo_lavanda",
+      "where": "Pueblo Lavanda",
+      "species": "Bergmite",
+      "nickname": "Titanic",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 30,
+      "mon": "Bergmite"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -4140,13 +4273,13 @@
       "ruta_3": true,
       "tunel_roca": true,
       "ruta_21": true,
+      "pueblo_lavanda": true,
       "ruta_1": true,
       "ruta_2_sur": true,
       "bosque_verde": true,
       "pueblo_paleta": true,
       "ciudad_carmin": true,
       "tunel_diglett": true,
-      "pueblo_lavanda": true,
       "torre_pokemon": true
     },
     "items": {},
@@ -4175,7 +4308,8 @@
       "ruta_10_norte": true,
       "tunel_roca": true,
       "ruta_10_sur": true,
-      "ruta_21": true
+      "ruta_21": true,
+      "pueblo_lavanda": true
     },
     "switches": [
       48,
@@ -4541,7 +4675,7 @@
       {
         "id": "AECapsula",
         "name": "Aecapsula",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -4595,7 +4729,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 17,
+        "qty": 16,
         "pocket": "Poké Balls"
       },
       {
