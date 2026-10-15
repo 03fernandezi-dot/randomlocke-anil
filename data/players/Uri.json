@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 5h 30m jugadas · 87,790₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 5h 38m jugadas · 95,620₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Izan",
       "species": "Marshtomp",
-      "level": 29,
+      "level": 31,
       "types": [
         "Agua",
         "Tierra"
@@ -34,11 +34,11 @@
       ],
       "ev": [
         19,
-        33,
+        40,
         24,
-        24,
-        25,
-        30
+        26,
+        27,
+        33
       ],
       "abilPool": [
         "Teracaparazón"
@@ -137,7 +137,7 @@
     {
       "nickname": "Pau",
       "species": "Bibarel",
-      "level": 29,
+      "level": 31,
       "types": [
         "Normal",
         "Agua"
@@ -162,11 +162,11 @@
       ],
       "ev": [
         17,
-        33,
+        40,
         24,
-        23,
         25,
-        30
+        27,
+        33
       ],
       "abilPool": [
         "Irascible",
@@ -258,7 +258,7 @@
     {
       "nickname": "Calaca",
       "species": "Shelmet",
-      "level": 29,
+      "level": 31,
       "types": [
         "Bicho"
       ],
@@ -282,11 +282,11 @@
       ],
       "ev": [
         17,
-        27,
+        34,
         19,
-        21,
         23,
-        25
+        25,
+        28
       ],
       "abilPool": [
         "Aura Feérica",
@@ -371,7 +371,7 @@
     {
       "nickname": "Rammus",
       "species": "Ivysaur",
-      "level": 29,
+      "level": 31,
       "types": [
         "Planta",
         "Veneno"
@@ -396,11 +396,11 @@
       ],
       "ev": [
         7,
-        13,
+        20,
         6,
-        10,
-        5,
-        9
+        12,
+        7,
+        12
       ],
       "abilPool": [
         "Trampa Arena"
@@ -508,7 +508,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 29,
+      "level": 30,
       "types": [
         "Fuego",
         "Psíquico"
@@ -533,11 +533,11 @@
       ],
       "ev": [
         1,
+        12,
+        4,
         5,
         4,
-        3,
-        2,
-        6
+        9
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -637,7 +637,7 @@
     {
       "nickname": "Matao",
       "species": "Slurpuff",
-      "level": 29,
+      "level": 31,
       "types": [
         "Hada"
       ],
@@ -661,11 +661,11 @@
       ],
       "ev": [
         14,
-        21,
+        28,
         13,
-        14,
-        17,
-        17
+        16,
+        19,
+        20
       ],
       "abilPool": [
         "Cuerpo Vívido",
@@ -2391,6 +2391,125 @@
       "spriteKey": "HAPPINY"
     },
     {
+      "nickname": "FrankCuesta",
+      "species": "Deerling",
+      "level": 26,
+      "types": [
+        "Normal",
+        "Planta"
+      ],
+      "ability": "Viscosidad",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Golpe Cabeza",
+        "Fijar Blanco",
+        "Moflete Estático",
+        "Alto Voltaje"
+      ],
+      "iv": [
+        20,
+        25,
+        23,
+        23,
+        19,
+        16
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Piel Celeste",
+        "Viscosidad"
+      ],
+      "abilHidden": [
+        "Firmeza"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Arrumaco"
+        },
+        {
+          "lvl": 1,
+          "m": "Hachazo Pétreo"
+        },
+        {
+          "lvl": 4,
+          "m": "Bomba Caramelo"
+        },
+        {
+          "lvl": 7,
+          "m": "Hueso Palo"
+        },
+        {
+          "lvl": 10,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 13,
+          "m": "Danza Amiga"
+        },
+        {
+          "lvl": 16,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 16,
+          "m": "Golpe Cabeza"
+        },
+        {
+          "lvl": 20,
+          "m": "Fijar Blanco"
+        },
+        {
+          "lvl": 24,
+          "m": "Moflete Estático"
+        },
+        {
+          "lvl": 24,
+          "m": "Alto Voltaje"
+        },
+        {
+          "lvl": 28,
+          "m": "Destello"
+        },
+        {
+          "lvl": 28,
+          "m": "Destructor"
+        },
+        {
+          "lvl": 32,
+          "m": "Sentencia"
+        },
+        {
+          "lvl": 41,
+          "m": "Velocidad Extrema"
+        },
+        {
+          "lvl": 42,
+          "m": "Golpe Bis"
+        },
+        {
+          "lvl": 46,
+          "m": "Furia Natural"
+        }
+      ],
+      "firstMoves": [
+        "Golpe Cabeza",
+        "Fijar Blanco",
+        "Moflete Estático",
+        "Alto Voltaje"
+      ],
+      "spriteKey": "DEERLING_2"
+    },
+    {
       "nickname": "Mataró",
       "species": "Tinkatuff",
       "level": 27,
@@ -2846,6 +2965,17 @@
       "mon": "Happiny"
     },
     {
+      "route": "ruta_9",
+      "where": "Ruta 9",
+      "species": "Deerling",
+      "nickname": "FrankCuesta",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 26,
+      "mon": "Deerling"
+    },
+    {
       "route": "ruta_15",
       "where": "Ruta 15",
       "species": "Tinkatuff",
@@ -2893,6 +3023,7 @@
       "ciudad_celeste": true,
       "ciudad_carmin": true,
       "ruta_6": true,
+      "ruta_9": true,
       "ruta_15": true,
       "ruta_22": true,
       "ruta_3": true,
@@ -2918,7 +3049,8 @@
       "ruta_6": true,
       "ciudad_carmin": true,
       "ruta_15": true,
-      "tunel_diglett": true
+      "tunel_diglett": true,
+      "ruta_9": true
     },
     "switches": [
       48,
@@ -2989,6 +3121,7 @@
       "Carburante",
       "Cenizas Sagradas",
       "Crítico X",
+      "Crítico X 2",
       "Cuchara Torcida",
       "Cuerda Huida",
       "Defensa X 2",
@@ -3025,10 +3158,12 @@
       "MT47",
       "MT51",
       "MT54",
+      "MT55",
       "MT59",
       "MT61",
       "MT72",
       "MT73",
+      "MT74",
       "MT83",
       "MT85",
       "MT86",
@@ -3050,6 +3185,7 @@
       "Poké Muñeco",
       "Porcehelado",
       "Protección X",
+      "Puerro",
       "Radar",
       "Reglamento",
       "Scapsula",
@@ -3168,12 +3304,18 @@
       {
         "id": "MACHOBRACE",
         "name": "Brazal Firme",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
         "id": "GRASSGEM",
         "name": "Gema Planta",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LEEK",
+        "name": "Puerro",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -3258,7 +3400,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 7,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
@@ -3352,6 +3494,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM55",
+        "name": "MT55",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM59",
         "name": "MT59",
         "qty": 1,
@@ -3372,6 +3520,12 @@
       {
         "id": "TM73",
         "name": "MT73",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM74",
+        "name": "MT74",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -3544,6 +3698,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "DIREHIT2",
+        "name": "Crítico X 2",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -3556,8 +3716,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
