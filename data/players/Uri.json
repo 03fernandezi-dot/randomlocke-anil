@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 3h 45m jugadas · 60,150₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 3h 48m jugadas · 60,150₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Izan",
@@ -36,8 +36,8 @@
         12,
         20,
         18,
-        13,
-        19,
+        14,
+        20,
         21
       ],
       "abilPool": [
@@ -162,8 +162,8 @@
         10,
         20,
         17,
-        12,
-        19,
+        13,
+        20,
         20
       ],
       "abilPool": [
@@ -275,8 +275,8 @@
         1,
         2,
         0,
-        0,
-        3,
+        1,
+        4,
         0
       ],
       "abilPool": [
@@ -401,8 +401,8 @@
         10,
         20,
         18,
-        12,
-        19,
+        13,
+        20,
         21
       ],
       "abilPool": [
@@ -521,8 +521,8 @@
         7,
         14,
         11,
-        5,
-        13,
+        6,
+        14,
         14
       ],
       "abilPool": [
@@ -618,107 +618,130 @@
       "spriteKey": "SWIRLIX"
     },
     {
-      "nickname": "Bonifacio",
-      "species": "Cherubi",
-      "level": 23,
+      "nickname": "Rammus",
+      "species": "Ivysaur",
+      "level": 21,
       "types": [
-        "Planta"
+        "Planta",
+        "Veneno"
       ],
-      "ability": "Piel Tétrica",
-      "nature": "Dócil",
-      "item": "Incienso Suave",
+      "ability": "Trampa Arena",
+      "nature": "Serena",
+      "item": "",
       "shiny": false,
       "moves": [
-        "Bruma Explosiva",
-        "Giro Fuego",
-        "Bomba Ácida",
-        "Hierba Lazo"
+        "Campo de Hierba",
+        "Cuchillada",
+        "Paralizador",
+        "Residuos"
       ],
       "iv": [
-        13,
-        12,
-        16,
+        19,
+        21,
         0,
-        20,
-        6
+        27,
+        30,
+        19
       ],
       "ev": [
-        11,
-        20,
-        18,
-        12,
-        19,
-        21
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Piel Tétrica"
+        "Trampa Arena"
       ],
-      "abilHidden": [],
+      "abilHidden": [
+        "Sacapecho"
+      ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Bruma Explosiva"
+          "m": "Impactrueno"
         },
         {
           "lvl": 1,
-          "m": "Giro Fuego"
+          "m": "Sustituto"
         },
         {
-          "lvl": 5,
-          "m": "Bomba Ácida"
+          "lvl": 1,
+          "m": "Mandato"
         },
         {
-          "lvl": 10,
-          "m": "Hierba Lazo"
+          "lvl": 1,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 9,
+          "m": "Látigo Cepa"
+        },
+        {
+          "lvl": 12,
+          "m": "Campo de Hierba"
         },
         {
           "lvl": 15,
-          "m": "Fijar Blanco"
+          "m": "Cuchillada"
+        },
+        {
+          "lvl": 15,
+          "m": "Paralizador"
         },
         {
           "lvl": 20,
-          "m": "Descanso"
+          "m": "Residuos"
         },
         {
-          "lvl": 22,
-          "m": "Sonámbulo"
+          "lvl": 23,
+          "m": "Fitoimpulso"
         },
         {
-          "lvl": 26,
-          "m": "Imitación"
+          "lvl": 25,
+          "m": "Telépata"
+        },
+        {
+          "lvl": 25,
+          "m": "Mimético"
         },
         {
           "lvl": 30,
-          "m": "Guardia Baja"
+          "m": "Pulso de Campo"
         },
         {
           "lvl": 35,
-          "m": "Despejar"
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 36,
+          "m": "Esporagodón"
         },
         {
           "lvl": 40,
-          "m": "Rencor"
-        },
-        {
-          "lvl": 40,
-          "m": "Llama Final"
+          "m": "Barrera Espinosa"
         },
         {
           "lvl": 45,
-          "m": "Acua Cola"
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 45,
+          "m": "Ofrenda"
+        },
+        {
+          "lvl": 50,
+          "m": "Telaraña"
         }
       ],
-      "tmMoves": [
-        "Ladrón",
-        "Tajo Metralla",
-        "Venganza"
-      ],
       "firstMoves": [
-        "Bruma Explosiva",
-        "Giro Fuego",
-        "Bomba Ácida"
+        "Campo de Hierba",
+        "Cuchillada",
+        "Paralizador",
+        "Residuos"
       ],
-      "spriteKey": "CHERUBI"
+      "spriteKey": "IVYSAUR"
     }
   ],
   "box": [
@@ -1893,6 +1916,109 @@
         "Defensa Floral"
       ],
       "spriteKey": "CROCONAW"
+    },
+    {
+      "nickname": "Bonifacio",
+      "species": "Cherubi",
+      "level": 23,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Piel Tétrica",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Bruma Explosiva",
+        "Giro Fuego",
+        "Bomba Ácida",
+        "Hierba Lazo"
+      ],
+      "iv": [
+        13,
+        12,
+        16,
+        0,
+        20,
+        6
+      ],
+      "ev": [
+        11,
+        20,
+        18,
+        13,
+        20,
+        21
+      ],
+      "abilPool": [
+        "Piel Tétrica"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Bruma Explosiva"
+        },
+        {
+          "lvl": 1,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 5,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 10,
+          "m": "Hierba Lazo"
+        },
+        {
+          "lvl": 15,
+          "m": "Fijar Blanco"
+        },
+        {
+          "lvl": 20,
+          "m": "Descanso"
+        },
+        {
+          "lvl": 22,
+          "m": "Sonámbulo"
+        },
+        {
+          "lvl": 26,
+          "m": "Imitación"
+        },
+        {
+          "lvl": 30,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 35,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 40,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 40,
+          "m": "Llama Final"
+        },
+        {
+          "lvl": 45,
+          "m": "Acua Cola"
+        }
+      ],
+      "tmMoves": [
+        "Ladrón",
+        "Tajo Metralla",
+        "Venganza"
+      ],
+      "firstMoves": [
+        "Bruma Explosiva",
+        "Giro Fuego",
+        "Bomba Ácida"
+      ],
+      "spriteKey": "CHERUBI"
     }
   ],
   "graveyard": [
@@ -2067,15 +2193,15 @@
       "mon": "Swirlix"
     },
     {
-      "route": "ruta_1",
-      "where": "Ruta 1",
-      "species": "Cherubi",
-      "nickname": "Bonifacio",
+      "route": "ruta_5",
+      "where": "Ruta 5",
+      "species": "Ivysaur",
+      "nickname": "Rammus",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 5,
-      "mon": "Cherubi"
+      "level": 21,
+      "mon": "Ivysaur"
     },
     {
       "route": "monte_moon",
@@ -2188,6 +2314,17 @@
       "mon": "Croconaw"
     },
     {
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Cherubi",
+      "nickname": "Bonifacio",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 5,
+      "mon": "Cherubi"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -2210,7 +2347,7 @@
       "ruta_2_sur": true,
       "ciudad_celeste": true,
       "pueblo_paleta": true,
-      "ruta_1": true,
+      "ruta_5": true,
       "monte_moon": true,
       "ruta_2_norte": true,
       "ciudad_plateada": true,
@@ -2219,6 +2356,7 @@
       "ruta_4": true,
       "ciudad_verde": true,
       "ruta_20": true,
+      "ruta_1": true,
       "ruta_22": true,
       "ruta_3": true,
       "ruta_21": true
@@ -2238,7 +2376,8 @@
       "ruta_4": true,
       "ciudad_verde": true,
       "ruta_20": true,
-      "ciudad_celeste": true
+      "ciudad_celeste": true,
+      "ruta_5": true
     },
     "switches": [
       48,
@@ -2285,12 +2424,14 @@
       "Baya Ango",
       "Baya Aricoc",
       "Baya Baribá",
+      "Baya Gonlan",
       "Baya Lagro",
       "Baya Meloc",
       "Bola de Nieve",
       "Bola Luminosa",
       "Carburante",
       "Cenizas Sagradas",
+      "Crítico X",
       "Cuchara Torcida",
       "Cuerda Huida",
       "Defensa X 2",
@@ -2308,6 +2449,7 @@
       "Miniseta",
       "MO Golpe Roca",
       "MT06",
+      "MT101",
       "MT102",
       "MT103",
       "MT109",
@@ -2438,6 +2580,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "LAXINCENSE",
+        "name": "Incienso Suave",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "BOLDMINT",
         "name": "Menta Osada",
         "qty": 1,
@@ -2494,7 +2642,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 16,
+        "qty": 15,
         "pocket": "Poké Balls"
       },
       {
@@ -2630,6 +2778,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM101",
+        "name": "MT101",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM102",
         "name": "MT102",
         "qty": 1,
@@ -2672,6 +2826,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "GANLONBERRY",
+        "name": "Baya Gonlan",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "APICOTBERRY",
         "name": "Baya Aricoc",
         "qty": 1,
@@ -2692,6 +2852,12 @@
       {
         "id": "XDEFENSE2",
         "name": "Defensa X 2",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "DIREHIT",
+        "name": "Crítico X",
         "qty": 1,
         "pocket": "Objetos de combate"
       },
