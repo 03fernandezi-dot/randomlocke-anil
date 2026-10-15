@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 3h 26m jugadas · 28,200₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 3h 29m jugadas · 28,200₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Milo",
@@ -37,7 +37,7 @@
         13,
         9,
         15,
-        17
+        18
       ],
       "abilPool": [
         "Cola Surf"
@@ -161,7 +161,7 @@
         18,
         12,
         16,
-        20
+        21
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -264,7 +264,7 @@
         17,
         12,
         16,
-        19
+        20
       ],
       "abilPool": [
         "Aura Feérica",
@@ -378,7 +378,7 @@
         18,
         13,
         16,
-        20
+        21
       ],
       "abilPool": [
         "Teracaparazón"
@@ -502,7 +502,7 @@
         18,
         12,
         16,
-        20
+        21
       ],
       "abilPool": [
         "Irascible",
@@ -622,7 +622,7 @@
         11,
         5,
         10,
-        13
+        14
       ],
       "abilPool": [
         "Cura Lluvia",
@@ -1753,6 +1753,123 @@
         "Acua Jet"
       ],
       "spriteKey": "SPHEAL"
+    },
+    {
+      "nickname": "Nescafé",
+      "species": "Magby",
+      "level": 17,
+      "types": [
+        "Fuego"
+      ],
+      "ability": "Olor Persistente",
+      "nature": "Alegre",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Anticipo",
+        "Fuego Fatuo",
+        "Lanzarrocas",
+        "Barrera"
+      ],
+      "iv": [
+        28,
+        5,
+        31,
+        0,
+        19,
+        17
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Olor Persistente"
+      ],
+      "abilHidden": [
+        "Cambio Color"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Pikaturbo"
+        },
+        {
+          "lvl": 1,
+          "m": "Danza Triunfal"
+        },
+        {
+          "lvl": 4,
+          "m": "Golpe Calor"
+        },
+        {
+          "lvl": 8,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 12,
+          "m": "Anticipo"
+        },
+        {
+          "lvl": 12,
+          "m": "Fuego Fatuo"
+        },
+        {
+          "lvl": 15,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 16,
+          "m": "Barrera"
+        },
+        {
+          "lvl": 20,
+          "m": "Daño Secreto"
+        },
+        {
+          "lvl": 22,
+          "m": "Estímulo"
+        },
+        {
+          "lvl": 24,
+          "m": "Colmillo Ígneo"
+        },
+        {
+          "lvl": 28,
+          "m": "Finta"
+        },
+        {
+          "lvl": 32,
+          "m": "Amago"
+        },
+        {
+          "lvl": 36,
+          "m": "Sol Matinal"
+        },
+        {
+          "lvl": 40,
+          "m": "Vasta Fuerza"
+        },
+        {
+          "lvl": 44,
+          "m": "Reserva"
+        },
+        {
+          "lvl": 48,
+          "m": "Salpicadura"
+        }
+      ],
+      "firstMoves": [
+        "Anticipo",
+        "Fuego Fatuo",
+        "Lanzarrocas",
+        "Barrera"
+      ],
+      "spriteKey": "MAGBY"
     }
   ],
   "graveyard": [
@@ -2037,6 +2154,17 @@
       "mon": "Spheal"
     },
     {
+      "route": "ciudad_celeste",
+      "where": "Ciudad Celeste",
+      "species": "Magby",
+      "nickname": "Nescafé",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 17,
+      "mon": "Magby"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -2066,9 +2194,9 @@
       "ruta_4": true,
       "ciudad_verde": true,
       "ruta_20": true,
+      "ciudad_celeste": true,
       "ruta_22": true,
       "ruta_3": true,
-      "ciudad_celeste": true,
       "ruta_21": true
     },
     "items": {},
@@ -2085,7 +2213,8 @@
       "monte_moon_exterior": true,
       "ruta_4": true,
       "ciudad_verde": true,
-      "ruta_20": true
+      "ruta_20": true,
+      "ciudad_celeste": true
     },
     "switches": [
       48,
@@ -2328,13 +2457,13 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 11,
+        "qty": 7,
         "pocket": "Poké Balls"
       },
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 17,
+        "qty": 11,
         "pocket": "Poké Balls"
       },
       {
