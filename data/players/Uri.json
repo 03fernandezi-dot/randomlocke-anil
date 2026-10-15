@@ -4,17 +4,17 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 4h 57m jugadas · 63,000₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 5h 3m jugadas · 63,000₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Mataró",
-      "species": "Tinkatink",
-      "level": 22,
+      "species": "Tinkatuff",
+      "level": 25,
       "types": [
         "Hada",
         "Acero"
       ],
-      "ability": "Mudar",
+      "ability": "Clorofila",
       "nature": "Rara",
       "item": "",
       "shiny": false,
@@ -41,11 +41,11 @@
         0
       ],
       "abilPool": [
-        "Acometida",
-        "Mudar"
+        "Don Floral",
+        "Clorofila"
       ],
       "abilHidden": [
-        "Detonación"
+        "Piel Helada"
       ],
       "learnset": [
         {
@@ -54,63 +54,63 @@
         },
         {
           "lvl": 1,
-          "m": "Tumba Rocas"
+          "m": "Reducción"
         },
         {
           "lvl": 5,
-          "m": "Golpe Roca"
-        },
-        {
-          "lvl": 8,
-          "m": "Arañazo"
-        },
-        {
-          "lvl": 11,
-          "m": "Danza Lluvia"
-        },
-        {
-          "lvl": 14,
-          "m": "Conversión"
-        },
-        {
-          "lvl": 17,
-          "m": "Geocontrol"
-        },
-        {
-          "lvl": 21,
-          "m": "Bramido Dragón"
-        },
-        {
-          "lvl": 24,
-          "m": "Electrotela"
-        },
-        {
-          "lvl": 27,
-          "m": "Beso Dulce"
-        },
-        {
-          "lvl": 31,
-          "m": "Anclaje"
-        },
-        {
-          "lvl": 35,
           "m": "Voz Cautivadora"
         },
         {
+          "lvl": 8,
+          "m": "Furia Natural"
+        },
+        {
+          "lvl": 11,
+          "m": "Cambio de Cancha"
+        },
+        {
+          "lvl": 14,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 17,
+          "m": "Furia"
+        },
+        {
+          "lvl": 21,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 24,
+          "m": "Gota Vital"
+        },
+        {
+          "lvl": 27,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 31,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 35,
+          "m": "Giro Mortífero"
+        },
+        {
           "lvl": 39,
-          "m": "Garra Metal"
+          "m": "Alud"
         },
         {
           "lvl": 43,
-          "m": "Proliferación"
+          "m": "Viento Carámbano"
         },
         {
           "lvl": 47,
-          "m": "Vendetta"
+          "m": "Represión Metal"
         },
         {
           "lvl": 52,
-          "m": "Empujón"
+          "m": "Decoración"
         }
       ],
       "firstMoves": [
@@ -119,12 +119,12 @@
         "Geocontrol",
         "Bramido Dragón"
       ],
-      "spriteKey": "TINKATINK"
+      "spriteKey": "TINKATUFF"
     },
     {
       "nickname": "Gracia",
       "species": "Happiny",
-      "level": 22,
+      "level": 25,
       "types": [
         "Normal"
       ],
@@ -620,7 +620,7 @@
     {
       "nickname": "Roger",
       "species": "Frillish",
-      "level": 16,
+      "level": 23,
       "types": [
         "Agua",
         "Fantasma"
@@ -631,7 +631,7 @@
       "shiny": false,
       "moves": [
         "Plegaria Vital",
-        "Día de Pago",
+        "Tajo Umbrío",
         "Doble Patada",
         "Disparo Lodo"
       ],
@@ -2599,13 +2599,13 @@
     {
       "route": "ruta_15",
       "where": "Ruta 15",
-      "species": "Tinkatink",
+      "species": "Tinkatuff",
       "nickname": "Mataró",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 22,
-      "mon": "Tinkatink"
+      "mon": "Tinkatuff"
     },
     {
       "route": "ruta_6",
@@ -3125,7 +3125,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 176,
+        "qty": 163,
         "pocket": "Medicinas"
       },
       {
