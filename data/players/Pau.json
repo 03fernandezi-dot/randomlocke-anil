@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 3h 53m jugadas · 26,150₽ · vidas en el juego: 26",
+  "notes": "Importado del save · 3h 55m jugadas · 26,150₽ · vidas en el juego: 26",
   "team": [
     {
       "nickname": "Mariposon",
       "species": "Butterfree",
-      "level": 27,
+      "level": 29,
       "types": [
         "Bicho",
         "Volador"
@@ -153,7 +153,7 @@
     {
       "nickname": "Bicharraco",
       "species": "Golett",
-      "level": 27,
+      "level": 29,
       "types": [
         "Tierra",
         "Fantasma"
@@ -289,7 +289,7 @@
     {
       "nickname": "Shawn",
       "species": "Flaaffy",
-      "level": 27,
+      "level": 29,
       "types": [
         "Eléctrico"
       ],
@@ -419,7 +419,7 @@
     {
       "nickname": "Hedwig",
       "species": "Dartrix",
-      "level": 27,
+      "level": 29,
       "types": [
         "Planta",
         "Volador"
@@ -550,7 +550,7 @@
     {
       "nickname": "Hazard",
       "species": "Linoone (Galar)",
-      "level": 27,
+      "level": 29,
       "types": [
         "Siniestro",
         "Normal"
@@ -685,7 +685,7 @@
     {
       "nickname": "Envape",
       "species": "Wartortle",
-      "level": 26,
+      "level": 29,
       "types": [
         "Agua"
       ],
@@ -3169,6 +3169,7 @@
       "Cleverfeather",
       "Competi Ball",
       "Cuerda Huida",
+      "Efigie Antigua",
       "Escama Dragón",
       "Fósil Garra",
       "Fósil Hélix",
@@ -3349,6 +3350,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "RELICSTATUE",
+        "name": "Efigie Antigua",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "LONELYMINT",
         "name": "Menta Huraña",
         "qty": 1,
@@ -3369,7 +3376,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 957,
+        "qty": 944,
         "pocket": "Medicinas"
       },
       {
