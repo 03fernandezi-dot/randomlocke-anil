@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 3h 31m jugadas · 30,960₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 3h 34m jugadas · 28,960₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Hedwig",
@@ -37,7 +37,7 @@
         24,
         10,
         7,
-        10,
+        11,
         23
       ],
       "abilPool": [
@@ -166,7 +166,7 @@
         21,
         12,
         13,
-        8,
+        9,
         18
       ],
       "abilPool": [
@@ -299,7 +299,7 @@
         20,
         11,
         13,
-        10,
+        11,
         23
       ],
       "abilPool": [
@@ -430,7 +430,7 @@
         24,
         12,
         12,
-        10,
+        11,
         24
       ],
       "abilPool": [
@@ -572,7 +572,7 @@
         14,
         9,
         3,
-        2,
+        3,
         8
       ],
       "abilPool": [
@@ -705,7 +705,7 @@
         13,
         8,
         3,
-        2,
+        3,
         8
       ],
       "abilPool": [
@@ -2168,6 +2168,125 @@
         "Remolino"
       ],
       "spriteKey": "EEVEE"
+    },
+    {
+      "nickname": "Piano",
+      "species": "Ledyba",
+      "level": 22,
+      "types": [
+        "Bicho",
+        "Volador"
+      ],
+      "ability": "Ensañamiento",
+      "nature": "Firme",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Picadura",
+        "Rayo Carga",
+        "Despejar",
+        "Paisaje Nevado"
+      ],
+      "iv": [
+        17,
+        27,
+        12,
+        19,
+        12,
+        7
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Ensañamiento",
+        "Espada Debacle"
+      ],
+      "abilHidden": [
+        "Aura Feérica"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Hueso Palo"
+        },
+        {
+          "lvl": 5,
+          "m": "Deslizamiento"
+        },
+        {
+          "lvl": 8,
+          "m": "Polvo Explosivo"
+        },
+        {
+          "lvl": 9,
+          "m": "Danza Aleteo"
+        },
+        {
+          "lvl": 11,
+          "m": "Viento Plata"
+        },
+        {
+          "lvl": 12,
+          "m": "Desarrollo"
+        },
+        {
+          "lvl": 12,
+          "m": "Espejo"
+        },
+        {
+          "lvl": 12,
+          "m": "Telatrampa"
+        },
+        {
+          "lvl": 15,
+          "m": "Picadura"
+        },
+        {
+          "lvl": 19,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 22,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 22,
+          "m": "Paisaje Nevado"
+        },
+        {
+          "lvl": 26,
+          "m": "Ojos Llorosos"
+        },
+        {
+          "lvl": 29,
+          "m": "Bastión Final"
+        },
+        {
+          "lvl": 33,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 36,
+          "m": "Lengüetazo"
+        },
+        {
+          "lvl": 40,
+          "m": "Luz Aniquiladora"
+        }
+      ],
+      "firstMoves": [
+        "Picadura",
+        "Rayo Carga",
+        "Despejar",
+        "Paisaje Nevado"
+      ],
+      "spriteKey": "LEDYBA"
     }
   ],
   "graveyard": [
@@ -2619,6 +2738,17 @@
       "mon": "Eevee"
     },
     {
+      "route": "ciudad_carmin",
+      "where": "Ciudad Carmín",
+      "species": "Ledyba",
+      "nickname": "Piano",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 22,
+      "mon": "Ledyba"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -2662,10 +2792,10 @@
       "ruta_20": true,
       "ruta_5": true,
       "ruta_6": true,
+      "ciudad_carmin": true,
       "ruta_1": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
-      "ciudad_carmin": true,
       "ruta_21": true
     },
     "items": {},
@@ -2685,7 +2815,8 @@
       "ciudad_celeste": true,
       "ruta_20": true,
       "ruta_5": true,
-      "ruta_6": true
+      "ruta_6": true,
+      "ciudad_carmin": true
     },
     "switches": [
       48,
@@ -2706,6 +2837,7 @@
       81,
       82,
       83,
+      84,
       110,
       112,
       113,
@@ -2722,7 +2854,10 @@
       184,
       185,
       323,
-      334
+      334,
+      363,
+      364,
+      365
     ],
     "foundItems": [
       "Aecapsula",
@@ -2732,6 +2867,7 @@
       "Baya Maranga",
       "Baya Perasi",
       "Baya Tamate",
+      "Bono Bici",
       "Botón Escape",
       "Cenizas Sagradas",
       "Chaleco Asalto",
@@ -2764,6 +2900,7 @@
       "MT123",
       "MT13",
       "MT19",
+      "MT21",
       "MT38",
       "MT39",
       "MT43",
@@ -2771,9 +2908,11 @@
       "MT47",
       "MT51",
       "MT55",
+      "MT72",
       "MT83",
       "MT85",
       "MT86",
+      "MT87",
       "MT89",
       "MT90",
       "Pesa Recia",
@@ -2782,6 +2921,7 @@
       "Rapid Ball",
       "Real Plata",
       "Reglamento",
+      "Roca Calor",
       "Scapsula",
       "Seguro Debilidad",
       "Servicio Raro",
@@ -2899,6 +3039,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "HEATROCK",
+        "name": "Roca Calor",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "LONELYMINT",
         "name": "Menta Huraña",
         "qty": 1,
@@ -2997,7 +3143,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 5,
+        "qty": 4,
         "pocket": "Poké Balls"
       },
       {
@@ -3039,6 +3185,12 @@
       {
         "id": "TM19",
         "name": "MT19",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM21",
+        "name": "MT21",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -3085,6 +3237,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM72",
+        "name": "MT72",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM83",
         "name": "MT83",
         "qty": 1,
@@ -3099,6 +3257,12 @@
       {
         "id": "TM86",
         "name": "MT86",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM87",
+        "name": "MT87",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -3219,6 +3383,12 @@
       {
         "id": "EGGHATCHER",
         "name": "Incubadora",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "BONOBICI",
+        "name": "Bono Bici",
         "qty": 1,
         "pocket": "Objetos clave"
       }
