@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 4h 56m jugadas · 63,000₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 4h 57m jugadas · 63,000₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Mataró",
@@ -124,7 +124,7 @@
     {
       "nickname": "Gracia",
       "species": "Happiny",
-      "level": 18,
+      "level": 22,
       "types": [
         "Normal"
       ],
@@ -3125,7 +3125,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 180,
+        "qty": 176,
         "pocket": "Medicinas"
       },
       {
