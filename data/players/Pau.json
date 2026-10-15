@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 2h 52m jugadas · 10,280₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 2h 54m jugadas · 11,470₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Calamardo",
@@ -36,9 +36,9 @@
         9,
         14,
         5,
-        10,
+        11,
         8,
-        16
+        17
       ],
       "abilPool": [
         "Espada Debacle",
@@ -144,7 +144,7 @@
     {
       "nickname": "Bicharraco",
       "species": "Golett",
-      "level": 19,
+      "level": 20,
       "types": [
         "Tierra",
         "Fantasma"
@@ -171,9 +171,9 @@
         8,
         10,
         5,
-        10,
+        11,
         6,
-        10
+        11
       ],
       "abilPool": [
         "Primer Auxilio",
@@ -301,9 +301,9 @@
         8,
         13,
         5,
-        9,
+        10,
         8,
-        16
+        17
       ],
       "abilPool": [
         "Mano Rápida"
@@ -442,9 +442,9 @@
         6,
         13,
         3,
-        4,
+        5,
         8,
-        15
+        16
       ],
       "abilPool": [
         "Gran Encanto"
@@ -567,9 +567,9 @@
         2,
         3,
         2,
+        1,
         0,
-        0,
-        0
+        1
       ],
       "abilPool": [
         "Energía Eólica",
@@ -698,9 +698,9 @@
         2,
         2,
         1,
+        1,
         0,
-        0,
-        0
+        1
       ],
       "abilPool": [
         "Sal Purificadora"
@@ -2239,7 +2239,8 @@
       "monte_moon_exterior": true,
       "ruta_4": true,
       "ruta_1": true,
-      "pueblo_paleta": true
+      "pueblo_paleta": true,
+      "ruta_20": true
     },
     "items": {},
     "encounters": {
