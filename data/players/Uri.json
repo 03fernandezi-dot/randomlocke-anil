@@ -4,234 +4,132 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 3h 29m jugadas · 28,200₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 3h 35m jugadas · 52,800₽ · vidas en el juego: 29",
   "team": [
     {
-      "nickname": "Milo",
-      "species": "Croconaw",
-      "level": 23,
+      "nickname": "Nescafé",
+      "species": "Magby",
+      "level": 17,
       "types": [
-        "Agua"
+        "Fuego"
       ],
-      "ability": "Cola Surf",
-      "nature": "Huraña",
+      "ability": "Olor Persistente",
+      "nature": "Alegre",
       "item": "",
       "shiny": false,
       "moves": [
-        "Golpe Roca",
-        "Polvo Explosivo",
-        "Tajo Metralla",
-        "Colmillo Hielo"
+        "Pikaturbo",
+        "Fuego Fatuo",
+        "Lanzarrocas",
+        "Ida y Vuelta"
       ],
       "iv": [
-        7,
-        12,
-        3,
-        17,
-        3,
-        8
+        28,
+        5,
+        31,
+        0,
+        19,
+        17
       ],
       "ev": [
-        9,
-        14,
-        13,
-        9,
-        15,
-        18
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Cola Surf"
+        "Olor Persistente"
       ],
       "abilHidden": [
-        "Pompa"
+        "Cambio Color"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Refugio"
+          "m": "Pikaturbo"
         },
         {
           "lvl": 1,
-          "m": "Acua Aro"
+          "m": "Danza Triunfal"
         },
         {
-          "lvl": 1,
-          "m": "Estrujón"
+          "lvl": 4,
+          "m": "Golpe Calor"
         },
         {
           "lvl": 8,
-          "m": "Alud"
-        },
-        {
-          "lvl": 8,
-          "m": "Clavo Cañón"
-        },
-        {
-          "lvl": 13,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 15,
-          "m": "Descanso"
-        },
-        {
-          "lvl": 21,
-          "m": "Colmillo Hielo"
-        },
-        {
-          "lvl": 24,
-          "m": "Agua Fría"
-        },
-        {
-          "lvl": 30,
-          "m": "Maquinación"
-        },
-        {
-          "lvl": 33,
-          "m": "Salpicar"
-        },
-        {
-          "lvl": 33,
-          "m": "Empapar"
-        },
-        {
-          "lvl": 34,
-          "m": "Aerochorro"
-        },
-        {
-          "lvl": 37,
-          "m": "Carantoña"
-        },
-        {
-          "lvl": 42,
-          "m": "Pulpocañón"
-        },
-        {
-          "lvl": 47,
-          "m": "Atracción"
-        },
-        {
-          "lvl": 50,
-          "m": "Aria Burbuja"
-        },
-        {
-          "lvl": 55,
-          "m": "Gota Vital"
-        }
-      ],
-      "tmMoves": [
-        "Poder Pasado"
-      ],
-      "firstMoves": [
-        "Golpe Roca",
-        "Polvo Explosivo",
-        "Metrónomo",
-        "Defensa Floral"
-      ],
-      "spriteKey": "CROCONAW"
-    },
-    {
-      "nickname": "Bonifacio",
-      "species": "Cherubi",
-      "level": 22,
-      "types": [
-        "Planta"
-      ],
-      "ability": "Piel Tétrica",
-      "nature": "Dócil",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Bruma Explosiva",
-        "Giro Fuego",
-        "Bomba Ácida",
-        "Hierba Lazo"
-      ],
-      "iv": [
-        13,
-        12,
-        16,
-        0,
-        20,
-        6
-      ],
-      "ev": [
-        10,
-        18,
-        18,
-        12,
-        16,
-        21
-      ],
-      "abilPool": [
-        "Piel Tétrica"
-      ],
-      "abilHidden": [],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Bruma Explosiva"
-        },
-        {
-          "lvl": 1,
           "m": "Giro Fuego"
         },
         {
-          "lvl": 5,
-          "m": "Bomba Ácida"
+          "lvl": 12,
+          "m": "Anticipo"
         },
         {
-          "lvl": 10,
-          "m": "Hierba Lazo"
+          "lvl": 12,
+          "m": "Fuego Fatuo"
         },
         {
           "lvl": 15,
-          "m": "Fijar Blanco"
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 16,
+          "m": "Barrera"
         },
         {
           "lvl": 20,
-          "m": "Descanso"
+          "m": "Daño Secreto"
         },
         {
           "lvl": 22,
-          "m": "Sonámbulo"
+          "m": "Estímulo"
         },
         {
-          "lvl": 26,
-          "m": "Imitación"
+          "lvl": 24,
+          "m": "Colmillo Ígneo"
         },
         {
-          "lvl": 30,
-          "m": "Guardia Baja"
+          "lvl": 28,
+          "m": "Finta"
         },
         {
-          "lvl": 35,
-          "m": "Despejar"
+          "lvl": 32,
+          "m": "Amago"
+        },
+        {
+          "lvl": 36,
+          "m": "Sol Matinal"
         },
         {
           "lvl": 40,
-          "m": "Rencor"
+          "m": "Vasta Fuerza"
         },
         {
-          "lvl": 40,
-          "m": "Llama Final"
+          "lvl": 44,
+          "m": "Reserva"
         },
         {
-          "lvl": 45,
-          "m": "Acua Cola"
+          "lvl": 48,
+          "m": "Salpicadura"
         }
       ],
       "tmMoves": [
+        "Alivio",
+        "Beso Drenaje",
+        "Ida y Vuelta",
         "Ladrón",
-        "Tajo Metralla",
+        "Señuelo",
         "Venganza"
       ],
       "firstMoves": [
-        "Bruma Explosiva",
-        "Giro Fuego",
-        "Bomba Ácida"
+        "Anticipo",
+        "Fuego Fatuo",
+        "Lanzarrocas",
+        "Barrera"
       ],
-      "spriteKey": "CHERUBI"
+      "spriteKey": "MAGBY"
     },
     {
       "nickname": "Calaca",
@@ -356,7 +254,7 @@
       ],
       "ability": "Teracaparazón",
       "nature": "Seria",
-      "item": "Sana Ball",
+      "item": "",
       "shiny": false,
       "moves": [
         "Chispa",
@@ -715,6 +613,109 @@
         "Buena Baza"
       ],
       "spriteKey": "SWIRLIX"
+    },
+    {
+      "nickname": "Bonifacio",
+      "species": "Cherubi",
+      "level": 22,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Piel Tétrica",
+      "nature": "Dócil",
+      "item": "Incienso Suave",
+      "shiny": false,
+      "moves": [
+        "Bruma Explosiva",
+        "Giro Fuego",
+        "Bomba Ácida",
+        "Hierba Lazo"
+      ],
+      "iv": [
+        13,
+        12,
+        16,
+        0,
+        20,
+        6
+      ],
+      "ev": [
+        10,
+        18,
+        18,
+        12,
+        16,
+        21
+      ],
+      "abilPool": [
+        "Piel Tétrica"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Bruma Explosiva"
+        },
+        {
+          "lvl": 1,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 5,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 10,
+          "m": "Hierba Lazo"
+        },
+        {
+          "lvl": 15,
+          "m": "Fijar Blanco"
+        },
+        {
+          "lvl": 20,
+          "m": "Descanso"
+        },
+        {
+          "lvl": 22,
+          "m": "Sonámbulo"
+        },
+        {
+          "lvl": 26,
+          "m": "Imitación"
+        },
+        {
+          "lvl": 30,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 35,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 40,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 40,
+          "m": "Llama Final"
+        },
+        {
+          "lvl": 45,
+          "m": "Acua Cola"
+        }
+      ],
+      "tmMoves": [
+        "Ladrón",
+        "Tajo Metralla",
+        "Venganza"
+      ],
+      "firstMoves": [
+        "Bruma Explosiva",
+        "Giro Fuego",
+        "Bomba Ácida"
+      ],
+      "spriteKey": "CHERUBI"
     }
   ],
   "box": [
@@ -1755,121 +1756,140 @@
       "spriteKey": "SPHEAL"
     },
     {
-      "nickname": "Nescafé",
-      "species": "Magby",
-      "level": 17,
+      "nickname": "Milo",
+      "species": "Croconaw",
+      "level": 23,
       "types": [
-        "Fuego"
+        "Agua"
       ],
-      "ability": "Olor Persistente",
-      "nature": "Alegre",
+      "ability": "Cola Surf",
+      "nature": "Huraña",
       "item": "",
       "shiny": false,
       "moves": [
-        "Anticipo",
-        "Fuego Fatuo",
-        "Lanzarrocas",
-        "Barrera"
+        "Golpe Roca",
+        "Ida y Vuelta",
+        "Clavo Cañón",
+        "Colmillo Hielo"
       ],
       "iv": [
-        28,
-        5,
-        31,
-        0,
-        19,
-        17
+        7,
+        12,
+        3,
+        17,
+        3,
+        8
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        9,
+        14,
+        13,
+        9,
+        15,
+        18
       ],
       "abilPool": [
-        "Olor Persistente"
+        "Cola Surf"
       ],
       "abilHidden": [
-        "Cambio Color"
+        "Pompa"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Pikaturbo"
+          "m": "Refugio"
         },
         {
           "lvl": 1,
-          "m": "Danza Triunfal"
+          "m": "Acua Aro"
         },
         {
-          "lvl": 4,
-          "m": "Golpe Calor"
+          "lvl": 1,
+          "m": "Estrujón"
         },
         {
           "lvl": 8,
-          "m": "Giro Fuego"
+          "m": "Alud"
         },
         {
-          "lvl": 12,
-          "m": "Anticipo"
+          "lvl": 8,
+          "m": "Clavo Cañón"
         },
         {
-          "lvl": 12,
-          "m": "Fuego Fatuo"
+          "lvl": 13,
+          "m": "Ojitos Tiernos"
         },
         {
           "lvl": 15,
-          "m": "Lanzarrocas"
+          "m": "Descanso"
         },
         {
-          "lvl": 16,
-          "m": "Barrera"
-        },
-        {
-          "lvl": 20,
-          "m": "Daño Secreto"
-        },
-        {
-          "lvl": 22,
-          "m": "Estímulo"
+          "lvl": 21,
+          "m": "Colmillo Hielo"
         },
         {
           "lvl": 24,
-          "m": "Colmillo Ígneo"
+          "m": "Agua Fría"
         },
         {
-          "lvl": 28,
-          "m": "Finta"
+          "lvl": 30,
+          "m": "Maquinación"
         },
         {
-          "lvl": 32,
-          "m": "Amago"
+          "lvl": 33,
+          "m": "Salpicar"
         },
         {
-          "lvl": 36,
-          "m": "Sol Matinal"
+          "lvl": 33,
+          "m": "Empapar"
         },
         {
-          "lvl": 40,
-          "m": "Vasta Fuerza"
+          "lvl": 34,
+          "m": "Aerochorro"
         },
         {
-          "lvl": 44,
-          "m": "Reserva"
+          "lvl": 37,
+          "m": "Carantoña"
         },
         {
-          "lvl": 48,
-          "m": "Salpicadura"
+          "lvl": 42,
+          "m": "Pulpocañón"
+        },
+        {
+          "lvl": 47,
+          "m": "Atracción"
+        },
+        {
+          "lvl": 50,
+          "m": "Aria Burbuja"
+        },
+        {
+          "lvl": 55,
+          "m": "Gota Vital"
         }
       ],
-      "firstMoves": [
-        "Anticipo",
-        "Fuego Fatuo",
-        "Lanzarrocas",
-        "Barrera"
+      "tmMoves": [
+        "Agarre",
+        "Alivio",
+        "Beso Drenaje",
+        "Cerrojo Feérico",
+        "Corpulencia",
+        "Giro Mortífero",
+        "Ida y Vuelta",
+        "Pesadilla",
+        "Poder Pasado",
+        "Rayo Confuso",
+        "Señuelo",
+        "Sorpresa",
+        "Tajo Metralla"
       ],
-      "spriteKey": "MAGBY"
+      "firstMoves": [
+        "Golpe Roca",
+        "Polvo Explosivo",
+        "Metrónomo",
+        "Defensa Floral"
+      ],
+      "spriteKey": "CROCONAW"
     }
   ],
   "graveyard": [
@@ -1989,26 +2009,15 @@
   ],
   "captures": [
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Croconaw",
-      "nickname": "Milo",
+      "route": "ciudad_celeste",
+      "where": "Ciudad Celeste",
+      "species": "Magby",
+      "nickname": "Nescafé",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
-      "level": 10,
-      "mon": "Croconaw"
-    },
-    {
-      "route": "ruta_1",
-      "where": "Ruta 1",
-      "species": "Cherubi",
-      "nickname": "Bonifacio",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 5,
-      "mon": "Cherubi"
+      "level": 17,
+      "mon": "Magby"
     },
     {
       "route": "ruta_2_sur",
@@ -2053,6 +2062,17 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Swirlix"
+    },
+    {
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Cherubi",
+      "nickname": "Bonifacio",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 5,
+      "mon": "Cherubi"
     },
     {
       "route": "monte_moon",
@@ -2154,15 +2174,15 @@
       "mon": "Spheal"
     },
     {
-      "route": "ciudad_celeste",
-      "where": "Ciudad Celeste",
-      "species": "Magby",
-      "nickname": "Nescafé",
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Croconaw",
+      "nickname": "Milo",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
-      "level": 17,
-      "mon": "Magby"
+      "level": 10,
+      "mon": "Croconaw"
     },
     {
       "route": "ruta_22",
@@ -2183,18 +2203,18 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ciudad_plateada": true,
-      "ruta_1": true,
+      "ciudad_celeste": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
+      "ruta_1": true,
       "monte_moon": true,
       "ruta_2_norte": true,
+      "ciudad_plateada": true,
       "bosque_verde": true,
       "monte_moon_exterior": true,
       "ruta_4": true,
       "ciudad_verde": true,
       "ruta_20": true,
-      "ciudad_celeste": true,
       "ruta_22": true,
       "ruta_3": true,
       "ruta_21": true
@@ -2353,32 +2373,14 @@
         "pocket": "Objetos"
       },
       {
-        "id": "LAXINCENSE",
-        "name": "Incienso Suave",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "SNOWBALL",
         "name": "Bola de Nieve",
         "qty": 1,
         "pocket": "Objetos"
       },
       {
-        "id": "RELICGOLD",
-        "name": "Real Oro",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "TWISTEDSPOON",
         "name": "Cuchara Torcida",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "BLUNDERPOLICY",
-        "name": "Seguro Fallo",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -2403,6 +2405,12 @@
       {
         "id": "ZAPPLATE",
         "name": "Tabla Trueno",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BLUNDERPOLICY",
+        "name": "Seguro Fallo",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -2457,7 +2465,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 7,
+        "qty": 16,
         "pocket": "Poké Balls"
       },
       {
@@ -2475,6 +2483,12 @@
       {
         "id": "PREMIERBALL",
         "name": "Honor Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "HEALBALL",
+        "name": "Sana Ball",
         "qty": 1,
         "pocket": "Poké Balls"
       },
