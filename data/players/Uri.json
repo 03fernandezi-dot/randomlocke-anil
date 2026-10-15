@@ -2,14 +2,14 @@
   "id": "Uri",
   "name": "Uri",
   "lives": 30,
-  "livesUsed": 1,
+  "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 5h 38m jugadas · 95,620₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 5h 54m jugadas · 102,320₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Izan",
       "species": "Marshtomp",
-      "level": 31,
+      "level": 32,
       "types": [
         "Agua",
         "Tierra"
@@ -34,11 +34,11 @@
       ],
       "ev": [
         19,
-        40,
-        24,
-        26,
+        41,
         27,
-        33
+        29,
+        31,
+        36
       ],
       "abilPool": [
         "Teracaparazón"
@@ -135,248 +135,14 @@
       "spriteKey": "MARSHTOMP"
     },
     {
-      "nickname": "Pau",
-      "species": "Bibarel",
-      "level": 31,
-      "types": [
-        "Normal",
-        "Agua"
-      ],
-      "ability": "Irascible",
-      "nature": "Amable",
-      "item": "Gema Fantasma",
-      "shiny": false,
-      "moves": [
-        "Viento Plata",
-        "Asalto Barrera",
-        "Nitrocarga",
-        "Marcha Espectral"
-      ],
-      "iv": [
-        19,
-        23,
-        8,
-        18,
-        3,
-        24
-      ],
-      "ev": [
-        17,
-        40,
-        24,
-        25,
-        27,
-        33
-      ],
-      "abilPool": [
-        "Irascible",
-        "Cola Armadura"
-      ],
-      "abilHidden": [
-        "Mutatipo"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Sellar"
-        },
-        {
-          "lvl": 1,
-          "m": "Beso Dulce"
-        },
-        {
-          "lvl": 1,
-          "m": "Barrera"
-        },
-        {
-          "lvl": 1,
-          "m": "Rompecoraza"
-        },
-        {
-          "lvl": 5,
-          "m": "Reflejo"
-        },
-        {
-          "lvl": 9,
-          "m": "Eco Voz"
-        },
-        {
-          "lvl": 13,
-          "m": "Furia"
-        },
-        {
-          "lvl": 18,
-          "m": "Asalto Barrera"
-        },
-        {
-          "lvl": 23,
-          "m": "Bola Voltio"
-        },
-        {
-          "lvl": 23,
-          "m": "Envidia ardiente"
-        },
-        {
-          "lvl": 28,
-          "m": "Nitrocarga"
-        },
-        {
-          "lvl": 33,
-          "m": "Brecha Negra"
-        },
-        {
-          "lvl": 38,
-          "m": "Fortaleza"
-        },
-        {
-          "lvl": 43,
-          "m": "Hilo Venenoso"
-        },
-        {
-          "lvl": 48,
-          "m": "Esfuerzo"
-        },
-        {
-          "lvl": 53,
-          "m": "Leafitobombas"
-        },
-        {
-          "lvl": 58,
-          "m": "Arremetida"
-        }
-      ],
-      "tmMoves": [
-        "Poder Pasado"
-      ],
-      "firstMoves": [
-        "Viento Plata",
-        "Pulso de Campo",
-        "Doble Equipo"
-      ],
-      "spriteKey": "BIBAREL"
-    },
-    {
-      "nickname": "Calaca",
-      "species": "Shelmet",
-      "level": 31,
-      "types": [
-        "Bicho"
-      ],
-      "ability": "Aura Feérica",
-      "nature": "Grosera",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Cuerno Certero",
-        "A Defender",
-        "Rodillo de Púas",
-        "Mil Púas Tóxicas"
-      ],
-      "iv": [
-        1,
-        25,
-        20,
-        29,
-        29,
-        26
-      ],
-      "ev": [
-        17,
-        34,
-        19,
-        23,
-        25,
-        28
-      ],
-      "abilPool": [
-        "Aura Feérica",
-        "Coraza Ira"
-      ],
-      "abilHidden": [
-        "Puño Invisible"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Cuerno Certero"
-        },
-        {
-          "lvl": 1,
-          "m": "A Defender"
-        },
-        {
-          "lvl": 4,
-          "m": "Rencor"
-        },
-        {
-          "lvl": 8,
-          "m": "Mil Púas Tóxicas"
-        },
-        {
-          "lvl": 8,
-          "m": "Pin Misil"
-        },
-        {
-          "lvl": 12,
-          "m": "Telatrampa"
-        },
-        {
-          "lvl": 16,
-          "m": "Golpe Cabeza"
-        },
-        {
-          "lvl": 20,
-          "m": "Rodillo de Púas"
-        },
-        {
-          "lvl": 24,
-          "m": "Aligerar"
-        },
-        {
-          "lvl": 28,
-          "m": "Brinco"
-        },
-        {
-          "lvl": 32,
-          "m": "Corte Furia"
-        },
-        {
-          "lvl": 36,
-          "m": "Pulso de Campo"
-        },
-        {
-          "lvl": 40,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 44,
-          "m": "Ciclón de Hojas"
-        },
-        {
-          "lvl": 48,
-          "m": "Bola Sombra"
-        },
-        {
-          "lvl": 56,
-          "m": "Ovocuración"
-        }
-      ],
-      "firstMoves": [
-        "Cuerno Certero",
-        "A Defender",
-        "Rencor"
-      ],
-      "spriteKey": "SHELMET"
-    },
-    {
       "nickname": "Rammus",
-      "species": "Ivysaur",
-      "level": 31,
+      "species": "Venusaur",
+      "level": 32,
       "types": [
         "Planta",
         "Veneno"
       ],
-      "ability": "Trampa Arena",
+      "ability": "Perro Guardián",
       "nature": "Serena",
       "item": "Toxisfera",
       "shiny": false,
@@ -396,106 +162,99 @@
       ],
       "ev": [
         7,
-        20,
-        6,
-        12,
-        7,
-        12
+        21,
+        9,
+        15,
+        11,
+        13
       ],
       "abilPool": [
-        "Trampa Arena"
+        "Perro Guardián"
       ],
       "abilHidden": [
-        "Sacapecho"
+        "Recogebolas"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Impactrueno"
+          "lvl": -1,
+          "m": "Psicorrayo"
         },
         {
           "lvl": 1,
-          "m": "Sustituto"
+          "m": "Octopresa"
         },
         {
           "lvl": 1,
-          "m": "Mandato"
+          "m": "Guardia Baja"
         },
         {
           "lvl": 1,
-          "m": "Punzada Rama"
+          "m": "Disparo Lodo"
         },
         {
-          "lvl": 9,
-          "m": "Látigo Cepa"
-        },
-        {
-          "lvl": 12,
-          "m": "Campo de Hierba"
-        },
-        {
-          "lvl": 15,
-          "m": "Cuchillada"
-        },
-        {
-          "lvl": 15,
+          "lvl": 1,
           "m": "Paralizador"
         },
         {
+          "lvl": 1,
+          "m": "Purificación"
+        },
+        {
+          "lvl": 9,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 12,
+          "m": "Defensa Férrea"
+        },
+        {
+          "lvl": 15,
+          "m": "Aromaterapia"
+        },
+        {
+          "lvl": 15,
+          "m": "Cola Veneno"
+        },
+        {
           "lvl": 20,
-          "m": "Residuos"
-        },
-        {
-          "lvl": 23,
-          "m": "Fitoimpulso"
+          "m": "Cepo"
         },
         {
           "lvl": 25,
-          "m": "Telépata"
-        },
-        {
-          "lvl": 25,
-          "m": "Mimético"
+          "m": "Frío Polar"
         },
         {
           "lvl": 30,
-          "m": "Pulso de Campo"
-        },
-        {
-          "lvl": 35,
-          "m": "Hoja Mágica"
+          "m": "Bramido Dragón"
         },
         {
           "lvl": 36,
-          "m": "Esporagodón"
+          "m": "Comesueños"
         },
         {
-          "lvl": 40,
-          "m": "Barrera Espinosa"
+          "lvl": 37,
+          "m": "Remolino"
         },
         {
-          "lvl": 45,
-          "m": "Tóxico"
+          "lvl": 39,
+          "m": "Picotazo"
         },
         {
-          "lvl": 45,
-          "m": "Ofrenda"
+          "lvl": 44,
+          "m": "Pirochoque"
         },
         {
-          "lvl": 50,
-          "m": "Telaraña"
+          "lvl": 51,
+          "m": "Espacio Raro"
+        },
+        {
+          "lvl": 51,
+          "m": "Truco Floral"
+        },
+        {
+          "lvl": 58,
+          "m": "Patada Tropical"
         }
-      ],
-      "tmMoves": [
-        "Agarre",
-        "Aire Afilado",
-        "Batido",
-        "Corpulencia",
-        "Giro Mortífero",
-        "Ida y Vuelta",
-        "Poder Pasado",
-        "Señuelo",
-        "Sorpresa"
       ],
       "firstMoves": [
         "Campo de Hierba",
@@ -503,12 +262,12 @@
         "Paralizador",
         "Residuos"
       ],
-      "spriteKey": "IVYSAUR"
+      "spriteKey": "VENUSAUR"
     },
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 30,
+      "level": 31,
       "types": [
         "Fuego",
         "Psíquico"
@@ -533,11 +292,11 @@
       ],
       "ev": [
         1,
-        12,
-        4,
-        5,
-        4,
-        9
+        13,
+        7,
+        8,
+        8,
+        12
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -637,7 +396,7 @@
     {
       "nickname": "Matao",
       "species": "Slurpuff",
-      "level": 31,
+      "level": 32,
       "types": [
         "Hada"
       ],
@@ -661,11 +420,11 @@
       ],
       "ev": [
         14,
-        28,
-        13,
+        29,
         16,
         19,
-        20
+        23,
+        23
       ],
       "abilPool": [
         "Cuerpo Vívido",
@@ -762,6 +521,233 @@
         "Buena Baza"
       ],
       "spriteKey": "SLURPUFF"
+    },
+    {
+      "nickname": "Mataró",
+      "species": "Tinkatuff",
+      "level": 32,
+      "types": [
+        "Hada",
+        "Acero"
+      ],
+      "ability": "Clorofila",
+      "nature": "Rara",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Giro Vil",
+        "Conversión",
+        "Geocontrol",
+        "Bramido Dragón"
+      ],
+      "iv": [
+        30,
+        0,
+        16,
+        15,
+        3,
+        3
+      ],
+      "ev": [
+        0,
+        6,
+        4,
+        2,
+        2,
+        4
+      ],
+      "abilPool": [
+        "Don Floral",
+        "Clorofila"
+      ],
+      "abilHidden": [
+        "Piel Helada"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Campo de Niebla"
+        },
+        {
+          "lvl": 1,
+          "m": "Reducción"
+        },
+        {
+          "lvl": 5,
+          "m": "Voz Cautivadora"
+        },
+        {
+          "lvl": 8,
+          "m": "Furia Natural"
+        },
+        {
+          "lvl": 11,
+          "m": "Cambio de Cancha"
+        },
+        {
+          "lvl": 14,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 17,
+          "m": "Furia"
+        },
+        {
+          "lvl": 21,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 24,
+          "m": "Gota Vital"
+        },
+        {
+          "lvl": 27,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 31,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 35,
+          "m": "Giro Mortífero"
+        },
+        {
+          "lvl": 39,
+          "m": "Alud"
+        },
+        {
+          "lvl": 43,
+          "m": "Viento Carámbano"
+        },
+        {
+          "lvl": 47,
+          "m": "Represión Metal"
+        },
+        {
+          "lvl": 52,
+          "m": "Decoración"
+        }
+      ],
+      "tmMoves": [
+        "Hidrochorro"
+      ],
+      "firstMoves": [
+        "Giro Vil",
+        "Conversión",
+        "Geocontrol",
+        "Bramido Dragón"
+      ],
+      "spriteKey": "TINKATUFF"
+    },
+    {
+      "nickname": "Bonifacio",
+      "species": "Cherrim",
+      "level": 32,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Armadura Prisma",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Bruma Explosiva",
+        "Giro Fuego",
+        "Bomba Ácida",
+        "Hierba Lazo"
+      ],
+      "iv": [
+        13,
+        12,
+        16,
+        0,
+        20,
+        6
+      ],
+      "ev": [
+        11,
+        20,
+        18,
+        13,
+        20,
+        21
+      ],
+      "abilPool": [
+        "Armadura Prisma"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Llanto Falso"
+        },
+        {
+          "lvl": 1,
+          "m": "Imitación"
+        },
+        {
+          "lvl": 1,
+          "m": "Ala de Acero"
+        },
+        {
+          "lvl": 1,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 1,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 1,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 15,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 20,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 28,
+          "m": "Silbato"
+        },
+        {
+          "lvl": 34,
+          "m": "Cometa Draco"
+        },
+        {
+          "lvl": 41,
+          "m": "Atrapabicho"
+        },
+        {
+          "lvl": 48,
+          "m": "Corte Vacío"
+        },
+        {
+          "lvl": 48,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 55,
+          "m": "Dulce Aroma"
+        },
+        {
+          "lvl": 62,
+          "m": "Llama Fusión"
+        }
+      ],
+      "tmMoves": [
+        "Poder Pasado"
+      ],
+      "firstMoves": [
+        "Bruma Explosiva",
+        "Giro Fuego",
+        "Bomba Ácida"
+      ],
+      "spriteKey": "CHERRIM"
     }
   ],
   "box": [
@@ -1963,109 +1949,6 @@
       "spriteKey": "CROCONAW"
     },
     {
-      "nickname": "Bonifacio",
-      "species": "Cherubi",
-      "level": 23,
-      "types": [
-        "Planta"
-      ],
-      "ability": "Piel Tétrica",
-      "nature": "Dócil",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Bruma Explosiva",
-        "Giro Fuego",
-        "Bomba Ácida",
-        "Hierba Lazo"
-      ],
-      "iv": [
-        13,
-        12,
-        16,
-        0,
-        20,
-        6
-      ],
-      "ev": [
-        11,
-        20,
-        18,
-        13,
-        20,
-        21
-      ],
-      "abilPool": [
-        "Piel Tétrica"
-      ],
-      "abilHidden": [],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Bruma Explosiva"
-        },
-        {
-          "lvl": 1,
-          "m": "Giro Fuego"
-        },
-        {
-          "lvl": 5,
-          "m": "Bomba Ácida"
-        },
-        {
-          "lvl": 10,
-          "m": "Hierba Lazo"
-        },
-        {
-          "lvl": 15,
-          "m": "Fijar Blanco"
-        },
-        {
-          "lvl": 20,
-          "m": "Descanso"
-        },
-        {
-          "lvl": 22,
-          "m": "Sonámbulo"
-        },
-        {
-          "lvl": 26,
-          "m": "Imitación"
-        },
-        {
-          "lvl": 30,
-          "m": "Guardia Baja"
-        },
-        {
-          "lvl": 35,
-          "m": "Despejar"
-        },
-        {
-          "lvl": 40,
-          "m": "Rencor"
-        },
-        {
-          "lvl": 40,
-          "m": "Llama Final"
-        },
-        {
-          "lvl": 45,
-          "m": "Acua Cola"
-        }
-      ],
-      "tmMoves": [
-        "Ladrón",
-        "Tajo Metralla",
-        "Venganza"
-      ],
-      "firstMoves": [
-        "Bruma Explosiva",
-        "Giro Fuego",
-        "Bomba Ácida"
-      ],
-      "spriteKey": "CHERUBI"
-    },
-    {
       "nickname": "Nescafé",
       "species": "Magmar",
       "level": 25,
@@ -2508,124 +2391,6 @@
         "Alto Voltaje"
       ],
       "spriteKey": "DEERLING_2"
-    },
-    {
-      "nickname": "Mataró",
-      "species": "Tinkatuff",
-      "level": 27,
-      "types": [
-        "Hada",
-        "Acero"
-      ],
-      "ability": "Clorofila",
-      "nature": "Rara",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Giro Vil",
-        "Conversión",
-        "Geocontrol",
-        "Bramido Dragón"
-      ],
-      "iv": [
-        30,
-        0,
-        16,
-        15,
-        3,
-        3
-      ],
-      "ev": [
-        0,
-        6,
-        4,
-        2,
-        2,
-        4
-      ],
-      "abilPool": [
-        "Don Floral",
-        "Clorofila"
-      ],
-      "abilHidden": [
-        "Piel Helada"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Campo de Niebla"
-        },
-        {
-          "lvl": 1,
-          "m": "Reducción"
-        },
-        {
-          "lvl": 5,
-          "m": "Voz Cautivadora"
-        },
-        {
-          "lvl": 8,
-          "m": "Furia Natural"
-        },
-        {
-          "lvl": 11,
-          "m": "Cambio de Cancha"
-        },
-        {
-          "lvl": 14,
-          "m": "Cura Floral"
-        },
-        {
-          "lvl": 17,
-          "m": "Furia"
-        },
-        {
-          "lvl": 21,
-          "m": "Anulación"
-        },
-        {
-          "lvl": 24,
-          "m": "Gota Vital"
-        },
-        {
-          "lvl": 27,
-          "m": "Encanto"
-        },
-        {
-          "lvl": 31,
-          "m": "Absorbefuerza"
-        },
-        {
-          "lvl": 35,
-          "m": "Giro Mortífero"
-        },
-        {
-          "lvl": 39,
-          "m": "Alud"
-        },
-        {
-          "lvl": 43,
-          "m": "Viento Carámbano"
-        },
-        {
-          "lvl": 47,
-          "m": "Represión Metal"
-        },
-        {
-          "lvl": 52,
-          "m": "Decoración"
-        }
-      ],
-      "tmMoves": [
-        "Hidrochorro"
-      ],
-      "firstMoves": [
-        "Giro Vil",
-        "Conversión",
-        "Geocontrol",
-        "Bramido Dragón"
-      ],
-      "spriteKey": "TINKATUFF"
     }
   ],
   "graveyard": [
@@ -2741,6 +2506,246 @@
       "cause": "",
       "route": "Ruta 22",
       "date": ""
+    },
+    {
+      "nickname": "Calaca",
+      "species": "Shelmet",
+      "level": 31,
+      "types": [
+        "Bicho"
+      ],
+      "ability": "Aura Feérica",
+      "nature": "Grosera",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cuerno Certero",
+        "A Defender",
+        "Rodillo de Púas",
+        "Mil Púas Tóxicas"
+      ],
+      "iv": [
+        1,
+        25,
+        20,
+        29,
+        29,
+        26
+      ],
+      "ev": [
+        17,
+        35,
+        22,
+        26,
+        29,
+        29
+      ],
+      "abilPool": [
+        "Aura Feérica",
+        "Coraza Ira"
+      ],
+      "abilHidden": [
+        "Puño Invisible"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 1,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 4,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 8,
+          "m": "Mil Púas Tóxicas"
+        },
+        {
+          "lvl": 8,
+          "m": "Pin Misil"
+        },
+        {
+          "lvl": 12,
+          "m": "Telatrampa"
+        },
+        {
+          "lvl": 16,
+          "m": "Golpe Cabeza"
+        },
+        {
+          "lvl": 20,
+          "m": "Rodillo de Púas"
+        },
+        {
+          "lvl": 24,
+          "m": "Aligerar"
+        },
+        {
+          "lvl": 28,
+          "m": "Brinco"
+        },
+        {
+          "lvl": 32,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 36,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 40,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 44,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 48,
+          "m": "Bola Sombra"
+        },
+        {
+          "lvl": 56,
+          "m": "Ovocuración"
+        }
+      ],
+      "firstMoves": [
+        "Cuerno Certero",
+        "A Defender",
+        "Rencor"
+      ],
+      "spriteKey": "SHELMET",
+      "cause": "",
+      "route": "Ruta 2 Sur",
+      "date": ""
+    },
+    {
+      "nickname": "Pau",
+      "species": "Bibarel",
+      "level": 31,
+      "types": [
+        "Normal",
+        "Agua"
+      ],
+      "ability": "Irascible",
+      "nature": "Amable",
+      "item": "Gema Fantasma",
+      "shiny": false,
+      "moves": [
+        "Viento Plata",
+        "Asalto Barrera",
+        "Nitrocarga",
+        "Marcha Espectral"
+      ],
+      "iv": [
+        19,
+        23,
+        8,
+        18,
+        3,
+        24
+      ],
+      "ev": [
+        17,
+        41,
+        27,
+        28,
+        31,
+        34
+      ],
+      "abilPool": [
+        "Irascible",
+        "Cola Armadura"
+      ],
+      "abilHidden": [
+        "Mutatipo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 1,
+          "m": "Beso Dulce"
+        },
+        {
+          "lvl": 1,
+          "m": "Barrera"
+        },
+        {
+          "lvl": 1,
+          "m": "Rompecoraza"
+        },
+        {
+          "lvl": 5,
+          "m": "Reflejo"
+        },
+        {
+          "lvl": 9,
+          "m": "Eco Voz"
+        },
+        {
+          "lvl": 13,
+          "m": "Furia"
+        },
+        {
+          "lvl": 18,
+          "m": "Asalto Barrera"
+        },
+        {
+          "lvl": 23,
+          "m": "Bola Voltio"
+        },
+        {
+          "lvl": 23,
+          "m": "Envidia ardiente"
+        },
+        {
+          "lvl": 28,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 33,
+          "m": "Brecha Negra"
+        },
+        {
+          "lvl": 38,
+          "m": "Fortaleza"
+        },
+        {
+          "lvl": 43,
+          "m": "Hilo Venenoso"
+        },
+        {
+          "lvl": 48,
+          "m": "Esfuerzo"
+        },
+        {
+          "lvl": 53,
+          "m": "Leafitobombas"
+        },
+        {
+          "lvl": 58,
+          "m": "Arremetida"
+        }
+      ],
+      "tmMoves": [
+        "Poder Pasado"
+      ],
+      "firstMoves": [
+        "Viento Plata",
+        "Pulso de Campo",
+        "Doble Equipo"
+      ],
+      "spriteKey": "BIBAREL",
+      "cause": "",
+      "route": "Pueblo Paleta",
+      "date": ""
     }
   ],
   "captures": [
@@ -2756,37 +2761,15 @@
       "mon": "Marshtomp"
     },
     {
-      "route": "pueblo_paleta",
-      "where": "Pueblo Paleta",
-      "species": "Bibarel",
-      "nickname": "Pau",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 5,
-      "mon": "Bibarel"
-    },
-    {
-      "route": "ruta_2_sur",
-      "where": "Ruta 2 Sur",
-      "species": "Shelmet",
-      "nickname": "Calaca",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 6,
-      "mon": "Shelmet"
-    },
-    {
       "route": "ruta_5",
       "where": "Ruta 5",
-      "species": "Ivysaur",
+      "species": "Venusaur",
       "nickname": "Rammus",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 21,
-      "mon": "Ivysaur"
+      "mon": "Venusaur"
     },
     {
       "route": "tunel_diglett",
@@ -2809,6 +2792,28 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Slurpuff"
+    },
+    {
+      "route": "ruta_15",
+      "where": "Ruta 15",
+      "species": "Tinkatuff",
+      "nickname": "Mataró",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 22,
+      "mon": "Tinkatuff"
+    },
+    {
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Cherrim",
+      "nickname": "Bonifacio",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 5,
+      "mon": "Cherrim"
     },
     {
       "route": "monte_moon",
@@ -2921,17 +2926,6 @@
       "mon": "Croconaw"
     },
     {
-      "route": "ruta_1",
-      "where": "Ruta 1",
-      "species": "Cherubi",
-      "nickname": "Bonifacio",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 5,
-      "mon": "Cherubi"
-    },
-    {
       "route": "ciudad_celeste",
       "where": "Ciudad Celeste",
       "species": "Magmar",
@@ -2976,17 +2970,6 @@
       "mon": "Deerling"
     },
     {
-      "route": "ruta_15",
-      "where": "Ruta 15",
-      "species": "Tinkatuff",
-      "nickname": "Mataró",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 22,
-      "mon": "Tinkatuff"
-    },
-    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -2996,6 +2979,28 @@
       "category": "salvaje",
       "level": 6,
       "mon": "Diglett"
+    },
+    {
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Shelmet",
+      "nickname": "Calaca",
+      "shiny": false,
+      "status": "dead",
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Shelmet"
+    },
+    {
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Bibarel",
+      "nickname": "Pau",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 5,
+      "mon": "Bibarel"
     }
   ],
   "progress": {
@@ -3007,10 +3012,10 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "pueblo_paleta": true,
-      "ruta_2_sur": true,
       "ruta_5": true,
       "tunel_diglett": true,
+      "ruta_15": true,
+      "ruta_1": true,
       "monte_moon": true,
       "ruta_2_norte": true,
       "bosque_verde": true,
@@ -3019,14 +3024,15 @@
       "ciudad_verde": true,
       "ruta_20": true,
       "ciudad_plateada": true,
-      "ruta_1": true,
       "ciudad_celeste": true,
       "ciudad_carmin": true,
       "ruta_6": true,
       "ruta_9": true,
-      "ruta_15": true,
       "ruta_22": true,
+      "ruta_2_sur": true,
+      "pueblo_paleta": true,
       "ruta_3": true,
+      "ruta_10_norte": true,
       "ruta_21": true
     },
     "items": {},
@@ -3076,10 +3082,12 @@
       87,
       88,
       89,
+      92,
       110,
       112,
       113,
       114,
+      120,
       121,
       129,
       138,
@@ -3094,6 +3102,7 @@
       184,
       185,
       186,
+      301,
       323,
       334,
       363,
@@ -3159,6 +3168,7 @@
       "MT51",
       "MT54",
       "MT55",
+      "MT57",
       "MT59",
       "MT61",
       "MT72",
@@ -3334,7 +3344,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 148,
+        "qty": 134,
         "pocket": "Medicinas"
       },
       {
@@ -3346,12 +3356,6 @@
       {
         "id": "LONELYMINT",
         "name": "Menta Huraña",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "CENIZASSAGRADAS",
-        "name": "Cenizas Sagradas",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -3496,6 +3500,12 @@
       {
         "id": "TM55",
         "name": "MT55",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM57",
+        "name": "MT57",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -3716,8 +3726,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
@@ -3772,7 +3782,9 @@
     ]
   },
   "deathLog": [
-    "3501455539"
+    "3501455539",
+    "101347072",
+    "2354714196"
   ],
   "revividos": 0
 }
