@@ -4,12 +4,252 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 3h 35m jugadas · 52,800₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 3h 45m jugadas · 60,150₽ · vidas en el juego: 29",
   "team": [
+    {
+      "nickname": "Izan",
+      "species": "Marshtomp",
+      "level": 23,
+      "types": [
+        "Agua",
+        "Tierra"
+      ],
+      "ability": "Teracaparazón",
+      "nature": "Seria",
+      "item": "Seguro Fallo",
+      "shiny": false,
+      "moves": [
+        "Chispa",
+        "Relajo",
+        "Tajo Metralla",
+        "Puño Jet"
+      ],
+      "iv": [
+        27,
+        7,
+        25,
+        3,
+        27,
+        29
+      ],
+      "ev": [
+        12,
+        20,
+        18,
+        13,
+        19,
+        21
+      ],
+      "abilPool": [
+        "Teracaparazón"
+      ],
+      "abilHidden": [
+        "Cálculo Final"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": -1,
+          "m": "Voltiocambio"
+        },
+        {
+          "lvl": 1,
+          "m": "Púas"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 1,
+          "m": "Tajo Umbrío"
+        },
+        {
+          "lvl": 1,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 9,
+          "m": "Refuerzo"
+        },
+        {
+          "lvl": 12,
+          "m": "Atracción"
+        },
+        {
+          "lvl": 15,
+          "m": "Tormento"
+        },
+        {
+          "lvl": 20,
+          "m": "Chispa"
+        },
+        {
+          "lvl": 20,
+          "m": "Arraigo"
+        },
+        {
+          "lvl": 25,
+          "m": "Fertilizante"
+        },
+        {
+          "lvl": 25,
+          "m": "Pistola Agua"
+        },
+        {
+          "lvl": 30,
+          "m": "Rabia"
+        },
+        {
+          "lvl": 35,
+          "m": "Huesomerang"
+        },
+        {
+          "lvl": 40,
+          "m": "Última Baza"
+        },
+        {
+          "lvl": 45,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 50,
+          "m": "Fuerza"
+        },
+        {
+          "lvl": 55,
+          "m": "Octopresa"
+        }
+      ],
+      "tmMoves": [
+        "Hidrochorro"
+      ],
+      "firstMoves": [
+        "Cepo",
+        "Burbuja"
+      ],
+      "spriteKey": "MARSHTOMP"
+    },
+    {
+      "nickname": "Calaca",
+      "species": "Shelmet",
+      "level": 23,
+      "types": [
+        "Bicho"
+      ],
+      "ability": "Aura Feérica",
+      "nature": "Grosera",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cuerno Certero",
+        "A Defender",
+        "Rodillo de Púas",
+        "Mil Púas Tóxicas"
+      ],
+      "iv": [
+        1,
+        25,
+        20,
+        29,
+        29,
+        26
+      ],
+      "ev": [
+        10,
+        20,
+        17,
+        12,
+        19,
+        20
+      ],
+      "abilPool": [
+        "Aura Feérica",
+        "Coraza Ira"
+      ],
+      "abilHidden": [
+        "Puño Invisible"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 1,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 4,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 8,
+          "m": "Mil Púas Tóxicas"
+        },
+        {
+          "lvl": 8,
+          "m": "Pin Misil"
+        },
+        {
+          "lvl": 12,
+          "m": "Telatrampa"
+        },
+        {
+          "lvl": 16,
+          "m": "Golpe Cabeza"
+        },
+        {
+          "lvl": 20,
+          "m": "Rodillo de Púas"
+        },
+        {
+          "lvl": 24,
+          "m": "Aligerar"
+        },
+        {
+          "lvl": 28,
+          "m": "Brinco"
+        },
+        {
+          "lvl": 32,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 36,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 40,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 44,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 48,
+          "m": "Bola Sombra"
+        },
+        {
+          "lvl": 56,
+          "m": "Ovocuración"
+        }
+      ],
+      "firstMoves": [
+        "Cuerno Certero",
+        "A Defender",
+        "Rencor"
+      ],
+      "spriteKey": "SHELMET"
+    },
     {
       "nickname": "Nescafé",
       "species": "Magby",
-      "level": 17,
+      "level": 23,
       "types": [
         "Fuego"
       ],
@@ -32,11 +272,11 @@
         17
       ],
       "ev": [
+        1,
+        2,
         0,
         0,
-        0,
-        0,
-        0,
+        3,
         0
       ],
       "abilPool": [
@@ -132,258 +372,21 @@
       "spriteKey": "MAGBY"
     },
     {
-      "nickname": "Calaca",
-      "species": "Shelmet",
-      "level": 22,
-      "types": [
-        "Bicho"
-      ],
-      "ability": "Aura Feérica",
-      "nature": "Grosera",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Cuerno Certero",
-        "A Defender",
-        "Rodillo de Púas",
-        "Mil Púas Tóxicas"
-      ],
-      "iv": [
-        1,
-        25,
-        20,
-        29,
-        29,
-        26
-      ],
-      "ev": [
-        9,
-        18,
-        17,
-        12,
-        16,
-        20
-      ],
-      "abilPool": [
-        "Aura Feérica",
-        "Coraza Ira"
-      ],
-      "abilHidden": [
-        "Puño Invisible"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Cuerno Certero"
-        },
-        {
-          "lvl": 1,
-          "m": "A Defender"
-        },
-        {
-          "lvl": 4,
-          "m": "Rencor"
-        },
-        {
-          "lvl": 8,
-          "m": "Mil Púas Tóxicas"
-        },
-        {
-          "lvl": 8,
-          "m": "Pin Misil"
-        },
-        {
-          "lvl": 12,
-          "m": "Telatrampa"
-        },
-        {
-          "lvl": 16,
-          "m": "Golpe Cabeza"
-        },
-        {
-          "lvl": 20,
-          "m": "Rodillo de Púas"
-        },
-        {
-          "lvl": 24,
-          "m": "Aligerar"
-        },
-        {
-          "lvl": 28,
-          "m": "Brinco"
-        },
-        {
-          "lvl": 32,
-          "m": "Corte Furia"
-        },
-        {
-          "lvl": 36,
-          "m": "Pulso de Campo"
-        },
-        {
-          "lvl": 40,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 44,
-          "m": "Ciclón de Hojas"
-        },
-        {
-          "lvl": 48,
-          "m": "Bola Sombra"
-        },
-        {
-          "lvl": 56,
-          "m": "Ovocuración"
-        }
-      ],
-      "firstMoves": [
-        "Cuerno Certero",
-        "A Defender",
-        "Rencor"
-      ],
-      "spriteKey": "SHELMET"
-    },
-    {
-      "nickname": "Izan",
-      "species": "Marshtomp",
-      "level": 23,
-      "types": [
-        "Agua",
-        "Tierra"
-      ],
-      "ability": "Teracaparazón",
-      "nature": "Seria",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Chispa",
-        "Relajo",
-        "Tajo Metralla",
-        "Puño Jet"
-      ],
-      "iv": [
-        27,
-        7,
-        25,
-        3,
-        27,
-        29
-      ],
-      "ev": [
-        11,
-        18,
-        18,
-        13,
-        16,
-        21
-      ],
-      "abilPool": [
-        "Teracaparazón"
-      ],
-      "abilHidden": [
-        "Cálculo Final"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Torbellino"
-        },
-        {
-          "lvl": -1,
-          "m": "Voltiocambio"
-        },
-        {
-          "lvl": 1,
-          "m": "Púas"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Jet"
-        },
-        {
-          "lvl": 1,
-          "m": "Tajo Umbrío"
-        },
-        {
-          "lvl": 1,
-          "m": "Burbuja"
-        },
-        {
-          "lvl": 9,
-          "m": "Refuerzo"
-        },
-        {
-          "lvl": 12,
-          "m": "Atracción"
-        },
-        {
-          "lvl": 15,
-          "m": "Tormento"
-        },
-        {
-          "lvl": 20,
-          "m": "Chispa"
-        },
-        {
-          "lvl": 20,
-          "m": "Arraigo"
-        },
-        {
-          "lvl": 25,
-          "m": "Fertilizante"
-        },
-        {
-          "lvl": 25,
-          "m": "Pistola Agua"
-        },
-        {
-          "lvl": 30,
-          "m": "Rabia"
-        },
-        {
-          "lvl": 35,
-          "m": "Huesomerang"
-        },
-        {
-          "lvl": 40,
-          "m": "Última Baza"
-        },
-        {
-          "lvl": 45,
-          "m": "Zona Mágica"
-        },
-        {
-          "lvl": 50,
-          "m": "Fuerza"
-        },
-        {
-          "lvl": 55,
-          "m": "Octopresa"
-        }
-      ],
-      "firstMoves": [
-        "Cepo",
-        "Burbuja"
-      ],
-      "spriteKey": "MARSHTOMP"
-    },
-    {
       "nickname": "Pau",
       "species": "Bibarel",
-      "level": 22,
+      "level": 23,
       "types": [
         "Normal",
         "Agua"
       ],
       "ability": "Irascible",
       "nature": "Amable",
-      "item": "",
+      "item": "Gema Fantasma",
       "shiny": false,
       "moves": [
         "Viento Plata",
         "Asalto Barrera",
-        "Doble Equipo",
+        "Envidia ardiente",
         "Marcha Espectral"
       ],
       "iv": [
@@ -395,11 +398,11 @@
         24
       ],
       "ev": [
-        9,
-        18,
+        10,
+        20,
         18,
         12,
-        16,
+        19,
         21
       ],
       "abilPool": [
@@ -492,7 +495,7 @@
     {
       "nickname": "Matao",
       "species": "Swirlix",
-      "level": 22,
+      "level": 23,
       "types": [
         "Hada"
       ],
@@ -515,11 +518,11 @@
         31
       ],
       "ev": [
-        6,
-        12,
+        7,
+        14,
         11,
         5,
-        10,
+        13,
         14
       ],
       "abilPool": [
@@ -617,7 +620,7 @@
     {
       "nickname": "Bonifacio",
       "species": "Cherubi",
-      "level": 22,
+      "level": 23,
       "types": [
         "Planta"
       ],
@@ -640,11 +643,11 @@
         6
       ],
       "ev": [
-        10,
-        18,
+        11,
+        20,
         18,
         12,
-        16,
+        19,
         21
       ],
       "abilPool": [
@@ -2009,15 +2012,15 @@
   ],
   "captures": [
     {
-      "route": "ciudad_celeste",
-      "where": "Ciudad Celeste",
-      "species": "Magby",
-      "nickname": "Nescafé",
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Marshtomp",
+      "nickname": "Izan",
       "shiny": false,
       "status": "captured",
-      "category": "ciudad",
-      "level": 17,
-      "mon": "Magby"
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Marshtomp"
     },
     {
       "route": "ruta_2_sur",
@@ -2031,15 +2034,15 @@
       "mon": "Shelmet"
     },
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Marshtomp",
-      "nickname": "Izan",
+      "route": "ciudad_celeste",
+      "where": "Ciudad Celeste",
+      "species": "Magby",
+      "nickname": "Nescafé",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Marshtomp"
+      "category": "ciudad",
+      "level": 17,
+      "mon": "Magby"
     },
     {
       "route": "pueblo_paleta",
@@ -2198,13 +2201,14 @@
   ],
   "progress": {
     "gyms": {
-      "gym1": true
+      "gym1": true,
+      "gym2": true
     },
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ciudad_celeste": true,
       "ruta_2_sur": true,
+      "ciudad_celeste": true,
       "pueblo_paleta": true,
       "ruta_1": true,
       "monte_moon": true,
@@ -2252,6 +2256,9 @@
       75,
       76,
       80,
+      81,
+      82,
+      83,
       110,
       112,
       113,
@@ -2266,6 +2273,7 @@
       182,
       183,
       184,
+      185,
       323,
       334
     ],
@@ -2281,6 +2289,7 @@
       "Baya Meloc",
       "Bola de Nieve",
       "Bola Luminosa",
+      "Carburante",
       "Cenizas Sagradas",
       "Cuchara Torcida",
       "Cuerda Huida",
@@ -2289,6 +2298,7 @@
       "Gema Eléctrica",
       "Gema Fantasma",
       "Hechizo",
+      "Hierba Copia",
       "Incienso Suave",
       "Manuscrito Sombras",
       "Menta Agitada",
@@ -2302,10 +2312,14 @@
       "MT103",
       "MT109",
       "MT11",
+      "MT122",
       "MT26",
       "MT39",
+      "MT41",
       "MT43",
       "MT47",
+      "MT51",
+      "MT59",
       "MT61",
       "MT83",
       "MT85",
@@ -2318,6 +2332,8 @@
       "Nerviosfera",
       "Parte Amarilla",
       "Piedra Eterna",
+      "Piedra Lunar",
+      "Piedra Oval",
       "Poción",
       "Poké Montura",
       "Porcehelado",
@@ -2326,20 +2342,15 @@
       "Seguro Fallo",
       "Supercaña",
       "Tabla Trueno",
+      "Ticket Barco",
       "Toxisfera",
       "Vial"
     ],
     "bag": [
       {
-        "id": "GHOSTGEM",
-        "name": "Gema Fantasma",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos"
       },
       {
@@ -2409,8 +2420,20 @@
         "pocket": "Objetos"
       },
       {
-        "id": "BLUNDERPOLICY",
-        "name": "Seguro Fallo",
+        "id": "MOONSTONE",
+        "name": "Piedra Lunar",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "OVALSTONE",
+        "name": "Piedra Oval",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "MIRRORHERB",
+        "name": "Hierba Copia",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -2429,7 +2452,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 186,
+        "qty": 180,
         "pocket": "Medicinas"
       },
       {
@@ -2447,7 +2470,7 @@
       {
         "id": "CENIZASSAGRADAS",
         "name": "Cenizas Sagradas",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -2459,6 +2482,12 @@
       {
         "id": "ANTIDOTE",
         "name": "Antídoto",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "CARBOS",
+        "name": "Carburante",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -2517,6 +2546,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM41",
+        "name": "MT41",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM43",
         "name": "MT43",
         "qty": 1,
@@ -2525,6 +2560,18 @@
       {
         "id": "TM47",
         "name": "MT47",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM51",
+        "name": "MT51",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM59",
+        "name": "MT59",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -2597,6 +2644,12 @@
       {
         "id": "TM109",
         "name": "MT109",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM122",
+        "name": "MT122",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -2687,6 +2740,12 @@
       {
         "id": "ESCAPEROPE",
         "name": "Cuerda Huida",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "TICKETBARCO",
+        "name": "Ticket Barco",
         "qty": 1,
         "pocket": "Objetos clave"
       }
