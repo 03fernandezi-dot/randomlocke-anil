@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 6h 7m jugadas · 102,320₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 6h 18m jugadas · 116,140₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Adama",
@@ -35,12 +35,12 @@
         6
       ],
       "ev": [
+        4,
         0,
-        0,
-        0,
-        0,
-        0,
-        0
+        2,
+        1,
+        2,
+        6
       ],
       "abilPool": [
         "Perro Guardián"
@@ -154,7 +154,7 @@
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 32,
+      "level": 33,
       "types": [
         "Planta",
         "Veneno"
@@ -180,12 +180,12 @@
         19
       ],
       "ev": [
-        7,
-        22,
-        9,
-        15,
         11,
-        13
+        22,
+        11,
+        16,
+        13,
+        19
       ],
       "abilPool": [
         "Perro Guardián"
@@ -297,7 +297,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 31,
+      "level": 32,
       "types": [
         "Fuego",
         "Psíquico"
@@ -310,7 +310,7 @@
         "Psicocorte",
         "Golpe Bajo",
         "Calcinación",
-        "Sellar"
+        "Impresionar"
       ],
       "iv": [
         8,
@@ -321,12 +321,12 @@
         23
       ],
       "ev": [
-        1,
+        5,
         14,
-        7,
-        8,
-        8,
-        12
+        9,
+        9,
+        10,
+        18
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -426,7 +426,7 @@
     {
       "nickname": "Matao",
       "species": "Slurpuff",
-      "level": 32,
+      "level": 33,
       "types": [
         "Hada"
       ],
@@ -449,12 +449,12 @@
         31
       ],
       "ev": [
-        14,
+        18,
         30,
-        16,
-        19,
-        23,
-        23
+        18,
+        20,
+        25,
+        29
       ],
       "abilPool": [
         "Cuerpo Vívido",
@@ -555,7 +555,7 @@
     {
       "nickname": "Izan",
       "species": "Marshtomp",
-      "level": 32,
+      "level": 33,
       "types": [
         "Agua",
         "Tierra"
@@ -579,12 +579,12 @@
         29
       ],
       "ev": [
-        19,
+        23,
         42,
-        27,
         29,
-        31,
-        36
+        30,
+        33,
+        42
       ],
       "abilPool": [
         "Teracaparazón"
@@ -683,7 +683,7 @@
     {
       "nickname": "Bonifacio",
       "species": "Cherrim",
-      "level": 32,
+      "level": 33,
       "types": [
         "Planta"
       ],
@@ -706,12 +706,12 @@
         6
       ],
       "ev": [
-        11,
+        15,
         21,
-        18,
-        13,
         20,
-        21
+        14,
+        22,
+        27
       ],
       "abilPool": [
         "Armadura Prisma"
@@ -2565,6 +2565,119 @@
         "Alto Voltaje"
       ],
       "spriteKey": "DEERLING_2"
+    },
+    {
+      "nickname": "Kowalski",
+      "species": "Piplup",
+      "level": 29,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Intrépido",
+      "nature": "Alocada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Viraje",
+        "Resarcimiento",
+        "Zona Mágica",
+        "Cornada"
+      ],
+      "iv": [
+        27,
+        4,
+        14,
+        24,
+        4,
+        15
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Intrépido"
+      ],
+      "abilHidden": [
+        "Iluminación"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Respiro"
+        },
+        {
+          "lvl": 4,
+          "m": "Rugido"
+        },
+        {
+          "lvl": 6,
+          "m": "Rizo Defensa"
+        },
+        {
+          "lvl": 8,
+          "m": "Hidrochorro"
+        },
+        {
+          "lvl": 11,
+          "m": "Carga Parábola"
+        },
+        {
+          "lvl": 11,
+          "m": "Tajo Umbrío"
+        },
+        {
+          "lvl": 15,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 18,
+          "m": "Refugio"
+        },
+        {
+          "lvl": 22,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 22,
+          "m": "Resarcimiento"
+        },
+        {
+          "lvl": 25,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 29,
+          "m": "Cornada"
+        },
+        {
+          "lvl": 32,
+          "m": "Fachada"
+        },
+        {
+          "lvl": 36,
+          "m": "Genufendiente"
+        },
+        {
+          "lvl": 39,
+          "m": "Bola Hielo"
+        },
+        {
+          "lvl": 43,
+          "m": "Tierra Viva"
+        }
+      ],
+      "firstMoves": [
+        "Viraje",
+        "Resarcimiento",
+        "Zona Mágica",
+        "Cornada"
+      ],
+      "spriteKey": "PIPLUP"
     }
   ],
   "graveyard": [
@@ -3155,6 +3268,17 @@
       "mon": "Deerling"
     },
     {
+      "route": "tunel_roca",
+      "where": "Túnel Roca",
+      "species": "Piplup",
+      "nickname": "Kowalski",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 29,
+      "mon": "Piplup"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -3214,6 +3338,7 @@
       "ruta_15": true,
       "ruta_6": true,
       "ruta_9": true,
+      "tunel_roca": true,
       "ruta_22": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
@@ -3242,7 +3367,8 @@
       "ruta_15": true,
       "tunel_diglett": true,
       "ruta_9": true,
-      "ruta_10_norte": true
+      "ruta_10_norte": true,
+      "tunel_roca": true
     },
     "switches": [
       48,
@@ -3315,6 +3441,7 @@
       "Caramelo Furia",
       "Carburante",
       "Cenizas Sagradas",
+      "Cola Plúmbea",
       "Crítico X",
       "Crítico X 2",
       "Cuchara Torcida",
@@ -3327,6 +3454,7 @@
       "Gema Planta",
       "Hechizo",
       "Hierba Copia",
+      "Incienso Lento",
       "Incienso Suave",
       "Incubadora",
       "Manuscrito Sombras",
@@ -3344,6 +3472,8 @@
       "MT105",
       "MT109",
       "MT11",
+      "MT113",
+      "MT116",
       "MT122",
       "MT26",
       "MT39",
@@ -3370,6 +3500,7 @@
       "MT99",
       "Nerviosfera",
       "Parte Amarilla",
+      "Parte Verde",
       "Perla",
       "Pesa Recia",
       "Piedra Eterna",
@@ -3384,6 +3515,7 @@
       "Puerro",
       "Radar",
       "Reglamento",
+      "Sana Ball",
       "Scapsula",
       "Seguro Fallo",
       "Semilla Electro",
@@ -3516,6 +3648,24 @@
         "pocket": "Objetos"
       },
       {
+        "id": "GREENSHARD",
+        "name": "Parte Verde",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LAGGINGTAIL",
+        "name": "Cola Plúmbea",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FULLINCENSE",
+        "name": "Incienso Lento",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
         "qty": 127,
@@ -3578,7 +3728,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 5,
+        "qty": 3,
         "pocket": "Poké Balls"
       },
       {
@@ -3602,7 +3752,7 @@
       {
         "id": "HEALBALL",
         "name": "Sana Ball",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Poké Balls"
       },
       {
@@ -3788,6 +3938,18 @@
       {
         "id": "TM109",
         "name": "MT109",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM113",
+        "name": "MT113",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM116",
+        "name": "MT116",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
