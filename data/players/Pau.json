@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 4h 54m jugadas · 63,980₽ · vidas en el juego: 26",
+  "notes": "Importado del save · 5h 7m jugadas · 63,980₽ · vidas en el juego: 26",
   "team": [
     {
       "nickname": "Hedwig",
@@ -20,8 +20,8 @@
       "shiny": false,
       "moves": [
         "Truco Floral",
+        "Furia Natural",
         "Liofilización",
-        "Llave Corsé",
         "Espora"
       ],
       "iv": [
@@ -38,7 +38,7 @@
         19,
         21,
         20,
-        31
+        32
       ],
       "abilPool": [
         "Gran Encanto"
@@ -142,6 +142,144 @@
       "spriteKey": "DARTRIX"
     },
     {
+      "nickname": "Sabanero",
+      "species": "Mudsdale",
+      "level": 32,
+      "types": [
+        "Tierra"
+      ],
+      "ability": "Peluche",
+      "nature": "Amable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Hachazo Pétreo",
+        "Llave Corsé",
+        "Rueda Fuego",
+        "Llama Protectora"
+      ],
+      "iv": [
+        5,
+        24,
+        9,
+        29,
+        8,
+        0
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "abilPool": [
+        "Peluche",
+        "Albino"
+      ],
+      "abilHidden": [
+        "Baba"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Fisura"
+        },
+        {
+          "lvl": 1,
+          "m": "Viento Feérico"
+        },
+        {
+          "lvl": 1,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 1,
+          "m": "Bastión Final"
+        },
+        {
+          "lvl": 3,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 8,
+          "m": "Relámpago Súbito"
+        },
+        {
+          "lvl": 12,
+          "m": "Destructor"
+        },
+        {
+          "lvl": 16,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 20,
+          "m": "Púas"
+        },
+        {
+          "lvl": 22,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 24,
+          "m": "Asalto Barrera"
+        },
+        {
+          "lvl": 28,
+          "m": "Bofetón Lodo"
+        },
+        {
+          "lvl": 34,
+          "m": "Tragar"
+        },
+        {
+          "lvl": 40,
+          "m": "Terratemblor"
+        },
+        {
+          "lvl": 40,
+          "m": "Taladradora"
+        },
+        {
+          "lvl": 46,
+          "m": "Conjuro Funesto"
+        },
+        {
+          "lvl": 52,
+          "m": "Lanzallamas"
+        },
+        {
+          "lvl": 53,
+          "m": "Allanador Férreo"
+        }
+      ],
+      "tmMoves": [
+        "Arenas Ardientes",
+        "Barrera",
+        "Carga Parábola",
+        "Clavo Cañón",
+        "Decalcomanía",
+        "Gas Corrosivo",
+        "Granizo",
+        "Hachazo Pétreo",
+        "Llave Corsé",
+        "Represión Metal",
+        "Shuriken de Agua",
+        "Velo Sagrado",
+        "Vendetta",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Impresionar",
+        "Telequinesis",
+        "Represalia",
+        "Fertilizante"
+      ],
+      "spriteKey": "MUDSDALE"
+    },
+    {
       "nickname": "Hazard",
       "species": "Linoone (Galar)",
       "level": 33,
@@ -155,7 +293,7 @@
       "shiny": false,
       "moves": [
         "Buena Baza",
-        "Rodillo de Púas",
+        "Picadura",
         "Deslizamiento",
         "Protección"
       ],
@@ -173,7 +311,7 @@
         18,
         17,
         12,
-        16
+        17
       ],
       "abilPool": [
         "Energía Eólica",
@@ -262,8 +400,11 @@
         "Burbuja",
         "Camelo",
         "Carga Parábola",
+        "Decalcomanía",
+        "Eco Metálico",
         "Estrujón",
         "Gas Corrosivo",
+        "Granizo",
         "Ovocuración",
         "Pulso de Campo",
         "Velo Sagrado",
@@ -275,156 +416,6 @@
       ],
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10175.png",
       "spriteKey": "LINOONE_1"
-    },
-    {
-      "nickname": "Mocardo",
-      "species": "Muk",
-      "level": 34,
-      "types": [
-        "Veneno"
-      ],
-      "ability": "Compiescolta",
-      "nature": "Plácida",
-      "item": "Lodo Negro",
-      "shiny": false,
-      "moves": [
-        "Colmillo Veneno",
-        "Superdiente",
-        "Escudo Real",
-        "Púas Tóxicas"
-      ],
-      "iv": [
-        25,
-        26,
-        25,
-        20,
-        30,
-        26
-      ],
-      "ev": [
-        1,
-        16,
-        0,
-        8,
-        6,
-        1
-      ],
-      "abilPool": [
-        "Compiescolta",
-        "Manto Níveo"
-      ],
-      "abilHidden": [
-        "Motor Hadrónico"
-      ],
-      "learnset": [
-        {
-          "lvl": 0,
-          "m": "Púas Tóxicas"
-        },
-        {
-          "lvl": 1,
-          "m": "Ácido"
-        },
-        {
-          "lvl": 1,
-          "m": "Sísmico"
-        },
-        {
-          "lvl": 1,
-          "m": "Camuflaje"
-        },
-        {
-          "lvl": 7,
-          "m": "Chapoteo Lodo"
-        },
-        {
-          "lvl": 12,
-          "m": "Cola Veneno"
-        },
-        {
-          "lvl": 15,
-          "m": "Polvo Veneno"
-        },
-        {
-          "lvl": 18,
-          "m": "Pantalla de Luz"
-        },
-        {
-          "lvl": 18,
-          "m": "Bomba Ácida"
-        },
-        {
-          "lvl": 21,
-          "m": "Octopresa"
-        },
-        {
-          "lvl": 21,
-          "m": "Maldición"
-        },
-        {
-          "lvl": 26,
-          "m": "Golpe Aéreo"
-        },
-        {
-          "lvl": 26,
-          "m": "Acua Aro"
-        },
-        {
-          "lvl": 29,
-          "m": "Carga Tóxica"
-        },
-        {
-          "lvl": 29,
-          "m": "Tornado"
-        },
-        {
-          "lvl": 32,
-          "m": "Superdiente"
-        },
-        {
-          "lvl": 37,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 40,
-          "m": "Retribución"
-        },
-        {
-          "lvl": 46,
-          "m": "Gas Venenoso"
-        },
-        {
-          "lvl": 52,
-          "m": "Halloween"
-        },
-        {
-          "lvl": 57,
-          "m": "Espabila"
-        }
-      ],
-      "tmMoves": [
-        "Asalto Barrera",
-        "Carga Parábola",
-        "Clavo Cañón",
-        "Danza Aleteo",
-        "Estrujón",
-        "Gas Corrosivo",
-        "Granizo",
-        "Ovocuración",
-        "Pulso de Campo",
-        "Purificación",
-        "Represión Metal",
-        "Restricción",
-        "Sacrificio",
-        "Vendetta"
-      ],
-      "firstMoves": [
-        "Paralizador",
-        "Limpieza General",
-        "Presente",
-        "Bomba Imán"
-      ],
-      "spriteKey": "MUK"
     },
     {
       "nickname": "Shawn",
@@ -457,7 +448,7 @@
         20,
         27,
         20,
-        31
+        32
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -564,10 +555,16 @@
         }
       ],
       "tmMoves": [
+        "Barrera",
+        "Danza Aleteo",
+        "Decalcomanía",
         "Estrujón",
+        "Golpe Roca",
+        "Granizo",
         "Llave Corsé",
         "Piñón Auxiliar",
         "Rayo Fusión",
+        "Sacrificio",
         "Vendetta"
       ],
       "firstMoves": [
@@ -609,7 +606,7 @@
         21,
         26,
         20,
-        32
+        33
       ],
       "abilPool": [
         "Mano Rápida"
@@ -710,6 +707,8 @@
         "Camelo",
         "Clavo Cañón",
         "Danza Lunar",
+        "Granizo",
+        "Hachazo Pétreo",
         "Llave Corsé",
         "Pulso de Campo",
         "Rayo Fusión",
@@ -738,7 +737,7 @@
       "moves": [
         "Tajo Acuático",
         "Terratemblor",
-        "Arrumaco",
+        "Cola Veneno",
         "Cambio de Marcha"
       ],
       "iv": [
@@ -755,7 +754,7 @@
         17,
         17,
         12,
-        16
+        17
       ],
       "abilPool": [
         "Sal Purificadora"
@@ -835,12 +834,15 @@
         "Burbuja",
         "Clavo Cañón",
         "Danza Aleteo",
+        "Decalcomanía",
+        "Eco Metálico",
         "Golpe Roca",
         "Ovocuración",
         "Rayo Fusión",
         "Represión Metal",
         "Restricción",
         "Sacrificio",
+        "Shuriken de Agua",
         "Vendetta"
       ],
       "firstMoves": [
@@ -3182,29 +3184,179 @@
       "spriteKey": "SOLROCK"
     },
     {
-      "nickname": "Sabanero",
-      "species": "Mudbray",
-      "level": 31,
+      "nickname": "Mocardo",
+      "species": "Muk",
+      "level": 34,
+      "types": [
+        "Veneno"
+      ],
+      "ability": "Compiescolta",
+      "nature": "Plácida",
+      "item": "Lodo Negro",
+      "shiny": false,
+      "moves": [
+        "Colmillo Veneno",
+        "Superdiente",
+        "Escudo Real",
+        "Púas Tóxicas"
+      ],
+      "iv": [
+        25,
+        26,
+        25,
+        20,
+        30,
+        26
+      ],
+      "ev": [
+        1,
+        16,
+        0,
+        8,
+        6,
+        1
+      ],
+      "abilPool": [
+        "Compiescolta",
+        "Manto Níveo"
+      ],
+      "abilHidden": [
+        "Motor Hadrónico"
+      ],
+      "learnset": [
+        {
+          "lvl": 0,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 1,
+          "m": "Ácido"
+        },
+        {
+          "lvl": 1,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 1,
+          "m": "Camuflaje"
+        },
+        {
+          "lvl": 7,
+          "m": "Chapoteo Lodo"
+        },
+        {
+          "lvl": 12,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 15,
+          "m": "Polvo Veneno"
+        },
+        {
+          "lvl": 18,
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 18,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 21,
+          "m": "Octopresa"
+        },
+        {
+          "lvl": 21,
+          "m": "Maldición"
+        },
+        {
+          "lvl": 26,
+          "m": "Golpe Aéreo"
+        },
+        {
+          "lvl": 26,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 29,
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 29,
+          "m": "Tornado"
+        },
+        {
+          "lvl": 32,
+          "m": "Superdiente"
+        },
+        {
+          "lvl": 37,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 40,
+          "m": "Retribución"
+        },
+        {
+          "lvl": 46,
+          "m": "Gas Venenoso"
+        },
+        {
+          "lvl": 52,
+          "m": "Halloween"
+        },
+        {
+          "lvl": 57,
+          "m": "Espabila"
+        }
+      ],
+      "tmMoves": [
+        "Asalto Barrera",
+        "Carga Parábola",
+        "Clavo Cañón",
+        "Danza Aleteo",
+        "Estrujón",
+        "Gas Corrosivo",
+        "Granizo",
+        "Ovocuración",
+        "Pulso de Campo",
+        "Purificación",
+        "Represión Metal",
+        "Restricción",
+        "Sacrificio",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Paralizador",
+        "Limpieza General",
+        "Presente",
+        "Bomba Imán"
+      ],
+      "spriteKey": "MUK"
+    },
+    {
+      "nickname": "Bollicao",
+      "species": "Diglett",
+      "level": 20,
       "types": [
         "Tierra"
       ],
-      "ability": "Velo Agua",
-      "nature": "Amable",
+      "ability": "Tintineo",
+      "nature": "Huraña",
       "item": "",
       "shiny": false,
       "moves": [
-        "Impresionar",
-        "Telequinesis",
-        "Represalia",
-        "Fertilizante"
+        "Pantalla de Luz",
+        "Camaradería",
+        "Esquirla Helada",
+        "Fisura"
       ],
       "iv": [
-        5,
-        24,
-        9,
-        29,
-        8,
-        0
+        11,
+        1,
+        0,
+        17,
+        30,
+        1
       ],
       "ev": [
         0,
@@ -3215,85 +3367,81 @@
         0
       ],
       "abilPool": [
-        "Velo Agua",
-        "Descarga"
+        "Tintineo",
+        "Experto"
       ],
       "abilHidden": [
-        "Impulso"
+        "Acometida"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Bucle Arena"
+          "m": "Ataque Arena"
         },
         {
           "lvl": 1,
-          "m": "Chispa"
-        },
-        {
-          "lvl": 3,
-          "m": "Confidencia"
+          "m": "Superdiente"
         },
         {
           "lvl": 4,
-          "m": "Fisura"
+          "m": "Calcinación"
         },
         {
           "lvl": 8,
-          "m": "Deseo Cura"
-        },
-        {
-          "lvl": 8,
-          "m": "Tambor"
+          "m": "Cura Floral"
         },
         {
           "lvl": 12,
-          "m": "A Defender"
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 15,
+          "m": "Camaradería"
         },
         {
           "lvl": 16,
-          "m": "Rueda Fuego"
+          "m": "Esquirla Helada"
         },
         {
           "lvl": 20,
-          "m": "Impresionar"
-        },
-        {
-          "lvl": 22,
-          "m": "Telequinesis"
+          "m": "Fisura"
         },
         {
           "lvl": 24,
-          "m": "Represalia"
+          "m": "Pirotecnia"
+        },
+        {
+          "lvl": 26,
+          "m": "Camelo"
         },
         {
           "lvl": 28,
-          "m": "Fertilizante"
+          "m": "Recogearena"
         },
         {
           "lvl": 32,
-          "m": "Pulso Cura"
+          "m": "Cañón Resplandor"
         },
         {
           "lvl": 36,
-          "m": "Espora"
+          "m": "Electropico"
         },
         {
           "lvl": 40,
-          "m": "Chapoteo Lodo"
+          "m": "Disparo Lodo"
         },
         {
           "lvl": 44,
-          "m": "Pulpocañón"
+          "m": "Ida y Vuelta"
         }
       ],
       "firstMoves": [
-        "Impresionar",
-        "Telequinesis",
-        "Represalia",
-        "Fertilizante"
+        "Pantalla de Luz",
+        "Camaradería",
+        "Esquirla Helada",
+        "Fisura"
       ],
-      "spriteKey": "MUDBRAY"
+      "spriteKey": "DIGLETT"
     }
   ],
   "graveyard": [
@@ -3558,6 +3706,17 @@
       "mon": "Dartrix"
     },
     {
+      "route": "ruta_10_sur",
+      "where": "Ruta 10 Sur",
+      "species": "Mudsdale",
+      "nickname": "Sabanero",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 31,
+      "mon": "Mudsdale"
+    },
+    {
       "route": "",
       "where": "Museo Pokémon",
       "species": "Linoone",
@@ -3567,17 +3726,6 @@
       "category": "estatico_regalo",
       "level": 1,
       "mon": "Linoone"
-    },
-    {
-      "route": "ruta_15",
-      "where": "Ruta 15",
-      "species": "Muk",
-      "nickname": "Mocardo",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 25,
-      "mon": "Muk"
     },
     {
       "route": "",
@@ -3811,15 +3959,26 @@
       "mon": "Solrock"
     },
     {
-      "route": "ruta_10_sur",
-      "where": "Ruta 10 Sur",
-      "species": "Mudbray",
-      "nickname": "Sabanero",
+      "route": "ruta_15",
+      "where": "Ruta 15",
+      "species": "Muk",
+      "nickname": "Mocardo",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 31,
-      "mon": "Mudbray"
+      "level": 25,
+      "mon": "Muk"
+    },
+    {
+      "route": "ruta_21",
+      "where": "Ruta 21",
+      "species": "Diglett",
+      "nickname": "Bollicao",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 20,
+      "mon": "Diglett"
     },
     {
       "route": "ruta_1",
@@ -3854,7 +4013,7 @@
     "npcs": {},
     "routes": {
       "ciudad_plateada": true,
-      "ruta_15": true,
+      "ruta_10_sur": true,
       "bosque_verde": true,
       "ciudad_celeste": true,
       "monte_moon": true,
@@ -3871,14 +4030,14 @@
       "ruta_22": true,
       "ruta_3": true,
       "tunel_roca": true,
-      "ruta_10_sur": true,
+      "ruta_15": true,
+      "ruta_21": true,
       "ruta_1": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
       "ciudad_carmin": true,
       "tunel_diglett": true,
-      "pueblo_lavanda": true,
-      "ruta_21": true
+      "pueblo_lavanda": true
     },
     "items": {},
     "encounters": {
@@ -3905,7 +4064,8 @@
       "ruta_9": true,
       "ruta_10_norte": true,
       "tunel_roca": true,
-      "ruta_10_sur": true
+      "ruta_10_sur": true,
+      "ruta_21": true
     },
     "switches": [
       48,
@@ -4208,7 +4368,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 839,
+        "qty": 838,
         "pocket": "Medicinas"
       },
       {
@@ -4316,7 +4476,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 18,
+        "qty": 17,
         "pocket": "Poké Balls"
       },
       {
