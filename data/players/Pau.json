@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 3h 34m jugadas · 28,960₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 3h 39m jugadas · 10,160₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Hedwig",
       "species": "Dartrix",
-      "level": 24,
+      "level": 25,
       "types": [
         "Planta",
         "Volador"
@@ -33,10 +33,10 @@
         15
       ],
       "ev": [
-        13,
-        24,
+        14,
+        25,
         10,
-        7,
+        8,
         11,
         23
       ],
@@ -162,10 +162,10 @@
         27
       ],
       "ev": [
-        15,
-        21,
+        16,
+        22,
         12,
-        13,
+        14,
         9,
         18
       ],
@@ -272,7 +272,7 @@
     {
       "nickname": "Shawn",
       "species": "Flaaffy",
-      "level": 24,
+      "level": 25,
       "types": [
         "Eléctrico"
       ],
@@ -283,7 +283,7 @@
       "moves": [
         "Carga Parábola",
         "Viento Aciago",
-        "Shuriken de Agua",
+        "Pikaturbo",
         "Levitón"
       ],
       "iv": [
@@ -295,10 +295,10 @@
         19
       ],
       "ev": [
-        12,
-        20,
-        11,
         13,
+        21,
+        11,
+        14,
         11,
         23
       ],
@@ -426,10 +426,10 @@
         19
       ],
       "ev": [
-        15,
-        24,
+        16,
+        25,
         12,
-        12,
+        13,
         11,
         24
       ],
@@ -568,10 +568,10 @@
         0
       ],
       "ev": [
+        10,
+        15,
         9,
-        14,
-        9,
-        3,
+        4,
         3,
         8
       ],
@@ -678,7 +678,7 @@
     {
       "nickname": "Envape",
       "species": "Wartortle",
-      "level": 24,
+      "level": 25,
       "types": [
         "Agua"
       ],
@@ -690,7 +690,7 @@
         "Clavo Cañón",
         "Terratemblor",
         "Arrumaco",
-        "Rayo Carga"
+        "Cambio de Marcha"
       ],
       "iv": [
         3,
@@ -701,10 +701,10 @@
         23
       ],
       "ev": [
-        9,
-        13,
+        10,
+        14,
         8,
-        3,
+        4,
         3,
         8
       ],
@@ -2287,6 +2287,251 @@
         "Paisaje Nevado"
       ],
       "spriteKey": "LEDYBA"
+    },
+    {
+      "nickname": "Mocardo",
+      "species": "Grimer",
+      "level": 25,
+      "types": [
+        "Veneno"
+      ],
+      "ability": "Competitivo",
+      "nature": "Plácida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Paralizador",
+        "Limpieza General",
+        "Presente",
+        "Bomba Imán"
+      ],
+      "iv": [
+        25,
+        26,
+        25,
+        20,
+        30,
+        26
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Competitivo",
+        "Autoestima"
+      ],
+      "abilHidden": [
+        "Recogebolas"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 1,
+          "m": "Reserva"
+        },
+        {
+          "lvl": 4,
+          "m": "Colmillo Veneno"
+        },
+        {
+          "lvl": 7,
+          "m": "Alivio"
+        },
+        {
+          "lvl": 12,
+          "m": "Purificación"
+        },
+        {
+          "lvl": 15,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 18,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 18,
+          "m": "Limpieza General"
+        },
+        {
+          "lvl": 21,
+          "m": "Presente"
+        },
+        {
+          "lvl": 21,
+          "m": "Bomba Imán"
+        },
+        {
+          "lvl": 26,
+          "m": "Cascabel Cura"
+        },
+        {
+          "lvl": 26,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 29,
+          "m": "Lengüetazo"
+        },
+        {
+          "lvl": 29,
+          "m": "Agarre"
+        },
+        {
+          "lvl": 32,
+          "m": "Carga"
+        },
+        {
+          "lvl": 37,
+          "m": "Polvo Veneno"
+        },
+        {
+          "lvl": 40,
+          "m": "Eructo"
+        },
+        {
+          "lvl": 43,
+          "m": "Castigo"
+        },
+        {
+          "lvl": 46,
+          "m": "Doble Patada"
+        },
+        {
+          "lvl": 48,
+          "m": "Mil Púas Tóxicas"
+        }
+      ],
+      "firstMoves": [
+        "Paralizador",
+        "Limpieza General",
+        "Presente",
+        "Bomba Imán"
+      ],
+      "spriteKey": "GRIMER"
+    },
+    {
+      "nickname": "Crangeburger",
+      "species": "Clauncher",
+      "level": 30,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Unidad Ecuestre",
+      "nature": "Afable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Tenaza",
+        "Infortunio",
+        "Pistola Agua",
+        "Legado"
+      ],
+      "iv": [
+        25,
+        31,
+        12,
+        17,
+        25,
+        4
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Unidad Ecuestre"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Hora del Té"
+        },
+        {
+          "lvl": 1,
+          "m": "Relámpago Súbito"
+        },
+        {
+          "lvl": 7,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 9,
+          "m": "Danza Lluvia"
+        },
+        {
+          "lvl": 10,
+          "m": "Empapar"
+        },
+        {
+          "lvl": 12,
+          "m": "Hidrochorro"
+        },
+        {
+          "lvl": 15,
+          "m": "Rayo Burbuja"
+        },
+        {
+          "lvl": 20,
+          "m": "Tenaza"
+        },
+        {
+          "lvl": 20,
+          "m": "Infortunio"
+        },
+        {
+          "lvl": 25,
+          "m": "Pistola Agua"
+        },
+        {
+          "lvl": 30,
+          "m": "Legado"
+        },
+        {
+          "lvl": 35,
+          "m": "Sumisión"
+        },
+        {
+          "lvl": 36,
+          "m": "Branquibocado"
+        },
+        {
+          "lvl": 40,
+          "m": "Hidroariete"
+        },
+        {
+          "lvl": 45,
+          "m": "Puño Drenaje"
+        },
+        {
+          "lvl": 50,
+          "m": "Vasta Fuerza"
+        },
+        {
+          "lvl": 55,
+          "m": "Onda Trueno"
+        }
+      ],
+      "firstMoves": [
+        "Tenaza",
+        "Infortunio",
+        "Pistola Agua",
+        "Legado"
+      ],
+      "spriteKey": "CLAUNCHER"
     }
   ],
   "graveyard": [
@@ -2749,6 +2994,28 @@
       "mon": "Ledyba"
     },
     {
+      "route": "ruta_15",
+      "where": "Ruta 15",
+      "species": "Grimer",
+      "nickname": "Mocardo",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 25,
+      "mon": "Grimer"
+    },
+    {
+      "route": "ruta_12",
+      "where": "Ruta 12",
+      "species": "Clauncher",
+      "nickname": "Crangeburger",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 34,
+      "mon": "Clauncher"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -2793,9 +3060,12 @@
       "ruta_5": true,
       "ruta_6": true,
       "ciudad_carmin": true,
+      "ruta_15": true,
+      "ruta_12": true,
       "ruta_1": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
+      "tunel_diglett": true,
       "ruta_21": true
     },
     "items": {},
@@ -2816,7 +3086,10 @@
       "ruta_20": true,
       "ruta_5": true,
       "ruta_6": true,
-      "ciudad_carmin": true
+      "ciudad_carmin": true,
+      "ruta_15": true,
+      "tunel_diglett": true,
+      "ruta_12": true
     },
     "switches": [
       48,
@@ -2838,6 +3111,7 @@
       82,
       83,
       84,
+      85,
       110,
       112,
       113,
@@ -2861,6 +3135,7 @@
     ],
     "foundItems": [
       "Aecapsula",
+      "Antiparalizador",
       "Baya Algama",
       "Baya Aricoc",
       "Baya Grana",
@@ -3035,7 +3310,7 @@
       {
         "id": "SUPERREPEL",
         "name": "Superrepelente",
-        "qty": 1,
+        "qty": 5,
         "pocket": "Objetos"
       },
       {
@@ -3141,15 +3416,21 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "PARALYZEHEAL",
+        "name": "Antiparalizador",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 4,
+        "qty": 22,
         "pocket": "Poké Balls"
       },
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 12,
+        "qty": 32,
         "pocket": "Poké Balls"
       },
       {
@@ -3161,7 +3442,7 @@
       {
         "id": "PREMIERBALL",
         "name": "Honor Ball",
-        "qty": 2,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
