@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 3h 50m jugadas · 60,150₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 3h 54m jugadas · 60,150₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Rammus",
       "species": "Ivysaur",
-      "level": 21,
+      "level": 22,
       "types": [
         "Planta",
         "Veneno"
@@ -35,9 +35,9 @@
       "ev": [
         0,
         0,
-        0,
-        0,
-        0,
+        2,
+        2,
+        1,
         0
       ],
       "abilPool": [
@@ -171,9 +171,9 @@
       "ev": [
         10,
         20,
-        17,
-        13,
-        20,
+        19,
+        15,
+        21,
         20
       ],
       "abilPool": [
@@ -284,9 +284,9 @@
       "ev": [
         1,
         2,
-        0,
-        1,
-        4,
+        2,
+        3,
+        5,
         0
       ],
       "abilPool": [
@@ -410,9 +410,9 @@
       "ev": [
         10,
         20,
-        18,
-        13,
         20,
+        15,
+        21,
         21
       ],
       "abilPool": [
@@ -530,9 +530,9 @@
       "ev": [
         7,
         14,
-        11,
-        6,
-        14,
+        13,
+        8,
+        15,
         14
       ],
       "abilPool": [
@@ -656,9 +656,9 @@
       "ev": [
         12,
         20,
-        18,
-        14,
         20,
+        16,
+        21,
         21
       ],
       "abilPool": [
@@ -2370,6 +2370,7 @@
       "ruta_1": true,
       "ruta_22": true,
       "ruta_3": true,
+      "ruta_6": true,
       "ruta_21": true
     },
     "items": {},
@@ -2414,6 +2415,7 @@
       113,
       114,
       121,
+      129,
       138,
       171,
       176,
@@ -2452,6 +2454,7 @@
       "Hechizo",
       "Hierba Copia",
       "Incienso Suave",
+      "Incubadora",
       "Manuscrito Sombras",
       "Menta Agitada",
       "Menta Huraña",
@@ -2470,6 +2473,7 @@
       "MT39",
       "MT41",
       "MT43",
+      "MT46",
       "MT47",
       "MT51",
       "MT59",
@@ -2711,6 +2715,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM46",
+        "name": "MT46",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM47",
         "name": "MT47",
         "qty": 1,
@@ -2917,6 +2927,12 @@
       {
         "id": "TICKETBARCO",
         "name": "Ticket Barco",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "EGGHATCHER",
+        "name": "Incubadora",
         "qty": 1,
         "pocket": "Objetos clave"
       }
