@@ -2,7 +2,7 @@
   "id": "Pau",
   "name": "Pau",
   "lives": 30,
-  "livesUsed": 3,
+  "livesUsed": 2,
   "champion": false,
   "notes": "Importado del save · 3h 53m jugadas · 26,150₽ · vidas en el juego: 26",
   "team": [
@@ -681,6 +681,131 @@
       ],
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10175.png",
       "spriteKey": "LINOONE_1"
+    },
+    {
+      "nickname": "Envape",
+      "species": "Wartortle",
+      "level": 26,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Sal Purificadora",
+      "nature": "Huraña",
+      "item": "Seguro Debilidad",
+      "shiny": false,
+      "moves": [
+        "Clavo Cañón",
+        "Terratemblor",
+        "Arrumaco",
+        "Cambio de Marcha"
+      ],
+      "iv": [
+        3,
+        24,
+        5,
+        31,
+        25,
+        23
+      ],
+      "ev": [
+        13,
+        15,
+        10,
+        7,
+        4,
+        14
+      ],
+      "abilPool": [
+        "Sal Purificadora"
+      ],
+      "abilHidden": [
+        "Flexibilidad"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 1,
+          "m": "Dulce Aroma"
+        },
+        {
+          "lvl": 1,
+          "m": "Agitacola"
+        },
+        {
+          "lvl": 1,
+          "m": "Hidropulso"
+        },
+        {
+          "lvl": 1,
+          "m": "Plumerazo"
+        },
+        {
+          "lvl": 9,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 12,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 15,
+          "m": "Cambiapoder"
+        },
+        {
+          "lvl": 20,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 25,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 30,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 35,
+          "m": "Pirueta Helada"
+        },
+        {
+          "lvl": 40,
+          "m": "Alivio"
+        },
+        {
+          "lvl": 45,
+          "m": "Rayo Señal"
+        },
+        {
+          "lvl": 50,
+          "m": "Giro Rápido"
+        },
+        {
+          "lvl": 50,
+          "m": "Latigazo"
+        }
+      ],
+      "tmMoves": [
+        "Asalto Barrera",
+        "Barrera",
+        "Burbuja",
+        "Clavo Cañón",
+        "Danza Aleteo",
+        "Golpe Roca",
+        "Ovocuración",
+        "Represión Metal",
+        "Sacrificio",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Rayo Burbuja",
+        "Rayo Carga",
+        "Arrumaco",
+        "Pistola Agua"
+      ],
+      "spriteKey": "WARTORTLE"
     }
   ],
   "box": [
@@ -2421,134 +2546,6 @@
   ],
   "graveyard": [
     {
-      "nickname": "Envape",
-      "species": "Wartortle",
-      "level": 26,
-      "types": [
-        "Agua"
-      ],
-      "ability": "Sal Purificadora",
-      "nature": "Huraña",
-      "item": "Seguro Debilidad",
-      "shiny": false,
-      "moves": [
-        "Clavo Cañón",
-        "Terratemblor",
-        "Arrumaco",
-        "Cambio de Marcha"
-      ],
-      "iv": [
-        3,
-        24,
-        5,
-        31,
-        25,
-        23
-      ],
-      "ev": [
-        13,
-        15,
-        10,
-        7,
-        4,
-        14
-      ],
-      "abilPool": [
-        "Sal Purificadora"
-      ],
-      "abilHidden": [
-        "Flexibilidad"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Burbuja"
-        },
-        {
-          "lvl": 1,
-          "m": "Dulce Aroma"
-        },
-        {
-          "lvl": 1,
-          "m": "Agitacola"
-        },
-        {
-          "lvl": 1,
-          "m": "Hidropulso"
-        },
-        {
-          "lvl": 1,
-          "m": "Plumerazo"
-        },
-        {
-          "lvl": 9,
-          "m": "Cola Veneno"
-        },
-        {
-          "lvl": 12,
-          "m": "Clavo Cañón"
-        },
-        {
-          "lvl": 15,
-          "m": "Cambiapoder"
-        },
-        {
-          "lvl": 20,
-          "m": "Anulación"
-        },
-        {
-          "lvl": 25,
-          "m": "Cambio de Marcha"
-        },
-        {
-          "lvl": 30,
-          "m": "Tajo Acuático"
-        },
-        {
-          "lvl": 35,
-          "m": "Pirueta Helada"
-        },
-        {
-          "lvl": 40,
-          "m": "Alivio"
-        },
-        {
-          "lvl": 45,
-          "m": "Rayo Señal"
-        },
-        {
-          "lvl": 50,
-          "m": "Giro Rápido"
-        },
-        {
-          "lvl": 50,
-          "m": "Latigazo"
-        }
-      ],
-      "tmMoves": [
-        "Asalto Barrera",
-        "Barrera",
-        "Burbuja",
-        "Clavo Cañón",
-        "Danza Aleteo",
-        "Golpe Roca",
-        "Ovocuración",
-        "Represión Metal",
-        "Sacrificio",
-        "Vendetta"
-      ],
-      "firstMoves": [
-        "Rayo Burbuja",
-        "Rayo Carga",
-        "Arrumaco",
-        "Pistola Agua"
-      ],
-      "spriteKey": "WARTORTLE",
-      "cause": "",
-      "route": "Ciudad Celeste",
-      "date": ""
-    },
-    {
       "nickname": "Partyfiesta",
       "species": "Hatenna",
       "level": 7,
@@ -2858,7 +2855,7 @@
       "species": "Wartortle",
       "nickname": "Envape",
       "shiny": false,
-      "status": "dead",
+      "status": "captured",
       "category": "ciudad",
       "level": 18,
       "mon": "Wartortle"
@@ -3430,12 +3427,6 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "CENIZASSAGRADAS",
-        "name": "Cenizas Sagradas",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "RANDOMABILITYCAPSULE",
         "name": "Randomizador de Habilidad",
         "qty": 1,
@@ -3761,5 +3752,5 @@
     "2427181806",
     "2750763801"
   ],
-  "revividos": 1
+  "revividos": 2
 }
