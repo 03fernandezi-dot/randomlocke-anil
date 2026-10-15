@@ -4,25 +4,25 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 4h 38m jugadas · 43,680₽ · vidas en el juego: 26",
+  "notes": "Importado del save · 4h 52m jugadas · 63,980₽ · vidas en el juego: 26",
   "team": [
     {
       "nickname": "Mariposon",
       "species": "Butterfree",
-      "level": 32,
+      "level": 33,
       "types": [
         "Bicho",
         "Volador"
       ],
       "ability": "Mano Rápida",
       "nature": "Huraña",
-      "item": "Incienso Marino",
+      "item": "",
       "shiny": false,
       "moves": [
         "Aire Afilado",
         "Viento Plata",
         "Viento Feérico",
-        "Viraje"
+        "Arenas Ardientes"
       ],
       "iv": [
         9,
@@ -34,11 +34,11 @@
       ],
       "ev": [
         24,
-        38,
+        49,
         21,
+        26,
         20,
-        14,
-        31
+        32
       ],
       "abilPool": [
         "Mano Rápida"
@@ -133,6 +133,7 @@
         }
       ],
       "tmMoves": [
+        "Arenas Ardientes",
         "Asalto Barrera",
         "Barrera",
         "Camelo",
@@ -140,6 +141,8 @@
         "Danza Lunar",
         "Llave Corsé",
         "Pulso de Campo",
+        "Rayo Fusión",
+        "Restricción",
         "Velo Sagrado",
         "Vendetta",
         "Viento Plata"
@@ -153,14 +156,14 @@
     {
       "nickname": "Hazard",
       "species": "Linoone (Galar)",
-      "level": 32,
+      "level": 33,
       "types": [
         "Siniestro",
         "Normal"
       ],
       "ability": "Transportarrocas",
       "nature": "Activa",
-      "item": "",
+      "item": "Chaleco Asalto",
       "shiny": false,
       "moves": [
         "Buena Baza",
@@ -178,11 +181,11 @@
       ],
       "ev": [
         18,
-        28,
+        39,
         18,
-        11,
-        6,
-        15
+        17,
+        12,
+        16
       ],
       "abilPool": [
         "Energía Eólica",
@@ -288,13 +291,13 @@
     {
       "nickname": "Mocardo",
       "species": "Muk",
-      "level": 32,
+      "level": 34,
       "types": [
         "Veneno"
       ],
       "ability": "Compiescolta",
       "nature": "Plácida",
-      "item": "",
+      "item": "Lodo Negro",
       "shiny": false,
       "moves": [
         "Colmillo Veneno",
@@ -312,11 +315,11 @@
       ],
       "ev": [
         1,
-        4,
+        15,
         0,
-        2,
-        0,
-        0
+        8,
+        6,
+        1
       ],
       "abilPool": [
         "Compiescolta",
@@ -438,7 +441,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 32,
+      "level": 33,
       "types": [
         "Eléctrico"
       ],
@@ -462,11 +465,11 @@
       ],
       "ev": [
         21,
-        34,
+        45,
         20,
-        21,
-        14,
-        30
+        27,
+        20,
+        31
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -572,6 +575,13 @@
           "m": "Clemencia"
         }
       ],
+      "tmMoves": [
+        "Estrujón",
+        "Llave Corsé",
+        "Piñón Auxiliar",
+        "Rayo Fusión",
+        "Vendetta"
+      ],
       "firstMoves": [
         "Viento Aciago",
         "Tajo Acuático",
@@ -582,18 +592,18 @@
     {
       "nickname": "Hedwig",
       "species": "Dartrix",
-      "level": 32,
+      "level": 33,
       "types": [
         "Planta",
         "Volador"
       ],
       "ability": "Gran Encanto",
       "nature": "Amable",
-      "item": "",
+      "item": "Seguro Debilidad",
       "shiny": false,
       "moves": [
         "Truco Floral",
-        "Furia Natural",
+        "Liofilización",
         "Llave Corsé",
         "Espora"
       ],
@@ -607,11 +617,11 @@
       ],
       "ev": [
         22,
-        38,
+        49,
         19,
-        15,
-        14,
-        30
+        21,
+        20,
+        31
       ],
       "abilPool": [
         "Gran Encanto"
@@ -690,6 +700,7 @@
         }
       ],
       "tmMoves": [
+        "Arenas Ardientes",
         "Burbuja",
         "Carga Parábola",
         "Danza Aleteo",
@@ -698,6 +709,7 @@
         "Golpe Roca",
         "Llave Corsé",
         "Piñón Auxiliar",
+        "Rayo Fusión",
         "Represión Metal",
         "Restricción",
         "Sacrificio",
@@ -715,13 +727,13 @@
     {
       "nickname": "Envape",
       "species": "Wartortle",
-      "level": 32,
+      "level": 33,
       "types": [
         "Agua"
       ],
       "ability": "Sal Purificadora",
       "nature": "Huraña",
-      "item": "Seguro Debilidad",
+      "item": "Incienso Marino",
       "shiny": false,
       "moves": [
         "Tajo Acuático",
@@ -739,11 +751,11 @@
       ],
       "ev": [
         18,
-        25,
+        36,
         17,
-        11,
-        6,
-        15
+        17,
+        12,
+        16
       ],
       "abilPool": [
         "Sal Purificadora"
@@ -825,7 +837,9 @@
         "Danza Aleteo",
         "Golpe Roca",
         "Ovocuración",
+        "Rayo Fusión",
         "Represión Metal",
+        "Restricción",
         "Sacrificio",
         "Vendetta"
       ],
@@ -3030,6 +3044,142 @@
         "Tóxico"
       ],
       "spriteKey": "SAWSBUCK_1"
+    },
+    {
+      "nickname": "Sol Solet",
+      "species": "Solrock",
+      "level": 29,
+      "types": [
+        "Roca",
+        "Psíquico"
+      ],
+      "ability": "Clorofila",
+      "nature": "Cauta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Seducción",
+        "Refugio",
+        "Intercambio",
+        "Atadura"
+      ],
+      "iv": [
+        0,
+        25,
+        15,
+        28,
+        5,
+        9
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Clorofila"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 1,
+          "m": "Poder Pasado"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Roca"
+        },
+        {
+          "lvl": 1,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Asalto Barrera"
+        },
+        {
+          "lvl": 5,
+          "m": "Psicocambio"
+        },
+        {
+          "lvl": 9,
+          "m": "Isofuerza"
+        },
+        {
+          "lvl": 10,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 15,
+          "m": "Psicoonda"
+        },
+        {
+          "lvl": 17,
+          "m": "Seducción"
+        },
+        {
+          "lvl": 20,
+          "m": "Refugio"
+        },
+        {
+          "lvl": 21,
+          "m": "Intercambio"
+        },
+        {
+          "lvl": 25,
+          "m": "Atadura"
+        },
+        {
+          "lvl": 30,
+          "m": "Zona Extraña"
+        },
+        {
+          "lvl": 35,
+          "m": "Pirueta Helada"
+        },
+        {
+          "lvl": 35,
+          "m": "Meditación"
+        },
+        {
+          "lvl": 37,
+          "m": "Joya de Luz"
+        },
+        {
+          "lvl": 40,
+          "m": "Testarazo"
+        },
+        {
+          "lvl": 45,
+          "m": "Corpulencia"
+        },
+        {
+          "lvl": 50,
+          "m": "Pirotecnia"
+        },
+        {
+          "lvl": 55,
+          "m": "Cura Floral"
+        }
+      ],
+      "firstMoves": [
+        "Seducción",
+        "Refugio",
+        "Intercambio",
+        "Atadura"
+      ],
+      "spriteKey": "SOLROCK"
     }
   ],
   "graveyard": [
@@ -3536,6 +3686,17 @@
       "mon": "Sawsbuck"
     },
     {
+      "route": "tunel_roca",
+      "where": "Túnel Roca",
+      "species": "Solrock",
+      "nickname": "Sol Solet",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 29,
+      "mon": "Solrock"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -3584,11 +3745,14 @@
       "ruta_4": true,
       "ruta_22": true,
       "ruta_3": true,
+      "tunel_roca": true,
       "ruta_1": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
       "ciudad_carmin": true,
       "tunel_diglett": true,
+      "ruta_10_sur": true,
+      "pueblo_lavanda": true,
       "ruta_21": true
     },
     "items": {},
@@ -3614,7 +3778,8 @@
       "tunel_diglett": true,
       "ruta_12": true,
       "ruta_9": true,
-      "ruta_10_norte": true
+      "ruta_10_norte": true,
+      "tunel_roca": true
     },
     "switches": [
       48,
@@ -3640,6 +3805,7 @@
       87,
       88,
       89,
+      91,
       92,
       110,
       112,
@@ -3668,6 +3834,7 @@
     ],
     "foundItems": [
       "Aecapsula",
+      "Amor Ball",
       "Antihielo",
       "Antiparalizador",
       "Baya Algama",
@@ -3704,6 +3871,7 @@
       "Manuscrito Sombras",
       "Más PP",
       "Más PS",
+      "Menta Afable",
       "Menta Audaz",
       "Menta Huraña",
       "Menta Seria",
@@ -3731,16 +3899,20 @@
       "MT72",
       "MT73",
       "MT74",
+      "MT80",
       "MT82",
       "MT83",
       "MT85",
       "MT86",
       "MT87",
+      "MT88",
       "MT89",
       "MT90",
       "Nivel Ball",
       "Pesa Recia",
+      "Piedra Oval",
       "Poké Montura",
+      "Polvo Estelar",
       "Raíz Grande",
       "Randomizador de Habilidad",
       "Rapid Ball",
@@ -3777,12 +3949,6 @@
       {
         "id": "LUSTROUSORB",
         "name": "Lustresfera",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "ROOMSERVICE",
-        "name": "Servicio Raro",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -3835,12 +4001,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "BLACKSLUDGE",
-        "name": "Lodo Negro",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "POWERBELT",
         "name": "Cinto Recio",
         "qty": 1,
@@ -3883,8 +4043,20 @@
         "pocket": "Objetos"
       },
       {
-        "id": "ASSAULTVEST",
-        "name": "Chaleco Asalto",
+        "id": "STARDUST",
+        "name": "Polvo Estelar",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ROOMSERVICE",
+        "name": "Servicio Raro",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "OVALSTONE",
+        "name": "Piedra Oval",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -4009,9 +4181,15 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "MILDMINT",
+        "name": "Menta Afable",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 20,
+        "qty": 19,
         "pocket": "Poké Balls"
       },
       {
@@ -4042,6 +4220,12 @@
         "id": "LEVELBALL",
         "name": "Nivel Ball",
         "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "LOVEBALL",
+        "name": "Amor Ball",
+        "qty": 2,
         "pocket": "Poké Balls"
       },
       {
@@ -4141,6 +4325,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM80",
+        "name": "MT80",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM82",
         "name": "MT82",
         "qty": 1,
@@ -4167,6 +4357,12 @@
       {
         "id": "TM87",
         "name": "MT87",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM88",
+        "name": "MT88",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
