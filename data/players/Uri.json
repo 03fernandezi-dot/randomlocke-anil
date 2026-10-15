@@ -4,135 +4,152 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 5h 56m jugadas · 102,320₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 6h 7m jugadas · 102,320₽ · vidas en el juego: 24",
   "team": [
     {
-      "nickname": "Izan",
-      "species": "Marshtomp",
-      "level": 32,
+      "nickname": "Adama",
+      "species": "Zweilous",
+      "level": 36,
       "types": [
-        "Agua",
-        "Tierra"
+        "Siniestro",
+        "Dragón"
       ],
-      "ability": "Teracaparazón",
-      "nature": "Seria",
-      "item": "Seguro Fallo",
+      "ability": "Perro Guardián",
+      "nature": "Agitada",
+      "item": "",
       "shiny": false,
       "moves": [
-        "Chispa",
-        "Relajo",
+        "Golpe Bis",
         "Tajo Metralla",
-        "Puño Jet"
+        "Puño Hielo",
+        "Ida y Vuelta"
       ],
+      "natureMint": true,
+      "natureBase": "Modesta",
       "iv": [
-        27,
-        7,
-        25,
-        3,
-        27,
-        29
+        0,
+        21,
+        29,
+        13,
+        31,
+        6
       ],
       "ev": [
-        19,
-        41,
-        27,
-        29,
-        31,
-        36
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Teracaparazón"
+        "Perro Guardián"
       ],
-      "abilHidden": [
-        "Cálculo Final"
-      ],
+      "abilHidden": [],
       "learnset": [
         {
-          "lvl": -1,
-          "m": "Torbellino"
-        },
-        {
-          "lvl": -1,
-          "m": "Voltiocambio"
+          "lvl": 1,
+          "m": "Reciclaje"
         },
         {
           "lvl": 1,
-          "m": "Púas"
+          "m": "Detección"
         },
         {
           "lvl": 1,
-          "m": "Puño Jet"
+          "m": "Vasta Guardia"
         },
         {
           "lvl": 1,
-          "m": "Tajo Umbrío"
+          "m": "Mimético"
         },
         {
           "lvl": 1,
-          "m": "Burbuja"
+          "m": "Tragar"
         },
         {
-          "lvl": 9,
-          "m": "Refuerzo"
+          "lvl": 1,
+          "m": "Finta"
         },
         {
           "lvl": 12,
-          "m": "Atracción"
+          "m": "Sísmico"
         },
         {
-          "lvl": 15,
-          "m": "Tormento"
-        },
-        {
-          "lvl": 20,
-          "m": "Chispa"
+          "lvl": 16,
+          "m": "Pikaturbo"
         },
         {
           "lvl": 20,
-          "m": "Arraigo"
+          "m": "Escalofrío"
         },
         {
-          "lvl": 25,
-          "m": "Fertilizante"
+          "lvl": 24,
+          "m": "Electrificación"
         },
         {
-          "lvl": 25,
-          "m": "Pistola Agua"
+          "lvl": 28,
+          "m": "Doble Ataque"
         },
         {
-          "lvl": 30,
-          "m": "Rabia"
+          "lvl": 32,
+          "m": "Fotosíntesis"
         },
         {
-          "lvl": 35,
-          "m": "Huesomerang"
+          "lvl": 36,
+          "m": "Joya de Luz"
         },
         {
           "lvl": 40,
-          "m": "Última Baza"
+          "m": "Doble Patada"
         },
         {
-          "lvl": 45,
-          "m": "Zona Mágica"
+          "lvl": 44,
+          "m": "Amplificador"
         },
         {
-          "lvl": 50,
-          "m": "Fuerza"
+          "lvl": 48,
+          "m": "Esquema"
         },
         {
-          "lvl": 55,
-          "m": "Octopresa"
+          "lvl": 54,
+          "m": "Fulgor Semilla"
+        },
+        {
+          "lvl": 60,
+          "m": "Proliferación"
+        },
+        {
+          "lvl": 66,
+          "m": "Embargo"
         }
       ],
       "tmMoves": [
+        "Batido",
+        "Beso Drenaje",
+        "Cerrojo Feérico",
+        "Daño Secreto",
         "Divide Dolor",
-        "Hidrochorro"
+        "Escudo Real",
+        "Hidrochorro",
+        "Ida y Vuelta",
+        "Ladrón",
+        "Meteorobola",
+        "Poder Pasado",
+        "Salazón",
+        "Sonámbulo",
+        "Sorpresa",
+        "Tajo Metralla",
+        "Venganza",
+        "Voz Cautivadora"
       ],
       "firstMoves": [
-        "Cepo",
-        "Burbuja"
+        "Golpe Bis",
+        "Calamidad",
+        "Aromaterapia",
+        "Foco Energía"
       ],
-      "spriteKey": "MARSHTOMP"
+      "spriteKey": "ZWEILOUS"
     },
     {
       "nickname": "Rammus",
@@ -143,7 +160,7 @@
         "Veneno"
       ],
       "ability": "Perro Guardián",
-      "nature": "Serena",
+      "nature": "Osada",
       "item": "Toxisfera",
       "shiny": false,
       "moves": [
@@ -152,6 +169,8 @@
         "Poder Pasado",
         "Batido"
       ],
+      "natureMint": true,
+      "natureBase": "Serena",
       "iv": [
         19,
         21,
@@ -162,7 +181,7 @@
       ],
       "ev": [
         7,
-        21,
+        22,
         9,
         15,
         11,
@@ -256,6 +275,17 @@
           "m": "Patada Tropical"
         }
       ],
+      "tmMoves": [
+        "Beso Drenaje",
+        "Cerrojo Feérico",
+        "Espora",
+        "Giro Mortífero",
+        "Ladrón",
+        "Motivación",
+        "Poder Pasado",
+        "Rayo Señal",
+        "Señuelo"
+      ],
       "firstMoves": [
         "Campo de Hierba",
         "Cuchillada",
@@ -292,7 +322,7 @@
       ],
       "ev": [
         1,
-        13,
+        14,
         7,
         8,
         8,
@@ -420,7 +450,7 @@
       ],
       "ev": [
         14,
-        29,
+        30,
         16,
         19,
         23,
@@ -523,138 +553,132 @@
       "spriteKey": "SLURPUFF"
     },
     {
-      "nickname": "Mataró",
-      "species": "Tinkatuff",
+      "nickname": "Izan",
+      "species": "Marshtomp",
       "level": 32,
       "types": [
-        "Hada",
-        "Acero"
+        "Agua",
+        "Tierra"
       ],
-      "ability": "Clorofila",
-      "nature": "Rara",
-      "item": "",
+      "ability": "Teracaparazón",
+      "nature": "Seria",
+      "item": "Seguro Fallo",
       "shiny": false,
       "moves": [
-        "Giro Vil",
-        "Escudo Real",
-        "Ida y Vuelta",
-        "Espora"
+        "Chispa",
+        "Relajo",
+        "Tajo Metralla",
+        "Puño Jet"
       ],
       "iv": [
-        30,
-        0,
-        16,
-        15,
+        27,
+        7,
+        25,
         3,
-        3
+        27,
+        29
       ],
       "ev": [
-        0,
-        6,
-        4,
-        2,
-        2,
-        4
+        19,
+        42,
+        27,
+        29,
+        31,
+        36
       ],
       "abilPool": [
-        "Don Floral",
-        "Clorofila"
+        "Teracaparazón"
       ],
       "abilHidden": [
-        "Piel Helada"
+        "Cálculo Final"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Campo de Niebla"
+          "lvl": -1,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": -1,
+          "m": "Voltiocambio"
         },
         {
           "lvl": 1,
-          "m": "Reducción"
+          "m": "Púas"
         },
         {
-          "lvl": 5,
-          "m": "Voz Cautivadora"
+          "lvl": 1,
+          "m": "Puño Jet"
         },
         {
-          "lvl": 8,
-          "m": "Furia Natural"
+          "lvl": 1,
+          "m": "Tajo Umbrío"
         },
         {
-          "lvl": 11,
-          "m": "Cambio de Cancha"
+          "lvl": 1,
+          "m": "Burbuja"
         },
         {
-          "lvl": 14,
-          "m": "Cura Floral"
+          "lvl": 9,
+          "m": "Refuerzo"
         },
         {
-          "lvl": 17,
-          "m": "Furia"
+          "lvl": 12,
+          "m": "Atracción"
         },
         {
-          "lvl": 21,
-          "m": "Anulación"
+          "lvl": 15,
+          "m": "Tormento"
         },
         {
-          "lvl": 24,
-          "m": "Gota Vital"
+          "lvl": 20,
+          "m": "Chispa"
         },
         {
-          "lvl": 27,
-          "m": "Encanto"
+          "lvl": 20,
+          "m": "Arraigo"
         },
         {
-          "lvl": 31,
-          "m": "Absorbefuerza"
+          "lvl": 25,
+          "m": "Fertilizante"
+        },
+        {
+          "lvl": 25,
+          "m": "Pistola Agua"
+        },
+        {
+          "lvl": 30,
+          "m": "Rabia"
         },
         {
           "lvl": 35,
-          "m": "Giro Mortífero"
+          "m": "Huesomerang"
         },
         {
-          "lvl": 39,
-          "m": "Alud"
+          "lvl": 40,
+          "m": "Última Baza"
         },
         {
-          "lvl": 43,
-          "m": "Viento Carámbano"
+          "lvl": 45,
+          "m": "Zona Mágica"
         },
         {
-          "lvl": 47,
-          "m": "Represión Metal"
+          "lvl": 50,
+          "m": "Fuerza"
         },
         {
-          "lvl": 52,
-          "m": "Decoración"
+          "lvl": 55,
+          "m": "Octopresa"
         }
       ],
       "tmMoves": [
-        "Alivio",
-        "Beso Drenaje",
-        "Bomba Fango",
-        "Cerrojo Feérico",
-        "Escudo Real",
-        "Espora",
-        "Giro Mortífero",
-        "Hidrochorro",
-        "Ida y Vuelta",
-        "Meteorobola",
-        "Motivación",
-        "Pesadilla",
-        "Rayo Confuso",
-        "Rayo Señal",
-        "Salazón",
-        "Señuelo",
-        "Voz Cautivadora"
+        "Divide Dolor",
+        "Hidrochorro"
       ],
       "firstMoves": [
-        "Giro Vil",
-        "Conversión",
-        "Geocontrol",
-        "Bramido Dragón"
+        "Cepo",
+        "Burbuja"
       ],
-      "spriteKey": "TINKATUFF"
+      "spriteKey": "MARSHTOMP"
     },
     {
       "nickname": "Bonifacio",
@@ -683,7 +707,7 @@
       ],
       "ev": [
         11,
-        20,
+        21,
         18,
         13,
         20,
@@ -2188,6 +2212,140 @@
       "spriteKey": "TADBULB"
     },
     {
+      "nickname": "Mataró",
+      "species": "Tinkatuff",
+      "level": 32,
+      "types": [
+        "Hada",
+        "Acero"
+      ],
+      "ability": "Clorofila",
+      "nature": "Rara",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Giro Vil",
+        "Escudo Real",
+        "Ida y Vuelta",
+        "Espora"
+      ],
+      "iv": [
+        30,
+        0,
+        16,
+        15,
+        3,
+        3
+      ],
+      "ev": [
+        0,
+        7,
+        4,
+        2,
+        2,
+        4
+      ],
+      "abilPool": [
+        "Don Floral",
+        "Clorofila"
+      ],
+      "abilHidden": [
+        "Piel Helada"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Campo de Niebla"
+        },
+        {
+          "lvl": 1,
+          "m": "Reducción"
+        },
+        {
+          "lvl": 5,
+          "m": "Voz Cautivadora"
+        },
+        {
+          "lvl": 8,
+          "m": "Furia Natural"
+        },
+        {
+          "lvl": 11,
+          "m": "Cambio de Cancha"
+        },
+        {
+          "lvl": 14,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 17,
+          "m": "Furia"
+        },
+        {
+          "lvl": 21,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 24,
+          "m": "Gota Vital"
+        },
+        {
+          "lvl": 27,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 31,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 35,
+          "m": "Giro Mortífero"
+        },
+        {
+          "lvl": 39,
+          "m": "Alud"
+        },
+        {
+          "lvl": 43,
+          "m": "Viento Carámbano"
+        },
+        {
+          "lvl": 47,
+          "m": "Represión Metal"
+        },
+        {
+          "lvl": 52,
+          "m": "Decoración"
+        }
+      ],
+      "tmMoves": [
+        "Alivio",
+        "Beso Drenaje",
+        "Bomba Fango",
+        "Cerrojo Feérico",
+        "Escudo Real",
+        "Espora",
+        "Giro Mortífero",
+        "Hidrochorro",
+        "Ida y Vuelta",
+        "Meteorobola",
+        "Motivación",
+        "Pesadilla",
+        "Rayo Confuso",
+        "Rayo Señal",
+        "Salazón",
+        "Señuelo",
+        "Voz Cautivadora"
+      ],
+      "firstMoves": [
+        "Giro Vil",
+        "Conversión",
+        "Geocontrol",
+        "Bramido Dragón"
+      ],
+      "spriteKey": "TINKATUFF"
+    },
+    {
       "nickname": "Gracia",
       "species": "Happiny",
       "level": 25,
@@ -2766,15 +2924,15 @@
   ],
   "captures": [
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Marshtomp",
-      "nickname": "Izan",
+      "route": "ruta_10_norte",
+      "where": "Ruta 10 Norte",
+      "species": "Zweilous",
+      "nickname": "Adama",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Marshtomp"
+      "category": "salvaje",
+      "level": 29,
+      "mon": "Zweilous"
     },
     {
       "route": "ruta_5",
@@ -2810,15 +2968,15 @@
       "mon": "Slurpuff"
     },
     {
-      "route": "ruta_15",
-      "where": "Ruta 15",
-      "species": "Tinkatuff",
-      "nickname": "Mataró",
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Marshtomp",
+      "nickname": "Izan",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 22,
-      "mon": "Tinkatuff"
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Marshtomp"
     },
     {
       "route": "ruta_1",
@@ -2964,6 +3122,17 @@
       "mon": "Tadbulb"
     },
     {
+      "route": "ruta_15",
+      "where": "Ruta 15",
+      "species": "Tinkatuff",
+      "nickname": "Mataró",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 22,
+      "mon": "Tinkatuff"
+    },
+    {
       "route": "ruta_6",
       "where": "Ruta 6",
       "species": "Happiny",
@@ -3028,9 +3197,9 @@
     "bosses": {},
     "npcs": {},
     "routes": {
+      "ruta_10_norte": true,
       "ruta_5": true,
       "tunel_diglett": true,
-      "ruta_15": true,
       "ruta_1": true,
       "monte_moon": true,
       "ruta_2_norte": true,
@@ -3042,13 +3211,13 @@
       "ciudad_plateada": true,
       "ciudad_celeste": true,
       "ciudad_carmin": true,
+      "ruta_15": true,
       "ruta_6": true,
       "ruta_9": true,
       "ruta_22": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
       "ruta_3": true,
-      "ruta_10_norte": true,
       "ruta_21": true
     },
     "items": {},
@@ -3072,7 +3241,8 @@
       "ciudad_carmin": true,
       "ruta_15": true,
       "tunel_diglett": true,
-      "ruta_9": true
+      "ruta_9": true,
+      "ruta_10_norte": true
     },
     "switches": [
       48,
@@ -3346,21 +3516,9 @@
         "pocket": "Objetos"
       },
       {
-        "id": "BOLDMINT",
-        "name": "Menta Osada",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "IMPISHMINT",
-        "name": "Menta Agitada",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 134,
+        "qty": 127,
         "pocket": "Medicinas"
       },
       {
@@ -3420,13 +3578,13 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 6,
+        "qty": 5,
         "pocket": "Poké Balls"
       },
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 11,
+        "qty": 10,
         "pocket": "Poké Balls"
       },
       {
