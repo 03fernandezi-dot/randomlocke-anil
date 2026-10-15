@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 4h 54m jugadas · 63,000₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 4h 56m jugadas · 63,000₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Mataró",
@@ -130,7 +130,7 @@
       ],
       "ability": "Motor Hadrónico",
       "nature": "Alegre",
-      "item": "",
+      "item": "Piedra Oval",
       "shiny": false,
       "moves": [
         "Electrotela",
@@ -202,6 +202,18 @@
           "lvl": 20,
           "m": "Espejo"
         }
+      ],
+      "tmMoves": [
+        "Agarre",
+        "Bomba Fango",
+        "Cerrojo Feérico",
+        "Divide Dolor",
+        "Escudo Real",
+        "Rayo Confuso",
+        "Salazón",
+        "Señuelo",
+        "Sorpresa",
+        "Voz Cautivadora"
       ],
       "firstMoves": [
         "Electrotela",
@@ -328,6 +340,9 @@
           "lvl": 62,
           "m": "Hipnosis"
         }
+      ],
+      "tmMoves": [
+        "Poder Pasado"
       ],
       "firstMoves": [
         "Psicoonda",
@@ -593,6 +608,7 @@
         }
       ],
       "tmMoves": [
+        "Divide Dolor",
         "Hidrochorro"
       ],
       "firstMoves": [
@@ -719,6 +735,9 @@
           "lvl": 55,
           "m": "Rugido de Guerra"
         }
+      ],
+      "tmMoves": [
+        "Divide Dolor"
       ],
       "firstMoves": [
         "Plegaria Vital",
@@ -3064,12 +3083,6 @@
       {
         "id": "MOONSTONE",
         "name": "Piedra Lunar",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "OVALSTONE",
-        "name": "Piedra Oval",
         "qty": 1,
         "pocket": "Objetos"
       },
