@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 2h 13m jugadas · 15,620₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 2h 17m jugadas · 18,710₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Izan",
       "species": "Marshtomp",
-      "level": 20,
+      "level": 21,
       "types": [
         "Agua",
         "Tierra"
@@ -34,10 +34,10 @@
       ],
       "ev": [
         8,
-        13,
-        13,
-        8,
-        12,
+        14,
+        15,
+        10,
+        14,
         17
       ],
       "abilPool": [
@@ -133,7 +133,7 @@
     {
       "nickname": "Bonifacio",
       "species": "Cherubi",
-      "level": 19,
+      "level": 20,
       "types": [
         "Planta"
       ],
@@ -157,10 +157,10 @@
       ],
       "ev": [
         7,
-        13,
-        13,
-        7,
-        12,
+        14,
+        15,
+        9,
+        14,
         17
       ],
       "abilPool": [
@@ -236,7 +236,7 @@
     {
       "nickname": "Pau",
       "species": "Bibarel",
-      "level": 19,
+      "level": 20,
       "types": [
         "Normal",
         "Agua"
@@ -261,10 +261,10 @@
       ],
       "ev": [
         6,
-        13,
-        13,
-        7,
-        12,
+        14,
+        15,
+        9,
+        14,
         17
       ],
       "abilPool": [
@@ -357,7 +357,7 @@
     {
       "nickname": "Calaca",
       "species": "Shelmet",
-      "level": 19,
+      "level": 20,
       "types": [
         "Bicho"
       ],
@@ -368,7 +368,7 @@
       "moves": [
         "Cuerno Certero",
         "A Defender",
-        "Pin Misil",
+        "Rodillo de Púas",
         "Mil Púas Tóxicas"
       ],
       "iv": [
@@ -381,10 +381,10 @@
       ],
       "ev": [
         6,
-        13,
-        12,
-        7,
-        12,
+        14,
+        14,
+        9,
+        14,
         16
       ],
       "abilPool": [
@@ -470,7 +470,7 @@
     {
       "nickname": "Milo",
       "species": "Croconaw",
-      "level": 20,
+      "level": 21,
       "types": [
         "Agua"
       ],
@@ -482,7 +482,7 @@
         "Golpe Roca",
         "Polvo Explosivo",
         "Tajo Metralla",
-        "Gota Vital"
+        "Colmillo Hielo"
       ],
       "iv": [
         7,
@@ -494,10 +494,10 @@
       ],
       "ev": [
         6,
-        9,
-        8,
-        4,
-        11,
+        10,
+        10,
+        6,
+        13,
         14
       ],
       "abilPool": [
@@ -594,7 +594,7 @@
     {
       "nickname": "Matao",
       "species": "Swirlix",
-      "level": 19,
+      "level": 20,
       "types": [
         "Hada"
       ],
@@ -618,10 +618,10 @@
       ],
       "ev": [
         3,
-        7,
-        6,
-        0,
-        6,
+        8,
+        8,
+        2,
+        8,
         10
       ],
       "abilPool": [
@@ -1941,7 +1941,8 @@
       "ciudad_verde": true,
       "ruta_22": true,
       "ruta_3": true,
-      "ciudad_celeste": true
+      "ciudad_celeste": true,
+      "ruta_20": true
     },
     "items": {},
     "encounters": {
@@ -1972,6 +1973,7 @@
       73,
       74,
       75,
+      76,
       110,
       112,
       113,
@@ -1994,6 +1996,7 @@
       "Activaobjeto",
       "Álbum de Fotos",
       "Baya Ango",
+      "Baya Aricoc",
       "Baya Baribá",
       "Baya Lagro",
       "Baya Meloc",
@@ -2305,6 +2308,12 @@
       {
         "id": "BABIRIBERRY",
         "name": "Baya Baribá",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "APICOTBERRY",
+        "name": "Baya Aricoc",
         "qty": 1,
         "pocket": "Bayas"
       },
