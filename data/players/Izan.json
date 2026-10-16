@@ -4,20 +4,143 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 5m jugadas · 3,000₽ · vidas en el juego: 30",
-  "team": [],
+  "notes": "Importado del save · 0h 7m jugadas · 3,000₽ · vidas en el juego: 30",
+  "team": [
+    {
+      "nickname": "DancingQueen",
+      "species": "Nidoranfe",
+      "level": 5,
+      "types": [],
+      "ability": "",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cambio de Marcha",
+        "Puño Bala",
+        "Foco"
+      ],
+      "iv": [
+        16,
+        14,
+        18,
+        28,
+        30,
+        23
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Rumia",
+        "Velo Aroma"
+      ],
+      "abilHidden": [
+        "Tinovictoria"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Bala"
+        },
+        {
+          "lvl": 5,
+          "m": "Foco"
+        },
+        {
+          "lvl": 10,
+          "m": "Bastión Final"
+        },
+        {
+          "lvl": 15,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 20,
+          "m": "Poder Oculto"
+        },
+        {
+          "lvl": 25,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 30,
+          "m": "Nieve Polvo"
+        },
+        {
+          "lvl": 35,
+          "m": "Patada Ígnea"
+        },
+        {
+          "lvl": 40,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 43,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 45,
+          "m": "Genufendiente"
+        },
+        {
+          "lvl": 45,
+          "m": "Luz Lunar"
+        },
+        {
+          "lvl": 50,
+          "m": "Filo del Abismo"
+        },
+        {
+          "lvl": 55,
+          "m": "Pin Misil"
+        }
+      ],
+      "firstMoves": [
+        "Cambio de Marcha",
+        "Puño Bala",
+        "Foco"
+      ],
+      "spriteKey": "NIDORANfE"
+    }
+  ],
   "box": [],
   "graveyard": [],
-  "captures": [],
+  "captures": [
+    {
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Nidoranfe",
+      "nickname": "DancingQueen",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Nidoranfe"
+    }
+  ],
   "progress": {
     "gyms": {},
     "bosses": {},
     "npcs": {},
-    "routes": {},
+    "routes": {
+      "pueblo_paleta": true
+    },
     "items": {},
     "encounters": {},
     "switches": [
       48,
+      60,
+      61,
       110,
       176,
       179,
@@ -29,9 +152,16 @@
       334
     ],
     "foundItems": [
+      "Gloria Ball",
       "Reglamento"
     ],
     "bag": [
+      {
+        "id": "CHERISHBALL",
+        "name": "Gloria Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
       {
         "id": "RULEBOOK",
         "name": "Reglamento",
