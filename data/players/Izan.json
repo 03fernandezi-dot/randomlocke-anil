@@ -4,12 +4,113 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 13m jugadas · 3,500₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 20m jugadas · 100₽ · vidas en el juego: 30",
   "team": [
+    {
+      "nickname": "Garfield",
+      "species": "Meowth (Galar)",
+      "level": 5,
+      "types": [
+        "Acero"
+      ],
+      "ability": "Líbero",
+      "nature": "Seria",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Colmillo Hielo",
+        "Cepo",
+        "Bomba Imán"
+      ],
+      "iv": [
+        9,
+        22,
+        4,
+        18,
+        2,
+        0
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "abilPool": [
+        "Levitación",
+        "Líbero"
+      ],
+      "abilHidden": [
+        "Punk Rock"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 1,
+          "m": "Cepo"
+        },
+        {
+          "lvl": 4,
+          "m": "Bomba Imán"
+        },
+        {
+          "lvl": 8,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 12,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 16,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 20,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 24,
+          "m": "Ciclón"
+        },
+        {
+          "lvl": 29,
+          "m": "Veneno X"
+        },
+        {
+          "lvl": 32,
+          "m": "Gota Vital"
+        },
+        {
+          "lvl": 36,
+          "m": "Pisotón"
+        },
+        {
+          "lvl": 40,
+          "m": "Plancha Voladora"
+        },
+        {
+          "lvl": 44,
+          "m": "Descanso"
+        }
+      ],
+      "firstMoves": [
+        "Colmillo Hielo",
+        "Cepo",
+        "Bomba Imán"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10161.png",
+      "spriteKey": "MEOWTH_2"
+    },
     {
       "nickname": "DancingQueen",
       "species": "Nidoranfe",
-      "level": 6,
+      "level": 7,
       "types": [],
       "ability": "Velo Aroma",
       "nature": "Tímida",
@@ -34,7 +135,7 @@
         0,
         0,
         1,
-        0
+        2
       ],
       "abilPool": [
         "Rumia",
@@ -111,11 +212,128 @@
         "Foco"
       ],
       "spriteKey": "NIDORANfE"
+    },
+    {
+      "nickname": "Petazeta",
+      "species": "Zigzagoon (Galar)",
+      "level": 3,
+      "types": [
+        "Siniestro",
+        "Normal"
+      ],
+      "ability": "Teracaparazón",
+      "nature": "Fuerte",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Afilagarras",
+        "Esporagodón",
+        "Nitrocarga"
+      ],
+      "iv": [
+        27,
+        27,
+        20,
+        21,
+        19,
+        5
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Teracaparazón",
+        "Néctar dulce"
+      ],
+      "abilHidden": [
+        "Relincho Negro"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 1,
+          "m": "Esporagodón"
+        },
+        {
+          "lvl": 3,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 6,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 9,
+          "m": "Palmeo"
+        },
+        {
+          "lvl": 12,
+          "m": "Gruñido"
+        },
+        {
+          "lvl": 15,
+          "m": "Viento Plata"
+        },
+        {
+          "lvl": 18,
+          "m": "Fortaleza"
+        },
+        {
+          "lvl": 21,
+          "m": "Hipnosis"
+        },
+        {
+          "lvl": 24,
+          "m": "Poder Pasado"
+        },
+        {
+          "lvl": 27,
+          "m": "Aullido"
+        },
+        {
+          "lvl": 30,
+          "m": "Canon"
+        },
+        {
+          "lvl": 33,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 36,
+          "m": "Kinético"
+        }
+      ],
+      "firstMoves": [
+        "Afilagarras",
+        "Esporagodón",
+        "Nitrocarga"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10174.png",
+      "spriteKey": "ZIGZAGOON_1"
     }
   ],
   "box": [],
   "graveyard": [],
   "captures": [
+    {
+      "route": "ciudad_verde",
+      "where": "Ciudad Verde",
+      "species": "Meowth",
+      "nickname": "Garfield",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 5,
+      "mon": "Meowth"
+    },
     {
       "route": "",
       "where": "Laboratorio",
@@ -126,6 +344,17 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Nidoranfe"
+    },
+    {
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Zigzagoon",
+      "nickname": "Petazeta",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 3,
+      "mon": "Zigzagoon"
     }
   ],
   "progress": {
@@ -133,13 +362,15 @@
     "bosses": {},
     "npcs": {},
     "routes": {
+      "ciudad_verde": true,
       "pueblo_paleta": true,
-      "ruta_1": true,
-      "ciudad_verde": true
+      "ruta_1": true
     },
     "items": {},
     "encounters": {
-      "ruta_1": true
+      "ruta_1": true,
+      "ciudad_verde": true,
+      "pueblo_paleta": true
     },
     "switches": [
       48,
@@ -163,7 +394,9 @@
       "Gloria Ball",
       "Miniseta",
       "Reglamento",
-      "Vidasfera"
+      "Supercaña",
+      "Vidasfera",
+      "Zinc"
     ],
     "bag": [
       {
@@ -179,14 +412,38 @@
         "pocket": "Objetos"
       },
       {
+        "id": "ZINC",
+        "name": "Zinc",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "CHERISHBALL",
         "name": "Gloria Ball",
         "qty": 1,
         "pocket": "Poké Balls"
       },
       {
+        "id": "GREATBALL",
+        "name": "Super Ball",
+        "qty": 2,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "POKEBALL",
+        "name": "Poké Ball",
+        "qty": 2,
+        "pocket": "Poké Balls"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "SUPERROD",
+        "name": "Supercaña",
         "qty": 1,
         "pocket": "Objetos clave"
       }
