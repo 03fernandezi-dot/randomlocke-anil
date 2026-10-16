@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 9h 10m jugadas · 141,360₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 9h 31m jugadas · 170,960₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 37,
+      "level": 39,
       "types": [
         "Agua",
         "Tierra"
@@ -33,12 +33,12 @@
         29
       ],
       "ev": [
-        29,
-        59,
-        39,
-        37,
-        42,
-        54
+        31,
+        70,
+        44,
+        40,
+        44,
+        63
       ],
       "abilPool": [
         "Velo Aroma"
@@ -168,7 +168,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 38,
+      "level": 39,
       "types": [
         "Hada",
         "Acero"
@@ -192,12 +192,12 @@
         3
       ],
       "ev": [
-        6,
-        17,
-        9,
         8,
-        6,
-        10
+        28,
+        14,
+        11,
+        8,
+        19
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -347,12 +347,12 @@
         21
       ],
       "ev": [
-        6,
+        8,
+        21,
         10,
-        5,
+        9,
         6,
-        4,
-        8
+        17
       ],
       "abilPool": [
         "Albino",
@@ -447,7 +447,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 36,
+      "level": 38,
       "types": [
         "Fuego",
         "Psíquico"
@@ -471,12 +471,12 @@
         23
       ],
       "ev": [
-        11,
-        31,
+        13,
+        42,
+        24,
         19,
-        16,
-        19,
-        28
+        21,
+        37
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -592,7 +592,7 @@
     {
       "nickname": "Casper",
       "species": "Cofagrigus",
-      "level": 36,
+      "level": 38,
       "types": [
         "Fantasma"
       ],
@@ -615,12 +615,12 @@
         1
       ],
       "ev": [
-        6,
+        8,
+        21,
         10,
-        5,
+        9,
         6,
-        4,
-        8
+        17
       ],
       "abilPool": [
         "Colector"
@@ -718,7 +718,7 @@
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 37,
+      "level": 39,
       "types": [
         "Planta",
         "Veneno"
@@ -744,12 +744,12 @@
         19
       ],
       "ev": [
-        17,
-        39,
-        21,
-        23,
-        22,
-        29
+        19,
+        50,
+        26,
+        26,
+        24,
+        38
       ],
       "abilPool": [
         "Perro Guardián"
@@ -4516,6 +4516,8 @@
       94,
       95,
       96,
+      97,
+      98,
       110,
       112,
       113,
@@ -4570,6 +4572,7 @@
       "Cinta Aguante",
       "Cola Plúmbea",
       "Colmillo Agudo",
+      "Competi Ball",
       "Crítico X",
       "Crítico X 2",
       "Cuchara Torcida",
@@ -4584,6 +4587,7 @@
       "Gema Lucha",
       "Gema Planta",
       "Gema Psíquica",
+      "Gran Diamansfera",
       "Griseosfera",
       "Hechizo",
       "Hierba Copia",
@@ -4591,6 +4595,8 @@
       "Incienso Suave",
       "Incubadora",
       "Llamasfera",
+      "Llave Rocket",
+      "Malasada Maxi",
       "Manuscrito Sombras",
       "Menta Agitada",
       "Menta Huraña",
@@ -4616,7 +4622,9 @@
       "MT26",
       "MT30",
       "MT31",
+      "MT36",
       "MT39",
+      "MT40",
       "MT41",
       "MT42",
       "MT43",
@@ -4630,6 +4638,7 @@
       "MT60",
       "MT61",
       "MT64",
+      "MT66",
       "MT69",
       "MT72",
       "MT73",
@@ -4642,6 +4651,7 @@
       "MT89",
       "MT90",
       "MT92",
+      "MT93",
       "MT94",
       "MT99",
       "Nerviosfera",
@@ -4660,12 +4670,14 @@
       "Poké Montura",
       "Poké Muñeco",
       "Porcehelado",
+      "Precisión X 2",
       "Prisma Rojo",
       "Protección X",
       "Puerro",
       "Radar",
       "Rapid Ball",
       "Reglamento",
+      "Resistfeather",
       "Sana Ball",
       "Scapsula",
       "Seguro Fallo",
@@ -4673,10 +4685,13 @@
       "Supercaña",
       "Swiftfeather",
       "Tabla Linfa",
+      "Tabla Terrax",
       "Tabla Trueno",
       "Ticket Barco",
       "Toxisfera",
-      "Vial"
+      "Veloz Ball",
+      "Vial",
+      "Visor Silph"
     ],
     "bag": [
       {
@@ -4860,6 +4875,24 @@
         "pocket": "Objetos"
       },
       {
+        "id": "SCOPELENS",
+        "name": "Periscopio",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ADAMANTCRYSTAL",
+        "name": "Gran Diamansfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "EARTHPLATE",
+        "name": "Tabla Terrax",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
         "qty": 694,
@@ -4920,6 +4953,18 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "RESISTFEATHER",
+        "name": "Resistfeather",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "BIGMALASADA",
+        "name": "Malasada Maxi",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 16,
@@ -4958,6 +5003,18 @@
       {
         "id": "FASTBALL",
         "name": "Rapid Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "SPORTBALL",
+        "name": "Competi Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "QUICKBALL",
+        "name": "Veloz Ball",
         "qty": 1,
         "pocket": "Poké Balls"
       },
@@ -5010,8 +5067,20 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM36",
+        "name": "MT36",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM39",
         "name": "MT39",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM40",
+        "name": "MT40",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -5094,6 +5163,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM66",
+        "name": "MT66",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM69",
         "name": "MT69",
         "qty": 1,
@@ -5162,6 +5237,12 @@
       {
         "id": "TM92",
         "name": "MT92",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM93",
+        "name": "MT93",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -5340,6 +5421,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "XACCURACY2",
+        "name": "Precisión X 2",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -5402,6 +5489,18 @@
       {
         "id": "CUTITEM",
         "name": "MO Corte",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "LLAVEROCKET",
+        "name": "Llave Rocket",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "VISORSILPH",
+        "name": "Visor Silph",
         "qty": 1,
         "pocket": "Objetos clave"
       }
