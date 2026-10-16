@@ -2,10 +2,444 @@
   "id": "Izan",
   "name": "Japuta",
   "lives": 30,
-  "livesUsed": 0,
+  "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 0h 42m jugadas · 100₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 51m jugadas · 800₽ · vidas en el juego: 29",
   "team": [
+    {
+      "nickname": "Flechipolla",
+      "species": "Fletchling",
+      "level": 8,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Muro Mágico",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Sonámbulo",
+        "Empapar",
+        "Acupresión",
+        "Picoteo"
+      ],
+      "iv": [
+        21,
+        10,
+        0,
+        31,
+        15,
+        28
+      ],
+      "ev": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "abilPool": [
+        "Muro Mágico"
+      ],
+      "abilHidden": [
+        "Psicogénesis"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Sonámbulo"
+        },
+        {
+          "lvl": 1,
+          "m": "Empapar"
+        },
+        {
+          "lvl": 1,
+          "m": "Acupresión"
+        },
+        {
+          "lvl": 5,
+          "m": "Picoteo"
+        },
+        {
+          "lvl": 10,
+          "m": "Mal de Ojo"
+        },
+        {
+          "lvl": 15,
+          "m": "Telaraña"
+        },
+        {
+          "lvl": 20,
+          "m": "Purificación"
+        },
+        {
+          "lvl": 25,
+          "m": "Niebla"
+        },
+        {
+          "lvl": 25,
+          "m": "Corte"
+        },
+        {
+          "lvl": 29,
+          "m": "Rayo Confuso"
+        },
+        {
+          "lvl": 30,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 34,
+          "m": "Patada Relámpago"
+        },
+        {
+          "lvl": 35,
+          "m": "Ala Mortífera"
+        },
+        {
+          "lvl": 40,
+          "m": "Puño Sombra"
+        },
+        {
+          "lvl": 41,
+          "m": "Pulso Cura"
+        },
+        {
+          "lvl": 45,
+          "m": "Tornado"
+        },
+        {
+          "lvl": 50,
+          "m": "Campo Eléctrico"
+        }
+      ],
+      "firstMoves": [
+        "Sonámbulo",
+        "Empapar",
+        "Acupresión",
+        "Picoteo"
+      ],
+      "spriteKey": "FLETCHLING"
+    },
+    {
+      "nickname": "Petazeta",
+      "species": "Zigzagoon (Galar)",
+      "level": 7,
+      "types": [
+        "Siniestro",
+        "Normal"
+      ],
+      "ability": "Teracaparazón",
+      "nature": "Fuerte",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Afilagarras",
+        "Esporagodón",
+        "Nitrocarga",
+        "Manos Juntas"
+      ],
+      "iv": [
+        27,
+        27,
+        20,
+        21,
+        19,
+        5
+      ],
+      "ev": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        3
+      ],
+      "abilPool": [
+        "Teracaparazón",
+        "Néctar dulce"
+      ],
+      "abilHidden": [
+        "Relincho Negro"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 1,
+          "m": "Esporagodón"
+        },
+        {
+          "lvl": 3,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 6,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 9,
+          "m": "Palmeo"
+        },
+        {
+          "lvl": 12,
+          "m": "Gruñido"
+        },
+        {
+          "lvl": 15,
+          "m": "Viento Plata"
+        },
+        {
+          "lvl": 18,
+          "m": "Fortaleza"
+        },
+        {
+          "lvl": 21,
+          "m": "Hipnosis"
+        },
+        {
+          "lvl": 24,
+          "m": "Poder Pasado"
+        },
+        {
+          "lvl": 27,
+          "m": "Aullido"
+        },
+        {
+          "lvl": 30,
+          "m": "Canon"
+        },
+        {
+          "lvl": 33,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 36,
+          "m": "Kinético"
+        }
+      ],
+      "firstMoves": [
+        "Afilagarras",
+        "Esporagodón",
+        "Nitrocarga"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10174.png",
+      "spriteKey": "ZIGZAGOON_1"
+    },
+    {
+      "nickname": "PasoDeCebra2",
+      "species": "Blitzle",
+      "level": 7,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Presión",
+      "nature": "Activa",
+      "item": "Capa Furtiva",
+      "shiny": false,
+      "moves": [
+        "Onda Anómala",
+        "Copión",
+        "Homenaje Póstumo"
+      ],
+      "iv": [
+        1,
+        14,
+        2,
+        13,
+        9,
+        31
+      ],
+      "ev": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        2
+      ],
+      "abilPool": [
+        "Presión",
+        "Colector"
+      ],
+      "abilHidden": [
+        "Acero Templado"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Onda Anómala"
+        },
+        {
+          "lvl": 4,
+          "m": "Copión"
+        },
+        {
+          "lvl": 8,
+          "m": "Presente"
+        },
+        {
+          "lvl": 11,
+          "m": "Electrificación"
+        },
+        {
+          "lvl": 15,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 18,
+          "m": "Ayuda"
+        },
+        {
+          "lvl": 22,
+          "m": "Cambiapoder"
+        },
+        {
+          "lvl": 22,
+          "m": "Alivio"
+        },
+        {
+          "lvl": 25,
+          "m": "Impresionar"
+        },
+        {
+          "lvl": 29,
+          "m": "Plegaria Vital"
+        },
+        {
+          "lvl": 33,
+          "m": "Velocidad Extrema"
+        },
+        {
+          "lvl": 35,
+          "m": "As Oculto"
+        },
+        {
+          "lvl": 40,
+          "m": "Orbes Espectro"
+        }
+      ],
+      "firstMoves": [
+        "Onda Anómala",
+        "Copión",
+        "Homenaje Póstumo"
+      ],
+      "spriteKey": "BLITZLE"
+    },
+    {
+      "nickname": "DancingQueen",
+      "species": "Nidoranfe",
+      "level": 9,
+      "types": [],
+      "ability": "Velo Aroma",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cambio de Marcha",
+        "Puño Bala",
+        "Foco"
+      ],
+      "iv": [
+        16,
+        14,
+        18,
+        28,
+        30,
+        23
+      ],
+      "ev": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        5
+      ],
+      "abilPool": [
+        "Rumia",
+        "Velo Aroma"
+      ],
+      "abilHidden": [
+        "Tinovictoria"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Bala"
+        },
+        {
+          "lvl": 5,
+          "m": "Foco"
+        },
+        {
+          "lvl": 10,
+          "m": "Bastión Final"
+        },
+        {
+          "lvl": 15,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 20,
+          "m": "Poder Oculto"
+        },
+        {
+          "lvl": 25,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 30,
+          "m": "Nieve Polvo"
+        },
+        {
+          "lvl": 35,
+          "m": "Patada Ígnea"
+        },
+        {
+          "lvl": 40,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 43,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 45,
+          "m": "Genufendiente"
+        },
+        {
+          "lvl": 45,
+          "m": "Luz Lunar"
+        },
+        {
+          "lvl": 50,
+          "m": "Filo del Abismo"
+        },
+        {
+          "lvl": 55,
+          "m": "Pin Misil"
+        }
+      ],
+      "firstMoves": [
+        "Cambio de Marcha",
+        "Puño Bala",
+        "Foco"
+      ],
+      "spriteKey": "NIDORANfE"
+    }
+  ],
+  "box": [],
+  "graveyard": [
     {
       "nickname": "Garfield",
       "species": "Meowth (Galar)",
@@ -105,463 +539,23 @@
         "Bomba Imán"
       ],
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10161.png",
-      "spriteKey": "MEOWTH_2"
-    },
-    {
-      "nickname": "DancingQueen",
-      "species": "Nidoranfe",
-      "level": 8,
-      "types": [],
-      "ability": "Velo Aroma",
-      "nature": "Tímida",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Cambio de Marcha",
-        "Puño Bala",
-        "Foco"
-      ],
-      "iv": [
-        16,
-        14,
-        18,
-        28,
-        30,
-        23
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        1,
-        4
-      ],
-      "abilPool": [
-        "Rumia",
-        "Velo Aroma"
-      ],
-      "abilHidden": [
-        "Tinovictoria"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Cambio de Marcha"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Bala"
-        },
-        {
-          "lvl": 5,
-          "m": "Foco"
-        },
-        {
-          "lvl": 10,
-          "m": "Bastión Final"
-        },
-        {
-          "lvl": 15,
-          "m": "Anulación"
-        },
-        {
-          "lvl": 20,
-          "m": "Poder Oculto"
-        },
-        {
-          "lvl": 25,
-          "m": "Cola Veneno"
-        },
-        {
-          "lvl": 30,
-          "m": "Nieve Polvo"
-        },
-        {
-          "lvl": 35,
-          "m": "Patada Ígnea"
-        },
-        {
-          "lvl": 40,
-          "m": "Tóxico"
-        },
-        {
-          "lvl": 43,
-          "m": "Escudo Real"
-        },
-        {
-          "lvl": 45,
-          "m": "Genufendiente"
-        },
-        {
-          "lvl": 45,
-          "m": "Luz Lunar"
-        },
-        {
-          "lvl": 50,
-          "m": "Filo del Abismo"
-        },
-        {
-          "lvl": 55,
-          "m": "Pin Misil"
-        }
-      ],
-      "firstMoves": [
-        "Cambio de Marcha",
-        "Puño Bala",
-        "Foco"
-      ],
-      "spriteKey": "NIDORANfE"
-    },
-    {
-      "nickname": "Petazeta",
-      "species": "Zigzagoon (Galar)",
-      "level": 5,
-      "types": [
-        "Siniestro",
-        "Normal"
-      ],
-      "ability": "Teracaparazón",
-      "nature": "Fuerte",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Afilagarras",
-        "Esporagodón",
-        "Nitrocarga"
-      ],
-      "iv": [
-        27,
-        27,
-        20,
-        21,
-        19,
-        5
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        2
-      ],
-      "abilPool": [
-        "Teracaparazón",
-        "Néctar dulce"
-      ],
-      "abilHidden": [
-        "Relincho Negro"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Afilagarras"
-        },
-        {
-          "lvl": 1,
-          "m": "Esporagodón"
-        },
-        {
-          "lvl": 3,
-          "m": "Nitrocarga"
-        },
-        {
-          "lvl": 6,
-          "m": "Manos Juntas"
-        },
-        {
-          "lvl": 9,
-          "m": "Palmeo"
-        },
-        {
-          "lvl": 12,
-          "m": "Gruñido"
-        },
-        {
-          "lvl": 15,
-          "m": "Viento Plata"
-        },
-        {
-          "lvl": 18,
-          "m": "Fortaleza"
-        },
-        {
-          "lvl": 21,
-          "m": "Hipnosis"
-        },
-        {
-          "lvl": 24,
-          "m": "Poder Pasado"
-        },
-        {
-          "lvl": 27,
-          "m": "Aullido"
-        },
-        {
-          "lvl": 30,
-          "m": "Canon"
-        },
-        {
-          "lvl": 33,
-          "m": "Púas Tóxicas"
-        },
-        {
-          "lvl": 36,
-          "m": "Kinético"
-        }
-      ],
-      "firstMoves": [
-        "Afilagarras",
-        "Esporagodón",
-        "Nitrocarga"
-      ],
-      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10174.png",
-      "spriteKey": "ZIGZAGOON_1"
-    },
-    {
-      "nickname": "PasoDeCebra2",
-      "species": "Blitzle",
-      "level": 6,
-      "types": [
-        "Eléctrico"
-      ],
-      "ability": "Presión",
-      "nature": "Activa",
-      "item": "Capa Furtiva",
-      "shiny": false,
-      "moves": [
-        "Onda Anómala",
-        "Copión",
-        "Homenaje Póstumo"
-      ],
-      "iv": [
-        1,
-        14,
-        2,
-        13,
-        9,
-        31
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
-      ],
-      "abilPool": [
-        "Presión",
-        "Colector"
-      ],
-      "abilHidden": [
-        "Acero Templado"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Onda Anómala"
-        },
-        {
-          "lvl": 4,
-          "m": "Copión"
-        },
-        {
-          "lvl": 8,
-          "m": "Presente"
-        },
-        {
-          "lvl": 11,
-          "m": "Electrificación"
-        },
-        {
-          "lvl": 15,
-          "m": "Avivar"
-        },
-        {
-          "lvl": 18,
-          "m": "Ayuda"
-        },
-        {
-          "lvl": 22,
-          "m": "Cambiapoder"
-        },
-        {
-          "lvl": 22,
-          "m": "Alivio"
-        },
-        {
-          "lvl": 25,
-          "m": "Impresionar"
-        },
-        {
-          "lvl": 29,
-          "m": "Plegaria Vital"
-        },
-        {
-          "lvl": 33,
-          "m": "Velocidad Extrema"
-        },
-        {
-          "lvl": 35,
-          "m": "As Oculto"
-        },
-        {
-          "lvl": 40,
-          "m": "Orbes Espectro"
-        }
-      ],
-      "firstMoves": [
-        "Onda Anómala",
-        "Copión",
-        "Homenaje Póstumo"
-      ],
-      "spriteKey": "BLITZLE"
-    },
-    {
-      "nickname": "Flechipolla",
-      "species": "Fletchling",
-      "level": 5,
-      "types": [
-        "Normal",
-        "Volador"
-      ],
-      "ability": "Muro Mágico",
-      "nature": "Modesta",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Sonámbulo",
-        "Empapar",
-        "Acupresión",
-        "Picoteo"
-      ],
-      "iv": [
-        21,
-        10,
-        0,
-        31,
-        15,
-        28
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Muro Mágico"
-      ],
-      "abilHidden": [
-        "Psicogénesis"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Sonámbulo"
-        },
-        {
-          "lvl": 1,
-          "m": "Empapar"
-        },
-        {
-          "lvl": 1,
-          "m": "Acupresión"
-        },
-        {
-          "lvl": 5,
-          "m": "Picoteo"
-        },
-        {
-          "lvl": 10,
-          "m": "Mal de Ojo"
-        },
-        {
-          "lvl": 15,
-          "m": "Telaraña"
-        },
-        {
-          "lvl": 20,
-          "m": "Purificación"
-        },
-        {
-          "lvl": 25,
-          "m": "Niebla"
-        },
-        {
-          "lvl": 25,
-          "m": "Corte"
-        },
-        {
-          "lvl": 29,
-          "m": "Rayo Confuso"
-        },
-        {
-          "lvl": 30,
-          "m": "Manos Juntas"
-        },
-        {
-          "lvl": 34,
-          "m": "Patada Relámpago"
-        },
-        {
-          "lvl": 35,
-          "m": "Ala Mortífera"
-        },
-        {
-          "lvl": 40,
-          "m": "Puño Sombra"
-        },
-        {
-          "lvl": 41,
-          "m": "Pulso Cura"
-        },
-        {
-          "lvl": 45,
-          "m": "Tornado"
-        },
-        {
-          "lvl": 50,
-          "m": "Campo Eléctrico"
-        }
-      ],
-      "firstMoves": [
-        "Sonámbulo",
-        "Empapar",
-        "Acupresión",
-        "Picoteo"
-      ],
-      "spriteKey": "FLETCHLING"
+      "spriteKey": "MEOWTH_2",
+      "cause": "",
+      "route": "Ciudad Verde",
+      "date": ""
     }
   ],
-  "box": [],
-  "graveyard": [],
   "captures": [
     {
-      "route": "ciudad_verde",
-      "where": "Ciudad Verde",
-      "species": "Meowth",
-      "nickname": "Garfield",
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Fletchling",
+      "nickname": "Flechipolla",
       "shiny": false,
       "status": "captured",
-      "category": "ciudad",
+      "category": "salvaje",
       "level": 5,
-      "mon": "Meowth"
-    },
-    {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Nidoranfe",
-      "nickname": "DancingQueen",
-      "shiny": false,
-      "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Nidoranfe"
+      "mon": "Fletchling"
     },
     {
       "route": "pueblo_paleta",
@@ -586,15 +580,26 @@
       "mon": "Blitzle"
     },
     {
-      "route": "ruta_2_sur",
-      "where": "Ruta 2 Sur",
-      "species": "Fletchling",
-      "nickname": "Flechipolla",
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Nidoranfe",
+      "nickname": "DancingQueen",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
+      "category": "estatico_regalo",
       "level": 5,
-      "mon": "Fletchling"
+      "mon": "Nidoranfe"
+    },
+    {
+      "route": "ciudad_verde",
+      "where": "Ciudad Verde",
+      "species": "Meowth",
+      "nickname": "Garfield",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 5,
+      "mon": "Meowth"
     }
   ],
   "progress": {
@@ -602,10 +607,10 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ciudad_verde": true,
+      "ruta_2_sur": true,
       "pueblo_paleta": true,
       "ruta_22": true,
-      "ruta_2_sur": true,
+      "ciudad_verde": true,
       "ruta_1": true
     },
     "items": {},
@@ -625,6 +630,7 @@
       67,
       68,
       69,
+      71,
       110,
       176,
       179,
@@ -769,7 +775,8 @@
     "1107143920",
     "2734969694",
     "562606986",
-    "916342374"
+    "916342374",
+    "722467237"
   ],
   "revividos": 19
 }
