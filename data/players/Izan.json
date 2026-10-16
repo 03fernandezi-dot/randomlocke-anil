@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 8h 20m jugadas · 93,390₽ · vidas en el juego: 17",
+  "notes": "Importado del save · 8h 22m jugadas · 93,390₽ · vidas en el juego: 17",
   "team": [
     {
       "nickname": "PasoDeZebra",
@@ -374,6 +374,147 @@
         "Copión"
       ],
       "spriteKey": "BRIONNE"
+    },
+    {
+      "nickname": "Aslan",
+      "species": "Litleo",
+      "level": 25,
+      "types": [
+        "Fuego",
+        "Normal"
+      ],
+      "ability": "Realeza",
+      "nature": "Serena",
+      "item": "Mineral Evol",
+      "shiny": false,
+      "moves": [
+        "Armadura Ácida",
+        "Ácido",
+        "Envite Ígneo",
+        "Giro Fuego"
+      ],
+      "iv": [
+        25,
+        7,
+        31,
+        22,
+        4,
+        26
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Realeza",
+        "Humedad"
+      ],
+      "abilHidden": [
+        "Amor Filial"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Bucle Arena"
+        },
+        {
+          "lvl": 1,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 5,
+          "m": "Mal de Ojo"
+        },
+        {
+          "lvl": 8,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 11,
+          "m": "Relevo"
+        },
+        {
+          "lvl": 15,
+          "m": "Alivio"
+        },
+        {
+          "lvl": 20,
+          "m": "Esfuerzo"
+        },
+        {
+          "lvl": 20,
+          "m": "Armadura Ácida"
+        },
+        {
+          "lvl": 23,
+          "m": "Ácido"
+        },
+        {
+          "lvl": 23,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 25,
+          "m": "Salpicadura"
+        },
+        {
+          "lvl": 28,
+          "m": "Reciclaje"
+        },
+        {
+          "lvl": 33,
+          "m": "Carga Dragón"
+        },
+        {
+          "lvl": 36,
+          "m": "Puño Cometa"
+        },
+        {
+          "lvl": 39,
+          "m": "Garra Metal"
+        },
+        {
+          "lvl": 43,
+          "m": "Ala de Acero"
+        },
+        {
+          "lvl": 50,
+          "m": "Rugido"
+        }
+      ],
+      "tmMoves": [
+        "Aguante",
+        "Atizar",
+        "Beso Dulce",
+        "Bilis",
+        "Bloqueo",
+        "Calamidad",
+        "Cambiaalmas",
+        "Cambiafuerza",
+        "Campo Eléctrico",
+        "Carámbano",
+        "Cosquillas",
+        "Danza Lunar",
+        "Divide Dolor",
+        "Envite Ígneo",
+        "Gruñido",
+        "Kinético",
+        "Limpieza General",
+        "Mordisco",
+        "Onda Vacío",
+        "Restricción"
+      ],
+      "firstMoves": [
+        "Armadura Ácida",
+        "Ácido",
+        "Hoja Mágica",
+        "Salpicadura"
+      ],
+      "spriteKey": "LITLEO"
     },
     {
       "nickname": "No Es Vini",
@@ -1529,278 +1670,9 @@
         "Respiro"
       ],
       "spriteKey": "TADBULB"
-    },
-    {
-      "nickname": "Aslan",
-      "species": "Litleo",
-      "level": 25,
-      "types": [
-        "Fuego",
-        "Normal"
-      ],
-      "ability": "Realeza",
-      "nature": "Serena",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Armadura Ácida",
-        "Ácido",
-        "Hoja Mágica",
-        "Salpicadura"
-      ],
-      "iv": [
-        25,
-        7,
-        31,
-        22,
-        4,
-        26
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Realeza",
-        "Humedad"
-      ],
-      "abilHidden": [
-        "Amor Filial"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Bucle Arena"
-        },
-        {
-          "lvl": 1,
-          "m": "Bomba Ácida"
-        },
-        {
-          "lvl": 5,
-          "m": "Mal de Ojo"
-        },
-        {
-          "lvl": 8,
-          "m": "Giro Fuego"
-        },
-        {
-          "lvl": 11,
-          "m": "Relevo"
-        },
-        {
-          "lvl": 15,
-          "m": "Alivio"
-        },
-        {
-          "lvl": 20,
-          "m": "Esfuerzo"
-        },
-        {
-          "lvl": 20,
-          "m": "Armadura Ácida"
-        },
-        {
-          "lvl": 23,
-          "m": "Ácido"
-        },
-        {
-          "lvl": 23,
-          "m": "Hoja Mágica"
-        },
-        {
-          "lvl": 25,
-          "m": "Salpicadura"
-        },
-        {
-          "lvl": 28,
-          "m": "Reciclaje"
-        },
-        {
-          "lvl": 33,
-          "m": "Carga Dragón"
-        },
-        {
-          "lvl": 36,
-          "m": "Puño Cometa"
-        },
-        {
-          "lvl": 39,
-          "m": "Garra Metal"
-        },
-        {
-          "lvl": 43,
-          "m": "Ala de Acero"
-        },
-        {
-          "lvl": 50,
-          "m": "Rugido"
-        }
-      ],
-      "tmMoves": [
-        "Cambiaalmas"
-      ],
-      "firstMoves": [
-        "Armadura Ácida",
-        "Ácido",
-        "Hoja Mágica",
-        "Salpicadura"
-      ],
-      "spriteKey": "LITLEO"
     }
   ],
   "graveyard": [
-    {
-      "nickname": "Perro Sanche",
-      "species": "Granbull",
-      "level": 27,
-      "types": [
-        "Hada"
-      ],
-      "ability": "Geofagia",
-      "nature": "Firme",
-      "item": "Bola Férrea",
-      "shiny": false,
-      "moves": [
-        "Esquema",
-        "Picadura",
-        "Rayo Confuso",
-        "Destello"
-      ],
-      "iv": [
-        31,
-        22,
-        11,
-        20,
-        28,
-        4
-      ],
-      "ev": [
-        2,
-        4,
-        3,
-        3,
-        0,
-        1
-      ],
-      "abilPool": [
-        "Efecto Espora",
-        "Geofagia"
-      ],
-      "abilHidden": [
-        "Chorro Arena"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Disparo Espejo"
-        },
-        {
-          "lvl": 1,
-          "m": "Paliza"
-        },
-        {
-          "lvl": 1,
-          "m": "Cerrojo Feérico"
-        },
-        {
-          "lvl": 1,
-          "m": "Sísmico"
-        },
-        {
-          "lvl": 1,
-          "m": "Picoteo"
-        },
-        {
-          "lvl": 1,
-          "m": "Atracción"
-        },
-        {
-          "lvl": 1,
-          "m": "Robo"
-        },
-        {
-          "lvl": 1,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 1,
-          "m": "Esquema"
-        },
-        {
-          "lvl": 7,
-          "m": "Picadura"
-        },
-        {
-          "lvl": 13,
-          "m": "Beso Dulce"
-        },
-        {
-          "lvl": 19,
-          "m": "Destello"
-        },
-        {
-          "lvl": 24,
-          "m": "Barrera Espinosa"
-        },
-        {
-          "lvl": 27,
-          "m": "Rayo Confuso"
-        },
-        {
-          "lvl": 35,
-          "m": "Látigo Cepa"
-        },
-        {
-          "lvl": 35,
-          "m": "Bostezo"
-        },
-        {
-          "lvl": 35,
-          "m": "Garra Nociva"
-        },
-        {
-          "lvl": 40,
-          "m": "Patada Hacha"
-        },
-        {
-          "lvl": 43,
-          "m": "Proliferación"
-        },
-        {
-          "lvl": 47,
-          "m": "Fuerza Equina"
-        },
-        {
-          "lvl": 51,
-          "m": "Flarembestida"
-        },
-        {
-          "lvl": 59,
-          "m": "Placaje Eléctrico"
-        }
-      ],
-      "tmMoves": [
-        "Bola Voltio",
-        "Brecha Negra",
-        "Cambiaalmas",
-        "Reciclaje"
-      ],
-      "firstMoves": [
-        "Esquema",
-        "Picadura",
-        "Beso Dulce",
-        "Destello"
-      ],
-      "spriteKey": "GRANBULL",
-      "cause": "",
-      "route": "Ruta 15",
-      "date": ""
-    },
     {
       "nickname": "Bombardero",
       "species": "Sandile",
@@ -2933,6 +2805,153 @@
       "cause": "",
       "route": "Ciudad Plateada",
       "date": ""
+    },
+    {
+      "nickname": "Perro Sanche",
+      "species": "Granbull",
+      "level": 27,
+      "types": [
+        "Hada"
+      ],
+      "ability": "Geofagia",
+      "nature": "Firme",
+      "item": "Bola Férrea",
+      "shiny": false,
+      "moves": [
+        "Esquema",
+        "Picadura",
+        "Rayo Confuso",
+        "Destello"
+      ],
+      "iv": [
+        31,
+        22,
+        11,
+        20,
+        28,
+        4
+      ],
+      "ev": [
+        2,
+        4,
+        3,
+        3,
+        0,
+        1
+      ],
+      "abilPool": [
+        "Efecto Espora",
+        "Geofagia"
+      ],
+      "abilHidden": [
+        "Chorro Arena"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Disparo Espejo"
+        },
+        {
+          "lvl": 1,
+          "m": "Paliza"
+        },
+        {
+          "lvl": 1,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 1,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 1,
+          "m": "Picoteo"
+        },
+        {
+          "lvl": 1,
+          "m": "Atracción"
+        },
+        {
+          "lvl": 1,
+          "m": "Robo"
+        },
+        {
+          "lvl": 1,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 1,
+          "m": "Esquema"
+        },
+        {
+          "lvl": 7,
+          "m": "Picadura"
+        },
+        {
+          "lvl": 13,
+          "m": "Beso Dulce"
+        },
+        {
+          "lvl": 19,
+          "m": "Destello"
+        },
+        {
+          "lvl": 24,
+          "m": "Barrera Espinosa"
+        },
+        {
+          "lvl": 27,
+          "m": "Rayo Confuso"
+        },
+        {
+          "lvl": 35,
+          "m": "Látigo Cepa"
+        },
+        {
+          "lvl": 35,
+          "m": "Bostezo"
+        },
+        {
+          "lvl": 35,
+          "m": "Garra Nociva"
+        },
+        {
+          "lvl": 40,
+          "m": "Patada Hacha"
+        },
+        {
+          "lvl": 43,
+          "m": "Proliferación"
+        },
+        {
+          "lvl": 47,
+          "m": "Fuerza Equina"
+        },
+        {
+          "lvl": 51,
+          "m": "Flarembestida"
+        },
+        {
+          "lvl": 59,
+          "m": "Placaje Eléctrico"
+        }
+      ],
+      "tmMoves": [
+        "Bola Voltio",
+        "Brecha Negra",
+        "Cambiaalmas",
+        "Reciclaje"
+      ],
+      "firstMoves": [
+        "Esquema",
+        "Picadura",
+        "Beso Dulce",
+        "Destello"
+      ],
+      "spriteKey": "GRANBULL",
+      "cause": "",
+      "route": "Ruta 15",
+      "date": ""
     }
   ],
   "captures": [
@@ -2970,15 +2989,15 @@
       "mon": "Brionne"
     },
     {
-      "route": "ruta_15",
-      "where": "Ruta 15",
-      "species": "Granbull",
-      "nickname": "Perro Sanche",
+      "route": "ruta_9",
+      "where": "Ruta 9",
+      "species": "Litleo",
+      "nickname": "Aslan",
       "shiny": false,
-      "status": "dead",
+      "status": "captured",
       "category": "salvaje",
-      "level": 23,
-      "mon": "Granbull"
+      "level": 25,
+      "mon": "Litleo"
     },
     {
       "route": "ruta_12",
@@ -3080,17 +3099,6 @@
       "mon": "Tadbulb"
     },
     {
-      "route": "ruta_9",
-      "where": "Ruta 9",
-      "species": "Litleo",
-      "nickname": "Aslan",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 25,
-      "mon": "Litleo"
-    },
-    {
       "route": "",
       "where": "Laboratorio",
       "species": "Sandile",
@@ -3188,6 +3196,17 @@
       "category": "ciudad",
       "level": 11,
       "mon": "Goldeen"
+    },
+    {
+      "route": "ruta_15",
+      "where": "Ruta 15",
+      "species": "Granbull",
+      "nickname": "Perro Sanche",
+      "shiny": false,
+      "status": "dead",
+      "category": "salvaje",
+      "level": 23,
+      "mon": "Granbull"
     }
   ],
   "progress": {
@@ -3202,7 +3221,7 @@
       "ruta_21": true,
       "bosque_verde": true,
       "ruta_22": true,
-      "ruta_15": true,
+      "ruta_9": true,
       "ruta_12": true,
       "tunel_diglett": true,
       "monte_moon_exterior": true,
@@ -3211,12 +3230,12 @@
       "ruta_4": true,
       "ciudad_celeste": true,
       "ruta_5": true,
-      "ruta_9": true,
       "ruta_2_sur": true,
       "ciudad_verde": true,
       "pueblo_paleta": true,
       "ruta_20": true,
       "ciudad_carmin": true,
+      "ruta_15": true,
       "ruta_1": true,
       "ruta_2_norte": true,
       "ruta_3": true,
@@ -3542,12 +3561,6 @@
       {
         "id": "WHIPPEDDREAM",
         "name": "Dulce de Nata",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "EVIOLITE",
-        "name": "Mineral Evol",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -3930,8 +3943,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
