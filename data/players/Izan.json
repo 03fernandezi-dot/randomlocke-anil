@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 8h 27m jugadas · 96,870₽ · vidas en el juego: 17",
+  "notes": "Importado del save · 8h 31m jugadas · 98,370₽ · vidas en el juego: 17",
   "team": [
     {
       "nickname": "PasoDeZebra",
@@ -15,7 +15,7 @@
       ],
       "ability": "Guardia Espectro",
       "nature": "Rara",
-      "item": "",
+      "item": "Arena Fina",
       "shiny": false,
       "moves": [
         "Púas Tóxicas",
@@ -37,7 +37,7 @@
         3,
         5,
         2,
-        1
+        2
       ],
       "abilPool": [
         "Guardia Espectro",
@@ -127,7 +127,7 @@
     {
       "nickname": "RamonYCajal",
       "species": "Honedge",
-      "level": 30,
+      "level": 31,
       "types": [
         "Acero",
         "Fantasma"
@@ -156,7 +156,7 @@
         35,
         19,
         20,
-        32
+        33
       ],
       "abilPool": [
         "Insomnio"
@@ -271,7 +271,7 @@
         36,
         19,
         22,
-        31
+        32
       ],
       "abilPool": [
         "Psicogénesis"
@@ -407,7 +407,7 @@
         2,
         2,
         1,
-        0
+        1
       ],
       "abilPool": [
         "Realeza",
@@ -547,7 +547,7 @@
         3,
         6,
         2,
-        1
+        2
       ],
       "abilPool": [
         "Escama Especial"
@@ -640,7 +640,7 @@
       ],
       "ability": "Puño Férreo",
       "nature": "Activa",
-      "item": "",
+      "item": "Cuchara Torcida",
       "shiny": false,
       "moves": [
         "Buena Baza",
@@ -662,7 +662,7 @@
         3,
         5,
         2,
-        1
+        2
       ],
       "abilPool": [
         "Puño Férreo",
@@ -3334,8 +3334,10 @@
       "Cenizas Sagradas",
       "Cinta Fuerte",
       "Cola Plúmbea",
+      "Crêpe Luminalia",
       "Crítico X 3",
       "Cubresuelos",
+      "Cuchara Torcida",
       "Cuerda Huida",
       "Def. Esp. X 3",
       "Def. Esp. X 6",
@@ -3601,12 +3603,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "SOFTSAND",
-        "name": "Arena Fina",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "TIMIDMINT",
         "name": "Menta Miedosa",
         "qty": 1,
@@ -3657,6 +3653,12 @@
       {
         "id": "ETHER",
         "name": "Éter",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "LUMIOSEGALETTE",
+        "name": "Crêpe Luminalia",
         "qty": 1,
         "pocket": "Medicinas"
       },
