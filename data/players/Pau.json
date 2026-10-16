@@ -2,14 +2,14 @@
   "id": "Pau",
   "name": "Pau",
   "lives": 30,
-  "livesUsed": 4,
+  "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 6h 40m jugadas · 258,210₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 6h 46m jugadas · 262,970₽ · vidas en el juego: 23",
   "team": [
     {
       "nickname": "Hazard",
       "species": "Obstagoon",
-      "level": 36,
+      "level": 37,
       "types": [
         "Siniestro",
         "Normal"
@@ -33,10 +33,10 @@
         0
       ],
       "ev": [
-        18,
+        21,
         57,
-        29,
-        19,
+        31,
+        22,
         14,
         22
       ],
@@ -170,167 +170,6 @@
       "spriteKey": "OBSTAGOON_1"
     },
     {
-      "nickname": "Shawn",
-      "species": "Ampharos",
-      "level": 36,
-      "types": [
-        "Eléctrico"
-      ],
-      "ability": "Cuerpo Maldito",
-      "nature": "Serena",
-      "item": "Raíz Grande",
-      "shiny": false,
-      "moves": [
-        "Carga Parábola",
-        "Viento Aciago",
-        "Pikaturbo",
-        "Levitón"
-      ],
-      "iv": [
-        10,
-        4,
-        31,
-        1,
-        11,
-        19
-      ],
-      "ev": [
-        21,
-        63,
-        31,
-        29,
-        22,
-        37
-      ],
-      "abilPool": [
-        "Cuerpo Maldito"
-      ],
-      "abilHidden": [
-        "Surcavientos"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Superdiente"
-        },
-        {
-          "lvl": 1,
-          "m": "Tóxico"
-        },
-        {
-          "lvl": 1,
-          "m": "Sustituto"
-        },
-        {
-          "lvl": 1,
-          "m": "Alto Voltaje"
-        },
-        {
-          "lvl": 1,
-          "m": "Levitón"
-        },
-        {
-          "lvl": 1,
-          "m": "Fuego Fatuo"
-        },
-        {
-          "lvl": 1,
-          "m": "Chispa"
-        },
-        {
-          "lvl": 1,
-          "m": "Ultrapuño"
-        },
-        {
-          "lvl": 1,
-          "m": "Placaje"
-        },
-        {
-          "lvl": 11,
-          "m": "Bola Voltio"
-        },
-        {
-          "lvl": 16,
-          "m": "Motivación"
-        },
-        {
-          "lvl": 20,
-          "m": "Rayo Carga"
-        },
-        {
-          "lvl": 22,
-          "m": "Polución"
-        },
-        {
-          "lvl": 25,
-          "m": "Telequinesis"
-        },
-        {
-          "lvl": 29,
-          "m": "Semilladora"
-        },
-        {
-          "lvl": 32,
-          "m": "Carga Parábola"
-        },
-        {
-          "lvl": 35,
-          "m": "Amplificador"
-        },
-        {
-          "lvl": 40,
-          "m": "Electrificación"
-        },
-        {
-          "lvl": 46,
-          "m": "Alarido"
-        },
-        {
-          "lvl": 51,
-          "m": "Alud"
-        },
-        {
-          "lvl": 51,
-          "m": "Canto Encantador"
-        },
-        {
-          "lvl": 51,
-          "m": "Electrotela"
-        },
-        {
-          "lvl": 57,
-          "m": "Deseo Cura"
-        },
-        {
-          "lvl": 62,
-          "m": "Clemencia"
-        }
-      ],
-      "tmMoves": [
-        "Barrera",
-        "Carga Parábola",
-        "Danza Aleteo",
-        "Decalcomanía",
-        "Decoración",
-        "Estrujón",
-        "Golpe Roca",
-        "Granizo",
-        "Llave Corsé",
-        "Piñón Auxiliar",
-        "Puño Incremento",
-        "Rayo Fusión",
-        "Sacrificio",
-        "Vendetta",
-        "Viento Carámbano"
-      ],
-      "firstMoves": [
-        "Viento Aciago",
-        "Tajo Acuático",
-        "Deslome"
-      ],
-      "spriteKey": "AMPHAROS"
-    },
-    {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
       "level": 36,
@@ -357,10 +196,10 @@
         20
       ],
       "ev": [
-        0,
+        3,
         11,
-        11,
-        2,
+        13,
+        5,
         2,
         4
       ],
@@ -494,10 +333,10 @@
         23
       ],
       "ev": [
-        18,
+        21,
         54,
-        28,
-        19,
+        30,
+        22,
         14,
         22
       ],
@@ -618,7 +457,7 @@
       ],
       "ability": "Madrugar",
       "nature": "Firme",
-      "item": "Incienso Marino",
+      "item": "Tabla Linfa",
       "shiny": false,
       "moves": [
         "Terremoto",
@@ -635,10 +474,10 @@
         27
       ],
       "ev": [
-        23,
+        26,
         38,
-        30,
-        19,
+        32,
+        22,
         14,
         29
       ],
@@ -791,10 +630,10 @@
         15
       ],
       "ev": [
-        22,
+        25,
         67,
-        30,
-        23,
+        32,
+        26,
         22,
         37
       ],
@@ -4179,6 +4018,170 @@
   ],
   "graveyard": [
     {
+      "nickname": "Shawn",
+      "species": "Ampharos",
+      "level": 37,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Cuerpo Maldito",
+      "nature": "Serena",
+      "item": "Raíz Grande",
+      "shiny": false,
+      "moves": [
+        "Carga Parábola",
+        "Viento Aciago",
+        "Pikaturbo",
+        "Levitón"
+      ],
+      "iv": [
+        10,
+        4,
+        31,
+        1,
+        11,
+        19
+      ],
+      "ev": [
+        21,
+        63,
+        33,
+        32,
+        22,
+        37
+      ],
+      "abilPool": [
+        "Cuerpo Maldito"
+      ],
+      "abilHidden": [
+        "Surcavientos"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Superdiente"
+        },
+        {
+          "lvl": 1,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 1,
+          "m": "Sustituto"
+        },
+        {
+          "lvl": 1,
+          "m": "Alto Voltaje"
+        },
+        {
+          "lvl": 1,
+          "m": "Levitón"
+        },
+        {
+          "lvl": 1,
+          "m": "Fuego Fatuo"
+        },
+        {
+          "lvl": 1,
+          "m": "Chispa"
+        },
+        {
+          "lvl": 1,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 1,
+          "m": "Placaje"
+        },
+        {
+          "lvl": 11,
+          "m": "Bola Voltio"
+        },
+        {
+          "lvl": 16,
+          "m": "Motivación"
+        },
+        {
+          "lvl": 20,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 22,
+          "m": "Polución"
+        },
+        {
+          "lvl": 25,
+          "m": "Telequinesis"
+        },
+        {
+          "lvl": 29,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 32,
+          "m": "Carga Parábola"
+        },
+        {
+          "lvl": 35,
+          "m": "Amplificador"
+        },
+        {
+          "lvl": 40,
+          "m": "Electrificación"
+        },
+        {
+          "lvl": 46,
+          "m": "Alarido"
+        },
+        {
+          "lvl": 51,
+          "m": "Alud"
+        },
+        {
+          "lvl": 51,
+          "m": "Canto Encantador"
+        },
+        {
+          "lvl": 51,
+          "m": "Electrotela"
+        },
+        {
+          "lvl": 57,
+          "m": "Deseo Cura"
+        },
+        {
+          "lvl": 62,
+          "m": "Clemencia"
+        }
+      ],
+      "tmMoves": [
+        "Barrera",
+        "Carga Parábola",
+        "Danza Aleteo",
+        "Decalcomanía",
+        "Decoración",
+        "Estrujón",
+        "Golpe Roca",
+        "Granizo",
+        "Llave Corsé",
+        "Piñón Auxiliar",
+        "Puño Incremento",
+        "Rayo Fusión",
+        "Sacrificio",
+        "Vendetta",
+        "Viento Carámbano"
+      ],
+      "firstMoves": [
+        "Viento Aciago",
+        "Tajo Acuático",
+        "Deslome"
+      ],
+      "spriteKey": "AMPHAROS",
+      "cause": "",
+      "route": "Laboratorio",
+      "date": ""
+    },
+    {
       "nickname": "Partyfiesta",
       "species": "Hatenna",
       "level": 7,
@@ -4737,7 +4740,7 @@
       "species": "Ampharos",
       "nickname": "Shawn",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Ampharos"
@@ -5271,6 +5274,7 @@
       "Incienso Marino",
       "Incubadora",
       "Leche Mu-mu",
+      "Llave Rocket",
       "Lodo Negro",
       "Lustresfera",
       "Malasada Maxi",
@@ -5348,6 +5352,7 @@
       "Supereviolita",
       "Superrepelente",
       "Tabla Acero",
+      "Tabla Linfa",
       "Ticket Barco",
       "Toxisfera",
       "Ultra Ball",
@@ -5526,6 +5531,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "SEAINCENSE",
+        "name": "Incienso Marino",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -5570,12 +5581,6 @@
       {
         "id": "LAVACOOKIE",
         "name": "Galleta Lava",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "MOOMOOMILK",
-        "name": "Leche Mu-mu",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -6106,6 +6111,12 @@
         "name": "Monedero",
         "qty": 1,
         "pocket": "Objetos clave"
+      },
+      {
+        "id": "LLAVEROCKET",
+        "name": "Llave Rocket",
+        "qty": 1,
+        "pocket": "Objetos clave"
       }
     ]
   },
@@ -6115,7 +6126,8 @@
     "2427181806",
     "2750763801",
     "1798594326",
-    "4019790846"
+    "4019790846",
+    "3944579620"
   ],
   "revividos": 2
 }
