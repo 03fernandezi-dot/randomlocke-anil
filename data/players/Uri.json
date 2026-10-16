@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 8h 4m jugadas · 122,240₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 8h 8m jugadas · 122,240₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Rem",
@@ -15,7 +15,7 @@
       ],
       "ability": "Albino",
       "nature": "Activa",
-      "item": "",
+      "item": "Cuchara Torcida",
       "shiny": false,
       "moves": [
         "Espora",
@@ -139,7 +139,7 @@
       ],
       "ability": "Pompa",
       "nature": "Rara",
-      "item": "",
+      "item": "Periscopio",
       "shiny": false,
       "moves": [
         "Escudo Real",
@@ -597,7 +597,7 @@
       ],
       "ability": "Colector",
       "nature": "Amable",
-      "item": "",
+      "item": "Hechizo",
       "shiny": false,
       "moves": [
         "Infierno",
@@ -724,7 +724,7 @@
       ],
       "ability": "Perro Guardián",
       "nature": "Osada",
-      "item": "Toxisfera",
+      "item": "Gema Planta",
       "shiny": false,
       "moves": [
         "Fitoimpulso",
@@ -4201,12 +4201,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "SPELLTAG",
-        "name": "Hechizo",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "ADRENALINEORB",
         "name": "Nerviosfera",
         "qty": 1,
@@ -4227,12 +4221,6 @@
       {
         "id": "SNOWBALL",
         "name": "Bola de Nieve",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "TWISTEDSPOON",
-        "name": "Cuchara Torcida",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -4297,12 +4285,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "GRASSGEM",
-        "name": "Gema Planta",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "LEEK",
         "name": "Puerro",
         "qty": 1,
@@ -4327,12 +4309,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "SCOPELENS",
-        "name": "Periscopio",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "PLUMEFOSSIL",
         "name": "Fósil Pluma",
         "qty": 1,
@@ -4341,6 +4317,12 @@
       {
         "id": "DUSKSTONE",
         "name": "Piedra Noche",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "TOXICORB",
+        "name": "Toxisfera",
         "qty": 1,
         "pocket": "Objetos"
       },
