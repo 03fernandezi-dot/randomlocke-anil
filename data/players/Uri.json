@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 9h 0m jugadas · 150,130₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 9h 4m jugadas · 138,980₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Izan",
@@ -34,7 +34,7 @@
       ],
       "ev": [
         29,
-        56,
+        58,
         39,
         36,
         42,
@@ -193,7 +193,7 @@
       ],
       "ev": [
         6,
-        14,
+        16,
         9,
         7,
         6,
@@ -348,7 +348,7 @@
       ],
       "ev": [
         6,
-        7,
+        9,
         5,
         5,
         4,
@@ -472,7 +472,7 @@
       ],
       "ev": [
         11,
-        28,
+        30,
         19,
         15,
         19,
@@ -567,6 +567,7 @@
         "Adaptación",
         "Aire Afilado",
         "Alivio",
+        "Ascuas",
         "Batido",
         "Escalofrío",
         "Escudo Real",
@@ -615,7 +616,7 @@
       ],
       "ev": [
         6,
-        7,
+        9,
         5,
         5,
         4,
@@ -744,7 +745,7 @@
       ],
       "ev": [
         17,
-        36,
+        38,
         21,
         22,
         22,
@@ -3074,6 +3075,113 @@
       "spriteKey": "SLURPUFF"
     },
     {
+      "nickname": "Azulonaç",
+      "species": "Trumbeak",
+      "level": 33,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Espesura",
+      "nature": "Activa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Puño Dinámico",
+        "Campo de Niebla",
+        "Atracción",
+        "Rayo Confuso"
+      ],
+      "iv": [
+        21,
+        25,
+        1,
+        8,
+        16,
+        7
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Madrugar",
+        "Espesura"
+      ],
+      "abilHidden": [
+        "Despiste"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Meteoros"
+        },
+        {
+          "lvl": 1,
+          "m": "Corpulencia"
+        },
+        {
+          "lvl": 1,
+          "m": "Estímulo"
+        },
+        {
+          "lvl": 1,
+          "m": "Bálsamo Osado"
+        },
+        {
+          "lvl": 1,
+          "m": "Arraigo"
+        },
+        {
+          "lvl": 13,
+          "m": "Sustituto"
+        },
+        {
+          "lvl": 16,
+          "m": "Camaradería"
+        },
+        {
+          "lvl": 21,
+          "m": "Velo Aurora"
+        },
+        {
+          "lvl": 24,
+          "m": "Campo de Niebla"
+        },
+        {
+          "lvl": 29,
+          "m": "Atracción"
+        },
+        {
+          "lvl": 32,
+          "m": "Rayo Confuso"
+        },
+        {
+          "lvl": 37,
+          "m": "Triataque"
+        },
+        {
+          "lvl": 40,
+          "m": "Derribo"
+        },
+        {
+          "lvl": 45,
+          "m": "Fiebre Dorada"
+        }
+      ],
+      "firstMoves": [
+        "Puño Dinámico",
+        "Campo de Niebla",
+        "Atracción",
+        "Rayo Confuso"
+      ],
+      "spriteKey": "TRUMBEAK"
+    },
+    {
       "nickname": "Bonifacio",
       "species": "Cherrim",
       "level": 35,
@@ -4101,6 +4209,17 @@
       "mon": "Slurpuff"
     },
     {
+      "route": "ciudad_azulona",
+      "where": "Ciudad Azulona",
+      "species": "Trumbeak",
+      "nickname": "Azulonaç",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 33,
+      "mon": "Trumbeak"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Cherrim",
@@ -4195,6 +4314,7 @@
       "ruta_8": true,
       "monte_moon": true,
       "ciudad_verde": true,
+      "ciudad_azulona": true,
       "ruta_1": true,
       "tunel_roca": true,
       "ciudad_plateada": true,
@@ -4234,7 +4354,8 @@
       "torre_pokemon": true,
       "pueblo_lavanda": true,
       "ruta_8": true,
-      "ruta_7": true
+      "ruta_7": true,
+      "ciudad_azulona": true
     },
     "switches": [
       48,
@@ -4346,6 +4467,7 @@
       "Miniseta",
       "MO Corte",
       "MO Golpe Roca",
+      "MT04",
       "MT06",
       "MT101",
       "MT102",
@@ -4400,6 +4522,7 @@
       "Piedra Lunar",
       "Piedra Noche",
       "Piedra Oval",
+      "Piedra Trueno",
       "Poción",
       "Poké Ball",
       "Poké Montura",
@@ -4496,12 +4619,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "PEARL",
-        "name": "Perla",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "ELECTRICSEED",
         "name": "Semilla Electro",
         "qty": 1,
@@ -4522,7 +4639,7 @@
       {
         "id": "LEEK",
         "name": "Puerro",
-        "qty": 2,
+        "qty": 1,
         "pocket": "Objetos"
       },
       {
@@ -4588,6 +4705,12 @@
       {
         "id": "POWERANKLET",
         "name": "Franja Recia",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "THUNDERSTONE",
+        "name": "Piedra Trueno",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -4672,7 +4795,7 @@
       {
         "id": "PREMIERBALL",
         "name": "Honor Ball",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Poké Balls"
       },
       {
@@ -4684,7 +4807,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 1,
+        "qty": 14,
         "pocket": "Poké Balls"
       },
       {
@@ -4692,6 +4815,12 @@
         "name": "Rapid Ball",
         "qty": 1,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM04",
+        "name": "MT04",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "TM06",
@@ -5078,8 +5207,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
