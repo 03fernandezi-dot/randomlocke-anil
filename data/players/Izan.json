@@ -4,14 +4,14 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 7m jugadas · 3,000₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 13m jugadas · 3,500₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "DancingQueen",
       "species": "Nidoranfe",
-      "level": 5,
+      "level": 6,
       "types": [],
-      "ability": "",
+      "ability": "Velo Aroma",
       "nature": "Tímida",
       "item": "",
       "shiny": false,
@@ -33,7 +33,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ],
       "abilPool": [
@@ -133,14 +133,22 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "pueblo_paleta": true
+      "pueblo_paleta": true,
+      "ruta_1": true,
+      "ciudad_verde": true
     },
     "items": {},
-    "encounters": {},
+    "encounters": {
+      "ruta_1": true
+    },
     "switches": [
       48,
       60,
       61,
+      63,
+      66,
+      67,
+      68,
       110,
       176,
       179,
@@ -153,9 +161,23 @@
     ],
     "foundItems": [
       "Gloria Ball",
-      "Reglamento"
+      "Miniseta",
+      "Reglamento",
+      "Vidasfera"
     ],
     "bag": [
+      {
+        "id": "LIFEORB",
+        "name": "Vidasfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "TINYMUSHROOM",
+        "name": "Miniseta",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
       {
         "id": "CHERISHBALL",
         "name": "Gloria Ball",
