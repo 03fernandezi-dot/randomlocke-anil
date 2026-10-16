@@ -4,20 +4,133 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 6m jugadas · 3,000₽ · vidas en el juego: 30",
-  "team": [],
+  "notes": "Importado del save · 0h 11m jugadas · 3,000₽ · vidas en el juego: 30",
+  "team": [
+    {
+      "nickname": "Pauet Pauet",
+      "species": "Rookidee",
+      "level": 5,
+      "types": [
+        "Volador"
+      ],
+      "ability": "",
+      "nature": "Grosera",
+      "item": "Electrizador",
+      "shiny": false,
+      "moves": [
+        "Picotazo",
+        "Ataque Ala",
+        "Rizo Defensa"
+      ],
+      "iv": [
+        25,
+        6,
+        5,
+        3,
+        5,
+        9
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Psicogénesis",
+        "Coraza Ira"
+      ],
+      "abilHidden": [
+        "Rezagado"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Picotazo"
+        },
+        {
+          "lvl": 1,
+          "m": "Ataque Ala"
+        },
+        {
+          "lvl": 4,
+          "m": "Rizo Defensa"
+        },
+        {
+          "lvl": 8,
+          "m": "Llave Giro"
+        },
+        {
+          "lvl": 10,
+          "m": "Ráfaga Escamas"
+        },
+        {
+          "lvl": 12,
+          "m": "Autotomía"
+        },
+        {
+          "lvl": 16,
+          "m": "Obstrucción"
+        },
+        {
+          "lvl": 20,
+          "m": "Garra Metal"
+        },
+        {
+          "lvl": 24,
+          "m": "Danza Lluvia"
+        },
+        {
+          "lvl": 28,
+          "m": "Picotazo Veneno"
+        },
+        {
+          "lvl": 32,
+          "m": "Residuos"
+        },
+        {
+          "lvl": 36,
+          "m": "Búnker"
+        }
+      ],
+      "firstMoves": [
+        "Picotazo",
+        "Ataque Ala",
+        "Rizo Defensa"
+      ],
+      "spriteKey": "ROOKIDEE"
+    }
+  ],
   "box": [],
   "graveyard": [],
-  "captures": [],
+  "captures": [
+    {
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Rookidee",
+      "nickname": "Pauet Pauet",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Rookidee"
+    }
+  ],
   "progress": {
     "gyms": {},
     "bosses": {},
     "npcs": {},
-    "routes": {},
+    "routes": {
+      "pueblo_paleta": true
+    },
     "items": {},
     "encounters": {},
     "switches": [
       48,
+      61,
+      62,
       110,
       176,
       179,
