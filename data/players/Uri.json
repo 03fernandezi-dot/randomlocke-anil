@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 9h 6m jugadas · 138,980₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 9h 7m jugadas · 138,980₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Izan",
@@ -16,7 +16,7 @@
       ],
       "ability": "Velo Aroma",
       "nature": "Seria",
-      "item": "Cinta Aguante",
+      "item": "Tabla Linfa",
       "shiny": false,
       "moves": [
         "Acua Cola",
@@ -4669,6 +4669,7 @@
       "Semilla Electro",
       "Supercaña",
       "Swiftfeather",
+      "Tabla Linfa",
       "Tabla Trueno",
       "Ticket Barco",
       "Toxisfera",
@@ -4840,6 +4841,12 @@
       {
         "id": "THUNDERSTONE",
         "name": "Piedra Trueno",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FOCUSBAND",
+        "name": "Cinta Aguante",
         "qty": 1,
         "pocket": "Objetos"
       },
