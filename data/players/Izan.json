@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 9,
   "champion": false,
-  "notes": "Importado del save · 7h 51m jugadas · 87,060₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 7h 57m jugadas · 87,060₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Princesita",
@@ -258,123 +258,122 @@
       "spriteKey": "HONEDGE"
     },
     {
-      "nickname": "Tadbulb",
-      "species": "Tadbulb",
-      "level": 30,
+      "nickname": "PasoDeZebra",
+      "species": "Zebstrika",
+      "level": 27,
       "types": [
         "Eléctrico"
       ],
-      "ability": "Perro Guardián",
-      "nature": "Ingenua",
+      "ability": "Guardia Espectro",
+      "nature": "Rara",
       "item": "",
       "shiny": false,
       "moves": [
-        "Onda Trueno",
-        "Golpe Aéreo",
-        "Alto Voltaje",
-        "Octopresa"
+        "Púas Tóxicas",
+        "Bomba Fango",
+        "Bola Voltio",
+        "Voltiocambio"
       ],
-      "origin": "don_prodigio",
       "iv": [
-        11,
-        4,
+        22,
         9,
-        6,
-        25,
-        7
+        2,
+        5,
+        1,
+        31
       ],
       "ev": [
-        18,
-        25,
-        27,
-        11,
-        12,
-        23
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Perro Guardián",
-        "Coraza Ira"
+        "Guardia Espectro",
+        "Electrogénesis"
       ],
       "abilHidden": [
-        "Poder Sabio"
+        "Chorro Arena"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Cascabel Cura"
-        },
-        {
-          "lvl": 1,
-          "m": "Golpe Aéreo"
-        },
-        {
-          "lvl": 7,
-          "m": "Alto Voltaje"
-        },
-        {
-          "lvl": 11,
-          "m": "Respiro"
-        },
-        {
-          "lvl": 17,
-          "m": "Levitón"
-        },
-        {
-          "lvl": 21,
-          "m": "Perforador"
-        },
-        {
-          "lvl": 24,
-          "m": "Llanto Falso"
-        },
-        {
-          "lvl": 25,
-          "m": "Octopresa"
-        },
-        {
-          "lvl": 32,
           "m": "Onda Voltio"
         },
         {
+          "lvl": 1,
+          "m": "Foco"
+        },
+        {
+          "lvl": 1,
+          "m": "Cortina Plasma"
+        },
+        {
+          "lvl": 1,
+          "m": "Llave Corsé"
+        },
+        {
+          "lvl": 11,
+          "m": "Profecía"
+        },
+        {
+          "lvl": 18,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 22,
+          "m": "Marcha Espectral"
+        },
+        {
+          "lvl": 25,
+          "m": "Cede Paso"
+        },
+        {
+          "lvl": 31,
+          "m": "Golpe Calor"
+        },
+        {
+          "lvl": 34,
+          "m": "Rayo"
+        },
+        {
           "lvl": 36,
-          "m": "Electrocañón"
+          "m": "Imitación"
         },
         {
-          "lvl": 40,
-          "m": "Puño Trueno"
+          "lvl": 36,
+          "m": "Voltio Cruel"
         },
         {
-          "lvl": 45,
-          "m": "Ascuas"
+          "lvl": 42,
+          "m": "Garrote Liana"
         },
         {
-          "lvl": 50,
-          "m": "Telépata"
+          "lvl": 47,
+          "m": "Halloween"
+        },
+        {
+          "lvl": 53,
+          "m": "Azote Torrencial"
+        },
+        {
+          "lvl": 53,
+          "m": "Electroderrape"
+        },
+        {
+          "lvl": 58,
+          "m": "Clemencia"
         }
       ],
-      "tmMoves": [
-        "Beso Dulce",
-        "Bilis",
-        "Brecha Negra",
-        "Calamidad",
-        "Cambiaalmas",
-        "Campo Eléctrico",
-        "Cascabel Cura",
-        "Colmillo Ígneo",
-        "Divide Dolor",
-        "Limpieza General",
-        "Onda Trueno",
-        "Onda Vacío",
-        "Onda Voltio",
-        "Viento Afín"
-      ],
       "firstMoves": [
-        "Cascabel Cura",
-        "Golpe Aéreo",
-        "Alto Voltaje",
-        "Respiro"
+        "Púas Tóxicas",
+        "Hierba Lazo",
+        "Cepo",
+        "Voltiocambio"
       ],
-      "spriteKey": "TADBULB"
+      "spriteKey": "ZEBSTRIKA"
     },
     {
       "nickname": "Perro Sanche",
@@ -507,6 +506,7 @@
         }
       ],
       "tmMoves": [
+        "Bola Voltio",
         "Brecha Negra",
         "Cambiaalmas",
         "Reciclaje"
@@ -611,6 +611,7 @@
       "tmMoves": [
         "Beso Dulce",
         "Bloqueo",
+        "Bola Voltio",
         "Brecha Negra",
         "Cambiaalmas",
         "Campo Eléctrico",
@@ -872,491 +873,6 @@
       "spriteKey": "MORELULL"
     },
     {
-      "nickname": "Mister.Krabb",
-      "species": "Krabby",
-      "level": 13,
-      "types": [
-        "Agua"
-      ],
-      "ability": "Poder Gélido",
-      "nature": "Afable",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Transformación",
-        "Ayuda",
-        "Bilis",
-        "Shuriken de Agua"
-      ],
-      "iv": [
-        9,
-        29,
-        7,
-        5,
-        13,
-        26
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Armadura Batalla",
-        "Poder Gélido"
-      ],
-      "abilHidden": [
-        "Batería"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Pin Misil"
-        },
-        {
-          "lvl": 1,
-          "m": "Perforador"
-        },
-        {
-          "lvl": 1,
-          "m": "Danza Lluvia"
-        },
-        {
-          "lvl": 1,
-          "m": "Cuerno Certero"
-        },
-        {
-          "lvl": 4,
-          "m": "Transformación"
-        },
-        {
-          "lvl": 5,
-          "m": "Ayuda"
-        },
-        {
-          "lvl": 8,
-          "m": "Bilis"
-        },
-        {
-          "lvl": 12,
-          "m": "Shuriken de Agua"
-        },
-        {
-          "lvl": 15,
-          "m": "Triple Inmersión"
-        },
-        {
-          "lvl": 16,
-          "m": "Deslumbrar"
-        },
-        {
-          "lvl": 20,
-          "m": "Silbato"
-        },
-        {
-          "lvl": 24,
-          "m": "Rugido"
-        },
-        {
-          "lvl": 29,
-          "m": "Rayo Burbuja"
-        },
-        {
-          "lvl": 32,
-          "m": "Antojo"
-        },
-        {
-          "lvl": 36,
-          "m": "Profecía"
-        },
-        {
-          "lvl": 39,
-          "m": "Atiborramiento"
-        },
-        {
-          "lvl": 40,
-          "m": "Colmillo Hielo"
-        },
-        {
-          "lvl": 44,
-          "m": "Contraataque"
-        },
-        {
-          "lvl": 48,
-          "m": "Chorro de Vapor"
-        }
-      ],
-      "firstMoves": [
-        "Transformación",
-        "Ayuda",
-        "Bilis",
-        "Shuriken de Agua"
-      ],
-      "spriteKey": "KRABBY"
-    },
-    {
-      "nickname": "Mrs.Krabb",
-      "species": "Corphish",
-      "level": 17,
-      "types": [
-        "Agua"
-      ],
-      "ability": "Megadisparador",
-      "nature": "Floja",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Bombardeo",
-        "Tóxico",
-        "Danza Lluvia",
-        "Colmillo Veneno"
-      ],
-      "iv": [
-        9,
-        16,
-        27,
-        22,
-        27,
-        22
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Megadisparador",
-        "Bromista"
-      ],
-      "abilHidden": [
-        "Imán"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Onda Voltio"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Jet"
-        },
-        {
-          "lvl": 1,
-          "m": "Frío Polar"
-        },
-        {
-          "lvl": 4,
-          "m": "Caída Libre"
-        },
-        {
-          "lvl": 8,
-          "m": "Bombardeo"
-        },
-        {
-          "lvl": 10,
-          "m": "Tóxico"
-        },
-        {
-          "lvl": 12,
-          "m": "Danza Lluvia"
-        },
-        {
-          "lvl": 16,
-          "m": "Colmillo Veneno"
-        },
-        {
-          "lvl": 20,
-          "m": "Impactrueno"
-        },
-        {
-          "lvl": 24,
-          "m": "Hidrochorro"
-        },
-        {
-          "lvl": 28,
-          "m": "Recuperación"
-        },
-        {
-          "lvl": 32,
-          "m": "Onda Mental"
-        },
-        {
-          "lvl": 36,
-          "m": "Explosion"
-        },
-        {
-          "lvl": 40,
-          "m": "Doble Equipo"
-        },
-        {
-          "lvl": 44,
-          "m": "Triple Inmersión"
-        },
-        {
-          "lvl": 48,
-          "m": "Bote"
-        },
-        {
-          "lvl": 52,
-          "m": "Halloween"
-        }
-      ],
-      "tmMoves": [
-        "Onda Vacío"
-      ],
-      "firstMoves": [
-        "Bombardeo",
-        "Tóxico",
-        "Danza Lluvia",
-        "Colmillo Veneno"
-      ],
-      "spriteKey": "CORPHISH"
-    },
-    {
-      "nickname": "PasoDeZebra",
-      "species": "Blitzle",
-      "level": 20,
-      "types": [
-        "Eléctrico"
-      ],
-      "ability": "Antibarrera",
-      "nature": "Rara",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Púas Tóxicas",
-        "Hierba Lazo",
-        "Cepo",
-        "Voltiocambio"
-      ],
-      "iv": [
-        22,
-        9,
-        2,
-        5,
-        1,
-        31
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Antibarrera",
-        "Primer Auxilio"
-      ],
-      "abilHidden": [
-        "Pereza"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Reserva"
-        },
-        {
-          "lvl": 4,
-          "m": "Doble Golpe"
-        },
-        {
-          "lvl": 8,
-          "m": "Púas Tóxicas"
-        },
-        {
-          "lvl": 11,
-          "m": "Hierba Lazo"
-        },
-        {
-          "lvl": 15,
-          "m": "Cepo"
-        },
-        {
-          "lvl": 18,
-          "m": "Voltiocambio"
-        },
-        {
-          "lvl": 22,
-          "m": "Bomba Fango"
-        },
-        {
-          "lvl": 22,
-          "m": "Granizo"
-        },
-        {
-          "lvl": 25,
-          "m": "Picotazo"
-        },
-        {
-          "lvl": 29,
-          "m": "Puño Jet"
-        },
-        {
-          "lvl": 33,
-          "m": "Ariete"
-        },
-        {
-          "lvl": 35,
-          "m": "Zumbido"
-        },
-        {
-          "lvl": 40,
-          "m": "Restricción"
-        }
-      ],
-      "tmMoves": [
-        "Cambiaalmas"
-      ],
-      "firstMoves": [
-        "Púas Tóxicas",
-        "Hierba Lazo",
-        "Cepo",
-        "Voltiocambio"
-      ],
-      "spriteKey": "BLITZLE"
-    },
-    {
-      "nickname": "Pereira",
-      "species": "Bibarel",
-      "level": 27,
-      "types": [
-        "Normal",
-        "Agua"
-      ],
-      "ability": "Calco",
-      "nature": "Mansa",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Ojos Llorosos",
-        "Desarrollo",
-        "Atizar",
-        "Mordisco"
-      ],
-      "iv": [
-        8,
-        29,
-        2,
-        7,
-        27,
-        11
-      ],
-      "ev": [
-        0,
-        2,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Escama de Hielo",
-        "Calco"
-      ],
-      "abilHidden": [
-        "Simbiosis"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Anticipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Último Lugar"
-        },
-        {
-          "lvl": 1,
-          "m": "Furia Natural"
-        },
-        {
-          "lvl": 1,
-          "m": "Última Palabra"
-        },
-        {
-          "lvl": 5,
-          "m": "Autotomía"
-        },
-        {
-          "lvl": 9,
-          "m": "Viento Afín"
-        },
-        {
-          "lvl": 13,
-          "m": "Refuerzo"
-        },
-        {
-          "lvl": 18,
-          "m": "Pantalla de Luz"
-        },
-        {
-          "lvl": 23,
-          "m": "Transformación"
-        },
-        {
-          "lvl": 23,
-          "m": "Ataque Ala"
-        },
-        {
-          "lvl": 28,
-          "m": "Picotazo Veneno"
-        },
-        {
-          "lvl": 33,
-          "m": "Salpicar"
-        },
-        {
-          "lvl": 38,
-          "m": "Chorro de Vapor"
-        },
-        {
-          "lvl": 43,
-          "m": "Deseo"
-        },
-        {
-          "lvl": 48,
-          "m": "Clavo Cañón"
-        },
-        {
-          "lvl": 53,
-          "m": "Romperrocas"
-        },
-        {
-          "lvl": 58,
-          "m": "Chulería"
-        }
-      ],
-      "tmMoves": [
-        "Atizar",
-        "Brecha Negra",
-        "Cambiaalmas",
-        "Campo Eléctrico",
-        "Cascabel Cura",
-        "Cosquillas",
-        "Divide Dolor",
-        "Limpieza General",
-        "Mordisco",
-        "Remolino",
-        "Robo",
-        "Rodillo de Púas"
-      ],
-      "firstMoves": [
-        "Ojos Llorosos",
-        "Destello",
-        "Carga Parábola",
-        "Ojitos Tiernos"
-      ],
-      "spriteKey": "BIBAREL"
-    },
-    {
       "nickname": "MECAGOENTODO",
       "species": "Butterfree",
       "level": 28,
@@ -1510,6 +1026,386 @@
       "spriteKey": "BUTTERFREE"
     },
     {
+      "nickname": "Mister.Krabb",
+      "species": "Krabby",
+      "level": 13,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Poder Gélido",
+      "nature": "Afable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Transformación",
+        "Ayuda",
+        "Bilis",
+        "Shuriken de Agua"
+      ],
+      "iv": [
+        9,
+        29,
+        7,
+        5,
+        13,
+        26
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Armadura Batalla",
+        "Poder Gélido"
+      ],
+      "abilHidden": [
+        "Batería"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Pin Misil"
+        },
+        {
+          "lvl": 1,
+          "m": "Perforador"
+        },
+        {
+          "lvl": 1,
+          "m": "Danza Lluvia"
+        },
+        {
+          "lvl": 1,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 4,
+          "m": "Transformación"
+        },
+        {
+          "lvl": 5,
+          "m": "Ayuda"
+        },
+        {
+          "lvl": 8,
+          "m": "Bilis"
+        },
+        {
+          "lvl": 12,
+          "m": "Shuriken de Agua"
+        },
+        {
+          "lvl": 15,
+          "m": "Triple Inmersión"
+        },
+        {
+          "lvl": 16,
+          "m": "Deslumbrar"
+        },
+        {
+          "lvl": 20,
+          "m": "Silbato"
+        },
+        {
+          "lvl": 24,
+          "m": "Rugido"
+        },
+        {
+          "lvl": 29,
+          "m": "Rayo Burbuja"
+        },
+        {
+          "lvl": 32,
+          "m": "Antojo"
+        },
+        {
+          "lvl": 36,
+          "m": "Profecía"
+        },
+        {
+          "lvl": 39,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 40,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 44,
+          "m": "Contraataque"
+        },
+        {
+          "lvl": 48,
+          "m": "Chorro de Vapor"
+        }
+      ],
+      "firstMoves": [
+        "Transformación",
+        "Ayuda",
+        "Bilis",
+        "Shuriken de Agua"
+      ],
+      "spriteKey": "KRABBY"
+    },
+    {
+      "nickname": "Pereira",
+      "species": "Bibarel",
+      "level": 27,
+      "types": [
+        "Normal",
+        "Agua"
+      ],
+      "ability": "Calco",
+      "nature": "Mansa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Ojos Llorosos",
+        "Desarrollo",
+        "Atizar",
+        "Mordisco"
+      ],
+      "iv": [
+        8,
+        29,
+        2,
+        7,
+        27,
+        11
+      ],
+      "ev": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Escama de Hielo",
+        "Calco"
+      ],
+      "abilHidden": [
+        "Simbiosis"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Anticipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Último Lugar"
+        },
+        {
+          "lvl": 1,
+          "m": "Furia Natural"
+        },
+        {
+          "lvl": 1,
+          "m": "Última Palabra"
+        },
+        {
+          "lvl": 5,
+          "m": "Autotomía"
+        },
+        {
+          "lvl": 9,
+          "m": "Viento Afín"
+        },
+        {
+          "lvl": 13,
+          "m": "Refuerzo"
+        },
+        {
+          "lvl": 18,
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 23,
+          "m": "Transformación"
+        },
+        {
+          "lvl": 23,
+          "m": "Ataque Ala"
+        },
+        {
+          "lvl": 28,
+          "m": "Picotazo Veneno"
+        },
+        {
+          "lvl": 33,
+          "m": "Salpicar"
+        },
+        {
+          "lvl": 38,
+          "m": "Chorro de Vapor"
+        },
+        {
+          "lvl": 43,
+          "m": "Deseo"
+        },
+        {
+          "lvl": 48,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 53,
+          "m": "Romperrocas"
+        },
+        {
+          "lvl": 58,
+          "m": "Chulería"
+        }
+      ],
+      "tmMoves": [
+        "Atizar",
+        "Brecha Negra",
+        "Cambiaalmas",
+        "Campo Eléctrico",
+        "Cascabel Cura",
+        "Cosquillas",
+        "Divide Dolor",
+        "Limpieza General",
+        "Mordisco",
+        "Remolino",
+        "Robo",
+        "Rodillo de Púas"
+      ],
+      "firstMoves": [
+        "Ojos Llorosos",
+        "Destello",
+        "Carga Parábola",
+        "Ojitos Tiernos"
+      ],
+      "spriteKey": "BIBAREL"
+    },
+    {
+      "nickname": "Mrs.Krabb",
+      "species": "Corphish",
+      "level": 17,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Megadisparador",
+      "nature": "Floja",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Bombardeo",
+        "Tóxico",
+        "Danza Lluvia",
+        "Colmillo Veneno"
+      ],
+      "iv": [
+        9,
+        16,
+        27,
+        22,
+        27,
+        22
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Megadisparador",
+        "Bromista"
+      ],
+      "abilHidden": [
+        "Imán"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Onda Voltio"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 1,
+          "m": "Frío Polar"
+        },
+        {
+          "lvl": 4,
+          "m": "Caída Libre"
+        },
+        {
+          "lvl": 8,
+          "m": "Bombardeo"
+        },
+        {
+          "lvl": 10,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 12,
+          "m": "Danza Lluvia"
+        },
+        {
+          "lvl": 16,
+          "m": "Colmillo Veneno"
+        },
+        {
+          "lvl": 20,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 24,
+          "m": "Hidrochorro"
+        },
+        {
+          "lvl": 28,
+          "m": "Recuperación"
+        },
+        {
+          "lvl": 32,
+          "m": "Onda Mental"
+        },
+        {
+          "lvl": 36,
+          "m": "Explosion"
+        },
+        {
+          "lvl": 40,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 44,
+          "m": "Triple Inmersión"
+        },
+        {
+          "lvl": 48,
+          "m": "Bote"
+        },
+        {
+          "lvl": 52,
+          "m": "Halloween"
+        }
+      ],
+      "tmMoves": [
+        "Onda Vacío"
+      ],
+      "firstMoves": [
+        "Bombardeo",
+        "Tóxico",
+        "Danza Lluvia",
+        "Colmillo Veneno"
+      ],
+      "spriteKey": "CORPHISH"
+    },
+    {
       "nickname": "Bonsai",
       "species": "Sudowoodo",
       "level": 28,
@@ -1658,6 +1554,125 @@
         "Salazón"
       ],
       "spriteKey": "SUDOWOODO"
+    },
+    {
+      "nickname": "Tadbulb",
+      "species": "Tadbulb",
+      "level": 30,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Perro Guardián",
+      "nature": "Ingenua",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Onda Trueno",
+        "Golpe Aéreo",
+        "Alto Voltaje",
+        "Octopresa"
+      ],
+      "origin": "don_prodigio",
+      "iv": [
+        11,
+        4,
+        9,
+        6,
+        25,
+        7
+      ],
+      "ev": [
+        18,
+        25,
+        27,
+        11,
+        12,
+        23
+      ],
+      "abilPool": [
+        "Perro Guardián",
+        "Coraza Ira"
+      ],
+      "abilHidden": [
+        "Poder Sabio"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cascabel Cura"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Aéreo"
+        },
+        {
+          "lvl": 7,
+          "m": "Alto Voltaje"
+        },
+        {
+          "lvl": 11,
+          "m": "Respiro"
+        },
+        {
+          "lvl": 17,
+          "m": "Levitón"
+        },
+        {
+          "lvl": 21,
+          "m": "Perforador"
+        },
+        {
+          "lvl": 24,
+          "m": "Llanto Falso"
+        },
+        {
+          "lvl": 25,
+          "m": "Octopresa"
+        },
+        {
+          "lvl": 32,
+          "m": "Onda Voltio"
+        },
+        {
+          "lvl": 36,
+          "m": "Electrocañón"
+        },
+        {
+          "lvl": 40,
+          "m": "Puño Trueno"
+        },
+        {
+          "lvl": 45,
+          "m": "Ascuas"
+        },
+        {
+          "lvl": 50,
+          "m": "Telépata"
+        }
+      ],
+      "tmMoves": [
+        "Beso Dulce",
+        "Bilis",
+        "Brecha Negra",
+        "Calamidad",
+        "Cambiaalmas",
+        "Campo Eléctrico",
+        "Cascabel Cura",
+        "Colmillo Ígneo",
+        "Divide Dolor",
+        "Limpieza General",
+        "Onda Trueno",
+        "Onda Vacío",
+        "Onda Voltio",
+        "Viento Afín"
+      ],
+      "firstMoves": [
+        "Cascabel Cura",
+        "Golpe Aéreo",
+        "Alto Voltaje",
+        "Respiro"
+      ],
+      "spriteKey": "TADBULB"
     }
   ],
   "graveyard": [
@@ -2819,15 +2834,15 @@
       "mon": "Honedge"
     },
     {
-      "route": "",
-      "where": "Monte Moon",
-      "species": "Tadbulb",
-      "nickname": "",
+      "route": "ruta_21",
+      "where": "Ruta 21",
+      "species": "Zebstrika",
+      "nickname": "PasoDeZebra",
       "shiny": false,
       "status": "captured",
-      "category": "intercambio",
-      "level": 13,
-      "mon": "Tadbulb"
+      "category": "salvaje",
+      "level": 20,
+      "mon": "Zebstrika"
     },
     {
       "route": "ruta_15",
@@ -2874,6 +2889,17 @@
       "mon": "Morelull"
     },
     {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Butterfree",
+      "nickname": "MECAGOENTODO",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Butterfree"
+    },
+    {
       "route": "monte_moon",
       "where": "Monte Moon",
       "species": "Krabby",
@@ -2883,6 +2909,17 @@
       "category": "salvaje",
       "level": 13,
       "mon": "Krabby"
+    },
+    {
+      "route": "ruta_4",
+      "where": "Ruta 4",
+      "species": "Bibarel",
+      "nickname": "Pereira",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 17,
+      "mon": "Bibarel"
     },
     {
       "route": "ciudad_celeste",
@@ -2896,15 +2933,26 @@
       "mon": "Corphish"
     },
     {
-      "route": "ruta_21",
-      "where": "Ruta 21",
-      "species": "Blitzle",
-      "nickname": "PasoDeZebra",
+      "route": "ruta_5",
+      "where": "Ruta 5",
+      "species": "Sudowoodo",
+      "nickname": "Bonsai",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 20,
-      "mon": "Blitzle"
+      "mon": "Sudowoodo"
+    },
+    {
+      "route": "",
+      "where": "Monte Moon",
+      "species": "Tadbulb",
+      "nickname": "",
+      "shiny": false,
+      "status": "captured",
+      "category": "intercambio",
+      "level": 13,
+      "mon": "Tadbulb"
     },
     {
       "route": "",
@@ -3004,39 +3052,6 @@
       "category": "ciudad",
       "level": 11,
       "mon": "Goldeen"
-    },
-    {
-      "route": "ruta_4",
-      "where": "Ruta 4",
-      "species": "Bibarel",
-      "nickname": "Pereira",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 17,
-      "mon": "Bibarel"
-    },
-    {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Butterfree",
-      "nickname": "MECAGOENTODO",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 10,
-      "mon": "Butterfree"
-    },
-    {
-      "route": "ruta_5",
-      "where": "Ruta 5",
-      "species": "Sudowoodo",
-      "nickname": "Bonsai",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 20,
-      "mon": "Sudowoodo"
     }
   ],
   "progress": {
@@ -3050,21 +3065,21 @@
     "routes": {
       "ruta_22": true,
       "bosque_verde": true,
+      "ruta_21": true,
       "ruta_15": true,
       "ruta_12": true,
       "tunel_diglett": true,
       "monte_moon_exterior": true,
+      "ciudad_plateada": true,
       "monte_moon": true,
+      "ruta_4": true,
       "ciudad_celeste": true,
-      "ruta_21": true,
+      "ruta_5": true,
       "ruta_2_sur": true,
       "ciudad_verde": true,
       "pueblo_paleta": true,
       "ruta_20": true,
       "ciudad_carmin": true,
-      "ciudad_plateada": true,
-      "ruta_4": true,
-      "ruta_5": true,
       "ruta_1": true,
       "ruta_2_norte": true,
       "ruta_3": true,
@@ -3192,6 +3207,7 @@
       "MT102",
       "MT104",
       "MT111",
+      "MT112",
       "MT114",
       "MT120",
       "MT123",
@@ -3446,7 +3462,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 873,
+        "qty": 866,
         "pocket": "Medicinas"
       },
       {
@@ -3644,6 +3660,12 @@
       {
         "id": "TM111",
         "name": "MT111",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM112",
+        "name": "MT112",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
