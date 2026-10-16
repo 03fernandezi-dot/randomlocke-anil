@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 7h 59m jugadas · 122,240₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 8h 3m jugadas · 122,240₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Rem",
@@ -301,7 +301,7 @@
         "Psicocorte",
         "Golpe Bajo",
         "Calcinación",
-        "Impresionar"
+        "Aire Afilado"
       ],
       "iv": [
         8,
@@ -404,7 +404,22 @@
         }
       ],
       "tmMoves": [
-        "Poder Pasado"
+        "Acua Cola",
+        "Adaptación",
+        "Aire Afilado",
+        "Alivio",
+        "Batido",
+        "Escalofrío",
+        "Escudo Real",
+        "Látigo Ígneo",
+        "Motivación",
+        "Pesadilla",
+        "Poder Pasado",
+        "Salazón",
+        "Sorpresa",
+        "Tajo Metralla",
+        "Trampa Rocas",
+        "Voz Cautivadora"
       ],
       "firstMoves": [
         "Psicoonda",
