@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 8h 22m jugadas · 93,390₽ · vidas en el juego: 17",
+  "notes": "Importado del save · 8h 27m jugadas · 96,870₽ · vidas en el juego: 17",
   "team": [
     {
       "nickname": "PasoDeZebra",
       "species": "Zebstrika",
-      "level": 28,
+      "level": 29,
       "types": [
         "Eléctrico"
       ],
@@ -34,9 +34,9 @@
       "ev": [
         2,
         1,
-        1,
         3,
-        1,
+        5,
+        2,
         1
       ],
       "abilPool": [
@@ -153,9 +153,9 @@
       "ev": [
         36,
         32,
-        33,
-        17,
+        35,
         19,
+        20,
         32
       ],
       "abilPool": [
@@ -268,9 +268,9 @@
       "ev": [
         35,
         31,
-        34,
-        17,
-        21,
+        36,
+        19,
+        22,
         31
       ],
       "abilPool": [
@@ -378,7 +378,7 @@
     {
       "nickname": "Aslan",
       "species": "Litleo",
-      "level": 25,
+      "level": 26,
       "types": [
         "Fuego",
         "Normal"
@@ -404,9 +404,9 @@
       "ev": [
         0,
         0,
-        0,
-        0,
-        0,
+        2,
+        2,
+        1,
         0
       ],
       "abilPool": [
@@ -544,9 +544,9 @@
       "ev": [
         2,
         1,
-        1,
-        4,
-        1,
+        3,
+        6,
+        2,
         1
       ],
       "abilPool": [
@@ -633,7 +633,7 @@
     {
       "nickname": "ACTIVOTORRE",
       "species": "Impidimp",
-      "level": 27,
+      "level": 28,
       "types": [
         "Siniestro",
         "Hada"
@@ -659,9 +659,9 @@
       "ev": [
         2,
         1,
-        1,
         3,
-        1,
+        5,
+        2,
         1
       ],
       "abilPool": [
