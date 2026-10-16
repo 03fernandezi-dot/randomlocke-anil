@@ -2,177 +2,175 @@
   "id": "Pau",
   "name": "Pau",
   "lives": 30,
-  "livesUsed": 5,
+  "livesUsed": 6,
   "champion": false,
-  "notes": "Importado del save · 6h 46m jugadas · 262,970₽ · vidas en el juego: 23",
+  "notes": "Importado del save · 6h 51m jugadas · 268,820₽ · vidas en el juego: 21",
   "team": [
     {
-      "nickname": "Hazard",
-      "species": "Obstagoon",
-      "level": 37,
+      "nickname": "Shawn",
+      "species": "Ampharos",
+      "level": 38,
       "types": [
-        "Siniestro",
-        "Normal"
+        "Eléctrico"
       ],
-      "ability": "Alma Cura",
-      "nature": "Activa",
-      "item": "Cascabel Concha",
+      "ability": "Cuerpo Maldito",
+      "nature": "Serena",
+      "item": "Raíz Grande",
       "shiny": false,
       "moves": [
-        "Buena Baza",
-        "Terremoto",
-        "Deslizamiento",
-        "Búnker"
+        "Carga Parábola",
+        "Viento Aciago",
+        "Pikaturbo",
+        "Levitón"
       ],
       "iv": [
-        27,
+        10,
+        4,
+        31,
         1,
-        18,
-        24,
-        20,
-        0
+        11,
+        19
       ],
       "ev": [
-        21,
-        57,
-        31,
+        23,
+        64,
+        33,
+        34,
         22,
-        14,
-        22
+        39
       ],
       "abilPool": [
-        "Piel Helada",
-        "Alma Cura"
+        "Cuerpo Maldito"
       ],
       "abilHidden": [
-        "Tumbos"
+        "Surcavientos"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Plumerazo"
+          "lvl": -1,
+          "m": "Superdiente"
         },
         {
           "lvl": 1,
-          "m": "Electrotela"
+          "m": "Tóxico"
         },
         {
           "lvl": 1,
-          "m": "Protección"
+          "m": "Sustituto"
         },
         {
           "lvl": 1,
-          "m": "Triple Inmersión"
+          "m": "Alto Voltaje"
         },
         {
           "lvl": 1,
-          "m": "Afilagarras"
+          "m": "Levitón"
         },
         {
           "lvl": 1,
-          "m": "Relajo"
+          "m": "Fuego Fatuo"
         },
         {
           "lvl": 1,
-          "m": "Fertilizante"
+          "m": "Chispa"
         },
         {
           "lvl": 1,
-          "m": "Esfuerzo"
+          "m": "Ultrapuño"
         },
         {
           "lvl": 1,
-          "m": "Camelo"
+          "m": "Placaje"
         },
         {
-          "lvl": 1,
-          "m": "Búnker"
+          "lvl": 11,
+          "m": "Bola Voltio"
         },
         {
-          "lvl": 1,
-          "m": "Ataque Furia"
+          "lvl": 16,
+          "m": "Motivación"
         },
         {
-          "lvl": 1,
-          "m": "Deslome"
+          "lvl": 20,
+          "m": "Rayo Carga"
         },
         {
-          "lvl": 9,
-          "m": "Descanso"
+          "lvl": 22,
+          "m": "Polución"
         },
         {
-          "lvl": 12,
-          "m": "Absorbefuerza"
+          "lvl": 25,
+          "m": "Telequinesis"
         },
         {
-          "lvl": 15,
-          "m": "Nitrocarga"
+          "lvl": 29,
+          "m": "Semilladora"
         },
         {
-          "lvl": 18,
-          "m": "Atiborramiento"
-        },
-        {
-          "lvl": 23,
-          "m": "Esquema"
-        },
-        {
-          "lvl": 28,
-          "m": "Geocontrol"
+          "lvl": 32,
+          "m": "Carga Parábola"
         },
         {
           "lvl": 35,
-          "m": "Láser Prisma"
+          "m": "Amplificador"
         },
         {
-          "lvl": 38,
-          "m": "Bofetón Lodo"
+          "lvl": 40,
+          "m": "Electrificación"
         },
         {
-          "lvl": 42,
-          "m": "As Oculto"
+          "lvl": 46,
+          "m": "Alarido"
         },
         {
-          "lvl": 49,
-          "m": "Escudo Real"
+          "lvl": 51,
+          "m": "Alud"
         },
         {
-          "lvl": 56,
-          "m": "Poltergeist"
+          "lvl": 51,
+          "m": "Canto Encantador"
+        },
+        {
+          "lvl": 51,
+          "m": "Electrotela"
+        },
+        {
+          "lvl": 57,
+          "m": "Deseo Cura"
+        },
+        {
+          "lvl": 62,
+          "m": "Clemencia"
         }
       ],
       "tmMoves": [
-        "Arenas Ardientes",
-        "Camelo",
-        "Clavo Cañón",
+        "Barrera",
+        "Carga Parábola",
+        "Danza Aleteo",
         "Decalcomanía",
         "Decoración",
-        "Esfera Aural",
         "Estrujón",
-        "Gas Corrosivo",
+        "Golpe Roca",
+        "Granizo",
         "Llave Corsé",
         "Piñón Auxiliar",
-        "Púas",
-        "Pulso de Campo",
+        "Puño Incremento",
         "Rayo Fusión",
         "Sacrificio",
-        "Shuriken de Agua",
-        "Terremoto",
-        "Velo Sagrado",
         "Vendetta",
-        "Viento Carámbano",
-        "Viento Plata"
+        "Viento Carámbano"
       ],
       "firstMoves": [
-        "Deslome",
-        "Palmeo"
+        "Viento Aciago",
+        "Tajo Acuático",
+        "Deslome"
       ],
-      "spriteKey": "OBSTAGOON_1"
+      "spriteKey": "AMPHAROS"
     },
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 36,
+      "level": 37,
       "types": [
         "Psíquico",
         "Volador"
@@ -196,12 +194,12 @@
         20
       ],
       "ev": [
-        3,
-        11,
-        13,
         5,
+        12,
+        13,
+        7,
         2,
-        4
+        6
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -308,149 +306,9 @@
       "spriteKey": "BRAVIARY_1"
     },
     {
-      "nickname": "Envape",
-      "species": "Blastoise",
-      "level": 37,
-      "types": [
-        "Agua"
-      ],
-      "ability": "Irascible",
-      "nature": "Huraña",
-      "item": "Chaleco Asalto",
-      "shiny": false,
-      "moves": [
-        "Tajo Acuático",
-        "Terratemblor",
-        "Cola Veneno",
-        "Arrumaco"
-      ],
-      "iv": [
-        3,
-        24,
-        5,
-        31,
-        25,
-        23
-      ],
-      "ev": [
-        21,
-        54,
-        30,
-        22,
-        14,
-        22
-      ],
-      "abilPool": [
-        "Irascible"
-      ],
-      "abilHidden": [
-        "Sombra Trampa"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Empapar"
-        },
-        {
-          "lvl": 1,
-          "m": "Onda Anómala"
-        },
-        {
-          "lvl": 1,
-          "m": "Viraje"
-        },
-        {
-          "lvl": 1,
-          "m": "Legado"
-        },
-        {
-          "lvl": 1,
-          "m": "Decalcomanía"
-        },
-        {
-          "lvl": 1,
-          "m": "Gota Vital"
-        },
-        {
-          "lvl": 9,
-          "m": "Arraigo"
-        },
-        {
-          "lvl": 12,
-          "m": "Polvo Explosivo"
-        },
-        {
-          "lvl": 15,
-          "m": "Garra Umbría"
-        },
-        {
-          "lvl": 20,
-          "m": "Lanzarrocas"
-        },
-        {
-          "lvl": 25,
-          "m": "Refugio"
-        },
-        {
-          "lvl": 30,
-          "m": "Rayo Burbuja"
-        },
-        {
-          "lvl": 35,
-          "m": "Triple Patada"
-        },
-        {
-          "lvl": 36,
-          "m": "Agua Lodosa"
-        },
-        {
-          "lvl": 42,
-          "m": "Mandato"
-        },
-        {
-          "lvl": 49,
-          "m": "Tenaza"
-        },
-        {
-          "lvl": 56,
-          "m": "Garra Brutal"
-        },
-        {
-          "lvl": 56,
-          "m": "Follaje"
-        }
-      ],
-      "tmMoves": [
-        "Bomba Ácida",
-        "Camelo",
-        "Carga Parábola",
-        "Clavo Cañón",
-        "Danza Lunar",
-        "Decalcomanía",
-        "Decoración",
-        "Eco Metálico",
-        "Gas Corrosivo",
-        "Granizo",
-        "Llave Corsé",
-        "Púas",
-        "Purificación",
-        "Shuriken de Agua",
-        "Velo Sagrado",
-        "Vendetta",
-        "Viento Plata"
-      ],
-      "firstMoves": [
-        "Rayo Burbuja",
-        "Rayo Carga",
-        "Arrumaco",
-        "Pistola Agua"
-      ],
-      "spriteKey": "BLASTOISE"
-    },
-    {
       "nickname": "Bicharraco",
       "species": "Golurk",
-      "level": 36,
+      "level": 38,
       "types": [
         "Tierra",
         "Fantasma"
@@ -474,12 +332,12 @@
         27
       ],
       "ev": [
-        26,
-        38,
+        28,
+        39,
         32,
-        22,
+        24,
         14,
-        29
+        31
       ],
       "abilPool": [
         "Madrugar"
@@ -606,7 +464,7 @@
     {
       "nickname": "Hedwig",
       "species": "Decidueye",
-      "level": 37,
+      "level": 38,
       "types": [
         "Planta",
         "Fantasma"
@@ -630,12 +488,12 @@
         15
       ],
       "ev": [
-        25,
-        67,
+        27,
+        68,
         32,
-        26,
+        28,
         22,
-        37
+        39
       ],
       "abilPool": [
         "Encadenado",
@@ -4018,167 +3876,312 @@
   ],
   "graveyard": [
     {
-      "nickname": "Shawn",
-      "species": "Ampharos",
+      "nickname": "Hazard",
+      "species": "Obstagoon",
       "level": 37,
       "types": [
-        "Eléctrico"
+        "Siniestro",
+        "Normal"
       ],
-      "ability": "Cuerpo Maldito",
-      "nature": "Serena",
-      "item": "Raíz Grande",
+      "ability": "Alma Cura",
+      "nature": "Activa",
+      "item": "Cascabel Concha",
       "shiny": false,
       "moves": [
-        "Carga Parábola",
-        "Viento Aciago",
-        "Pikaturbo",
-        "Levitón"
+        "Buena Baza",
+        "Terremoto",
+        "Deslizamiento",
+        "Búnker"
       ],
       "iv": [
-        10,
-        4,
-        31,
+        27,
         1,
-        11,
-        19
+        18,
+        24,
+        20,
+        0
       ],
       "ev": [
         21,
-        63,
-        33,
-        32,
+        57,
+        31,
         22,
-        37
+        14,
+        22
       ],
       "abilPool": [
-        "Cuerpo Maldito"
+        "Piel Helada",
+        "Alma Cura"
       ],
       "abilHidden": [
-        "Surcavientos"
+        "Tumbos"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Plumerazo"
+        },
+        {
+          "lvl": 1,
+          "m": "Electrotela"
+        },
+        {
+          "lvl": 1,
+          "m": "Protección"
+        },
+        {
+          "lvl": 1,
+          "m": "Triple Inmersión"
+        },
+        {
+          "lvl": 1,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 1,
+          "m": "Relajo"
+        },
+        {
+          "lvl": 1,
+          "m": "Fertilizante"
+        },
+        {
+          "lvl": 1,
+          "m": "Esfuerzo"
+        },
+        {
+          "lvl": 1,
+          "m": "Camelo"
+        },
+        {
+          "lvl": 1,
+          "m": "Búnker"
+        },
+        {
+          "lvl": 1,
+          "m": "Ataque Furia"
+        },
+        {
+          "lvl": 1,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 9,
+          "m": "Descanso"
+        },
+        {
+          "lvl": 12,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 15,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 18,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 23,
+          "m": "Esquema"
+        },
+        {
+          "lvl": 28,
+          "m": "Geocontrol"
+        },
+        {
+          "lvl": 35,
+          "m": "Láser Prisma"
+        },
+        {
+          "lvl": 38,
+          "m": "Bofetón Lodo"
+        },
+        {
+          "lvl": 42,
+          "m": "As Oculto"
+        },
+        {
+          "lvl": 49,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 56,
+          "m": "Poltergeist"
+        }
+      ],
+      "tmMoves": [
+        "Arenas Ardientes",
+        "Camelo",
+        "Clavo Cañón",
+        "Decalcomanía",
+        "Decoración",
+        "Esfera Aural",
+        "Estrujón",
+        "Gas Corrosivo",
+        "Llave Corsé",
+        "Piñón Auxiliar",
+        "Púas",
+        "Pulso de Campo",
+        "Rayo Fusión",
+        "Sacrificio",
+        "Shuriken de Agua",
+        "Terremoto",
+        "Velo Sagrado",
+        "Vendetta",
+        "Viento Carámbano",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Deslome",
+        "Palmeo"
+      ],
+      "spriteKey": "OBSTAGOON_1",
+      "cause": "",
+      "route": "Museo Pokémon",
+      "date": ""
+    },
+    {
+      "nickname": "Envape",
+      "species": "Blastoise",
+      "level": 38,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Irascible",
+      "nature": "Huraña",
+      "item": "Chaleco Asalto",
+      "shiny": false,
+      "moves": [
+        "Tajo Acuático",
+        "Terratemblor",
+        "Cola Veneno",
+        "Arrumaco"
+      ],
+      "iv": [
+        3,
+        24,
+        5,
+        31,
+        25,
+        23
+      ],
+      "ev": [
+        21,
+        55,
+        30,
+        24,
+        14,
+        24
+      ],
+      "abilPool": [
+        "Irascible"
+      ],
+      "abilHidden": [
+        "Sombra Trampa"
       ],
       "learnset": [
         {
           "lvl": -1,
-          "m": "Superdiente"
+          "m": "Empapar"
         },
         {
           "lvl": 1,
-          "m": "Tóxico"
+          "m": "Onda Anómala"
         },
         {
           "lvl": 1,
-          "m": "Sustituto"
+          "m": "Viraje"
         },
         {
           "lvl": 1,
-          "m": "Alto Voltaje"
+          "m": "Legado"
         },
         {
           "lvl": 1,
-          "m": "Levitón"
+          "m": "Decalcomanía"
         },
         {
           "lvl": 1,
-          "m": "Fuego Fatuo"
+          "m": "Gota Vital"
         },
         {
-          "lvl": 1,
-          "m": "Chispa"
+          "lvl": 9,
+          "m": "Arraigo"
         },
         {
-          "lvl": 1,
-          "m": "Ultrapuño"
+          "lvl": 12,
+          "m": "Polvo Explosivo"
         },
         {
-          "lvl": 1,
-          "m": "Placaje"
-        },
-        {
-          "lvl": 11,
-          "m": "Bola Voltio"
-        },
-        {
-          "lvl": 16,
-          "m": "Motivación"
+          "lvl": 15,
+          "m": "Garra Umbría"
         },
         {
           "lvl": 20,
-          "m": "Rayo Carga"
-        },
-        {
-          "lvl": 22,
-          "m": "Polución"
+          "m": "Lanzarrocas"
         },
         {
           "lvl": 25,
-          "m": "Telequinesis"
+          "m": "Refugio"
         },
         {
-          "lvl": 29,
-          "m": "Semilladora"
-        },
-        {
-          "lvl": 32,
-          "m": "Carga Parábola"
+          "lvl": 30,
+          "m": "Rayo Burbuja"
         },
         {
           "lvl": 35,
-          "m": "Amplificador"
+          "m": "Triple Patada"
         },
         {
-          "lvl": 40,
-          "m": "Electrificación"
+          "lvl": 36,
+          "m": "Agua Lodosa"
         },
         {
-          "lvl": 46,
-          "m": "Alarido"
+          "lvl": 42,
+          "m": "Mandato"
         },
         {
-          "lvl": 51,
-          "m": "Alud"
+          "lvl": 49,
+          "m": "Tenaza"
         },
         {
-          "lvl": 51,
-          "m": "Canto Encantador"
+          "lvl": 56,
+          "m": "Garra Brutal"
         },
         {
-          "lvl": 51,
-          "m": "Electrotela"
-        },
-        {
-          "lvl": 57,
-          "m": "Deseo Cura"
-        },
-        {
-          "lvl": 62,
-          "m": "Clemencia"
+          "lvl": 56,
+          "m": "Follaje"
         }
       ],
       "tmMoves": [
-        "Barrera",
+        "Bomba Ácida",
+        "Camelo",
         "Carga Parábola",
-        "Danza Aleteo",
+        "Clavo Cañón",
+        "Danza Lunar",
         "Decalcomanía",
         "Decoración",
-        "Estrujón",
-        "Golpe Roca",
+        "Eco Metálico",
+        "Gas Corrosivo",
         "Granizo",
         "Llave Corsé",
-        "Piñón Auxiliar",
-        "Puño Incremento",
-        "Rayo Fusión",
-        "Sacrificio",
+        "Púas",
+        "Purificación",
+        "Shuriken de Agua",
+        "Velo Sagrado",
         "Vendetta",
-        "Viento Carámbano"
+        "Viento Plata"
       ],
       "firstMoves": [
-        "Viento Aciago",
-        "Tajo Acuático",
-        "Deslome"
+        "Rayo Burbuja",
+        "Rayo Carga",
+        "Arrumaco",
+        "Pistola Agua"
       ],
-      "spriteKey": "AMPHAROS",
+      "spriteKey": "BLASTOISE",
       "cause": "",
-      "route": "Laboratorio",
+      "route": "Ciudad Celeste",
       "date": ""
     },
     {
@@ -4729,7 +4732,7 @@
       "species": "Obstagoon",
       "nickname": "Hazard",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "estatico_regalo",
       "level": 1,
       "mon": "Obstagoon"
@@ -4740,7 +4743,7 @@
       "species": "Ampharos",
       "nickname": "Shawn",
       "shiny": false,
-      "status": "dead",
+      "status": "captured",
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Ampharos"
@@ -4762,7 +4765,7 @@
       "species": "Blastoise",
       "nickname": "Envape",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "ciudad",
       "level": 18,
       "mon": "Blastoise"
@@ -5202,6 +5205,8 @@
       94,
       95,
       96,
+      97,
+      98,
       110,
       112,
       113,
@@ -5359,6 +5364,7 @@
       "Velocidad X 3",
       "Velocidad X 6",
       "Vial",
+      "Visor Silph",
       "Zinc"
     ],
     "bag": [
@@ -5558,12 +5564,6 @@
         "id": "RARECANDY",
         "name": "Caramelo Raro",
         "qty": 781,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "CENIZASSAGRADAS",
-        "name": "Cenizas Sagradas",
-        "qty": 1,
         "pocket": "Medicinas"
       },
       {
@@ -6117,6 +6117,12 @@
         "name": "Llave Rocket",
         "qty": 1,
         "pocket": "Objetos clave"
+      },
+      {
+        "id": "VISORSILPH",
+        "name": "Visor Silph",
+        "qty": 1,
+        "pocket": "Objetos clave"
       }
     ]
   },
@@ -6127,7 +6133,8 @@
     "2750763801",
     "1798594326",
     "4019790846",
-    "3944579620"
+    "3944579620",
+    "252916811"
   ],
   "revividos": 2
 }
