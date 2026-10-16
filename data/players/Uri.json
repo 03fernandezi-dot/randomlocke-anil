@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 7h 0m jugadas · 122,240₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 7h 5m jugadas · 122,240₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Izan",
@@ -167,17 +167,17 @@
     },
     {
       "nickname": "Kowalski",
-      "species": "Piplup",
-      "level": 29,
+      "species": "Prinplup",
+      "level": 34,
       "types": [
         "Agua"
       ],
-      "ability": "Intrépido",
+      "ability": "Ojo Compuesto",
       "nature": "Alocada",
       "item": "",
       "shiny": false,
       "moves": [
-        "Aire Afilado",
+        "Pulso Umbrío",
         "Escudo Real",
         "Carga Parábola",
         "Respiro"
@@ -199,95 +199,97 @@
         0
       ],
       "abilPool": [
-        "Intrépido"
+        "Ojo Compuesto"
       ],
       "abilHidden": [
-        "Iluminación"
+        "Poder Arena"
       ],
       "learnset": [
         {
+          "lvl": -1,
+          "m": "Nitrocarga"
+        },
+        {
           "lvl": 1,
-          "m": "Respiro"
+          "m": "Polvo Mágico"
         },
         {
-          "lvl": 4,
-          "m": "Rugido"
+          "lvl": 1,
+          "m": "Empapar"
         },
         {
-          "lvl": 6,
-          "m": "Rizo Defensa"
+          "lvl": 1,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 1,
+          "m": "Tenaza"
         },
         {
           "lvl": 8,
-          "m": "Hidrochorro"
+          "m": "Acua Jet"
         },
         {
           "lvl": 11,
-          "m": "Carga Parábola"
+          "m": "Brinco"
         },
         {
           "lvl": 11,
-          "m": "Tajo Umbrío"
+          "m": "Bomba Caramelo"
         },
         {
           "lvl": 15,
-          "m": "A Defender"
+          "m": "Triple Inmersión"
         },
         {
-          "lvl": 18,
-          "m": "Refugio"
+          "lvl": 19,
+          "m": "Vasto Impacto"
         },
         {
-          "lvl": 22,
-          "m": "Viraje"
+          "lvl": 24,
+          "m": "Red Viscosa"
         },
         {
-          "lvl": 22,
-          "m": "Resarcimiento"
+          "lvl": 28,
+          "m": "Enrosque"
         },
         {
-          "lvl": 25,
-          "m": "Zona Mágica"
+          "lvl": 33,
+          "m": "Pulso Umbrío"
         },
         {
-          "lvl": 29,
-          "m": "Cornada"
-        },
-        {
-          "lvl": 32,
-          "m": "Fachada"
-        },
-        {
-          "lvl": 36,
-          "m": "Genufendiente"
-        },
-        {
-          "lvl": 39,
-          "m": "Bola Hielo"
-        },
-        {
-          "lvl": 43,
+          "lvl": 37,
           "m": "Tierra Viva"
+        },
+        {
+          "lvl": 42,
+          "m": "Vapodrenaje"
+        },
+        {
+          "lvl": 46,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 50,
+          "m": "Terremoto"
         }
       ],
       "tmMoves": [
-        "Acua Cola",
-        "Adaptación",
+        "Agarre",
         "Aire Afilado",
         "Alivio",
-        "Batido",
-        "Bomba Fango",
+        "Cañón Batidor",
         "Cerrojo Feérico",
-        "Ciclón",
-        "Escudo Real",
-        "Giro Mortífero",
+        "Copión",
+        "Corpulencia",
+        "Espora",
         "Hidrochorro",
-        "Ida y Vuelta",
-        "Ladrón",
+        "Poder Pasado",
         "Rayo Señal",
         "Salazón",
-        "Tajo Metralla",
-        "Venganza",
+        "Señuelo",
+        "Sonámbulo",
+        "Sorpresa",
         "Voz Cautivadora"
       ],
       "firstMoves": [
@@ -296,7 +298,7 @@
         "Zona Mágica",
         "Cornada"
       ],
-      "spriteKey": "PIPLUP"
+      "spriteKey": "PRINPLUP"
     },
     {
       "nickname": "Casper",
@@ -305,7 +307,7 @@
       "types": [
         "Fantasma"
       ],
-      "ability": "",
+      "ability": "Colector",
       "nature": "Amable",
       "item": "",
       "shiny": false,
@@ -423,12 +425,12 @@
     },
     {
       "nickname": "Rem",
-      "species": "Gothorita",
-      "level": 34,
+      "species": "Gothitelle",
+      "level": 38,
       "types": [
         "Psíquico"
       ],
-      "ability": "Ensañamiento",
+      "ability": "Albino",
       "nature": "Activa",
       "item": "",
       "shiny": false,
@@ -455,114 +457,91 @@
         0
       ],
       "abilPool": [
-        "Ensañamiento",
-        "Dinamo"
+        "Albino",
+        "Justiciero"
       ],
       "abilHidden": [
-        "General Supremo"
+        "Humo Blanco"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Viento Plata"
+          "m": "Plegaria Lunar"
         },
         {
           "lvl": 1,
-          "m": "Pistola Agua"
+          "m": "Escudo Real"
         },
         {
           "lvl": 1,
-          "m": "Confusión"
+          "m": "Capa Mágica"
         },
         {
           "lvl": 1,
-          "m": "Intercambio"
+          "m": "Meteorobola"
         },
         {
           "lvl": 12,
-          "m": "Defensa Férrea"
+          "m": "Pulso de Campo"
         },
         {
           "lvl": 14,
-          "m": "Esquirla Helada"
+          "m": "Afilagarras"
         },
         {
           "lvl": 16,
-          "m": "Gota Vital"
+          "m": "Psicocorte"
         },
         {
           "lvl": 19,
-          "m": "Arrumaco"
+          "m": "Danza Pluma"
         },
         {
           "lvl": 20,
-          "m": "Agarre"
+          "m": "Danza Dragón"
         },
         {
           "lvl": 24,
-          "m": "Hoja Afilada"
+          "m": "Zona Extraña"
         },
         {
           "lvl": 24,
-          "m": "Campo Psíquico"
+          "m": "Mismo Destino"
         },
         {
           "lvl": 28,
-          "m": "Telequinesis"
+          "m": "Impactrueno"
         },
         {
           "lvl": 34,
-          "m": "Megapuño"
+          "m": "Láser Doble"
         },
         {
           "lvl": 35,
-          "m": "Dracoflechas"
+          "m": "Pikapicado"
         },
         {
           "lvl": 40,
-          "m": "Ultrapuño"
+          "m": "Psicorrayo"
         },
         {
-          "lvl": 43,
-          "m": "Bomba Germen"
+          "lvl": 48,
+          "m": "Comesueños"
         },
         {
-          "lvl": 46,
-          "m": "Palma Rauda"
+          "lvl": 56,
+          "m": "Garra Brutal"
         },
         {
-          "lvl": 52,
-          "m": "Látigo Ígneo"
-        },
-        {
-          "lvl": 58,
-          "m": "Estruendo"
+          "lvl": 64,
+          "m": "Canto Encantador"
         }
-      ],
-      "tmMoves": [
-        "Agarre",
-        "Aire Afilado",
-        "Alivio",
-        "Batido",
-        "Bomba Fango",
-        "Ciclón",
-        "Copión",
-        "Corpulencia",
-        "Daño Secreto",
-        "Escudo Real",
-        "Espora",
-        "Giro Mortífero",
-        "Ida y Vuelta",
-        "Meteorobola",
-        "Rayo Confuso",
-        "Sorpresa",
-        "Venganza"
       ],
       "firstMoves": [
         "Acua Jet",
         "Campo Eléctrico"
       ],
-      "spriteKey": "GOTHORITA"
+      "spriteKey": "GOTHITELLE"
     },
     {
       "nickname": "Gracia",
@@ -3439,13 +3418,13 @@
     {
       "route": "tunel_roca",
       "where": "Túnel Roca",
-      "species": "Piplup",
+      "species": "Prinplup",
       "nickname": "Kowalski",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 29,
-      "mon": "Piplup"
+      "mon": "Prinplup"
     },
     {
       "route": "ruta_4",
@@ -3461,13 +3440,13 @@
     {
       "route": "",
       "where": "Museo Pokémon",
-      "species": "Gothorita",
+      "species": "Gothitelle",
       "nickname": "Rem",
       "shiny": false,
       "status": "captured",
       "category": "estatico_regalo",
       "level": 1,
-      "mon": "Gothorita"
+      "mon": "Gothitelle"
     },
     {
       "route": "ruta_6",
@@ -4105,7 +4084,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 25,
+        "qty": 16,
         "pocket": "Medicinas"
       },
       {
