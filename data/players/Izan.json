@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 20m jugadas · 100₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 37m jugadas · 100₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Garfield",
       "species": "Meowth (Galar)",
-      "level": 5,
+      "level": 6,
       "types": [
         "Acero"
       ],
@@ -36,7 +36,7 @@
         0,
         0,
         0,
-        1
+        2
       ],
       "abilPool": [
         "Levitación",
@@ -135,7 +135,7 @@
         0,
         0,
         1,
-        2
+        3
       ],
       "abilPool": [
         "Rumia",
@@ -216,7 +216,7 @@
     {
       "nickname": "Petazeta",
       "species": "Zigzagoon (Galar)",
-      "level": 3,
+      "level": 5,
       "types": [
         "Siniestro",
         "Normal"
@@ -244,7 +244,7 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "abilPool": [
         "Teracaparazón",
@@ -318,6 +318,106 @@
       ],
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10174.png",
       "spriteKey": "ZIGZAGOON_1"
+    },
+    {
+      "nickname": "PasoDeCebra2",
+      "species": "Blitzle",
+      "level": 6,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Presión",
+      "nature": "Activa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Onda Anómala",
+        "Copión",
+        "Homenaje Póstumo"
+      ],
+      "iv": [
+        1,
+        14,
+        2,
+        13,
+        9,
+        31
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Presión",
+        "Colector"
+      ],
+      "abilHidden": [
+        "Acero Templado"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Onda Anómala"
+        },
+        {
+          "lvl": 4,
+          "m": "Copión"
+        },
+        {
+          "lvl": 8,
+          "m": "Presente"
+        },
+        {
+          "lvl": 11,
+          "m": "Electrificación"
+        },
+        {
+          "lvl": 15,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 18,
+          "m": "Ayuda"
+        },
+        {
+          "lvl": 22,
+          "m": "Cambiapoder"
+        },
+        {
+          "lvl": 22,
+          "m": "Alivio"
+        },
+        {
+          "lvl": 25,
+          "m": "Impresionar"
+        },
+        {
+          "lvl": 29,
+          "m": "Plegaria Vital"
+        },
+        {
+          "lvl": 33,
+          "m": "Velocidad Extrema"
+        },
+        {
+          "lvl": 35,
+          "m": "As Oculto"
+        },
+        {
+          "lvl": 40,
+          "m": "Orbes Espectro"
+        }
+      ],
+      "firstMoves": [
+        "Onda Anómala",
+        "Copión",
+        "Homenaje Póstumo"
+      ],
+      "spriteKey": "BLITZLE"
     }
   ],
   "box": [],
@@ -355,6 +455,17 @@
       "category": "ciudad",
       "level": 3,
       "mon": "Zigzagoon"
+    },
+    {
+      "route": "ruta_22",
+      "where": "Ruta 22",
+      "species": "Blitzle",
+      "nickname": "PasoDeCebra2",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Blitzle"
     }
   ],
   "progress": {
@@ -364,13 +475,15 @@
     "routes": {
       "ciudad_verde": true,
       "pueblo_paleta": true,
+      "ruta_22": true,
       "ruta_1": true
     },
     "items": {},
     "encounters": {
       "ruta_1": true,
       "ciudad_verde": true,
-      "pueblo_paleta": true
+      "pueblo_paleta": true,
+      "ruta_22": true
     },
     "switches": [
       48,
@@ -380,6 +493,7 @@
       66,
       67,
       68,
+      69,
       110,
       176,
       179,
@@ -393,8 +507,12 @@
     "foundItems": [
       "Gloria Ball",
       "Miniseta",
+      "Poké Montura",
       "Reglamento",
+      "Seta Aroma",
       "Supercaña",
+      "Velocidad X",
+      "Vial",
       "Vidasfera",
       "Zinc"
     ],
@@ -412,9 +530,21 @@
         "pocket": "Objetos"
       },
       {
+        "id": "BALMMUSHROOM",
+        "name": "Seta Aroma",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ZINC",
         "name": "Zinc",
         "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "POTION",
+        "name": "Poción",
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -426,14 +556,20 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 2,
+        "qty": 11,
         "pocket": "Poké Balls"
       },
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 2,
+        "qty": 7,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "XSPEED",
+        "name": "Velocidad X",
+        "qty": 1,
+        "pocket": "Objetos de combate"
       },
       {
         "id": "RULEBOOK",
@@ -444,6 +580,18 @@
       {
         "id": "SUPERROD",
         "name": "Supercaña",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "VIAL",
+        "name": "Vial",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "POKERIDER",
+        "name": "Poké Montura",
         "qty": 1,
         "pocket": "Objetos clave"
       }
