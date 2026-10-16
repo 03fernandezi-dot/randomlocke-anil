@@ -4,23 +4,24 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 23m jugadas · 3,500₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 36m jugadas · 3,500₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Pauet Pauet",
       "species": "Rookidee",
-      "level": 6,
+      "level": 8,
       "types": [
         "Volador"
       ],
       "ability": "Coraza Ira",
       "nature": "Grosera",
-      "item": "",
+      "item": "Cascabel Concha",
       "shiny": false,
       "moves": [
-        "Picotazo",
+        "Búnker",
         "Ataque Ala",
-        "Rizo Defensa"
+        "Rizo Defensa",
+        "Llave Giro"
       ],
       "iv": [
         25,
@@ -31,10 +32,10 @@
         9
       ],
       "ev": [
+        3,
+        0,
         2,
-        0,
         1,
-        0,
         0,
         0
       ],
@@ -95,6 +96,9 @@
           "m": "Búnker"
         }
       ],
+      "tmMoves": [
+        "Búnker"
+      ],
       "firstMoves": [
         "Picotazo",
         "Ataque Ala",
@@ -105,7 +109,7 @@
     {
       "nickname": "KillerQueen",
       "species": "Nidoranfe",
-      "level": 4,
+      "level": 7,
       "types": [],
       "ability": "Piel Feérica",
       "nature": "Dócil",
@@ -113,7 +117,8 @@
       "shiny": false,
       "moves": [
         "Campo de Niebla",
-        "Viraje"
+        "Viraje",
+        "Polución"
       ],
       "iv": [
         27,
@@ -124,10 +129,10 @@
         22
       ],
       "ev": [
+        2,
+        0,
         1,
-        0,
-        0,
-        0,
+        1,
         0,
         0
       ],
@@ -209,7 +214,7 @@
     {
       "nickname": "El Lago",
       "species": "Ducklett",
-      "level": 4,
+      "level": 6,
       "types": [
         "Agua",
         "Volador"
@@ -221,7 +226,8 @@
       "moves": [
         "Paisaje Nevado",
         "Corpulencia",
-        "Ataque Rápido"
+        "Ataque Rápido",
+        "Golpe Kárate"
       ],
       "iv": [
         19,
@@ -232,10 +238,10 @@
         28
       ],
       "ev": [
+        1,
         0,
-        0,
-        0,
-        0,
+        1,
+        1,
         0,
         0
       ],
@@ -314,6 +320,165 @@
         "Ataque Rápido"
       ],
       "spriteKey": "DUCKLETT"
+    },
+    {
+      "nickname": "Alviiiiiin",
+      "species": "Skwovet",
+      "level": 6,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Expulsarena",
+      "nature": "Mansa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cola Veneno",
+        "Bruma Explosiva",
+        "Puño Cometa"
+      ],
+      "iv": [
+        12,
+        21,
+        10,
+        3,
+        10,
+        0
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Expulsarena"
+      ],
+      "abilHidden": [
+        "Potencia"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 1,
+          "m": "Bruma Explosiva"
+        },
+        {
+          "lvl": 5,
+          "m": "Puño Cometa"
+        },
+        {
+          "lvl": 10,
+          "m": "Rayo Burbuja"
+        },
+        {
+          "lvl": 10,
+          "m": "Bombardeo"
+        },
+        {
+          "lvl": 15,
+          "m": "Tragar"
+        },
+        {
+          "lvl": 15,
+          "m": "Tajo Umbrío"
+        },
+        {
+          "lvl": 15,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 20,
+          "m": "Represalia"
+        },
+        {
+          "lvl": 25,
+          "m": "Meditación"
+        },
+        {
+          "lvl": 30,
+          "m": "Vasto Impacto"
+        },
+        {
+          "lvl": 35,
+          "m": "Fuerza Lunar"
+        },
+        {
+          "lvl": 40,
+          "m": "Kinético"
+        },
+        {
+          "lvl": 45,
+          "m": "Acróbata"
+        }
+      ],
+      "tmMoves": [
+        "Reversión"
+      ],
+      "firstMoves": [
+        "Cola Veneno",
+        "Bruma Explosiva",
+        "Puño Cometa"
+      ],
+      "spriteKey": "SKWOVET"
+    },
+    {
+      "nickname": "Totyyy vamss",
+      "species": "Gimmighoul",
+      "level": 6,
+      "types": [
+        "Fantasma"
+      ],
+      "ability": "Aura Feérica",
+      "nature": "Alegre",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Tambor",
+        "Giro Bola",
+        "Giro Rápido"
+      ],
+      "iv": [
+        9,
+        14,
+        20,
+        5,
+        9,
+        3
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Aura Feérica"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Tambor"
+        },
+        {
+          "lvl": 1,
+          "m": "Giro Bola"
+        }
+      ],
+      "firstMoves": [
+        "Tambor",
+        "Giro Bola",
+        "Giro Rápido"
+      ],
+      "spriteKey": "GIMMIGHOUL"
     }
   ],
   "box": [],
@@ -351,6 +516,28 @@
       "category": "salvaje",
       "level": 4,
       "mon": "Ducklett"
+    },
+    {
+      "route": "ruta_22",
+      "where": "Ruta 22",
+      "species": "Skwovet",
+      "nickname": "Alviiiiiin",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Skwovet"
+    },
+    {
+      "route": "ciudad_verde",
+      "where": "Ciudad Verde",
+      "species": "Gimmighoul",
+      "nickname": "Totyyy vamss",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 6,
+      "mon": "Gimmighoul"
     }
   ],
   "progress": {
@@ -360,12 +547,15 @@
     "routes": {
       "pueblo_paleta": true,
       "ruta_1": true,
+      "ruta_22": true,
       "ciudad_verde": true
     },
     "items": {},
     "encounters": {
       "pueblo_paleta": true,
-      "ruta_1": true
+      "ruta_1": true,
+      "ruta_22": true,
+      "ciudad_verde": true
     },
     "switches": [
       48,
@@ -388,11 +578,18 @@
       334
     ],
     "foundItems": [
+      "Baya Chiri",
       "Baya Drasi",
+      "Cascabel Concha",
+      "Def. Esp. X 6",
+      "Metrónomo",
       "Miniseta",
+      "MT67",
+      "MT83",
       "Paracontacto",
       "Poké Montura",
       "Reglamento",
+      "Supercaña",
       "Vial"
     ],
     "bag": [
@@ -415,28 +612,64 @@
         "pocket": "Objetos"
       },
       {
+        "id": "METRONOME",
+        "name": "Metrónomo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "POTION",
         "name": "Poción",
         "qty": 2,
         "pocket": "Medicinas"
       },
       {
+        "id": "RARECANDY",
+        "name": "Caramelo Raro",
+        "qty": 700,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 5,
+        "qty": 4,
         "pocket": "Poké Balls"
       },
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 5,
+        "qty": 3,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM67",
+        "name": "MT67",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM83",
+        "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "KASIBBERRY",
         "name": "Baya Drasi",
         "qty": 1,
         "pocket": "Bayas"
+      },
+      {
+        "id": "CUSTAPBERRY",
+        "name": "Baya Chiri",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "XSPDEF6",
+        "name": "Def. Esp. X 6",
+        "qty": 1,
+        "pocket": "Objetos de combate"
       },
       {
         "id": "RULEBOOK",
@@ -453,6 +686,12 @@
       {
         "id": "POKERIDER",
         "name": "Poké Montura",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "SUPERROD",
+        "name": "Supercaña",
         "qty": 1,
         "pocket": "Objetos clave"
       }
