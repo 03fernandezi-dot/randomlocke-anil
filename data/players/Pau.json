@@ -2,148 +2,10 @@
   "id": "Pau",
   "name": "Pau",
   "lives": 30,
-  "livesUsed": 3,
+  "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 5h 44m jugadas · 67,480₽ · vidas en el juego: 25",
+  "notes": "Importado del save · 5h 50m jugadas · 72,430₽ · vidas en el juego: 24",
   "team": [
-    {
-      "nickname": "Sabanero",
-      "species": "Mudsdale",
-      "level": 34,
-      "types": [
-        "Tierra"
-      ],
-      "ability": "Peluche",
-      "nature": "Amable",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Hachazo Pétreo",
-        "Llave Corsé",
-        "Rueda Fuego",
-        "Llama Protectora"
-      ],
-      "iv": [
-        5,
-        24,
-        9,
-        29,
-        8,
-        0
-      ],
-      "ev": [
-        0,
-        6,
-        1,
-        0,
-        0,
-        2
-      ],
-      "abilPool": [
-        "Peluche",
-        "Albino"
-      ],
-      "abilHidden": [
-        "Baba"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Fisura"
-        },
-        {
-          "lvl": 1,
-          "m": "Viento Feérico"
-        },
-        {
-          "lvl": 1,
-          "m": "Enrosque"
-        },
-        {
-          "lvl": 1,
-          "m": "Bastión Final"
-        },
-        {
-          "lvl": 3,
-          "m": "Llama Protectora"
-        },
-        {
-          "lvl": 8,
-          "m": "Relámpago Súbito"
-        },
-        {
-          "lvl": 12,
-          "m": "Destructor"
-        },
-        {
-          "lvl": 16,
-          "m": "Fotosíntesis"
-        },
-        {
-          "lvl": 20,
-          "m": "Púas"
-        },
-        {
-          "lvl": 22,
-          "m": "Absorbefuerza"
-        },
-        {
-          "lvl": 24,
-          "m": "Asalto Barrera"
-        },
-        {
-          "lvl": 28,
-          "m": "Bofetón Lodo"
-        },
-        {
-          "lvl": 34,
-          "m": "Tragar"
-        },
-        {
-          "lvl": 40,
-          "m": "Terratemblor"
-        },
-        {
-          "lvl": 40,
-          "m": "Taladradora"
-        },
-        {
-          "lvl": 46,
-          "m": "Conjuro Funesto"
-        },
-        {
-          "lvl": 52,
-          "m": "Lanzallamas"
-        },
-        {
-          "lvl": 53,
-          "m": "Allanador Férreo"
-        }
-      ],
-      "tmMoves": [
-        "Arenas Ardientes",
-        "Barrera",
-        "Carga Parábola",
-        "Clavo Cañón",
-        "Decalcomanía",
-        "Gas Corrosivo",
-        "Granizo",
-        "Hachazo Pétreo",
-        "Llave Corsé",
-        "Represión Metal",
-        "Shuriken de Agua",
-        "Velo Sagrado",
-        "Vendetta",
-        "Viento Plata"
-      ],
-      "firstMoves": [
-        "Impresionar",
-        "Telequinesis",
-        "Represalia",
-        "Fertilizante"
-      ],
-      "spriteKey": "MUDSDALE"
-    },
     {
       "nickname": "Hazard",
       "species": "Obstagoon",
@@ -172,9 +34,9 @@
       ],
       "ev": [
         18,
-        46,
+        50,
+        20,
         19,
-        17,
         12,
         18
       ],
@@ -330,9 +192,9 @@
       ],
       "ev": [
         22,
-        56,
-        20,
+        60,
         21,
+        23,
         20,
         33
       ],
@@ -491,9 +353,9 @@
       ],
       "ev": [
         18,
-        43,
-        18,
-        17,
+        47,
+        19,
+        19,
         12,
         18
       ],
@@ -629,9 +491,9 @@
       ],
       "ev": [
         0,
-        0,
-        1,
-        0,
+        4,
+        2,
+        2,
         0,
         0
       ],
@@ -764,9 +626,9 @@
       ],
       "ev": [
         21,
-        52,
-        21,
-        27,
+        56,
+        22,
+        29,
         20,
         33
       ],
@@ -3554,9 +3416,284 @@
         "Velo Aurora"
       ],
       "spriteKey": "BERGMITE"
+    },
+    {
+      "nickname": "Patty",
+      "species": "Crawdaunt",
+      "level": 33,
+      "types": [
+        "Agua",
+        "Siniestro"
+      ],
+      "ability": "Defensa Hoja",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Aligerar",
+        "Vasta Guardia",
+        "Empapar",
+        "Tajo Metralla"
+      ],
+      "iv": [
+        16,
+        21,
+        4,
+        21,
+        2,
+        25
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Pelaje Recio",
+        "Defensa Hoja"
+      ],
+      "abilHidden": [
+        "Pereza"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Agua Fría"
+        },
+        {
+          "lvl": 1,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 1,
+          "m": "Celebración"
+        },
+        {
+          "lvl": 1,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 1,
+          "m": "Bloqueo"
+        },
+        {
+          "lvl": 1,
+          "m": "Moflete Estático"
+        },
+        {
+          "lvl": 1,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 12,
+          "m": "Legado"
+        },
+        {
+          "lvl": 16,
+          "m": "Aligerar"
+        },
+        {
+          "lvl": 20,
+          "m": "Vasta Guardia"
+        },
+        {
+          "lvl": 24,
+          "m": "Empapar"
+        },
+        {
+          "lvl": 28,
+          "m": "Tajo Metralla"
+        },
+        {
+          "lvl": 34,
+          "m": "Furia"
+        },
+        {
+          "lvl": 37,
+          "m": "Roca Afilada"
+        },
+        {
+          "lvl": 40,
+          "m": "Castigo"
+        },
+        {
+          "lvl": 42,
+          "m": "Presa Maxilar"
+        },
+        {
+          "lvl": 46,
+          "m": "Azote Torrencial"
+        },
+        {
+          "lvl": 52,
+          "m": "Viento Cortante"
+        },
+        {
+          "lvl": 58,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 64,
+          "m": "Embargo"
+        }
+      ],
+      "tmMoves": [
+        "Hachazo Pétreo"
+      ],
+      "firstMoves": [
+        "Aligerar",
+        "Vasta Guardia",
+        "Empapar",
+        "Tajo Metralla"
+      ],
+      "spriteKey": "CRAWDAUNT"
     }
   ],
   "graveyard": [
+    {
+      "nickname": "Sabanero",
+      "species": "Mudsdale",
+      "level": 34,
+      "types": [
+        "Tierra"
+      ],
+      "ability": "Peluche",
+      "nature": "Amable",
+      "item": "Cascabel Concha",
+      "shiny": false,
+      "moves": [
+        "Hachazo Pétreo",
+        "Llave Corsé",
+        "Rueda Fuego",
+        "Llama Protectora"
+      ],
+      "iv": [
+        5,
+        24,
+        9,
+        29,
+        8,
+        0
+      ],
+      "ev": [
+        0,
+        8,
+        1,
+        0,
+        0,
+        2
+      ],
+      "abilPool": [
+        "Peluche",
+        "Albino"
+      ],
+      "abilHidden": [
+        "Baba"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Fisura"
+        },
+        {
+          "lvl": 1,
+          "m": "Viento Feérico"
+        },
+        {
+          "lvl": 1,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 1,
+          "m": "Bastión Final"
+        },
+        {
+          "lvl": 3,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 8,
+          "m": "Relámpago Súbito"
+        },
+        {
+          "lvl": 12,
+          "m": "Destructor"
+        },
+        {
+          "lvl": 16,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 20,
+          "m": "Púas"
+        },
+        {
+          "lvl": 22,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 24,
+          "m": "Asalto Barrera"
+        },
+        {
+          "lvl": 28,
+          "m": "Bofetón Lodo"
+        },
+        {
+          "lvl": 34,
+          "m": "Tragar"
+        },
+        {
+          "lvl": 40,
+          "m": "Terratemblor"
+        },
+        {
+          "lvl": 40,
+          "m": "Taladradora"
+        },
+        {
+          "lvl": 46,
+          "m": "Conjuro Funesto"
+        },
+        {
+          "lvl": 52,
+          "m": "Lanzallamas"
+        },
+        {
+          "lvl": 53,
+          "m": "Allanador Férreo"
+        }
+      ],
+      "tmMoves": [
+        "Arenas Ardientes",
+        "Barrera",
+        "Carga Parábola",
+        "Clavo Cañón",
+        "Decalcomanía",
+        "Gas Corrosivo",
+        "Granizo",
+        "Hachazo Pétreo",
+        "Llave Corsé",
+        "Represión Metal",
+        "Shuriken de Agua",
+        "Velo Sagrado",
+        "Vendetta",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Impresionar",
+        "Telequinesis",
+        "Represalia",
+        "Fertilizante"
+      ],
+      "spriteKey": "MUDSDALE",
+      "cause": "",
+      "route": "Ruta 10 Sur",
+      "date": ""
+    },
     {
       "nickname": "Partyfiesta",
       "species": "Hatenna",
@@ -3964,7 +4101,7 @@
       "species": "Mudsdale",
       "nickname": "Sabanero",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "salvaje",
       "level": 31,
       "mon": "Mudsdale"
@@ -4245,6 +4382,17 @@
       "mon": "Bergmite"
     },
     {
+      "route": "ruta_8",
+      "where": "Ruta 8",
+      "species": "Crawdaunt",
+      "nickname": "Patty",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 33,
+      "mon": "Crawdaunt"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -4307,6 +4455,7 @@
       "tunel_roca": true,
       "ruta_21": true,
       "pueblo_lavanda": true,
+      "ruta_8": true,
       "ruta_1": true,
       "ruta_2_sur": true,
       "bosque_verde": true,
@@ -4342,7 +4491,8 @@
       "tunel_roca": true,
       "ruta_10_sur": true,
       "ruta_21": true,
-      "pueblo_lavanda": true
+      "pueblo_lavanda": true,
+      "ruta_8": true
     },
     "switches": [
       48,
@@ -4371,6 +4521,7 @@
       91,
       92,
       93,
+      94,
       110,
       112,
       113,
@@ -4414,6 +4565,7 @@
       "Bono Bici",
       "Botón Escape",
       "Brazal Firme",
+      "Cascabel Concha",
       "Cenizas Sagradas",
       "Chaleco Asalto",
       "Cinto Recio",
@@ -4449,6 +4601,7 @@
       "MT101",
       "MT102",
       "MT12",
+      "MT122",
       "MT123",
       "MT13",
       "MT19",
@@ -4720,7 +4873,7 @@
       {
         "id": "GENIUSMOCHI",
         "name": "Mochi Intelecto",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -4762,7 +4915,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 16,
+        "qty": 15,
         "pocket": "Poké Balls"
       },
       {
@@ -4970,6 +5123,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM122",
+        "name": "MT122",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM123",
         "name": "MT123",
         "qty": 1,
@@ -5120,7 +5279,8 @@
     "2853338953",
     "2427181806",
     "2750763801",
-    "1798594326"
+    "1798594326",
+    "4019790846"
   ],
   "revividos": 2
 }
