@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 37m jugadas · 100₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 42m jugadas · 100₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Garfield",
@@ -36,7 +36,7 @@
         0,
         0,
         0,
-        2
+        3
       ],
       "abilPool": [
         "Levitación",
@@ -110,7 +110,7 @@
     {
       "nickname": "DancingQueen",
       "species": "Nidoranfe",
-      "level": 7,
+      "level": 8,
       "types": [],
       "ability": "Velo Aroma",
       "nature": "Tímida",
@@ -135,7 +135,7 @@
         0,
         0,
         1,
-        3
+        4
       ],
       "abilPool": [
         "Rumia",
@@ -244,7 +244,7 @@
         0,
         0,
         0,
-        1
+        2
       ],
       "abilPool": [
         "Teracaparazón",
@@ -328,7 +328,7 @@
       ],
       "ability": "Presión",
       "nature": "Activa",
-      "item": "",
+      "item": "Capa Furtiva",
       "shiny": false,
       "moves": [
         "Onda Anómala",
@@ -349,7 +349,7 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "abilPool": [
         "Presión",
@@ -418,6 +418,124 @@
         "Homenaje Póstumo"
       ],
       "spriteKey": "BLITZLE"
+    },
+    {
+      "nickname": "Flechipolla",
+      "species": "Fletchling",
+      "level": 5,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Muro Mágico",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Sonámbulo",
+        "Empapar",
+        "Acupresión",
+        "Picoteo"
+      ],
+      "iv": [
+        21,
+        10,
+        0,
+        31,
+        15,
+        28
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Muro Mágico"
+      ],
+      "abilHidden": [
+        "Psicogénesis"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Sonámbulo"
+        },
+        {
+          "lvl": 1,
+          "m": "Empapar"
+        },
+        {
+          "lvl": 1,
+          "m": "Acupresión"
+        },
+        {
+          "lvl": 5,
+          "m": "Picoteo"
+        },
+        {
+          "lvl": 10,
+          "m": "Mal de Ojo"
+        },
+        {
+          "lvl": 15,
+          "m": "Telaraña"
+        },
+        {
+          "lvl": 20,
+          "m": "Purificación"
+        },
+        {
+          "lvl": 25,
+          "m": "Niebla"
+        },
+        {
+          "lvl": 25,
+          "m": "Corte"
+        },
+        {
+          "lvl": 29,
+          "m": "Rayo Confuso"
+        },
+        {
+          "lvl": 30,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 34,
+          "m": "Patada Relámpago"
+        },
+        {
+          "lvl": 35,
+          "m": "Ala Mortífera"
+        },
+        {
+          "lvl": 40,
+          "m": "Puño Sombra"
+        },
+        {
+          "lvl": 41,
+          "m": "Pulso Cura"
+        },
+        {
+          "lvl": 45,
+          "m": "Tornado"
+        },
+        {
+          "lvl": 50,
+          "m": "Campo Eléctrico"
+        }
+      ],
+      "firstMoves": [
+        "Sonámbulo",
+        "Empapar",
+        "Acupresión",
+        "Picoteo"
+      ],
+      "spriteKey": "FLETCHLING"
     }
   ],
   "box": [],
@@ -466,6 +584,17 @@
       "category": "salvaje",
       "level": 6,
       "mon": "Blitzle"
+    },
+    {
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Fletchling",
+      "nickname": "Flechipolla",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 5,
+      "mon": "Fletchling"
     }
   ],
   "progress": {
@@ -476,6 +605,7 @@
       "ciudad_verde": true,
       "pueblo_paleta": true,
       "ruta_22": true,
+      "ruta_2_sur": true,
       "ruta_1": true
     },
     "items": {},
@@ -483,7 +613,8 @@
       "ruta_1": true,
       "ciudad_verde": true,
       "pueblo_paleta": true,
-      "ruta_22": true
+      "ruta_22": true,
+      "ruta_2_sur": true
     },
     "switches": [
       48,
@@ -505,8 +636,12 @@
       334
     ],
     "foundItems": [
+      "Capa Furtiva",
+      "Cebo Ball",
       "Gloria Ball",
+      "Magmatizador",
       "Miniseta",
+      "MT83",
       "Poké Montura",
       "Reglamento",
       "Seta Aroma",
@@ -536,6 +671,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "MAGMARIZER",
+        "name": "Magmatizador",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ZINC",
         "name": "Zinc",
         "qty": 1,
@@ -556,7 +697,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 11,
+        "qty": 8,
         "pocket": "Poké Balls"
       },
       {
@@ -564,6 +705,18 @@
         "name": "Poké Ball",
         "qty": 7,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "LUREBALL",
+        "name": "Cebo Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM83",
+        "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "XSPEED",
