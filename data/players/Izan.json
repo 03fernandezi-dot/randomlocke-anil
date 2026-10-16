@@ -4,18 +4,18 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 11m jugadas · 3,000₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 23m jugadas · 3,500₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Pauet Pauet",
       "species": "Rookidee",
-      "level": 5,
+      "level": 6,
       "types": [
         "Volador"
       ],
-      "ability": "",
+      "ability": "Coraza Ira",
       "nature": "Grosera",
-      "item": "Electrizador",
+      "item": "",
       "shiny": false,
       "moves": [
         "Picotazo",
@@ -31,9 +31,9 @@
         9
       ],
       "ev": [
+        2,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0
@@ -101,6 +101,219 @@
         "Rizo Defensa"
       ],
       "spriteKey": "ROOKIDEE"
+    },
+    {
+      "nickname": "KillerQueen",
+      "species": "Nidoranfe",
+      "level": 4,
+      "types": [],
+      "ability": "Piel Feérica",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Campo de Niebla",
+        "Viraje"
+      ],
+      "iv": [
+        27,
+        30,
+        15,
+        18,
+        13,
+        22
+      ],
+      "ev": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Piel Feérica",
+        "Sal Purificadora"
+      ],
+      "abilHidden": [
+        "Escudo Recio"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Campo de Niebla"
+        },
+        {
+          "lvl": 1,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 5,
+          "m": "Polución"
+        },
+        {
+          "lvl": 10,
+          "m": "Cede Paso"
+        },
+        {
+          "lvl": 15,
+          "m": "Puño Incremento"
+        },
+        {
+          "lvl": 20,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 25,
+          "m": "Bombardeo"
+        },
+        {
+          "lvl": 30,
+          "m": "Arenas Ardientes"
+        },
+        {
+          "lvl": 35,
+          "m": "Cuchilla Solar"
+        },
+        {
+          "lvl": 40,
+          "m": "Estímulo"
+        },
+        {
+          "lvl": 43,
+          "m": "Moluscañón"
+        },
+        {
+          "lvl": 45,
+          "m": "Agilidad"
+        },
+        {
+          "lvl": 45,
+          "m": "Calamidad"
+        },
+        {
+          "lvl": 50,
+          "m": "Cambiapoder"
+        },
+        {
+          "lvl": 55,
+          "m": "Ciclón de Hojas"
+        }
+      ],
+      "firstMoves": [
+        "Campo de Niebla",
+        "Viraje"
+      ],
+      "spriteKey": "NIDORANfE"
+    },
+    {
+      "nickname": "El Lago",
+      "species": "Ducklett",
+      "level": 4,
+      "types": [
+        "Agua",
+        "Volador"
+      ],
+      "ability": "Pararrayos",
+      "nature": "Cauta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Paisaje Nevado",
+        "Corpulencia",
+        "Ataque Rápido"
+      ],
+      "iv": [
+        19,
+        24,
+        26,
+        29,
+        18,
+        28
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Pararrayos",
+        "Clorofila"
+      ],
+      "abilHidden": [
+        "Gélido"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Paisaje Nevado"
+        },
+        {
+          "lvl": 3,
+          "m": "Corpulencia"
+        },
+        {
+          "lvl": 6,
+          "m": "Golpe Kárate"
+        },
+        {
+          "lvl": 9,
+          "m": "Golpe Aéreo"
+        },
+        {
+          "lvl": 13,
+          "m": "Cuchillada"
+        },
+        {
+          "lvl": 15,
+          "m": "Campo de Niebla"
+        },
+        {
+          "lvl": 19,
+          "m": "Alquitranazo"
+        },
+        {
+          "lvl": 21,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 24,
+          "m": "Amnesia"
+        },
+        {
+          "lvl": 27,
+          "m": "Danza Triunfal"
+        },
+        {
+          "lvl": 30,
+          "m": "Bomba Imán"
+        },
+        {
+          "lvl": 34,
+          "m": "Pulso Umbrío"
+        },
+        {
+          "lvl": 37,
+          "m": "Pistola Agua"
+        },
+        {
+          "lvl": 41,
+          "m": "Aguzar"
+        },
+        {
+          "lvl": 46,
+          "m": "Estrujón"
+        }
+      ],
+      "firstMoves": [
+        "Paisaje Nevado",
+        "Corpulencia",
+        "Ataque Rápido"
+      ],
+      "spriteKey": "DUCKLETT"
     }
   ],
   "box": [],
@@ -116,6 +329,28 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Rookidee"
+    },
+    {
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Nidoranfe",
+      "nickname": "KillerQueen",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 3,
+      "mon": "Nidoranfe"
+    },
+    {
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Ducklett",
+      "nickname": "El Lago",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 4,
+      "mon": "Ducklett"
     }
   ],
   "progress": {
@@ -123,14 +358,24 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "pueblo_paleta": true
+      "pueblo_paleta": true,
+      "ruta_1": true,
+      "ciudad_verde": true
     },
     "items": {},
-    "encounters": {},
+    "encounters": {
+      "pueblo_paleta": true,
+      "ruta_1": true
+    },
     "switches": [
       48,
       61,
       62,
+      63,
+      66,
+      67,
+      68,
+      69,
       110,
       176,
       179,
@@ -144,9 +389,49 @@
     ],
     "foundItems": [
       "Baya Drasi",
-      "Reglamento"
+      "Miniseta",
+      "Paracontacto",
+      "Poké Montura",
+      "Reglamento",
+      "Vial"
     ],
     "bag": [
+      {
+        "id": "PROTECTIVEPADS",
+        "name": "Paracontacto",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "TINYMUSHROOM",
+        "name": "Miniseta",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ELECTIRIZER",
+        "name": "Electrizador",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "POTION",
+        "name": "Poción",
+        "qty": 2,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "POKEBALL",
+        "name": "Poké Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "GREATBALL",
+        "name": "Super Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
       {
         "id": "KASIBBERRY",
         "name": "Baya Drasi",
@@ -156,6 +441,18 @@
       {
         "id": "RULEBOOK",
         "name": "Reglamento",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "VIAL",
+        "name": "Vial",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "POKERIDER",
+        "name": "Poké Montura",
         "qty": 1,
         "pocket": "Objetos clave"
       }
