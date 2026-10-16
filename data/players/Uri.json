@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 9h 4m jugadas · 138,980₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 9h 6m jugadas · 138,980₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Izan",
@@ -3182,6 +3182,124 @@
       "spriteKey": "TRUMBEAK"
     },
     {
+      "nickname": "Blathers",
+      "species": "Dartrix",
+      "level": 25,
+      "types": [
+        "Planta",
+        "Volador"
+      ],
+      "ability": "",
+      "nature": "Afable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Divide Dolor",
+        "Truco Floral",
+        "Golpe Bajo",
+        "Bomba Fango"
+      ],
+      "iv": [
+        11,
+        11,
+        0,
+        10,
+        30,
+        9
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Alma Errante"
+      ],
+      "abilHidden": [
+        "Alerta"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Eco Voz"
+        },
+        {
+          "lvl": 1,
+          "m": "Picoteo"
+        },
+        {
+          "lvl": 1,
+          "m": "Extracto Picante"
+        },
+        {
+          "lvl": 1,
+          "m": "Somnífero"
+        },
+        {
+          "lvl": 1,
+          "m": "Purificación"
+        },
+        {
+          "lvl": 9,
+          "m": "Conversión"
+        },
+        {
+          "lvl": 12,
+          "m": "Megaagotar"
+        },
+        {
+          "lvl": 15,
+          "m": "Divide Dolor"
+        },
+        {
+          "lvl": 19,
+          "m": "Truco Floral"
+        },
+        {
+          "lvl": 20,
+          "m": "Golpe Bajo"
+        },
+        {
+          "lvl": 25,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 30,
+          "m": "Plegaria Vital"
+        },
+        {
+          "lvl": 33,
+          "m": "Cañón Batidor"
+        },
+        {
+          "lvl": 35,
+          "m": "Agua Lodosa"
+        },
+        {
+          "lvl": 40,
+          "m": "Ferropuño Doble"
+        },
+        {
+          "lvl": 45,
+          "m": "Confusión"
+        },
+        {
+          "lvl": 50,
+          "m": "Atrapabicho"
+        }
+      ],
+      "firstMoves": [
+        "Divide Dolor",
+        "Truco Floral",
+        "Golpe Bajo",
+        "Bomba Fango"
+      ],
+      "spriteKey": "DARTRIX_1"
+    },
+    {
       "nickname": "Bonifacio",
       "species": "Cherrim",
       "level": 35,
@@ -4218,6 +4336,17 @@
       "category": "ciudad",
       "level": 33,
       "mon": "Trumbeak"
+    },
+    {
+      "route": "",
+      "where": "Edificio Azulona",
+      "species": "Dartrix",
+      "nickname": "Blathers",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 25,
+      "mon": "Dartrix"
     },
     {
       "route": "ruta_1",
