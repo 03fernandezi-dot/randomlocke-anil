@@ -4567,6 +4567,7 @@
       "Cenizas Sagradas",
       "Cinta Aguante",
       "Cola Plúmbea",
+      "Colmillo Agudo",
       "Crítico X",
       "Crítico X 2",
       "Cuchara Torcida",
@@ -4847,6 +4848,12 @@
       {
         "id": "FOCUSBAND",
         "name": "Cinta Aguante",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "RAZORFANG",
+        "name": "Colmillo Agudo",
         "qty": 1,
         "pocket": "Objetos"
       },
