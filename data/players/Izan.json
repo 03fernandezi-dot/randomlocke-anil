@@ -2,14 +2,248 @@
   "id": "Izan",
   "name": "Mariconchi",
   "lives": 30,
-  "livesUsed": 9,
+  "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 7h 57m jugadas · 87,060₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 8h 20m jugadas · 93,390₽ · vidas en el juego: 17",
   "team": [
+    {
+      "nickname": "PasoDeZebra",
+      "species": "Zebstrika",
+      "level": 28,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Guardia Espectro",
+      "nature": "Rara",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Púas Tóxicas",
+        "Bomba Fango",
+        "Bola Voltio",
+        "Voltiocambio"
+      ],
+      "iv": [
+        22,
+        9,
+        2,
+        5,
+        1,
+        31
+      ],
+      "ev": [
+        2,
+        1,
+        1,
+        3,
+        1,
+        1
+      ],
+      "abilPool": [
+        "Guardia Espectro",
+        "Electrogénesis"
+      ],
+      "abilHidden": [
+        "Chorro Arena"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Onda Voltio"
+        },
+        {
+          "lvl": 1,
+          "m": "Foco"
+        },
+        {
+          "lvl": 1,
+          "m": "Cortina Plasma"
+        },
+        {
+          "lvl": 1,
+          "m": "Llave Corsé"
+        },
+        {
+          "lvl": 11,
+          "m": "Profecía"
+        },
+        {
+          "lvl": 18,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 22,
+          "m": "Marcha Espectral"
+        },
+        {
+          "lvl": 25,
+          "m": "Cede Paso"
+        },
+        {
+          "lvl": 31,
+          "m": "Golpe Calor"
+        },
+        {
+          "lvl": 34,
+          "m": "Rayo"
+        },
+        {
+          "lvl": 36,
+          "m": "Imitación"
+        },
+        {
+          "lvl": 36,
+          "m": "Voltio Cruel"
+        },
+        {
+          "lvl": 42,
+          "m": "Garrote Liana"
+        },
+        {
+          "lvl": 47,
+          "m": "Halloween"
+        },
+        {
+          "lvl": 53,
+          "m": "Azote Torrencial"
+        },
+        {
+          "lvl": 53,
+          "m": "Electroderrape"
+        },
+        {
+          "lvl": 58,
+          "m": "Clemencia"
+        }
+      ],
+      "firstMoves": [
+        "Púas Tóxicas",
+        "Hierba Lazo",
+        "Cepo",
+        "Voltiocambio"
+      ],
+      "spriteKey": "ZEBSTRIKA"
+    },
+    {
+      "nickname": "RamonYCajal",
+      "species": "Honedge",
+      "level": 30,
+      "types": [
+        "Acero",
+        "Fantasma"
+      ],
+      "ability": "Insomnio",
+      "nature": "Pícara",
+      "item": "Baya Caoca",
+      "shiny": false,
+      "moves": [
+        "Veneno X",
+        "Nieve Polvo",
+        "Tajo Metralla",
+        "Danza Dragón"
+      ],
+      "iv": [
+        31,
+        31,
+        12,
+        12,
+        14,
+        28
+      ],
+      "ev": [
+        36,
+        32,
+        33,
+        17,
+        19,
+        32
+      ],
+      "abilPool": [
+        "Insomnio"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Eco Metálico"
+        },
+        {
+          "lvl": 1,
+          "m": "Luminicola"
+        },
+        {
+          "lvl": 4,
+          "m": "Antojo"
+        },
+        {
+          "lvl": 8,
+          "m": "Danza Dragón"
+        },
+        {
+          "lvl": 12,
+          "m": "Canto Mortal"
+        },
+        {
+          "lvl": 13,
+          "m": "Nieve Polvo"
+        },
+        {
+          "lvl": 16,
+          "m": "Veneno X"
+        },
+        {
+          "lvl": 20,
+          "m": "Tajo Metralla"
+        },
+        {
+          "lvl": 24,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 28,
+          "m": "Mundo Gélido"
+        },
+        {
+          "lvl": 32,
+          "m": "Aguijón Letal"
+        },
+        {
+          "lvl": 36,
+          "m": "Sacrificio"
+        },
+        {
+          "lvl": 40,
+          "m": "Aullido"
+        },
+        {
+          "lvl": 44,
+          "m": "Quemarrueda"
+        },
+        {
+          "lvl": 48,
+          "m": "Ataque Aéreo"
+        }
+      ],
+      "tmMoves": [
+        "Aguante",
+        "Cascabel Cura",
+        "Divide Dolor",
+        "Onda Vacío",
+        "Restricción",
+        "Robo"
+      ],
+      "firstMoves": [
+        "Eco Metálico",
+        "Luminicola",
+        "Antojo",
+        "Danza Dragón"
+      ],
+      "spriteKey": "HONEDGE"
+    },
     {
       "nickname": "Princesita",
       "species": "Brionne",
-      "level": 29,
+      "level": 30,
       "types": [
         "Agua"
       ],
@@ -32,12 +266,12 @@
         6
       ],
       "ev": [
-        33,
-        30,
-        33,
-        14,
-        20,
-        30
+        35,
+        31,
+        34,
+        17,
+        21,
+        31
       ],
       "abilPool": [
         "Psicogénesis"
@@ -142,384 +376,6 @@
       "spriteKey": "BRIONNE"
     },
     {
-      "nickname": "RamonYCajal",
-      "species": "Honedge",
-      "level": 29,
-      "types": [
-        "Acero",
-        "Fantasma"
-      ],
-      "ability": "Insomnio",
-      "nature": "Pícara",
-      "item": "Baya Caoca",
-      "shiny": false,
-      "moves": [
-        "Veneno X",
-        "Nieve Polvo",
-        "Tajo Metralla",
-        "Danza Dragón"
-      ],
-      "iv": [
-        31,
-        31,
-        12,
-        12,
-        14,
-        28
-      ],
-      "ev": [
-        34,
-        31,
-        32,
-        14,
-        18,
-        31
-      ],
-      "abilPool": [
-        "Insomnio"
-      ],
-      "abilHidden": [],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Eco Metálico"
-        },
-        {
-          "lvl": 1,
-          "m": "Luminicola"
-        },
-        {
-          "lvl": 4,
-          "m": "Antojo"
-        },
-        {
-          "lvl": 8,
-          "m": "Danza Dragón"
-        },
-        {
-          "lvl": 12,
-          "m": "Canto Mortal"
-        },
-        {
-          "lvl": 13,
-          "m": "Nieve Polvo"
-        },
-        {
-          "lvl": 16,
-          "m": "Veneno X"
-        },
-        {
-          "lvl": 20,
-          "m": "Tajo Metralla"
-        },
-        {
-          "lvl": 24,
-          "m": "Despejar"
-        },
-        {
-          "lvl": 28,
-          "m": "Mundo Gélido"
-        },
-        {
-          "lvl": 32,
-          "m": "Aguijón Letal"
-        },
-        {
-          "lvl": 36,
-          "m": "Sacrificio"
-        },
-        {
-          "lvl": 40,
-          "m": "Aullido"
-        },
-        {
-          "lvl": 44,
-          "m": "Quemarrueda"
-        },
-        {
-          "lvl": 48,
-          "m": "Ataque Aéreo"
-        }
-      ],
-      "tmMoves": [
-        "Aguante",
-        "Cascabel Cura",
-        "Divide Dolor",
-        "Onda Vacío",
-        "Restricción",
-        "Robo"
-      ],
-      "firstMoves": [
-        "Eco Metálico",
-        "Luminicola",
-        "Antojo",
-        "Danza Dragón"
-      ],
-      "spriteKey": "HONEDGE"
-    },
-    {
-      "nickname": "PasoDeZebra",
-      "species": "Zebstrika",
-      "level": 27,
-      "types": [
-        "Eléctrico"
-      ],
-      "ability": "Guardia Espectro",
-      "nature": "Rara",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Púas Tóxicas",
-        "Bomba Fango",
-        "Bola Voltio",
-        "Voltiocambio"
-      ],
-      "iv": [
-        22,
-        9,
-        2,
-        5,
-        1,
-        31
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Guardia Espectro",
-        "Electrogénesis"
-      ],
-      "abilHidden": [
-        "Chorro Arena"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Onda Voltio"
-        },
-        {
-          "lvl": 1,
-          "m": "Foco"
-        },
-        {
-          "lvl": 1,
-          "m": "Cortina Plasma"
-        },
-        {
-          "lvl": 1,
-          "m": "Llave Corsé"
-        },
-        {
-          "lvl": 11,
-          "m": "Profecía"
-        },
-        {
-          "lvl": 18,
-          "m": "Mismo Destino"
-        },
-        {
-          "lvl": 22,
-          "m": "Marcha Espectral"
-        },
-        {
-          "lvl": 25,
-          "m": "Cede Paso"
-        },
-        {
-          "lvl": 31,
-          "m": "Golpe Calor"
-        },
-        {
-          "lvl": 34,
-          "m": "Rayo"
-        },
-        {
-          "lvl": 36,
-          "m": "Imitación"
-        },
-        {
-          "lvl": 36,
-          "m": "Voltio Cruel"
-        },
-        {
-          "lvl": 42,
-          "m": "Garrote Liana"
-        },
-        {
-          "lvl": 47,
-          "m": "Halloween"
-        },
-        {
-          "lvl": 53,
-          "m": "Azote Torrencial"
-        },
-        {
-          "lvl": 53,
-          "m": "Electroderrape"
-        },
-        {
-          "lvl": 58,
-          "m": "Clemencia"
-        }
-      ],
-      "firstMoves": [
-        "Púas Tóxicas",
-        "Hierba Lazo",
-        "Cepo",
-        "Voltiocambio"
-      ],
-      "spriteKey": "ZEBSTRIKA"
-    },
-    {
-      "nickname": "Perro Sanche",
-      "species": "Granbull",
-      "level": 25,
-      "types": [
-        "Hada"
-      ],
-      "ability": "Geofagia",
-      "nature": "Firme",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Esquema",
-        "Picadura",
-        "Beso Dulce",
-        "Destello"
-      ],
-      "iv": [
-        31,
-        22,
-        11,
-        20,
-        28,
-        4
-      ],
-      "ev": [
-        0,
-        3,
-        2,
-        1,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Efecto Espora",
-        "Geofagia"
-      ],
-      "abilHidden": [
-        "Chorro Arena"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Disparo Espejo"
-        },
-        {
-          "lvl": 1,
-          "m": "Paliza"
-        },
-        {
-          "lvl": 1,
-          "m": "Cerrojo Feérico"
-        },
-        {
-          "lvl": 1,
-          "m": "Sísmico"
-        },
-        {
-          "lvl": 1,
-          "m": "Picoteo"
-        },
-        {
-          "lvl": 1,
-          "m": "Atracción"
-        },
-        {
-          "lvl": 1,
-          "m": "Robo"
-        },
-        {
-          "lvl": 1,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 1,
-          "m": "Esquema"
-        },
-        {
-          "lvl": 7,
-          "m": "Picadura"
-        },
-        {
-          "lvl": 13,
-          "m": "Beso Dulce"
-        },
-        {
-          "lvl": 19,
-          "m": "Destello"
-        },
-        {
-          "lvl": 24,
-          "m": "Barrera Espinosa"
-        },
-        {
-          "lvl": 27,
-          "m": "Rayo Confuso"
-        },
-        {
-          "lvl": 35,
-          "m": "Látigo Cepa"
-        },
-        {
-          "lvl": 35,
-          "m": "Bostezo"
-        },
-        {
-          "lvl": 35,
-          "m": "Garra Nociva"
-        },
-        {
-          "lvl": 40,
-          "m": "Patada Hacha"
-        },
-        {
-          "lvl": 43,
-          "m": "Proliferación"
-        },
-        {
-          "lvl": 47,
-          "m": "Fuerza Equina"
-        },
-        {
-          "lvl": 51,
-          "m": "Flarembestida"
-        },
-        {
-          "lvl": 59,
-          "m": "Placaje Eléctrico"
-        }
-      ],
-      "tmMoves": [
-        "Bola Voltio",
-        "Brecha Negra",
-        "Cambiaalmas",
-        "Reciclaje"
-      ],
-      "firstMoves": [
-        "Esquema",
-        "Picadura",
-        "Beso Dulce",
-        "Destello"
-      ],
-      "spriteKey": "GRANBULL"
-    },
-    {
       "nickname": "No Es Vini",
       "species": "Grookey",
       "level": 33,
@@ -528,7 +384,7 @@
       ],
       "ability": "Escama Especial",
       "nature": "Alocada",
-      "item": "",
+      "item": "Gema Planta",
       "shiny": false,
       "moves": [
         "Venganza",
@@ -545,12 +401,12 @@
         21
       ],
       "ev": [
-        0,
-        0,
-        0,
+        2,
         1,
-        0,
-        0
+        1,
+        4,
+        1,
+        1
       ],
       "abilPool": [
         "Escama Especial"
@@ -636,7 +492,7 @@
     {
       "nickname": "ACTIVOTORRE",
       "species": "Impidimp",
-      "level": 25,
+      "level": 27,
       "types": [
         "Siniestro",
         "Hada"
@@ -660,12 +516,12 @@
         19
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        2,
+        1,
+        1,
+        3,
+        1,
+        1
       ],
       "abilPool": [
         "Puño Férreo",
@@ -1673,9 +1529,278 @@
         "Respiro"
       ],
       "spriteKey": "TADBULB"
+    },
+    {
+      "nickname": "Aslan",
+      "species": "Litleo",
+      "level": 25,
+      "types": [
+        "Fuego",
+        "Normal"
+      ],
+      "ability": "Realeza",
+      "nature": "Serena",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Armadura Ácida",
+        "Ácido",
+        "Hoja Mágica",
+        "Salpicadura"
+      ],
+      "iv": [
+        25,
+        7,
+        31,
+        22,
+        4,
+        26
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Realeza",
+        "Humedad"
+      ],
+      "abilHidden": [
+        "Amor Filial"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Bucle Arena"
+        },
+        {
+          "lvl": 1,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 5,
+          "m": "Mal de Ojo"
+        },
+        {
+          "lvl": 8,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 11,
+          "m": "Relevo"
+        },
+        {
+          "lvl": 15,
+          "m": "Alivio"
+        },
+        {
+          "lvl": 20,
+          "m": "Esfuerzo"
+        },
+        {
+          "lvl": 20,
+          "m": "Armadura Ácida"
+        },
+        {
+          "lvl": 23,
+          "m": "Ácido"
+        },
+        {
+          "lvl": 23,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 25,
+          "m": "Salpicadura"
+        },
+        {
+          "lvl": 28,
+          "m": "Reciclaje"
+        },
+        {
+          "lvl": 33,
+          "m": "Carga Dragón"
+        },
+        {
+          "lvl": 36,
+          "m": "Puño Cometa"
+        },
+        {
+          "lvl": 39,
+          "m": "Garra Metal"
+        },
+        {
+          "lvl": 43,
+          "m": "Ala de Acero"
+        },
+        {
+          "lvl": 50,
+          "m": "Rugido"
+        }
+      ],
+      "tmMoves": [
+        "Cambiaalmas"
+      ],
+      "firstMoves": [
+        "Armadura Ácida",
+        "Ácido",
+        "Hoja Mágica",
+        "Salpicadura"
+      ],
+      "spriteKey": "LITLEO"
     }
   ],
   "graveyard": [
+    {
+      "nickname": "Perro Sanche",
+      "species": "Granbull",
+      "level": 27,
+      "types": [
+        "Hada"
+      ],
+      "ability": "Geofagia",
+      "nature": "Firme",
+      "item": "Bola Férrea",
+      "shiny": false,
+      "moves": [
+        "Esquema",
+        "Picadura",
+        "Rayo Confuso",
+        "Destello"
+      ],
+      "iv": [
+        31,
+        22,
+        11,
+        20,
+        28,
+        4
+      ],
+      "ev": [
+        2,
+        4,
+        3,
+        3,
+        0,
+        1
+      ],
+      "abilPool": [
+        "Efecto Espora",
+        "Geofagia"
+      ],
+      "abilHidden": [
+        "Chorro Arena"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Disparo Espejo"
+        },
+        {
+          "lvl": 1,
+          "m": "Paliza"
+        },
+        {
+          "lvl": 1,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 1,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 1,
+          "m": "Picoteo"
+        },
+        {
+          "lvl": 1,
+          "m": "Atracción"
+        },
+        {
+          "lvl": 1,
+          "m": "Robo"
+        },
+        {
+          "lvl": 1,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 1,
+          "m": "Esquema"
+        },
+        {
+          "lvl": 7,
+          "m": "Picadura"
+        },
+        {
+          "lvl": 13,
+          "m": "Beso Dulce"
+        },
+        {
+          "lvl": 19,
+          "m": "Destello"
+        },
+        {
+          "lvl": 24,
+          "m": "Barrera Espinosa"
+        },
+        {
+          "lvl": 27,
+          "m": "Rayo Confuso"
+        },
+        {
+          "lvl": 35,
+          "m": "Látigo Cepa"
+        },
+        {
+          "lvl": 35,
+          "m": "Bostezo"
+        },
+        {
+          "lvl": 35,
+          "m": "Garra Nociva"
+        },
+        {
+          "lvl": 40,
+          "m": "Patada Hacha"
+        },
+        {
+          "lvl": 43,
+          "m": "Proliferación"
+        },
+        {
+          "lvl": 47,
+          "m": "Fuerza Equina"
+        },
+        {
+          "lvl": 51,
+          "m": "Flarembestida"
+        },
+        {
+          "lvl": 59,
+          "m": "Placaje Eléctrico"
+        }
+      ],
+      "tmMoves": [
+        "Bola Voltio",
+        "Brecha Negra",
+        "Cambiaalmas",
+        "Reciclaje"
+      ],
+      "firstMoves": [
+        "Esquema",
+        "Picadura",
+        "Beso Dulce",
+        "Destello"
+      ],
+      "spriteKey": "GRANBULL",
+      "cause": "",
+      "route": "Ruta 15",
+      "date": ""
+    },
     {
       "nickname": "Bombardero",
       "species": "Sandile",
@@ -2812,15 +2937,15 @@
   ],
   "captures": [
     {
-      "route": "ruta_22",
-      "where": "Ruta 22",
-      "species": "Brionne",
-      "nickname": "Princesita",
+      "route": "ruta_21",
+      "where": "Ruta 21",
+      "species": "Zebstrika",
+      "nickname": "PasoDeZebra",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 6,
-      "mon": "Brionne"
+      "level": 20,
+      "mon": "Zebstrika"
     },
     {
       "route": "bosque_verde",
@@ -2834,15 +2959,15 @@
       "mon": "Honedge"
     },
     {
-      "route": "ruta_21",
-      "where": "Ruta 21",
-      "species": "Zebstrika",
-      "nickname": "PasoDeZebra",
+      "route": "ruta_22",
+      "where": "Ruta 22",
+      "species": "Brionne",
+      "nickname": "Princesita",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 20,
-      "mon": "Zebstrika"
+      "level": 6,
+      "mon": "Brionne"
     },
     {
       "route": "ruta_15",
@@ -2850,7 +2975,7 @@
       "species": "Granbull",
       "nickname": "Perro Sanche",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "salvaje",
       "level": 23,
       "mon": "Granbull"
@@ -2953,6 +3078,17 @@
       "category": "intercambio",
       "level": 13,
       "mon": "Tadbulb"
+    },
+    {
+      "route": "ruta_9",
+      "where": "Ruta 9",
+      "species": "Litleo",
+      "nickname": "Aslan",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 25,
+      "mon": "Litleo"
     },
     {
       "route": "",
@@ -3063,9 +3199,9 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ruta_22": true,
-      "bosque_verde": true,
       "ruta_21": true,
+      "bosque_verde": true,
+      "ruta_22": true,
       "ruta_15": true,
       "ruta_12": true,
       "tunel_diglett": true,
@@ -3075,6 +3211,7 @@
       "ruta_4": true,
       "ciudad_celeste": true,
       "ruta_5": true,
+      "ruta_9": true,
       "ruta_2_sur": true,
       "ciudad_verde": true,
       "pueblo_paleta": true,
@@ -3107,7 +3244,8 @@
       "ciudad_carmin": true,
       "ruta_15": true,
       "ruta_12": true,
-      "tunel_diglett": true
+      "tunel_diglett": true,
+      "ruta_9": true
     },
     "switches": [
       48,
@@ -3160,6 +3298,7 @@
       "Agua Mística",
       "Amor Ball",
       "Amuleto Oval",
+      "Arena Fina",
       "Baya Caoca",
       "Baya Caquic",
       "Baya Kouba",
@@ -3170,6 +3309,7 @@
       "Bola Férrea",
       "Bono Bici",
       "Botas Gruesas",
+      "Botón Escape",
       "Caramelo Furia",
       "Cascabel Concha",
       "Cenizas Sagradas",
@@ -3182,16 +3322,19 @@
       "Def. Esp. X 6",
       "Dulce de Nata",
       "Ensueño Ball",
+      "Éter",
       "Fósil Hélix",
       "Galleta Lava",
       "Garra Garfio",
       "Garra Rápida",
       "Gema Fantasma",
       "Gema Planta",
+      "Gema Tierra",
       "Gran Lustresfera",
       "Griseosfera",
       "Guante de Boxeo",
       "Hierba Única",
+      "Manuscrito Aguas",
       "Máscara Cimiento",
       "Mejora",
       "Menta Activa",
@@ -3200,6 +3343,7 @@
       "Menta Miedosa",
       "Miniseta",
       "MO Corte",
+      "MO Destello",
       "MO Golpe Roca",
       "MT01",
       "MT07",
@@ -3226,6 +3370,7 @@
       "MT71",
       "MT73",
       "MT74",
+      "MT78",
       "MT79",
       "MT83",
       "MT85",
@@ -3243,6 +3388,7 @@
       "Refleluz",
       "Reglamento",
       "Roca Calor",
+      "Semilla Electro",
       "Seta Grande",
       "Supercaña",
       "Swiftfeather",
@@ -3310,12 +3456,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "GRASSGEM",
-        "name": "Gema Planta",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "LAGGINGTAIL",
         "name": "Cola Plúmbea",
         "qty": 1,
@@ -3330,12 +3470,6 @@
       {
         "id": "LIGHTCLAY",
         "name": "Refleluz",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "IRONBALL",
-        "name": "Bola Férrea",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -3430,6 +3564,36 @@
         "pocket": "Objetos"
       },
       {
+        "id": "GROUNDGEM",
+        "name": "Gema Tierra",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "EJECTBUTTON",
+        "name": "Botón Escape",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ELECTRICSEED",
+        "name": "Semilla Electro",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SCROLLOFWATERS",
+        "name": "Manuscrito Aguas",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SOFTSAND",
+        "name": "Arena Fina",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "TIMIDMINT",
         "name": "Menta Miedosa",
         "qty": 1,
@@ -3478,9 +3642,15 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "ETHER",
+        "name": "Éter",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 7,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
@@ -3594,6 +3764,12 @@
       {
         "id": "TM74",
         "name": "MT74",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM78",
+        "name": "MT78",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -3754,8 +3930,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
@@ -3806,6 +3982,12 @@
         "name": "MO Corte",
         "qty": 1,
         "pocket": "Objetos clave"
+      },
+      {
+        "id": "FLASHITEM",
+        "name": "MO Destello",
+        "qty": 1,
+        "pocket": "Objetos clave"
       }
     ]
   },
@@ -3821,7 +4003,8 @@
     "489493532",
     "3706938389",
     "1660281778",
-    "88354284"
+    "88354284",
+    "3013009353"
   ],
   "revividos": 3
 }
