@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 39m jugadas · 38,450₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 1h 54m jugadas · 40,730₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Pauet Pauet",
       "species": "Rookidee",
-      "level": 14,
+      "level": 15,
       "types": [
         "Volador"
       ],
@@ -33,11 +33,11 @@
       ],
       "ev": [
         9,
-        133,
+        191,
+        8,
+        6,
         5,
-        5,
-        3,
-        2
+        3
       ],
       "abilPool": [
         "Psicogénesis",
@@ -110,14 +110,14 @@
     {
       "nickname": "KillerQueen",
       "species": "Nidoranfe",
-      "level": 14,
+      "level": 15,
       "types": [],
       "ability": "Piel Feérica",
       "nature": "Dócil",
       "item": "",
       "shiny": false,
       "moves": [
-        "Campo de Niebla",
+        "Puño Incremento",
         "Viraje",
         "Polución",
         "Cede Paso"
@@ -132,11 +132,11 @@
       ],
       "ev": [
         8,
-        5,
-        4,
-        5,
-        3,
-        2
+        7,
+        7,
+        6,
+        7,
+        3
       ],
       "abilPool": [
         "Piel Feérica",
@@ -219,7 +219,7 @@
     {
       "nickname": "El Lago",
       "species": "Ducklett",
-      "level": 14,
+      "level": 15,
       "types": [
         "Agua",
         "Volador"
@@ -246,11 +246,11 @@
       ],
       "ev": [
         7,
-        5,
-        4,
-        5,
-        3,
-        2
+        7,
+        7,
+        6,
+        7,
+        3
       ],
       "abilPool": [
         "Pararrayos",
@@ -335,7 +335,7 @@
     {
       "nickname": "Alviiiiiin",
       "species": "Skwovet",
-      "level": 14,
+      "level": 15,
       "types": [
         "Normal"
       ],
@@ -344,7 +344,7 @@
       "item": "",
       "shiny": false,
       "moves": [
-        "Cola Veneno",
+        "Tajo Umbrío",
         "Bruma Explosiva",
         "Puño Cometa",
         "Rayo Burbuja"
@@ -359,11 +359,11 @@
       ],
       "ev": [
         6,
+        6,
+        6,
         4,
-        3,
-        3,
-        3,
-        1
+        7,
+        2
       ],
       "abilPool": [
         "Expulsarena"
@@ -468,11 +468,11 @@
       ],
       "ev": [
         6,
+        7,
+        6,
         5,
-        3,
-        4,
-        3,
-        2
+        7,
+        3
       ],
       "abilPool": [
         "Aura Feérica"
@@ -499,115 +499,143 @@
       "spriteKey": "GIMMIGHOUL"
     },
     {
-      "nickname": "Babosín",
-      "species": "Shellos",
-      "level": 14,
+      "nickname": "El Onvre",
+      "species": "Lombre",
+      "level": 12,
       "types": [
-        "Agua"
+        "Agua",
+        "Planta"
       ],
-      "ability": "Sombra Trampa",
-      "nature": "Ingenua",
+      "ability": "Filtro",
+      "nature": "Agitada",
       "item": "",
       "shiny": false,
       "moves": [
-        "Refugio",
-        "Obstrucción",
-        "Púas Tóxicas",
-        "Guardia Baja"
+        "Carga Parábola",
+        "Bomba Ácida",
+        "Cambiapoder",
+        "Patada Tropical"
       ],
       "iv": [
-        18,
-        20,
-        14,
-        15,
-        7,
-        3
+        19,
+        29,
+        21,
+        9,
+        31,
+        12
       ],
       "ev": [
-        5,
-        5,
-        3,
-        4,
-        3,
-        2
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Rivalidad",
-        "Sombra Trampa"
+        "Hidratación",
+        "Filtro"
       ],
       "abilHidden": [
-        "Insonorizar"
+        "Aclimatación"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Refugio"
+          "m": "Veneno X"
         },
         {
           "lvl": 1,
-          "m": "Obstrucción"
+          "m": "Puño Cometa"
         },
         {
-          "lvl": 2,
-          "m": "Día Soleado"
+          "lvl": 1,
+          "m": "Truco Floral"
         },
         {
-          "lvl": 5,
-          "m": "Guardia Baja"
+          "lvl": 1,
+          "m": "Viento Plata"
         },
         {
-          "lvl": 10,
-          "m": "Púas Tóxicas"
+          "lvl": 1,
+          "m": "Ciclón de Hojas"
         },
         {
-          "lvl": 11,
-          "m": "Dulce Aroma"
+          "lvl": 1,
+          "m": "Mandato"
         },
         {
-          "lvl": 15,
-          "m": "Tormento"
+          "lvl": 1,
+          "m": "Carga Parábola"
         },
         {
-          "lvl": 16,
-          "m": "Deslome"
+          "lvl": 1,
+          "m": "Bomba Ácida"
         },
         {
-          "lvl": 20,
-          "m": "Amago"
+          "lvl": 9,
+          "m": "Cambiapoder"
         },
         {
-          "lvl": 25,
-          "m": "Meditación"
+          "lvl": 12,
+          "m": "Patada Tropical"
         },
         {
-          "lvl": 31,
-          "m": "Polvo Mágico"
+          "lvl": 18,
+          "m": "Cosquillas"
         },
         {
-          "lvl": 35,
-          "m": "Hipercolmillo"
+          "lvl": 19,
+          "m": "Shuriken de Agua"
         },
         {
-          "lvl": 40,
-          "m": "Cabezazo"
+          "lvl": 24,
+          "m": "Paz Mental"
         },
         {
-          "lvl": 45,
-          "m": "Luz Lunar"
+          "lvl": 30,
+          "m": "Golpe Calor"
+        },
+        {
+          "lvl": 30,
+          "m": "Picotazo"
+        },
+        {
+          "lvl": 30,
+          "m": "Escudo Tatami"
+        },
+        {
+          "lvl": 36,
+          "m": "Estímulo"
+        },
+        {
+          "lvl": 37,
+          "m": "Bucle Arena"
+        },
+        {
+          "lvl": 43,
+          "m": "Daño Secreto"
+        },
+        {
+          "lvl": 50,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 57,
+          "m": "Fuerza G"
+        },
+        {
+          "lvl": 64,
+          "m": "Metaláser"
         }
       ],
-      "tmMoves": [
-        "Búnker",
-        "Ofrenda",
-        "Rastreo"
-      ],
       "firstMoves": [
-        "Refugio",
-        "Obstrucción",
-        "Día Soleado",
-        "Guardia Baja"
+        "Carga Parábola",
+        "Bomba Ácida",
+        "Cambiapoder",
+        "Patada Tropical"
       ],
-      "spriteKey": "SHELLOS"
+      "spriteKey": "LOMBRE"
     }
   ],
   "box": [
@@ -934,6 +962,117 @@
         "Castigo"
       ],
       "spriteKey": "PIDOVE"
+    },
+    {
+      "nickname": "Babosín",
+      "species": "Shellos",
+      "level": 15,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Sombra Trampa",
+      "nature": "Ingenua",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Refugio",
+        "Obstrucción",
+        "Púas Tóxicas",
+        "Guardia Baja"
+      ],
+      "iv": [
+        18,
+        20,
+        14,
+        15,
+        7,
+        3
+      ],
+      "ev": [
+        5,
+        7,
+        6,
+        5,
+        7,
+        3
+      ],
+      "abilPool": [
+        "Rivalidad",
+        "Sombra Trampa"
+      ],
+      "abilHidden": [
+        "Insonorizar"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Refugio"
+        },
+        {
+          "lvl": 1,
+          "m": "Obstrucción"
+        },
+        {
+          "lvl": 2,
+          "m": "Día Soleado"
+        },
+        {
+          "lvl": 5,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 10,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 11,
+          "m": "Dulce Aroma"
+        },
+        {
+          "lvl": 15,
+          "m": "Tormento"
+        },
+        {
+          "lvl": 16,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 20,
+          "m": "Amago"
+        },
+        {
+          "lvl": 25,
+          "m": "Meditación"
+        },
+        {
+          "lvl": 31,
+          "m": "Polvo Mágico"
+        },
+        {
+          "lvl": 35,
+          "m": "Hipercolmillo"
+        },
+        {
+          "lvl": 40,
+          "m": "Cabezazo"
+        },
+        {
+          "lvl": 45,
+          "m": "Luz Lunar"
+        }
+      ],
+      "tmMoves": [
+        "Búnker",
+        "Ofrenda",
+        "Rastreo"
+      ],
+      "firstMoves": [
+        "Refugio",
+        "Obstrucción",
+        "Día Soleado",
+        "Guardia Baja"
+      ],
+      "spriteKey": "SHELLOS"
     }
   ],
   "graveyard": [
@@ -1123,15 +1262,15 @@
       "mon": "Gimmighoul"
     },
     {
-      "route": "ruta_2_sur",
-      "where": "Ruta 2 Sur",
-      "species": "Shellos",
-      "nickname": "Babosín",
+      "route": "ruta_3",
+      "where": "Ruta 3",
+      "species": "Lombre",
+      "nickname": "El Onvre",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 5,
-      "mon": "Shellos"
+      "level": 12,
+      "mon": "Lombre"
     },
     {
       "route": "bosque_verde",
@@ -1176,6 +1315,17 @@
       "category": "ciudad",
       "level": 10,
       "mon": "Yungoos"
+    },
+    {
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Shellos",
+      "nickname": "Babosín",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 5,
+      "mon": "Shellos"
     }
   ],
   "progress": {
@@ -1189,10 +1339,11 @@
       "ruta_1": true,
       "ruta_22": true,
       "ciudad_verde": true,
-      "ruta_2_sur": true,
+      "ruta_3": true,
       "bosque_verde": true,
       "ruta_2_norte": true,
-      "ciudad_plateada": true
+      "ciudad_plateada": true,
+      "ruta_2_sur": true
     },
     "items": {},
     "encounters": {
@@ -1203,7 +1354,8 @@
       "ruta_2_sur": true,
       "bosque_verde": true,
       "ruta_2_norte": true,
-      "ciudad_plateada": true
+      "ciudad_plateada": true,
+      "ruta_3": true
     },
     "switches": [
       48,
@@ -1249,6 +1401,7 @@
       "Metrónomo",
       "Miniseta",
       "MO Golpe Roca",
+      "MT07",
       "MT116",
       "MT21",
       "MT27",
@@ -1354,12 +1507,6 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "CENIZASSAGRADAS",
-        "name": "Cenizas Sagradas",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 4,
@@ -1368,7 +1515,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 47,
+        "qty": 46,
         "pocket": "Poké Balls"
       },
       {
@@ -1378,10 +1525,10 @@
         "pocket": "Poké Balls"
       },
       {
-        "id": "ULTRABALL",
-        "name": "Ultra Ball",
+        "id": "TM07",
+        "name": "MT07",
         "qty": 1,
-        "pocket": "Poké Balls"
+        "pocket": "MTs y MOs"
       },
       {
         "id": "TM21",
@@ -1468,8 +1615,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
