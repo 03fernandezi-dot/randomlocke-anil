@@ -2,14 +2,14 @@
   "id": "Izan",
   "name": "Izana",
   "lives": 30,
-  "livesUsed": 0,
+  "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 23m jugadas · 35,650₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 1h 39m jugadas · 38,450₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Pauet Pauet",
       "species": "Rookidee",
-      "level": 11,
+      "level": 14,
       "types": [
         "Volador"
       ],
@@ -33,11 +33,11 @@
       ],
       "ev": [
         9,
-        83,
-        4,
-        2,
+        133,
+        5,
+        5,
         3,
-        1
+        2
       ],
       "abilPool": [
         "Psicogénesis",
@@ -110,7 +110,7 @@
     {
       "nickname": "KillerQueen",
       "species": "Nidoranfe",
-      "level": 11,
+      "level": 14,
       "types": [],
       "ability": "Piel Feérica",
       "nature": "Dócil",
@@ -132,11 +132,11 @@
       ],
       "ev": [
         8,
+        5,
+        4,
+        5,
         3,
-        3,
-        2,
-        3,
-        1
+        2
       ],
       "abilPool": [
         "Piel Feérica",
@@ -207,6 +207,9 @@
           "m": "Ciclón de Hojas"
         }
       ],
+      "tmMoves": [
+        "Ofrenda"
+      ],
       "firstMoves": [
         "Campo de Niebla",
         "Viraje"
@@ -216,21 +219,23 @@
     {
       "nickname": "El Lago",
       "species": "Ducklett",
-      "level": 10,
+      "level": 14,
       "types": [
         "Agua",
         "Volador"
       ],
       "ability": "Pararrayos",
-      "nature": "Cauta",
+      "nature": "Activa",
       "item": "Cascabel Concha",
       "shiny": false,
       "moves": [
-        "Paisaje Nevado",
+        "Cuchillada",
         "Corpulencia",
         "Ataque Rápido",
         "Golpe Kárate"
       ],
+      "natureMint": true,
+      "natureBase": "Cauta",
       "iv": [
         19,
         24,
@@ -241,11 +246,11 @@
       ],
       "ev": [
         7,
+        5,
+        4,
+        5,
         3,
-        3,
-        2,
-        3,
-        1
+        2
       ],
       "abilPool": [
         "Pararrayos",
@@ -317,6 +322,7 @@
         }
       ],
       "tmMoves": [
+        "Ofrenda",
         "Rastreo"
       ],
       "firstMoves": [
@@ -327,134 +333,119 @@
       "spriteKey": "DUCKLETT"
     },
     {
-      "nickname": "Donal Tromp",
-      "species": "Yungoos",
-      "level": 10,
+      "nickname": "Alviiiiiin",
+      "species": "Skwovet",
+      "level": 14,
       "types": [
         "Normal"
       ],
-      "ability": "Justiciero",
-      "nature": "Alegre",
+      "ability": "Expulsarena",
+      "nature": "Mansa",
       "item": "",
       "shiny": false,
       "moves": [
-        "Falso Tortazo",
-        "Capa Mágica",
-        "Deslizamiento",
-        "Otra Vez"
+        "Cola Veneno",
+        "Bruma Explosiva",
+        "Puño Cometa",
+        "Rayo Burbuja"
       ],
       "iv": [
-        25,
         12,
-        5,
-        14,
-        31,
-        20
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
+        21,
+        10,
+        3,
+        10,
         0
       ],
+      "ev": [
+        6,
+        4,
+        3,
+        3,
+        3,
+        1
+      ],
       "abilPool": [
-        "Veleta",
-        "Justiciero"
+        "Expulsarena"
       ],
       "abilHidden": [
-        "Títere Tóxico"
+        "Potencia"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Anticipo"
+          "m": "Cola Veneno"
         },
         {
-          "lvl": 3,
-          "m": "Falso Tortazo"
+          "lvl": 1,
+          "m": "Bruma Explosiva"
         },
         {
-          "lvl": 7,
-          "m": "Capa Mágica"
-        },
-        {
-          "lvl": 7,
-          "m": "Deslizamiento"
+          "lvl": 5,
+          "m": "Puño Cometa"
         },
         {
           "lvl": 10,
-          "m": "Otra Vez"
+          "m": "Rayo Burbuja"
         },
         {
-          "lvl": 13,
-          "m": "Guardia Baja"
+          "lvl": 10,
+          "m": "Bombardeo"
         },
         {
-          "lvl": 13,
-          "m": "Pulimento"
+          "lvl": 15,
+          "m": "Tragar"
         },
         {
-          "lvl": 16,
-          "m": "Estoicismo"
+          "lvl": 15,
+          "m": "Tajo Umbrío"
         },
         {
-          "lvl": 19,
-          "m": "Ovocuración"
+          "lvl": 15,
+          "m": "Mismo Destino"
         },
         {
-          "lvl": 22,
-          "m": "Deseo Cura"
+          "lvl": 20,
+          "m": "Represalia"
         },
         {
           "lvl": 25,
-          "m": "Dulce Aroma"
+          "m": "Meditación"
         },
         {
-          "lvl": 28,
-          "m": "Bola Hielo"
+          "lvl": 30,
+          "m": "Vasto Impacto"
         },
         {
-          "lvl": 31,
-          "m": "Lluvia Ígnea"
-        },
-        {
-          "lvl": 34,
-          "m": "Fuerza Telúrica"
-        },
-        {
-          "lvl": 37,
-          "m": "Danza Amiga"
-        },
-        {
-          "lvl": 37,
-          "m": "Fijar Blanco"
+          "lvl": 35,
+          "m": "Fuerza Lunar"
         },
         {
           "lvl": 40,
-          "m": "Poder Oculto"
+          "m": "Kinético"
         },
         {
-          "lvl": 43,
-          "m": "Recuperación"
+          "lvl": 45,
+          "m": "Acróbata"
         }
       ],
       "tmMoves": [
+        "Metrónomo",
+        "Ofrenda",
+        "Rastreo",
         "Reversión"
       ],
       "firstMoves": [
-        "Falso Tortazo",
-        "Capa Mágica",
-        "Deslizamiento",
-        "Otra Vez"
+        "Cola Veneno",
+        "Bruma Explosiva",
+        "Puño Cometa"
       ],
-      "spriteKey": "YUNGOOS"
+      "spriteKey": "SKWOVET"
     },
     {
       "nickname": "Totyyy vamss",
       "species": "Gimmighoul",
-      "level": 9,
+      "level": 14,
       "types": [
         "Fantasma"
       ],
@@ -477,11 +468,11 @@
       ],
       "ev": [
         6,
+        5,
         3,
-        2,
-        1,
+        4,
         3,
-        1
+        2
       ],
       "abilPool": [
         "Aura Feérica"
@@ -510,7 +501,7 @@
     {
       "nickname": "Babosín",
       "species": "Shellos",
-      "level": 10,
+      "level": 14,
       "types": [
         "Agua"
       ],
@@ -534,11 +525,11 @@
       ],
       "ev": [
         5,
+        5,
         3,
-        2,
-        1,
+        4,
         3,
-        1
+        2
       ],
       "abilPool": [
         "Rivalidad",
@@ -607,6 +598,7 @@
       ],
       "tmMoves": [
         "Búnker",
+        "Ofrenda",
         "Rastreo"
       ],
       "firstMoves": [
@@ -827,115 +819,253 @@
       "spriteKey": "CLEFFA"
     },
     {
-      "nickname": "Alviiiiiin",
-      "species": "Skwovet",
+      "nickname": "Espía 2",
+      "species": "Pidove",
       "level": 10,
       "types": [
-        "Normal"
+        "Normal",
+        "Volador"
       ],
-      "ability": "Expulsarena",
-      "nature": "Mansa",
+      "ability": "Piel Tosca",
+      "nature": "Ingenua",
       "item": "",
       "shiny": false,
       "moves": [
-        "Cola Veneno",
-        "Bruma Explosiva",
-        "Puño Cometa",
-        "Rayo Burbuja"
+        "Ala de Acero",
+        "Represalia",
+        "Tornado",
+        "Castigo"
       ],
       "iv": [
-        12,
-        21,
-        10,
-        3,
-        10,
-        0
+        4,
+        6,
+        23,
+        14,
+        31,
+        26
       ],
       "ev": [
-        6,
-        3,
-        2,
-        2,
-        3,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Expulsarena"
+        "Piel Tosca"
       ],
       "abilHidden": [
-        "Potencia"
+        "Megadisparador"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Cola Veneno"
+          "m": "Ala de Acero"
         },
         {
           "lvl": 1,
-          "m": "Bruma Explosiva"
-        },
-        {
-          "lvl": 5,
-          "m": "Puño Cometa"
-        },
-        {
-          "lvl": 10,
-          "m": "Rayo Burbuja"
-        },
-        {
-          "lvl": 10,
-          "m": "Bombardeo"
-        },
-        {
-          "lvl": 15,
-          "m": "Tragar"
-        },
-        {
-          "lvl": 15,
-          "m": "Tajo Umbrío"
-        },
-        {
-          "lvl": 15,
-          "m": "Mismo Destino"
-        },
-        {
-          "lvl": 20,
           "m": "Represalia"
         },
         {
-          "lvl": 25,
-          "m": "Meditación"
+          "lvl": 4,
+          "m": "Tornado"
         },
         {
-          "lvl": 30,
-          "m": "Vasto Impacto"
+          "lvl": 8,
+          "m": "Castigo"
         },
         {
-          "lvl": 35,
-          "m": "Fuerza Lunar"
+          "lvl": 12,
+          "m": "Celebración"
+        },
+        {
+          "lvl": 13,
+          "m": "Retracción"
+        },
+        {
+          "lvl": 16,
+          "m": "Onda Simple"
+        },
+        {
+          "lvl": 20,
+          "m": "Perforador"
+        },
+        {
+          "lvl": 24,
+          "m": "Armadura Ácida"
+        },
+        {
+          "lvl": 28,
+          "m": "Deseo"
+        },
+        {
+          "lvl": 32,
+          "m": "Hidropulso"
+        },
+        {
+          "lvl": 32,
+          "m": "Finta"
+        },
+        {
+          "lvl": 36,
+          "m": "A Bocajarro"
         },
         {
           "lvl": 40,
-          "m": "Kinético"
+          "m": "Campo Eléctrico"
         },
         {
-          "lvl": 45,
-          "m": "Acróbata"
+          "lvl": 43,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 44,
+          "m": "Psicoataque"
         }
       ],
       "tmMoves": [
-        "Rastreo",
+        "Metrónomo"
+      ],
+      "firstMoves": [
+        "Ala de Acero",
+        "Represalia",
+        "Tornado",
+        "Castigo"
+      ],
+      "spriteKey": "PIDOVE"
+    }
+  ],
+  "graveyard": [
+    {
+      "nickname": "Donal Tromp",
+      "species": "Yungoos",
+      "level": 10,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Justiciero",
+      "nature": "Alegre",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Falso Tortazo",
+        "Capa Mágica",
+        "Deslizamiento",
+        "Otra Vez"
+      ],
+      "iv": [
+        25,
+        12,
+        5,
+        14,
+        31,
+        20
+      ],
+      "ev": [
+        0,
+        1,
+        0,
+        2,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Veleta",
+        "Justiciero"
+      ],
+      "abilHidden": [
+        "Títere Tóxico"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Anticipo"
+        },
+        {
+          "lvl": 3,
+          "m": "Falso Tortazo"
+        },
+        {
+          "lvl": 7,
+          "m": "Capa Mágica"
+        },
+        {
+          "lvl": 7,
+          "m": "Deslizamiento"
+        },
+        {
+          "lvl": 10,
+          "m": "Otra Vez"
+        },
+        {
+          "lvl": 13,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 13,
+          "m": "Pulimento"
+        },
+        {
+          "lvl": 16,
+          "m": "Estoicismo"
+        },
+        {
+          "lvl": 19,
+          "m": "Ovocuración"
+        },
+        {
+          "lvl": 22,
+          "m": "Deseo Cura"
+        },
+        {
+          "lvl": 25,
+          "m": "Dulce Aroma"
+        },
+        {
+          "lvl": 28,
+          "m": "Bola Hielo"
+        },
+        {
+          "lvl": 31,
+          "m": "Lluvia Ígnea"
+        },
+        {
+          "lvl": 34,
+          "m": "Fuerza Telúrica"
+        },
+        {
+          "lvl": 37,
+          "m": "Danza Amiga"
+        },
+        {
+          "lvl": 37,
+          "m": "Fijar Blanco"
+        },
+        {
+          "lvl": 40,
+          "m": "Poder Oculto"
+        },
+        {
+          "lvl": 43,
+          "m": "Recuperación"
+        }
+      ],
+      "tmMoves": [
         "Reversión"
       ],
       "firstMoves": [
-        "Cola Veneno",
-        "Bruma Explosiva",
-        "Puño Cometa"
+        "Falso Tortazo",
+        "Capa Mágica",
+        "Deslizamiento",
+        "Otra Vez"
       ],
-      "spriteKey": "SKWOVET"
+      "spriteKey": "YUNGOOS",
+      "cause": "",
+      "route": "Ciudad Plateada",
+      "date": ""
     }
   ],
-  "graveyard": [],
   "captures": [
     {
       "route": "",
@@ -971,15 +1101,15 @@
       "mon": "Ducklett"
     },
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Yungoos",
-      "nickname": "Donal Tromp",
+      "route": "ruta_22",
+      "where": "Ruta 22",
+      "species": "Skwovet",
+      "nickname": "Alviiiiiin",
       "shiny": false,
       "status": "captured",
-      "category": "ciudad",
-      "level": 10,
-      "mon": "Yungoos"
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Skwovet"
     },
     {
       "route": "ciudad_verde",
@@ -1026,30 +1156,43 @@
       "mon": "Cleffa"
     },
     {
-      "route": "ruta_22",
-      "where": "Ruta 22",
-      "species": "Skwovet",
-      "nickname": "Alviiiiiin",
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Pidove",
+      "nickname": "Espía 2",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 6,
-      "mon": "Skwovet"
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Pidove"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Yungoos",
+      "nickname": "Donal Tromp",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Yungoos"
     }
   ],
   "progress": {
-    "gyms": {},
+    "gyms": {
+      "gym1": true
+    },
     "bosses": {},
     "npcs": {},
     "routes": {
       "pueblo_paleta": true,
       "ruta_1": true,
-      "ciudad_plateada": true,
+      "ruta_22": true,
       "ciudad_verde": true,
       "ruta_2_sur": true,
       "bosque_verde": true,
       "ruta_2_norte": true,
-      "ruta_22": true
+      "ciudad_plateada": true
     },
     "items": {},
     "encounters": {
@@ -1059,7 +1202,8 @@
       "ciudad_verde": true,
       "ruta_2_sur": true,
       "bosque_verde": true,
-      "ruta_2_norte": true
+      "ruta_2_norte": true,
+      "ciudad_plateada": true
     },
     "switches": [
       48,
@@ -1081,6 +1225,7 @@
       181,
       182,
       183,
+      184,
       238,
       323,
       334
@@ -1090,21 +1235,29 @@
       "Banda Recia",
       "Baya Chiri",
       "Baya Drasi",
+      "Baya Kebia",
       "Bola de Humo",
       "Brazal Recio",
       "Cascabel Concha",
+      "Cenizas Sagradas",
       "Def. Esp. X 6",
       "Fragmento Cometa",
       "Gema Fuego",
       "Incienso Duplo",
       "Menta Activa",
+      "Menta Miedosa",
       "Metrónomo",
       "Miniseta",
+      "MO Golpe Roca",
       "MT116",
+      "MT21",
       "MT27",
+      "MT39",
+      "MT58",
       "MT67",
       "MT83",
       "MT89",
+      "MT94",
       "Paracontacto",
       "Piedra Día",
       "Poké Montura",
@@ -1112,6 +1265,7 @@
       "Semilla Electro",
       "Supercaña",
       "Ultra Ball",
+      "Vcapsula",
       "Vial"
     ],
     "bag": [
@@ -1178,18 +1332,30 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 700,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "HASTYMINT",
-        "name": "Menta Activa",
-        "qty": 1,
+        "qty": 682,
         "pocket": "Medicinas"
       },
       {
         "id": "PARALYZEHEAL",
         "name": "Antiparalizador",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "TIMIDMINT",
+        "name": "Menta Miedosa",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "VCapsula",
+        "name": "Vcapsula",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "CENIZASSAGRADAS",
+        "name": "Cenizas Sagradas",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -1202,7 +1368,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 49,
+        "qty": 47,
         "pocket": "Poké Balls"
       },
       {
@@ -1218,8 +1384,26 @@
         "pocket": "Poké Balls"
       },
       {
+        "id": "TM21",
+        "name": "MT21",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM27",
         "name": "MT27",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM39",
+        "name": "MT39",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM58",
+        "name": "MT58",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -1242,10 +1426,22 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM94",
+        "name": "MT94",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM116",
         "name": "MT116",
         "qty": 1,
         "pocket": "MTs y MOs"
+      },
+      {
+        "id": "KEBIABERRY",
+        "name": "Baya Kebia",
+        "qty": 1,
+        "pocket": "Bayas"
       },
       {
         "id": "KASIBBERRY",
@@ -1288,6 +1484,12 @@
         "name": "Supercaña",
         "qty": 1,
         "pocket": "Objetos clave"
+      },
+      {
+        "id": "ROCKSMASHITEM",
+        "name": "MO Golpe Roca",
+        "qty": 1,
+        "pocket": "Objetos clave"
       }
     ]
   },
@@ -1313,7 +1515,8 @@
     "916342374",
     "722467237",
     "1507255140",
-    "1220383077"
+    "1220383077",
+    "3073770163"
   ],
   "revividos": 22
 }
