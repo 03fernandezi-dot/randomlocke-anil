@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 2h 2m jugadas · 41,640₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 2h 21m jugadas · 50,650₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Pauet Pauet",
       "species": "Rookidee",
-      "level": 15,
+      "level": 16,
       "types": [
         "Volador"
       ],
@@ -32,12 +32,12 @@
         9
       ],
       "ev": [
-        9,
-        209,
+        13,
+        252,
+        8,
         8,
         6,
-        5,
-        3
+        4
       ],
       "abilPool": [
         "Psicogénesis",
@@ -109,10 +109,12 @@
     },
     {
       "nickname": "KillerQueen",
-      "species": "Nidoranfe",
-      "level": 15,
-      "types": [],
-      "ability": "Piel Feérica",
+      "species": "Nidorina",
+      "level": 17,
+      "types": [
+        "Veneno"
+      ],
+      "ability": "Cuerpo Mortal",
       "nature": "Dócil",
       "item": "",
       "shiny": false,
@@ -120,7 +122,7 @@
         "Puño Incremento",
         "Viraje",
         "Polución",
-        "Cede Paso"
+        "Sol Matinal"
       ],
       "iv": [
         27,
@@ -131,95 +133,92 @@
         22
       ],
       "ev": [
+        12,
+        10,
+        7,
         8,
-        9,
-        7,
-        6,
-        7,
-        3
+        8,
+        4
       ],
       "abilPool": [
-        "Piel Feérica",
-        "Sal Purificadora"
+        "Cuerpo Mortal",
+        "Teracaparazón"
       ],
       "abilHidden": [
-        "Escudo Recio"
+        "General Supremo"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Campo de Niebla"
+          "m": "Acua Aro"
         },
         {
           "lvl": 1,
-          "m": "Viraje"
+          "m": "Desquite"
         },
         {
-          "lvl": 5,
-          "m": "Polución"
+          "lvl": 1,
+          "m": "Espejo"
         },
         {
-          "lvl": 10,
-          "m": "Cede Paso"
+          "lvl": 1,
+          "m": "Maquinación"
         },
         {
           "lvl": 15,
-          "m": "Puño Incremento"
+          "m": "Tajo Metralla"
         },
         {
-          "lvl": 20,
-          "m": "Fotosíntesis"
+          "lvl": 16,
+          "m": "Sol Matinal"
         },
         {
-          "lvl": 25,
-          "m": "Bombardeo"
+          "lvl": 22,
+          "m": "Rencor"
         },
         {
-          "lvl": 30,
-          "m": "Arenas Ardientes"
+          "lvl": 29,
+          "m": "Guillotina"
         },
         {
-          "lvl": 35,
-          "m": "Cuchilla Solar"
-        },
-        {
-          "lvl": 40,
-          "m": "Estímulo"
+          "lvl": 36,
+          "m": "Puño Drenaje"
         },
         {
           "lvl": 43,
-          "m": "Moluscañón"
-        },
-        {
-          "lvl": 45,
-          "m": "Agilidad"
-        },
-        {
-          "lvl": 45,
-          "m": "Calamidad"
+          "m": "Bomba Ácida"
         },
         {
           "lvl": 50,
-          "m": "Cambiapoder"
+          "m": "Tijera X"
         },
         {
-          "lvl": 55,
-          "m": "Ciclón de Hojas"
+          "lvl": 50,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 57,
+          "m": "Profecía"
+        },
+        {
+          "lvl": 64,
+          "m": "Golpe Mordaza"
+        },
+        {
+          "lvl": 71,
+          "m": "Rayo Aurora"
         }
-      ],
-      "tmMoves": [
-        "Ofrenda"
       ],
       "firstMoves": [
         "Campo de Niebla",
         "Viraje"
       ],
-      "spriteKey": "NIDORANfE"
+      "spriteKey": "NIDORINA"
     },
     {
       "nickname": "El Lago",
       "species": "Ducklett",
-      "level": 15,
+      "level": 16,
       "types": [
         "Agua",
         "Volador"
@@ -245,12 +244,12 @@
         28
       ],
       "ev": [
+        11,
+        10,
         7,
-        9,
-        7,
-        6,
-        7,
-        3
+        8,
+        8,
+        4
       ],
       "abilPool": [
         "Pararrayos",
@@ -335,7 +334,7 @@
     {
       "nickname": "Alviiiiiin",
       "species": "Skwovet",
-      "level": 15,
+      "level": 16,
       "types": [
         "Normal"
       ],
@@ -358,12 +357,12 @@
         0
       ],
       "ev": [
+        10,
+        9,
+        6,
         6,
         8,
-        6,
-        4,
-        7,
-        2
+        3
       ],
       "abilPool": [
         "Expulsarena"
@@ -445,7 +444,7 @@
     {
       "nickname": "Totyyy vamss",
       "species": "Gimmighoul",
-      "level": 15,
+      "level": 16,
       "types": [
         "Fantasma"
       ],
@@ -467,12 +466,12 @@
         3
       ],
       "ev": [
+        10,
+        10,
         6,
-        9,
-        6,
-        5,
         7,
-        3
+        8,
+        4
       ],
       "abilPool": [
         "Aura Feérica"
@@ -503,7 +502,7 @@
     {
       "nickname": "El Onvre",
       "species": "Lombre",
-      "level": 13,
+      "level": 15,
       "types": [
         "Agua",
         "Planta"
@@ -529,12 +528,12 @@
         12
       ],
       "ev": [
+        4,
+        3,
         0,
         2,
-        0,
-        0,
-        0,
-        0
+        1,
+        1
       ],
       "abilPool": [
         "Hidratación",
@@ -1084,6 +1083,281 @@
         "Guardia Baja"
       ],
       "spriteKey": "SHELLOS"
+    },
+    {
+      "nickname": "ManosTijeras",
+      "species": "Kabuto",
+      "level": 5,
+      "types": [
+        "Roca",
+        "Agua"
+      ],
+      "ability": "Coraza Ira",
+      "nature": "Activa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Viento Hielo",
+        "Cambio de Banda",
+        "Pantalla de Luz"
+      ],
+      "iv": [
+        10,
+        25,
+        17,
+        30,
+        2,
+        5
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Coraza Ira",
+        "Nado Rápido"
+      ],
+      "abilHidden": [
+        "Disemillar"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Viento Hielo"
+        },
+        {
+          "lvl": 1,
+          "m": "Cambio de Banda"
+        },
+        {
+          "lvl": 5,
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 10,
+          "m": "Última Palabra"
+        },
+        {
+          "lvl": 15,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 20,
+          "m": "Persecución"
+        },
+        {
+          "lvl": 25,
+          "m": "Onda Vacío"
+        },
+        {
+          "lvl": 26,
+          "m": "Vaho Gélido"
+        },
+        {
+          "lvl": 30,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 35,
+          "m": "Palmeo"
+        },
+        {
+          "lvl": 41,
+          "m": "Energibola"
+        },
+        {
+          "lvl": 45,
+          "m": "Cambiafuerza"
+        },
+        {
+          "lvl": 50,
+          "m": "Danza Triunfal"
+        },
+        {
+          "lvl": 51,
+          "m": "Salpicadura"
+        },
+        {
+          "lvl": 55,
+          "m": "Puño Mareo"
+        },
+        {
+          "lvl": 60,
+          "m": "Follaje"
+        }
+      ],
+      "tmMoves": [
+        "Despejar"
+      ],
+      "firstMoves": [
+        "Viento Hielo",
+        "Cambio de Banda",
+        "Pantalla de Luz"
+      ],
+      "spriteKey": "KABUTO"
+    },
+    {
+      "nickname": "Vibrador",
+      "species": "Vibrava",
+      "level": 14,
+      "types": [
+        "Tierra",
+        "Dragón"
+      ],
+      "ability": "Velo Flor",
+      "nature": "Mansa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cuerno Certero",
+        "Poder Oculto",
+        "Sombra Vil",
+        "Campo Psíquico"
+      ],
+      "iv": [
+        10,
+        22,
+        3,
+        11,
+        14,
+        13
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Velo Flor"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Placaje"
+        },
+        {
+          "lvl": -1,
+          "m": "Respiro"
+        },
+        {
+          "lvl": -1,
+          "m": "Cola Dragón"
+        },
+        {
+          "lvl": -1,
+          "m": "Hueso Palo"
+        },
+        {
+          "lvl": -1,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": -1,
+          "m": "Granizo"
+        },
+        {
+          "lvl": -1,
+          "m": "Recogearena"
+        },
+        {
+          "lvl": 1,
+          "m": "Presente"
+        },
+        {
+          "lvl": 1,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 1,
+          "m": "Relajo"
+        },
+        {
+          "lvl": 1,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 1,
+          "m": "Poder Oculto"
+        },
+        {
+          "lvl": 1,
+          "m": "Sombra Vil"
+        },
+        {
+          "lvl": 12,
+          "m": "Campo Psíquico"
+        },
+        {
+          "lvl": 16,
+          "m": "Danza Caos"
+        },
+        {
+          "lvl": 17,
+          "m": "Escalofrío"
+        },
+        {
+          "lvl": 20,
+          "m": "Desarme"
+        },
+        {
+          "lvl": 24,
+          "m": "Magnitud"
+        },
+        {
+          "lvl": 25,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 28,
+          "m": "Aura Magnética"
+        },
+        {
+          "lvl": 32,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 38,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 44,
+          "m": "Giro Mortífero"
+        },
+        {
+          "lvl": 49,
+          "m": "Autotomía"
+        },
+        {
+          "lvl": 50,
+          "m": "Rencor Reprimido"
+        },
+        {
+          "lvl": 56,
+          "m": "Esquirla Helada"
+        },
+        {
+          "lvl": 62,
+          "m": "Octopresa"
+        }
+      ],
+      "tmMoves": [
+        "Última Palabra"
+      ],
+      "firstMoves": [
+        "Cuerno Certero",
+        "Poder Oculto",
+        "Sombra Vil",
+        "Campo Psíquico"
+      ],
+      "spriteKey": "VIBRAVA"
     }
   ],
   "graveyard": [
@@ -1231,13 +1505,13 @@
     {
       "route": "pueblo_paleta",
       "where": "Pueblo Paleta",
-      "species": "Nidoranfe",
+      "species": "Nidorina",
       "nickname": "KillerQueen",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
       "level": 3,
-      "mon": "Nidoranfe"
+      "mon": "Nidorina"
     },
     {
       "route": "ruta_1",
@@ -1337,6 +1611,28 @@
       "category": "salvaje",
       "level": 5,
       "mon": "Shellos"
+    },
+    {
+      "route": "",
+      "where": "Centro Pokémon",
+      "species": "Kabuto",
+      "nickname": "ManosTijeras",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Kabuto"
+    },
+    {
+      "route": "monte_moon",
+      "where": "Monte Moon",
+      "species": "Vibrava",
+      "nickname": "Vibrador",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 14,
+      "mon": "Vibrava"
     }
   ],
   "progress": {
@@ -1354,7 +1650,8 @@
       "bosque_verde": true,
       "ruta_2_norte": true,
       "ciudad_plateada": true,
-      "ruta_2_sur": true
+      "ruta_2_sur": true,
+      "monte_moon": true
     },
     "items": {},
     "encounters": {
@@ -1366,7 +1663,8 @@
       "bosque_verde": true,
       "ruta_2_norte": true,
       "ciudad_plateada": true,
-      "ruta_3": true
+      "ruta_3": true,
+      "monte_moon": true
     },
     "switches": [
       48,
@@ -1394,8 +1692,10 @@
       334
     ],
     "foundItems": [
+      "Amigo Ball",
       "Antiparalizador",
       "Banda Recia",
+      "Baya Caoca",
       "Baya Chiri",
       "Baya Drasi",
       "Baya Kebia",
@@ -1419,14 +1719,17 @@
       "MT39",
       "MT40",
       "MT42",
+      "MT43",
       "MT58",
       "MT67",
       "MT83",
       "MT89",
       "MT94",
       "Paracontacto",
+      "Pesa Recia",
       "Piedra Día",
       "Poké Montura",
+      "Prisma Rojo",
       "Reglamento",
       "Semilla Electro",
       "Supercaña",
@@ -1496,6 +1799,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "POWERWEIGHT",
+        "name": "Pesa Recia",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
         "qty": 682,
@@ -1522,13 +1831,19 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 46,
+        "qty": 43,
         "pocket": "Poké Balls"
       },
       {
         "id": "PREMIERBALL",
         "name": "Honor Ball",
         "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "FRIENDBALL",
+        "name": "Amigo Ball",
+        "qty": 1,
         "pocket": "Poké Balls"
       },
       {
@@ -1564,6 +1879,12 @@
       {
         "id": "TM42",
         "name": "MT42",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM43",
+        "name": "MT43",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -1604,6 +1925,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "OCCABERRY",
+        "name": "Baya Caoca",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "KEBIABERRY",
         "name": "Baya Kebia",
         "qty": 1,
@@ -1622,6 +1949,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "REDORB",
+        "name": "Prisma Rojo",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
         "id": "XSPDEF6",
         "name": "Def. Esp. X 6",
         "qty": 1,
@@ -1634,8 +1967,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
