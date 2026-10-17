@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 2h 21m jugadas · 50,650₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 2h 29m jugadas · 51,700₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Pauet Pauet",
       "species": "Rookidee",
-      "level": 16,
+      "level": 17,
       "types": [
         "Volador"
       ],
@@ -34,7 +34,7 @@
       "ev": [
         13,
         252,
-        8,
+        9,
         8,
         6,
         4
@@ -134,8 +134,8 @@
       ],
       "ev": [
         12,
-        10,
-        7,
+        11,
+        8,
         8,
         8,
         4
@@ -245,8 +245,8 @@
       ],
       "ev": [
         11,
-        10,
-        7,
+        11,
+        8,
         8,
         8,
         4
@@ -358,8 +358,8 @@
       ],
       "ev": [
         10,
-        9,
-        6,
+        10,
+        7,
         6,
         8,
         3
@@ -467,8 +467,8 @@
       ],
       "ev": [
         10,
-        10,
-        6,
+        11,
+        7,
         7,
         8,
         4
@@ -502,7 +502,7 @@
     {
       "nickname": "El Onvre",
       "species": "Lombre",
-      "level": 15,
+      "level": 16,
       "types": [
         "Agua",
         "Planta"
@@ -529,8 +529,8 @@
       ],
       "ev": [
         4,
-        3,
-        0,
+        4,
+        1,
         2,
         1,
         1
@@ -637,6 +637,7 @@
         "Destello",
         "Gran Ojo",
         "Ofrenda",
+        "Paz Mental",
         "Roca Veloz"
       ],
       "firstMoves": [
@@ -1714,6 +1715,7 @@
       "MO Golpe Roca",
       "MT07",
       "MT116",
+      "MT20",
       "MT21",
       "MT27",
       "MT39",
@@ -1728,6 +1730,7 @@
       "Paracontacto",
       "Pesa Recia",
       "Piedra Día",
+      "Piedra Trueno",
       "Poké Montura",
       "Prisma Rojo",
       "Reglamento",
@@ -1747,7 +1750,7 @@
       {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -1805,6 +1808,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "THUNDERSTONE",
+        "name": "Piedra Trueno",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
         "qty": 682,
@@ -1849,6 +1858,12 @@
       {
         "id": "TM07",
         "name": "MT07",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM20",
+        "name": "MT20",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
