@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 58m jugadas · 40,730₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 2h 2m jugadas · 41,640₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Pauet Pauet",
@@ -33,7 +33,7 @@
       ],
       "ev": [
         9,
-        191,
+        209,
         8,
         6,
         5,
@@ -132,7 +132,7 @@
       ],
       "ev": [
         8,
-        7,
+        9,
         7,
         6,
         7,
@@ -246,7 +246,7 @@
       ],
       "ev": [
         7,
-        7,
+        9,
         7,
         6,
         7,
@@ -359,7 +359,7 @@
       ],
       "ev": [
         6,
-        6,
+        8,
         6,
         4,
         7,
@@ -445,7 +445,7 @@
     {
       "nickname": "Totyyy vamss",
       "species": "Gimmighoul",
-      "level": 14,
+      "level": 15,
       "types": [
         "Fantasma"
       ],
@@ -468,7 +468,7 @@
       ],
       "ev": [
         6,
-        7,
+        9,
         6,
         5,
         7,
@@ -489,7 +489,9 @@
         }
       ],
       "tmMoves": [
-        "Rastreo"
+        "Despejar",
+        "Rastreo",
+        "Última Palabra"
       ],
       "firstMoves": [
         "Tambor",
@@ -501,7 +503,7 @@
     {
       "nickname": "El Onvre",
       "species": "Lombre",
-      "level": 12,
+      "level": 13,
       "types": [
         "Agua",
         "Planta"
@@ -513,7 +515,7 @@
       "moves": [
         "Carga Parábola",
         "Bomba Ácida",
-        "Cambiapoder",
+        "Viento Plata",
         "Patada Tropical"
       ],
       "natureMint": true,
@@ -528,7 +530,7 @@
       ],
       "ev": [
         0,
-        0,
+        2,
         0,
         0,
         0,
@@ -632,6 +634,10 @@
         }
       ],
       "tmMoves": [
+        "Búnker",
+        "Destello",
+        "Gran Ojo",
+        "Ofrenda",
         "Roca Veloz"
       ],
       "firstMoves": [
@@ -1412,6 +1418,7 @@
       "MT27",
       "MT39",
       "MT40",
+      "MT42",
       "MT58",
       "MT67",
       "MT83",
@@ -1551,6 +1558,12 @@
       {
         "id": "TM40",
         "name": "MT40",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM42",
+        "name": "MT42",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
