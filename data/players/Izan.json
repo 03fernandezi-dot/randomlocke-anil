@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 54m jugadas · 40,730₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 1h 58m jugadas · 40,730₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Pauet Pauet",
@@ -507,7 +507,7 @@
         "Planta"
       ],
       "ability": "Filtro",
-      "nature": "Agitada",
+      "nature": "Miedosa",
       "item": "",
       "shiny": false,
       "moves": [
@@ -516,6 +516,8 @@
         "Cambiapoder",
         "Patada Tropical"
       ],
+      "natureMint": true,
+      "natureBase": "Agitada",
       "iv": [
         19,
         29,
@@ -628,6 +630,9 @@
           "lvl": 64,
           "m": "Metaláser"
         }
+      ],
+      "tmMoves": [
+        "Roca Veloz"
       ],
       "firstMoves": [
         "Carga Parábola",
@@ -1406,6 +1411,7 @@
       "MT21",
       "MT27",
       "MT39",
+      "MT40",
       "MT58",
       "MT67",
       "MT83",
@@ -1495,12 +1501,6 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "TIMIDMINT",
-        "name": "Menta Miedosa",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "VCapsula",
         "name": "Vcapsula",
         "qty": 1,
@@ -1545,6 +1545,12 @@
       {
         "id": "TM39",
         "name": "MT39",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM40",
+        "name": "MT40",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
