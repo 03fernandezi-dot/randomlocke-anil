@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 9h 31m jugadas · 170,960₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 10h 15m jugadas · 163,970₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Izan",
@@ -36,7 +36,7 @@
         31,
         70,
         44,
-        40,
+        42,
         44,
         63
       ],
@@ -195,7 +195,7 @@
         8,
         28,
         14,
-        11,
+        13,
         8,
         19
       ],
@@ -350,7 +350,7 @@
         8,
         21,
         10,
-        9,
+        11,
         6,
         17
       ],
@@ -474,7 +474,7 @@
         13,
         42,
         24,
-        19,
+        21,
         21,
         37
       ],
@@ -618,7 +618,7 @@
         8,
         21,
         10,
-        9,
+        11,
         6,
         17
       ],
@@ -747,7 +747,7 @@
         19,
         50,
         26,
-        26,
+        28,
         24,
         38
       ],
@@ -4967,7 +4967,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 16,
+        "qty": 22,
         "pocket": "Poké Balls"
       },
       {
@@ -4997,7 +4997,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 14,
+        "qty": 21,
         "pocket": "Poké Balls"
       },
       {
