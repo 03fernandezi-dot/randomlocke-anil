@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 10h 15m jugadas · 163,970₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 10h 38m jugadas · 163,970₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Izan",
@@ -4505,6 +4505,7 @@
       81,
       82,
       83,
+      84,
       85,
       86,
       87,
@@ -4518,6 +4519,9 @@
       96,
       97,
       98,
+      99,
+      100,
+      101,
       110,
       112,
       113,
@@ -4565,6 +4569,7 @@
       "Bloque de Turba",
       "Bola de Nieve",
       "Bola Luminosa",
+      "Bono Bici",
       "Brazal Firme",
       "Caramelo Furia",
       "Carburante",
@@ -5501,6 +5506,12 @@
       {
         "id": "VISORSILPH",
         "name": "Visor Silph",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "BONOBICI",
+        "name": "Bono Bici",
         "qty": 1,
         "pocket": "Objetos clave"
       }
