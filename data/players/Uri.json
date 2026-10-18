@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 15h 32m jugadas · 130,570₽ · vidas en el juego: 23",
+  "notes": "Importado del save · 16h 5m jugadas · 130,570₽ · vidas en el juego: 23",
   "team": [
     {
       "nickname": "Kowalski",
@@ -640,7 +640,7 @@
       "shiny": false,
       "moves": [
         "Escudo Real",
-        "Beso Drenaje",
+        "Brillo Mágico",
         "Cola Férrea",
         "Acua Cola"
       ],
@@ -761,18 +761,27 @@
         "Acua Cola",
         "Aire Afilado",
         "Batido",
+        "Bomba Lodo",
+        "Brillo Mágico",
         "Cerrojo Feérico",
         "Ciclón",
+        "Clemencia",
+        "Colmillo Veneno",
         "Copión",
         "Daño Secreto",
+        "Encanto",
         "Escudo Real",
+        "Fertilizante",
         "Ladrón",
+        "Legado",
+        "Moluscañón",
         "Motivación",
         "Pesadilla",
         "Pulso Noche",
         "Rayo Señal",
         "Sonámbulo",
-        "Trampa Rocas"
+        "Trampa Rocas",
+        "Viento Feérico"
       ],
       "firstMoves": [
         "Giro Vil",
