@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 13h 15m jugadas · 130,570₽ · vidas en el juego: 23",
+  "notes": "Importado del save · 14h 23m jugadas · 130,570₽ · vidas en el juego: 23",
   "team": [
     {
       "nickname": "Izan",
@@ -36,7 +36,7 @@
         33,
         76,
         50,
-        46,
+        47,
         54,
         69
       ],
@@ -194,7 +194,7 @@
         10,
         29,
         16,
-        16,
+        17,
         17,
         23
       ],
@@ -343,7 +343,7 @@
         15,
         50,
         30,
-        26,
+        27,
         32,
         43
       ],
@@ -498,7 +498,7 @@
         10,
         36,
         20,
-        18,
+        19,
         19,
         25
       ],
@@ -654,7 +654,7 @@
         2,
         7,
         2,
-        2,
+        3,
         6,
         4
       ],
@@ -813,7 +813,7 @@
         21,
         58,
         32,
-        33,
+        34,
         35,
         44
       ],
@@ -3602,6 +3602,109 @@
       "spriteKey": "CHERRIM"
     },
     {
+      "nickname": "Manyo",
+      "species": "Cherubi",
+      "level": 5,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Piel Tétrica",
+      "nature": "Activa",
+      "item": "",
+      "shiny": true,
+      "moves": [
+        "Bruma Explosiva",
+        "Giro Fuego",
+        "Bomba Ácida"
+      ],
+      "iv": [
+        13,
+        25,
+        8,
+        22,
+        3,
+        30
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Piel Tétrica"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Bruma Explosiva"
+        },
+        {
+          "lvl": 1,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 5,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 10,
+          "m": "Hierba Lazo"
+        },
+        {
+          "lvl": 15,
+          "m": "Fijar Blanco"
+        },
+        {
+          "lvl": 20,
+          "m": "Descanso"
+        },
+        {
+          "lvl": 22,
+          "m": "Sonámbulo"
+        },
+        {
+          "lvl": 26,
+          "m": "Imitación"
+        },
+        {
+          "lvl": 30,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 35,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 40,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 40,
+          "m": "Llama Final"
+        },
+        {
+          "lvl": 45,
+          "m": "Acua Cola"
+        }
+      ],
+      "tmMoves": [
+        "Ladrón",
+        "Tajo Metralla",
+        "Venganza"
+      ],
+      "firstMoves": [
+        "Bruma Explosiva",
+        "Giro Fuego",
+        "Bomba Ácida"
+      ],
+      "spriteKey": "CHERUBI",
+      "dup": true
+    },
+    {
       "nickname": "Milo",
       "species": "Feraligatr",
       "level": 35,
@@ -4540,6 +4643,17 @@
       "mon": "Cherrim"
     },
     {
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Cherubi",
+      "nickname": "Manyo",
+      "shiny": true,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 5,
+      "mon": "Cherubi"
+    },
+    {
       "route": "ciudad_plateada",
       "where": "Ciudad Plateada",
       "species": "Feraligatr",
@@ -5219,7 +5333,7 @@
       {
         "id": "POKEBALL",
         "name": "Poké Ball",
-        "qty": 6,
+        "qty": 5,
         "pocket": "Poké Balls"
       },
       {
@@ -5243,7 +5357,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 21,
+        "qty": 20,
         "pocket": "Poké Balls"
       },
       {
