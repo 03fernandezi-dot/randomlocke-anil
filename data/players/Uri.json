@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 10h 38m jugadas · 163,970₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 10h 50m jugadas · 175,000₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Izan",
@@ -34,11 +34,11 @@
       ],
       "ev": [
         31,
-        70,
-        44,
-        42,
-        44,
-        63
+        71,
+        48,
+        45,
+        49,
+        67
       ],
       "abilPool": [
         "Velo Aroma"
@@ -193,11 +193,11 @@
       ],
       "ev": [
         8,
-        28,
-        14,
+        29,
+        18,
+        16,
         13,
-        8,
-        19
+        23
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -348,11 +348,11 @@
       ],
       "ev": [
         8,
-        21,
-        10,
+        22,
+        14,
+        14,
         11,
-        6,
-        17
+        21
       ],
       "abilPool": [
         "Albino",
@@ -447,7 +447,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 38,
+      "level": 39,
       "types": [
         "Fuego",
         "Psíquico"
@@ -472,11 +472,11 @@
       ],
       "ev": [
         13,
-        42,
+        43,
+        28,
         24,
-        21,
-        21,
-        37
+        26,
+        41
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -592,7 +592,7 @@
     {
       "nickname": "Casper",
       "species": "Cofagrigus",
-      "level": 38,
+      "level": 39,
       "types": [
         "Fantasma"
       ],
@@ -616,11 +616,11 @@
       ],
       "ev": [
         8,
-        21,
-        10,
+        22,
+        14,
+        14,
         11,
-        6,
-        17
+        21
       ],
       "abilPool": [
         "Colector"
@@ -745,11 +745,11 @@
       ],
       "ev": [
         19,
-        50,
-        26,
-        28,
-        24,
-        38
+        51,
+        30,
+        31,
+        29,
+        42
       ],
       "abilPool": [
         "Perro Guardián"
@@ -4519,9 +4519,13 @@
       96,
       97,
       98,
-      99,
       100,
       101,
+      102,
+      103,
+      104,
+      105,
+      106,
       110,
       112,
       113,
@@ -4612,6 +4616,7 @@
       "MO Golpe Roca",
       "MT04",
       "MT06",
+      "MT08",
       "MT101",
       "MT102",
       "MT103",
@@ -4623,6 +4628,7 @@
       "MT116",
       "MT12",
       "MT122",
+      "MT14",
       "MT20",
       "MT26",
       "MT30",
@@ -4672,6 +4678,7 @@
       "Piedra Trueno",
       "Poción",
       "Poké Ball",
+      "Poké Flauta",
       "Poké Montura",
       "Poké Muñeco",
       "Porcehelado",
@@ -5036,6 +5043,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM08",
+        "name": "MT08",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM11",
         "name": "MT11",
         "qty": 1,
@@ -5044,6 +5057,12 @@
       {
         "id": "TM12",
         "name": "MT12",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM14",
+        "name": "MT14",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -5512,6 +5531,12 @@
       {
         "id": "BONOBICI",
         "name": "Bono Bici",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "POKEFLUTE",
+        "name": "Poké Flauta",
         "qty": 1,
         "pocket": "Objetos clave"
       }
