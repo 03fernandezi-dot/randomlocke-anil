@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 10h 50m jugadas · 175,000₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 11h 24m jugadas · 106,000₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Izan",
@@ -454,11 +454,11 @@
       ],
       "ability": "Unidad Ecuestre",
       "nature": "Activa",
-      "item": "Llamasfera",
+      "item": "Chaleco Asalto",
       "shiny": false,
       "moves": [
         "Psicocorte",
-        "Golpe Bajo",
+        "Puño Sombra",
         "Calcinación",
         "Aire Afilado"
       ],
@@ -569,16 +569,26 @@
         "Alivio",
         "Ascuas",
         "Batido",
+        "Bomba Lodo",
+        "Brillo Mágico",
+        "Clemencia",
+        "Cola Veneno",
+        "Doble Golpe",
         "Escalofrío",
         "Escudo Real",
+        "Fertilizante",
         "Látigo Ígneo",
+        "Mil Temblores",
+        "Moluscañón",
         "Motivación",
         "Pesadilla",
         "Poder Pasado",
+        "Puño Sombra",
         "Salazón",
         "Sorpresa",
         "Tajo Metralla",
         "Trampa Rocas",
+        "Viento Feérico",
         "Voz Cautivadora"
       ],
       "firstMoves": [
@@ -590,130 +600,161 @@
       "spriteKey": "ARMAROUGE"
     },
     {
-      "nickname": "Casper",
-      "species": "Cofagrigus",
+      "nickname": "Kowalski",
+      "species": "Empoleon",
       "level": 39,
       "types": [
-        "Fantasma"
+        "Agua",
+        "Acero"
       ],
-      "ability": "Colector",
-      "nature": "Amable",
-      "item": "Seguro Fallo",
+      "ability": "Hurto",
+      "nature": "Alocada",
+      "item": "Periscopio",
       "shiny": false,
       "moves": [
-        "Infierno",
-        "Rayo Señal",
-        "Cañón Batidor",
-        "Viento Aciago"
+        "Pulso Umbrío",
+        "Escudo Real",
+        "Vapodrenaje",
+        "Moluscañón"
       ],
       "iv": [
-        30,
-        1,
+        27,
+        4,
         14,
-        2,
         24,
-        1
+        4,
+        15
       ],
       "ev": [
-        8,
-        22,
-        14,
-        14,
-        11,
-        21
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
       ],
       "abilPool": [
-        "Colector"
+        "Hurto"
       ],
-      "abilHidden": [],
+      "abilHidden": [
+        "Remoto"
+      ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Danza Pluma"
+          "lvl": -1,
+          "m": "Beso Dulce"
         },
         {
           "lvl": 1,
-          "m": "Sombra Vil"
+          "m": "Eco Metálico"
         },
         {
           "lvl": 1,
-          "m": "Puño Furia"
+          "m": "Polvo Explosivo"
         },
         {
           "lvl": 1,
-          "m": "Mismo Destino"
+          "m": "A Defender"
         },
         {
           "lvl": 1,
-          "m": "Agarre"
+          "m": "Agua Fría"
         },
         {
           "lvl": 1,
-          "m": "Absorbefuerza"
+          "m": "Rayo Confuso"
         },
         {
-          "lvl": 12,
-          "m": "Infortunio"
+          "lvl": 1,
+          "m": "Refuerzo"
         },
         {
-          "lvl": 16,
-          "m": "Finta"
+          "lvl": 1,
+          "m": "Batido"
         },
         {
-          "lvl": 20,
-          "m": "Fotosíntesis"
+          "lvl": 11,
+          "m": "Doble Ataque"
+        },
+        {
+          "lvl": 15,
+          "m": "Empapar"
+        },
+        {
+          "lvl": 19,
+          "m": "Cambiadefensa"
         },
         {
           "lvl": 24,
-          "m": "Giro Vil"
-        },
-        {
-          "lvl": 25,
-          "m": "Alquitranazo"
+          "m": "Cerrojo Feérico"
         },
         {
           "lvl": 28,
-          "m": "Cambio de Banda"
+          "m": "Metrónomo"
         },
         {
-          "lvl": 32,
-          "m": "Ataque Furia"
+          "lvl": 33,
+          "m": "Ataque Óseo"
         },
         {
-          "lvl": 38,
-          "m": "Garra Umbría"
+          "lvl": 39,
+          "m": "Vapodrenaje"
         },
         {
-          "lvl": 44,
-          "m": "Campo Psíquico"
+          "lvl": 46,
+          "m": "Golpe Cabeza"
         },
         {
-          "lvl": 50,
-          "m": "Clemencia"
+          "lvl": 52,
+          "m": "Vendaval"
         },
         {
-          "lvl": 56,
-          "m": "Puño Sombra"
+          "lvl": 59,
+          "m": "Retracción"
         },
         {
-          "lvl": 56,
-          "m": "Hidrovapor"
+          "lvl": 64,
+          "m": "Al Ataque"
         },
         {
-          "lvl": 62,
-          "m": "Poltergeist"
+          "lvl": 66,
+          "m": "Aura Magnética"
         }
       ],
       "tmMoves": [
-        "Corpulencia"
+        "Acua Cola",
+        "Adaptación",
+        "Agarre",
+        "Bomba Fango",
+        "Cañón Batidor",
+        "Clemencia",
+        "Daño Secreto",
+        "Doble Golpe",
+        "Escudo Real",
+        "Espora",
+        "Ida y Vuelta",
+        "Impactrueno",
+        "Látigo Ígneo",
+        "Legado",
+        "Mil Temblores",
+        "Moluscañón",
+        "Motivación",
+        "Rayo Confuso",
+        "Rayo Señal",
+        "Salazón",
+        "Señuelo",
+        "Sorpresa",
+        "Tajo Metralla",
+        "Venganza",
+        "Viento Feérico"
       ],
       "firstMoves": [
-        "Ataque Arena",
-        "Disparo Demora",
-        "Deslumbrar",
-        "Mil Púas Tóxicas"
+        "Viraje",
+        "Resarcimiento",
+        "Zona Mágica",
+        "Cornada"
       ],
-      "spriteKey": "COFAGRIGUS"
+      "spriteKey": "EMPOLEON"
     },
     {
       "nickname": "Rammus",
@@ -3189,7 +3230,7 @@
         "Planta",
         "Volador"
       ],
-      "ability": "",
+      "ability": "Alma Errante",
       "nature": "Afable",
       "item": "",
       "shiny": false,
@@ -3409,156 +3450,6 @@
       "spriteKey": "CHERRIM"
     },
     {
-      "nickname": "Kowalski",
-      "species": "Empoleon",
-      "level": 36,
-      "types": [
-        "Agua",
-        "Acero"
-      ],
-      "ability": "Hurto",
-      "nature": "Alocada",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Pulso Umbrío",
-        "Escudo Real",
-        "Agua Fría",
-        "Cañón Batidor"
-      ],
-      "iv": [
-        27,
-        4,
-        14,
-        24,
-        4,
-        15
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        2
-      ],
-      "abilPool": [
-        "Hurto"
-      ],
-      "abilHidden": [
-        "Remoto"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Beso Dulce"
-        },
-        {
-          "lvl": 1,
-          "m": "Eco Metálico"
-        },
-        {
-          "lvl": 1,
-          "m": "Polvo Explosivo"
-        },
-        {
-          "lvl": 1,
-          "m": "A Defender"
-        },
-        {
-          "lvl": 1,
-          "m": "Agua Fría"
-        },
-        {
-          "lvl": 1,
-          "m": "Rayo Confuso"
-        },
-        {
-          "lvl": 1,
-          "m": "Refuerzo"
-        },
-        {
-          "lvl": 1,
-          "m": "Batido"
-        },
-        {
-          "lvl": 11,
-          "m": "Doble Ataque"
-        },
-        {
-          "lvl": 15,
-          "m": "Empapar"
-        },
-        {
-          "lvl": 19,
-          "m": "Cambiadefensa"
-        },
-        {
-          "lvl": 24,
-          "m": "Cerrojo Feérico"
-        },
-        {
-          "lvl": 28,
-          "m": "Metrónomo"
-        },
-        {
-          "lvl": 33,
-          "m": "Ataque Óseo"
-        },
-        {
-          "lvl": 39,
-          "m": "Vapodrenaje"
-        },
-        {
-          "lvl": 46,
-          "m": "Golpe Cabeza"
-        },
-        {
-          "lvl": 52,
-          "m": "Vendaval"
-        },
-        {
-          "lvl": 59,
-          "m": "Retracción"
-        },
-        {
-          "lvl": 64,
-          "m": "Al Ataque"
-        },
-        {
-          "lvl": 66,
-          "m": "Aura Magnética"
-        }
-      ],
-      "tmMoves": [
-        "Acua Cola",
-        "Adaptación",
-        "Agarre",
-        "Bomba Fango",
-        "Cañón Batidor",
-        "Daño Secreto",
-        "Escudo Real",
-        "Espora",
-        "Ida y Vuelta",
-        "Látigo Ígneo",
-        "Motivación",
-        "Rayo Confuso",
-        "Rayo Señal",
-        "Salazón",
-        "Señuelo",
-        "Sorpresa",
-        "Tajo Metralla",
-        "Venganza"
-      ],
-      "firstMoves": [
-        "Viraje",
-        "Resarcimiento",
-        "Zona Mágica",
-        "Cornada"
-      ],
-      "spriteKey": "EMPOLEON"
-    },
-    {
       "nickname": "Milo",
       "species": "Feraligatr",
       "level": 35,
@@ -3704,6 +3595,132 @@
         "Defensa Floral"
       ],
       "spriteKey": "FERALIGATR"
+    },
+    {
+      "nickname": "Casper",
+      "species": "Cofagrigus",
+      "level": 39,
+      "types": [
+        "Fantasma"
+      ],
+      "ability": "Colector",
+      "nature": "Amable",
+      "item": "Hechizo",
+      "shiny": false,
+      "moves": [
+        "Infierno",
+        "Rayo Señal",
+        "Cañón Batidor",
+        "Viento Aciago"
+      ],
+      "iv": [
+        30,
+        1,
+        14,
+        2,
+        24,
+        1
+      ],
+      "ev": [
+        8,
+        22,
+        14,
+        14,
+        11,
+        21
+      ],
+      "abilPool": [
+        "Colector"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Danza Pluma"
+        },
+        {
+          "lvl": 1,
+          "m": "Sombra Vil"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 1,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 1,
+          "m": "Agarre"
+        },
+        {
+          "lvl": 1,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 12,
+          "m": "Infortunio"
+        },
+        {
+          "lvl": 16,
+          "m": "Finta"
+        },
+        {
+          "lvl": 20,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 24,
+          "m": "Giro Vil"
+        },
+        {
+          "lvl": 25,
+          "m": "Alquitranazo"
+        },
+        {
+          "lvl": 28,
+          "m": "Cambio de Banda"
+        },
+        {
+          "lvl": 32,
+          "m": "Ataque Furia"
+        },
+        {
+          "lvl": 38,
+          "m": "Garra Umbría"
+        },
+        {
+          "lvl": 44,
+          "m": "Campo Psíquico"
+        },
+        {
+          "lvl": 50,
+          "m": "Clemencia"
+        },
+        {
+          "lvl": 56,
+          "m": "Puño Sombra"
+        },
+        {
+          "lvl": 56,
+          "m": "Hidrovapor"
+        },
+        {
+          "lvl": 62,
+          "m": "Poltergeist"
+        }
+      ],
+      "tmMoves": [
+        "Corpulencia"
+      ],
+      "firstMoves": [
+        "Ataque Arena",
+        "Disparo Demora",
+        "Deslumbrar",
+        "Mil Púas Tóxicas"
+      ],
+      "spriteKey": "COFAGRIGUS"
     }
   ],
   "graveyard": [
@@ -4107,15 +4124,15 @@
       "mon": "Armarouge"
     },
     {
-      "route": "ruta_4",
-      "where": "Ruta 4",
-      "species": "Cofagrigus",
-      "nickname": "Casper",
+      "route": "tunel_roca",
+      "where": "Túnel Roca",
+      "species": "Empoleon",
+      "nickname": "Kowalski",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 18,
-      "mon": "Cofagrigus"
+      "level": 29,
+      "mon": "Empoleon"
     },
     {
       "route": "ruta_5",
@@ -4360,17 +4377,6 @@
       "mon": "Cherrim"
     },
     {
-      "route": "tunel_roca",
-      "where": "Túnel Roca",
-      "species": "Empoleon",
-      "nickname": "Kowalski",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 29,
-      "mon": "Empoleon"
-    },
-    {
       "route": "ciudad_plateada",
       "where": "Ciudad Plateada",
       "species": "Feraligatr",
@@ -4380,6 +4386,17 @@
       "category": "ciudad",
       "level": 10,
       "mon": "Feraligatr"
+    },
+    {
+      "route": "ruta_4",
+      "where": "Ruta 4",
+      "species": "Cofagrigus",
+      "nickname": "Casper",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 18,
+      "mon": "Cofagrigus"
     },
     {
       "route": "ruta_22",
@@ -4426,7 +4443,7 @@
     "routes": {
       "ruta_15": true,
       "tunel_diglett": true,
-      "ruta_4": true,
+      "tunel_roca": true,
       "ruta_5": true,
       "ruta_9": true,
       "ruta_2_norte": true,
@@ -4445,8 +4462,8 @@
       "ciudad_verde": true,
       "ciudad_azulona": true,
       "ruta_1": true,
-      "tunel_roca": true,
       "ciudad_plateada": true,
+      "ruta_4": true,
       "ruta_22": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
@@ -4570,14 +4587,17 @@
       "Baya Pasio",
       "Baya Perasi",
       "Baya Uvav",
+      "Baya Zidra",
       "Bloque de Turba",
       "Bola de Nieve",
       "Bola Luminosa",
       "Bono Bici",
+      "Botón Escape",
       "Brazal Firme",
       "Caramelo Furia",
       "Carburante",
       "Cenizas Sagradas",
+      "Chaleco Asalto",
       "Cinta Aguante",
       "Cola Plúmbea",
       "Colmillo Agudo",
@@ -4614,6 +4634,7 @@
       "Miniseta",
       "MO Corte",
       "MO Golpe Roca",
+      "Monedero",
       "MT04",
       "MT06",
       "MT08",
@@ -4633,6 +4654,7 @@
       "MT26",
       "MT30",
       "MT31",
+      "MT34",
       "MT36",
       "MT39",
       "MT40",
@@ -4833,12 +4855,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "SPELLTAG",
-        "name": "Hechizo",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "FIGHTINGGEM",
         "name": "Gema Lucha",
         "qty": 1,
@@ -4887,12 +4903,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "SCOPELENS",
-        "name": "Periscopio",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "ADAMANTCRYSTAL",
         "name": "Gran Diamansfera",
         "qty": 1,
@@ -4905,9 +4915,27 @@
         "pocket": "Objetos"
       },
       {
+        "id": "EJECTBUTTON",
+        "name": "Botón Escape",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FLAMEORB",
+        "name": "Llamasfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BLUNDERPOLICY",
+        "name": "Seguro Fallo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 694,
+        "qty": 691,
         "pocket": "Medicinas"
       },
       {
@@ -4991,7 +5019,7 @@
       {
         "id": "REPEATBALL",
         "name": "Acopio Ball",
-        "qty": 1,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
@@ -5003,7 +5031,7 @@
       {
         "id": "HEALBALL",
         "name": "Sana Ball",
-        "qty": 2,
+        "qty": 7,
         "pocket": "Poké Balls"
       },
       {
@@ -5015,19 +5043,103 @@
       {
         "id": "FASTBALL",
         "name": "Rapid Ball",
-        "qty": 1,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
         "id": "SPORTBALL",
         "name": "Competi Ball",
-        "qty": 1,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 1,
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "SAFARIBALL",
+        "name": "Safari Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "LOVEBALL",
+        "name": "Amor Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "DREAMBALL",
+        "name": "Ensueño Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "MOONBALL",
+        "name": "Luna Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "FRIENDBALL",
+        "name": "Amigo Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "HEAVYBALL",
+        "name": "Peso Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "LUREBALL",
+        "name": "Cebo Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "LEVELBALL",
+        "name": "Nivel Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "LUXURYBALL",
+        "name": "Lujo Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "NESTBALL",
+        "name": "Nido Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "DIVEBALL",
+        "name": "Buceo Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "NETBALL",
+        "name": "Malla Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "DUSKBALL",
+        "name": "Ocaso Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "TIMERBALL",
+        "name": "Turno Ball",
+        "qty": 5,
         "pocket": "Poké Balls"
       },
       {
@@ -5087,6 +5199,12 @@
       {
         "id": "TM31",
         "name": "MT31",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM34",
+        "name": "MT34",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -5349,6 +5467,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "SITRUSBERRY",
+        "name": "Baya Zidra",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "MAGOBERRY",
         "name": "Baya Ango",
         "qty": 1,
@@ -5537,6 +5661,12 @@
       {
         "id": "POKEFLUTE",
         "name": "Poké Flauta",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "COINCASE",
+        "name": "Monedero",
         "qty": 1,
         "pocket": "Objetos clave"
       }
