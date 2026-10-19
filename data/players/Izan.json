@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 49m jugadas · 560₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 1h 20m jugadas · 11,550₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Bombardini",
       "species": "Fuecoco",
-      "level": 12,
+      "level": 15,
       "types": [
         "Fuego"
       ],
@@ -20,7 +20,7 @@
       "moves": [
         "Calcinación",
         "Paralizador",
-        "Gas Corrosivo",
+        "Llama Protectora",
         "Bálsamo Osado"
       ],
       "iv": [
@@ -32,12 +32,12 @@
         31
       ],
       "ev": [
-        4,
-        3,
-        4,
-        3,
+        6,
         5,
-        2
+        5,
+        9,
+        8,
+        4
       ],
       "abilPool": [
         "Enjambre"
@@ -105,123 +105,127 @@
       "spriteKey": "FUECOCO"
     },
     {
-      "nickname": "Carabinero",
-      "species": "Carvanha",
-      "level": 10,
+      "nickname": "FreakyNikki",
+      "species": "Froakie",
+      "level": 15,
       "types": [
-        "Agua",
-        "Siniestro"
+        "Agua"
       ],
-      "ability": "Sebo",
-      "nature": "Dócil",
+      "ability": "Mudar",
+      "nature": "Floja",
       "item": "",
       "shiny": false,
       "moves": [
-        "Vendetta",
         "Puño Jet",
-        "Escalofrío",
-        "Ataque Ala"
+        "Aguijón Letal",
+        "Bomba Ácida",
+        "Rayo Burbuja"
       ],
       "iv": [
-        20,
+        3,
         2,
-        28,
-        10,
-        6,
-        6
+        21,
+        4,
+        7,
+        22
       ],
       "ev": [
-        4,
         2,
-        4,
-        3,
+        2,
+        1,
         5,
-        2
+        2,
+        1
       ],
       "abilPool": [
-        "Anticipación",
-        "Sebo"
+        "Mudar"
       ],
       "abilHidden": [
-        "Electrogénesis"
+        "Manto Níveo"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Vendetta"
+          "m": "Colmillo Veneno"
         },
         {
           "lvl": 1,
-          "m": "Celebración"
-        },
-        {
-          "lvl": 4,
-          "m": "Escalofrío"
+          "m": "Rayo Burbuja"
         },
         {
           "lvl": 6,
-          "m": "Tinieblas"
+          "m": "Ataque Arena"
+        },
+        {
+          "lvl": 7,
+          "m": "Aguijón Letal"
         },
         {
           "lvl": 8,
-          "m": "Manos Juntas"
+          "m": "Bomba Ácida"
         },
         {
-          "lvl": 12,
-          "m": "Burbuja"
+          "lvl": 10,
+          "m": "Aura Magnética"
         },
         {
-          "lvl": 16,
-          "m": "Giro Mortífero"
+          "lvl": 14,
+          "m": "Restricción"
         },
         {
-          "lvl": 20,
-          "m": "Acua Jet"
+          "lvl": 18,
+          "m": "Viento Feérico"
         },
         {
-          "lvl": 24,
-          "m": "Canon"
+          "lvl": 21,
+          "m": "Afilagarras"
         },
         {
-          "lvl": 26,
-          "m": "Colmillo Ígneo"
+          "lvl": 25,
+          "m": "Chulería"
         },
         {
-          "lvl": 28,
-          "m": "Bomba Fango"
+          "lvl": 25,
+          "m": "Vaho Gélido"
         },
         {
-          "lvl": 32,
-          "m": "Onda Trueno"
+          "lvl": 29,
+          "m": "Torbellino"
         },
         {
-          "lvl": 36,
-          "m": "Disparo Lodo"
+          "lvl": 35,
+          "m": "Cambiavelocidad"
         },
         {
-          "lvl": 40,
-          "m": "Día Soleado"
+          "lvl": 39,
+          "m": "Triturar"
         },
         {
-          "lvl": 44,
-          "m": "Cerco Dimensión"
+          "lvl": 43,
+          "m": "Meditación"
+        },
+        {
+          "lvl": 48,
+          "m": "Camelo"
         }
       ],
       "tmMoves": [
-        "Ataque Ala",
-        "Puño Jet"
+        "Golpes Furia",
+        "Puño Jet",
+        "Tinieblas"
       ],
       "firstMoves": [
-        "Vendetta",
-        "Celebración",
-        "Escalofrío"
+        "Ataque Arena",
+        "Aguijón Letal",
+        "Bomba Ácida",
+        "Aura Magnética"
       ],
-      "spriteKey": "CARVANHA"
+      "spriteKey": "FROAKIE"
     },
     {
       "nickname": "ReisyourFAFA",
       "species": "Flabebe",
-      "level": 10,
+      "level": 15,
       "types": [
         "Hada"
       ],
@@ -232,7 +236,7 @@
       "moves": [
         "Lanzarrocas",
         "Ronquido",
-        "Cerrojo Feérico",
+        "Somnífero",
         "Homenaje Póstumo"
       ],
       "iv": [
@@ -244,12 +248,12 @@
         12
       ],
       "ev": [
+        6,
         4,
-        2,
-        4,
-        3,
-        4,
-        2
+        5,
+        9,
+        7,
+        4
       ],
       "abilPool": [
         "Pelusa"
@@ -341,7 +345,7 @@
     {
       "nickname": "Frigopie",
       "species": "Frigibax",
-      "level": 10,
+      "level": 14,
       "types": [
         "Dragón",
         "Hielo"
@@ -365,12 +369,12 @@
         6
       ],
       "ev": [
-        4,
-        1,
-        4,
+        6,
         3,
-        4,
-        2
+        5,
+        9,
+        7,
+        4
       ],
       "abilPool": [
         "Flexibilidad"
@@ -446,7 +450,7 @@
     {
       "nickname": "urichupamela",
       "species": "Spheal",
-      "level": 12,
+      "level": 15,
       "types": [
         "Hielo",
         "Agua"
@@ -470,12 +474,12 @@
         2
       ],
       "ev": [
+        5,
         3,
-        1,
-        4,
-        3,
-        4,
-        2
+        5,
+        9,
+        7,
+        4
       ],
       "abilPool": [
         "Impulso",
@@ -562,12 +566,13 @@
     },
     {
       "nickname": "Laura",
-      "species": "Spewpa",
-      "level": 7,
+      "species": "Vivillon",
+      "level": 15,
       "types": [
-        "Bicho"
+        "Bicho",
+        "Volador"
       ],
-      "ability": "General Supremo",
+      "ability": "Velo Aroma",
       "nature": "Mansa",
       "item": "",
       "shiny": false,
@@ -584,6 +589,127 @@
         20
       ],
       "ev": [
+        2,
+        2,
+        1,
+        6,
+        3,
+        2
+      ],
+      "abilPool": [
+        "Velo Aroma",
+        "Tintineo"
+      ],
+      "abilHidden": [
+        "Esclusa de Aire"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Reversión"
+        },
+        {
+          "lvl": 1,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 1,
+          "m": "Llave Giro"
+        },
+        {
+          "lvl": 1,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 1,
+          "m": "Asalto Barrera"
+        },
+        {
+          "lvl": 12,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 17,
+          "m": "Autosugestión"
+        },
+        {
+          "lvl": 21,
+          "m": "Danza Caos"
+        },
+        {
+          "lvl": 21,
+          "m": "Paga Extra"
+        },
+        {
+          "lvl": 25,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 28,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 31,
+          "m": "Manto Espejo"
+        },
+        {
+          "lvl": 31,
+          "m": "Fuerza Bruta"
+        },
+        {
+          "lvl": 35,
+          "m": "Electrotela"
+        },
+        {
+          "lvl": 45,
+          "m": "Disparo Demora"
+        },
+        {
+          "lvl": 50,
+          "m": "Rayo Señal"
+        },
+        {
+          "lvl": 55,
+          "m": "Coraza Trampa"
+        }
+      ],
+      "tmMoves": [
+        "Puño Jet"
+      ],
+      "firstMoves": [
+        "Espacio Raro",
+        "Voltiocambio"
+      ],
+      "spriteKey": "VIVILLON_3"
+    }
+  ],
+  "box": [
+    {
+      "nickname": "Nata Montana",
+      "species": "Milcery",
+      "level": 10,
+      "types": [
+        "Hada"
+      ],
+      "ability": "Realeza",
+      "nature": "Activa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cepo",
+        "Campo Psíquico",
+        "Beso Drenaje",
+        "Búnker"
+      ],
+      "iv": [
+        15,
+        6,
+        24,
+        0,
+        21,
+        18
+      ],
+      "ev": [
         0,
         0,
         0,
@@ -592,30 +718,203 @@
         0
       ],
       "abilPool": [
-        "General Supremo",
-        "Vigilante"
+        "Realeza"
       ],
       "abilHidden": [
-        "Caldero Debacle"
+        "Francotirador"
       ],
       "learnset": [
         {
-          "lvl": -1,
-          "m": "Polución"
+          "lvl": 1,
+          "m": "Ojitos Tiernos"
         },
         {
           "lvl": 1,
-          "m": "Espacio Raro"
+          "m": "Cepo"
+        },
+        {
+          "lvl": 1,
+          "m": "Campo Psíquico"
+        },
+        {
+          "lvl": 5,
+          "m": "Beso Drenaje"
+        },
+        {
+          "lvl": 10,
+          "m": "Búnker"
+        },
+        {
+          "lvl": 15,
+          "m": "Llave Giro"
+        },
+        {
+          "lvl": 20,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 20,
+          "m": "Auxilio"
+        },
+        {
+          "lvl": 25,
+          "m": "Picotazo Veneno"
+        },
+        {
+          "lvl": 30,
+          "m": "Brecha Negra"
+        },
+        {
+          "lvl": 30,
+          "m": "Vaho Gélido"
+        },
+        {
+          "lvl": 35,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 40,
+          "m": "Brillo Mágico"
+        },
+        {
+          "lvl": 45,
+          "m": "Vasta Guardia"
+        },
+        {
+          "lvl": 45,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 50,
+          "m": "Espada Santa"
         }
       ],
-      "firstMoves": [
-        "Espacio Raro",
-        "Voltiocambio"
+      "tmMoves": [
+        "Reducción"
       ],
-      "spriteKey": "SPEWPA_3"
+      "firstMoves": [
+        "Cepo",
+        "Campo Psíquico",
+        "Beso Drenaje",
+        "Búnker"
+      ],
+      "spriteKey": "MILCERY"
+    },
+    {
+      "nickname": "Carabinero",
+      "species": "Carvanha",
+      "level": 14,
+      "types": [
+        "Agua",
+        "Siniestro"
+      ],
+      "ability": "Sebo",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Vendetta",
+        "Puño Jet",
+        "Escalofrío",
+        "Ataque Ala"
+      ],
+      "iv": [
+        20,
+        2,
+        28,
+        10,
+        6,
+        6
+      ],
+      "ev": [
+        4,
+        2,
+        4,
+        4,
+        6,
+        3
+      ],
+      "abilPool": [
+        "Anticipación",
+        "Sebo"
+      ],
+      "abilHidden": [
+        "Electrogénesis"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Vendetta"
+        },
+        {
+          "lvl": 1,
+          "m": "Celebración"
+        },
+        {
+          "lvl": 4,
+          "m": "Escalofrío"
+        },
+        {
+          "lvl": 6,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 8,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 12,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 16,
+          "m": "Giro Mortífero"
+        },
+        {
+          "lvl": 20,
+          "m": "Acua Jet"
+        },
+        {
+          "lvl": 24,
+          "m": "Canon"
+        },
+        {
+          "lvl": 26,
+          "m": "Colmillo Ígneo"
+        },
+        {
+          "lvl": 28,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 32,
+          "m": "Onda Trueno"
+        },
+        {
+          "lvl": 36,
+          "m": "Disparo Lodo"
+        },
+        {
+          "lvl": 40,
+          "m": "Día Soleado"
+        },
+        {
+          "lvl": 44,
+          "m": "Cerco Dimensión"
+        }
+      ],
+      "tmMoves": [
+        "Ataque Ala",
+        "Puño Jet"
+      ],
+      "firstMoves": [
+        "Vendetta",
+        "Celebración",
+        "Escalofrío"
+      ],
+      "spriteKey": "CARVANHA"
     }
   ],
-  "box": [],
   "graveyard": [],
   "captures": [
     {
@@ -630,15 +929,15 @@
       "mon": "Fuecoco"
     },
     {
-      "route": "pueblo_paleta",
-      "where": "Pueblo Paleta",
-      "species": "Carvanha",
-      "nickname": "Carabinero",
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Froakie",
+      "nickname": "FreakyNikki",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
-      "level": 4,
-      "mon": "Carvanha"
+      "level": 10,
+      "mon": "Froakie"
     },
     {
       "route": "ruta_1",
@@ -676,27 +975,52 @@
     {
       "route": "ruta_2_norte",
       "where": "Ruta 2 Norte",
-      "species": "Spewpa",
+      "species": "Vivillon",
       "nickname": "Laura",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 7,
-      "mon": "Spewpa"
+      "mon": "Vivillon"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Milcery",
+      "nickname": "Nata Montana",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Milcery"
+    },
+    {
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Carvanha",
+      "nickname": "Carabinero",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 4,
+      "mon": "Carvanha"
     }
   ],
   "progress": {
-    "gyms": {},
+    "gyms": {
+      "gym1": true
+    },
     "bosses": {},
     "npcs": {},
     "routes": {
-      "pueblo_paleta": true,
+      "ciudad_plateada": true,
       "ruta_1": true,
       "ciudad_verde": true,
       "ruta_2_sur": true,
       "ruta_2_norte": true,
+      "pueblo_paleta": true,
       "bosque_verde": true,
-      "ciudad_plateada": true
+      "ruta_3": true
     },
     "items": {},
     "encounters": {
@@ -705,7 +1029,8 @@
       "ciudad_verde": true,
       "ruta_2_sur": true,
       "bosque_verde": true,
-      "ruta_2_norte": true
+      "ruta_2_norte": true,
+      "ciudad_plateada": true
     },
     "switches": [
       48,
@@ -719,12 +1044,15 @@
       71,
       110,
       112,
+      113,
+      114,
       176,
       179,
       180,
       181,
       182,
       183,
+      184,
       323,
       334
     ],
@@ -733,21 +1061,35 @@
       "Baya Lagro",
       "Baya Ziuela",
       "Baya Zreza",
+      "Bola Luminosa",
+      "Cenizas Sagradas",
       "Dulce de Nata",
       "Garra Garfio",
       "Globo Helio",
       "Hiperpoción",
+      "Incienso Puro",
       "Malasada Maxi",
       "Menta Amable",
       "Miniseta",
+      "MO Golpe Roca",
+      "MT06",
       "MT123",
       "MT14",
       "MT27",
+      "MT39",
       "MT41",
       "MT60",
+      "MT64",
       "MT83",
+      "MT89",
+      "MT94",
       "MT97",
+      "Parte Azul",
+      "Pepita",
       "Poké Montura",
+      "Polvo Metálico",
+      "Quitaestado",
+      "Radar",
       "Reglamento",
       "Supercaña",
       "Supercápsula",
@@ -782,6 +1124,30 @@
         "pocket": "Objetos"
       },
       {
+        "id": "BLUESHARD",
+        "name": "Parte Azul",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PUREINCENSE",
+        "name": "Incienso Puro",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LIGHTBALL",
+        "name": "Bola Luminosa",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "METALPOWDER",
+        "name": "Polvo Metálico",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HYPERPOTION",
         "name": "Hiperpoción",
         "qty": 1,
@@ -808,7 +1174,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 999,
+        "qty": 974,
         "pocket": "Medicinas"
       },
       {
@@ -824,6 +1190,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "CENIZASSAGRADAS",
+        "name": "Cenizas Sagradas",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 5,
@@ -832,8 +1204,14 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 8,
+        "qty": 1,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM06",
+        "name": "MT06",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "TM14",
@@ -844,6 +1222,12 @@
       {
         "id": "TM27",
         "name": "MT27",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM39",
+        "name": "MT39",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -860,8 +1244,26 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM64",
+        "name": "MT64",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM83",
         "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM89",
+        "name": "MT89",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM94",
+        "name": "MT94",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -908,6 +1310,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "RESETURGE",
+        "name": "Quitaestado",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -920,14 +1328,26 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
       {
         "id": "POKERIDER",
         "name": "Poké Montura",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "ROCKSMASHITEM",
+        "name": "MO Golpe Roca",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "RADAR",
+        "name": "Radar",
         "qty": 1,
         "pocket": "Objetos clave"
       }
