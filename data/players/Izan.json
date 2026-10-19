@@ -4,17 +4,17 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 2h 42m jugadas · 55,320₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 3h 0m jugadas · 60,380₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Pauet Pauet",
       "species": "Corvisquire",
-      "level": 18,
+      "level": 19,
       "types": [
         "Volador"
       ],
       "ability": "Piel Helada",
-      "nature": "Grosera",
+      "nature": "Floja",
       "item": "Brazal Recio",
       "shiny": false,
       "moves": [
@@ -23,6 +23,8 @@
         "Rizo Defensa",
         "Ráfaga Escamas"
       ],
+      "natureMint": true,
+      "natureBase": "Grosera",
       "iv": [
         25,
         6,
@@ -32,12 +34,12 @@
         9
       ],
       "ev": [
-        13,
+        14,
         252,
-        10,
+        11,
+        11,
         8,
-        6,
-        8
+        9
       ],
       "abilPool": [
         "Velo Pastel",
@@ -106,7 +108,7 @@
     {
       "nickname": "KillerQueen",
       "species": "Nidorina",
-      "level": 18,
+      "level": 19,
       "types": [
         "Veneno"
       ],
@@ -129,12 +131,12 @@
         22
       ],
       "ev": [
-        12,
-        12,
-        9,
-        8,
-        8,
-        8
+        13,
+        13,
+        10,
+        11,
+        10,
+        9
       ],
       "abilPool": [
         "Cuerpo Mortal",
@@ -214,7 +216,7 @@
     {
       "nickname": "El Lago",
       "species": "Ducklett",
-      "level": 17,
+      "level": 18,
       "types": [
         "Agua",
         "Volador"
@@ -240,12 +242,12 @@
         28
       ],
       "ev": [
-        11,
         12,
-        9,
-        8,
-        8,
-        8
+        13,
+        10,
+        11,
+        10,
+        9
       ],
       "abilPool": [
         "Pararrayos",
@@ -330,7 +332,7 @@
     {
       "nickname": "Alviiiiiin",
       "species": "Skwovet",
-      "level": 17,
+      "level": 18,
       "types": [
         "Normal"
       ],
@@ -353,12 +355,12 @@
         0
       ],
       "ev": [
-        10,
         11,
-        8,
-        6,
-        8,
-        7
+        12,
+        9,
+        9,
+        10,
+        8
       ],
       "abilPool": [
         "Expulsarena"
@@ -441,7 +443,7 @@
     {
       "nickname": "Totyyy vamss",
       "species": "Gimmighoul",
-      "level": 17,
+      "level": 18,
       "types": [
         "Fantasma"
       ],
@@ -463,12 +465,12 @@
         3
       ],
       "ev": [
+        11,
+        13,
+        9,
         10,
-        12,
-        8,
-        7,
-        8,
-        8
+        10,
+        9
       ],
       "abilPool": [
         "Aura Feérica"
@@ -499,7 +501,7 @@
     {
       "nickname": "El Onvre",
       "species": "Lombre",
-      "level": 17,
+      "level": 18,
       "types": [
         "Agua",
         "Planta"
@@ -525,12 +527,12 @@
         12
       ],
       "ev": [
-        4,
         5,
-        2,
-        2,
-        1,
-        5
+        6,
+        3,
+        5,
+        3,
+        6
       ],
       "abilPool": [
         "Hidratación",
@@ -855,6 +857,117 @@
       "spriteKey": "CLEFFA"
     },
     {
+      "nickname": "Babosín",
+      "species": "Shellos",
+      "level": 15,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Sombra Trampa",
+      "nature": "Ingenua",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Refugio",
+        "Obstrucción",
+        "Púas Tóxicas",
+        "Guardia Baja"
+      ],
+      "iv": [
+        18,
+        20,
+        14,
+        15,
+        7,
+        3
+      ],
+      "ev": [
+        5,
+        7,
+        6,
+        5,
+        7,
+        3
+      ],
+      "abilPool": [
+        "Rivalidad",
+        "Sombra Trampa"
+      ],
+      "abilHidden": [
+        "Insonorizar"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Refugio"
+        },
+        {
+          "lvl": 1,
+          "m": "Obstrucción"
+        },
+        {
+          "lvl": 2,
+          "m": "Día Soleado"
+        },
+        {
+          "lvl": 5,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 10,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 11,
+          "m": "Dulce Aroma"
+        },
+        {
+          "lvl": 15,
+          "m": "Tormento"
+        },
+        {
+          "lvl": 16,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 20,
+          "m": "Amago"
+        },
+        {
+          "lvl": 25,
+          "m": "Meditación"
+        },
+        {
+          "lvl": 31,
+          "m": "Polvo Mágico"
+        },
+        {
+          "lvl": 35,
+          "m": "Hipercolmillo"
+        },
+        {
+          "lvl": 40,
+          "m": "Cabezazo"
+        },
+        {
+          "lvl": 45,
+          "m": "Luz Lunar"
+        }
+      ],
+      "tmMoves": [
+        "Búnker",
+        "Ofrenda",
+        "Rastreo"
+      ],
+      "firstMoves": [
+        "Refugio",
+        "Obstrucción",
+        "Día Soleado",
+        "Guardia Baja"
+      ],
+      "spriteKey": "SHELLOS"
+    },
+    {
       "nickname": "Espía 2",
       "species": "Pidove",
       "level": 10,
@@ -970,117 +1083,6 @@
         "Castigo"
       ],
       "spriteKey": "PIDOVE"
-    },
-    {
-      "nickname": "Babosín",
-      "species": "Shellos",
-      "level": 15,
-      "types": [
-        "Agua"
-      ],
-      "ability": "Sombra Trampa",
-      "nature": "Ingenua",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Refugio",
-        "Obstrucción",
-        "Púas Tóxicas",
-        "Guardia Baja"
-      ],
-      "iv": [
-        18,
-        20,
-        14,
-        15,
-        7,
-        3
-      ],
-      "ev": [
-        5,
-        7,
-        6,
-        5,
-        7,
-        3
-      ],
-      "abilPool": [
-        "Rivalidad",
-        "Sombra Trampa"
-      ],
-      "abilHidden": [
-        "Insonorizar"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Refugio"
-        },
-        {
-          "lvl": 1,
-          "m": "Obstrucción"
-        },
-        {
-          "lvl": 2,
-          "m": "Día Soleado"
-        },
-        {
-          "lvl": 5,
-          "m": "Guardia Baja"
-        },
-        {
-          "lvl": 10,
-          "m": "Púas Tóxicas"
-        },
-        {
-          "lvl": 11,
-          "m": "Dulce Aroma"
-        },
-        {
-          "lvl": 15,
-          "m": "Tormento"
-        },
-        {
-          "lvl": 16,
-          "m": "Deslome"
-        },
-        {
-          "lvl": 20,
-          "m": "Amago"
-        },
-        {
-          "lvl": 25,
-          "m": "Meditación"
-        },
-        {
-          "lvl": 31,
-          "m": "Polvo Mágico"
-        },
-        {
-          "lvl": 35,
-          "m": "Hipercolmillo"
-        },
-        {
-          "lvl": 40,
-          "m": "Cabezazo"
-        },
-        {
-          "lvl": 45,
-          "m": "Luz Lunar"
-        }
-      ],
-      "tmMoves": [
-        "Búnker",
-        "Ofrenda",
-        "Rastreo"
-      ],
-      "firstMoves": [
-        "Refugio",
-        "Obstrucción",
-        "Día Soleado",
-        "Guardia Baja"
-      ],
-      "spriteKey": "SHELLOS"
     },
     {
       "nickname": "ManosTijeras",
@@ -1466,6 +1468,130 @@
         "Cambio de Banda"
       ],
       "spriteKey": "CUTIEFLY"
+    },
+    {
+      "nickname": "El Fuegos",
+      "species": "Numel",
+      "level": 1,
+      "types": [
+        "Fuego",
+        "Tierra"
+      ],
+      "ability": "Polvo Escudo",
+      "nature": "Grosera",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Supersónico",
+        "Granizo",
+        "Pisotón"
+      ],
+      "iv": [
+        2,
+        21,
+        20,
+        10,
+        30,
+        1
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Garra Dura",
+        "Polvo Escudo"
+      ],
+      "abilHidden": [
+        "Relincho Blanco"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Supersónico"
+        },
+        {
+          "lvl": 1,
+          "m": "Granizo"
+        },
+        {
+          "lvl": 5,
+          "m": "Adaptación"
+        },
+        {
+          "lvl": 8,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 8,
+          "m": "Ráfaga Escamas"
+        },
+        {
+          "lvl": 12,
+          "m": "Retracción"
+        },
+        {
+          "lvl": 15,
+          "m": "Beso Amoroso"
+        },
+        {
+          "lvl": 15,
+          "m": "Condena Silvana"
+        },
+        {
+          "lvl": 15,
+          "m": "Robo"
+        },
+        {
+          "lvl": 19,
+          "m": "Bola Voltio"
+        },
+        {
+          "lvl": 22,
+          "m": "Garra Umbría"
+        },
+        {
+          "lvl": 26,
+          "m": "Arrumaco"
+        },
+        {
+          "lvl": 29,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 31,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 36,
+          "m": "Velo Sagrado"
+        },
+        {
+          "lvl": 40,
+          "m": "Filo Potente"
+        },
+        {
+          "lvl": 43,
+          "m": "Tumba Rocas"
+        },
+        {
+          "lvl": 47,
+          "m": "Kinético"
+        }
+      ],
+      "tmMoves": [
+        "Paz Mental"
+      ],
+      "firstMoves": [
+        "Supersónico",
+        "Granizo",
+        "Pisotón"
+      ],
+      "spriteKey": "NUMEL"
     }
   ],
   "graveyard": [
@@ -1688,28 +1814,6 @@
       "mon": "Cleffa"
     },
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Pidove",
-      "nickname": "Espía 2",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 10,
-      "mon": "Pidove"
-    },
-    {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Yungoos",
-      "nickname": "Donal Tromp",
-      "shiny": false,
-      "status": "dead",
-      "category": "ciudad",
-      "level": 10,
-      "mon": "Yungoos"
-    },
-    {
       "route": "ruta_2_sur",
       "where": "Ruta 2 Sur",
       "species": "Shellos",
@@ -1719,6 +1823,17 @@
       "category": "salvaje",
       "level": 5,
       "mon": "Shellos"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Pidove",
+      "nickname": "Espía 2",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Pidove"
     },
     {
       "route": "",
@@ -1752,6 +1867,28 @@
       "category": "salvaje",
       "level": 15,
       "mon": "Cutiefly"
+    },
+    {
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Numel",
+      "nickname": "El Fuegos",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Numel"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Yungoos",
+      "nickname": "Donal Tromp",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Yungoos"
     }
   ],
   "progress": {
@@ -1768,8 +1905,8 @@
       "ruta_3": true,
       "bosque_verde": true,
       "ruta_2_norte": true,
-      "ciudad_plateada": true,
       "ruta_2_sur": true,
+      "ciudad_plateada": true,
       "monte_moon": true,
       "monte_moon_exterior": true
     },
@@ -1799,11 +1936,13 @@
       71,
       72,
       73,
+      75,
       110,
       112,
       113,
       114,
       121,
+      171,
       176,
       179,
       180,
@@ -1829,11 +1968,13 @@
       "Cenizas Sagradas",
       "Cuerda Huida",
       "Def. Esp. X 6",
+      "Fósil Hélix",
       "Fragmento Cometa",
       "Gema Fuego",
       "Hierba Revivir",
       "Incienso Duplo",
       "Menta Activa",
+      "Menta Floja",
       "Menta Miedosa",
       "Metrónomo",
       "Miniseta",
@@ -1935,6 +2076,12 @@
       {
         "id": "THUNDERSTONE",
         "name": "Piedra Trueno",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "DESTINYKNOT",
+        "name": "Lazo Destino",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -2113,8 +2260,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
