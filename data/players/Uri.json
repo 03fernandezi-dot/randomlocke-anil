@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 18h 41m jugadas · 130,570₽ · vidas en el juego: 23",
+  "notes": "Importado del save · 18h 51m jugadas · 130,570₽ · vidas en el juego: 23",
   "team": [
     {
       "nickname": "Kowalski",
@@ -164,152 +164,135 @@
       "spriteKey": "EMPOLEON"
     },
     {
-      "nickname": "Rem",
-      "species": "Gothitelle",
+      "nickname": "Cucatrampada",
+      "species": "Dragonair",
       "level": 39,
       "types": [
-        "Psíquico"
+        "Dragón"
       ],
-      "ability": "Albino",
+      "ability": "Transportarrocas",
       "nature": "Activa",
-      "item": "Cuchara Torcida",
-      "shiny": false,
+      "item": "",
+      "shiny": true,
       "moves": [
-        "Espora",
-        "Comesueños",
-        "Ciclón",
-        "Batido"
+        "Carga Dragón",
+        "Respiro",
+        "Mil Temblores",
+        "Espora"
       ],
       "iv": [
-        25,
+        4,
+        5,
+        22,
+        6,
         31,
-        31,
-        28,
-        7,
-        21
+        13
       ],
       "ev": [
-        11,
-        30,
-        16,
-        17,
-        18,
-        24
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Albino",
-        "Justiciero"
+        "Transportarrocas"
       ],
       "abilHidden": [
-        "Humo Blanco"
+        "Colector"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Plegaria Lunar"
+          "m": "Colmillo Rayo"
         },
         {
           "lvl": 1,
-          "m": "Escudo Real"
+          "m": "Telépata"
         },
         {
           "lvl": 1,
-          "m": "Capa Mágica"
+          "m": "Adaptación"
         },
         {
           "lvl": 1,
-          "m": "Meteorobola"
+          "m": "Vasto Impacto"
         },
         {
-          "lvl": 12,
-          "m": "Pulso de Campo"
+          "lvl": 15,
+          "m": "Corte"
         },
         {
-          "lvl": 14,
-          "m": "Afilagarras"
-        },
-        {
-          "lvl": 16,
-          "m": "Psicocorte"
-        },
-        {
-          "lvl": 19,
-          "m": "Danza Pluma"
+          "lvl": 15,
+          "m": "Robo"
         },
         {
           "lvl": 20,
-          "m": "Danza Dragón"
+          "m": "Viraje"
         },
         {
-          "lvl": 24,
-          "m": "Zona Extraña"
+          "lvl": 25,
+          "m": "Espora"
         },
         {
-          "lvl": 24,
-          "m": "Mismo Destino"
+          "lvl": 33,
+          "m": "Carga Dragón"
         },
         {
-          "lvl": 28,
-          "m": "Impactrueno"
+          "lvl": 39,
+          "m": "Vendaval"
         },
         {
-          "lvl": 34,
-          "m": "Láser Doble"
+          "lvl": 46,
+          "m": "Giro Fuego"
         },
         {
-          "lvl": 35,
-          "m": "Pikapicado"
+          "lvl": 53,
+          "m": "Rayo Infinito"
         },
         {
-          "lvl": 40,
-          "m": "Psicorrayo"
+          "lvl": 60,
+          "m": "Puño Hielo"
         },
         {
-          "lvl": 48,
-          "m": "Comesueños"
+          "lvl": 67,
+          "m": "Hidrocañón"
         },
         {
-          "lvl": 56,
-          "m": "Garra Brutal"
-        },
-        {
-          "lvl": 64,
-          "m": "Canto Encantador"
+          "lvl": 74,
+          "m": "Oído Cocina"
         }
       ],
       "tmMoves": [
-        "Agarre",
-        "Batido",
-        "Brillo Mágico",
-        "Clemencia",
-        "Cola Veneno",
+        "Adaptación",
+        "Beso Drenaje",
+        "Bomba Fango",
+        "Cañón Batidor",
+        "Ciclón",
         "Colmillo Veneno",
         "Copión",
         "Corpulencia",
-        "Daño Secreto",
-        "Divide Dolor",
-        "Doble Golpe",
         "Escalofrío",
-        "Escudo Real",
-        "Hidrochorro",
+        "Ida y Vuelta",
         "Ladrón",
-        "Legado",
+        "Látigo Ígneo",
         "Meteorobola",
         "Mil Temblores",
-        "Motivación",
         "Pesadilla",
         "Poder Pasado",
-        "Rayo Confuso",
+        "Puño Sombra",
+        "Salazón",
         "Señuelo",
         "Sonámbulo",
         "Sorpresa",
-        "Viento Feérico"
+        "Voz Cautivadora"
       ],
       "firstMoves": [
-        "Acua Jet",
-        "Campo Eléctrico"
+        "Ciclón",
+        "Maquinación"
       ],
-      "spriteKey": "GOTHITELLE"
+      "spriteKey": "DRAGONAIR"
     },
     {
       "nickname": "Niggy",
@@ -4045,6 +4028,154 @@
       "spriteKey": "FERALIGATR"
     },
     {
+      "nickname": "Rem",
+      "species": "Gothitelle",
+      "level": 39,
+      "types": [
+        "Psíquico"
+      ],
+      "ability": "Albino",
+      "nature": "Activa",
+      "item": "Cuchara Torcida",
+      "shiny": false,
+      "moves": [
+        "Espora",
+        "Comesueños",
+        "Ciclón",
+        "Batido"
+      ],
+      "iv": [
+        25,
+        31,
+        31,
+        28,
+        7,
+        21
+      ],
+      "ev": [
+        11,
+        30,
+        16,
+        17,
+        18,
+        24
+      ],
+      "abilPool": [
+        "Albino",
+        "Justiciero"
+      ],
+      "abilHidden": [
+        "Humo Blanco"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Plegaria Lunar"
+        },
+        {
+          "lvl": 1,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 1,
+          "m": "Capa Mágica"
+        },
+        {
+          "lvl": 1,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 12,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 14,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 16,
+          "m": "Psicocorte"
+        },
+        {
+          "lvl": 19,
+          "m": "Danza Pluma"
+        },
+        {
+          "lvl": 20,
+          "m": "Danza Dragón"
+        },
+        {
+          "lvl": 24,
+          "m": "Zona Extraña"
+        },
+        {
+          "lvl": 24,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 28,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 34,
+          "m": "Láser Doble"
+        },
+        {
+          "lvl": 35,
+          "m": "Pikapicado"
+        },
+        {
+          "lvl": 40,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 48,
+          "m": "Comesueños"
+        },
+        {
+          "lvl": 56,
+          "m": "Garra Brutal"
+        },
+        {
+          "lvl": 64,
+          "m": "Canto Encantador"
+        }
+      ],
+      "tmMoves": [
+        "Agarre",
+        "Batido",
+        "Brillo Mágico",
+        "Clemencia",
+        "Cola Veneno",
+        "Colmillo Veneno",
+        "Copión",
+        "Corpulencia",
+        "Daño Secreto",
+        "Divide Dolor",
+        "Doble Golpe",
+        "Escalofrío",
+        "Escudo Real",
+        "Hidrochorro",
+        "Ladrón",
+        "Legado",
+        "Meteorobola",
+        "Mil Temblores",
+        "Motivación",
+        "Pesadilla",
+        "Poder Pasado",
+        "Rayo Confuso",
+        "Señuelo",
+        "Sonámbulo",
+        "Sorpresa",
+        "Viento Feérico"
+      ],
+      "firstMoves": [
+        "Acua Jet",
+        "Campo Eléctrico"
+      ],
+      "spriteKey": "GOTHITELLE"
+    },
+    {
       "nickname": "Casper",
       "species": "Cofagrigus",
       "level": 39,
@@ -4268,111 +4399,6 @@
       ],
       "spriteKey": "TADBULB",
       "dup": true
-    },
-    {
-      "nickname": "Cucatrampada",
-      "species": "Dratini",
-      "level": 4,
-      "types": [
-        "Dragón"
-      ],
-      "ability": "Nevada",
-      "nature": "Activa",
-      "item": "",
-      "shiny": true,
-      "moves": [
-        "Ciclón",
-        "Maquinación"
-      ],
-      "iv": [
-        4,
-        5,
-        22,
-        6,
-        31,
-        13
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Nevada"
-      ],
-      "abilHidden": [
-        "Descarga"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Ciclón"
-        },
-        {
-          "lvl": 1,
-          "m": "Maquinación"
-        },
-        {
-          "lvl": 5,
-          "m": "Respiro"
-        },
-        {
-          "lvl": 10,
-          "m": "Tenaza"
-        },
-        {
-          "lvl": 15,
-          "m": "Onda Anómala"
-        },
-        {
-          "lvl": 15,
-          "m": "Vasto Impacto"
-        },
-        {
-          "lvl": 20,
-          "m": "Fitoimpulso"
-        },
-        {
-          "lvl": 25,
-          "m": "Profecía"
-        },
-        {
-          "lvl": 31,
-          "m": "Lengüetazo"
-        },
-        {
-          "lvl": 35,
-          "m": "Llama Gélida"
-        },
-        {
-          "lvl": 40,
-          "m": "Cañón Dinamax"
-        },
-        {
-          "lvl": 45,
-          "m": "Brillo Mágico"
-        },
-        {
-          "lvl": 50,
-          "m": "Daño Secreto"
-        },
-        {
-          "lvl": 55,
-          "m": "Fuerza Equina"
-        },
-        {
-          "lvl": 60,
-          "m": "Psicocarga"
-        }
-      ],
-      "firstMoves": [
-        "Ciclón",
-        "Maquinación"
-      ],
-      "spriteKey": "DRATINI"
     }
   ],
   "graveyard": [
@@ -4743,15 +4769,15 @@
       "mon": "Empoleon"
     },
     {
-      "route": "",
-      "where": "Museo Pokémon",
-      "species": "Gothitelle",
-      "nickname": "Rem",
-      "shiny": false,
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Dragonair",
+      "nickname": "Cucatrampada",
+      "shiny": true,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 1,
-      "mon": "Gothitelle"
+      "category": "salvaje",
+      "level": 4,
+      "mon": "Dragonair"
     },
     {
       "route": "tunel_diglett",
@@ -5073,6 +5099,17 @@
       "mon": "Feraligatr"
     },
     {
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Gothitelle",
+      "nickname": "Rem",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Gothitelle"
+    },
+    {
       "route": "ruta_4",
       "where": "Ruta 4",
       "species": "Cofagrigus",
@@ -5093,17 +5130,6 @@
       "category": "salvaje",
       "level": 3,
       "mon": "Tadbulb"
-    },
-    {
-      "route": "ruta_1",
-      "where": "Ruta 1",
-      "species": "Dratini",
-      "nickname": "Cucatrampada",
-      "shiny": true,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 4,
-      "mon": "Dratini"
     },
     {
       "route": "ruta_22",
@@ -5150,8 +5176,8 @@
     "npcs": {},
     "routes": {
       "tunel_roca": true,
-      "tunel_diglett": true,
       "ruta_1": true,
+      "tunel_diglett": true,
       "ruta_15": true,
       "ruta_9": true,
       "ruta_2_norte": true,
@@ -5681,7 +5707,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 656,
+        "qty": 621,
         "pocket": "Medicinas"
       },
       {
