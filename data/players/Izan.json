@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 3h 27m jugadas · 65,510₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 3h 53m jugadas · 71,110₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Pauet Pauet",
       "species": "Corvisquire",
-      "level": 20,
+      "level": 21,
       "types": [
         "Volador"
       ],
@@ -34,12 +34,12 @@
         9
       ],
       "ev": [
-        16,
+        20,
         252,
         11,
-        11,
-        9,
-        13
+        13,
+        10,
+        14
       ],
       "abilPool": [
         "Velo Pastel",
@@ -99,7 +99,14 @@
         }
       ],
       "tmMoves": [
-        "Despejar"
+        "Aromaterapia",
+        "Búnker",
+        "Despejar",
+        "Garra Metal",
+        "Remolino",
+        "Restricción",
+        "Reversión",
+        "Viraje"
       ],
       "firstMoves": [
         "Picotazo",
@@ -111,7 +118,7 @@
     {
       "nickname": "KillerQueen",
       "species": "Nidorina",
-      "level": 20,
+      "level": 21,
       "types": [
         "Veneno"
       ],
@@ -134,12 +141,12 @@
         22
       ],
       "ev": [
-        15,
-        15,
+        19,
+        19,
         10,
-        11,
-        11,
-        13
+        13,
+        12,
+        14
       ],
       "abilPool": [
         "Cuerpo Mortal",
@@ -219,7 +226,7 @@
     {
       "nickname": "El Lago",
       "species": "Ducklett",
-      "level": 19,
+      "level": 20,
       "types": [
         "Agua",
         "Volador"
@@ -245,12 +252,12 @@
         28
       ],
       "ev": [
-        14,
-        15,
+        18,
+        19,
         10,
-        11,
-        11,
-        13
+        13,
+        12,
+        14
       ],
       "abilPool": [
         "Pararrayos",
@@ -335,20 +342,20 @@
     },
     {
       "nickname": "Alviiiiiin",
-      "species": "Skwovet",
-      "level": 19,
+      "species": "Greedent",
+      "level": 20,
       "types": [
         "Normal"
       ],
-      "ability": "Expulsarena",
+      "ability": "Ímpetu Ardiente",
       "nature": "Mansa",
       "item": "",
       "shiny": false,
       "moves": [
         "Tajo Umbrío",
         "Bruma Explosiva",
-        "Puño Cometa",
-        "Rayo Burbuja"
+        "Represalia",
+        "Garra Metal"
       ],
       "iv": [
         12,
@@ -359,95 +366,105 @@
         0
       ],
       "ev": [
-        13,
-        14,
-        9,
+        17,
+        18,
         9,
         11,
-        12
+        12,
+        13
       ],
       "abilPool": [
-        "Expulsarena"
+        "Ímpetu Ardiente"
       ],
       "abilHidden": [
-        "Potencia"
+        "Competitivo"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Cola Veneno"
+          "lvl": -1,
+          "m": "Viento Hielo"
         },
         {
           "lvl": 1,
-          "m": "Bruma Explosiva"
+          "m": "Impresionar"
         },
         {
-          "lvl": 5,
-          "m": "Puño Cometa"
+          "lvl": 1,
+          "m": "Hidropulso"
         },
         {
-          "lvl": 10,
-          "m": "Rayo Burbuja"
+          "lvl": 1,
+          "m": "Celebración"
         },
         {
-          "lvl": 10,
-          "m": "Bombardeo"
+          "lvl": 1,
+          "m": "Finta"
         },
         {
-          "lvl": 15,
-          "m": "Tragar"
-        },
-        {
-          "lvl": 15,
-          "m": "Tajo Umbrío"
+          "lvl": 1,
+          "m": "Frío Polar"
         },
         {
           "lvl": 15,
-          "m": "Mismo Destino"
+          "m": "Ciclón"
+        },
+        {
+          "lvl": 15,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 15,
+          "m": "Danza Amiga"
         },
         {
           "lvl": 20,
-          "m": "Represalia"
+          "m": "Disparo Espejo"
         },
         {
-          "lvl": 25,
-          "m": "Meditación"
+          "lvl": 27,
+          "m": "Empujón"
         },
         {
-          "lvl": 30,
-          "m": "Vasto Impacto"
+          "lvl": 34,
+          "m": "Avivar"
         },
         {
-          "lvl": 35,
-          "m": "Fuerza Lunar"
+          "lvl": 41,
+          "m": "Marcha Espectral"
         },
         {
-          "lvl": 40,
-          "m": "Kinético"
+          "lvl": 48,
+          "m": "Absorbefuerza"
         },
         {
-          "lvl": 45,
-          "m": "Acróbata"
+          "lvl": 55,
+          "m": "Escudo Tatami"
         }
       ],
       "tmMoves": [
-        "Despejar",
+        "Búnker",
+        "Capa Mágica",
+        "Destello",
+        "Garra Metal",
         "Metrónomo",
-        "Ofrenda",
-        "Rastreo",
-        "Reversión"
+        "Paz Mental",
+        "Remolino",
+        "Restricción",
+        "Reversión",
+        "Roca Veloz",
+        "Última Palabra"
       ],
       "firstMoves": [
         "Cola Veneno",
         "Bruma Explosiva",
         "Puño Cometa"
       ],
-      "spriteKey": "SKWOVET"
+      "spriteKey": "GREEDENT"
     },
     {
       "nickname": "El Onvre",
       "species": "Lombre",
-      "level": 20,
+      "level": 21,
       "types": [
         "Agua",
         "Planta"
@@ -473,12 +490,12 @@
         12
       ],
       "ev": [
-        7,
-        8,
+        11,
+        12,
         3,
+        7,
         5,
-        4,
-        10
+        11
       ],
       "abilPool": [
         "Hidratación",
@@ -596,7 +613,7 @@
     {
       "nickname": "LitroVatio",
       "species": "Wattrel",
-      "level": 18,
+      "level": 20,
       "types": [
         "Eléctrico",
         "Volador"
@@ -620,12 +637,12 @@
         13
       ],
       "ev": [
+        6,
+        5,
+        0,
         2,
         1,
-        0,
-        0,
-        0,
-        2
+        3
       ],
       "abilPool": [
         "Entusiasmo",
@@ -1872,13 +1889,13 @@
     {
       "route": "ruta_22",
       "where": "Ruta 22",
-      "species": "Skwovet",
+      "species": "Greedent",
       "nickname": "Alviiiiiin",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 6,
-      "mon": "Skwovet"
+      "mon": "Greedent"
     },
     {
       "route": "ruta_3",
@@ -2032,7 +2049,8 @@
       "monte_moon": true,
       "monte_moon_exterior": true,
       "ciudad_verde": true,
-      "ciudad_celeste": true
+      "ciudad_celeste": true,
+      "ruta_20": true
     },
     "items": {},
     "encounters": {
@@ -2047,7 +2065,8 @@
       "ruta_3": true,
       "monte_moon": true,
       "monte_moon_exterior": true,
-      "ruta_4": true
+      "ruta_4": true,
+      "ruta_20": true
     },
     "switches": [
       48,
@@ -2064,6 +2083,7 @@
       74,
       75,
       76,
+      80,
       110,
       112,
       113,
@@ -2221,6 +2241,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "SHELLBELL",
+        "name": "Cascabel Concha",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
         "qty": 682,
@@ -2253,7 +2279,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 40,
+        "qty": 38,
         "pocket": "Poké Balls"
       },
       {
@@ -2437,8 +2463,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
