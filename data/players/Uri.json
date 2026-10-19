@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 19h 18m jugadas · 130,570₽ · vidas en el juego: 23",
+  "notes": "Importado del save · 19h 29m jugadas · 80,570₽ · vidas en el juego: 23",
   "team": [
     {
       "nickname": "Kowalski",
@@ -162,137 +162,6 @@
         "Cornada"
       ],
       "spriteKey": "EMPOLEON"
-    },
-    {
-      "nickname": "Cucatrampada",
-      "species": "Dragonair",
-      "level": 39,
-      "types": [
-        "Dragón"
-      ],
-      "ability": "Transportarrocas",
-      "nature": "Activa",
-      "item": "",
-      "shiny": true,
-      "moves": [
-        "Carga Dragón",
-        "Respiro",
-        "Mil Temblores",
-        "Espora"
-      ],
-      "iv": [
-        4,
-        5,
-        22,
-        6,
-        31,
-        13
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Transportarrocas"
-      ],
-      "abilHidden": [
-        "Colector"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Colmillo Rayo"
-        },
-        {
-          "lvl": 1,
-          "m": "Telépata"
-        },
-        {
-          "lvl": 1,
-          "m": "Adaptación"
-        },
-        {
-          "lvl": 1,
-          "m": "Vasto Impacto"
-        },
-        {
-          "lvl": 15,
-          "m": "Corte"
-        },
-        {
-          "lvl": 15,
-          "m": "Robo"
-        },
-        {
-          "lvl": 20,
-          "m": "Viraje"
-        },
-        {
-          "lvl": 25,
-          "m": "Espora"
-        },
-        {
-          "lvl": 33,
-          "m": "Carga Dragón"
-        },
-        {
-          "lvl": 39,
-          "m": "Vendaval"
-        },
-        {
-          "lvl": 46,
-          "m": "Giro Fuego"
-        },
-        {
-          "lvl": 53,
-          "m": "Rayo Infinito"
-        },
-        {
-          "lvl": 60,
-          "m": "Puño Hielo"
-        },
-        {
-          "lvl": 67,
-          "m": "Hidrocañón"
-        },
-        {
-          "lvl": 74,
-          "m": "Oído Cocina"
-        }
-      ],
-      "tmMoves": [
-        "Adaptación",
-        "Beso Drenaje",
-        "Bomba Fango",
-        "Cañón Batidor",
-        "Ciclón",
-        "Colmillo Veneno",
-        "Copión",
-        "Corpulencia",
-        "Escalofrío",
-        "Ida y Vuelta",
-        "Ladrón",
-        "Látigo Ígneo",
-        "Meteorobola",
-        "Mil Temblores",
-        "Pesadilla",
-        "Poder Pasado",
-        "Puño Sombra",
-        "Salazón",
-        "Señuelo",
-        "Sonámbulo",
-        "Sorpresa",
-        "Voz Cautivadora"
-      ],
-      "firstMoves": [
-        "Ciclón",
-        "Maquinación"
-      ],
-      "spriteKey": "DRAGONAIR"
     },
     {
       "nickname": "Niggy",
@@ -932,6 +801,154 @@
         "Burbuja"
       ],
       "spriteKey": "SWAMPERT"
+    },
+    {
+      "nickname": "Rem",
+      "species": "Gothitelle",
+      "level": 39,
+      "types": [
+        "Psíquico"
+      ],
+      "ability": "Albino",
+      "nature": "Activa",
+      "item": "Cuchara Torcida",
+      "shiny": false,
+      "moves": [
+        "Espora",
+        "Comesueños",
+        "Ciclón",
+        "Batido"
+      ],
+      "iv": [
+        25,
+        31,
+        31,
+        28,
+        7,
+        21
+      ],
+      "ev": [
+        11,
+        30,
+        16,
+        17,
+        18,
+        24
+      ],
+      "abilPool": [
+        "Albino",
+        "Justiciero"
+      ],
+      "abilHidden": [
+        "Humo Blanco"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Plegaria Lunar"
+        },
+        {
+          "lvl": 1,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 1,
+          "m": "Capa Mágica"
+        },
+        {
+          "lvl": 1,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 12,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 14,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 16,
+          "m": "Psicocorte"
+        },
+        {
+          "lvl": 19,
+          "m": "Danza Pluma"
+        },
+        {
+          "lvl": 20,
+          "m": "Danza Dragón"
+        },
+        {
+          "lvl": 24,
+          "m": "Zona Extraña"
+        },
+        {
+          "lvl": 24,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 28,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 34,
+          "m": "Láser Doble"
+        },
+        {
+          "lvl": 35,
+          "m": "Pikapicado"
+        },
+        {
+          "lvl": 40,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 48,
+          "m": "Comesueños"
+        },
+        {
+          "lvl": 56,
+          "m": "Garra Brutal"
+        },
+        {
+          "lvl": 64,
+          "m": "Canto Encantador"
+        }
+      ],
+      "tmMoves": [
+        "Agarre",
+        "Batido",
+        "Brillo Mágico",
+        "Clemencia",
+        "Cola Veneno",
+        "Colmillo Veneno",
+        "Copión",
+        "Corpulencia",
+        "Daño Secreto",
+        "Divide Dolor",
+        "Doble Golpe",
+        "Escalofrío",
+        "Escudo Real",
+        "Hidrochorro",
+        "Ladrón",
+        "Legado",
+        "Meteorobola",
+        "Mil Temblores",
+        "Motivación",
+        "Pesadilla",
+        "Poder Pasado",
+        "Rayo Confuso",
+        "Señuelo",
+        "Sonámbulo",
+        "Sorpresa",
+        "Viento Feérico"
+      ],
+      "firstMoves": [
+        "Acua Jet",
+        "Campo Eléctrico"
+      ],
+      "spriteKey": "GOTHITELLE"
     }
   ],
   "box": [
@@ -2108,6 +2125,30 @@
           "lvl": 50,
           "m": "Aerochorro"
         }
+      ],
+      "tmMoves": [
+        "Adaptación",
+        "Aire Afilado",
+        "Alivio",
+        "Ascuas",
+        "Bomba Lodo",
+        "Carga Dragón",
+        "Clemencia",
+        "Colmillo Veneno",
+        "Cuchillada",
+        "Daño Secreto",
+        "Divide Dolor",
+        "Encanto",
+        "Látigo Ígneo",
+        "Llama Azul",
+        "Nitrocarga",
+        "Poder Pasado",
+        "Profecía",
+        "Rayo Confuso",
+        "Reducción",
+        "Sonámbulo",
+        "Tajo Metralla",
+        "Venganza"
       ],
       "firstMoves": [
         "Moflete Estático",
@@ -4028,152 +4069,240 @@
       "spriteKey": "FERALIGATR"
     },
     {
-      "nickname": "Rem",
-      "species": "Gothitelle",
+      "nickname": "Mojonarro",
+      "species": "Bellibolt",
       "level": 39,
       "types": [
-        "Psíquico"
+        "Eléctrico"
       ],
-      "ability": "Albino",
-      "nature": "Activa",
-      "item": "Cuchara Torcida",
-      "shiny": false,
+      "ability": "Normalidad",
+      "nature": "Pícara",
+      "item": "",
+      "shiny": true,
       "moves": [
-        "Espora",
-        "Comesueños",
-        "Ciclón",
-        "Batido"
+        "Esfera Aural",
+        "Poder Pasado",
+        "Bomba Lodo",
+        "Llama Azul"
       ],
       "iv": [
-        25,
-        31,
-        31,
-        28,
+        19,
         7,
-        21
+        22,
+        28,
+        9,
+        13
       ],
       "ev": [
-        11,
-        30,
-        16,
-        17,
-        18,
-        24
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Albino",
-        "Justiciero"
+        "Terravoltaje",
+        "Normalidad"
       ],
       "abilHidden": [
-        "Humo Blanco"
+        "Guardia Metálica"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Plegaria Lunar"
+          "m": "Bola Hielo"
         },
         {
           "lvl": 1,
-          "m": "Escudo Real"
+          "m": "Onda Anómala"
         },
         {
           "lvl": 1,
-          "m": "Capa Mágica"
+          "m": "Campo Eléctrico"
         },
         {
-          "lvl": 1,
-          "m": "Meteorobola"
+          "lvl": 7,
+          "m": "Llave Giro"
         },
         {
-          "lvl": 12,
-          "m": "Pulso de Campo"
+          "lvl": 11,
+          "m": "Mofa"
         },
         {
-          "lvl": 14,
-          "m": "Afilagarras"
+          "lvl": 17,
+          "m": "Psicoonda"
         },
         {
-          "lvl": 16,
-          "m": "Psicocorte"
-        },
-        {
-          "lvl": 19,
-          "m": "Danza Pluma"
-        },
-        {
-          "lvl": 20,
-          "m": "Danza Dragón"
+          "lvl": 21,
+          "m": "Llama Protectora"
         },
         {
           "lvl": 24,
-          "m": "Zona Extraña"
+          "m": "Terratemblor"
         },
         {
-          "lvl": 24,
-          "m": "Mismo Destino"
+          "lvl": 25,
+          "m": "Moflete Estático"
         },
         {
-          "lvl": 28,
-          "m": "Impactrueno"
+          "lvl": 32,
+          "m": "Electrificación"
         },
         {
-          "lvl": 34,
-          "m": "Láser Doble"
-        },
-        {
-          "lvl": 35,
-          "m": "Pikapicado"
+          "lvl": 36,
+          "m": "Aura Magnética"
         },
         {
           "lvl": 40,
-          "m": "Psicorrayo"
+          "m": "Salpicadura"
         },
         {
-          "lvl": 48,
-          "m": "Comesueños"
+          "lvl": 45,
+          "m": "Manos Juntas"
         },
         {
-          "lvl": 56,
-          "m": "Garra Brutal"
+          "lvl": 50,
+          "m": "Sumisión"
+        }
+      ],
+      "firstMoves": [
+        "Mismo Destino",
+        "Placaje"
+      ],
+      "spriteKey": "BELLIBOLT",
+      "dup": true
+    },
+    {
+      "nickname": "Cucatrampada",
+      "species": "Dragonair",
+      "level": 39,
+      "types": [
+        "Dragón"
+      ],
+      "ability": "Transportarrocas",
+      "nature": "Activa",
+      "item": "",
+      "shiny": true,
+      "moves": [
+        "Carga Dragón",
+        "Respiro",
+        "Mil Temblores",
+        "Espora"
+      ],
+      "iv": [
+        4,
+        5,
+        22,
+        6,
+        31,
+        13
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Transportarrocas"
+      ],
+      "abilHidden": [
+        "Colector"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Colmillo Rayo"
         },
         {
-          "lvl": 64,
-          "m": "Canto Encantador"
+          "lvl": 1,
+          "m": "Telépata"
+        },
+        {
+          "lvl": 1,
+          "m": "Adaptación"
+        },
+        {
+          "lvl": 1,
+          "m": "Vasto Impacto"
+        },
+        {
+          "lvl": 15,
+          "m": "Corte"
+        },
+        {
+          "lvl": 15,
+          "m": "Robo"
+        },
+        {
+          "lvl": 20,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 25,
+          "m": "Espora"
+        },
+        {
+          "lvl": 33,
+          "m": "Carga Dragón"
+        },
+        {
+          "lvl": 39,
+          "m": "Vendaval"
+        },
+        {
+          "lvl": 46,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 53,
+          "m": "Rayo Infinito"
+        },
+        {
+          "lvl": 60,
+          "m": "Puño Hielo"
+        },
+        {
+          "lvl": 67,
+          "m": "Hidrocañón"
+        },
+        {
+          "lvl": 74,
+          "m": "Oído Cocina"
         }
       ],
       "tmMoves": [
-        "Agarre",
-        "Batido",
-        "Brillo Mágico",
-        "Clemencia",
-        "Cola Veneno",
+        "Adaptación",
+        "Beso Drenaje",
+        "Bomba Fango",
+        "Cañón Batidor",
+        "Ciclón",
         "Colmillo Veneno",
         "Copión",
         "Corpulencia",
-        "Daño Secreto",
-        "Divide Dolor",
-        "Doble Golpe",
         "Escalofrío",
-        "Escudo Real",
-        "Hidrochorro",
+        "Ida y Vuelta",
         "Ladrón",
-        "Legado",
+        "Látigo Ígneo",
         "Meteorobola",
         "Mil Temblores",
-        "Motivación",
         "Pesadilla",
         "Poder Pasado",
-        "Rayo Confuso",
+        "Puño Sombra",
+        "Salazón",
         "Señuelo",
         "Sonámbulo",
         "Sorpresa",
-        "Viento Feérico"
+        "Voz Cautivadora"
       ],
       "firstMoves": [
-        "Acua Jet",
-        "Campo Eléctrico"
+        "Ciclón",
+        "Maquinación"
       ],
-      "spriteKey": "GOTHITELLE"
+      "spriteKey": "DRAGONAIR"
     },
     {
       "nickname": "Casper",
@@ -4300,105 +4429,6 @@
         "Mil Púas Tóxicas"
       ],
       "spriteKey": "COFAGRIGUS"
-    },
-    {
-      "nickname": "Mojonarro",
-      "species": "Tadbulb",
-      "level": 3,
-      "types": [
-        "Eléctrico"
-      ],
-      "ability": "Guardia Metálica",
-      "nature": "Pícara",
-      "item": "",
-      "shiny": true,
-      "moves": [
-        "Mismo Destino",
-        "Placaje"
-      ],
-      "iv": [
-        19,
-        7,
-        22,
-        28,
-        9,
-        13
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Poder Gélido",
-        "Guardia Metálica"
-      ],
-      "abilHidden": [
-        "Calco"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Mismo Destino"
-        },
-        {
-          "lvl": 1,
-          "m": "Placaje"
-        },
-        {
-          "lvl": 7,
-          "m": "Moflete Estático"
-        },
-        {
-          "lvl": 11,
-          "m": "Aguante"
-        },
-        {
-          "lvl": 17,
-          "m": "Aire Afilado"
-        },
-        {
-          "lvl": 21,
-          "m": "Electrificación"
-        },
-        {
-          "lvl": 24,
-          "m": "Telaraña"
-        },
-        {
-          "lvl": 25,
-          "m": "Extracto Picante"
-        },
-        {
-          "lvl": 32,
-          "m": "Esfera Aural"
-        },
-        {
-          "lvl": 36,
-          "m": "Kinético"
-        },
-        {
-          "lvl": 40,
-          "m": "Fotocolisión"
-        },
-        {
-          "lvl": 45,
-          "m": "Tijera X"
-        },
-        {
-          "lvl": 50,
-          "m": "Aerochorro"
-        }
-      ],
-      "firstMoves": [
-        "Mismo Destino",
-        "Placaje"
-      ],
-      "spriteKey": "TADBULB",
-      "dup": true
     }
   ],
   "graveyard": [
@@ -4769,17 +4799,6 @@
       "mon": "Empoleon"
     },
     {
-      "route": "ruta_1",
-      "where": "Ruta 1",
-      "species": "Dragonair",
-      "nickname": "Cucatrampada",
-      "shiny": true,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 4,
-      "mon": "Dragonair"
-    },
-    {
       "route": "tunel_diglett",
       "where": "Túnel Diglett",
       "species": "Armarouge",
@@ -4822,6 +4841,17 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Swampert"
+    },
+    {
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Gothitelle",
+      "nickname": "Rem",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Gothitelle"
     },
     {
       "route": "ruta_9",
@@ -5099,15 +5129,26 @@
       "mon": "Feraligatr"
     },
     {
-      "route": "",
-      "where": "Museo Pokémon",
-      "species": "Gothitelle",
-      "nickname": "Rem",
-      "shiny": false,
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Bellibolt",
+      "nickname": "Mojonarro",
+      "shiny": true,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 1,
-      "mon": "Gothitelle"
+      "category": "salvaje",
+      "level": 3,
+      "mon": "Bellibolt"
+    },
+    {
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Dragonair",
+      "nickname": "Cucatrampada",
+      "shiny": true,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 4,
+      "mon": "Dragonair"
     },
     {
       "route": "ruta_4",
@@ -5119,17 +5160,6 @@
       "category": "salvaje",
       "level": 18,
       "mon": "Cofagrigus"
-    },
-    {
-      "route": "ruta_1",
-      "where": "Ruta 1",
-      "species": "Tadbulb",
-      "nickname": "Mojonarro",
-      "shiny": true,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 3,
-      "mon": "Tadbulb"
     },
     {
       "route": "ruta_22",
@@ -5176,8 +5206,8 @@
     "npcs": {},
     "routes": {
       "tunel_roca": true,
-      "ruta_1": true,
       "tunel_diglett": true,
+      "ruta_1": true,
       "ruta_15": true,
       "ruta_9": true,
       "ruta_2_norte": true,
@@ -5705,9 +5735,27 @@
         "pocket": "Objetos"
       },
       {
+        "id": "LEAFSTONE",
+        "name": "Piedra Hoja",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FIRESTONE",
+        "name": "Piedra Fuego",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "WATERSTONE",
+        "name": "Piedra Agua",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 621,
+        "qty": 585,
         "pocket": "Medicinas"
       },
       {
@@ -5963,6 +6011,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM19",
+        "name": "MT19",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM20",
         "name": "MT20",
         "qty": 1,
@@ -5983,6 +6037,12 @@
       {
         "id": "TM31",
         "name": "MT31",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM32",
+        "name": "MT32",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -6041,6 +6101,18 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM48",
+        "name": "MT48",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM50",
+        "name": "MT50",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM51",
         "name": "MT51",
         "qty": 1,
@@ -6061,6 +6133,12 @@
       {
         "id": "TM55",
         "name": "MT55",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM56",
+        "name": "MT56",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -6107,6 +6185,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM67",
+        "name": "MT67",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM69",
         "name": "MT69",
         "qty": 1,
@@ -6139,6 +6223,12 @@
       {
         "id": "TM80",
         "name": "MT80",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM81",
+        "name": "MT81",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -6203,6 +6293,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM98",
+        "name": "MT98",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM99",
         "name": "MT99",
         "qty": 1,
@@ -6239,8 +6335,20 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM108",
+        "name": "MT108",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM109",
         "name": "MT109",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM110",
+        "name": "MT110",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -6257,8 +6365,20 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM118",
+        "name": "MT118",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM122",
         "name": "MT122",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM124",
+        "name": "MT124",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
