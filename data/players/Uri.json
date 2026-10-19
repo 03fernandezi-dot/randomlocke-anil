@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 19h 31m jugadas · 80,570₽ · vidas en el juego: 23",
+  "notes": "Importado del save · 19h 33m jugadas · 80,570₽ · vidas en el juego: 23",
   "team": [
     {
       "nickname": "Izan",
@@ -194,7 +194,7 @@
       "ev": [
         16,
         51,
-        30,
+        31,
         27,
         33,
         44
@@ -338,7 +338,7 @@
         "Patada Giro"
       ],
       "iv": [
-        15,
+        25,
         28,
         14,
         12,
@@ -512,7 +512,7 @@
         20,
         19,
         20,
-        26
+        37
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -653,7 +653,7 @@
         "Agua",
         "Acero"
       ],
-      "ability": "",
+      "ability": "Remoto",
       "nature": "Alocada",
       "item": "Cinta Aguante",
       "shiny": false,
@@ -5783,38 +5783,14 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "CARBOS",
-        "name": "Carburante",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "SCapsula",
-        "name": "Scapsula",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "RAGECANDYBAR",
         "name": "Caramelo Furia",
         "qty": 1,
         "pocket": "Medicinas"
       },
       {
-        "id": "SWIFTFEATHER",
-        "name": "Swiftfeather",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "SHALOURSABLE",
         "name": "Galleta Yantra",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "RESISTFEATHER",
-        "name": "Resistfeather",
         "qty": 1,
         "pocket": "Medicinas"
       },
