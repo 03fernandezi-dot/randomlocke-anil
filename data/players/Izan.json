@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 3h 53m jugadas · 71,110₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 3h 58m jugadas · 73,390₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Pauet Pauet",
@@ -38,8 +38,8 @@
         252,
         11,
         13,
-        10,
-        14
+        11,
+        15
       ],
       "abilPool": [
         "Velo Pastel",
@@ -106,6 +106,7 @@
         "Remolino",
         "Restricción",
         "Reversión",
+        "Truco Floral",
         "Viraje"
       ],
       "firstMoves": [
@@ -145,8 +146,8 @@
         19,
         10,
         13,
-        12,
-        14
+        13,
+        15
       ],
       "abilPool": [
         "Cuerpo Mortal",
@@ -217,6 +218,10 @@
           "m": "Rayo Aurora"
         }
       ],
+      "tmMoves": [
+        "Búnker",
+        "Truco Floral"
+      ],
       "firstMoves": [
         "Campo de Niebla",
         "Viraje"
@@ -226,7 +231,7 @@
     {
       "nickname": "El Lago",
       "species": "Ducklett",
-      "level": 20,
+      "level": 21,
       "types": [
         "Agua",
         "Volador"
@@ -236,7 +241,7 @@
       "item": "Cascabel Concha",
       "shiny": false,
       "moves": [
-        "Cuchillada",
+        "Pulso de Campo",
         "Corpulencia",
         "Ataque Rápido",
         "Golpe Kárate"
@@ -256,8 +261,8 @@
         19,
         10,
         13,
-        12,
-        14
+        13,
+        15
       ],
       "abilPool": [
         "Pararrayos",
@@ -331,7 +336,9 @@
       "tmMoves": [
         "Ofrenda",
         "Rastreo",
-        "Última Palabra"
+        "Remolino",
+        "Última Palabra",
+        "Viraje"
       ],
       "firstMoves": [
         "Paisaje Nevado",
@@ -343,7 +350,7 @@
     {
       "nickname": "Alviiiiiin",
       "species": "Greedent",
-      "level": 20,
+      "level": 21,
       "types": [
         "Normal"
       ],
@@ -370,8 +377,8 @@
         18,
         9,
         11,
-        12,
-        13
+        13,
+        14
       ],
       "abilPool": [
         "Ímpetu Ardiente"
@@ -452,6 +459,7 @@
         "Restricción",
         "Reversión",
         "Roca Veloz",
+        "Truco Floral",
         "Última Palabra"
       ],
       "firstMoves": [
@@ -477,7 +485,7 @@
         "Carga Parábola",
         "Bomba Ácida",
         "Viento Plata",
-        "Patada Tropical"
+        "Truco Floral"
       ],
       "natureMint": true,
       "natureBase": "Agitada",
@@ -494,8 +502,8 @@
         12,
         3,
         7,
-        5,
-        11
+        6,
+        12
       ],
       "abilPool": [
         "Hidratación",
@@ -595,12 +603,15 @@
         }
       ],
       "tmMoves": [
+        "Aromaterapia",
         "Búnker",
         "Destello",
         "Gran Ojo",
         "Ofrenda",
         "Paz Mental",
-        "Roca Veloz"
+        "Roca Veloz",
+        "Trampa Rocas",
+        "Truco Floral"
       ],
       "firstMoves": [
         "Carga Parábola",
@@ -641,8 +652,8 @@
         5,
         0,
         2,
-        1,
-        3
+        2,
+        4
       ],
       "abilPool": [
         "Entusiasmo",
@@ -707,6 +718,7 @@
         "Gran Ojo",
         "Ofrenda",
         "Restricción",
+        "Truco Floral",
         "Viraje"
       ],
       "firstMoves": [
@@ -2050,7 +2062,8 @@
       "monte_moon_exterior": true,
       "ciudad_verde": true,
       "ciudad_celeste": true,
-      "ruta_20": true
+      "ruta_20": true,
+      "ruta_21": true
     },
     "items": {},
     "encounters": {
@@ -2142,9 +2155,12 @@
       "MT40",
       "MT42",
       "MT43",
+      "MT47",
       "MT58",
       "MT67",
       "MT83",
+      "MT85",
+      "MT86",
       "MT89",
       "MT94",
       "Paracontacto",
@@ -2373,6 +2389,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM47",
+        "name": "MT47",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM58",
         "name": "MT58",
         "qty": 1,
@@ -2387,6 +2409,18 @@
       {
         "id": "TM83",
         "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM85",
+        "name": "MT85",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM86",
+        "name": "MT86",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
