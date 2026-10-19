@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 5h 17m jugadas · 94,830₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 5h 22m jugadas · 96,510₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Pauet Pauet",
@@ -39,7 +39,7 @@
         14,
         21,
         17,
-        23
+        24
       ],
       "abilPool": [
         "Velo Pastel",
@@ -147,11 +147,11 @@
       ],
       "ev": [
         23,
-        31,
+        33,
         13,
         21,
         19,
-        23
+        24
       ],
       "abilPool": [
         "Cuerpo Mortal",
@@ -267,11 +267,11 @@
       ],
       "ev": [
         0,
-        6,
+        8,
         2,
         2,
         2,
-        7
+        8
       ],
       "abilPool": [
         "Mimetismo"
@@ -379,7 +379,7 @@
     {
       "nickname": "Alviiiiiin",
       "species": "Greedent",
-      "level": 25,
+      "level": 26,
       "types": [
         "Normal"
       ],
@@ -403,11 +403,11 @@
       ],
       "ev": [
         21,
-        30,
+        32,
         12,
         19,
         19,
-        22
+        23
       ],
       "abilPool": [
         "Ímpetu Ardiente"
@@ -534,7 +534,7 @@
         6,
         15,
         12,
-        20
+        21
       ],
       "abilPool": [
         "Hidratación",
@@ -682,11 +682,11 @@
       ],
       "ev": [
         10,
-        17,
+        19,
         3,
         10,
         8,
-        12
+        13
       ],
       "abilPool": [
         "Aura Oscura",
@@ -2764,6 +2764,7 @@
       "MT46",
       "MT47",
       "MT51",
+      "MT55",
       "MT58",
       "MT67",
       "MT69",
@@ -2788,6 +2789,7 @@
       "Semilla Electro",
       "Supercaña",
       "Supereviolita",
+      "Superrepelente",
       "Ticket Barco",
       "Ultra Ball",
       "Vcapsula",
@@ -2921,6 +2923,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "SUPERREPEL",
+        "name": "Superrepelente",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
         "qty": 658,
@@ -2935,12 +2943,6 @@
       {
         "id": "REVIVALHERB",
         "name": "Hierba Revivir",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "CENIZASSAGRADAS",
-        "name": "Cenizas Sagradas",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -3079,6 +3081,12 @@
       {
         "id": "TM51",
         "name": "MT51",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM55",
+        "name": "MT55",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
