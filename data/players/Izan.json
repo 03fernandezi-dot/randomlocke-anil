@@ -4,20 +4,385 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 4m jugadas · 3,000₽ · vidas en el juego: 30",
-  "team": [],
+  "notes": "Importado del save · 0h 15m jugadas · 2,960₽ · vidas en el juego: 30",
+  "team": [
+    {
+      "nickname": "Bombardini",
+      "species": "Fuecoco",
+      "level": 6,
+      "types": [
+        "Fuego"
+      ],
+      "ability": "Enjambre",
+      "nature": "Rara",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Calcinación",
+        "Manos Juntas",
+        "Gas Corrosivo"
+      ],
+      "iv": [
+        20,
+        10,
+        20,
+        11,
+        19,
+        31
+      ],
+      "ev": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "abilPool": [
+        "Enjambre"
+      ],
+      "abilHidden": [
+        "Veleta"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Calcinación"
+        },
+        {
+          "lvl": 1,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 6,
+          "m": "Gas Corrosivo"
+        },
+        {
+          "lvl": 7,
+          "m": "Bálsamo Osado"
+        },
+        {
+          "lvl": 12,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 15,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 17,
+          "m": "Ascuas"
+        },
+        {
+          "lvl": 21,
+          "m": "Día Soleado"
+        },
+        {
+          "lvl": 25,
+          "m": "Cambiavelocidad"
+        },
+        {
+          "lvl": 28,
+          "m": "Viento Aciago"
+        },
+        {
+          "lvl": 32,
+          "m": "Imitación"
+        },
+        {
+          "lvl": 36,
+          "m": "Rencor Reprimido"
+        }
+      ],
+      "firstMoves": [
+        "Calcinación",
+        "Manos Juntas"
+      ],
+      "spriteKey": "FUECOCO"
+    },
+    {
+      "nickname": "Carabinero",
+      "species": "Carvanha",
+      "level": 4,
+      "types": [
+        "Agua",
+        "Siniestro"
+      ],
+      "ability": "Sebo",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Vendetta",
+        "Celebración",
+        "Escalofrío"
+      ],
+      "iv": [
+        20,
+        2,
+        28,
+        10,
+        6,
+        6
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "abilPool": [
+        "Anticipación",
+        "Sebo"
+      ],
+      "abilHidden": [
+        "Electrogénesis"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Vendetta"
+        },
+        {
+          "lvl": 1,
+          "m": "Celebración"
+        },
+        {
+          "lvl": 4,
+          "m": "Escalofrío"
+        },
+        {
+          "lvl": 6,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 8,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 12,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 16,
+          "m": "Giro Mortífero"
+        },
+        {
+          "lvl": 20,
+          "m": "Acua Jet"
+        },
+        {
+          "lvl": 24,
+          "m": "Canon"
+        },
+        {
+          "lvl": 26,
+          "m": "Colmillo Ígneo"
+        },
+        {
+          "lvl": 28,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 32,
+          "m": "Onda Trueno"
+        },
+        {
+          "lvl": 36,
+          "m": "Disparo Lodo"
+        },
+        {
+          "lvl": 40,
+          "m": "Día Soleado"
+        },
+        {
+          "lvl": 44,
+          "m": "Cerco Dimensión"
+        }
+      ],
+      "firstMoves": [
+        "Vendetta",
+        "Celebración",
+        "Escalofrío"
+      ],
+      "spriteKey": "CARVANHA"
+    },
+    {
+      "nickname": "ReisyourFAFA",
+      "species": "Flabebe",
+      "level": 5,
+      "types": [
+        "Hada"
+      ],
+      "ability": "Pelusa",
+      "nature": "Serena",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Lanzarrocas",
+        "Ronquido"
+      ],
+      "iv": [
+        2,
+        5,
+        2,
+        16,
+        19,
+        12
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Pelusa"
+      ],
+      "abilHidden": [
+        "Piel Eléctrica"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 1,
+          "m": "Ronquido"
+        },
+        {
+          "lvl": 6,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 10,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 10,
+          "m": "Neblina"
+        },
+        {
+          "lvl": 15,
+          "m": "Somnífero"
+        },
+        {
+          "lvl": 20,
+          "m": "Sustituto"
+        },
+        {
+          "lvl": 22,
+          "m": "Recuperación"
+        },
+        {
+          "lvl": 24,
+          "m": "Velo Aurora"
+        },
+        {
+          "lvl": 24,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 28,
+          "m": "Absorber"
+        },
+        {
+          "lvl": 33,
+          "m": "Ovocuración"
+        },
+        {
+          "lvl": 33,
+          "m": "Pulimento"
+        },
+        {
+          "lvl": 37,
+          "m": "Psicocorte"
+        },
+        {
+          "lvl": 41,
+          "m": "Rabia"
+        },
+        {
+          "lvl": 45,
+          "m": "Canto Encantador"
+        },
+        {
+          "lvl": 48,
+          "m": "Espada Santa"
+        }
+      ],
+      "firstMoves": [
+        "Lanzarrocas",
+        "Ronquido"
+      ],
+      "spriteKey": "FLABEBE_1"
+    }
+  ],
   "box": [],
   "graveyard": [],
-  "captures": [],
+  "captures": [
+    {
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Fuecoco",
+      "nickname": "Bombardini",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Fuecoco"
+    },
+    {
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Carvanha",
+      "nickname": "Carabinero",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 4,
+      "mon": "Carvanha"
+    },
+    {
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Flabebe",
+      "nickname": "ReisyourFAFA",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 5,
+      "mon": "Flabebe"
+    }
+  ],
   "progress": {
     "gyms": {},
     "bosses": {},
     "npcs": {},
-    "routes": {},
+    "routes": {
+      "pueblo_paleta": true,
+      "ruta_1": true,
+      "ciudad_verde": true
+    },
     "items": {},
-    "encounters": {},
+    "encounters": {
+      "pueblo_paleta": true,
+      "ruta_1": true
+    },
     "switches": [
       48,
+      60,
+      62,
+      63,
+      66,
+      67,
+      68,
+      69,
       110,
       176,
       179,
@@ -29,12 +394,92 @@
       334
     ],
     "foundItems": [
-      "Reglamento"
+      "Baya Enigma",
+      "Baya Ziuela",
+      "Hiperpoción",
+      "Miniseta",
+      "Poké Montura",
+      "Reglamento",
+      "Supercaña",
+      "Velocidad X 6",
+      "Vial"
     ],
     "bag": [
       {
+        "id": "WHIPPEDDREAM",
+        "name": "Dulce de Nata",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "TINYMUSHROOM",
+        "name": "Miniseta",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "POTION",
+        "name": "Poción",
+        "qty": 2,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "HYPERPOTION",
+        "name": "Hiperpoción",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "POKEBALL",
+        "name": "Poké Ball",
+        "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "GREATBALL",
+        "name": "Super Ball",
+        "qty": 6,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "LUMBERRY",
+        "name": "Baya Ziuela",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "ENIGMABERRY",
+        "name": "Baya Enigma",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "XSPEED6",
+        "name": "Velocidad X 6",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "SUPERROD",
+        "name": "Supercaña",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "POKERIDER",
+        "name": "Poké Montura",
         "qty": 1,
         "pocket": "Objetos clave"
       }
