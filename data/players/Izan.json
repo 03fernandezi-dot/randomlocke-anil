@@ -4,22 +4,22 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 17m jugadas · 2,960₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 49m jugadas · 560₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Bombardini",
       "species": "Fuecoco",
-      "level": 7,
+      "level": 12,
       "types": [
         "Fuego"
       ],
       "ability": "Enjambre",
       "nature": "Rara",
-      "item": "",
+      "item": "Tarjeta Roja",
       "shiny": false,
       "moves": [
         "Calcinación",
-        "Manos Juntas",
+        "Paralizador",
         "Gas Corrosivo",
         "Bálsamo Osado"
       ],
@@ -32,12 +32,12 @@
         31
       ],
       "ev": [
-        0,
-        2,
-        0,
-        0,
-        1,
-        0
+        4,
+        3,
+        4,
+        3,
+        5,
+        2
       ],
       "abilPool": [
         "Enjambre"
@@ -95,6 +95,9 @@
           "m": "Rencor Reprimido"
         }
       ],
+      "tmMoves": [
+        "Homenaje Póstumo"
+      ],
       "firstMoves": [
         "Calcinación",
         "Manos Juntas"
@@ -104,7 +107,7 @@
     {
       "nickname": "Carabinero",
       "species": "Carvanha",
-      "level": 5,
+      "level": 10,
       "types": [
         "Agua",
         "Siniestro"
@@ -115,8 +118,9 @@
       "shiny": false,
       "moves": [
         "Vendetta",
-        "Celebración",
-        "Escalofrío"
+        "Puño Jet",
+        "Escalofrío",
+        "Ataque Ala"
       ],
       "iv": [
         20,
@@ -127,12 +131,12 @@
         6
       ],
       "ev": [
-        0,
-        1,
-        0,
-        0,
-        1,
-        0
+        4,
+        2,
+        4,
+        3,
+        5,
+        2
       ],
       "abilPool": [
         "Anticipación",
@@ -203,6 +207,10 @@
           "m": "Cerco Dimensión"
         }
       ],
+      "tmMoves": [
+        "Ataque Ala",
+        "Puño Jet"
+      ],
       "firstMoves": [
         "Vendetta",
         "Celebración",
@@ -213,17 +221,19 @@
     {
       "nickname": "ReisyourFAFA",
       "species": "Flabebe",
-      "level": 5,
+      "level": 10,
       "types": [
         "Hada"
       ],
       "ability": "Pelusa",
       "nature": "Serena",
-      "item": "",
+      "item": "Tabla Pétrea",
       "shiny": false,
       "moves": [
         "Lanzarrocas",
-        "Ronquido"
+        "Ronquido",
+        "Cerrojo Feérico",
+        "Homenaje Póstumo"
       ],
       "iv": [
         2,
@@ -234,12 +244,12 @@
         12
       ],
       "ev": [
-        0,
-        1,
-        0,
-        0,
-        0,
-        0
+        4,
+        2,
+        4,
+        3,
+        4,
+        2
       ],
       "abilPool": [
         "Pelusa"
@@ -317,6 +327,11 @@
           "m": "Espada Santa"
         }
       ],
+      "tmMoves": [
+        "Cambiavelocidad",
+        "Homenaje Póstumo",
+        "Puño Jet"
+      ],
       "firstMoves": [
         "Lanzarrocas",
         "Ronquido"
@@ -326,7 +341,7 @@
     {
       "nickname": "Frigopie",
       "species": "Frigibax",
-      "level": 4,
+      "level": 10,
       "types": [
         "Dragón",
         "Hielo"
@@ -337,8 +352,9 @@
       "shiny": false,
       "moves": [
         "Cura Selvática",
-        "Velo Aurora",
-        "Carámbano"
+        "Reducción",
+        "Carámbano",
+        "Ascuas"
       ],
       "iv": [
         21,
@@ -349,12 +365,12 @@
         6
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        4,
+        1,
+        4,
+        3,
+        4,
+        2
       ],
       "abilPool": [
         "Flexibilidad"
@@ -416,12 +432,187 @@
           "m": "Vendaval Gélido"
         }
       ],
+      "tmMoves": [
+        "Puño Jet",
+        "Reducción"
+      ],
       "firstMoves": [
         "Cura Selvática",
         "Velo Aurora",
         "Carámbano"
       ],
       "spriteKey": "FRIGIBAX"
+    },
+    {
+      "nickname": "urichupamela",
+      "species": "Spheal",
+      "level": 12,
+      "types": [
+        "Hielo",
+        "Agua"
+      ],
+      "ability": "Impulso",
+      "nature": "Ingenua",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Auxilio",
+        "Vasto Impacto",
+        "Bomba Caramelo",
+        "Rayo Carga"
+      ],
+      "iv": [
+        5,
+        28,
+        24,
+        6,
+        29,
+        2
+      ],
+      "ev": [
+        3,
+        1,
+        4,
+        3,
+        4,
+        2
+      ],
+      "abilPool": [
+        "Impulso",
+        "Normalidad"
+      ],
+      "abilHidden": [
+        "Hidrorrefuerzo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Auxilio"
+        },
+        {
+          "lvl": 1,
+          "m": "Vasto Impacto"
+        },
+        {
+          "lvl": 4,
+          "m": "Bomba Caramelo"
+        },
+        {
+          "lvl": 8,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 12,
+          "m": "Telaraña"
+        },
+        {
+          "lvl": 13,
+          "m": "Salpicadura"
+        },
+        {
+          "lvl": 16,
+          "m": "Giro Rápido"
+        },
+        {
+          "lvl": 20,
+          "m": "Respiro"
+        },
+        {
+          "lvl": 24,
+          "m": "Camelo"
+        },
+        {
+          "lvl": 28,
+          "m": "Nieve Polvo"
+        },
+        {
+          "lvl": 33,
+          "m": "Canto Mortal"
+        },
+        {
+          "lvl": 36,
+          "m": "Aromaterapia"
+        },
+        {
+          "lvl": 40,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 44,
+          "m": "Sylveotornado"
+        },
+        {
+          "lvl": 48,
+          "m": "Pulpocañón"
+        },
+        {
+          "lvl": 52,
+          "m": "Irreverencia"
+        }
+      ],
+      "tmMoves": [
+        "Ataque Ala"
+      ],
+      "firstMoves": [
+        "Auxilio",
+        "Vasto Impacto",
+        "Bomba Caramelo"
+      ],
+      "spriteKey": "SPHEAL"
+    },
+    {
+      "nickname": "Laura",
+      "species": "Spewpa",
+      "level": 7,
+      "types": [
+        "Bicho"
+      ],
+      "ability": "General Supremo",
+      "nature": "Mansa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Espacio Raro",
+        "Voltiocambio"
+      ],
+      "iv": [
+        5,
+        21,
+        21,
+        25,
+        26,
+        20
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "General Supremo",
+        "Vigilante"
+      ],
+      "abilHidden": [
+        "Caldero Debacle"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Polución"
+        },
+        {
+          "lvl": 1,
+          "m": "Espacio Raro"
+        }
+      ],
+      "firstMoves": [
+        "Espacio Raro",
+        "Voltiocambio"
+      ],
+      "spriteKey": "SPEWPA_3"
     }
   ],
   "box": [],
@@ -470,6 +661,28 @@
       "category": "ciudad",
       "level": 4,
       "mon": "Frigibax"
+    },
+    {
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Spheal",
+      "nickname": "urichupamela",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 5,
+      "mon": "Spheal"
+    },
+    {
+      "route": "ruta_2_norte",
+      "where": "Ruta 2 Norte",
+      "species": "Spewpa",
+      "nickname": "Laura",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 7,
+      "mon": "Spewpa"
     }
   ],
   "progress": {
@@ -479,13 +692,20 @@
     "routes": {
       "pueblo_paleta": true,
       "ruta_1": true,
-      "ciudad_verde": true
+      "ciudad_verde": true,
+      "ruta_2_sur": true,
+      "ruta_2_norte": true,
+      "bosque_verde": true,
+      "ciudad_plateada": true
     },
     "items": {},
     "encounters": {
       "pueblo_paleta": true,
       "ruta_1": true,
-      "ciudad_verde": true
+      "ciudad_verde": true,
+      "ruta_2_sur": true,
+      "bosque_verde": true,
+      "ruta_2_norte": true
     },
     "switches": [
       48,
@@ -496,7 +716,9 @@
       67,
       68,
       69,
+      71,
       110,
+      112,
       176,
       179,
       180,
@@ -508,12 +730,29 @@
     ],
     "foundItems": [
       "Baya Enigma",
+      "Baya Lagro",
       "Baya Ziuela",
+      "Baya Zreza",
+      "Dulce de Nata",
+      "Garra Garfio",
+      "Globo Helio",
       "Hiperpoción",
+      "Malasada Maxi",
+      "Menta Amable",
       "Miniseta",
+      "MT123",
+      "MT14",
+      "MT27",
+      "MT41",
+      "MT60",
+      "MT83",
+      "MT97",
       "Poké Montura",
       "Reglamento",
       "Supercaña",
+      "Supercápsula",
+      "Tabla Pétrea",
+      "Tarjeta Roja",
       "Velocidad X 6",
       "Vial"
     ],
@@ -521,7 +760,7 @@
       {
         "id": "WHIPPEDDREAM",
         "name": "Dulce de Nata",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -531,15 +770,57 @@
         "pocket": "Objetos"
       },
       {
-        "id": "POTION",
-        "name": "Poción",
-        "qty": 2,
-        "pocket": "Medicinas"
+        "id": "GRIPCLAW",
+        "name": "Garra Garfio",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "AIRBALLOON",
+        "name": "Globo Helio",
+        "qty": 1,
+        "pocket": "Objetos"
       },
       {
         "id": "HYPERPOTION",
         "name": "Hiperpoción",
         "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "BIGMALASADA",
+        "name": "Malasada Maxi",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "GENTLEMINT",
+        "name": "Menta Amable",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "SUPERCAPSULE",
+        "name": "Supercápsula",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "RARECANDY",
+        "name": "Caramelo Raro",
+        "qty": 999,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "RARECANDY",
+        "name": "Caramelo Raro",
+        "qty": 999,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "RARECANDY",
+        "name": "Caramelo Raro",
+        "qty": 702,
         "pocket": "Medicinas"
       },
       {
@@ -551,8 +832,56 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 5,
+        "qty": 8,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM14",
+        "name": "MT14",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM27",
+        "name": "MT27",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM41",
+        "name": "MT41",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM60",
+        "name": "MT60",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM83",
+        "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM97",
+        "name": "MT97",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM123",
+        "name": "MT123",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "CHERIBERRY",
+        "name": "Baya Zreza",
+        "qty": 1,
+        "pocket": "Bayas"
       },
       {
         "id": "LUMBERRY",
@@ -563,6 +892,12 @@
       {
         "id": "ENIGMABERRY",
         "name": "Baya Enigma",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "MICLEBERRY",
+        "name": "Baya Lagro",
         "qty": 1,
         "pocket": "Bayas"
       },
@@ -585,8 +920,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
