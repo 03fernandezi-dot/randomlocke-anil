@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 3h 11m jugadas · 63,610₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 3h 27m jugadas · 65,510₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Pauet Pauet",
       "species": "Corvisquire",
-      "level": 19,
+      "level": 20,
       "types": [
         "Volador"
       ],
@@ -34,12 +34,12 @@
         9
       ],
       "ev": [
-        14,
+        16,
         252,
         11,
         11,
         9,
-        11
+        13
       ],
       "abilPool": [
         "Velo Pastel",
@@ -98,6 +98,9 @@
           "m": "Acróbata"
         }
       ],
+      "tmMoves": [
+        "Despejar"
+      ],
       "firstMoves": [
         "Picotazo",
         "Ataque Ala",
@@ -108,7 +111,7 @@
     {
       "nickname": "KillerQueen",
       "species": "Nidorina",
-      "level": 19,
+      "level": 20,
       "types": [
         "Veneno"
       ],
@@ -131,12 +134,12 @@
         22
       ],
       "ev": [
-        13,
-        14,
+        15,
+        15,
         10,
         11,
         11,
-        11
+        13
       ],
       "abilPool": [
         "Cuerpo Mortal",
@@ -242,12 +245,12 @@
         28
       ],
       "ev": [
-        12,
         14,
+        15,
         10,
         11,
         11,
-        11
+        13
       ],
       "abilPool": [
         "Pararrayos",
@@ -356,12 +359,12 @@
         0
       ],
       "ev": [
-        11,
         13,
+        14,
         9,
         9,
         11,
-        10
+        12
       ],
       "abilPool": [
         "Expulsarena"
@@ -444,7 +447,7 @@
     {
       "nickname": "El Onvre",
       "species": "Lombre",
-      "level": 19,
+      "level": 20,
       "types": [
         "Agua",
         "Planta"
@@ -470,12 +473,12 @@
         12
       ],
       "ev": [
-        5,
         7,
+        8,
         3,
         5,
         4,
-        8
+        10
       ],
       "abilPool": [
         "Hidratación",
@@ -593,14 +596,14 @@
     {
       "nickname": "LitroVatio",
       "species": "Wattrel",
-      "level": 17,
+      "level": 18,
       "types": [
         "Eléctrico",
         "Volador"
       ],
       "ability": "Entusiasmo",
       "nature": "Alocada",
-      "item": "",
+      "item": "Incienso Suave",
       "shiny": false,
       "moves": [
         "Guillotina",
@@ -617,12 +620,12 @@
         13
       ],
       "ev": [
+        2,
+        1,
         0,
         0,
         0,
-        0,
-        0,
-        0
+        2
       ],
       "abilPool": [
         "Entusiasmo",
@@ -682,7 +685,12 @@
         }
       ],
       "tmMoves": [
-        "Despejar"
+        "Despejar",
+        "Destello",
+        "Gran Ojo",
+        "Ofrenda",
+        "Restricción",
+        "Viraje"
       ],
       "firstMoves": [
         "Guillotina",
@@ -2023,7 +2031,8 @@
       "ciudad_plateada": true,
       "monte_moon": true,
       "monte_moon_exterior": true,
-      "ciudad_verde": true
+      "ciudad_verde": true,
+      "ciudad_celeste": true
     },
     "items": {},
     "encounters": {
@@ -2054,6 +2063,7 @@
       73,
       74,
       75,
+      76,
       110,
       112,
       113,
@@ -2086,12 +2096,14 @@
       "Cenizas Sagradas",
       "Cuerda Huida",
       "Def. Esp. X 6",
+      "Ente Ball",
       "Fósil Hélix",
       "Fragmento Cometa",
       "Gema Fuego",
       "Gloria Ball",
       "Hierba Revivir",
       "Incienso Duplo",
+      "Incienso Suave",
       "Menta Activa",
       "Menta Floja",
       "Menta Miedosa",
@@ -2104,6 +2116,7 @@
       "MT120",
       "MT20",
       "MT21",
+      "MT23",
       "MT27",
       "MT39",
       "MT40",
@@ -2121,6 +2134,7 @@
       "Poké Montura",
       "Prisma Rojo",
       "Reglamento",
+      "Sana Ball",
       "Semilla Electro",
       "Supercaña",
       "Ultra Ball",
@@ -2261,6 +2275,18 @@
         "pocket": "Poké Balls"
       },
       {
+        "id": "BEASTBALL",
+        "name": "Ente Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "HEALBALL",
+        "name": "Sana Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
         "id": "TM04",
         "name": "MT04",
         "qty": 1,
@@ -2281,6 +2307,12 @@
       {
         "id": "TM21",
         "name": "MT21",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM23",
+        "name": "MT23",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
