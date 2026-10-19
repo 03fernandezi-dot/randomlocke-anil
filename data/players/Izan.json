@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 3h 0m jugadas · 60,380₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 3h 11m jugadas · 63,610₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Pauet Pauet",
@@ -38,8 +38,8 @@
         252,
         11,
         11,
-        8,
-        9
+        9,
+        11
       ],
       "abilPool": [
         "Velo Pastel",
@@ -132,11 +132,11 @@
       ],
       "ev": [
         13,
-        13,
+        14,
         10,
         11,
-        10,
-        9
+        11,
+        11
       ],
       "abilPool": [
         "Cuerpo Mortal",
@@ -216,7 +216,7 @@
     {
       "nickname": "El Lago",
       "species": "Ducklett",
-      "level": 18,
+      "level": 19,
       "types": [
         "Agua",
         "Volador"
@@ -243,11 +243,11 @@
       ],
       "ev": [
         12,
-        13,
+        14,
         10,
         11,
-        10,
-        9
+        11,
+        11
       ],
       "abilPool": [
         "Pararrayos",
@@ -320,7 +320,8 @@
       ],
       "tmMoves": [
         "Ofrenda",
-        "Rastreo"
+        "Rastreo",
+        "Última Palabra"
       ],
       "firstMoves": [
         "Paisaje Nevado",
@@ -332,7 +333,7 @@
     {
       "nickname": "Alviiiiiin",
       "species": "Skwovet",
-      "level": 18,
+      "level": 19,
       "types": [
         "Normal"
       ],
@@ -356,11 +357,11 @@
       ],
       "ev": [
         11,
-        12,
+        13,
         9,
         9,
-        10,
-        8
+        11,
+        10
       ],
       "abilPool": [
         "Expulsarena"
@@ -441,67 +442,9 @@
       "spriteKey": "SKWOVET"
     },
     {
-      "nickname": "Totyyy vamss",
-      "species": "Gimmighoul",
-      "level": 18,
-      "types": [
-        "Fantasma"
-      ],
-      "ability": "Aura Feérica",
-      "nature": "Alegre",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Tambor",
-        "Giro Bola",
-        "Giro Rápido"
-      ],
-      "iv": [
-        9,
-        14,
-        20,
-        5,
-        9,
-        3
-      ],
-      "ev": [
-        11,
-        13,
-        9,
-        10,
-        10,
-        9
-      ],
-      "abilPool": [
-        "Aura Feérica"
-      ],
-      "abilHidden": [],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Tambor"
-        },
-        {
-          "lvl": 1,
-          "m": "Giro Bola"
-        }
-      ],
-      "tmMoves": [
-        "Despejar",
-        "Rastreo",
-        "Última Palabra"
-      ],
-      "firstMoves": [
-        "Tambor",
-        "Giro Bola",
-        "Giro Rápido"
-      ],
-      "spriteKey": "GIMMIGHOUL"
-    },
-    {
       "nickname": "El Onvre",
       "species": "Lombre",
-      "level": 18,
+      "level": 19,
       "types": [
         "Agua",
         "Planta"
@@ -528,11 +471,11 @@
       ],
       "ev": [
         5,
-        6,
+        7,
         3,
         5,
-        3,
-        6
+        4,
+        8
       ],
       "abilPool": [
         "Hidratación",
@@ -646,6 +589,108 @@
         "Patada Tropical"
       ],
       "spriteKey": "LOMBRE"
+    },
+    {
+      "nickname": "LitroVatio",
+      "species": "Wattrel",
+      "level": 17,
+      "types": [
+        "Eléctrico",
+        "Volador"
+      ],
+      "ability": "Entusiasmo",
+      "nature": "Alocada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Guillotina",
+        "Viraje",
+        "Pulimento",
+        "Rugido"
+      ],
+      "iv": [
+        2,
+        9,
+        23,
+        18,
+        22,
+        13
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Entusiasmo",
+        "Ímpetu Tóxico"
+      ],
+      "abilHidden": [
+        "Ignífugo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Manto Espejo"
+        },
+        {
+          "lvl": 1,
+          "m": "Kinético"
+        },
+        {
+          "lvl": 4,
+          "m": "Guillotina"
+        },
+        {
+          "lvl": 7,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 11,
+          "m": "Pulimento"
+        },
+        {
+          "lvl": 15,
+          "m": "Rugido"
+        },
+        {
+          "lvl": 19,
+          "m": "Agitacola"
+        },
+        {
+          "lvl": 23,
+          "m": "Recogearena"
+        },
+        {
+          "lvl": 27,
+          "m": "Tragar"
+        },
+        {
+          "lvl": 32,
+          "m": "Rayo Fusión"
+        },
+        {
+          "lvl": 37,
+          "m": "Psicohojas"
+        },
+        {
+          "lvl": 43,
+          "m": "Obstrucción"
+        }
+      ],
+      "tmMoves": [
+        "Despejar"
+      ],
+      "firstMoves": [
+        "Guillotina",
+        "Viraje",
+        "Pulimento",
+        "Rugido"
+      ],
+      "spriteKey": "WATTREL"
     }
   ],
   "box": [
@@ -1592,6 +1637,64 @@
         "Pisotón"
       ],
       "spriteKey": "NUMEL"
+    },
+    {
+      "nickname": "Totyyy vamss",
+      "species": "Gimmighoul",
+      "level": 18,
+      "types": [
+        "Fantasma"
+      ],
+      "ability": "Aura Feérica",
+      "nature": "Alegre",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Tambor",
+        "Giro Bola",
+        "Giro Rápido"
+      ],
+      "iv": [
+        9,
+        14,
+        20,
+        5,
+        9,
+        3
+      ],
+      "ev": [
+        11,
+        14,
+        9,
+        10,
+        11,
+        11
+      ],
+      "abilPool": [
+        "Aura Feérica"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Tambor"
+        },
+        {
+          "lvl": 1,
+          "m": "Giro Bola"
+        }
+      ],
+      "tmMoves": [
+        "Despejar",
+        "Rastreo",
+        "Última Palabra"
+      ],
+      "firstMoves": [
+        "Tambor",
+        "Giro Bola",
+        "Giro Rápido"
+      ],
+      "spriteKey": "GIMMIGHOUL"
     }
   ],
   "graveyard": [
@@ -1770,17 +1873,6 @@
       "mon": "Skwovet"
     },
     {
-      "route": "ciudad_verde",
-      "where": "Ciudad Verde",
-      "species": "Gimmighoul",
-      "nickname": "Totyyy vamss",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 6,
-      "mon": "Gimmighoul"
-    },
-    {
       "route": "ruta_3",
       "where": "Ruta 3",
       "species": "Lombre",
@@ -1790,6 +1882,17 @@
       "category": "salvaje",
       "level": 12,
       "mon": "Lombre"
+    },
+    {
+      "route": "ruta_4",
+      "where": "Ruta 4",
+      "species": "Wattrel",
+      "nickname": "LitroVatio",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 17,
+      "mon": "Wattrel"
     },
     {
       "route": "bosque_verde",
@@ -1880,6 +1983,17 @@
       "mon": "Numel"
     },
     {
+      "route": "ciudad_verde",
+      "where": "Ciudad Verde",
+      "species": "Gimmighoul",
+      "nickname": "Totyyy vamss",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 6,
+      "mon": "Gimmighoul"
+    },
+    {
       "route": "ciudad_plateada",
       "where": "Ciudad Plateada",
       "species": "Yungoos",
@@ -1901,14 +2015,15 @@
       "pueblo_paleta": true,
       "ruta_1": true,
       "ruta_22": true,
-      "ciudad_verde": true,
       "ruta_3": true,
+      "ruta_4": true,
       "bosque_verde": true,
       "ruta_2_norte": true,
       "ruta_2_sur": true,
       "ciudad_plateada": true,
       "monte_moon": true,
-      "monte_moon_exterior": true
+      "monte_moon_exterior": true,
+      "ciudad_verde": true
     },
     "items": {},
     "encounters": {
@@ -1922,7 +2037,8 @@
       "ciudad_plateada": true,
       "ruta_3": true,
       "monte_moon": true,
-      "monte_moon_exterior": true
+      "monte_moon_exterior": true,
+      "ruta_4": true
     },
     "switches": [
       48,
@@ -1936,6 +2052,7 @@
       71,
       72,
       73,
+      74,
       75,
       110,
       112,
@@ -1962,6 +2079,7 @@
       "Baya Chiri",
       "Baya Drasi",
       "Baya Kebia",
+      "Baya Wiki",
       "Bola de Humo",
       "Brazal Recio",
       "Cascabel Concha",
@@ -1971,6 +2089,7 @@
       "Fósil Hélix",
       "Fragmento Cometa",
       "Gema Fuego",
+      "Gloria Ball",
       "Hierba Revivir",
       "Incienso Duplo",
       "Menta Activa",
@@ -1979,8 +2098,10 @@
       "Metrónomo",
       "Miniseta",
       "MO Golpe Roca",
+      "MT04",
       "MT07",
       "MT116",
+      "MT120",
       "MT20",
       "MT21",
       "MT27",
@@ -2118,7 +2239,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 42,
+        "qty": 40,
         "pocket": "Poké Balls"
       },
       {
@@ -2132,6 +2253,18 @@
         "name": "Amigo Ball",
         "qty": 1,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "CHERISHBALL",
+        "name": "Gloria Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM04",
+        "name": "MT04",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "TM07",
@@ -2218,6 +2351,18 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM120",
+        "name": "MT120",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "WIKIBERRY",
+        "name": "Baya Wiki",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "OCCABERRY",
         "name": "Baya Caoca",
         "qty": 1,
@@ -2260,8 +2405,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
