@@ -4,130 +4,126 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 4h 30m jugadas · 80,740₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 4h 57m jugadas · 88,830₽ · vidas en el juego: 28",
   "team": [
     {
-      "nickname": "Espía 2",
-      "species": "Pidove",
-      "level": 22,
+      "nickname": "Pauet Pauet",
+      "species": "Corvisquire",
+      "level": 24,
       "types": [
-        "Normal",
         "Volador"
       ],
-      "ability": "Piel Tosca",
-      "nature": "Ingenua",
-      "item": "Supereviolita",
+      "ability": "Piel Helada",
+      "nature": "Floja",
+      "item": "Brazal Recio",
       "shiny": false,
       "moves": [
-        "Ala de Acero",
-        "Represalia",
-        "Tornado",
-        "Perforador"
+        "Búnker",
+        "Ataque Ala",
+        "Rizo Defensa",
+        "Ráfaga Escamas"
       ],
+      "natureMint": true,
+      "natureBase": "Grosera",
       "iv": [
-        4,
+        25,
         6,
-        23,
-        14,
-        31,
-        26
+        5,
+        3,
+        5,
+        19
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        24,
+        252,
+        13,
+        20,
+        15,
+        18
       ],
       "abilPool": [
-        "Piel Tosca"
+        "Velo Pastel",
+        "Piel Helada"
       ],
       "abilHidden": [
-        "Megadisparador"
+        "Rompeaura"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Ala de Acero"
+          "m": "Respiro"
         },
         {
           "lvl": 1,
-          "m": "Represalia"
+          "m": "Golpe Aéreo"
         },
         {
-          "lvl": 4,
-          "m": "Tornado"
+          "lvl": 1,
+          "m": "Doble Bofetón"
         },
         {
-          "lvl": 8,
-          "m": "Castigo"
+          "lvl": 1,
+          "m": "Disparo Lodo"
+        },
+        {
+          "lvl": 10,
+          "m": "Rayo Carga"
         },
         {
           "lvl": 12,
-          "m": "Celebración"
-        },
-        {
-          "lvl": 13,
-          "m": "Retracción"
+          "m": "Hachazo Pétreo"
         },
         {
           "lvl": 16,
-          "m": "Onda Simple"
+          "m": "Semilladora"
         },
         {
-          "lvl": 20,
-          "m": "Perforador"
-        },
-        {
-          "lvl": 24,
-          "m": "Armadura Ácida"
+          "lvl": 22,
+          "m": "Tornado"
         },
         {
           "lvl": 28,
-          "m": "Deseo"
+          "m": "Llave Corsé"
         },
         {
-          "lvl": 32,
-          "m": "Hidropulso"
-        },
-        {
-          "lvl": 32,
-          "m": "Finta"
-        },
-        {
-          "lvl": 36,
-          "m": "A Bocajarro"
+          "lvl": 34,
+          "m": "Electormenta"
         },
         {
           "lvl": 40,
-          "m": "Campo Eléctrico"
+          "m": "Conversión"
         },
         {
-          "lvl": 43,
-          "m": "Avivar"
-        },
-        {
-          "lvl": 44,
-          "m": "Psicoataque"
+          "lvl": 46,
+          "m": "Acróbata"
         }
       ],
       "tmMoves": [
+        "Aromaterapia",
+        "Bomba Fango",
+        "Búnker",
+        "Cepo",
         "Despejar",
-        "Metrónomo"
+        "Garra Metal",
+        "Meditación",
+        "Poder Reserva",
+        "Remolino",
+        "Restricción",
+        "Reversión",
+        "Truco Floral",
+        "Viraje"
       ],
       "firstMoves": [
-        "Ala de Acero",
-        "Represalia",
-        "Tornado",
-        "Castigo"
+        "Picotazo",
+        "Ataque Ala",
+        "Rizo Defensa"
       ],
-      "spriteKey": "PIDOVE"
+      "spriteKey": "CORVISQUIRE"
     },
     {
       "nickname": "KillerQueen",
       "species": "Nidorina",
-      "level": 23,
+      "level": 24,
       "types": [
         "Veneno"
       ],
@@ -150,12 +146,12 @@
         22
       ],
       "ev": [
+        23,
+        31,
+        12,
         20,
-        25,
-        11,
         17,
-        15,
-        15
+        18
       ],
       "abilPool": [
         "Cuerpo Mortal",
@@ -229,10 +225,13 @@
       "tmMoves": [
         "Bomba Fango",
         "Búnker",
+        "Cepo",
         "Despejar",
         "Destello",
+        "Estímulo",
         "Ofrenda",
         "Poder Reserva",
+        "Resarcimiento",
         "Truco Floral"
       ],
       "firstMoves": [
@@ -242,122 +241,145 @@
       "spriteKey": "NIDORINA"
     },
     {
-      "nickname": "Pauet Pauet",
-      "species": "Corvisquire",
-      "level": 23,
+      "nickname": "Princesita 2",
+      "species": "Brionne",
+      "level": 24,
       "types": [
-        "Volador"
+        "Agua"
       ],
-      "ability": "Piel Helada",
-      "nature": "Floja",
-      "item": "Brazal Recio",
+      "ability": "Mimetismo",
+      "nature": "Pícara",
+      "item": "",
       "shiny": false,
       "moves": [
-        "Búnker",
-        "Ataque Ala",
-        "Rizo Defensa",
-        "Ráfaga Escamas"
+        "Ovocuración",
+        "Voz Cautivadora",
+        "Prensa Metálica",
+        "Psicocorte"
       ],
-      "natureMint": true,
-      "natureBase": "Grosera",
       "iv": [
+        10,
+        11,
         25,
         6,
-        5,
-        3,
-        5,
-        19
+        26,
+        20
       ],
       "ev": [
-        21,
-        252,
-        12,
-        17,
-        13,
-        15
+        0,
+        6,
+        1,
+        1,
+        0,
+        2
       ],
       "abilPool": [
-        "Velo Pastel",
-        "Piel Helada"
+        "Mimetismo"
       ],
       "abilHidden": [
-        "Rompeaura"
+        "Pelaje Recio"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Respiro"
+          "m": "Camuflaje"
         },
         {
           "lvl": 1,
-          "m": "Golpe Aéreo"
+          "m": "Voz Cautivadora"
         },
         {
           "lvl": 1,
-          "m": "Doble Bofetón"
+          "m": "Bomba Caramelo"
         },
         {
           "lvl": 1,
-          "m": "Disparo Lodo"
+          "m": "Manto Espejo"
         },
         {
-          "lvl": 10,
-          "m": "Rayo Carga"
+          "lvl": 9,
+          "m": "Ovocuración"
+        },
+        {
+          "lvl": 11,
+          "m": "Chulería"
         },
         {
           "lvl": 12,
-          "m": "Hachazo Pétreo"
+          "m": "Prensa Metálica"
         },
         {
-          "lvl": 16,
-          "m": "Semilladora"
+          "lvl": 15,
+          "m": "Psicocorte"
         },
         {
-          "lvl": 22,
-          "m": "Tornado"
+          "lvl": 20,
+          "m": "Electrificación"
         },
         {
-          "lvl": 28,
-          "m": "Llave Corsé"
+          "lvl": 25,
+          "m": "Picotazo Veneno"
         },
         {
-          "lvl": 34,
-          "m": "Electormenta"
+          "lvl": 30,
+          "m": "Fanfarronear"
+        },
+        {
+          "lvl": 33,
+          "m": "Cañón Armadura"
+        },
+        {
+          "lvl": 35,
+          "m": "Vapodrenaje"
         },
         {
           "lvl": 40,
-          "m": "Conversión"
+          "m": "Motivación"
+        },
+        {
+          "lvl": 45,
+          "m": "Llama Final"
         },
         {
           "lvl": 46,
-          "m": "Acróbata"
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 50,
+          "m": "Leafitobombas"
+        },
+        {
+          "lvl": 55,
+          "m": "Filo Potente"
         }
       ],
       "tmMoves": [
-        "Aromaterapia",
         "Bomba Fango",
-        "Búnker",
+        "Cepo",
         "Despejar",
+        "Destello",
+        "Estímulo",
         "Garra Metal",
         "Meditación",
         "Poder Reserva",
-        "Remolino",
-        "Restricción",
         "Reversión",
+        "Torbellino",
         "Truco Floral",
+        "Última Palabra",
         "Viraje"
       ],
       "firstMoves": [
-        "Picotazo",
-        "Ataque Ala",
-        "Rizo Defensa"
+        "Ovocuración",
+        "Chulería",
+        "Prensa Metálica",
+        "Psicocorte"
       ],
-      "spriteKey": "CORVISQUIRE"
+      "spriteKey": "BRIONNE"
     },
     {
       "nickname": "Alviiiiiin",
       "species": "Greedent",
-      "level": 23,
+      "level": 24,
       "types": [
         "Normal"
       ],
@@ -380,12 +402,12 @@
         0
       ],
       "ev": [
+        21,
+        30,
+        11,
         18,
-        24,
-        10,
-        15,
-        15,
-        14
+        17,
+        17
       ],
       "abilPool": [
         "Ímpetu Ardiente"
@@ -459,6 +481,7 @@
         "Bomba Fango",
         "Búnker",
         "Capa Mágica",
+        "Cepo",
         "Destello",
         "Garra Metal",
         "Metrónomo",
@@ -480,7 +503,7 @@
     {
       "nickname": "El Onvre",
       "species": "Lombre",
-      "level": 23,
+      "level": 24,
       "types": [
         "Agua",
         "Planta"
@@ -506,12 +529,12 @@
         12
       ],
       "ev": [
-        12,
-        18,
-        4,
-        11,
-        8,
-        12
+        15,
+        24,
+        5,
+        14,
+        10,
+        15
       ],
       "abilPool": [
         "Hidratación",
@@ -613,6 +636,7 @@
       "tmMoves": [
         "Aromaterapia",
         "Búnker",
+        "Cepo",
         "Condena Silvana",
         "Destello",
         "Gran Ojo",
@@ -633,7 +657,7 @@
     {
       "nickname": "LitroVatio",
       "species": "Wattrel",
-      "level": 23,
+      "level": 24,
       "types": [
         "Eléctrico",
         "Volador"
@@ -646,7 +670,7 @@
         "Guillotina",
         "Viraje",
         "Pulimento",
-        "Rugido"
+        "Resarcimiento"
       ],
       "iv": [
         2,
@@ -657,12 +681,12 @@
         13
       ],
       "ev": [
-        7,
-        11,
-        1,
+        10,
+        17,
+        2,
+        9,
         6,
-        4,
-        4
+        7
       ],
       "abilPool": [
         "Entusiasmo",
@@ -729,6 +753,7 @@
         "Gran Ojo",
         "Meditación",
         "Ofrenda",
+        "Resarcimiento",
         "Restricción",
         "Truco Floral",
         "Viraje"
@@ -1977,6 +2002,134 @@
         "Ataque Rápido"
       ],
       "spriteKey": "DUCKLETT"
+    },
+    {
+      "nickname": "Espía 2",
+      "species": "Pidove",
+      "level": 23,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Piel Tosca",
+      "nature": "Ingenua",
+      "item": "Supereviolita",
+      "shiny": false,
+      "moves": [
+        "Ala de Acero",
+        "Represalia",
+        "Truco Floral",
+        "Perforador"
+      ],
+      "iv": [
+        4,
+        6,
+        23,
+        14,
+        31,
+        26
+      ],
+      "ev": [
+        3,
+        0,
+        0,
+        2,
+        2,
+        1
+      ],
+      "abilPool": [
+        "Piel Tosca"
+      ],
+      "abilHidden": [
+        "Megadisparador"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Ala de Acero"
+        },
+        {
+          "lvl": 1,
+          "m": "Represalia"
+        },
+        {
+          "lvl": 4,
+          "m": "Tornado"
+        },
+        {
+          "lvl": 8,
+          "m": "Castigo"
+        },
+        {
+          "lvl": 12,
+          "m": "Celebración"
+        },
+        {
+          "lvl": 13,
+          "m": "Retracción"
+        },
+        {
+          "lvl": 16,
+          "m": "Onda Simple"
+        },
+        {
+          "lvl": 20,
+          "m": "Perforador"
+        },
+        {
+          "lvl": 24,
+          "m": "Armadura Ácida"
+        },
+        {
+          "lvl": 28,
+          "m": "Deseo"
+        },
+        {
+          "lvl": 32,
+          "m": "Hidropulso"
+        },
+        {
+          "lvl": 32,
+          "m": "Finta"
+        },
+        {
+          "lvl": 36,
+          "m": "A Bocajarro"
+        },
+        {
+          "lvl": 40,
+          "m": "Campo Eléctrico"
+        },
+        {
+          "lvl": 43,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 44,
+          "m": "Psicoataque"
+        }
+      ],
+      "tmMoves": [
+        "Bomba Fango",
+        "Cepo",
+        "Despejar",
+        "Estímulo",
+        "Gran Ojo",
+        "Metrónomo",
+        "Ofrenda",
+        "Poder Reserva",
+        "Rastreo",
+        "Remolino",
+        "Restricción",
+        "Truco Floral"
+      ],
+      "firstMoves": [
+        "Ala de Acero",
+        "Represalia",
+        "Tornado",
+        "Castigo"
+      ],
+      "spriteKey": "PIDOVE"
     }
   ],
   "graveyard": [
@@ -2111,15 +2264,15 @@
   ],
   "captures": [
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Pidove",
-      "nickname": "Espía 2",
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Corvisquire",
+      "nickname": "Pauet Pauet",
       "shiny": false,
       "status": "captured",
-      "category": "ciudad",
-      "level": 10,
-      "mon": "Pidove"
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Corvisquire"
     },
     {
       "route": "pueblo_paleta",
@@ -2133,15 +2286,15 @@
       "mon": "Nidorina"
     },
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Corvisquire",
-      "nickname": "Pauet Pauet",
+      "route": "ruta_6",
+      "where": "Ruta 6",
+      "species": "Brionne",
+      "nickname": "Princesita 2",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Corvisquire"
+      "category": "salvaje",
+      "level": 18,
+      "mon": "Brionne"
     },
     {
       "route": "ruta_22",
@@ -2300,6 +2453,17 @@
     {
       "route": "ciudad_plateada",
       "where": "Ciudad Plateada",
+      "species": "Pidove",
+      "nickname": "Espía 2",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Pidove"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
       "species": "Yungoos",
       "nickname": "Donal Tromp",
       "shiny": false,
@@ -2317,8 +2481,8 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ciudad_plateada": true,
       "pueblo_paleta": true,
+      "ruta_6": true,
       "ruta_22": true,
       "ruta_3": true,
       "ruta_4": true,
@@ -2331,9 +2495,10 @@
       "ciudad_verde": true,
       "ruta_21": true,
       "ruta_1": true,
+      "ciudad_plateada": true,
       "ciudad_celeste": true,
       "ruta_20": true,
-      "ruta_6": true
+      "ciudad_carmin": true
     },
     "items": {},
     "encounters": {
@@ -2351,7 +2516,8 @@
       "ruta_4": true,
       "ruta_20": true,
       "ruta_21": true,
-      "ruta_5": true
+      "ruta_5": true,
+      "ruta_6": true
     },
     "switches": [
       48,
@@ -2393,6 +2559,7 @@
     ],
     "foundItems": [
       "Amigo Ball",
+      "Amuleto Oval",
       "Ánfora",
       "Antiparalizador",
       "Banda Recia",
@@ -2403,6 +2570,7 @@
       "Baya Pasio",
       "Baya Tamar",
       "Baya Wiki",
+      "Baya Yapati",
       "Bola de Humo",
       "Brazal Recio",
       "Cascabel Concha",
@@ -2430,9 +2598,11 @@
       "MT105",
       "MT116",
       "MT120",
+      "MT123",
       "MT20",
       "MT21",
       "MT23",
+      "MT25",
       "MT27",
       "MT28",
       "MT39",
@@ -2444,6 +2614,7 @@
       "MT51",
       "MT58",
       "MT67",
+      "MT69",
       "MT83",
       "MT85",
       "MT86",
@@ -2567,7 +2738,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 663,
+        "qty": 658,
         "pocket": "Medicinas"
       },
       {
@@ -2597,7 +2768,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 33,
+        "qty": 32,
         "pocket": "Poké Balls"
       },
       {
@@ -2663,6 +2834,12 @@
       {
         "id": "TM23",
         "name": "MT23",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM25",
+        "name": "MT25",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -2733,6 +2910,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM69",
+        "name": "MT69",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM83",
         "name": "MT83",
         "qty": 1,
@@ -2787,6 +2970,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM123",
+        "name": "MT123",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "WIKIBERRY",
         "name": "Baya Wiki",
         "qty": 1,
@@ -2819,6 +3008,12 @@
       {
         "id": "KASIBBERRY",
         "name": "Baya Drasi",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "PETAYABERRY",
+        "name": "Baya Yapati",
         "qty": 1,
         "pocket": "Bayas"
       },
@@ -2885,6 +3080,12 @@
       {
         "id": "EGGHATCHER",
         "name": "Incubadora",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "OVALCHARM",
+        "name": "Amuleto Oval",
         "qty": 1,
         "pocket": "Objetos clave"
       }
