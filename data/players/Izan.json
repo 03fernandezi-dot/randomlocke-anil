@@ -4,16 +4,16 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 2h 29m jugadas · 51,700₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 2h 42m jugadas · 55,320₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Pauet Pauet",
-      "species": "Rookidee",
-      "level": 17,
+      "species": "Corvisquire",
+      "level": 18,
       "types": [
         "Volador"
       ],
-      "ability": "Coraza Ira",
+      "ability": "Piel Helada",
       "nature": "Grosera",
       "item": "Brazal Recio",
       "shiny": false,
@@ -34,83 +34,79 @@
       "ev": [
         13,
         252,
-        9,
+        10,
         8,
         6,
-        4
+        8
       ],
       "abilPool": [
-        "Psicogénesis",
-        "Coraza Ira"
+        "Velo Pastel",
+        "Piel Helada"
       ],
       "abilHidden": [
-        "Rezagado"
+        "Rompeaura"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Picotazo"
+          "m": "Respiro"
         },
         {
           "lvl": 1,
-          "m": "Ataque Ala"
+          "m": "Golpe Aéreo"
         },
         {
-          "lvl": 4,
-          "m": "Rizo Defensa"
+          "lvl": 1,
+          "m": "Doble Bofetón"
         },
         {
-          "lvl": 8,
-          "m": "Llave Giro"
+          "lvl": 1,
+          "m": "Disparo Lodo"
         },
         {
           "lvl": 10,
-          "m": "Ráfaga Escamas"
+          "m": "Rayo Carga"
         },
         {
           "lvl": 12,
-          "m": "Autotomía"
+          "m": "Hachazo Pétreo"
         },
         {
           "lvl": 16,
-          "m": "Obstrucción"
+          "m": "Semilladora"
         },
         {
-          "lvl": 20,
-          "m": "Garra Metal"
-        },
-        {
-          "lvl": 24,
-          "m": "Danza Lluvia"
+          "lvl": 22,
+          "m": "Tornado"
         },
         {
           "lvl": 28,
-          "m": "Picotazo Veneno"
+          "m": "Llave Corsé"
         },
         {
-          "lvl": 32,
-          "m": "Residuos"
+          "lvl": 34,
+          "m": "Electormenta"
         },
         {
-          "lvl": 36,
-          "m": "Búnker"
+          "lvl": 40,
+          "m": "Conversión"
+        },
+        {
+          "lvl": 46,
+          "m": "Acróbata"
         }
-      ],
-      "tmMoves": [
-        "Búnker",
-        "Rastreo"
       ],
       "firstMoves": [
         "Picotazo",
         "Ataque Ala",
         "Rizo Defensa"
       ],
-      "spriteKey": "ROOKIDEE"
+      "spriteKey": "CORVISQUIRE"
     },
     {
       "nickname": "KillerQueen",
       "species": "Nidorina",
-      "level": 17,
+      "level": 18,
       "types": [
         "Veneno"
       ],
@@ -134,11 +130,11 @@
       ],
       "ev": [
         12,
-        11,
+        12,
+        9,
         8,
         8,
-        8,
-        4
+        8
       ],
       "abilPool": [
         "Cuerpo Mortal",
@@ -218,7 +214,7 @@
     {
       "nickname": "El Lago",
       "species": "Ducklett",
-      "level": 16,
+      "level": 17,
       "types": [
         "Agua",
         "Volador"
@@ -245,11 +241,11 @@
       ],
       "ev": [
         11,
-        11,
+        12,
+        9,
         8,
         8,
-        8,
-        4
+        8
       ],
       "abilPool": [
         "Pararrayos",
@@ -334,7 +330,7 @@
     {
       "nickname": "Alviiiiiin",
       "species": "Skwovet",
-      "level": 16,
+      "level": 17,
       "types": [
         "Normal"
       ],
@@ -358,11 +354,11 @@
       ],
       "ev": [
         10,
-        10,
-        7,
+        11,
+        8,
         6,
         8,
-        3
+        7
       ],
       "abilPool": [
         "Expulsarena"
@@ -429,6 +425,7 @@
         }
       ],
       "tmMoves": [
+        "Despejar",
         "Metrónomo",
         "Ofrenda",
         "Rastreo",
@@ -444,7 +441,7 @@
     {
       "nickname": "Totyyy vamss",
       "species": "Gimmighoul",
-      "level": 16,
+      "level": 17,
       "types": [
         "Fantasma"
       ],
@@ -467,11 +464,11 @@
       ],
       "ev": [
         10,
-        11,
-        7,
+        12,
+        8,
         7,
         8,
-        4
+        8
       ],
       "abilPool": [
         "Aura Feérica"
@@ -502,7 +499,7 @@
     {
       "nickname": "El Onvre",
       "species": "Lombre",
-      "level": 16,
+      "level": 17,
       "types": [
         "Agua",
         "Planta"
@@ -529,11 +526,11 @@
       ],
       "ev": [
         4,
-        4,
-        1,
+        5,
+        2,
         2,
         1,
-        1
+        5
       ],
       "abilPool": [
         "Hidratación",
@@ -1359,6 +1356,116 @@
         "Campo Psíquico"
       ],
       "spriteKey": "VIBRAVA"
+    },
+    {
+      "nickname": "Bumblebee",
+      "species": "Cutiefly",
+      "level": 15,
+      "types": [
+        "Bicho",
+        "Hada"
+      ],
+      "ability": "Aura Oscura",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Polvo Ira",
+        "Burbuja",
+        "Decoración",
+        "Cambio de Banda"
+      ],
+      "iv": [
+        11,
+        0,
+        9,
+        3,
+        8,
+        17
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Unísono",
+        "Aura Oscura"
+      ],
+      "abilHidden": [
+        "Firmeza"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Furia Natural"
+        },
+        {
+          "lvl": 1,
+          "m": "Polvo Ira"
+        },
+        {
+          "lvl": 6,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 12,
+          "m": "Decoración"
+        },
+        {
+          "lvl": 13,
+          "m": "Cambio de Banda"
+        },
+        {
+          "lvl": 18,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 24,
+          "m": "Relevo"
+        },
+        {
+          "lvl": 30,
+          "m": "Polvo Mágico"
+        },
+        {
+          "lvl": 30,
+          "m": "Bruma Explosiva"
+        },
+        {
+          "lvl": 33,
+          "m": "Bomba Caramelo"
+        },
+        {
+          "lvl": 36,
+          "m": "Voz Cautivadora"
+        },
+        {
+          "lvl": 42,
+          "m": "Llave Corsé"
+        },
+        {
+          "lvl": 48,
+          "m": "Polvo Explosivo"
+        },
+        {
+          "lvl": 54,
+          "m": "Yo Primero"
+        }
+      ],
+      "tmMoves": [
+        "Despejar"
+      ],
+      "firstMoves": [
+        "Polvo Ira",
+        "Burbuja",
+        "Decoración",
+        "Cambio de Banda"
+      ],
+      "spriteKey": "CUTIEFLY"
     }
   ],
   "graveyard": [
@@ -1495,13 +1602,13 @@
     {
       "route": "",
       "where": "Laboratorio",
-      "species": "Rookidee",
+      "species": "Corvisquire",
       "nickname": "Pauet Pauet",
       "shiny": false,
       "status": "captured",
       "category": "estatico_regalo",
       "level": 5,
-      "mon": "Rookidee"
+      "mon": "Corvisquire"
     },
     {
       "route": "pueblo_paleta",
@@ -1634,6 +1741,17 @@
       "category": "salvaje",
       "level": 14,
       "mon": "Vibrava"
+    },
+    {
+      "route": "monte_moon_exterior",
+      "where": "Monte Moon Exterior",
+      "species": "Cutiefly",
+      "nickname": "Bumblebee",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 15,
+      "mon": "Cutiefly"
     }
   ],
   "progress": {
@@ -1652,7 +1770,8 @@
       "ruta_2_norte": true,
       "ciudad_plateada": true,
       "ruta_2_sur": true,
-      "monte_moon": true
+      "monte_moon": true,
+      "monte_moon_exterior": true
     },
     "items": {},
     "encounters": {
@@ -1665,7 +1784,8 @@
       "ruta_2_norte": true,
       "ciudad_plateada": true,
       "ruta_3": true,
-      "monte_moon": true
+      "monte_moon": true,
+      "monte_moon_exterior": true
     },
     "switches": [
       48,
@@ -1677,10 +1797,13 @@
       68,
       69,
       71,
+      72,
+      73,
       110,
       112,
       113,
       114,
+      121,
       176,
       179,
       180,
@@ -1704,9 +1827,11 @@
       "Brazal Recio",
       "Cascabel Concha",
       "Cenizas Sagradas",
+      "Cuerda Huida",
       "Def. Esp. X 6",
       "Fragmento Cometa",
       "Gema Fuego",
+      "Hierba Revivir",
       "Incienso Duplo",
       "Menta Activa",
       "Menta Miedosa",
@@ -1832,6 +1957,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "REVIVALHERB",
+        "name": "Hierba Revivir",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 4,
@@ -1840,7 +1971,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 43,
+        "qty": 42,
         "pocket": "Poké Balls"
       },
       {
@@ -1982,8 +2113,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
@@ -2002,6 +2133,12 @@
       {
         "id": "ROCKSMASHITEM",
         "name": "MO Golpe Roca",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "ESCAPEROPE",
+        "name": "Cuerda Huida",
         "qty": 1,
         "pocket": "Objetos clave"
       }
