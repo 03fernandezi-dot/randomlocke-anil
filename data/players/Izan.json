@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 4h 57m jugadas · 88,830₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 5h 17m jugadas · 94,830₽ · vidas en el juego: 28",
   "team": [
     {
       "nickname": "Pauet Pauet",
       "species": "Corvisquire",
-      "level": 24,
+      "level": 26,
       "types": [
         "Volador"
       ],
@@ -36,10 +36,10 @@
       "ev": [
         24,
         252,
-        13,
-        20,
-        15,
-        18
+        14,
+        21,
+        17,
+        23
       ],
       "abilPool": [
         "Velo Pastel",
@@ -123,7 +123,7 @@
     {
       "nickname": "KillerQueen",
       "species": "Nidorina",
-      "level": 24,
+      "level": 26,
       "types": [
         "Veneno"
       ],
@@ -148,10 +148,10 @@
       "ev": [
         23,
         31,
-        12,
-        20,
-        17,
-        18
+        13,
+        21,
+        19,
+        23
       ],
       "abilPool": [
         "Cuerpo Mortal",
@@ -243,7 +243,7 @@
     {
       "nickname": "Princesita 2",
       "species": "Brionne",
-      "level": 24,
+      "level": 25,
       "types": [
         "Agua"
       ],
@@ -268,10 +268,10 @@
       "ev": [
         0,
         6,
-        1,
-        1,
-        0,
-        2
+        2,
+        2,
+        2,
+        7
       ],
       "abilPool": [
         "Mimetismo"
@@ -379,7 +379,7 @@
     {
       "nickname": "Alviiiiiin",
       "species": "Greedent",
-      "level": 24,
+      "level": 25,
       "types": [
         "Normal"
       ],
@@ -404,10 +404,10 @@
       "ev": [
         21,
         30,
-        11,
-        18,
-        17,
-        17
+        12,
+        19,
+        19,
+        22
       ],
       "abilPool": [
         "Ímpetu Ardiente"
@@ -503,7 +503,7 @@
     {
       "nickname": "El Onvre",
       "species": "Lombre",
-      "level": 24,
+      "level": 26,
       "types": [
         "Agua",
         "Planta"
@@ -531,10 +531,10 @@
       "ev": [
         15,
         24,
-        5,
-        14,
-        10,
-        15
+        6,
+        15,
+        12,
+        20
       ],
       "abilPool": [
         "Hidratación",
@@ -656,13 +656,13 @@
     },
     {
       "nickname": "LitroVatio",
-      "species": "Wattrel",
-      "level": 24,
+      "species": "Kilowattrel",
+      "level": 26,
       "types": [
         "Eléctrico",
         "Volador"
       ],
-      "ability": "Entusiasmo",
+      "ability": "Aura Oscura",
       "nature": "Alocada",
       "item": "Incienso Suave",
       "shiny": false,
@@ -683,80 +683,79 @@
       "ev": [
         10,
         17,
-        2,
-        9,
-        6,
-        7
+        3,
+        10,
+        8,
+        12
       ],
       "abilPool": [
-        "Entusiasmo",
-        "Ímpetu Tóxico"
+        "Aura Oscura",
+        "Sobrecarga"
       ],
       "abilHidden": [
-        "Ignífugo"
+        "Cacheo"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Manto Espejo"
+          "lvl": -1,
+          "m": "Telaraña"
         },
         {
           "lvl": 1,
-          "m": "Kinético"
+          "m": "Resarcimiento"
+        },
+        {
+          "lvl": 1,
+          "m": "Sísmico"
         },
         {
           "lvl": 4,
-          "m": "Guillotina"
+          "m": "Follaje"
         },
         {
           "lvl": 7,
-          "m": "Viraje"
+          "m": "Zona Extraña"
         },
         {
           "lvl": 11,
-          "m": "Pulimento"
+          "m": "Cortina Plasma"
         },
         {
           "lvl": 15,
-          "m": "Rugido"
+          "m": "Pikaturbo"
         },
         {
           "lvl": 19,
-          "m": "Agitacola"
+          "m": "Cambiapoder"
         },
         {
-          "lvl": 23,
-          "m": "Recogearena"
+          "lvl": 24,
+          "m": "Aura Magnética"
         },
         {
-          "lvl": 27,
-          "m": "Tragar"
+          "lvl": 30,
+          "m": "Agarre"
         },
         {
-          "lvl": 32,
-          "m": "Rayo Fusión"
+          "lvl": 30,
+          "m": "Pesadilla"
         },
         {
-          "lvl": 37,
-          "m": "Psicohojas"
+          "lvl": 36,
+          "m": "Aguijón Letal"
         },
         {
           "lvl": 43,
-          "m": "Obstrucción"
+          "m": "Escalofrío"
+        },
+        {
+          "lvl": 48,
+          "m": "Pájaro Osado"
+        },
+        {
+          "lvl": 55,
+          "m": "Semilladora"
         }
-      ],
-      "tmMoves": [
-        "Bomba Fango",
-        "Condena Silvana",
-        "Despejar",
-        "Destello",
-        "Gran Ojo",
-        "Meditación",
-        "Ofrenda",
-        "Resarcimiento",
-        "Restricción",
-        "Truco Floral",
-        "Viraje"
       ],
       "firstMoves": [
         "Guillotina",
@@ -764,7 +763,7 @@
         "Pulimento",
         "Rugido"
       ],
-      "spriteKey": "WATTREL"
+      "spriteKey": "KILOWATTREL"
     }
   ],
   "box": [
@@ -2130,6 +2129,139 @@
         "Castigo"
       ],
       "spriteKey": "PIDOVE"
+    },
+    {
+      "nickname": "Conejita",
+      "species": "Buneary",
+      "level": 21,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Baba",
+      "nature": "Afable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Colmillo Ígneo",
+        "Psicoonda",
+        "Trapicheo",
+        "Autotomía"
+      ],
+      "iv": [
+        30,
+        26,
+        6,
+        20,
+        1,
+        8
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Baba",
+        "Líbero"
+      ],
+      "abilHidden": [
+        "Velo Pastel"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Autosugestión"
+        },
+        {
+          "lvl": 1,
+          "m": "Aligerar"
+        },
+        {
+          "lvl": 1,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 4,
+          "m": "Bola Voltio"
+        },
+        {
+          "lvl": 6,
+          "m": "Rompecoraza"
+        },
+        {
+          "lvl": 8,
+          "m": "Masa Cósmica"
+        },
+        {
+          "lvl": 12,
+          "m": "Colmillo Ígneo"
+        },
+        {
+          "lvl": 13,
+          "m": "Psicoonda"
+        },
+        {
+          "lvl": 16,
+          "m": "Trapicheo"
+        },
+        {
+          "lvl": 20,
+          "m": "Autotomía"
+        },
+        {
+          "lvl": 23,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 24,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 28,
+          "m": "Deseo Cura"
+        },
+        {
+          "lvl": 32,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 36,
+          "m": "Empapar"
+        },
+        {
+          "lvl": 36,
+          "m": "Doble Patada"
+        },
+        {
+          "lvl": 40,
+          "m": "Perforador"
+        },
+        {
+          "lvl": 44,
+          "m": "Reversión"
+        },
+        {
+          "lvl": 48,
+          "m": "Shuriken de Agua"
+        },
+        {
+          "lvl": 52,
+          "m": "Triple Golpe"
+        }
+      ],
+      "tmMoves": [
+        "Capa Mágica"
+      ],
+      "firstMoves": [
+        "Colmillo Ígneo",
+        "Psicoonda",
+        "Trapicheo",
+        "Autotomía"
+      ],
+      "spriteKey": "BUNEARY"
     }
   ],
   "graveyard": [
@@ -2321,13 +2453,13 @@
     {
       "route": "ruta_4",
       "where": "Ruta 4",
-      "species": "Wattrel",
+      "species": "Kilowattrel",
       "nickname": "LitroVatio",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 17,
-      "mon": "Wattrel"
+      "mon": "Kilowattrel"
     },
     {
       "route": "bosque_verde",
@@ -2462,6 +2594,17 @@
       "mon": "Pidove"
     },
     {
+      "route": "ciudad_carmin",
+      "where": "Ciudad Carmín",
+      "species": "Buneary",
+      "nickname": "Conejita",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 21,
+      "mon": "Buneary"
+    },
+    {
       "route": "ciudad_plateada",
       "where": "Ciudad Plateada",
       "species": "Yungoos",
@@ -2496,9 +2639,9 @@
       "ruta_21": true,
       "ruta_1": true,
       "ciudad_plateada": true,
+      "ciudad_carmin": true,
       "ciudad_celeste": true,
-      "ruta_20": true,
-      "ciudad_carmin": true
+      "ruta_20": true
     },
     "items": {},
     "encounters": {
@@ -2517,7 +2660,8 @@
       "ruta_20": true,
       "ruta_21": true,
       "ruta_5": true,
-      "ruta_6": true
+      "ruta_6": true,
+      "ciudad_carmin": true
     },
     "switches": [
       48,
@@ -2538,6 +2682,8 @@
       81,
       82,
       83,
+      84,
+      85,
       110,
       112,
       113,
@@ -2555,7 +2701,10 @@
       185,
       238,
       323,
-      334
+      334,
+      363,
+      364,
+      365
     ],
     "foundItems": [
       "Amigo Ball",
@@ -2572,16 +2721,19 @@
       "Baya Wiki",
       "Baya Yapati",
       "Bola de Humo",
+      "Bono Bici",
       "Brazal Recio",
       "Cascabel Concha",
       "Cenizas Sagradas",
       "Cuerda Huida",
       "Def. Esp. X 6",
+      "Efigie Antigua",
       "Ente Ball",
       "Fósil Hélix",
       "Fragmento Cometa",
       "Gema Fuego",
       "Gloria Ball",
+      "Hierba Copia",
       "Hierba Revivir",
       "Incienso Duplo",
       "Incienso Suave",
@@ -2615,6 +2767,7 @@
       "MT58",
       "MT67",
       "MT69",
+      "MT72",
       "MT83",
       "MT85",
       "MT86",
@@ -2626,10 +2779,12 @@
       "Pesa Recia",
       "Piedra Día",
       "Piedra Trueno",
+      "Pila",
       "Poké Montura",
       "Prisma Rojo",
       "Reglamento",
       "Sana Ball",
+      "Semilla Bruma",
       "Semilla Electro",
       "Supercaña",
       "Supereviolita",
@@ -2678,7 +2833,7 @@
       {
         "id": "ELECTRICSEED",
         "name": "Semilla Electro",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -2736,6 +2891,36 @@
         "pocket": "Objetos"
       },
       {
+        "id": "MISTYSEED",
+        "name": "Semilla Bruma",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "MIRRORHERB",
+        "name": "Hierba Copia",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "RELICSTATUE",
+        "name": "Efigie Antigua",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "CELLBATTERY",
+        "name": "Pila",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "HELIXFOSSIL",
+        "name": "Fósil Hélix",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
         "qty": 658,
@@ -2768,7 +2953,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 32,
+        "qty": 29,
         "pocket": "Poké Balls"
       },
       {
@@ -2912,6 +3097,12 @@
       {
         "id": "TM69",
         "name": "MT69",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM72",
+        "name": "MT72",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -3086,6 +3277,12 @@
       {
         "id": "OVALCHARM",
         "name": "Amuleto Oval",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "BONOBICI",
+        "name": "Bono Bici",
         "qty": 1,
         "pocket": "Objetos clave"
       }
