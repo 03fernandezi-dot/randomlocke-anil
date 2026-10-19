@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 6h 1m jugadas · 117,620₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 6h 16m jugadas · 117,620₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Pauet Pauet",
@@ -99,6 +99,7 @@
         }
       ],
       "tmMoves": [
+        "Absorber",
         "Aromaterapia",
         "Bomba Fango",
         "Búnker",
@@ -106,10 +107,12 @@
         "Despejar",
         "Garra Metal",
         "Meditación",
+        "Mil Temblores",
         "Poder Reserva",
         "Remolino",
         "Restricción",
         "Reversión",
+        "Torbellino",
         "Truco Floral",
         "Viraje"
       ],
@@ -119,126 +122,6 @@
         "Rizo Defensa"
       ],
       "spriteKey": "CORVISQUIRE"
-    },
-    {
-      "nickname": "KillerQueen",
-      "species": "Nidorina",
-      "level": 30,
-      "types": [
-        "Veneno"
-      ],
-      "ability": "Cuerpo Mortal",
-      "nature": "Dócil",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Puño Incremento",
-        "Viraje",
-        "Polución",
-        "Sol Matinal"
-      ],
-      "iv": [
-        27,
-        30,
-        15,
-        18,
-        13,
-        22
-      ],
-      "ev": [
-        23,
-        36,
-        19,
-        23,
-        25,
-        28
-      ],
-      "abilPool": [
-        "Cuerpo Mortal",
-        "Teracaparazón"
-      ],
-      "abilHidden": [
-        "General Supremo"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Acua Aro"
-        },
-        {
-          "lvl": 1,
-          "m": "Desquite"
-        },
-        {
-          "lvl": 1,
-          "m": "Espejo"
-        },
-        {
-          "lvl": 1,
-          "m": "Maquinación"
-        },
-        {
-          "lvl": 15,
-          "m": "Tajo Metralla"
-        },
-        {
-          "lvl": 16,
-          "m": "Sol Matinal"
-        },
-        {
-          "lvl": 22,
-          "m": "Rencor"
-        },
-        {
-          "lvl": 29,
-          "m": "Guillotina"
-        },
-        {
-          "lvl": 36,
-          "m": "Puño Drenaje"
-        },
-        {
-          "lvl": 43,
-          "m": "Bomba Ácida"
-        },
-        {
-          "lvl": 50,
-          "m": "Tijera X"
-        },
-        {
-          "lvl": 50,
-          "m": "Enrosque"
-        },
-        {
-          "lvl": 57,
-          "m": "Profecía"
-        },
-        {
-          "lvl": 64,
-          "m": "Golpe Mordaza"
-        },
-        {
-          "lvl": 71,
-          "m": "Rayo Aurora"
-        }
-      ],
-      "tmMoves": [
-        "Bomba Fango",
-        "Búnker",
-        "Cepo",
-        "Despejar",
-        "Destello",
-        "Estímulo",
-        "Ofrenda",
-        "Poder Reserva",
-        "Resarcimiento",
-        "Truco Floral"
-      ],
-      "firstMoves": [
-        "Campo de Niebla",
-        "Viraje"
-      ],
-      "spriteKey": "NIDORINA"
     },
     {
       "nickname": "Princesita 2",
@@ -267,7 +150,7 @@
       ],
       "ev": [
         0,
-        11,
+        12,
         8,
         4,
         8,
@@ -354,6 +237,7 @@
         }
       ],
       "tmMoves": [
+        "Absorber",
         "Bomba Fango",
         "Cepo",
         "Despejar",
@@ -363,6 +247,7 @@
         "Meditación",
         "Poder Reserva",
         "Reversión",
+        "Taladradora",
         "Torbellino",
         "Truco Floral",
         "Última Palabra",
@@ -406,7 +291,7 @@
       ],
       "ev": [
         15,
-        27,
+        28,
         12,
         17,
         18,
@@ -510,6 +395,7 @@
         }
       ],
       "tmMoves": [
+        "Absorber",
         "Aromaterapia",
         "Búnker",
         "Cepo",
@@ -519,6 +405,7 @@
         "Ofrenda",
         "Paz Mental",
         "Roca Veloz",
+        "Torbellino",
         "Trampa Rocas",
         "Truco Floral"
       ],
@@ -558,7 +445,7 @@
       ],
       "ev": [
         10,
-        22,
+        23,
         9,
         12,
         14,
@@ -639,6 +526,7 @@
         "Búnker",
         "Despejar",
         "Meditación",
+        "Mil Temblores",
         "Mundo Gélido",
         "Ofrenda",
         "Poder Reserva",
@@ -658,13 +546,13 @@
     },
     {
       "nickname": "Poppyruleta",
-      "species": "Tinkatink",
-      "level": 33,
+      "species": "Tinkatuff",
+      "level": 34,
       "types": [
         "Hada",
         "Acero"
       ],
-      "ability": "Nevada",
+      "ability": "Antibarrera",
       "nature": "Alocada",
       "item": "",
       "shiny": false,
@@ -684,104 +572,84 @@
       ],
       "ev": [
         0,
-        0,
+        1,
         0,
         0,
         0,
         0
       ],
       "abilPool": [
-        "Nevada",
-        "Herbogénesis"
+        "Antibarrera",
+        "Simple"
       ],
       "abilHidden": [
-        "Pies Rápidos"
+        "Metal Liviano"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Ala de Acero"
+          "m": "Alivio"
         },
         {
           "lvl": 1,
-          "m": "Tornado"
+          "m": "Maldición"
         },
         {
           "lvl": 5,
-          "m": "Tenaza"
+          "m": "Bola Hielo"
         },
         {
           "lvl": 8,
-          "m": "Llanto Falso"
+          "m": "Corte"
         },
         {
           "lvl": 11,
-          "m": "Picotazo Veneno"
+          "m": "Aire Afilado"
         },
         {
           "lvl": 14,
-          "m": "Bruma Explosiva"
+          "m": "Hidrochorro"
         },
         {
           "lvl": 17,
-          "m": "Cosquillas"
+          "m": "Velo Aurora"
         },
         {
           "lvl": 21,
-          "m": "Truco"
+          "m": "Nieve Polvo"
         },
         {
           "lvl": 24,
-          "m": "Disparo Espejo"
+          "m": "Giro Vil"
         },
         {
           "lvl": 27,
-          "m": "Niebla"
+          "m": "Hora del Té"
         },
         {
           "lvl": 31,
-          "m": "Dracoflechas"
+          "m": "Onda Ígnea"
         },
         {
           "lvl": 35,
-          "m": "Embargo"
+          "m": "Ataque Óseo"
         },
         {
           "lvl": 39,
-          "m": "Fuerza G"
+          "m": "Seducción"
         },
         {
           "lvl": 43,
-          "m": "Golpe Mordaza"
+          "m": "Defensa Férrea"
         },
         {
           "lvl": 47,
-          "m": "Umbreozona"
+          "m": "Alarido"
         },
         {
           "lvl": 52,
-          "m": "Bloqueo"
+          "m": "Encanto"
         }
-      ],
-      "tmMoves": [
-        "Bomba Fango",
-        "Bucle Arena",
-        "Búnker",
-        "Cepo",
-        "Destello",
-        "Garra Metal",
-        "Gran Ojo",
-        "Metrónomo",
-        "Mundo Gélido",
-        "Paz Mental",
-        "Rencor",
-        "Resarcimiento",
-        "Roca Veloz",
-        "Torbellino",
-        "Trampa Rocas",
-        "Truco Floral",
-        "Última Palabra",
-        "Viraje"
       ],
       "firstMoves": [
         "Truco",
@@ -789,7 +657,141 @@
         "Niebla",
         "Dracoflechas"
       ],
-      "spriteKey": "TINKATINK"
+      "spriteKey": "TINKATUFF"
+    },
+    {
+      "nickname": "Vibrador",
+      "species": "Trapinch",
+      "level": 30,
+      "types": [
+        "Tierra"
+      ],
+      "ability": "Tintineo",
+      "nature": "Dócil",
+      "item": "Supereviolita",
+      "shiny": false,
+      "moves": [
+        "Tajo Metralla",
+        "Taladradora",
+        "Chispa",
+        "Puño Jet"
+      ],
+      "iv": [
+        11,
+        28,
+        12,
+        2,
+        21,
+        16
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Gula",
+        "Tintineo"
+      ],
+      "abilHidden": [
+        "Espejo Mágico"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Recogearena"
+        },
+        {
+          "lvl": 1,
+          "m": "Hueso Palo"
+        },
+        {
+          "lvl": 4,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 7,
+          "m": "Llave Vital"
+        },
+        {
+          "lvl": 8,
+          "m": "Bola Voltio"
+        },
+        {
+          "lvl": 12,
+          "m": "Restricción"
+        },
+        {
+          "lvl": 16,
+          "m": "Calamidad"
+        },
+        {
+          "lvl": 17,
+          "m": "Terratemblor"
+        },
+        {
+          "lvl": 20,
+          "m": "Chispa"
+        },
+        {
+          "lvl": 24,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 25,
+          "m": "Tajo Metralla"
+        },
+        {
+          "lvl": 28,
+          "m": "Onda Simple"
+        },
+        {
+          "lvl": 32,
+          "m": "Canto Encantador"
+        },
+        {
+          "lvl": 36,
+          "m": "Detección"
+        },
+        {
+          "lvl": 40,
+          "m": "Ferropuño Doble"
+        },
+        {
+          "lvl": 44,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 48,
+          "m": "Paliza"
+        },
+        {
+          "lvl": 49,
+          "m": "Polución"
+        },
+        {
+          "lvl": 61,
+          "m": "Llave Giro"
+        }
+      ],
+      "tmMoves": [
+        "Absorber",
+        "Despejar",
+        "Mil Temblores",
+        "Taladradora",
+        "Trampa Rocas"
+      ],
+      "firstMoves": [
+        "Calamidad",
+        "Terratemblor",
+        "Chispa",
+        "Puño Jet"
+      ],
+      "spriteKey": "TRAPINCH",
+      "dup": true
     }
   ],
   "box": [
@@ -2038,7 +2040,7 @@
       ],
       "ability": "Piel Tosca",
       "nature": "Ingenua",
-      "item": "Supereviolita",
+      "item": "",
       "shiny": false,
       "moves": [
         "Ala de Acero",
@@ -2660,6 +2662,126 @@
         "Puño Cometa"
       ],
       "spriteKey": "GREEDENT"
+    },
+    {
+      "nickname": "KillerQueen",
+      "species": "Nidorina",
+      "level": 30,
+      "types": [
+        "Veneno"
+      ],
+      "ability": "Cuerpo Mortal",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Puño Incremento",
+        "Viraje",
+        "Polución",
+        "Sol Matinal"
+      ],
+      "iv": [
+        27,
+        30,
+        15,
+        18,
+        13,
+        22
+      ],
+      "ev": [
+        23,
+        37,
+        19,
+        23,
+        25,
+        28
+      ],
+      "abilPool": [
+        "Cuerpo Mortal",
+        "Teracaparazón"
+      ],
+      "abilHidden": [
+        "General Supremo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 1,
+          "m": "Desquite"
+        },
+        {
+          "lvl": 1,
+          "m": "Espejo"
+        },
+        {
+          "lvl": 1,
+          "m": "Maquinación"
+        },
+        {
+          "lvl": 15,
+          "m": "Tajo Metralla"
+        },
+        {
+          "lvl": 16,
+          "m": "Sol Matinal"
+        },
+        {
+          "lvl": 22,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 29,
+          "m": "Guillotina"
+        },
+        {
+          "lvl": 36,
+          "m": "Puño Drenaje"
+        },
+        {
+          "lvl": 43,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 50,
+          "m": "Tijera X"
+        },
+        {
+          "lvl": 50,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 57,
+          "m": "Profecía"
+        },
+        {
+          "lvl": 64,
+          "m": "Golpe Mordaza"
+        },
+        {
+          "lvl": 71,
+          "m": "Rayo Aurora"
+        }
+      ],
+      "tmMoves": [
+        "Bomba Fango",
+        "Búnker",
+        "Cepo",
+        "Despejar",
+        "Destello",
+        "Estímulo",
+        "Ofrenda",
+        "Poder Reserva",
+        "Resarcimiento",
+        "Truco Floral"
+      ],
+      "firstMoves": [
+        "Campo de Niebla",
+        "Viraje"
+      ],
+      "spriteKey": "NIDORINA"
     }
   ],
   "graveyard": [
@@ -2805,17 +2927,6 @@
       "mon": "Corvisquire"
     },
     {
-      "route": "pueblo_paleta",
-      "where": "Pueblo Paleta",
-      "species": "Nidorina",
-      "nickname": "KillerQueen",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 3,
-      "mon": "Nidorina"
-    },
-    {
       "route": "ruta_6",
       "where": "Ruta 6",
       "species": "Brionne",
@@ -2851,13 +2962,24 @@
     {
       "route": "ruta_12",
       "where": "Ruta 12",
-      "species": "Tinkatink",
+      "species": "Tinkatuff",
       "nickname": "Poppyruleta",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 33,
-      "mon": "Tinkatink"
+      "mon": "Tinkatuff"
+    },
+    {
+      "route": "tunel_diglett",
+      "where": "Túnel Diglett",
+      "species": "Trapinch",
+      "nickname": "Vibrador",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 24,
+      "mon": "Trapinch"
     },
     {
       "route": "bosque_verde",
@@ -3036,6 +3158,17 @@
       "mon": "Greedent"
     },
     {
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Nidorina",
+      "nickname": "KillerQueen",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 3,
+      "mon": "Nidorina"
+    },
+    {
       "route": "ciudad_plateada",
       "where": "Ciudad Plateada",
       "species": "Yungoos",
@@ -3056,11 +3189,11 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "pueblo_paleta": true,
       "ruta_6": true,
       "ruta_3": true,
       "ruta_4": true,
       "ruta_12": true,
+      "tunel_diglett": true,
       "bosque_verde": true,
       "ruta_2_norte": true,
       "ruta_2_sur": true,
@@ -3074,9 +3207,9 @@
       "ciudad_carmin": true,
       "ruta_15": true,
       "ruta_22": true,
+      "pueblo_paleta": true,
       "ciudad_celeste": true,
-      "ruta_20": true,
-      "tunel_diglett": true
+      "ruta_20": true
     },
     "items": {},
     "encounters": {
@@ -3165,6 +3298,7 @@
       "Baya Tamar",
       "Baya Wiki",
       "Baya Yapati",
+      "Bloque de Turba",
       "Bola de Humo",
       "Bono Bici",
       "Brazal Recio",
@@ -3179,6 +3313,7 @@
       "Gema Fuego",
       "Gema Tierra",
       "Gloria Ball",
+      "Gran Lustresfera",
       "Hierba Copia",
       "Hierba Revivir",
       "Incienso Duplo",
@@ -3221,6 +3356,7 @@
       "MT69",
       "MT72",
       "MT73",
+      "MT78",
       "MT83",
       "MT85",
       "MT86",
@@ -3395,9 +3531,21 @@
         "pocket": "Objetos"
       },
       {
+        "id": "LUSTROUSGLOBE",
+        "name": "Gran Lustresfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PEATBLOCK",
+        "name": "Bloque de Turba",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 640,
+        "qty": 633,
         "pocket": "Medicinas"
       },
       {
@@ -3433,7 +3581,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 27,
+        "qty": 26,
         "pocket": "Poké Balls"
       },
       {
@@ -3613,6 +3761,12 @@
       {
         "id": "TM73",
         "name": "MT73",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM78",
+        "name": "MT78",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
