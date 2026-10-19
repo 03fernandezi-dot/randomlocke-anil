@@ -4,64 +4,68 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 19h 29m jugadas · 80,570₽ · vidas en el juego: 23",
+  "notes": "Importado del save · 19h 31m jugadas · 80,570₽ · vidas en el juego: 23",
   "team": [
     {
-      "nickname": "Kowalski",
-      "species": "Empoleon",
+      "nickname": "Izan",
+      "species": "Swampert",
       "level": 39,
       "types": [
         "Agua",
-        "Acero"
+        "Tierra"
       ],
-      "ability": "Hurto",
-      "nature": "Alocada",
-      "item": "Cinta Aguante",
+      "ability": "Velo Aroma",
+      "nature": "Seria",
+      "item": "Tabla Linfa",
       "shiny": false,
       "moves": [
-        "Pulso Umbrío",
-        "Escudo Real",
-        "Vapodrenaje",
-        "Moluscañón"
+        "Acua Cola",
+        "Huesomerang",
+        "Tajo Metralla",
+        "Relajo"
       ],
       "iv": [
         27,
-        4,
-        14,
-        24,
-        4,
-        15
+        7,
+        25,
+        3,
+        27,
+        29
       ],
       "ev": [
-        3,
-        8,
-        2,
-        3,
-        7,
-        5
+        34,
+        77,
+        50,
+        47,
+        55,
+        70
       ],
       "abilPool": [
-        "Hurto"
+        "Velo Aroma"
       ],
       "abilHidden": [
-        "Remoto"
+        "Sobrecarga"
       ],
       "learnset": [
         {
           "lvl": -1,
-          "m": "Beso Dulce"
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": -1,
+          "m": "Fertilizante"
+        },
+        {
+          "lvl": -1,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": -1,
+          "m": "Escupir"
         },
         {
           "lvl": 1,
-          "m": "Eco Metálico"
-        },
-        {
-          "lvl": 1,
-          "m": "Polvo Explosivo"
-        },
-        {
-          "lvl": 1,
-          "m": "A Defender"
+          "m": "Gran Ojo"
         },
         {
           "lvl": 1,
@@ -69,99 +73,97 @@
         },
         {
           "lvl": 1,
-          "m": "Rayo Confuso"
-        },
-        {
-          "lvl": 1,
-          "m": "Refuerzo"
-        },
-        {
-          "lvl": 1,
-          "m": "Batido"
-        },
-        {
-          "lvl": 11,
-          "m": "Doble Ataque"
-        },
-        {
-          "lvl": 15,
-          "m": "Empapar"
-        },
-        {
-          "lvl": 19,
-          "m": "Cambiadefensa"
-        },
-        {
-          "lvl": 24,
-          "m": "Cerrojo Feérico"
-        },
-        {
-          "lvl": 28,
-          "m": "Metrónomo"
-        },
-        {
-          "lvl": 33,
           "m": "Ataque Óseo"
         },
         {
-          "lvl": 39,
-          "m": "Vapodrenaje"
+          "lvl": 1,
+          "m": "Gas Corrosivo"
+        },
+        {
+          "lvl": 1,
+          "m": "Desarrollo"
+        },
+        {
+          "lvl": 9,
+          "m": "Aire Afilado"
+        },
+        {
+          "lvl": 12,
+          "m": "Anticipo"
+        },
+        {
+          "lvl": 15,
+          "m": "Sustituto"
+        },
+        {
+          "lvl": 20,
+          "m": "Cepo"
+        },
+        {
+          "lvl": 20,
+          "m": "Zona Extraña"
+        },
+        {
+          "lvl": 25,
+          "m": "Gota Vital"
+        },
+        {
+          "lvl": 25,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 30,
+          "m": "Rueda Fuego"
+        },
+        {
+          "lvl": 35,
+          "m": "Ladrón"
+        },
+        {
+          "lvl": 42,
+          "m": "Erupción de Ira"
         },
         {
           "lvl": 46,
-          "m": "Golpe Cabeza"
+          "m": "Fuego Sagrado"
         },
         {
-          "lvl": 52,
-          "m": "Vendaval"
+          "lvl": 49,
+          "m": "Tajo Cruzado"
         },
         {
-          "lvl": 59,
-          "m": "Retracción"
+          "lvl": 56,
+          "m": "Umbreozona"
         },
         {
-          "lvl": 64,
-          "m": "Al Ataque"
-        },
-        {
-          "lvl": 66,
-          "m": "Aura Magnética"
+          "lvl": 63,
+          "m": "Canto Encantador"
         }
       ],
       "tmMoves": [
         "Acua Cola",
-        "Adaptación",
-        "Agarre",
+        "Aire Afilado",
+        "Alivio",
         "Bomba Fango",
         "Cañón Batidor",
-        "Clemencia",
-        "Daño Secreto",
-        "Doble Golpe",
-        "Escudo Real",
+        "Cerrojo Feérico",
+        "Copión",
+        "Corpulencia",
         "Espora",
-        "Ida y Vuelta",
-        "Impactrueno",
-        "Látigo Ígneo",
-        "Legado",
-        "Mil Temblores",
-        "Moluscañón",
-        "Motivación",
-        "Rayo Confuso",
+        "Giro Mortífero",
+        "Hidrochorro",
+        "Poder Pasado",
+        "Pulso Noche",
         "Rayo Señal",
-        "Salazón",
         "Señuelo",
-        "Sorpresa",
-        "Tajo Metralla",
-        "Venganza",
-        "Viento Feérico"
+        "Sonámbulo",
+        "Trampa Rocas"
       ],
       "firstMoves": [
-        "Viraje",
-        "Resarcimiento",
-        "Zona Mágica",
-        "Cornada"
+        "Cepo",
+        "Burbuja"
       ],
-      "spriteKey": "EMPOLEON"
+      "spriteKey": "SWAMPERT"
     },
     {
       "nickname": "Niggy",
@@ -644,65 +646,61 @@
       "spriteKey": "TINKATON"
     },
     {
-      "nickname": "Izan",
-      "species": "Swampert",
+      "nickname": "Kowalski",
+      "species": "Empoleon",
       "level": 39,
       "types": [
         "Agua",
-        "Tierra"
+        "Acero"
       ],
-      "ability": "Velo Aroma",
-      "nature": "Seria",
-      "item": "Tabla Linfa",
+      "ability": "",
+      "nature": "Alocada",
+      "item": "Cinta Aguante",
       "shiny": false,
       "moves": [
-        "Acua Cola",
-        "Huesomerang",
-        "Tajo Metralla",
-        "Relajo"
+        "Pulso Umbrío",
+        "Escudo Real",
+        "Vapodrenaje",
+        "Moluscañón"
       ],
       "iv": [
         27,
-        7,
-        25,
-        3,
-        27,
-        29
+        4,
+        14,
+        24,
+        4,
+        15
       ],
       "ev": [
-        34,
-        77,
-        50,
-        47,
-        55,
-        70
+        3,
+        8,
+        2,
+        3,
+        7,
+        5
       ],
       "abilPool": [
-        "Velo Aroma"
+        "Hurto"
       ],
       "abilHidden": [
-        "Sobrecarga"
+        "Remoto"
       ],
       "learnset": [
         {
           "lvl": -1,
-          "m": "Acua Aro"
-        },
-        {
-          "lvl": -1,
-          "m": "Fertilizante"
-        },
-        {
-          "lvl": -1,
-          "m": "Clavo Cañón"
-        },
-        {
-          "lvl": -1,
-          "m": "Escupir"
+          "m": "Beso Dulce"
         },
         {
           "lvl": 1,
-          "m": "Gran Ojo"
+          "m": "Eco Metálico"
+        },
+        {
+          "lvl": 1,
+          "m": "Polvo Explosivo"
+        },
+        {
+          "lvl": 1,
+          "m": "A Defender"
         },
         {
           "lvl": 1,
@@ -710,97 +708,99 @@
         },
         {
           "lvl": 1,
-          "m": "Ataque Óseo"
+          "m": "Rayo Confuso"
         },
         {
           "lvl": 1,
-          "m": "Gas Corrosivo"
+          "m": "Refuerzo"
         },
         {
           "lvl": 1,
-          "m": "Desarrollo"
+          "m": "Batido"
         },
         {
-          "lvl": 9,
-          "m": "Aire Afilado"
-        },
-        {
-          "lvl": 12,
-          "m": "Anticipo"
+          "lvl": 11,
+          "m": "Doble Ataque"
         },
         {
           "lvl": 15,
-          "m": "Sustituto"
+          "m": "Empapar"
         },
         {
-          "lvl": 20,
-          "m": "Cepo"
+          "lvl": 19,
+          "m": "Cambiadefensa"
         },
         {
-          "lvl": 20,
-          "m": "Zona Extraña"
+          "lvl": 24,
+          "m": "Cerrojo Feérico"
         },
         {
-          "lvl": 25,
-          "m": "Gota Vital"
+          "lvl": 28,
+          "m": "Metrónomo"
         },
         {
-          "lvl": 25,
-          "m": "Bomba Fango"
+          "lvl": 33,
+          "m": "Ataque Óseo"
         },
         {
-          "lvl": 30,
-          "m": "Rueda Fuego"
-        },
-        {
-          "lvl": 35,
-          "m": "Ladrón"
-        },
-        {
-          "lvl": 42,
-          "m": "Erupción de Ira"
+          "lvl": 39,
+          "m": "Vapodrenaje"
         },
         {
           "lvl": 46,
-          "m": "Fuego Sagrado"
+          "m": "Golpe Cabeza"
         },
         {
-          "lvl": 49,
-          "m": "Tajo Cruzado"
+          "lvl": 52,
+          "m": "Vendaval"
         },
         {
-          "lvl": 56,
-          "m": "Umbreozona"
+          "lvl": 59,
+          "m": "Retracción"
         },
         {
-          "lvl": 63,
-          "m": "Canto Encantador"
+          "lvl": 64,
+          "m": "Al Ataque"
+        },
+        {
+          "lvl": 66,
+          "m": "Aura Magnética"
         }
       ],
       "tmMoves": [
         "Acua Cola",
-        "Aire Afilado",
-        "Alivio",
+        "Adaptación",
+        "Agarre",
         "Bomba Fango",
         "Cañón Batidor",
-        "Cerrojo Feérico",
-        "Copión",
-        "Corpulencia",
+        "Clemencia",
+        "Daño Secreto",
+        "Doble Golpe",
+        "Escudo Real",
         "Espora",
-        "Giro Mortífero",
-        "Hidrochorro",
-        "Poder Pasado",
-        "Pulso Noche",
+        "Ida y Vuelta",
+        "Impactrueno",
+        "Látigo Ígneo",
+        "Legado",
+        "Mil Temblores",
+        "Moluscañón",
+        "Motivación",
+        "Rayo Confuso",
         "Rayo Señal",
+        "Salazón",
         "Señuelo",
-        "Sonámbulo",
-        "Trampa Rocas"
+        "Sorpresa",
+        "Tajo Metralla",
+        "Venganza",
+        "Viento Feérico"
       ],
       "firstMoves": [
-        "Cepo",
-        "Burbuja"
+        "Viraje",
+        "Resarcimiento",
+        "Zona Mágica",
+        "Cornada"
       ],
-      "spriteKey": "SWAMPERT"
+      "spriteKey": "EMPOLEON"
     },
     {
       "nickname": "Rem",
@@ -4788,15 +4788,15 @@
   ],
   "captures": [
     {
-      "route": "tunel_roca",
-      "where": "Túnel Roca",
-      "species": "Empoleon",
-      "nickname": "Kowalski",
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Swampert",
+      "nickname": "Izan",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 29,
-      "mon": "Empoleon"
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Swampert"
     },
     {
       "route": "tunel_diglett",
@@ -4832,15 +4832,15 @@
       "mon": "Tinkaton"
     },
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Swampert",
-      "nickname": "Izan",
+      "route": "tunel_roca",
+      "where": "Túnel Roca",
+      "species": "Empoleon",
+      "nickname": "Kowalski",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Swampert"
+      "category": "salvaje",
+      "level": 29,
+      "mon": "Empoleon"
     },
     {
       "route": "",
@@ -5205,10 +5205,10 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "tunel_roca": true,
       "tunel_diglett": true,
       "ruta_1": true,
       "ruta_15": true,
+      "tunel_roca": true,
       "ruta_9": true,
       "ruta_2_norte": true,
       "bosque_verde": true,
@@ -5509,7 +5509,7 @@
       {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
-        "qty": 4,
+        "qty": 3,
         "pocket": "Objetos"
       },
       {
