@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 16h 9m jugadas · 130,570₽ · vidas en el juego: 23",
+  "notes": "Importado del save · 17h 23m jugadas · 130,570₽ · vidas en el juego: 23",
   "team": [
     {
       "nickname": "Kowalski",
@@ -33,7 +33,7 @@
         15
       ],
       "ev": [
-        2,
+        3,
         7,
         2,
         3,
@@ -189,7 +189,7 @@
         21
       ],
       "ev": [
-        10,
+        11,
         29,
         16,
         17,
@@ -338,7 +338,7 @@
         23
       ],
       "ev": [
-        15,
+        16,
         50,
         30,
         27,
@@ -492,7 +492,7 @@
         5
       ],
       "ev": [
-        0,
+        1,
         0,
         0,
         0,
@@ -653,7 +653,7 @@
         3
       ],
       "ev": [
-        10,
+        11,
         36,
         20,
         19,
@@ -818,7 +818,7 @@
         29
       ],
       "ev": [
-        33,
+        34,
         76,
         50,
         47,
@@ -4169,6 +4169,105 @@
         "Mil Púas Tóxicas"
       ],
       "spriteKey": "COFAGRIGUS"
+    },
+    {
+      "nickname": "Mojonarro",
+      "species": "Tadbulb",
+      "level": 3,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Guardia Metálica",
+      "nature": "Pícara",
+      "item": "",
+      "shiny": true,
+      "moves": [
+        "Mismo Destino",
+        "Placaje"
+      ],
+      "iv": [
+        19,
+        7,
+        22,
+        28,
+        9,
+        13
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Poder Gélido",
+        "Guardia Metálica"
+      ],
+      "abilHidden": [
+        "Calco"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 1,
+          "m": "Placaje"
+        },
+        {
+          "lvl": 7,
+          "m": "Moflete Estático"
+        },
+        {
+          "lvl": 11,
+          "m": "Aguante"
+        },
+        {
+          "lvl": 17,
+          "m": "Aire Afilado"
+        },
+        {
+          "lvl": 21,
+          "m": "Electrificación"
+        },
+        {
+          "lvl": 24,
+          "m": "Telaraña"
+        },
+        {
+          "lvl": 25,
+          "m": "Extracto Picante"
+        },
+        {
+          "lvl": 32,
+          "m": "Esfera Aural"
+        },
+        {
+          "lvl": 36,
+          "m": "Kinético"
+        },
+        {
+          "lvl": 40,
+          "m": "Fotocolisión"
+        },
+        {
+          "lvl": 45,
+          "m": "Tijera X"
+        },
+        {
+          "lvl": 50,
+          "m": "Aerochorro"
+        }
+      ],
+      "firstMoves": [
+        "Mismo Destino",
+        "Placaje"
+      ],
+      "spriteKey": "TADBULB",
+      "dup": true
     }
   ],
   "graveyard": [
@@ -4880,6 +4979,17 @@
       "mon": "Cofagrigus"
     },
     {
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Tadbulb",
+      "nickname": "Mojonarro",
+      "shiny": true,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 3,
+      "mon": "Tadbulb"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -5539,7 +5649,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 21,
+        "qty": 19,
         "pocket": "Poké Balls"
       },
       {
