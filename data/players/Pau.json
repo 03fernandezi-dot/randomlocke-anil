@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": false,
-  "notes": "Importado del save · 7h 17m jugadas · 293,390₽ · vidas en el juego: 20",
+  "notes": "Importado del save · 8h 20m jugadas · 293,390₽ · vidas en el juego: 20",
   "team": [
     {
       "nickname": "Mocardo",
@@ -19,7 +19,7 @@
       "shiny": false,
       "moves": [
         "Cola Veneno",
-        "Golpe Aéreo",
+        "Superdiente",
         "Escudo Real",
         "Púas Tóxicas"
       ],
@@ -32,12 +32,12 @@
         26
       ],
       "ev": [
-        3,
+        4,
         22,
         3,
         9,
-        11,
-        3
+        13,
+        4
       ],
       "abilPool": [
         "Compiescolta",
@@ -133,6 +133,7 @@
         }
       ],
       "tmMoves": [
+        "Alarido",
         "Asalto Barrera",
         "Bomba Ácida",
         "Carga Parábola",
@@ -186,12 +187,12 @@
         20
       ],
       "ev": [
-        7,
+        8,
         18,
         16,
         8,
-        7,
-        8
+        9,
+        9
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -271,6 +272,7 @@
         }
       ],
       "tmMoves": [
+        "Alarido",
         "Arenas Ardientes",
         "Barrera",
         "Carga Parábola",
@@ -324,12 +326,12 @@
         27
       ],
       "ev": [
-        30,
+        31,
         45,
         35,
         25,
-        19,
-        33
+        21,
+        34
       ],
       "abilPool": [
         "Madrugar"
@@ -468,7 +470,7 @@
         "Carga Parábola",
         "Esfera Aural",
         "Arenas Ardientes",
-        "Sorpresa"
+        "Tajo Aéreo"
       ],
       "iv": [
         15,
@@ -479,12 +481,12 @@
         2
       ],
       "ev": [
-        4,
+        5,
         9,
         5,
         1,
-        6,
-        2
+        8,
+        3
       ],
       "abilPool": [
         "Escudo Recio"
@@ -583,6 +585,7 @@
         }
       ],
       "tmMoves": [
+        "Alarido",
         "Burbuja",
         "Camelo",
         "Danza Aleteo",
@@ -597,6 +600,7 @@
         "Rayo Fusión",
         "Restricción",
         "Shuriken de Agua",
+        "Tajo Aéreo",
         "Velo Sagrado",
         "Viento Plata"
       ],
@@ -634,12 +638,12 @@
         19
       ],
       "ev": [
-        25,
+        26,
         70,
         36,
         35,
-        27,
-        41
+        29,
+        42
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -746,8 +750,10 @@
         }
       ],
       "tmMoves": [
+        "Alarido",
         "Barrera",
         "Carga Parábola",
+        "Chuzos",
         "Danza Aleteo",
         "Decalcomanía",
         "Decoración",
@@ -768,9 +774,268 @@
         "Deslome"
       ],
       "spriteKey": "AMPHAROS"
+    },
+    {
+      "nickname": "Bambino",
+      "species": "Sawsbuck",
+      "level": 38,
+      "types": [
+        "Normal",
+        "Planta"
+      ],
+      "ability": "Sacapecho",
+      "nature": "Huraña",
+      "item": "Seguro Debilidad",
+      "shiny": false,
+      "moves": [
+        "Patada Tropical",
+        "Asalto Barrera",
+        "Clavo Cañón",
+        "Hachazo Pétreo"
+      ],
+      "iv": [
+        25,
+        5,
+        29,
+        29,
+        14,
+        13
+      ],
+      "ev": [
+        1,
+        0,
+        0,
+        0,
+        2,
+        1
+      ],
+      "abilPool": [
+        "Piel Eléctrica",
+        "Sacapecho"
+      ],
+      "abilHidden": [
+        "Corte Fuerte"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Estímulo"
+        },
+        {
+          "lvl": 1,
+          "m": "Brinco"
+        },
+        {
+          "lvl": 1,
+          "m": "Giro Bola"
+        },
+        {
+          "lvl": 1,
+          "m": "Palma Rauda"
+        },
+        {
+          "lvl": 1,
+          "m": "Otra Vez"
+        },
+        {
+          "lvl": 1,
+          "m": "Camuflaje"
+        },
+        {
+          "lvl": 10,
+          "m": "Onda Voltio"
+        },
+        {
+          "lvl": 13,
+          "m": "Rizo Defensa"
+        },
+        {
+          "lvl": 16,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 16,
+          "m": "Calcinación"
+        },
+        {
+          "lvl": 20,
+          "m": "Conjuro"
+        },
+        {
+          "lvl": 24,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 24,
+          "m": "Puño Bala"
+        },
+        {
+          "lvl": 28,
+          "m": "Golpes Furia"
+        },
+        {
+          "lvl": 28,
+          "m": "Estoicismo"
+        },
+        {
+          "lvl": 36,
+          "m": "Protección"
+        },
+        {
+          "lvl": 40,
+          "m": "Arañazo"
+        },
+        {
+          "lvl": 44,
+          "m": "Ovocuración"
+        },
+        {
+          "lvl": 52,
+          "m": "Sable Místico"
+        },
+        {
+          "lvl": 52,
+          "m": "Colmillo Rayo"
+        }
+      ],
+      "tmMoves": [
+        "Alarido",
+        "Arenas Ardientes",
+        "Asalto Barrera",
+        "Burbuja",
+        "Camelo",
+        "Carga Parábola",
+        "Clavo Cañón",
+        "Decoración",
+        "Eco Metálico",
+        "Estrujón",
+        "Gas Corrosivo",
+        "Golpe Roca",
+        "Granizo",
+        "Hachazo Pétreo",
+        "Ovocuración",
+        "Pulso de Campo",
+        "Puño Incremento",
+        "Purificación",
+        "Restricción",
+        "Shuriken de Agua",
+        "Velo Sagrado",
+        "Viento Carámbano"
+      ],
+      "firstMoves": [
+        "Meteorobola",
+        "Cosquillas",
+        "Decalcomanía",
+        "Tóxico"
+      ],
+      "spriteKey": "SAWSBUCK_1"
     }
   ],
   "box": [
+    {
+      "nickname": "Jack",
+      "species": "Spearow",
+      "level": 6,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Absorbe Agua",
+      "nature": "Audaz",
+      "item": "",
+      "shiny": true,
+      "moves": [
+        "Meteoros",
+        "Mundo Gélido",
+        "Conversión2"
+      ],
+      "iv": [
+        8,
+        9,
+        6,
+        14,
+        25,
+        28
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Absorbe Agua"
+      ],
+      "abilHidden": [
+        "Rumia"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Meteoros"
+        },
+        {
+          "lvl": 1,
+          "m": "Mundo Gélido"
+        },
+        {
+          "lvl": 4,
+          "m": "Conversión2"
+        },
+        {
+          "lvl": 8,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 11,
+          "m": "Foco Energía"
+        },
+        {
+          "lvl": 13,
+          "m": "Picotazo"
+        },
+        {
+          "lvl": 15,
+          "m": "Psicocorte"
+        },
+        {
+          "lvl": 18,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 21,
+          "m": "Supersónico"
+        },
+        {
+          "lvl": 22,
+          "m": "Carga"
+        },
+        {
+          "lvl": 25,
+          "m": "Furia Natural"
+        },
+        {
+          "lvl": 29,
+          "m": "Rugido"
+        },
+        {
+          "lvl": 32,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 36,
+          "m": "Tecno Shock"
+        }
+      ],
+      "firstMoves": [
+        "Meteoros",
+        "Mundo Gélido",
+        "Conversión2"
+      ],
+      "spriteKey": "SPEAROW"
+    },
     {
       "nickname": "Carnivine",
       "species": "Carnivine",
@@ -2715,155 +2980,6 @@
       "spriteKey": "GEODUDE"
     },
     {
-      "nickname": "Bambino",
-      "species": "Sawsbuck",
-      "level": 32,
-      "types": [
-        "Normal",
-        "Planta"
-      ],
-      "ability": "Sacapecho",
-      "nature": "Huraña",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Patada Tropical",
-        "Asalto Barrera",
-        "Clavo Cañón",
-        "Brinco"
-      ],
-      "iv": [
-        25,
-        5,
-        29,
-        29,
-        14,
-        13
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Piel Eléctrica",
-        "Sacapecho"
-      ],
-      "abilHidden": [
-        "Corte Fuerte"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Estímulo"
-        },
-        {
-          "lvl": 1,
-          "m": "Brinco"
-        },
-        {
-          "lvl": 1,
-          "m": "Giro Bola"
-        },
-        {
-          "lvl": 1,
-          "m": "Palma Rauda"
-        },
-        {
-          "lvl": 1,
-          "m": "Otra Vez"
-        },
-        {
-          "lvl": 1,
-          "m": "Camuflaje"
-        },
-        {
-          "lvl": 10,
-          "m": "Onda Voltio"
-        },
-        {
-          "lvl": 13,
-          "m": "Rizo Defensa"
-        },
-        {
-          "lvl": 16,
-          "m": "Ciclón de Hojas"
-        },
-        {
-          "lvl": 16,
-          "m": "Calcinación"
-        },
-        {
-          "lvl": 20,
-          "m": "Conjuro"
-        },
-        {
-          "lvl": 24,
-          "m": "Despejar"
-        },
-        {
-          "lvl": 24,
-          "m": "Puño Bala"
-        },
-        {
-          "lvl": 28,
-          "m": "Golpes Furia"
-        },
-        {
-          "lvl": 28,
-          "m": "Estoicismo"
-        },
-        {
-          "lvl": 36,
-          "m": "Protección"
-        },
-        {
-          "lvl": 40,
-          "m": "Arañazo"
-        },
-        {
-          "lvl": 44,
-          "m": "Ovocuración"
-        },
-        {
-          "lvl": 52,
-          "m": "Sable Místico"
-        },
-        {
-          "lvl": 52,
-          "m": "Colmillo Rayo"
-        }
-      ],
-      "tmMoves": [
-        "Asalto Barrera",
-        "Burbuja",
-        "Camelo",
-        "Carga Parábola",
-        "Clavo Cañón",
-        "Eco Metálico",
-        "Estrujón",
-        "Gas Corrosivo",
-        "Golpe Roca",
-        "Granizo",
-        "Ovocuración",
-        "Pulso de Campo",
-        "Purificación",
-        "Restricción",
-        "Shuriken de Agua",
-        "Velo Sagrado"
-      ],
-      "firstMoves": [
-        "Meteorobola",
-        "Cosquillas",
-        "Decalcomanía",
-        "Tóxico"
-      ],
-      "spriteKey": "SAWSBUCK_1"
-    },
-    {
       "nickname": "Sol Solet",
       "species": "Solrock",
       "level": 29,
@@ -3717,172 +3833,6 @@
   ],
   "graveyard": [
     {
-      "nickname": "Hedwig",
-      "species": "Decidueye",
-      "level": 39,
-      "types": [
-        "Planta",
-        "Fantasma"
-      ],
-      "ability": "Compensación",
-      "nature": "Amable",
-      "item": "Seguro Debilidad",
-      "shiny": false,
-      "moves": [
-        "Truco Floral",
-        "Brinco",
-        "Colmillo Hielo",
-        "Espora"
-      ],
-      "iv": [
-        21,
-        4,
-        14,
-        26,
-        25,
-        15
-      ],
-      "ev": [
-        29,
-        72,
-        33,
-        29,
-        25,
-        39
-      ],
-      "abilPool": [
-        "Encadenado",
-        "Compensación"
-      ],
-      "abilHidden": [
-        "Mandíbula Fuerte"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Tinieblas"
-        },
-        {
-          "lvl": 1,
-          "m": "Colmillo Hielo"
-        },
-        {
-          "lvl": 1,
-          "m": "Ciclón de Hojas"
-        },
-        {
-          "lvl": 1,
-          "m": "Sombra Vil"
-        },
-        {
-          "lvl": 1,
-          "m": "Doble Equipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Niebla Aromática"
-        },
-        {
-          "lvl": 1,
-          "m": "Abrecaminos"
-        },
-        {
-          "lvl": 1,
-          "m": "Esquirla Helada"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Furia"
-        },
-        {
-          "lvl": 1,
-          "m": "Defensa Férrea"
-        },
-        {
-          "lvl": 1,
-          "m": "Mandato"
-        },
-        {
-          "lvl": 1,
-          "m": "Semilladora"
-        },
-        {
-          "lvl": 9,
-          "m": "Cura Selvática"
-        },
-        {
-          "lvl": 12,
-          "m": "Guardia Baja"
-        },
-        {
-          "lvl": 15,
-          "m": "Brinco"
-        },
-        {
-          "lvl": 19,
-          "m": "Afilagarras"
-        },
-        {
-          "lvl": 20,
-          "m": "Enrosque"
-        },
-        {
-          "lvl": 25,
-          "m": "Envidia ardiente"
-        },
-        {
-          "lvl": 30,
-          "m": "Rayo Carga"
-        },
-        {
-          "lvl": 37,
-          "m": "Tormenta Floral"
-        },
-        {
-          "lvl": 41,
-          "m": "Afilar"
-        },
-        {
-          "lvl": 44,
-          "m": "Escalofrío"
-        },
-        {
-          "lvl": 51,
-          "m": "Planta Feroz"
-        },
-        {
-          "lvl": 52,
-          "m": "Patada Tropical"
-        },
-        {
-          "lvl": 58,
-          "m": "Voto Planta"
-        }
-      ],
-      "tmMoves": [
-        "Llave Corsé",
-        "Piñón Auxiliar",
-        "Pulso de Campo",
-        "Purificación",
-        "Represión Metal",
-        "Restricción",
-        "Sacrificio",
-        "Shuriken de Agua",
-        "Velo Sagrado",
-        "Viento Carámbano"
-      ],
-      "firstMoves": [
-        "Follaje",
-        "Hoja Mágica",
-        "Mofa",
-        "Truco Floral"
-      ],
-      "spriteKey": "DECIDUEYE",
-      "cause": "",
-      "route": "Ciudad Plateada",
-      "date": ""
-    },
-    {
       "nickname": "Partyfiesta",
       "species": "Hatenna",
       "level": 7,
@@ -4730,6 +4680,172 @@
       "cause": "",
       "route": "Ciudad Celeste",
       "date": ""
+    },
+    {
+      "nickname": "Hedwig",
+      "species": "Decidueye",
+      "level": 39,
+      "types": [
+        "Planta",
+        "Fantasma"
+      ],
+      "ability": "Compensación",
+      "nature": "Amable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Truco Floral",
+        "Brinco",
+        "Colmillo Hielo",
+        "Espora"
+      ],
+      "iv": [
+        21,
+        4,
+        14,
+        26,
+        25,
+        15
+      ],
+      "ev": [
+        29,
+        72,
+        33,
+        29,
+        25,
+        39
+      ],
+      "abilPool": [
+        "Encadenado",
+        "Compensación"
+      ],
+      "abilHidden": [
+        "Mandíbula Fuerte"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 1,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 1,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 1,
+          "m": "Sombra Vil"
+        },
+        {
+          "lvl": 1,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 1,
+          "m": "Abrecaminos"
+        },
+        {
+          "lvl": 1,
+          "m": "Esquirla Helada"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 1,
+          "m": "Defensa Férrea"
+        },
+        {
+          "lvl": 1,
+          "m": "Mandato"
+        },
+        {
+          "lvl": 1,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 9,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 12,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 15,
+          "m": "Brinco"
+        },
+        {
+          "lvl": 19,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 20,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 25,
+          "m": "Envidia ardiente"
+        },
+        {
+          "lvl": 30,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 37,
+          "m": "Tormenta Floral"
+        },
+        {
+          "lvl": 41,
+          "m": "Afilar"
+        },
+        {
+          "lvl": 44,
+          "m": "Escalofrío"
+        },
+        {
+          "lvl": 51,
+          "m": "Planta Feroz"
+        },
+        {
+          "lvl": 52,
+          "m": "Patada Tropical"
+        },
+        {
+          "lvl": 58,
+          "m": "Voto Planta"
+        }
+      ],
+      "tmMoves": [
+        "Llave Corsé",
+        "Piñón Auxiliar",
+        "Pulso de Campo",
+        "Purificación",
+        "Represión Metal",
+        "Restricción",
+        "Sacrificio",
+        "Shuriken de Agua",
+        "Velo Sagrado",
+        "Viento Carámbano"
+      ],
+      "firstMoves": [
+        "Follaje",
+        "Hoja Mágica",
+        "Mofa",
+        "Truco Floral"
+      ],
+      "spriteKey": "DECIDUEYE",
+      "cause": "",
+      "route": "Ciudad Plateada",
+      "date": ""
     }
   ],
   "captures": [
@@ -4767,17 +4883,6 @@
       "mon": "Golurk"
     },
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Decidueye",
-      "nickname": "Hedwig",
-      "shiny": false,
-      "status": "dead",
-      "category": "ciudad",
-      "level": 10,
-      "mon": "Decidueye"
-    },
-    {
       "route": "ruta_20",
       "where": "Ruta 20",
       "species": "Typhlosion",
@@ -4798,6 +4903,28 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Ampharos"
+    },
+    {
+      "route": "ruta_3",
+      "where": "Ruta 3",
+      "species": "Sawsbuck",
+      "nickname": "Bambino",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 13,
+      "mon": "Sawsbuck"
+    },
+    {
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Spearow",
+      "nickname": "Jack",
+      "shiny": true,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Spearow"
     },
     {
       "route": "",
@@ -4965,17 +5092,6 @@
       "mon": "Geodude"
     },
     {
-      "route": "ruta_3",
-      "where": "Ruta 3",
-      "species": "Sawsbuck",
-      "nickname": "Bambino",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 13,
-      "mon": "Sawsbuck"
-    },
-    {
       "route": "tunel_roca",
       "where": "Túnel Roca",
       "species": "Solrock",
@@ -5106,6 +5222,17 @@
       "category": "ciudad",
       "level": 18,
       "mon": "Blastoise"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Decidueye",
+      "nickname": "Hedwig",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Decidueye"
     }
   ],
   "progress": {
@@ -5121,9 +5248,11 @@
       "ruta_15": true,
       "monte_moon": true,
       "ruta_22": true,
-      "ciudad_plateada": true,
       "ruta_20": true,
+      "ruta_3": true,
+      "ruta_2_sur": true,
       "ruta_9": true,
+      "ciudad_plateada": true,
       "ruta_10_norte": true,
       "monte_moon_exterior": true,
       "ciudad_verde": true,
@@ -5133,14 +5262,12 @@
       "ruta_6": true,
       "ruta_4": true,
       "ruta_11": true,
-      "ruta_3": true,
       "tunel_roca": true,
       "ruta_8": true,
       "ruta_7": true,
       "ruta_12": true,
       "ciudad_azulona": true,
       "ruta_1": true,
-      "ruta_2_sur": true,
       "bosque_verde": true,
       "ruta_10_sur": true,
       "ciudad_celeste": true,
@@ -5353,6 +5480,7 @@
       "Poké Montura",
       "Polvo Estelar",
       "Prettyfeather",
+      "Radar",
       "Raíz Grande",
       "Randomizador de Habilidad",
       "Rapid Ball",
@@ -5449,12 +5577,6 @@
       {
         "id": "POWERBELT",
         "name": "Cinto Recio",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "SHINYZADOR",
-        "name": "Shinyzador",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -5575,7 +5697,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 389,
+        "qty": 383,
         "pocket": "Medicinas"
       },
       {
@@ -5701,7 +5823,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 22,
+        "qty": 21,
         "pocket": "Poké Balls"
       },
       {
@@ -6163,6 +6285,12 @@
       {
         "id": "VISORSILPH",
         "name": "Visor Silph",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "RADAR",
+        "name": "Radar",
         "qty": 1,
         "pocket": "Objetos clave"
       }
