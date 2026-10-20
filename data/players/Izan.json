@@ -2,20 +2,20 @@
   "id": "Izan",
   "name": "Ma Nigga",
   "lives": 30,
-  "livesUsed": 0,
+  "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 1h 46m jugadas · 7,250₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 2h 31m jugadas · 23,790₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Bombardini",
       "species": "Crocalor",
-      "level": 18,
+      "level": 22,
       "types": [
         "Fuego"
       ],
       "ability": "Remoto",
       "nature": "Rara",
-      "item": "Tarjeta Roja",
+      "item": "Carbón",
       "shiny": false,
       "moves": [
         "Calcinación",
@@ -32,12 +32,12 @@
         31
       ],
       "ev": [
-        7,
         11,
-        8,
-        10,
-        10,
-        7
+        13,
+        14,
+        12,
+        14,
+        20
       ],
       "abilPool": [
         "Remoto"
@@ -117,13 +117,13 @@
     {
       "nickname": "FreakyNikki",
       "species": "Frogadier",
-      "level": 18,
+      "level": 22,
       "types": [
         "Agua"
       ],
       "ability": "Rizos Rebeldes",
       "nature": "Floja",
-      "item": "",
+      "item": "Tarjeta Roja",
       "shiny": false,
       "moves": [
         "Puño Jet",
@@ -140,12 +140,12 @@
         22
       ],
       "ev": [
-        3,
+        7,
+        10,
+        10,
         8,
-        4,
-        6,
-        4,
-        4
+        8,
+        17
       ],
       "abilPool": [
         "Rizos Rebeldes"
@@ -233,43 +233,45 @@
       "spriteKey": "FROGADIER"
     },
     {
-      "nickname": "ReisyourFAFA",
-      "species": "Flabebe",
-      "level": 17,
+      "nickname": "Naclstack",
+      "species": "Naclstack",
+      "level": 22,
       "types": [
-        "Hada"
+        "Roca"
       ],
-      "ability": "Pelusa",
-      "nature": "Serena",
+      "ability": "Ímpetu Arena",
+      "nature": "Firme",
       "item": "Tabla Pétrea",
       "shiny": false,
       "moves": [
-        "Lanzarrocas",
-        "Ronquido",
-        "Somnífero",
-        "Homenaje Póstumo"
+        "Homenaje Póstumo",
+        "Antiaéreo",
+        "Desarrollo",
+        "Fotosíntesis"
       ],
+      "origin": "don_prodigio",
       "iv": [
+        13,
+        23,
         2,
-        5,
-        2,
-        16,
-        19,
-        12
+        21,
+        13,
+        13
       ],
       "ev": [
-        7,
-        10,
-        8,
-        10,
-        9,
-        7
+        0,
+        1,
+        3,
+        2,
+        3,
+        8
       ],
       "abilPool": [
-        "Pelusa"
+        "Ímpetu Arena",
+        "Remoto"
       ],
       "abilHidden": [
-        "Piel Eléctrica"
+        "Punta Acero"
       ],
       "learnset": [
         {
@@ -278,88 +280,79 @@
         },
         {
           "lvl": 1,
-          "m": "Ronquido"
+          "m": "Zona Mágica"
         },
         {
-          "lvl": 6,
-          "m": "Cerrojo Feérico"
+          "lvl": 5,
+          "m": "Gas Corrosivo"
+        },
+        {
+          "lvl": 7,
+          "m": "Antiaéreo"
         },
         {
           "lvl": 10,
-          "m": "Cura Floral"
+          "m": "Desarrollo"
         },
         {
-          "lvl": 10,
-          "m": "Neblina"
+          "lvl": 13,
+          "m": "Fotosíntesis"
         },
         {
-          "lvl": 15,
-          "m": "Somnífero"
+          "lvl": 16,
+          "m": "Isoguardia"
         },
         {
           "lvl": 20,
-          "m": "Sustituto"
-        },
-        {
-          "lvl": 22,
-          "m": "Recuperación"
-        },
-        {
-          "lvl": 24,
-          "m": "Velo Aurora"
-        },
-        {
-          "lvl": 24,
-          "m": "Defensa Floral"
+          "m": "Relevo"
         },
         {
           "lvl": 28,
-          "m": "Absorber"
+          "m": "Maldición"
         },
         {
-          "lvl": 33,
-          "m": "Ovocuración"
+          "lvl": 30,
+          "m": "Aguante"
         },
         {
-          "lvl": 33,
-          "m": "Pulimento"
+          "lvl": 34,
+          "m": "Paralizador"
         },
         {
-          "lvl": 37,
-          "m": "Psicocorte"
+          "lvl": 38,
+          "m": "Balón Ígneo"
         },
         {
           "lvl": 41,
-          "m": "Rabia"
+          "m": "Furia Natural"
         },
         {
           "lvl": 45,
-          "m": "Canto Encantador"
+          "m": "Romperrocas"
         },
         {
-          "lvl": 48,
-          "m": "Espada Santa"
+          "lvl": 51,
+          "m": "Golpe Oscuro"
         }
       ],
       "tmMoves": [
-        "Cambiavelocidad",
-        "Campo de Hierba",
+        "Ataque Ala",
         "Cortina Plasma",
-        "Homenaje Póstumo",
-        "Puño Jet",
-        "Tormento",
-        "Triple Patada"
+        "Destello",
+        "Homenaje Póstumo"
       ],
       "firstMoves": [
-        "Lanzarrocas",
-        "Ronquido"
+        "Gas Corrosivo",
+        "Antiaéreo",
+        "Desarrollo",
+        "Fotosíntesis"
       ],
-      "spriteKey": "FLABEBE_1"
+      "spriteKey": "NACLSTACK"
     },
     {
       "nickname": "Frigopie",
       "species": "Frigibax",
-      "level": 17,
+      "level": 20,
       "types": [
         "Dragón",
         "Hielo"
@@ -383,12 +376,12 @@
         6
       ],
       "ev": [
-        7,
-        9,
-        8,
-        10,
-        9,
-        7
+        11,
+        11,
+        14,
+        12,
+        13,
+        20
       ],
       "abilPool": [
         "Flexibilidad"
@@ -467,7 +460,7 @@
     {
       "nickname": "Laura",
       "species": "Vivillon",
-      "level": 17,
+      "level": 21,
       "types": [
         "Bicho",
         "Volador"
@@ -479,7 +472,8 @@
       "moves": [
         "Espacio Raro",
         "Voltiocambio",
-        "Autosugestión"
+        "Autosugestión",
+        "Danza Caos"
       ],
       "iv": [
         5,
@@ -490,12 +484,12 @@
         20
       ],
       "ev": [
-        3,
-        8,
-        4,
         7,
-        5,
-        5
+        10,
+        10,
+        9,
+        9,
+        18
       ],
       "abilPool": [
         "Velo Aroma",
@@ -592,7 +586,7 @@
     {
       "nickname": "Machote",
       "species": "Machop",
-      "level": 18,
+      "level": 22,
       "types": [
         "Lucha"
       ],
@@ -603,7 +597,7 @@
       "moves": [
         "Pantalla de Humo",
         "Mordisco",
-        "Octopresa",
+        "Llave Giro",
         "Detección"
       ],
       "iv": [
@@ -615,12 +609,12 @@
         14
       ],
       "ev": [
-        1,
         5,
+        7,
+        9,
         3,
-        1,
-        2,
-        3
+        6,
+        16
       ],
       "abilPool": [
         "Energía Pura",
@@ -1187,117 +1181,6 @@
       "spriteKey": "SHELMET"
     },
     {
-      "nickname": "Naclstack",
-      "species": "Naclstack",
-      "level": 13,
-      "types": [
-        "Roca"
-      ],
-      "ability": "Ímpetu Arena",
-      "nature": "Firme",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Gas Corrosivo",
-        "Antiaéreo",
-        "Desarrollo",
-        "Fotosíntesis"
-      ],
-      "origin": "don_prodigio",
-      "iv": [
-        13,
-        23,
-        2,
-        21,
-        13,
-        13
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Ímpetu Arena",
-        "Remoto"
-      ],
-      "abilHidden": [
-        "Punta Acero"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Lanzarrocas"
-        },
-        {
-          "lvl": 1,
-          "m": "Zona Mágica"
-        },
-        {
-          "lvl": 5,
-          "m": "Gas Corrosivo"
-        },
-        {
-          "lvl": 7,
-          "m": "Antiaéreo"
-        },
-        {
-          "lvl": 10,
-          "m": "Desarrollo"
-        },
-        {
-          "lvl": 13,
-          "m": "Fotosíntesis"
-        },
-        {
-          "lvl": 16,
-          "m": "Isoguardia"
-        },
-        {
-          "lvl": 20,
-          "m": "Relevo"
-        },
-        {
-          "lvl": 28,
-          "m": "Maldición"
-        },
-        {
-          "lvl": 30,
-          "m": "Aguante"
-        },
-        {
-          "lvl": 34,
-          "m": "Paralizador"
-        },
-        {
-          "lvl": 38,
-          "m": "Balón Ígneo"
-        },
-        {
-          "lvl": 41,
-          "m": "Furia Natural"
-        },
-        {
-          "lvl": 45,
-          "m": "Romperrocas"
-        },
-        {
-          "lvl": 51,
-          "m": "Golpe Oscuro"
-        }
-      ],
-      "firstMoves": [
-        "Gas Corrosivo",
-        "Antiaéreo",
-        "Desarrollo",
-        "Fotosíntesis"
-      ],
-      "spriteKey": "NACLSTACK"
-    },
-    {
       "nickname": "Salamandra",
       "species": "Salandit",
       "level": 16,
@@ -1421,9 +1304,614 @@
         "Despejar"
       ],
       "spriteKey": "SALANDIT"
+    },
+    {
+      "nickname": "mI PuTA vIDA",
+      "species": "Flabebe",
+      "level": 1,
+      "types": [
+        "Hada"
+      ],
+      "ability": "Relincho Blanco",
+      "nature": "Afable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Lanzarrocas",
+        "Ronquido"
+      ],
+      "iv": [
+        10,
+        1,
+        31,
+        31,
+        2,
+        3
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Relincho Blanco"
+      ],
+      "abilHidden": [
+        "Cacheo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 1,
+          "m": "Ronquido"
+        },
+        {
+          "lvl": 6,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 10,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 10,
+          "m": "Neblina"
+        },
+        {
+          "lvl": 15,
+          "m": "Somnífero"
+        },
+        {
+          "lvl": 20,
+          "m": "Sustituto"
+        },
+        {
+          "lvl": 22,
+          "m": "Recuperación"
+        },
+        {
+          "lvl": 24,
+          "m": "Velo Aurora"
+        },
+        {
+          "lvl": 24,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 28,
+          "m": "Absorber"
+        },
+        {
+          "lvl": 33,
+          "m": "Ovocuración"
+        },
+        {
+          "lvl": 33,
+          "m": "Pulimento"
+        },
+        {
+          "lvl": 37,
+          "m": "Psicocorte"
+        },
+        {
+          "lvl": 41,
+          "m": "Rabia"
+        },
+        {
+          "lvl": 45,
+          "m": "Canto Encantador"
+        },
+        {
+          "lvl": 48,
+          "m": "Espada Santa"
+        }
+      ],
+      "tmMoves": [
+        "Cambiavelocidad",
+        "Campo de Hierba",
+        "Cortina Plasma",
+        "Homenaje Póstumo",
+        "Puño Jet",
+        "Tormento",
+        "Triple Patada"
+      ],
+      "firstMoves": [
+        "Lanzarrocas",
+        "Ronquido"
+      ],
+      "spriteKey": "FLABEBE_3",
+      "dup": true
+    },
+    {
+      "nickname": "Helios",
+      "species": "Helioptile",
+      "level": 18,
+      "types": [
+        "Eléctrico",
+        "Normal"
+      ],
+      "ability": "Ímpetu Ardiente",
+      "nature": "Ingenua",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Doble Bofetón",
+        "Acua Aro",
+        "Empapar",
+        "Celebración"
+      ],
+      "iv": [
+        12,
+        27,
+        10,
+        2,
+        18,
+        29
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Ímpetu Ardiente",
+        "Cuerpo Maldito"
+      ],
+      "abilHidden": [
+        "Rumia"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 1,
+          "m": "Ataque Óseo"
+        },
+        {
+          "lvl": 4,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 8,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 12,
+          "m": "Empapar"
+        },
+        {
+          "lvl": 16,
+          "m": "Celebración"
+        },
+        {
+          "lvl": 20,
+          "m": "Abatidoras"
+        },
+        {
+          "lvl": 22,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 24,
+          "m": "Aguante"
+        },
+        {
+          "lvl": 28,
+          "m": "Viento Afín"
+        },
+        {
+          "lvl": 32,
+          "m": "Atrapabicho"
+        },
+        {
+          "lvl": 36,
+          "m": "Furia Candente"
+        },
+        {
+          "lvl": 38,
+          "m": "Disparo Lodo"
+        },
+        {
+          "lvl": 40,
+          "m": "Fanfarronear"
+        },
+        {
+          "lvl": 44,
+          "m": "Puño Trueno"
+        }
+      ],
+      "tmMoves": [
+        "Golpes Furia"
+      ],
+      "firstMoves": [
+        "Doble Bofetón",
+        "Acua Aro",
+        "Empapar",
+        "Celebración"
+      ],
+      "spriteKey": "HELIOPTILE"
+    },
+    {
+      "nickname": "Fotosíntesis",
+      "species": "Solosis",
+      "level": 18,
+      "types": [
+        "Psíquico"
+      ],
+      "ability": "Combustible",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Danza Espada",
+        "Cornada",
+        "Brazo Pincho",
+        "Zona Mágica"
+      ],
+      "iv": [
+        23,
+        26,
+        28,
+        1,
+        9,
+        23
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Combustible",
+        "Perro Guardián"
+      ],
+      "abilHidden": [
+        "Cuerpo Horneado"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cambio de Banda"
+        },
+        {
+          "lvl": 1,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 1,
+          "m": "Truco Fuerza"
+        },
+        {
+          "lvl": 4,
+          "m": "Poder Místico"
+        },
+        {
+          "lvl": 7,
+          "m": "Puntapié"
+        },
+        {
+          "lvl": 8,
+          "m": "Onda Trueno"
+        },
+        {
+          "lvl": 10,
+          "m": "Danza Espada"
+        },
+        {
+          "lvl": 12,
+          "m": "Cornada"
+        },
+        {
+          "lvl": 14,
+          "m": "Brazo Pincho"
+        },
+        {
+          "lvl": 16,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 20,
+          "m": "Pulso Cura"
+        },
+        {
+          "lvl": 24,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 24,
+          "m": "Ataque Óseo"
+        },
+        {
+          "lvl": 28,
+          "m": "Psicocorte"
+        },
+        {
+          "lvl": 33,
+          "m": "Rencor Reprimido"
+        },
+        {
+          "lvl": 36,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 40,
+          "m": "Restricción"
+        },
+        {
+          "lvl": 44,
+          "m": "Espada Lamento"
+        },
+        {
+          "lvl": 46,
+          "m": "Hierba Lazo"
+        },
+        {
+          "lvl": 48,
+          "m": "Empapar"
+        }
+      ],
+      "tmMoves": [
+        "Golpes Furia"
+      ],
+      "firstMoves": [
+        "Danza Espada",
+        "Cornada",
+        "Brazo Pincho",
+        "Zona Mágica"
+      ],
+      "spriteKey": "SOLOSIS"
+    },
+    {
+      "nickname": "Maricon",
+      "species": "Cutiefly",
+      "level": 19,
+      "types": [
+        "Bicho",
+        "Hada"
+      ],
+      "ability": "Teracaparazón",
+      "nature": "Huraña",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Truco Defensa",
+        "Acoso",
+        "Canto Mortal",
+        "Kinético"
+      ],
+      "iv": [
+        26,
+        31,
+        20,
+        17,
+        30,
+        23
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Teracaparazón",
+        "Punto Tóxico"
+      ],
+      "abilHidden": [
+        "Oportunista"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Robo"
+        },
+        {
+          "lvl": 1,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 6,
+          "m": "Truco Defensa"
+        },
+        {
+          "lvl": 12,
+          "m": "Acoso"
+        },
+        {
+          "lvl": 13,
+          "m": "Canto Mortal"
+        },
+        {
+          "lvl": 18,
+          "m": "Kinético"
+        },
+        {
+          "lvl": 24,
+          "m": "Pantalla de Humo"
+        },
+        {
+          "lvl": 30,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 30,
+          "m": "Anticura"
+        },
+        {
+          "lvl": 33,
+          "m": "Tajo Metralla"
+        },
+        {
+          "lvl": 36,
+          "m": "Retribución"
+        },
+        {
+          "lvl": 42,
+          "m": "Mofa"
+        },
+        {
+          "lvl": 48,
+          "m": "Sylveotornado"
+        },
+        {
+          "lvl": 54,
+          "m": "Desahogo"
+        }
+      ],
+      "firstMoves": [
+        "Truco Defensa",
+        "Acoso",
+        "Canto Mortal",
+        "Kinético"
+      ],
+      "spriteKey": "CUTIEFLY"
     }
   ],
-  "graveyard": [],
+  "graveyard": [
+    {
+      "nickname": "ReisyourFAFA",
+      "species": "Flabebe",
+      "level": 18,
+      "types": [
+        "Hada"
+      ],
+      "ability": "Pelusa",
+      "nature": "Serena",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Lanzarrocas",
+        "Ronquido",
+        "Somnífero",
+        "Homenaje Póstumo"
+      ],
+      "iv": [
+        2,
+        5,
+        2,
+        16,
+        19,
+        12
+      ],
+      "ev": [
+        10,
+        11,
+        10,
+        10,
+        10,
+        10
+      ],
+      "abilPool": [
+        "Pelusa"
+      ],
+      "abilHidden": [
+        "Piel Eléctrica"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 1,
+          "m": "Ronquido"
+        },
+        {
+          "lvl": 6,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 10,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 10,
+          "m": "Neblina"
+        },
+        {
+          "lvl": 15,
+          "m": "Somnífero"
+        },
+        {
+          "lvl": 20,
+          "m": "Sustituto"
+        },
+        {
+          "lvl": 22,
+          "m": "Recuperación"
+        },
+        {
+          "lvl": 24,
+          "m": "Velo Aurora"
+        },
+        {
+          "lvl": 24,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 28,
+          "m": "Absorber"
+        },
+        {
+          "lvl": 33,
+          "m": "Ovocuración"
+        },
+        {
+          "lvl": 33,
+          "m": "Pulimento"
+        },
+        {
+          "lvl": 37,
+          "m": "Psicocorte"
+        },
+        {
+          "lvl": 41,
+          "m": "Rabia"
+        },
+        {
+          "lvl": 45,
+          "m": "Canto Encantador"
+        },
+        {
+          "lvl": 48,
+          "m": "Espada Santa"
+        }
+      ],
+      "tmMoves": [
+        "Cambiavelocidad",
+        "Campo de Hierba",
+        "Cortina Plasma",
+        "Homenaje Póstumo",
+        "Puño Jet",
+        "Tormento",
+        "Triple Patada"
+      ],
+      "firstMoves": [
+        "Lanzarrocas",
+        "Ronquido"
+      ],
+      "spriteKey": "FLABEBE_1",
+      "cause": "",
+      "route": "Ruta 1",
+      "date": ""
+    }
+  ],
   "captures": [
     {
       "route": "",
@@ -1448,15 +1936,15 @@
       "mon": "Frogadier"
     },
     {
-      "route": "ruta_1",
-      "where": "Ruta 1",
-      "species": "Flabebe",
-      "nickname": "ReisyourFAFA",
+      "route": "",
+      "where": "Monte Moon",
+      "species": "Naclstack",
+      "nickname": "",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 5,
-      "mon": "Flabebe"
+      "category": "intercambio",
+      "level": 13,
+      "mon": "Naclstack"
     },
     {
       "route": "ciudad_verde",
@@ -1536,17 +2024,6 @@
       "mon": "Shelmet"
     },
     {
-      "route": "",
-      "where": "Monte Moon",
-      "species": "Naclstack",
-      "nickname": "",
-      "shiny": false,
-      "status": "captured",
-      "category": "intercambio",
-      "level": 13,
-      "mon": "Naclstack"
-    },
-    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Salandit",
@@ -1556,6 +2033,61 @@
       "category": "salvaje",
       "level": 16,
       "mon": "Salandit"
+    },
+    {
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Flabebe",
+      "nickname": "mI PuTA vIDA",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Flabebe"
+    },
+    {
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Flabebe",
+      "nickname": "ReisyourFAFA",
+      "shiny": false,
+      "status": "dead",
+      "category": "salvaje",
+      "level": 5,
+      "mon": "Flabebe"
+    },
+    {
+      "route": "ruta_4",
+      "where": "Ruta 4",
+      "species": "Helioptile",
+      "nickname": "Helios",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 18,
+      "mon": "Helioptile"
+    },
+    {
+      "route": "ciudad_celeste",
+      "where": "Ciudad Celeste",
+      "species": "Solosis",
+      "nickname": "Fotosíntesis",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 18,
+      "mon": "Solosis"
+    },
+    {
+      "route": "ruta_20",
+      "where": "Ruta 20",
+      "species": "Cutiefly",
+      "nickname": "Maricon",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 19,
+      "mon": "Cutiefly"
     }
   ],
   "progress": {
@@ -1566,13 +2098,16 @@
     "npcs": {},
     "routes": {
       "ciudad_plateada": true,
-      "ruta_1": true,
       "ciudad_verde": true,
       "ruta_2_norte": true,
       "ruta_3": true,
       "pueblo_paleta": true,
       "ruta_2_sur": true,
       "monte_moon_exterior": true,
+      "ruta_1": true,
+      "ruta_4": true,
+      "ciudad_celeste": true,
+      "ruta_20": true,
       "bosque_verde": true,
       "monte_moon": true
     },
@@ -1587,7 +2122,10 @@
       "ciudad_plateada": true,
       "ruta_3": true,
       "monte_moon": true,
-      "monte_moon_exterior": true
+      "monte_moon_exterior": true,
+      "ruta_4": true,
+      "ciudad_celeste": true,
+      "ruta_20": true
     },
     "switches": [
       48,
@@ -1601,11 +2139,16 @@
       71,
       72,
       73,
+      74,
+      75,
+      76,
+      80,
       110,
       112,
       113,
       114,
       121,
+      171,
       176,
       179,
       180,
@@ -1617,14 +2160,18 @@
       334
     ],
     "foundItems": [
+      "Arena Fina",
       "Baya Enigma",
       "Baya Lagro",
+      "Baya Tamar",
       "Baya Ziuela",
       "Baya Zreza",
       "Bola Luminosa",
+      "Carbón",
       "Cenizas Sagradas",
       "Cuerda Huida",
       "Dulce de Nata",
+      "Fósil Hélix",
       "Garra Garfio",
       "Gema Hielo",
       "Globo Helio",
@@ -1637,9 +2184,12 @@
       "Miniseta",
       "MO Golpe Roca",
       "MT06",
+      "MT102",
       "MT104",
+      "MT122",
       "MT123",
       "MT14",
+      "MT23",
       "MT27",
       "MT39",
       "MT41",
@@ -1649,18 +2199,24 @@
       "MT83",
       "MT88",
       "MT89",
+      "MT93",
       "MT94",
       "MT97",
+      "Pañuelo Elección",
       "Parte Azul",
+      "Parte Verde",
       "Pepita",
       "Pila",
+      "Pluma Salud",
       "Poké Montura",
+      "Polvo Estelar",
       "Polvo Metálico",
       "Quitaestado",
       "Radar",
       "Reglamento",
       "Supercaña",
       "Supercápsula",
+      "Tabla Cielo",
       "Tabla Pétrea",
       "Tarjeta Roja",
       "Velocidad X 6",
@@ -1734,6 +2290,30 @@
         "pocket": "Objetos"
       },
       {
+        "id": "SKYPLATE",
+        "name": "Tabla Cielo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "GREENSHARD",
+        "name": "Parte Verde",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SOFTSAND",
+        "name": "Arena Fina",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "CHOICESCARF",
+        "name": "Pañuelo Elección",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HYPERPOTION",
         "name": "Hiperpoción",
         "qty": 1,
@@ -1760,7 +2340,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 970,
+        "qty": 964,
         "pocket": "Medicinas"
       },
       {
@@ -1782,6 +2362,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "HEALTHFEATHER",
+        "name": "Pluma Salud",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 4,
@@ -1790,7 +2376,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 15,
+        "qty": 9,
         "pocket": "Poké Balls"
       },
       {
@@ -1808,6 +2394,12 @@
       {
         "id": "TM14",
         "name": "MT14",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM23",
+        "name": "MT23",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -1866,6 +2458,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM93",
+        "name": "MT93",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM94",
         "name": "MT94",
         "qty": 1,
@@ -1878,8 +2476,20 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM102",
+        "name": "MT102",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM104",
         "name": "MT104",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM122",
+        "name": "MT122",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -1898,6 +2508,12 @@
       {
         "id": "LUMBERRY",
         "name": "Baya Ziuela",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "RINDOBERRY",
+        "name": "Baya Tamar",
         "qty": 1,
         "pocket": "Bayas"
       },
@@ -1938,8 +2554,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
@@ -1992,7 +2608,8 @@
     "722467237",
     "1507255140",
     "1220383077",
-    "3073770163"
+    "3073770163",
+    "298710570"
   ],
   "revividos": 23
 }
