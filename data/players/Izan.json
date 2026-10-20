@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 2h 52m jugadas · 36,720₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 2h 55m jugadas · 36,720₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Bombardini",
@@ -34,7 +34,7 @@
       "ev": [
         16,
         17,
-        15,
+        16,
         12,
         14,
         21
@@ -145,7 +145,7 @@
       "ev": [
         12,
         14,
-        11,
+        12,
         8,
         8,
         18
@@ -265,7 +265,7 @@
       "ev": [
         5,
         5,
-        4,
+        5,
         2,
         3,
         9
@@ -383,7 +383,7 @@
       "ev": [
         15,
         14,
-        15,
+        16,
         12,
         13,
         21
@@ -467,144 +467,6 @@
       "spriteKey": "FRIGIBAX"
     },
     {
-      "nickname": "Machote",
-      "species": "Machop",
-      "level": 23,
-      "types": [
-        "Lucha"
-      ],
-      "ability": "Energía Pura",
-      "nature": "Seria",
-      "item": "Guante de Boxeo",
-      "shiny": false,
-      "moves": [
-        "Pantalla de Humo",
-        "Mordisco",
-        "Llave Giro",
-        "Detección"
-      ],
-      "iv": [
-        2,
-        6,
-        14,
-        1,
-        21,
-        14
-      ],
-      "ev": [
-        10,
-        11,
-        10,
-        3,
-        6,
-        17
-      ],
-      "abilPool": [
-        "Energía Pura",
-        "Llovizna"
-      ],
-      "abilHidden": [
-        "Muro Mágico"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Sísmico"
-        },
-        {
-          "lvl": 1,
-          "m": "Pantalla de Humo"
-        },
-        {
-          "lvl": 4,
-          "m": "Mordisco"
-        },
-        {
-          "lvl": 8,
-          "m": "Octopresa"
-        },
-        {
-          "lvl": 10,
-          "m": "Detección"
-        },
-        {
-          "lvl": 12,
-          "m": "Salpicadura"
-        },
-        {
-          "lvl": 16,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 19,
-          "m": "Canto"
-        },
-        {
-          "lvl": 20,
-          "m": "Llave Giro"
-        },
-        {
-          "lvl": 24,
-          "m": "Bastión Final"
-        },
-        {
-          "lvl": 29,
-          "m": "Paz Mental"
-        },
-        {
-          "lvl": 32,
-          "m": "Mofa"
-        },
-        {
-          "lvl": 34,
-          "m": "Plancha Corporal"
-        },
-        {
-          "lvl": 36,
-          "m": "Seducción"
-        },
-        {
-          "lvl": 37,
-          "m": "Fulgor Semilla"
-        },
-        {
-          "lvl": 40,
-          "m": "Chulería"
-        },
-        {
-          "lvl": 44,
-          "m": "Cuchilla Solar"
-        },
-        {
-          "lvl": 48,
-          "m": "Aire Afilado"
-        },
-        {
-          "lvl": 52,
-          "m": "Puño Meteoro"
-        }
-      ],
-      "tmMoves": [
-        "Bálsamo Osado",
-        "Barrera Espinosa",
-        "Campo de Hierba",
-        "Carga",
-        "Colmillo Hielo",
-        "Golpes Furia",
-        "Profecía",
-        "Reducción",
-        "Ronquido",
-        "Tormento"
-      ],
-      "firstMoves": [
-        "Pantalla de Humo",
-        "Mordisco",
-        "Octopresa",
-        "Detección"
-      ],
-      "spriteKey": "MACHOP"
-    },
-    {
       "nickname": "Fotosíntesis",
       "species": "Solosis",
       "level": 23,
@@ -632,7 +494,7 @@
       "ev": [
         4,
         3,
-        1,
+        2,
         0,
         0,
         1
@@ -748,6 +610,119 @@
         "Zona Mágica"
       ],
       "spriteKey": "SOLOSIS"
+    },
+    {
+      "nickname": "Castellar",
+      "species": "Sandygast",
+      "level": 21,
+      "types": [
+        "Fantasma",
+        "Tierra"
+      ],
+      "ability": "Hidratación",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Seducción",
+        "Rodillo de Púas",
+        "Alto Voltaje",
+        "Viento Aciago"
+      ],
+      "iv": [
+        18,
+        8,
+        25,
+        14,
+        18,
+        10
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Hidratación"
+      ],
+      "abilHidden": [
+        "Muro Mágico"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cambio de Cancha"
+        },
+        {
+          "lvl": 1,
+          "m": "Calamidad"
+        },
+        {
+          "lvl": 5,
+          "m": "Seducción"
+        },
+        {
+          "lvl": 10,
+          "m": "Rodillo de Púas"
+        },
+        {
+          "lvl": 15,
+          "m": "Alto Voltaje"
+        },
+        {
+          "lvl": 20,
+          "m": "Viento Aciago"
+        },
+        {
+          "lvl": 25,
+          "m": "Celebración"
+        },
+        {
+          "lvl": 30,
+          "m": "Silbato"
+        },
+        {
+          "lvl": 35,
+          "m": "Lengüetazo"
+        },
+        {
+          "lvl": 40,
+          "m": "Aguzar"
+        },
+        {
+          "lvl": 45,
+          "m": "Viento Carámbano"
+        },
+        {
+          "lvl": 50,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 50,
+          "m": "Última Palabra"
+        },
+        {
+          "lvl": 55,
+          "m": "Energibola"
+        },
+        {
+          "lvl": 60,
+          "m": "Bostezo"
+        }
+      ],
+      "tmMoves": [
+        "Golpes Furia"
+      ],
+      "firstMoves": [
+        "Seducción",
+        "Rodillo de Púas",
+        "Alto Voltaje",
+        "Viento Aciago"
+      ],
+      "spriteKey": "SANDYGAST"
     }
   ],
   "box": [
@@ -1681,6 +1656,144 @@
         "Kinético"
       ],
       "spriteKey": "CUTIEFLY"
+    },
+    {
+      "nickname": "Machote",
+      "species": "Machop",
+      "level": 23,
+      "types": [
+        "Lucha"
+      ],
+      "ability": "Energía Pura",
+      "nature": "Seria",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Pantalla de Humo",
+        "Mordisco",
+        "Llave Giro",
+        "Detección"
+      ],
+      "iv": [
+        2,
+        6,
+        14,
+        1,
+        21,
+        14
+      ],
+      "ev": [
+        10,
+        11,
+        11,
+        3,
+        6,
+        17
+      ],
+      "abilPool": [
+        "Energía Pura",
+        "Llovizna"
+      ],
+      "abilHidden": [
+        "Muro Mágico"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 1,
+          "m": "Pantalla de Humo"
+        },
+        {
+          "lvl": 4,
+          "m": "Mordisco"
+        },
+        {
+          "lvl": 8,
+          "m": "Octopresa"
+        },
+        {
+          "lvl": 10,
+          "m": "Detección"
+        },
+        {
+          "lvl": 12,
+          "m": "Salpicadura"
+        },
+        {
+          "lvl": 16,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 19,
+          "m": "Canto"
+        },
+        {
+          "lvl": 20,
+          "m": "Llave Giro"
+        },
+        {
+          "lvl": 24,
+          "m": "Bastión Final"
+        },
+        {
+          "lvl": 29,
+          "m": "Paz Mental"
+        },
+        {
+          "lvl": 32,
+          "m": "Mofa"
+        },
+        {
+          "lvl": 34,
+          "m": "Plancha Corporal"
+        },
+        {
+          "lvl": 36,
+          "m": "Seducción"
+        },
+        {
+          "lvl": 37,
+          "m": "Fulgor Semilla"
+        },
+        {
+          "lvl": 40,
+          "m": "Chulería"
+        },
+        {
+          "lvl": 44,
+          "m": "Cuchilla Solar"
+        },
+        {
+          "lvl": 48,
+          "m": "Aire Afilado"
+        },
+        {
+          "lvl": 52,
+          "m": "Puño Meteoro"
+        }
+      ],
+      "tmMoves": [
+        "Bálsamo Osado",
+        "Barrera Espinosa",
+        "Campo de Hierba",
+        "Carga",
+        "Colmillo Hielo",
+        "Golpes Furia",
+        "Profecía",
+        "Reducción",
+        "Ronquido",
+        "Tormento"
+      ],
+      "firstMoves": [
+        "Pantalla de Humo",
+        "Mordisco",
+        "Octopresa",
+        "Detección"
+      ],
+      "spriteKey": "MACHOP"
     }
   ],
   "graveyard": [
@@ -1987,17 +2100,6 @@
       "mon": "Frigibax"
     },
     {
-      "route": "ruta_3",
-      "where": "Ruta 3",
-      "species": "Machop",
-      "nickname": "Machote",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 11,
-      "mon": "Machop"
-    },
-    {
       "route": "ciudad_celeste",
       "where": "Ciudad Celeste",
       "species": "Solosis",
@@ -2007,6 +2109,17 @@
       "category": "ciudad",
       "level": 18,
       "mon": "Solosis"
+    },
+    {
+      "route": "ruta_5",
+      "where": "Ruta 5",
+      "species": "Sandygast",
+      "nickname": "Castellar",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 21,
+      "mon": "Sandygast"
     },
     {
       "route": "ciudad_plateada",
@@ -2097,6 +2210,17 @@
       "mon": "Cutiefly"
     },
     {
+      "route": "ruta_3",
+      "where": "Ruta 3",
+      "species": "Machop",
+      "nickname": "Machote",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 11,
+      "mon": "Machop"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Flabebe",
@@ -2129,13 +2253,14 @@
     "routes": {
       "ciudad_plateada": true,
       "ciudad_verde": true,
-      "ruta_3": true,
       "ciudad_celeste": true,
+      "ruta_5": true,
       "pueblo_paleta": true,
       "ruta_2_sur": true,
       "ruta_4": true,
       "monte_moon_exterior": true,
       "ruta_20": true,
+      "ruta_3": true,
       "ruta_1": true,
       "ruta_2_norte": true,
       "bosque_verde": true,
@@ -2156,7 +2281,8 @@
       "monte_moon_exterior": true,
       "ruta_4": true,
       "ciudad_celeste": true,
-      "ruta_20": true
+      "ruta_20": true,
+      "ruta_5": true
     },
     "switches": [
       48,
@@ -2195,6 +2321,7 @@
       334
     ],
     "foundItems": [
+      "Amor Ball",
       "Arena Fina",
       "Baya Enigma",
       "Baya Lagro",
@@ -2210,6 +2337,7 @@
       "Fósil Hélix",
       "Garra Garfio",
       "Gema Hielo",
+      "Gema Voladora",
       "Globo Helio",
       "Guante de Boxeo",
       "Hiperpoción",
@@ -2222,6 +2350,7 @@
       "Miniseta",
       "MO Golpe Roca",
       "MT06",
+      "MT101",
       "MT102",
       "MT104",
       "MT122",
@@ -2381,6 +2510,18 @@
       {
         "id": "LEAFSTONE",
         "name": "Piedra Hoja",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PUNCHINGGLOVE",
+        "name": "Guante de Boxeo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FLYINGGEM",
+        "name": "Gema Voladora",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -2453,13 +2594,19 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 9,
+        "qty": 8,
         "pocket": "Poké Balls"
       },
       {
         "id": "PREMIERBALL",
         "name": "Honor Ball",
         "qty": 2,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "LOVEBALL",
+        "name": "Amor Ball",
+        "qty": 1,
         "pocket": "Poké Balls"
       },
       {
@@ -2579,6 +2726,12 @@
       {
         "id": "TM97",
         "name": "MT97",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM101",
+        "name": "MT101",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
