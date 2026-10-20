@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 3h 12m jugadas · 40,170₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 4h 1m jugadas · 55,940₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Bombardini",
       "species": "Crocalor",
-      "level": 24,
+      "level": 30,
       "types": [
         "Fuego"
       ],
@@ -32,12 +32,12 @@
         31
       ],
       "ev": [
+        21,
+        32,
+        25,
         16,
-        26,
-        19,
-        12,
-        15,
-        25
+        17,
+        35
       ],
       "abilPool": [
         "Remoto"
@@ -120,7 +120,7 @@
     {
       "nickname": "FreakyNikki",
       "species": "Frogadier",
-      "level": 24,
+      "level": 30,
       "types": [
         "Agua"
       ],
@@ -131,7 +131,7 @@
       "moves": [
         "Puño Jet",
         "Aguijón Letal",
-        "Bomba Ácida",
+        "Carga Tóxica",
         "Rayo Burbuja"
       ],
       "iv": [
@@ -143,12 +143,12 @@
         22
       ],
       "ev": [
+        17,
+        29,
+        21,
         12,
-        23,
-        15,
-        8,
-        9,
-        22
+        11,
+        32
       ],
       "abilPool": [
         "Rizos Rebeldes"
@@ -223,6 +223,7 @@
         }
       ],
       "tmMoves": [
+        "Arañazo",
         "Cambiavelocidad",
         "Carga",
         "Golpes Furia",
@@ -239,7 +240,7 @@
     {
       "nickname": "Naclstack",
       "species": "Naclstack",
-      "level": 25,
+      "level": 30,
       "types": [
         "Roca"
       ],
@@ -250,7 +251,7 @@
       "moves": [
         "Homenaje Póstumo",
         "Antiaéreo",
-        "Desarrollo",
+        "Cola Férrea",
         "Fotosíntesis"
       ],
       "origin": "don_prodigio",
@@ -263,12 +264,12 @@
         13
       ],
       "ev": [
-        5,
+        10,
+        20,
         14,
-        8,
-        2,
-        4,
-        13
+        6,
+        6,
+        23
       ],
       "abilPool": [
         "Ímpetu Arena",
@@ -342,6 +343,7 @@
       "tmMoves": [
         "Ataque Ala",
         "Barrera Espinosa",
+        "Cola Férrea",
         "Cortina Plasma",
         "Destello",
         "Homenaje Póstumo"
@@ -357,7 +359,7 @@
     {
       "nickname": "Frigopie",
       "species": "Frigibax",
-      "level": 24,
+      "level": 30,
       "types": [
         "Dragón",
         "Hielo"
@@ -381,12 +383,12 @@
         6
       ],
       "ev": [
-        15,
-        23,
-        19,
-        12,
-        14,
-        25
+        20,
+        29,
+        25,
+        16,
+        16,
+        35
       ],
       "abilPool": [
         "Flexibilidad"
@@ -449,6 +451,7 @@
         }
       ],
       "tmMoves": [
+        "Arañazo",
         "Bálsamo Osado",
         "Barrera Espinosa",
         "Carga",
@@ -468,14 +471,14 @@
     },
     {
       "nickname": "Fotosíntesis",
-      "species": "Solosis",
-      "level": 24,
+      "species": "Duosion",
+      "level": 30,
       "types": [
         "Psíquico"
       ],
-      "ability": "Combustible",
+      "ability": "Ráfaga Delta",
       "nature": "Dócil",
-      "item": "",
+      "item": "Gafas Especiales",
       "shiny": false,
       "moves": [
         "Psicorrayo",
@@ -492,19 +495,19 @@
         23
       ],
       "ev": [
+        9,
+        18,
+        11,
         4,
-        12,
-        5,
-        0,
-        1,
-        5
+        3,
+        15
       ],
       "abilPool": [
-        "Combustible",
-        "Perro Guardián"
+        "Ráfaga Delta",
+        "Herbívoro"
       ],
       "abilHidden": [
-        "Cuerpo Horneado"
+        "Vigilante"
       ],
       "learnset": [
         {
@@ -513,95 +516,91 @@
         },
         {
           "lvl": 1,
-          "m": "Psicorrayo"
+          "m": "Cambiadefensa"
         },
         {
           "lvl": 1,
-          "m": "Truco Fuerza"
+          "m": "Magnitud"
         },
         {
-          "lvl": 4,
-          "m": "Poder Místico"
+          "lvl": 1,
+          "m": "Isoguardia"
         },
         {
-          "lvl": 7,
-          "m": "Puntapié"
+          "lvl": 1,
+          "m": "Polvo Veneno"
         },
         {
-          "lvl": 8,
-          "m": "Onda Trueno"
+          "lvl": 1,
+          "m": "Trapicheo"
         },
         {
-          "lvl": 10,
-          "m": "Danza Espada"
+          "lvl": 1,
+          "m": "Luminicola"
+        },
+        {
+          "lvl": 3,
+          "m": "Abatidoras"
         },
         {
           "lvl": 12,
-          "m": "Cornada"
+          "m": "Agilidad"
         },
         {
           "lvl": 14,
-          "m": "Brazo Pincho"
+          "m": "Semilladora"
         },
         {
           "lvl": 16,
-          "m": "Zona Mágica"
+          "m": "Autotomía"
         },
         {
           "lvl": 20,
-          "m": "Pulso Cura"
+          "m": "Profecía"
         },
         {
           "lvl": 24,
-          "m": "Ultrapuño"
+          "m": "Sellar"
         },
         {
           "lvl": 24,
-          "m": "Ataque Óseo"
+          "m": "Velo Sagrado"
         },
         {
           "lvl": 28,
-          "m": "Psicocorte"
+          "m": "Golpe Calor"
         },
         {
-          "lvl": 33,
-          "m": "Rencor Reprimido"
+          "lvl": 28,
+          "m": "Golpe Cabeza"
         },
         {
-          "lvl": 36,
-          "m": "Bomba Fango"
+          "lvl": 35,
+          "m": "Electropunzada"
         },
         {
           "lvl": 40,
-          "m": "Restricción"
-        },
-        {
-          "lvl": 44,
-          "m": "Espada Lamento"
+          "m": "Danza Despertar"
         },
         {
           "lvl": 46,
-          "m": "Hierba Lazo"
+          "m": "Electrificación"
         },
         {
-          "lvl": 48,
-          "m": "Empapar"
+          "lvl": 50,
+          "m": "Escudo Tatami"
+        },
+        {
+          "lvl": 52,
+          "m": "Psicorruido"
+        },
+        {
+          "lvl": 58,
+          "m": "Pikatormenta"
         }
       ],
       "tmMoves": [
-        "Ataque Ala",
-        "Auxilio",
-        "Bálsamo Osado",
-        "Barrera Espinosa",
-        "Cambiavelocidad",
-        "Carga",
-        "Cortina Plasma",
-        "Destello",
-        "Golpes Furia",
-        "Limpieza General",
-        "Puño Jet",
-        "Tinieblas",
-        "Tormento"
+        "Cola Férrea"
       ],
       "firstMoves": [
         "Danza Espada",
@@ -609,12 +608,12 @@
         "Brazo Pincho",
         "Zona Mágica"
       ],
-      "spriteKey": "SOLOSIS"
+      "spriteKey": "DUOSION"
     },
     {
       "nickname": "Castellar",
       "species": "Sandygast",
-      "level": 23,
+      "level": 30,
       "types": [
         "Fantasma",
         "Tierra"
@@ -638,12 +637,12 @@
         10
       ],
       "ev": [
-        0,
+        5,
+        15,
         9,
+        4,
         3,
-        0,
-        1,
-        4
+        14
       ],
       "abilPool": [
         "Hidratación"
@@ -1913,6 +1912,339 @@
         "Punzada Rama"
       ],
       "spriteKey": "COTTONEE"
+    },
+    {
+      "nickname": "In Da Hood",
+      "species": "Hoothoot",
+      "level": 22,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Hospitalidad",
+      "nature": "Huraña",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Contraataque",
+        "Autosugestión",
+        "Polución",
+        "Relámpago Súbito"
+      ],
+      "iv": [
+        8,
+        27,
+        22,
+        7,
+        31,
+        17
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Fuerza Cerebral",
+        "Hospitalidad"
+      ],
+      "abilHidden": [
+        "Antibarrera"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Garra Metal"
+        },
+        {
+          "lvl": 1,
+          "m": "Rugido de Guerra"
+        },
+        {
+          "lvl": 1,
+          "m": "Drenadoras"
+        },
+        {
+          "lvl": 3,
+          "m": "Calcinación"
+        },
+        {
+          "lvl": 6,
+          "m": "Somnífero"
+        },
+        {
+          "lvl": 9,
+          "m": "Sorpresa"
+        },
+        {
+          "lvl": 12,
+          "m": "Pirotecnia"
+        },
+        {
+          "lvl": 15,
+          "m": "Contraataque"
+        },
+        {
+          "lvl": 15,
+          "m": "Autosugestión"
+        },
+        {
+          "lvl": 18,
+          "m": "Polución"
+        },
+        {
+          "lvl": 21,
+          "m": "Relámpago Súbito"
+        },
+        {
+          "lvl": 24,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 27,
+          "m": "Cambiapoder"
+        },
+        {
+          "lvl": 30,
+          "m": "Polvo Ira"
+        },
+        {
+          "lvl": 33,
+          "m": "Triple Patada"
+        },
+        {
+          "lvl": 36,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 37,
+          "m": "Camelo"
+        },
+        {
+          "lvl": 39,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 41,
+          "m": "Adaptación"
+        }
+      ],
+      "tmMoves": [
+        "Golpes Furia"
+      ],
+      "firstMoves": [
+        "Contraataque",
+        "Autosugestión",
+        "Polución",
+        "Relámpago Súbito"
+      ],
+      "spriteKey": "HOOTHOOT"
+    },
+    {
+      "nickname": "Serafín",
+      "species": "Finizen",
+      "level": 32,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Mimetismo",
+      "nature": "Fuerte",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Amnesia",
+        "Pistola Agua",
+        "Barrera Espinosa",
+        "Burbuja"
+      ],
+      "iv": [
+        4,
+        14,
+        14,
+        28,
+        28,
+        28
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Mimetismo"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Meditación"
+        },
+        {
+          "lvl": 1,
+          "m": "Danza Pluma"
+        },
+        {
+          "lvl": 7,
+          "m": "Estímulo"
+        },
+        {
+          "lvl": 10,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 13,
+          "m": "Desquite"
+        },
+        {
+          "lvl": 17,
+          "m": "Amnesia"
+        },
+        {
+          "lvl": 21,
+          "m": "Pistola Agua"
+        },
+        {
+          "lvl": 25,
+          "m": "Barrera Espinosa"
+        },
+        {
+          "lvl": 29,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 34,
+          "m": "Respiro"
+        },
+        {
+          "lvl": 39,
+          "m": "Mil Temblores"
+        },
+        {
+          "lvl": 44,
+          "m": "Chorro de Vapor"
+        },
+        {
+          "lvl": 50,
+          "m": "Teraclúster"
+        }
+      ],
+      "tmMoves": [
+        "Tinieblas"
+      ],
+      "firstMoves": [
+        "Amnesia",
+        "Pistola Agua",
+        "Barrera Espinosa",
+        "Burbuja"
+      ],
+      "spriteKey": "FINIZEN"
+    },
+    {
+      "nickname": "Diente Leon",
+      "species": "Sobble",
+      "level": 26,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Hidratación",
+      "nature": "Serena",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Gas Corrosivo",
+        "Salmuera",
+        "Anticura",
+        "Salazón"
+      ],
+      "iv": [
+        1,
+        28,
+        15,
+        29,
+        22,
+        7
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Hidratación"
+      ],
+      "abilHidden": [
+        "Unidad Ecuestre"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Poder Reserva"
+        },
+        {
+          "lvl": 1,
+          "m": "Rugido"
+        },
+        {
+          "lvl": 6,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": 8,
+          "m": "Luz Lunar"
+        },
+        {
+          "lvl": 12,
+          "m": "Brazo Pincho"
+        },
+        {
+          "lvl": 17,
+          "m": "Gas Corrosivo"
+        },
+        {
+          "lvl": 17,
+          "m": "Salmuera"
+        },
+        {
+          "lvl": 20,
+          "m": "Anticura"
+        },
+        {
+          "lvl": 24,
+          "m": "Salazón"
+        },
+        {
+          "lvl": 28,
+          "m": "Psicoonda"
+        },
+        {
+          "lvl": 28,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 32,
+          "m": "Cadena Virulenta"
+        },
+        {
+          "lvl": 36,
+          "m": "Hueso Sombrío"
+        }
+      ],
+      "firstMoves": [
+        "Gas Corrosivo",
+        "Salmuera",
+        "Anticura",
+        "Salazón"
+      ],
+      "spriteKey": "SOBBLE"
     }
   ],
   "graveyard": [
@@ -2221,13 +2553,13 @@
     {
       "route": "ciudad_celeste",
       "where": "Ciudad Celeste",
-      "species": "Solosis",
+      "species": "Duosion",
       "nickname": "Fotosíntesis",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
       "level": 18,
-      "mon": "Solosis"
+      "mon": "Duosion"
     },
     {
       "route": "ruta_5",
@@ -2351,6 +2683,39 @@
       "mon": "Cottonee"
     },
     {
+      "route": "ruta_15",
+      "where": "Ruta 15",
+      "species": "Hoothoot",
+      "nickname": "In Da Hood",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 22,
+      "mon": "Hoothoot"
+    },
+    {
+      "route": "ruta_12",
+      "where": "Ruta 12",
+      "species": "Finizen",
+      "nickname": "Serafín",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 32,
+      "mon": "Finizen"
+    },
+    {
+      "route": "tunel_diglett",
+      "where": "Túnel Diglett",
+      "species": "Sobble",
+      "nickname": "Diente Leon",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 26,
+      "mon": "Sobble"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Flabebe",
@@ -2376,7 +2741,8 @@
   "progress": {
     "gyms": {
       "gym1": true,
-      "gym2": true
+      "gym2": true,
+      "gym3": true
     },
     "bosses": {},
     "npcs": {},
@@ -2392,6 +2758,9 @@
       "ruta_20": true,
       "ruta_3": true,
       "ciudad_carmin": true,
+      "ruta_15": true,
+      "ruta_12": true,
+      "tunel_diglett": true,
       "ruta_1": true,
       "ruta_2_norte": true,
       "bosque_verde": true,
@@ -2416,7 +2785,10 @@
       "ruta_20": true,
       "ruta_5": true,
       "ruta_6": true,
-      "ciudad_carmin": true
+      "ciudad_carmin": true,
+      "ruta_15": true,
+      "ruta_12": true,
+      "tunel_diglett": true
     },
     "switches": [
       48,
@@ -2438,11 +2810,17 @@
       82,
       83,
       84,
+      85,
+      86,
+      87,
+      88,
+      89,
       110,
       112,
       113,
       114,
       121,
+      152,
       171,
       176,
       179,
@@ -2452,15 +2830,19 @@
       183,
       184,
       185,
+      186,
       323,
       334,
       363,
+      364,
       365
     ],
     "foundItems": [
       "Amor Ball",
       "Amuleto Oval",
       "Arena Fina",
+      "At. Esp. X 6",
+      "Baya Biglia",
       "Baya Caquic",
       "Baya Enigma",
       "Baya Lagro",
@@ -2470,13 +2852,16 @@
       "Baya Zreza",
       "Bola Luminosa",
       "Bono Bici",
+      "Cápsula DE",
       "Carbón",
       "Cenizas Sagradas",
+      "Colmillo de Dragón",
       "Crítico X 2",
       "Cuerda Huida",
       "Dulce de Nata",
       "Éter Máximo",
       "Fósil Hélix",
+      "Gafas Especiales",
       "Garra Garfio",
       "Gema Hielo",
       "Gema Voladora",
@@ -2486,32 +2871,45 @@
       "Hueso Grueso",
       "Ictiofósil",
       "Incienso Puro",
+      "Lustresfera",
       "Malasada Maxi",
       "Manuscrito Aguas",
+      "Manuscrito Sombras",
+      "Más PP",
+      "Máscara Fuente",
       "Menta Afable",
       "Menta Amable",
       "Miniseta",
+      "MO Corte",
+      "MO Destello",
       "MO Golpe Roca",
       "MT06",
       "MT101",
       "MT102",
       "MT104",
+      "MT112",
       "MT122",
       "MT123",
       "MT14",
+      "MT20",
       "MT23",
       "MT27",
       "MT39",
       "MT41",
       "MT43",
+      "MT44",
       "MT46",
       "MT47",
       "MT51",
+      "MT54",
       "MT59",
       "MT60",
       "MT64",
       "MT69",
       "MT72",
+      "MT73",
+      "MT78",
+      "MT81",
       "MT83",
       "MT85",
       "MT86",
@@ -2524,6 +2922,7 @@
       "Parte Azul",
       "Parte Verde",
       "Pepita",
+      "Piedra Hielo",
       "Piedra Hoja",
       "Pila",
       "Pluma Salud",
@@ -2535,11 +2934,13 @@
       "Radar",
       "Raíz Grande",
       "Reglamento",
+      "Repelente",
       "Safari Ball",
       "Supercaña",
       "Supercápsula",
       "Tabla Cielo",
       "Tabla Pétrea",
+      "Tabla Tóxica",
       "Tarjeta Roja",
       "Ticket Barco",
       "Tubérculo",
@@ -2680,10 +3081,46 @@
         "pocket": "Objetos"
       },
       {
-        "id": "HYPERPOTION",
-        "name": "Hiperpoción",
+        "id": "TOXICPLATE",
+        "name": "Tabla Tóxica",
         "qty": 1,
-        "pocket": "Medicinas"
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ICESTONE",
+        "name": "Piedra Hielo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "WELLSPRINGMASK",
+        "name": "Máscara Fuente",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "DRAGONFANG",
+        "name": "Colmillo de Dragón",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LUSTROUSORB",
+        "name": "Lustresfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SCROLLOFDARKNESS",
+        "name": "Manuscrito Sombras",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "REPEL",
+        "name": "Repelente",
+        "qty": 1,
+        "pocket": "Objetos"
       },
       {
         "id": "BIGMALASADA",
@@ -2706,7 +3143,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 954,
+        "qty": 935,
         "pocket": "Medicinas"
       },
       {
@@ -2736,12 +3173,24 @@
       {
         "id": "CENIZASSAGRADAS",
         "name": "Cenizas Sagradas",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
         "id": "MILDMINT",
         "name": "Menta Afable",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "PPUP",
+        "name": "Más PP",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "DECapsula",
+        "name": "Cápsula DE",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -2754,13 +3203,13 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 5,
+        "qty": 21,
         "pocket": "Poké Balls"
       },
       {
         "id": "PREMIERBALL",
         "name": "Honor Ball",
-        "qty": 2,
+        "qty": 4,
         "pocket": "Poké Balls"
       },
       {
@@ -2784,6 +3233,12 @@
       {
         "id": "TM14",
         "name": "MT14",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM20",
+        "name": "MT20",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -2818,6 +3273,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM44",
+        "name": "MT44",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM46",
         "name": "MT46",
         "qty": 1,
@@ -2832,6 +3293,12 @@
       {
         "id": "TM51",
         "name": "MT51",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM54",
+        "name": "MT54",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -2862,6 +3329,24 @@
       {
         "id": "TM72",
         "name": "MT72",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM73",
+        "name": "MT73",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM78",
+        "name": "MT78",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM81",
+        "name": "MT81",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -2932,6 +3417,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM112",
+        "name": "MT112",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM122",
         "name": "MT122",
         "qty": 1,
@@ -2952,7 +3443,7 @@
       {
         "id": "PERSIMBERRY",
         "name": "Baya Caquic",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Bayas"
       },
       {
@@ -2986,6 +3477,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "KEEBERRY",
+        "name": "Baya Biglia",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "XSPEED6",
         "name": "Velocidad X 6",
         "qty": 1,
@@ -3004,6 +3501,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "XSPATK6",
+        "name": "At. Esp. X 6",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -3016,8 +3519,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
@@ -3060,6 +3563,18 @@
       {
         "id": "BONOBICI",
         "name": "Bono Bici",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "CUTITEM",
+        "name": "MO Corte",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "FLASHITEM",
+        "name": "MO Destello",
         "qty": 1,
         "pocket": "Objetos clave"
       }
