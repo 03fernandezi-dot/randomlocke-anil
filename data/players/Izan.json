@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 2h 55m jugadas · 36,720₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 3h 12m jugadas · 40,170₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Bombardini",
       "species": "Crocalor",
-      "level": 23,
+      "level": 24,
       "types": [
         "Fuego"
       ],
@@ -33,11 +33,11 @@
       ],
       "ev": [
         16,
-        17,
-        16,
+        26,
+        19,
         12,
-        14,
-        21
+        15,
+        25
       ],
       "abilPool": [
         "Remoto"
@@ -120,7 +120,7 @@
     {
       "nickname": "FreakyNikki",
       "species": "Frogadier",
-      "level": 23,
+      "level": 24,
       "types": [
         "Agua"
       ],
@@ -144,11 +144,11 @@
       ],
       "ev": [
         12,
-        14,
-        12,
+        23,
+        15,
         8,
-        8,
-        18
+        9,
+        22
       ],
       "abilPool": [
         "Rizos Rebeldes"
@@ -239,7 +239,7 @@
     {
       "nickname": "Naclstack",
       "species": "Naclstack",
-      "level": 23,
+      "level": 25,
       "types": [
         "Roca"
       ],
@@ -264,11 +264,11 @@
       ],
       "ev": [
         5,
-        5,
-        5,
+        14,
+        8,
         2,
-        3,
-        9
+        4,
+        13
       ],
       "abilPool": [
         "Ímpetu Arena",
@@ -357,7 +357,7 @@
     {
       "nickname": "Frigopie",
       "species": "Frigibax",
-      "level": 23,
+      "level": 24,
       "types": [
         "Dragón",
         "Hielo"
@@ -382,11 +382,11 @@
       ],
       "ev": [
         15,
-        14,
-        16,
+        23,
+        19,
         12,
-        13,
-        21
+        14,
+        25
       ],
       "abilPool": [
         "Flexibilidad"
@@ -469,7 +469,7 @@
     {
       "nickname": "Fotosíntesis",
       "species": "Solosis",
-      "level": 23,
+      "level": 24,
       "types": [
         "Psíquico"
       ],
@@ -493,11 +493,11 @@
       ],
       "ev": [
         4,
-        3,
-        2,
+        12,
+        5,
         0,
-        0,
-        1
+        1,
+        5
       ],
       "abilPool": [
         "Combustible",
@@ -614,7 +614,7 @@
     {
       "nickname": "Castellar",
       "species": "Sandygast",
-      "level": 21,
+      "level": 23,
       "types": [
         "Fantasma",
         "Tierra"
@@ -639,11 +639,11 @@
       ],
       "ev": [
         0,
+        9,
+        3,
         0,
-        0,
-        0,
-        0,
-        0
+        1,
+        4
       ],
       "abilPool": [
         "Hidratación"
@@ -1794,6 +1794,125 @@
         "Detección"
       ],
       "spriteKey": "MACHOP"
+    },
+    {
+      "nickname": "Negros",
+      "species": "Cottonee",
+      "level": 22,
+      "types": [
+        "Planta",
+        "Hada"
+      ],
+      "ability": "Bromista",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Antiaéreo",
+        "Telatrampa",
+        "Placaje",
+        "Punzada Rama"
+      ],
+      "iv": [
+        0,
+        12,
+        31,
+        8,
+        20,
+        1
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Punk Rock",
+        "Bromista"
+      ],
+      "abilHidden": [
+        "Relincho Negro"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Viento Feérico"
+        },
+        {
+          "lvl": 1,
+          "m": "Brazo Pincho"
+        },
+        {
+          "lvl": 3,
+          "m": "Impresionar"
+        },
+        {
+          "lvl": 6,
+          "m": "Bola Hielo"
+        },
+        {
+          "lvl": 12,
+          "m": "Antiaéreo"
+        },
+        {
+          "lvl": 15,
+          "m": "Telatrampa"
+        },
+        {
+          "lvl": 18,
+          "m": "Placaje"
+        },
+        {
+          "lvl": 21,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 24,
+          "m": "Esporagodón"
+        },
+        {
+          "lvl": 27,
+          "m": "Escudo Tatami"
+        },
+        {
+          "lvl": 30,
+          "m": "Luz Lunar"
+        },
+        {
+          "lvl": 33,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 36,
+          "m": "Cabezazo Zen"
+        },
+        {
+          "lvl": 39,
+          "m": "Carga"
+        },
+        {
+          "lvl": 42,
+          "m": "Veneno X"
+        },
+        {
+          "lvl": 45,
+          "m": "Danza Llama"
+        },
+        {
+          "lvl": 48,
+          "m": "Pulso Umbrío"
+        }
+      ],
+      "firstMoves": [
+        "Antiaéreo",
+        "Telatrampa",
+        "Placaje",
+        "Punzada Rama"
+      ],
+      "spriteKey": "COTTONEE"
     }
   ],
   "graveyard": [
@@ -2221,6 +2340,17 @@
       "mon": "Machop"
     },
     {
+      "route": "ciudad_carmin",
+      "where": "Ciudad Carmín",
+      "species": "Cottonee",
+      "nickname": "Negros",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 22,
+      "mon": "Cottonee"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Flabebe",
@@ -2261,10 +2391,12 @@
       "monte_moon_exterior": true,
       "ruta_20": true,
       "ruta_3": true,
+      "ciudad_carmin": true,
       "ruta_1": true,
       "ruta_2_norte": true,
       "bosque_verde": true,
       "monte_moon": true,
+      "ruta_6": true,
       "ruta_21": true
     },
     "items": {},
@@ -2282,7 +2414,9 @@
       "ruta_4": true,
       "ciudad_celeste": true,
       "ruta_20": true,
-      "ruta_5": true
+      "ruta_5": true,
+      "ruta_6": true,
+      "ciudad_carmin": true
     },
     "switches": [
       48,
@@ -2303,6 +2437,7 @@
       81,
       82,
       83,
+      84,
       110,
       112,
       113,
@@ -2318,19 +2453,26 @@
       184,
       185,
       323,
-      334
+      334,
+      363,
+      365
     ],
     "foundItems": [
       "Amor Ball",
+      "Amuleto Oval",
       "Arena Fina",
+      "Baya Caquic",
       "Baya Enigma",
       "Baya Lagro",
+      "Baya Pomaro",
       "Baya Tamar",
       "Baya Ziuela",
       "Baya Zreza",
       "Bola Luminosa",
+      "Bono Bici",
       "Carbón",
       "Cenizas Sagradas",
+      "Crítico X 2",
       "Cuerda Huida",
       "Dulce de Nata",
       "Éter Máximo",
@@ -2346,6 +2488,7 @@
       "Incienso Puro",
       "Malasada Maxi",
       "Manuscrito Aguas",
+      "Menta Afable",
       "Menta Amable",
       "Miniseta",
       "MO Golpe Roca",
@@ -2361,11 +2504,14 @@
       "MT39",
       "MT41",
       "MT43",
+      "MT46",
       "MT47",
       "MT51",
       "MT59",
       "MT60",
       "MT64",
+      "MT69",
+      "MT72",
       "MT83",
       "MT85",
       "MT86",
@@ -2384,10 +2530,12 @@
       "Poké Montura",
       "Polvo Estelar",
       "Polvo Metálico",
+      "Polvo Veloz",
       "Quitaestado",
       "Radar",
       "Raíz Grande",
       "Reglamento",
+      "Safari Ball",
       "Supercaña",
       "Supercápsula",
       "Tabla Cielo",
@@ -2526,6 +2674,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "QUICKPOWDER",
+        "name": "Polvo Veloz",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HYPERPOTION",
         "name": "Hiperpoción",
         "qty": 1,
@@ -2586,6 +2740,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "MILDMINT",
+        "name": "Menta Afable",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 4,
@@ -2594,7 +2754,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 8,
+        "qty": 5,
         "pocket": "Poké Balls"
       },
       {
@@ -2606,6 +2766,12 @@
       {
         "id": "LOVEBALL",
         "name": "Amor Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "SAFARIBALL",
+        "name": "Safari Ball",
         "qty": 1,
         "pocket": "Poké Balls"
       },
@@ -2652,6 +2818,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM46",
+        "name": "MT46",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM47",
         "name": "MT47",
         "qty": 1,
@@ -2678,6 +2850,18 @@
       {
         "id": "TM64",
         "name": "MT64",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM69",
+        "name": "MT69",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM72",
+        "name": "MT72",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -2766,6 +2950,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "PERSIMBERRY",
+        "name": "Baya Caquic",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "LUMBERRY",
         "name": "Baya Ziuela",
         "qty": 1,
@@ -2774,6 +2964,12 @@
       {
         "id": "RINDOBERRY",
         "name": "Baya Tamar",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "CHOPLEBERRY",
+        "name": "Baya Pomaro",
         "qty": 1,
         "pocket": "Bayas"
       },
@@ -2798,6 +2994,12 @@
       {
         "id": "RESETURGE",
         "name": "Quitaestado",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "DIREHIT2",
+        "name": "Crítico X 2",
         "qty": 1,
         "pocket": "Objetos de combate"
       },
@@ -2846,6 +3048,18 @@
       {
         "id": "TICKETBARCO",
         "name": "Ticket Barco",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "OVALCHARM",
+        "name": "Amuleto Oval",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "BONOBICI",
+        "name": "Bono Bici",
         "qty": 1,
         "pocket": "Objetos clave"
       }
