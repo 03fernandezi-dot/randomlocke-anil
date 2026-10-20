@@ -2,14 +2,14 @@
   "id": "Izan",
   "name": "Ma Nigga",
   "lives": 30,
-  "livesUsed": 1,
+  "livesUsed": 2,
   "champion": false,
-  "notes": "Importado del save · 2h 31m jugadas · 23,790₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 2h 52m jugadas · 36,720₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Bombardini",
       "species": "Crocalor",
-      "level": 22,
+      "level": 23,
       "types": [
         "Fuego"
       ],
@@ -32,12 +32,12 @@
         31
       ],
       "ev": [
-        11,
-        13,
-        14,
+        16,
+        17,
+        15,
         12,
         14,
-        20
+        21
       ],
       "abilPool": [
         "Remoto"
@@ -104,9 +104,12 @@
         }
       ],
       "tmMoves": [
+        "Barrera Espinosa",
         "Cortina Plasma",
         "Homenaje Póstumo",
-        "Persecución"
+        "Persecución",
+        "Profecía",
+        "Ronquido"
       ],
       "firstMoves": [
         "Calcinación",
@@ -117,7 +120,7 @@
     {
       "nickname": "FreakyNikki",
       "species": "Frogadier",
-      "level": 22,
+      "level": 23,
       "types": [
         "Agua"
       ],
@@ -140,12 +143,12 @@
         22
       ],
       "ev": [
-        7,
-        10,
-        10,
+        12,
+        14,
+        11,
         8,
         8,
-        17
+        18
       ],
       "abilPool": [
         "Rizos Rebeldes"
@@ -222,7 +225,8 @@
       "tmMoves": [
         "Cambiavelocidad",
         "Carga",
-        "Golpes Furia"
+        "Golpes Furia",
+        "Limpieza General"
       ],
       "firstMoves": [
         "Ataque Arena",
@@ -235,7 +239,7 @@
     {
       "nickname": "Naclstack",
       "species": "Naclstack",
-      "level": 22,
+      "level": 23,
       "types": [
         "Roca"
       ],
@@ -259,12 +263,12 @@
         13
       ],
       "ev": [
-        0,
-        1,
-        3,
+        5,
+        5,
+        4,
         2,
         3,
-        8
+        9
       ],
       "abilPool": [
         "Ímpetu Arena",
@@ -337,6 +341,7 @@
       ],
       "tmMoves": [
         "Ataque Ala",
+        "Barrera Espinosa",
         "Cortina Plasma",
         "Destello",
         "Homenaje Póstumo"
@@ -352,7 +357,7 @@
     {
       "nickname": "Frigopie",
       "species": "Frigibax",
-      "level": 20,
+      "level": 23,
       "types": [
         "Dragón",
         "Hielo"
@@ -363,9 +368,9 @@
       "shiny": false,
       "moves": [
         "Cura Selvática",
-        "Reducción",
+        "Colmillo Hielo",
         "Carámbano",
-        "Ascuas"
+        "Triple Patada"
       ],
       "iv": [
         21,
@@ -376,12 +381,12 @@
         6
       ],
       "ev": [
-        11,
-        11,
+        15,
         14,
+        15,
         12,
         13,
-        20
+        21
       ],
       "abilPool": [
         "Flexibilidad"
@@ -444,10 +449,14 @@
         }
       ],
       "tmMoves": [
+        "Bálsamo Osado",
+        "Barrera Espinosa",
         "Carga",
+        "Colmillo Hielo",
         "Persecución",
         "Puño Jet",
         "Reducción",
+        "Tinieblas",
         "Triple Patada"
       ],
       "firstMoves": [
@@ -458,141 +467,15 @@
       "spriteKey": "FRIGIBAX"
     },
     {
-      "nickname": "Laura",
-      "species": "Vivillon",
-      "level": 21,
-      "types": [
-        "Bicho",
-        "Volador"
-      ],
-      "ability": "Velo Aroma",
-      "nature": "Mansa",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Espacio Raro",
-        "Voltiocambio",
-        "Autosugestión",
-        "Danza Caos"
-      ],
-      "iv": [
-        5,
-        21,
-        21,
-        25,
-        26,
-        20
-      ],
-      "ev": [
-        7,
-        10,
-        10,
-        9,
-        9,
-        18
-      ],
-      "abilPool": [
-        "Velo Aroma",
-        "Tintineo"
-      ],
-      "abilHidden": [
-        "Esclusa de Aire"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Reversión"
-        },
-        {
-          "lvl": 1,
-          "m": "Corte Furia"
-        },
-        {
-          "lvl": 1,
-          "m": "Llave Giro"
-        },
-        {
-          "lvl": 1,
-          "m": "Acua Aro"
-        },
-        {
-          "lvl": 1,
-          "m": "Asalto Barrera"
-        },
-        {
-          "lvl": 12,
-          "m": "Despejar"
-        },
-        {
-          "lvl": 17,
-          "m": "Autosugestión"
-        },
-        {
-          "lvl": 21,
-          "m": "Danza Caos"
-        },
-        {
-          "lvl": 21,
-          "m": "Paga Extra"
-        },
-        {
-          "lvl": 25,
-          "m": "Absorbefuerza"
-        },
-        {
-          "lvl": 28,
-          "m": "Meteorobola"
-        },
-        {
-          "lvl": 31,
-          "m": "Manto Espejo"
-        },
-        {
-          "lvl": 31,
-          "m": "Fuerza Bruta"
-        },
-        {
-          "lvl": 35,
-          "m": "Electrotela"
-        },
-        {
-          "lvl": 45,
-          "m": "Disparo Demora"
-        },
-        {
-          "lvl": 50,
-          "m": "Rayo Señal"
-        },
-        {
-          "lvl": 55,
-          "m": "Coraza Trampa"
-        }
-      ],
-      "tmMoves": [
-        "Ataque Ala",
-        "Cambiavelocidad",
-        "Cortina Plasma",
-        "Homenaje Póstumo",
-        "Persecución",
-        "Puño Jet",
-        "Triple Patada"
-      ],
-      "firstMoves": [
-        "Espacio Raro",
-        "Voltiocambio"
-      ],
-      "spriteKey": "VIVILLON_3"
-    },
-    {
       "nickname": "Machote",
       "species": "Machop",
-      "level": 22,
+      "level": 23,
       "types": [
         "Lucha"
       ],
       "ability": "Energía Pura",
       "nature": "Seria",
-      "item": "",
+      "item": "Guante de Boxeo",
       "shiny": false,
       "moves": [
         "Pantalla de Humo",
@@ -609,12 +492,12 @@
         14
       ],
       "ev": [
-        5,
-        7,
-        9,
+        10,
+        11,
+        10,
         3,
         6,
-        16
+        17
       ],
       "abilPool": [
         "Energía Pura",
@@ -702,10 +585,15 @@
         }
       ],
       "tmMoves": [
+        "Bálsamo Osado",
+        "Barrera Espinosa",
         "Campo de Hierba",
         "Carga",
+        "Colmillo Hielo",
         "Golpes Furia",
+        "Profecía",
         "Reducción",
+        "Ronquido",
         "Tormento"
       ],
       "firstMoves": [
@@ -715,6 +603,151 @@
         "Detección"
       ],
       "spriteKey": "MACHOP"
+    },
+    {
+      "nickname": "Fotosíntesis",
+      "species": "Solosis",
+      "level": 23,
+      "types": [
+        "Psíquico"
+      ],
+      "ability": "Combustible",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Psicorrayo",
+        "Pulso Cura",
+        "Brazo Pincho",
+        "Zona Mágica"
+      ],
+      "iv": [
+        23,
+        26,
+        28,
+        1,
+        9,
+        23
+      ],
+      "ev": [
+        4,
+        3,
+        1,
+        0,
+        0,
+        1
+      ],
+      "abilPool": [
+        "Combustible",
+        "Perro Guardián"
+      ],
+      "abilHidden": [
+        "Cuerpo Horneado"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cambio de Banda"
+        },
+        {
+          "lvl": 1,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 1,
+          "m": "Truco Fuerza"
+        },
+        {
+          "lvl": 4,
+          "m": "Poder Místico"
+        },
+        {
+          "lvl": 7,
+          "m": "Puntapié"
+        },
+        {
+          "lvl": 8,
+          "m": "Onda Trueno"
+        },
+        {
+          "lvl": 10,
+          "m": "Danza Espada"
+        },
+        {
+          "lvl": 12,
+          "m": "Cornada"
+        },
+        {
+          "lvl": 14,
+          "m": "Brazo Pincho"
+        },
+        {
+          "lvl": 16,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 20,
+          "m": "Pulso Cura"
+        },
+        {
+          "lvl": 24,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 24,
+          "m": "Ataque Óseo"
+        },
+        {
+          "lvl": 28,
+          "m": "Psicocorte"
+        },
+        {
+          "lvl": 33,
+          "m": "Rencor Reprimido"
+        },
+        {
+          "lvl": 36,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 40,
+          "m": "Restricción"
+        },
+        {
+          "lvl": 44,
+          "m": "Espada Lamento"
+        },
+        {
+          "lvl": 46,
+          "m": "Hierba Lazo"
+        },
+        {
+          "lvl": 48,
+          "m": "Empapar"
+        }
+      ],
+      "tmMoves": [
+        "Ataque Ala",
+        "Auxilio",
+        "Bálsamo Osado",
+        "Barrera Espinosa",
+        "Cambiavelocidad",
+        "Carga",
+        "Cortina Plasma",
+        "Destello",
+        "Golpes Furia",
+        "Limpieza General",
+        "Puño Jet",
+        "Tinieblas",
+        "Tormento"
+      ],
+      "firstMoves": [
+        "Danza Espada",
+        "Cornada",
+        "Brazo Pincho",
+        "Zona Mágica"
+      ],
+      "spriteKey": "SOLOSIS"
     }
   ],
   "box": [
@@ -1181,6 +1214,120 @@
       "spriteKey": "SHELMET"
     },
     {
+      "nickname": "Helios",
+      "species": "Helioptile",
+      "level": 18,
+      "types": [
+        "Eléctrico",
+        "Normal"
+      ],
+      "ability": "Ímpetu Ardiente",
+      "nature": "Ingenua",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Doble Bofetón",
+        "Acua Aro",
+        "Empapar",
+        "Celebración"
+      ],
+      "iv": [
+        12,
+        27,
+        10,
+        2,
+        18,
+        29
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Ímpetu Ardiente",
+        "Cuerpo Maldito"
+      ],
+      "abilHidden": [
+        "Rumia"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 1,
+          "m": "Ataque Óseo"
+        },
+        {
+          "lvl": 4,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 8,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 12,
+          "m": "Empapar"
+        },
+        {
+          "lvl": 16,
+          "m": "Celebración"
+        },
+        {
+          "lvl": 20,
+          "m": "Abatidoras"
+        },
+        {
+          "lvl": 22,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 24,
+          "m": "Aguante"
+        },
+        {
+          "lvl": 28,
+          "m": "Viento Afín"
+        },
+        {
+          "lvl": 32,
+          "m": "Atrapabicho"
+        },
+        {
+          "lvl": 36,
+          "m": "Furia Candente"
+        },
+        {
+          "lvl": 38,
+          "m": "Disparo Lodo"
+        },
+        {
+          "lvl": 40,
+          "m": "Fanfarronear"
+        },
+        {
+          "lvl": 44,
+          "m": "Puño Trueno"
+        }
+      ],
+      "tmMoves": [
+        "Golpes Furia"
+      ],
+      "firstMoves": [
+        "Doble Bofetón",
+        "Acua Aro",
+        "Empapar",
+        "Celebración"
+      ],
+      "spriteKey": "HELIOPTILE"
+    },
+    {
       "nickname": "Salamandra",
       "species": "Salandit",
       "level": 16,
@@ -1429,253 +1576,6 @@
       "dup": true
     },
     {
-      "nickname": "Helios",
-      "species": "Helioptile",
-      "level": 18,
-      "types": [
-        "Eléctrico",
-        "Normal"
-      ],
-      "ability": "Ímpetu Ardiente",
-      "nature": "Ingenua",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Doble Bofetón",
-        "Acua Aro",
-        "Empapar",
-        "Celebración"
-      ],
-      "iv": [
-        12,
-        27,
-        10,
-        2,
-        18,
-        29
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Ímpetu Ardiente",
-        "Cuerpo Maldito"
-      ],
-      "abilHidden": [
-        "Rumia"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Impactrueno"
-        },
-        {
-          "lvl": 1,
-          "m": "Ataque Óseo"
-        },
-        {
-          "lvl": 4,
-          "m": "Púas Tóxicas"
-        },
-        {
-          "lvl": 8,
-          "m": "Acua Aro"
-        },
-        {
-          "lvl": 12,
-          "m": "Empapar"
-        },
-        {
-          "lvl": 16,
-          "m": "Celebración"
-        },
-        {
-          "lvl": 20,
-          "m": "Abatidoras"
-        },
-        {
-          "lvl": 22,
-          "m": "Encanto"
-        },
-        {
-          "lvl": 24,
-          "m": "Aguante"
-        },
-        {
-          "lvl": 28,
-          "m": "Viento Afín"
-        },
-        {
-          "lvl": 32,
-          "m": "Atrapabicho"
-        },
-        {
-          "lvl": 36,
-          "m": "Furia Candente"
-        },
-        {
-          "lvl": 38,
-          "m": "Disparo Lodo"
-        },
-        {
-          "lvl": 40,
-          "m": "Fanfarronear"
-        },
-        {
-          "lvl": 44,
-          "m": "Puño Trueno"
-        }
-      ],
-      "tmMoves": [
-        "Golpes Furia"
-      ],
-      "firstMoves": [
-        "Doble Bofetón",
-        "Acua Aro",
-        "Empapar",
-        "Celebración"
-      ],
-      "spriteKey": "HELIOPTILE"
-    },
-    {
-      "nickname": "Fotosíntesis",
-      "species": "Solosis",
-      "level": 18,
-      "types": [
-        "Psíquico"
-      ],
-      "ability": "Combustible",
-      "nature": "Dócil",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Danza Espada",
-        "Cornada",
-        "Brazo Pincho",
-        "Zona Mágica"
-      ],
-      "iv": [
-        23,
-        26,
-        28,
-        1,
-        9,
-        23
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Combustible",
-        "Perro Guardián"
-      ],
-      "abilHidden": [
-        "Cuerpo Horneado"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Cambio de Banda"
-        },
-        {
-          "lvl": 1,
-          "m": "Psicorrayo"
-        },
-        {
-          "lvl": 1,
-          "m": "Truco Fuerza"
-        },
-        {
-          "lvl": 4,
-          "m": "Poder Místico"
-        },
-        {
-          "lvl": 7,
-          "m": "Puntapié"
-        },
-        {
-          "lvl": 8,
-          "m": "Onda Trueno"
-        },
-        {
-          "lvl": 10,
-          "m": "Danza Espada"
-        },
-        {
-          "lvl": 12,
-          "m": "Cornada"
-        },
-        {
-          "lvl": 14,
-          "m": "Brazo Pincho"
-        },
-        {
-          "lvl": 16,
-          "m": "Zona Mágica"
-        },
-        {
-          "lvl": 20,
-          "m": "Pulso Cura"
-        },
-        {
-          "lvl": 24,
-          "m": "Ultrapuño"
-        },
-        {
-          "lvl": 24,
-          "m": "Ataque Óseo"
-        },
-        {
-          "lvl": 28,
-          "m": "Psicocorte"
-        },
-        {
-          "lvl": 33,
-          "m": "Rencor Reprimido"
-        },
-        {
-          "lvl": 36,
-          "m": "Bomba Fango"
-        },
-        {
-          "lvl": 40,
-          "m": "Restricción"
-        },
-        {
-          "lvl": 44,
-          "m": "Espada Lamento"
-        },
-        {
-          "lvl": 46,
-          "m": "Hierba Lazo"
-        },
-        {
-          "lvl": 48,
-          "m": "Empapar"
-        }
-      ],
-      "tmMoves": [
-        "Golpes Furia"
-      ],
-      "firstMoves": [
-        "Danza Espada",
-        "Cornada",
-        "Brazo Pincho",
-        "Zona Mágica"
-      ],
-      "spriteKey": "SOLOSIS"
-    },
-    {
       "nickname": "Maricon",
       "species": "Cutiefly",
       "level": 19,
@@ -1910,6 +1810,135 @@
       "cause": "",
       "route": "Ruta 1",
       "date": ""
+    },
+    {
+      "nickname": "Laura",
+      "species": "Vivillon",
+      "level": 21,
+      "types": [
+        "Bicho",
+        "Volador"
+      ],
+      "ability": "Velo Aroma",
+      "nature": "Mansa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Espacio Raro",
+        "Voltiocambio",
+        "Autosugestión",
+        "Danza Caos"
+      ],
+      "iv": [
+        5,
+        21,
+        21,
+        25,
+        26,
+        20
+      ],
+      "ev": [
+        7,
+        10,
+        10,
+        9,
+        9,
+        18
+      ],
+      "abilPool": [
+        "Velo Aroma",
+        "Tintineo"
+      ],
+      "abilHidden": [
+        "Esclusa de Aire"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Reversión"
+        },
+        {
+          "lvl": 1,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 1,
+          "m": "Llave Giro"
+        },
+        {
+          "lvl": 1,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 1,
+          "m": "Asalto Barrera"
+        },
+        {
+          "lvl": 12,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 17,
+          "m": "Autosugestión"
+        },
+        {
+          "lvl": 21,
+          "m": "Danza Caos"
+        },
+        {
+          "lvl": 21,
+          "m": "Paga Extra"
+        },
+        {
+          "lvl": 25,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 28,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 31,
+          "m": "Manto Espejo"
+        },
+        {
+          "lvl": 31,
+          "m": "Fuerza Bruta"
+        },
+        {
+          "lvl": 35,
+          "m": "Electrotela"
+        },
+        {
+          "lvl": 45,
+          "m": "Disparo Demora"
+        },
+        {
+          "lvl": 50,
+          "m": "Rayo Señal"
+        },
+        {
+          "lvl": 55,
+          "m": "Coraza Trampa"
+        }
+      ],
+      "tmMoves": [
+        "Ataque Ala",
+        "Cambiavelocidad",
+        "Cortina Plasma",
+        "Homenaje Póstumo",
+        "Persecución",
+        "Puño Jet",
+        "Triple Patada"
+      ],
+      "firstMoves": [
+        "Espacio Raro",
+        "Voltiocambio"
+      ],
+      "spriteKey": "VIVILLON_3",
+      "cause": "",
+      "route": "Ruta 2 Norte",
+      "date": ""
     }
   ],
   "captures": [
@@ -1958,17 +1987,6 @@
       "mon": "Frigibax"
     },
     {
-      "route": "ruta_2_norte",
-      "where": "Ruta 2 Norte",
-      "species": "Vivillon",
-      "nickname": "Laura",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 7,
-      "mon": "Vivillon"
-    },
-    {
       "route": "ruta_3",
       "where": "Ruta 3",
       "species": "Machop",
@@ -1978,6 +1996,17 @@
       "category": "salvaje",
       "level": 11,
       "mon": "Machop"
+    },
+    {
+      "route": "ciudad_celeste",
+      "where": "Ciudad Celeste",
+      "species": "Solosis",
+      "nickname": "Fotosíntesis",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 18,
+      "mon": "Solosis"
     },
     {
       "route": "ciudad_plateada",
@@ -2024,6 +2053,17 @@
       "mon": "Shelmet"
     },
     {
+      "route": "ruta_4",
+      "where": "Ruta 4",
+      "species": "Helioptile",
+      "nickname": "Helios",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 18,
+      "mon": "Helioptile"
+    },
+    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Salandit",
@@ -2046,6 +2086,17 @@
       "mon": "Flabebe"
     },
     {
+      "route": "ruta_20",
+      "where": "Ruta 20",
+      "species": "Cutiefly",
+      "nickname": "Maricon",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 19,
+      "mon": "Cutiefly"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Flabebe",
@@ -2057,59 +2108,39 @@
       "mon": "Flabebe"
     },
     {
-      "route": "ruta_4",
-      "where": "Ruta 4",
-      "species": "Helioptile",
-      "nickname": "Helios",
+      "route": "ruta_2_norte",
+      "where": "Ruta 2 Norte",
+      "species": "Vivillon",
+      "nickname": "Laura",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "salvaje",
-      "level": 18,
-      "mon": "Helioptile"
-    },
-    {
-      "route": "ciudad_celeste",
-      "where": "Ciudad Celeste",
-      "species": "Solosis",
-      "nickname": "Fotosíntesis",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 18,
-      "mon": "Solosis"
-    },
-    {
-      "route": "ruta_20",
-      "where": "Ruta 20",
-      "species": "Cutiefly",
-      "nickname": "Maricon",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 19,
-      "mon": "Cutiefly"
+      "level": 7,
+      "mon": "Vivillon"
     }
   ],
   "progress": {
     "gyms": {
-      "gym1": true
+      "gym1": true,
+      "gym2": true
     },
     "bosses": {},
     "npcs": {},
     "routes": {
       "ciudad_plateada": true,
       "ciudad_verde": true,
-      "ruta_2_norte": true,
       "ruta_3": true,
+      "ciudad_celeste": true,
       "pueblo_paleta": true,
       "ruta_2_sur": true,
-      "monte_moon_exterior": true,
-      "ruta_1": true,
       "ruta_4": true,
-      "ciudad_celeste": true,
+      "monte_moon_exterior": true,
       "ruta_20": true,
+      "ruta_1": true,
+      "ruta_2_norte": true,
       "bosque_verde": true,
-      "monte_moon": true
+      "monte_moon": true,
+      "ruta_21": true
     },
     "items": {},
     "encounters": {
@@ -2143,6 +2174,9 @@
       75,
       76,
       80,
+      81,
+      82,
+      83,
       110,
       112,
       113,
@@ -2156,6 +2190,7 @@
       182,
       183,
       184,
+      185,
       323,
       334
     ],
@@ -2171,11 +2206,14 @@
       "Cenizas Sagradas",
       "Cuerda Huida",
       "Dulce de Nata",
+      "Éter Máximo",
       "Fósil Hélix",
       "Garra Garfio",
       "Gema Hielo",
       "Globo Helio",
+      "Guante de Boxeo",
       "Hiperpoción",
+      "Hueso Grueso",
       "Ictiofósil",
       "Incienso Puro",
       "Malasada Maxi",
@@ -2194,9 +2232,14 @@
       "MT39",
       "MT41",
       "MT43",
+      "MT47",
+      "MT51",
+      "MT59",
       "MT60",
       "MT64",
       "MT83",
+      "MT85",
+      "MT86",
       "MT88",
       "MT89",
       "MT93",
@@ -2206,6 +2249,7 @@
       "Parte Azul",
       "Parte Verde",
       "Pepita",
+      "Piedra Hoja",
       "Pila",
       "Pluma Salud",
       "Poké Montura",
@@ -2213,12 +2257,15 @@
       "Polvo Metálico",
       "Quitaestado",
       "Radar",
+      "Raíz Grande",
       "Reglamento",
       "Supercaña",
       "Supercápsula",
       "Tabla Cielo",
       "Tabla Pétrea",
       "Tarjeta Roja",
+      "Ticket Barco",
+      "Tubérculo",
       "Velocidad X 6",
       "Vial"
     ],
@@ -2232,7 +2279,7 @@
       {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos"
       },
       {
@@ -2314,6 +2361,30 @@
         "pocket": "Objetos"
       },
       {
+        "id": "THICKCLUB",
+        "name": "Hueso Grueso",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ABSORBBULB",
+        "name": "Tubérculo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BIGROOT",
+        "name": "Raíz Grande",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LEAFSTONE",
+        "name": "Piedra Hoja",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HYPERPOTION",
         "name": "Hiperpoción",
         "qty": 1,
@@ -2340,7 +2411,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 964,
+        "qty": 954,
         "pocket": "Medicinas"
       },
       {
@@ -2356,14 +2427,20 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "CENIZASSAGRADAS",
-        "name": "Cenizas Sagradas",
+        "id": "HEALTHFEATHER",
+        "name": "Pluma Salud",
         "qty": 1,
         "pocket": "Medicinas"
       },
       {
-        "id": "HEALTHFEATHER",
-        "name": "Pluma Salud",
+        "id": "MAXETHER",
+        "name": "Éter Máximo",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "CENIZASSAGRADAS",
+        "name": "Cenizas Sagradas",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -2428,6 +2505,24 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM47",
+        "name": "MT47",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM51",
+        "name": "MT51",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM59",
+        "name": "MT59",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM60",
         "name": "MT60",
         "qty": 1,
@@ -2442,6 +2537,18 @@
       {
         "id": "TM83",
         "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM85",
+        "name": "MT85",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM86",
+        "name": "MT86",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -2582,6 +2689,12 @@
         "name": "Cuerda Huida",
         "qty": 1,
         "pocket": "Objetos clave"
+      },
+      {
+        "id": "TICKETBARCO",
+        "name": "Ticket Barco",
+        "qty": 1,
+        "pocket": "Objetos clave"
       }
     ]
   },
@@ -2609,7 +2722,8 @@
     "1507255140",
     "1220383077",
     "3073770163",
-    "298710570"
+    "298710570",
+    "1858370642"
   ],
   "revividos": 23
 }
