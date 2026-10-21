@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 2h 33m jugadas · 3,360₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 3h 16m jugadas · 9,580₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Coffe",
       "species": "Koffing",
-      "level": 14,
+      "level": 16,
       "types": [
         "Veneno"
       ],
@@ -32,12 +32,12 @@
         24
       ],
       "ev": [
-        6,
+        9,
+        4,
+        8,
         3,
         6,
-        0,
-        2,
-        5
+        10
       ],
       "abilPool": [
         "Tablilla Debacle",
@@ -128,7 +128,7 @@
     {
       "nickname": "Calimero",
       "species": "Capsakid",
-      "level": 14,
+      "level": 16,
       "types": [
         "Planta"
       ],
@@ -151,12 +151,12 @@
         4
       ],
       "ev": [
-        6,
+        9,
+        4,
+        10,
         3,
-        8,
-        0,
-        2,
-        6
+        6,
+        11
       ],
       "abilPool": [
         "Carga Cuark",
@@ -239,7 +239,7 @@
     {
       "nickname": "Ninja Gaiden",
       "species": "Nincada",
-      "level": 14,
+      "level": 15,
       "types": [
         "Bicho",
         "Tierra"
@@ -263,12 +263,12 @@
         4
       ],
       "ev": [
-        6,
+        9,
+        4,
+        9,
         3,
-        7,
-        0,
-        2,
-        6
+        6,
+        11
       ],
       "abilPool": [
         "Hedor"
@@ -342,7 +342,7 @@
     {
       "nickname": "Furro",
       "species": "Zigzagoon",
-      "level": 14,
+      "level": 16,
       "types": [
         "Normal"
       ],
@@ -365,12 +365,12 @@
         16
       ],
       "ev": [
-        6,
+        9,
+        4,
+        9,
         3,
-        7,
-        0,
-        2,
-        5
+        6,
+        10
       ],
       "abilPool": [
         "Experto",
@@ -474,7 +474,7 @@
     {
       "nickname": "El Bicho Siu",
       "species": "Beautifly",
-      "level": 14,
+      "level": 16,
       "types": [
         "Bicho",
         "Volador"
@@ -487,7 +487,7 @@
         "Paz Mental",
         "Confusión",
         "Burbuja",
-        "Hachazo Pétreo"
+        "Golpe Rastrero"
       ],
       "iv": [
         3,
@@ -498,12 +498,12 @@
         18
       ],
       "ev": [
-        0,
-        0,
-        2,
-        0,
-        0,
-        2
+        3,
+        1,
+        4,
+        3,
+        4,
+        7
       ],
       "abilPool": [
         "Surcavientos"
@@ -609,7 +609,7 @@
     {
       "nickname": "Pulir Cera",
       "species": "Meditite",
-      "level": 14,
+      "level": 16,
       "types": [
         "Lucha",
         "Psíquico"
@@ -619,9 +619,9 @@
       "item": "",
       "shiny": false,
       "moves": [
-        "Anticipo",
+        "Viento Plata",
         "Pantalla de Luz",
-        "Pedrada",
+        "Moflete Estático",
         "Hoja Afilada"
       ],
       "iv": [
@@ -633,12 +633,12 @@
         18
       ],
       "ev": [
-        6,
+        9,
+        4,
+        8,
         3,
         6,
-        0,
-        2,
-        4
+        9
       ],
       "abilPool": [
         "Cortante"
@@ -755,29 +755,30 @@
   ],
   "box": [
     {
-      "nickname": "Watdasdfxsay",
-      "species": "Nickit",
+      "nickname": "Staravia",
+      "species": "Staravia",
       "level": 7,
       "types": [
-        "Siniestro"
+        "Normal",
+        "Volador"
       ],
-      "ability": "Sebo",
-      "nature": "Agitada",
+      "ability": "Mar del Albor",
+      "nature": "Osada",
       "item": "",
       "shiny": false,
       "moves": [
-        "Escudo Tatami",
-        "Clonatipo",
-        "Reversión",
-        "Brinco"
+        "Venganza",
+        "Canto Mortal",
+        "Silbato"
       ],
+      "origin": "don_prodigio",
       "iv": [
         21,
-        15,
-        20,
+        26,
+        3,
         5,
-        12,
-        26
+        23,
+        5
       ],
       "ev": [
         0,
@@ -788,65 +789,71 @@
         0
       ],
       "abilPool": [
-        "Sebo",
-        "Oportunista"
+        "Mar del Albor"
       ],
       "abilHidden": [
-        "General Supremo"
+        "Mano Rápida"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Escudo Tatami"
+          "m": "Venganza"
         },
         {
           "lvl": 1,
-          "m": "Clonatipo"
+          "m": "Canto Mortal"
         },
         {
-          "lvl": 4,
-          "m": "Reversión"
+          "lvl": 1,
+          "m": "Silbato"
         },
         {
-          "lvl": 8,
-          "m": "Calamidad"
+          "lvl": 9,
+          "m": "Despejar"
         },
         {
-          "lvl": 12,
-          "m": "Brecha Negra"
+          "lvl": 13,
+          "m": "Encanto"
         },
         {
-          "lvl": 16,
-          "m": "Luz Lunar"
+          "lvl": 18,
+          "m": "Corpulencia"
         },
         {
-          "lvl": 20,
-          "m": "Legado"
-        },
-        {
-          "lvl": 24,
-          "m": "Bucle Arena"
+          "lvl": 23,
+          "m": "Buena Baza"
         },
         {
           "lvl": 28,
-          "m": "Patada Giro"
+          "m": "Deseo Cura"
         },
         {
-          "lvl": 32,
-          "m": "Fertilizante"
+          "lvl": 33,
+          "m": "Ofrenda"
         },
         {
-          "lvl": 36,
-          "m": "Llama Final"
+          "lvl": 38,
+          "m": "Rugido de Guerra"
+        },
+        {
+          "lvl": 43,
+          "m": "Pico Taladro"
+        },
+        {
+          "lvl": 48,
+          "m": "Telatrampa"
+        },
+        {
+          "lvl": 48,
+          "m": "Drenadoras"
         }
       ],
       "firstMoves": [
-        "Escudo Tatami",
-        "Clonatipo",
-        "Reversión",
-        "Brinco"
+        "Venganza",
+        "Canto Mortal",
+        "Silbato"
       ],
-      "spriteKey": "NICKIT"
+      "spriteKey": "STARAVIA"
     },
     {
       "nickname": "Renfe",
@@ -1087,6 +1094,263 @@
         "Cara Susto"
       ],
       "spriteKey": "GEODUDE"
+    },
+    {
+      "nickname": "bichiti",
+      "species": "Burmy",
+      "level": 11,
+      "types": [
+        "Bicho"
+      ],
+      "ability": "Compensación",
+      "nature": "Rara",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Pulso de Campo",
+        "Recuperación"
+      ],
+      "iv": [
+        15,
+        3,
+        4,
+        1,
+        15,
+        11
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Compensación"
+      ],
+      "abilHidden": [
+        "Hedor"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 10,
+          "m": "Recuperación"
+        },
+        {
+          "lvl": 15,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 20,
+          "m": "Giro Bola"
+        },
+        {
+          "lvl": 20,
+          "m": "Fuego Fatuo"
+        }
+      ],
+      "firstMoves": [
+        "Pulso de Campo",
+        "Recuperación"
+      ],
+      "spriteKey": "BURMY"
+    },
+    {
+      "nickname": "Espía 3",
+      "species": "Tranquill",
+      "level": 5,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Gas Reactivo",
+      "nature": "Plácida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Abatidoras",
+        "Conjuro",
+        "Giro Fuego",
+        "Red Viscosa"
+      ],
+      "iv": [
+        4,
+        7,
+        15,
+        12,
+        13,
+        30
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Gas Reactivo"
+      ],
+      "abilHidden": [
+        "Detonación"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Abatidoras"
+        },
+        {
+          "lvl": 1,
+          "m": "Conjuro"
+        },
+        {
+          "lvl": 1,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 1,
+          "m": "Red Viscosa"
+        },
+        {
+          "lvl": 12,
+          "m": "Pantalla de Humo"
+        },
+        {
+          "lvl": 13,
+          "m": "Palma Rauda"
+        },
+        {
+          "lvl": 16,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 20,
+          "m": "Refuerzo"
+        },
+        {
+          "lvl": 26,
+          "m": "Danza Aleteo"
+        },
+        {
+          "lvl": 34,
+          "m": "Niebla"
+        },
+        {
+          "lvl": 36,
+          "m": "Filo del Abismo"
+        },
+        {
+          "lvl": 38,
+          "m": "Cascabel Cura"
+        },
+        {
+          "lvl": 44,
+          "m": "Empujón"
+        },
+        {
+          "lvl": 50,
+          "m": "Cambio de Cancha"
+        },
+        {
+          "lvl": 50,
+          "m": "Aguzar"
+        },
+        {
+          "lvl": 56,
+          "m": "Buena Baza"
+        }
+      ],
+      "firstMoves": [
+        "Abatidoras",
+        "Conjuro",
+        "Giro Fuego",
+        "Red Viscosa"
+      ],
+      "spriteKey": "TRANQUILL"
+    },
+    {
+      "nickname": "Rubí",
+      "species": "Dottler",
+      "level": 14,
+      "types": [
+        "Bicho",
+        "Psíquico"
+      ],
+      "ability": "Aura Oscura",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Ciclón",
+        "Psicorrayo",
+        "Psicoonda",
+        "Puño Furia"
+      ],
+      "iv": [
+        18,
+        8,
+        7,
+        10,
+        8,
+        11
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Iceberg",
+        "Aura Oscura"
+      ],
+      "abilHidden": [
+        "Relincho Blanco"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Reversión"
+        },
+        {
+          "lvl": 1,
+          "m": "Ciclón"
+        },
+        {
+          "lvl": 1,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 1,
+          "m": "Psicoonda"
+        },
+        {
+          "lvl": 14,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 18,
+          "m": "Danza Aleteo"
+        }
+      ],
+      "tmMoves": [
+        "Conversión2"
+      ],
+      "firstMoves": [
+        "Ciclón",
+        "Psicorrayo",
+        "Psicoonda",
+        "Puño Furia"
+      ],
+      "spriteKey": "DOTTLER"
     }
   ],
   "graveyard": [
@@ -1310,15 +1574,15 @@
       "mon": "Solosis"
     },
     {
-      "route": "ruta_2_norte",
-      "where": "Ruta 2 Norte",
-      "species": "Nickit",
-      "nickname": "Watdasdfxsay",
+      "route": "",
+      "where": "Monte Moon",
+      "species": "Staravia",
+      "nickname": "",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
+      "category": "intercambio",
       "level": 7,
-      "mon": "Nickit"
+      "mon": "Staravia"
     },
     {
       "route": "ciudad_plateada",
@@ -1341,6 +1605,39 @@
       "category": "ciudad",
       "level": 10,
       "mon": "Geodude"
+    },
+    {
+      "route": "ruta_3",
+      "where": "Ruta 3",
+      "species": "Burmy",
+      "nickname": "bichiti",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 11,
+      "mon": "Burmy"
+    },
+    {
+      "route": "",
+      "where": "Centro Pokémon",
+      "species": "Tranquill",
+      "nickname": "Espía 3",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Tranquill"
+    },
+    {
+      "route": "monte_moon",
+      "where": "Monte Moon",
+      "species": "Dottler",
+      "nickname": "Rubí",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 14,
+      "mon": "Dottler"
     }
   ],
   "progress": {
@@ -1356,8 +1653,10 @@
       "ciudad_verde": true,
       "bosque_verde": true,
       "ruta_2_sur": true,
-      "ruta_2_norte": true,
-      "ciudad_plateada": true
+      "ciudad_plateada": true,
+      "ruta_3": true,
+      "monte_moon": true,
+      "ruta_2_norte": true
     },
     "items": {},
     "encounters": {
@@ -1368,7 +1667,9 @@
       "ruta_2_sur": true,
       "bosque_verde": true,
       "ruta_2_norte": true,
-      "ciudad_plateada": true
+      "ciudad_plateada": true,
+      "ruta_3": true,
+      "monte_moon": true
     },
     "switches": [
       48,
@@ -1402,6 +1703,8 @@
       "Energía Potenciadora",
       "Espray Bucal",
       "Franja Recia",
+      "Gafas de Sol",
+      "Galleta Lava",
       "Ictiofósil",
       "Más PP",
       "Más PS",
@@ -1416,19 +1719,26 @@
       "MT121",
       "MT27",
       "MT29",
+      "MT30",
       "MT32",
       "MT39",
+      "MT40",
+      "MT43",
+      "MT64",
       "MT83",
       "MT89",
       "MT91",
       "MT94",
+      "MT95",
       "MT98",
+      "Piedra Noche",
       "Poké Montura",
       "Radar",
       "Raíz Energía",
       "Reglamento",
       "Sana Ball",
       "Supercaña",
+      "Tabla Legendaria",
       "Tela Terrible",
       "Toxisfera",
       "Vial"
@@ -1489,6 +1799,24 @@
         "pocket": "Objetos"
       },
       {
+        "id": "DUSKSTONE",
+        "name": "Piedra Noche",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BLACKGLASSES",
+        "name": "Gafas de Sol",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LEGENDPLATE",
+        "name": "Tabla Legendaria",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HPUP",
         "name": "Más PS",
         "qty": 1,
@@ -1497,7 +1825,7 @@
       {
         "id": "POTION",
         "name": "Poción",
-        "qty": 2,
+        "qty": 1,
         "pocket": "Medicinas"
       },
       {
@@ -1549,6 +1877,18 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "SCapsula",
+        "name": "Scapsula",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "LAVACOOKIE",
+        "name": "Galleta Lava",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 2,
@@ -1563,7 +1903,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 6,
+        "qty": 1,
         "pocket": "Poké Balls"
       },
       {
@@ -1591,6 +1931,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM30",
+        "name": "MT30",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM32",
         "name": "MT32",
         "qty": 1,
@@ -1599,6 +1945,24 @@
       {
         "id": "TM39",
         "name": "MT39",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM40",
+        "name": "MT40",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM43",
+        "name": "MT43",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM64",
+        "name": "MT64",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -1623,6 +1987,12 @@
       {
         "id": "TM94",
         "name": "MT94",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM95",
+        "name": "MT95",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
