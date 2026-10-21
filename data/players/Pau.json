@@ -2,140 +2,10 @@
   "id": "Pau",
   "name": "Pau",
   "lives": 30,
-  "livesUsed": 7,
+  "livesUsed": 6,
   "champion": false,
-  "notes": "Importado del save · 8h 35m jugadas · 290,290₽ · vidas en el juego: 20",
+  "notes": "Importado del save · 8h 42m jugadas · 290,290₽ · vidas en el juego: 20",
   "team": [
-    {
-      "nickname": "Willyrex",
-      "species": "Tyrantrum",
-      "level": 39,
-      "types": [
-        "Roca",
-        "Dragón"
-      ],
-      "ability": "Ignorante",
-      "nature": "Alegre",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Terremoto",
-        "Cola Dragón",
-        "Hachazo Pétreo",
-        "Cuerno Certero"
-      ],
-      "iv": [
-        9,
-        21,
-        24,
-        7,
-        23,
-        22
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Ignorante"
-      ],
-      "abilHidden": [
-        "Tablilla Debacle"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Ciclón"
-        },
-        {
-          "lvl": 1,
-          "m": "Ofrenda"
-        },
-        {
-          "lvl": 1,
-          "m": "Fotosíntesis"
-        },
-        {
-          "lvl": 1,
-          "m": "Rodillo de Púas"
-        },
-        {
-          "lvl": 12,
-          "m": "Nieve Polvo"
-        },
-        {
-          "lvl": 15,
-          "m": "Estruendo Escama"
-        },
-        {
-          "lvl": 16,
-          "m": "Rodar"
-        },
-        {
-          "lvl": 20,
-          "m": "Canto Mortal"
-        },
-        {
-          "lvl": 24,
-          "m": "Polvo Mágico"
-        },
-        {
-          "lvl": 28,
-          "m": "Remolino"
-        },
-        {
-          "lvl": 32,
-          "m": "Tenaza"
-        },
-        {
-          "lvl": 36,
-          "m": "Doble Equipo"
-        },
-        {
-          "lvl": 42,
-          "m": "Trampa Rocas"
-        },
-        {
-          "lvl": 48,
-          "m": "Veneno X"
-        },
-        {
-          "lvl": 54,
-          "m": "Vasta Guardia"
-        },
-        {
-          "lvl": 60,
-          "m": "Rayo Infinito"
-        },
-        {
-          "lvl": 66,
-          "m": "Ala Mortífera"
-        }
-      ],
-      "tmMoves": [
-        "Asalto Barrera",
-        "Barrera",
-        "Decoración",
-        "Eco Metálico",
-        "Esfera Aural",
-        "Gas Corrosivo",
-        "Hachazo Pétreo",
-        "Ovocuración",
-        "Púas",
-        "Purificación"
-      ],
-      "firstMoves": [
-        "Última Palabra",
-        "Bucle Arena",
-        "Persecución",
-        "Tumba Rocas"
-      ],
-      "spriteKey": "TYRANTRUM"
-    },
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
@@ -443,10 +313,10 @@
       "item": "Pañuelo de Seda",
       "shiny": false,
       "moves": [
-        "Carga Parábola",
         "Esfera Aural",
         "Arenas Ardientes",
-        "Tajo Aéreo"
+        "Tajo Aéreo",
+        "Viento Plata"
       ],
       "iv": [
         15,
@@ -603,7 +473,7 @@
         "Carga Parábola",
         "Viento Aciago",
         "Pikaturbo",
-        "Levitón"
+        "Alarido"
       ],
       "iv": [
         10,
@@ -904,6 +774,169 @@
         "Bomba Imán"
       ],
       "spriteKey": "MUK"
+    },
+    {
+      "nickname": "Hedwig",
+      "species": "Decidueye",
+      "level": 39,
+      "types": [
+        "Planta",
+        "Fantasma"
+      ],
+      "ability": "Compensación",
+      "nature": "Amable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Truco Floral",
+        "Brinco",
+        "Colmillo Hielo",
+        "Espora"
+      ],
+      "iv": [
+        21,
+        4,
+        14,
+        26,
+        25,
+        15
+      ],
+      "ev": [
+        29,
+        72,
+        33,
+        29,
+        25,
+        39
+      ],
+      "abilPool": [
+        "Encadenado",
+        "Compensación"
+      ],
+      "abilHidden": [
+        "Mandíbula Fuerte"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 1,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 1,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 1,
+          "m": "Sombra Vil"
+        },
+        {
+          "lvl": 1,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 1,
+          "m": "Abrecaminos"
+        },
+        {
+          "lvl": 1,
+          "m": "Esquirla Helada"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 1,
+          "m": "Defensa Férrea"
+        },
+        {
+          "lvl": 1,
+          "m": "Mandato"
+        },
+        {
+          "lvl": 1,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 9,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 12,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 15,
+          "m": "Brinco"
+        },
+        {
+          "lvl": 19,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 20,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 25,
+          "m": "Envidia ardiente"
+        },
+        {
+          "lvl": 30,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 37,
+          "m": "Tormenta Floral"
+        },
+        {
+          "lvl": 41,
+          "m": "Afilar"
+        },
+        {
+          "lvl": 44,
+          "m": "Escalofrío"
+        },
+        {
+          "lvl": 51,
+          "m": "Planta Feroz"
+        },
+        {
+          "lvl": 52,
+          "m": "Patada Tropical"
+        },
+        {
+          "lvl": 58,
+          "m": "Voto Planta"
+        }
+      ],
+      "tmMoves": [
+        "Llave Corsé",
+        "Piñón Auxiliar",
+        "Pulso de Campo",
+        "Purificación",
+        "Represión Metal",
+        "Restricción",
+        "Sacrificio",
+        "Shuriken de Agua",
+        "Velo Sagrado",
+        "Viento Carámbano"
+      ],
+      "firstMoves": [
+        "Follaje",
+        "Hoja Mágica",
+        "Mofa",
+        "Truco Floral"
+      ],
+      "spriteKey": "DECIDUEYE"
     }
   ],
   "box": [
@@ -3933,6 +3966,136 @@
         "Legado"
       ],
       "spriteKey": "CLAWITZER"
+    },
+    {
+      "nickname": "Willyrex",
+      "species": "Tyrantrum",
+      "level": 39,
+      "types": [
+        "Roca",
+        "Dragón"
+      ],
+      "ability": "Ignorante",
+      "nature": "Alegre",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Terremoto",
+        "Cola Dragón",
+        "Hachazo Pétreo",
+        "Cuerno Certero"
+      ],
+      "iv": [
+        9,
+        21,
+        24,
+        7,
+        23,
+        22
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Ignorante"
+      ],
+      "abilHidden": [
+        "Tablilla Debacle"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Ciclón"
+        },
+        {
+          "lvl": 1,
+          "m": "Ofrenda"
+        },
+        {
+          "lvl": 1,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 1,
+          "m": "Rodillo de Púas"
+        },
+        {
+          "lvl": 12,
+          "m": "Nieve Polvo"
+        },
+        {
+          "lvl": 15,
+          "m": "Estruendo Escama"
+        },
+        {
+          "lvl": 16,
+          "m": "Rodar"
+        },
+        {
+          "lvl": 20,
+          "m": "Canto Mortal"
+        },
+        {
+          "lvl": 24,
+          "m": "Polvo Mágico"
+        },
+        {
+          "lvl": 28,
+          "m": "Remolino"
+        },
+        {
+          "lvl": 32,
+          "m": "Tenaza"
+        },
+        {
+          "lvl": 36,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 42,
+          "m": "Trampa Rocas"
+        },
+        {
+          "lvl": 48,
+          "m": "Veneno X"
+        },
+        {
+          "lvl": 54,
+          "m": "Vasta Guardia"
+        },
+        {
+          "lvl": 60,
+          "m": "Rayo Infinito"
+        },
+        {
+          "lvl": 66,
+          "m": "Ala Mortífera"
+        }
+      ],
+      "tmMoves": [
+        "Asalto Barrera",
+        "Barrera",
+        "Decoración",
+        "Eco Metálico",
+        "Esfera Aural",
+        "Gas Corrosivo",
+        "Hachazo Pétreo",
+        "Ovocuración",
+        "Púas",
+        "Purificación"
+      ],
+      "firstMoves": [
+        "Última Palabra",
+        "Bucle Arena",
+        "Persecución",
+        "Tumba Rocas"
+      ],
+      "spriteKey": "TYRANTRUM"
     }
   ],
   "graveyard": [
@@ -4784,186 +4947,9 @@
       "cause": "",
       "route": "Ciudad Celeste",
       "date": ""
-    },
-    {
-      "nickname": "Hedwig",
-      "species": "Decidueye",
-      "level": 39,
-      "types": [
-        "Planta",
-        "Fantasma"
-      ],
-      "ability": "Compensación",
-      "nature": "Amable",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Truco Floral",
-        "Brinco",
-        "Colmillo Hielo",
-        "Espora"
-      ],
-      "iv": [
-        21,
-        4,
-        14,
-        26,
-        25,
-        15
-      ],
-      "ev": [
-        29,
-        72,
-        33,
-        29,
-        25,
-        39
-      ],
-      "abilPool": [
-        "Encadenado",
-        "Compensación"
-      ],
-      "abilHidden": [
-        "Mandíbula Fuerte"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Tinieblas"
-        },
-        {
-          "lvl": 1,
-          "m": "Colmillo Hielo"
-        },
-        {
-          "lvl": 1,
-          "m": "Ciclón de Hojas"
-        },
-        {
-          "lvl": 1,
-          "m": "Sombra Vil"
-        },
-        {
-          "lvl": 1,
-          "m": "Doble Equipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Niebla Aromática"
-        },
-        {
-          "lvl": 1,
-          "m": "Abrecaminos"
-        },
-        {
-          "lvl": 1,
-          "m": "Esquirla Helada"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Furia"
-        },
-        {
-          "lvl": 1,
-          "m": "Defensa Férrea"
-        },
-        {
-          "lvl": 1,
-          "m": "Mandato"
-        },
-        {
-          "lvl": 1,
-          "m": "Semilladora"
-        },
-        {
-          "lvl": 9,
-          "m": "Cura Selvática"
-        },
-        {
-          "lvl": 12,
-          "m": "Guardia Baja"
-        },
-        {
-          "lvl": 15,
-          "m": "Brinco"
-        },
-        {
-          "lvl": 19,
-          "m": "Afilagarras"
-        },
-        {
-          "lvl": 20,
-          "m": "Enrosque"
-        },
-        {
-          "lvl": 25,
-          "m": "Envidia ardiente"
-        },
-        {
-          "lvl": 30,
-          "m": "Rayo Carga"
-        },
-        {
-          "lvl": 37,
-          "m": "Tormenta Floral"
-        },
-        {
-          "lvl": 41,
-          "m": "Afilar"
-        },
-        {
-          "lvl": 44,
-          "m": "Escalofrío"
-        },
-        {
-          "lvl": 51,
-          "m": "Planta Feroz"
-        },
-        {
-          "lvl": 52,
-          "m": "Patada Tropical"
-        },
-        {
-          "lvl": 58,
-          "m": "Voto Planta"
-        }
-      ],
-      "tmMoves": [
-        "Llave Corsé",
-        "Piñón Auxiliar",
-        "Pulso de Campo",
-        "Purificación",
-        "Represión Metal",
-        "Restricción",
-        "Sacrificio",
-        "Shuriken de Agua",
-        "Velo Sagrado",
-        "Viento Carámbano"
-      ],
-      "firstMoves": [
-        "Follaje",
-        "Hoja Mágica",
-        "Mofa",
-        "Truco Floral"
-      ],
-      "spriteKey": "DECIDUEYE",
-      "cause": "",
-      "route": "Ciudad Plateada",
-      "date": ""
     }
   ],
   "captures": [
-    {
-      "route": "ruta_5",
-      "where": "Ruta 5",
-      "species": "Tyrantrum",
-      "nickname": "Willyrex",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 20,
-      "mon": "Tyrantrum"
-    },
     {
       "route": "monte_moon",
       "where": "Monte Moon",
@@ -5018,6 +5004,17 @@
       "category": "salvaje",
       "level": 25,
       "mon": "Muk"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Decidueye",
+      "nickname": "Hedwig",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Decidueye"
     },
     {
       "route": "ruta_6",
@@ -5262,6 +5259,17 @@
       "mon": "Clawitzer"
     },
     {
+      "route": "ruta_5",
+      "where": "Ruta 5",
+      "species": "Tyrantrum",
+      "nickname": "Willyrex",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 20,
+      "mon": "Tyrantrum"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -5326,17 +5334,6 @@
       "category": "ciudad",
       "level": 18,
       "mon": "Blastoise"
-    },
-    {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Decidueye",
-      "nickname": "Hedwig",
-      "shiny": false,
-      "status": "dead",
-      "category": "ciudad",
-      "level": 10,
-      "mon": "Decidueye"
     }
   ],
   "progress": {
@@ -5349,14 +5346,13 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ruta_5": true,
       "monte_moon": true,
       "ruta_22": true,
       "ruta_20": true,
       "ruta_15": true,
+      "ciudad_plateada": true,
       "ruta_6": true,
       "ruta_9": true,
-      "ciudad_plateada": true,
       "ruta_10_norte": true,
       "monte_moon_exterior": true,
       "ciudad_verde": true,
@@ -5371,6 +5367,7 @@
       "ruta_3": true,
       "ruta_7": true,
       "ruta_12": true,
+      "ruta_5": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_10_sur": true,
@@ -5919,12 +5916,6 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "CENIZASSAGRADAS",
-        "name": "Cenizas Sagradas",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 21,
@@ -6411,5 +6402,5 @@
     "252916811",
     "4140999321"
   ],
-  "revividos": 2
+  "revividos": 3
 }
