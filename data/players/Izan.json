@@ -2,14 +2,14 @@
   "id": "Izan",
   "name": "Izan",
   "lives": 30,
-  "livesUsed": 2,
+  "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 5h 5m jugadas · 7,840₽ · vidas en el juego: 28",
+  "notes": "Importado del save · 5h 42m jugadas · 22,570₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Coffe",
       "species": "Koffing",
-      "level": 21,
+      "level": 23,
       "types": [
         "Veneno"
       ],
@@ -33,11 +33,11 @@
       ],
       "ev": [
         13,
+        14,
+        16,
         12,
-        13,
-        8,
-        15,
-        19
+        16,
+        25
       ],
       "abilPool": [
         "Tablilla Debacle",
@@ -113,12 +113,15 @@
         }
       ],
       "tmMoves": [
+        "Calcinación",
         "Carga Tóxica",
         "Chapoteo Lodo",
         "Cola Dragón",
         "Cuerpo Pesado",
+        "Gravedad",
         "Llama Protectora",
         "Mal de Ojo",
+        "Meditación",
         "Remolino",
         "Señuelo"
       ],
@@ -132,7 +135,7 @@
     {
       "nickname": "Calimero",
       "species": "Capsakid",
-      "level": 21,
+      "level": 23,
       "types": [
         "Planta"
       ],
@@ -156,11 +159,11 @@
       ],
       "ev": [
         13,
+        14,
+        18,
         12,
-        15,
-        8,
-        15,
-        20
+        16,
+        26
       ],
       "abilPool": [
         "Carga Cuark",
@@ -224,12 +227,17 @@
         }
       ],
       "tmMoves": [
+        "Acupresión",
         "Bombardeo",
+        "Calcinación",
         "Carga Tóxica",
         "Chirrido",
         "Cola Dragón",
         "Conversión2",
         "Cuerpo Pesado",
+        "Golpe Bajo",
+        "Golpe Rastrero",
+        "Meditación",
         "Polvo Veneno",
         "Remolino",
         "Vendetta"
@@ -244,7 +252,7 @@
     {
       "nickname": "Ninja Gaiden",
       "species": "Ninjask",
-      "level": 20,
+      "level": 23,
       "types": [
         "Bicho",
         "Volador"
@@ -269,11 +277,11 @@
       ],
       "ev": [
         13,
-        12,
         14,
-        8,
-        15,
-        20
+        17,
+        12,
+        16,
+        26
       ],
       "abilPool": [
         "Perro Guardián"
@@ -382,10 +390,12 @@
       "tmMoves": [
         "Agua Fría",
         "Bombardeo",
+        "Calcinación",
         "Chirrido",
         "Cola Dragón",
         "Conversión2",
         "Cuerpo Pesado",
+        "Estoicismo",
         "Giro Rápido",
         "Golpe Rastrero",
         "Hilo Venenoso",
@@ -403,7 +413,7 @@
     {
       "nickname": "Furro",
       "species": "Linoone",
-      "level": 21,
+      "level": 23,
       "types": [
         "Normal"
       ],
@@ -427,11 +437,11 @@
       ],
       "ev": [
         13,
-        12,
         14,
-        8,
-        15,
-        19
+        17,
+        12,
+        16,
+        25
       ],
       "abilPool": [
         "Impasible",
@@ -531,11 +541,14 @@
         }
       ],
       "tmMoves": [
+        "Acupresión",
         "Bombardeo",
         "Cola Dragón",
         "Golpe Rastrero",
+        "Gravedad",
         "Llama Protectora",
         "Mal de Ojo",
+        "Patada Giro",
         "Polvo Mágico",
         "Remolino"
       ],
@@ -549,7 +562,7 @@
     {
       "nickname": "El Bicho Siu",
       "species": "Beautifly",
-      "level": 21,
+      "level": 23,
       "types": [
         "Bicho",
         "Volador"
@@ -574,11 +587,11 @@
       ],
       "ev": [
         7,
-        9,
-        9,
-        8,
-        13,
-        16
+        11,
+        12,
+        12,
+        14,
+        22
       ],
       "abilPool": [
         "Surcavientos"
@@ -672,8 +685,11 @@
         "Chapoteo Lodo",
         "Chirrido",
         "Conversión2",
+        "Estoicismo",
+        "Gravedad",
         "Impresionar",
         "Llama Protectora",
+        "Meditación",
         "Polvo Veneno",
         "Remolino",
         "Vendetta"
@@ -683,129 +699,6 @@
         "Confusión"
       ],
       "spriteKey": "BEAUTIFLY"
-    },
-    {
-      "nickname": "Allah",
-      "species": "Geodude",
-      "level": 21,
-      "types": [
-        "Roca",
-        "Tierra"
-      ],
-      "ability": "Herbívoro",
-      "nature": "Tímida",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Batido",
-        "Colmillo Hielo",
-        "Lanzarrocas",
-        "Colmillo Ígneo"
-      ],
-      "iv": [
-        10,
-        6,
-        23,
-        16,
-        11,
-        18
-      ],
-      "ev": [
-        2,
-        5,
-        3,
-        3,
-        9,
-        6
-      ],
-      "abilPool": [
-        "Herbívoro",
-        "Absorbe Elec."
-      ],
-      "abilHidden": [
-        "Líbero"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Finta"
-        },
-        {
-          "lvl": 1,
-          "m": "Enrosque"
-        },
-        {
-          "lvl": 4,
-          "m": "Tambor"
-        },
-        {
-          "lvl": 4,
-          "m": "Colmillo Hielo"
-        },
-        {
-          "lvl": 6,
-          "m": "Impactrueno"
-        },
-        {
-          "lvl": 10,
-          "m": "Cara Susto"
-        },
-        {
-          "lvl": 12,
-          "m": "Paralizador"
-        },
-        {
-          "lvl": 12,
-          "m": "Cambiafuerza"
-        },
-        {
-          "lvl": 15,
-          "m": "Lanzarrocas"
-        },
-        {
-          "lvl": 16,
-          "m": "Colmillo Ígneo"
-        },
-        {
-          "lvl": 18,
-          "m": "Batido"
-        },
-        {
-          "lvl": 24,
-          "m": "Carga Tóxica"
-        },
-        {
-          "lvl": 28,
-          "m": "Marcha Espectral"
-        },
-        {
-          "lvl": 30,
-          "m": "Impresionar"
-        },
-        {
-          "lvl": 34,
-          "m": "Patada Ígnea"
-        },
-        {
-          "lvl": 36,
-          "m": "Ala Aural"
-        },
-        {
-          "lvl": 40,
-          "m": "Cola Dragón"
-        },
-        {
-          "lvl": 42,
-          "m": "Pataleta"
-        }
-      ],
-      "firstMoves": [
-        "Tambor",
-        "Colmillo Hielo",
-        "Impactrueno",
-        "Cara Susto"
-      ],
-      "spriteKey": "GEODUDE"
     }
   ],
   "box": [
@@ -1870,9 +1763,275 @@
         "Polvo Mágico"
       ],
       "spriteKey": "MUNNA"
+    },
+    {
+      "nickname": "Taruma",
+      "species": "Darumaka",
+      "level": 21,
+      "types": [
+        "Fuego"
+      ],
+      "ability": "Vista Lince",
+      "nature": "Huraña",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Giro Fuego",
+        "Mofa",
+        "Pulso de Campo",
+        "Robo"
+      ],
+      "iv": [
+        3,
+        25,
+        28,
+        25,
+        23,
+        7
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Vista Lince"
+      ],
+      "abilHidden": [
+        "Ignífugo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Imitación"
+        },
+        {
+          "lvl": 1,
+          "m": "Electrificación"
+        },
+        {
+          "lvl": 3,
+          "m": "Cede Paso"
+        },
+        {
+          "lvl": 4,
+          "m": "Desarrollo"
+        },
+        {
+          "lvl": 8,
+          "m": "Día Soleado"
+        },
+        {
+          "lvl": 9,
+          "m": "Onda Trueno"
+        },
+        {
+          "lvl": 12,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 16,
+          "m": "Mofa"
+        },
+        {
+          "lvl": 19,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 20,
+          "m": "Robo"
+        },
+        {
+          "lvl": 24,
+          "m": "Venganza"
+        },
+        {
+          "lvl": 28,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 32,
+          "m": "Llave Vital"
+        },
+        {
+          "lvl": 36,
+          "m": "Pulso Cura"
+        },
+        {
+          "lvl": 40,
+          "m": "Gas Corrosivo"
+        },
+        {
+          "lvl": 42,
+          "m": "Electroderrape"
+        },
+        {
+          "lvl": 44,
+          "m": "Bomba Ígnea"
+        },
+        {
+          "lvl": 48,
+          "m": "Voltiocambio"
+        }
+      ],
+      "tmMoves": [
+        "Cuerpo Pesado"
+      ],
+      "firstMoves": [
+        "Giro Fuego",
+        "Mofa",
+        "Pulso de Campo",
+        "Robo"
+      ],
+      "spriteKey": "DARUMAKA"
     }
   ],
   "graveyard": [
+    {
+      "nickname": "Allah",
+      "species": "Geodude",
+      "level": 23,
+      "types": [
+        "Roca",
+        "Tierra"
+      ],
+      "ability": "Herbívoro",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Batido",
+        "Colmillo Hielo",
+        "Lanzarrocas",
+        "Colmillo Ígneo"
+      ],
+      "iv": [
+        10,
+        6,
+        23,
+        16,
+        11,
+        18
+      ],
+      "ev": [
+        2,
+        7,
+        6,
+        5,
+        10,
+        11
+      ],
+      "abilPool": [
+        "Herbívoro",
+        "Absorbe Elec."
+      ],
+      "abilHidden": [
+        "Líbero"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Finta"
+        },
+        {
+          "lvl": 1,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 4,
+          "m": "Tambor"
+        },
+        {
+          "lvl": 4,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 6,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 10,
+          "m": "Cara Susto"
+        },
+        {
+          "lvl": 12,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 12,
+          "m": "Cambiafuerza"
+        },
+        {
+          "lvl": 15,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 16,
+          "m": "Colmillo Ígneo"
+        },
+        {
+          "lvl": 18,
+          "m": "Batido"
+        },
+        {
+          "lvl": 24,
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 28,
+          "m": "Marcha Espectral"
+        },
+        {
+          "lvl": 30,
+          "m": "Impresionar"
+        },
+        {
+          "lvl": 34,
+          "m": "Patada Ígnea"
+        },
+        {
+          "lvl": 36,
+          "m": "Ala Aural"
+        },
+        {
+          "lvl": 40,
+          "m": "Cola Dragón"
+        },
+        {
+          "lvl": 42,
+          "m": "Pataleta"
+        }
+      ],
+      "tmMoves": [
+        "Acupresión",
+        "Bombardeo",
+        "Calcinación",
+        "Carga Tóxica",
+        "Chapoteo Lodo",
+        "Estoicismo",
+        "Golpe Bajo",
+        "Hilo Venenoso",
+        "Impresionar",
+        "Mal de Ojo",
+        "Meditación",
+        "Polvo Mágico",
+        "Señuelo",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Tambor",
+        "Colmillo Hielo",
+        "Impactrueno",
+        "Cara Susto"
+      ],
+      "spriteKey": "GEODUDE",
+      "cause": "",
+      "route": "Ciudad Plateada",
+      "date": ""
+    },
     {
       "nickname": "Pulir Cera",
       "species": "Meditite",
@@ -2227,7 +2386,7 @@
       "species": "Geodude",
       "nickname": "Allah",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "ciudad",
       "level": 10,
       "mon": "Geodude"
@@ -2343,6 +2502,17 @@
       "mon": "Munna"
     },
     {
+      "route": "ruta_21",
+      "where": "Ruta 21",
+      "species": "Darumaka",
+      "nickname": "Taruma",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 21,
+      "mon": "Darumaka"
+    },
+    {
       "route": "ruta_2_sur",
       "where": "Ruta 2 Sur",
       "species": "Meditite",
@@ -2367,7 +2537,8 @@
   ],
   "progress": {
     "gyms": {
-      "gym1": true
+      "gym1": true,
+      "gym2": true
     },
     "bosses": {},
     "npcs": {},
@@ -2384,6 +2555,7 @@
       "monte_moon_exterior": true,
       "ruta_4": true,
       "ruta_20": true,
+      "ruta_21": true,
       "ruta_2_sur": true,
       "ruta_2_norte": true
     },
@@ -2402,7 +2574,8 @@
       "monte_moon_exterior": true,
       "ruta_4": true,
       "ciudad_celeste": true,
-      "ruta_20": true
+      "ruta_20": true,
+      "ruta_21": true
     },
     "switches": [
       48,
@@ -2420,6 +2593,9 @@
       75,
       76,
       80,
+      81,
+      82,
+      83,
       110,
       112,
       113,
@@ -2433,12 +2609,14 @@
       182,
       183,
       184,
+      185,
       323,
       334
     ],
     "foundItems": [
       "Activaobjeto",
       "Aecapsula",
+      "Baya Arabol",
       "Cascabel Concha",
       "Cenizas Sagradas",
       "Colmillo de Dragón",
@@ -2452,10 +2630,12 @@
       "Gafas de Sol",
       "Galleta Lava",
       "Griseosfera",
+      "Hielo Perpetuo",
       "Hierba Mental",
       "Ictiofósil",
       "Más PP",
       "Más PS",
+      "Menta Activa",
       "Menta Alegre",
       "Menta Plácida",
       "Miniseta",
@@ -2464,6 +2644,7 @@
       "MT04",
       "MT102",
       "MT103",
+      "MT104",
       "MT106",
       "MT107",
       "MT111",
@@ -2476,23 +2657,33 @@
       "MT39",
       "MT40",
       "MT43",
+      "MT47",
+      "MT51",
+      "MT59",
       "MT64",
       "MT83",
+      "MT85",
+      "MT86",
       "MT89",
       "MT91",
       "MT94",
       "MT95",
       "MT98",
+      "Ocaso Ball",
       "Piedra Noche",
+      "Plesiofósil",
       "Poké Montura",
       "Radar",
       "Raíz Energía",
+      "Real Plata",
       "Reglamento",
       "Rokikos",
       "Sana Ball",
+      "Shinyzador",
       "Supercaña",
       "Tabla Legendaria",
       "Tela Terrible",
+      "Ticket Barco",
       "Toxisfera",
       "Vial"
     ],
@@ -2500,7 +2691,7 @@
       {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos"
       },
       {
@@ -2594,6 +2785,30 @@
         "pocket": "Objetos"
       },
       {
+        "id": "RELICSILVER",
+        "name": "Real Plata",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FOSSILIZEDDINO",
+        "name": "Plesiofósil",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SHINYZADOR",
+        "name": "Shinyzador",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "NEVERMELTICE",
+        "name": "Hielo Perpetuo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HPUP",
         "name": "Más PS",
         "qty": 1,
@@ -2608,7 +2823,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 970,
+        "qty": 963,
         "pocket": "Medicinas"
       },
       {
@@ -2650,7 +2865,7 @@
       {
         "id": "CENIZASSAGRADAS",
         "name": "Cenizas Sagradas",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -2678,6 +2893,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "HASTYMINT",
+        "name": "Menta Activa",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 1,
@@ -2692,13 +2913,19 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 34,
+        "qty": 33,
         "pocket": "Poké Balls"
       },
       {
         "id": "PREMIERBALL",
         "name": "Honor Ball",
         "qty": 3,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "DUSKBALL",
+        "name": "Ocaso Ball",
+        "qty": 1,
         "pocket": "Poké Balls"
       },
       {
@@ -2762,6 +2989,24 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM47",
+        "name": "MT47",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM51",
+        "name": "MT51",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM59",
+        "name": "MT59",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM64",
         "name": "MT64",
         "qty": 1,
@@ -2770,6 +3015,18 @@
       {
         "id": "TM83",
         "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM85",
+        "name": "MT85",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM86",
+        "name": "MT86",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -2816,6 +3073,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM104",
+        "name": "MT104",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM106",
         "name": "MT106",
         "qty": 1,
@@ -2838,6 +3101,12 @@
         "name": "MT121",
         "qty": 1,
         "pocket": "MTs y MOs"
+      },
+      {
+        "id": "STARFBERRY",
+        "name": "Baya Arabol",
+        "qty": 1,
+        "pocket": "Bayas"
       },
       {
         "id": "ITEMURGE",
@@ -2892,6 +3161,12 @@
         "name": "Cuerda Huida",
         "qty": 1,
         "pocket": "Objetos clave"
+      },
+      {
+        "id": "TICKETBARCO",
+        "name": "Ticket Barco",
+        "qty": 1,
+        "pocket": "Objetos clave"
       }
     ]
   },
@@ -2922,7 +3197,8 @@
     "298710570",
     "1858370642",
     "1609471897",
-    "2137204219"
+    "2137204219",
+    "3458347518"
   ],
   "revividos": 25
 }
