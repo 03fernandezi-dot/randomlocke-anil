@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 6,
   "champion": false,
-  "notes": "Importado del save · 8h 42m jugadas · 290,290₽ · vidas en el juego: 20",
+  "notes": "Importado del save · 8h 46m jugadas · 290,290₽ · vidas en el juego: 20",
   "team": [
     {
       "nickname": "Ruffles",
@@ -16,7 +16,7 @@
       ],
       "ability": "Piel Tétrica",
       "nature": "Rara",
-      "item": "Chaleco Asalto",
+      "item": "Pañuelo de Seda",
       "shiny": false,
       "moves": [
         "Pulso de Campo",
@@ -310,7 +310,7 @@
       ],
       "ability": "Escudo Recio",
       "nature": "Grosera",
-      "item": "Pañuelo de Seda",
+      "item": "Chaleco Asalto",
       "shiny": false,
       "moves": [
         "Esfera Aural",
@@ -467,7 +467,7 @@
       ],
       "ability": "Cuerpo Maldito",
       "nature": "Serena",
-      "item": "Raíz Grande",
+      "item": "Globo Helio",
       "shiny": false,
       "moves": [
         "Carga Parábola",
@@ -785,10 +785,10 @@
       ],
       "ability": "Compensación",
       "nature": "Amable",
-      "item": "",
+      "item": "Seguro Debilidad",
       "shiny": false,
       "moves": [
-        "Truco Floral",
+        "Tormenta Floral",
         "Brinco",
         "Colmillo Hielo",
         "Espora"
@@ -919,6 +919,7 @@
         }
       ],
       "tmMoves": [
+        "Alarido",
         "Llave Corsé",
         "Piñón Auxiliar",
         "Pulso de Campo",
@@ -3521,7 +3522,7 @@
       ],
       "ability": "Sacapecho",
       "nature": "Huraña",
-      "item": "Seguro Debilidad",
+      "item": "",
       "shiny": false,
       "moves": [
         "Patada Tropical",
@@ -5610,12 +5611,6 @@
     ],
     "bag": [
       {
-        "id": "EJECTBUTTON",
-        "name": "Botón Escape",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
         "qty": 1,
@@ -5678,12 +5673,6 @@
       {
         "id": "POWERBELT",
         "name": "Cinto Recio",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "AIRBALLOON",
-        "name": "Globo Helio",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -5780,6 +5769,18 @@
       {
         "id": "SPLASHPLATE",
         "name": "Tabla Linfa",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BIGROOT",
+        "name": "Raíz Grande",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "EJECTBUTTON",
+        "name": "Botón Escape",
         "qty": 1,
         "pocket": "Objetos"
       },
