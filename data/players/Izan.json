@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 5h 42m jugadas · 22,570₽ · vidas en el juego: 27",
+  "notes": "Importado del save · 5h 58m jugadas · 22,570₽ · vidas en el juego: 27",
   "team": [
     {
       "nickname": "Coffe",
@@ -33,7 +33,7 @@
       ],
       "ev": [
         13,
-        14,
+        15,
         16,
         12,
         16,
@@ -159,7 +159,7 @@
       ],
       "ev": [
         13,
-        14,
+        15,
         18,
         12,
         16,
@@ -277,7 +277,7 @@
       ],
       "ev": [
         13,
-        14,
+        15,
         17,
         12,
         16,
@@ -437,7 +437,7 @@
       ],
       "ev": [
         13,
-        14,
+        15,
         17,
         12,
         16,
@@ -587,7 +587,7 @@
       ],
       "ev": [
         7,
-        11,
+        12,
         12,
         12,
         14,
@@ -699,6 +699,121 @@
         "Confusión"
       ],
       "spriteKey": "BEAUTIFLY"
+    },
+    {
+      "nickname": "Staravia",
+      "species": "Staravia",
+      "level": 23,
+      "types": [
+        "Normal",
+        "Volador"
+      ],
+      "ability": "Mar del Albor",
+      "nature": "Osada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Bombardeo",
+        "Canto Mortal",
+        "Corpulencia",
+        "Giro Rápido"
+      ],
+      "origin": "don_prodigio",
+      "iv": [
+        21,
+        26,
+        3,
+        5,
+        23,
+        5
+      ],
+      "ev": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Mar del Albor"
+      ],
+      "abilHidden": [
+        "Mano Rápida"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Venganza"
+        },
+        {
+          "lvl": 1,
+          "m": "Canto Mortal"
+        },
+        {
+          "lvl": 1,
+          "m": "Silbato"
+        },
+        {
+          "lvl": 9,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 13,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 18,
+          "m": "Corpulencia"
+        },
+        {
+          "lvl": 23,
+          "m": "Buena Baza"
+        },
+        {
+          "lvl": 28,
+          "m": "Deseo Cura"
+        },
+        {
+          "lvl": 33,
+          "m": "Ofrenda"
+        },
+        {
+          "lvl": 38,
+          "m": "Rugido de Guerra"
+        },
+        {
+          "lvl": 43,
+          "m": "Pico Taladro"
+        },
+        {
+          "lvl": 48,
+          "m": "Telatrampa"
+        },
+        {
+          "lvl": 48,
+          "m": "Drenadoras"
+        }
+      ],
+      "tmMoves": [
+        "Acupresión",
+        "Agua Fría",
+        "Bombardeo",
+        "Brecha Negra",
+        "Calcinación",
+        "Giro Rápido",
+        "Impresionar",
+        "Mal de Ojo",
+        "Polvo Veneno",
+        "Remolino",
+        "Señuelo"
+      ],
+      "firstMoves": [
+        "Venganza",
+        "Canto Mortal",
+        "Silbato"
+      ],
+      "spriteKey": "STARAVIA"
     }
   ],
   "box": [
@@ -808,117 +923,6 @@
       "spriteKey": "CUTIEFLY"
     },
     {
-      "nickname": "Staravia",
-      "species": "Staravia",
-      "level": 7,
-      "types": [
-        "Normal",
-        "Volador"
-      ],
-      "ability": "Mar del Albor",
-      "nature": "Osada",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Bombardeo",
-        "Canto Mortal",
-        "Silbato",
-        "Giro Rápido"
-      ],
-      "origin": "don_prodigio",
-      "iv": [
-        21,
-        26,
-        3,
-        5,
-        23,
-        5
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Mar del Albor"
-      ],
-      "abilHidden": [
-        "Mano Rápida"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Venganza"
-        },
-        {
-          "lvl": 1,
-          "m": "Canto Mortal"
-        },
-        {
-          "lvl": 1,
-          "m": "Silbato"
-        },
-        {
-          "lvl": 9,
-          "m": "Despejar"
-        },
-        {
-          "lvl": 13,
-          "m": "Encanto"
-        },
-        {
-          "lvl": 18,
-          "m": "Corpulencia"
-        },
-        {
-          "lvl": 23,
-          "m": "Buena Baza"
-        },
-        {
-          "lvl": 28,
-          "m": "Deseo Cura"
-        },
-        {
-          "lvl": 33,
-          "m": "Ofrenda"
-        },
-        {
-          "lvl": 38,
-          "m": "Rugido de Guerra"
-        },
-        {
-          "lvl": 43,
-          "m": "Pico Taladro"
-        },
-        {
-          "lvl": 48,
-          "m": "Telatrampa"
-        },
-        {
-          "lvl": 48,
-          "m": "Drenadoras"
-        }
-      ],
-      "tmMoves": [
-        "Bombardeo",
-        "Giro Rápido",
-        "Impresionar",
-        "Mal de Ojo",
-        "Polvo Veneno",
-        "Remolino",
-        "Señuelo"
-      ],
-      "firstMoves": [
-        "Venganza",
-        "Canto Mortal",
-        "Silbato"
-      ],
-      "spriteKey": "STARAVIA"
-    },
-    {
       "nickname": "Renfe",
       "species": "Ferroseed",
       "level": 10,
@@ -1025,7 +1029,16 @@
         }
       ],
       "tmMoves": [
-        "Cuerpo Pesado"
+        "Agua Fría",
+        "Calcinación",
+        "Conversión2",
+        "Cuerpo Pesado",
+        "Llama Protectora",
+        "Meditación",
+        "Polvo Mágico",
+        "Remolino",
+        "Rueda Fuego",
+        "Señuelo"
       ],
       "firstMoves": [
         "Empujón",
@@ -1891,148 +1904,6 @@
   ],
   "graveyard": [
     {
-      "nickname": "Allah",
-      "species": "Geodude",
-      "level": 23,
-      "types": [
-        "Roca",
-        "Tierra"
-      ],
-      "ability": "Herbívoro",
-      "nature": "Tímida",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Batido",
-        "Colmillo Hielo",
-        "Lanzarrocas",
-        "Colmillo Ígneo"
-      ],
-      "iv": [
-        10,
-        6,
-        23,
-        16,
-        11,
-        18
-      ],
-      "ev": [
-        2,
-        7,
-        6,
-        5,
-        10,
-        11
-      ],
-      "abilPool": [
-        "Herbívoro",
-        "Absorbe Elec."
-      ],
-      "abilHidden": [
-        "Líbero"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Finta"
-        },
-        {
-          "lvl": 1,
-          "m": "Enrosque"
-        },
-        {
-          "lvl": 4,
-          "m": "Tambor"
-        },
-        {
-          "lvl": 4,
-          "m": "Colmillo Hielo"
-        },
-        {
-          "lvl": 6,
-          "m": "Impactrueno"
-        },
-        {
-          "lvl": 10,
-          "m": "Cara Susto"
-        },
-        {
-          "lvl": 12,
-          "m": "Paralizador"
-        },
-        {
-          "lvl": 12,
-          "m": "Cambiafuerza"
-        },
-        {
-          "lvl": 15,
-          "m": "Lanzarrocas"
-        },
-        {
-          "lvl": 16,
-          "m": "Colmillo Ígneo"
-        },
-        {
-          "lvl": 18,
-          "m": "Batido"
-        },
-        {
-          "lvl": 24,
-          "m": "Carga Tóxica"
-        },
-        {
-          "lvl": 28,
-          "m": "Marcha Espectral"
-        },
-        {
-          "lvl": 30,
-          "m": "Impresionar"
-        },
-        {
-          "lvl": 34,
-          "m": "Patada Ígnea"
-        },
-        {
-          "lvl": 36,
-          "m": "Ala Aural"
-        },
-        {
-          "lvl": 40,
-          "m": "Cola Dragón"
-        },
-        {
-          "lvl": 42,
-          "m": "Pataleta"
-        }
-      ],
-      "tmMoves": [
-        "Acupresión",
-        "Bombardeo",
-        "Calcinación",
-        "Carga Tóxica",
-        "Chapoteo Lodo",
-        "Estoicismo",
-        "Golpe Bajo",
-        "Hilo Venenoso",
-        "Impresionar",
-        "Mal de Ojo",
-        "Meditación",
-        "Polvo Mágico",
-        "Señuelo",
-        "Vendetta"
-      ],
-      "firstMoves": [
-        "Tambor",
-        "Colmillo Hielo",
-        "Impactrueno",
-        "Cara Susto"
-      ],
-      "spriteKey": "GEODUDE",
-      "cause": "",
-      "route": "Ciudad Plateada",
-      "date": ""
-    },
-    {
       "nickname": "Pulir Cera",
       "species": "Meditite",
       "level": 17,
@@ -2322,6 +2193,148 @@
       "cause": "",
       "route": "Laboratorio",
       "date": ""
+    },
+    {
+      "nickname": "Allah",
+      "species": "Geodude",
+      "level": 23,
+      "types": [
+        "Roca",
+        "Tierra"
+      ],
+      "ability": "Herbívoro",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Batido",
+        "Colmillo Hielo",
+        "Lanzarrocas",
+        "Colmillo Ígneo"
+      ],
+      "iv": [
+        10,
+        6,
+        23,
+        16,
+        11,
+        18
+      ],
+      "ev": [
+        2,
+        7,
+        6,
+        5,
+        10,
+        11
+      ],
+      "abilPool": [
+        "Herbívoro",
+        "Absorbe Elec."
+      ],
+      "abilHidden": [
+        "Líbero"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Finta"
+        },
+        {
+          "lvl": 1,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 4,
+          "m": "Tambor"
+        },
+        {
+          "lvl": 4,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 6,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 10,
+          "m": "Cara Susto"
+        },
+        {
+          "lvl": 12,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 12,
+          "m": "Cambiafuerza"
+        },
+        {
+          "lvl": 15,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 16,
+          "m": "Colmillo Ígneo"
+        },
+        {
+          "lvl": 18,
+          "m": "Batido"
+        },
+        {
+          "lvl": 24,
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 28,
+          "m": "Marcha Espectral"
+        },
+        {
+          "lvl": 30,
+          "m": "Impresionar"
+        },
+        {
+          "lvl": 34,
+          "m": "Patada Ígnea"
+        },
+        {
+          "lvl": 36,
+          "m": "Ala Aural"
+        },
+        {
+          "lvl": 40,
+          "m": "Cola Dragón"
+        },
+        {
+          "lvl": 42,
+          "m": "Pataleta"
+        }
+      ],
+      "tmMoves": [
+        "Acupresión",
+        "Bombardeo",
+        "Calcinación",
+        "Carga Tóxica",
+        "Chapoteo Lodo",
+        "Estoicismo",
+        "Golpe Bajo",
+        "Hilo Venenoso",
+        "Impresionar",
+        "Mal de Ojo",
+        "Meditación",
+        "Polvo Mágico",
+        "Señuelo",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Tambor",
+        "Colmillo Hielo",
+        "Impactrueno",
+        "Cara Susto"
+      ],
+      "spriteKey": "GEODUDE",
+      "cause": "",
+      "route": "Ciudad Plateada",
+      "date": ""
     }
   ],
   "captures": [
@@ -2381,15 +2394,15 @@
       "mon": "Beautifly"
     },
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Geodude",
-      "nickname": "Allah",
+      "route": "",
+      "where": "Monte Moon",
+      "species": "Staravia",
+      "nickname": "",
       "shiny": false,
-      "status": "dead",
-      "category": "ciudad",
-      "level": 10,
-      "mon": "Geodude"
+      "status": "captured",
+      "category": "intercambio",
+      "level": 7,
+      "mon": "Staravia"
     },
     {
       "route": "",
@@ -2401,17 +2414,6 @@
       "category": "estatico_regalo",
       "level": 1,
       "mon": "Cutiefly"
-    },
-    {
-      "route": "",
-      "where": "Monte Moon",
-      "species": "Staravia",
-      "nickname": "",
-      "shiny": false,
-      "status": "captured",
-      "category": "intercambio",
-      "level": 7,
-      "mon": "Staravia"
     },
     {
       "route": "ciudad_plateada",
@@ -2533,6 +2535,17 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Solosis"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Geodude",
+      "nickname": "Allah",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Geodude"
     }
   ],
   "progress": {
@@ -2557,7 +2570,8 @@
       "ruta_20": true,
       "ruta_21": true,
       "ruta_2_sur": true,
-      "ruta_2_norte": true
+      "ruta_2_norte": true,
+      "ruta_5": true
     },
     "items": {},
     "encounters": {
@@ -2575,7 +2589,8 @@
       "ruta_4": true,
       "ciudad_celeste": true,
       "ruta_20": true,
-      "ruta_21": true
+      "ruta_21": true,
+      "ruta_5": true
     },
     "switches": [
       48,
@@ -2640,8 +2655,10 @@
       "Menta Plácida",
       "Miniseta",
       "MO Golpe Roca",
+      "Mochi Ímpetu",
       "MT02",
       "MT04",
+      "MT101",
       "MT102",
       "MT103",
       "MT104",
@@ -2654,9 +2671,11 @@
       "MT29",
       "MT30",
       "MT32",
+      "MT37",
       "MT39",
       "MT40",
       "MT43",
+      "MT46",
       "MT47",
       "MT51",
       "MT59",
@@ -2676,6 +2695,7 @@
       "Radar",
       "Raíz Energía",
       "Real Plata",
+      "Refresco",
       "Reglamento",
       "Rokikos",
       "Sana Ball",
@@ -2823,7 +2843,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 963,
+        "qty": 947,
         "pocket": "Medicinas"
       },
       {
@@ -2899,6 +2919,18 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "SODAPOP",
+        "name": "Refresco",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "SWIFTMOCHI",
+        "name": "Mochi Ímpetu",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 1,
@@ -2913,7 +2945,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 33,
+        "qty": 22,
         "pocket": "Poké Balls"
       },
       {
@@ -2971,6 +3003,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM37",
+        "name": "MT37",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM39",
         "name": "MT39",
         "qty": 1,
@@ -2985,6 +3023,12 @@
       {
         "id": "TM43",
         "name": "MT43",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM46",
+        "name": "MT46",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -3057,6 +3101,12 @@
       {
         "id": "TM98",
         "name": "MT98",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM101",
+        "name": "MT101",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
