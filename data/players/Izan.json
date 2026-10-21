@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 1,
   "champion": false,
-  "notes": "Importado del save · 3h 16m jugadas · 9,580₽ · vidas en el juego: 29",
+  "notes": "Importado del save · 3h 21m jugadas · 9,580₽ · vidas en el juego: 29",
   "team": [
     {
       "nickname": "Coffe",
@@ -767,9 +767,10 @@
       "item": "",
       "shiny": false,
       "moves": [
-        "Venganza",
+        "Bombardeo",
         "Canto Mortal",
-        "Silbato"
+        "Silbato",
+        "Giro Rápido"
       ],
       "origin": "don_prodigio",
       "iv": [
@@ -847,6 +848,15 @@
           "lvl": 48,
           "m": "Drenadoras"
         }
+      ],
+      "tmMoves": [
+        "Bombardeo",
+        "Giro Rápido",
+        "Impresionar",
+        "Mal de Ojo",
+        "Polvo Veneno",
+        "Remolino",
+        "Señuelo"
       ],
       "firstMoves": [
         "Venganza",
