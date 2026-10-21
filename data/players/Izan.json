@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 0,
   "champion": false,
-  "notes": "Importado del save · 0h 38m jugadas · 2,960₽ · vidas en el juego: 30",
+  "notes": "Importado del save · 0h 48m jugadas · 2,960₽ · vidas en el juego: 30",
   "team": [
     {
       "nickname": "Stepsis",
       "species": "Solosis",
-      "level": 6,
+      "level": 7,
       "types": [
         "Psíquico"
       ],
@@ -34,7 +34,7 @@
       "ev": [
         0,
         1,
-        1,
+        2,
         0,
         0,
         1
@@ -142,7 +142,7 @@
     {
       "nickname": "Calimero",
       "species": "Capsakid",
-      "level": 5,
+      "level": 6,
       "types": [
         "Planta"
       ],
@@ -167,7 +167,7 @@
       "ev": [
         0,
         0,
-        1,
+        2,
         0,
         0,
         1
@@ -246,7 +246,7 @@
     {
       "nickname": "Ninja Gaiden",
       "species": "Nincada",
-      "level": 4,
+      "level": 5,
       "types": [
         "Bicho",
         "Tierra"
@@ -257,7 +257,8 @@
       "shiny": false,
       "moves": [
         "Otra Vez",
-        "Pirotecnia"
+        "Pirotecnia",
+        "A Defender"
       ],
       "iv": [
         18,
@@ -270,7 +271,7 @@
       "ev": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         1
@@ -331,6 +332,9 @@
           "m": "Corpulencia"
         }
       ],
+      "tmMoves": [
+        "Cola Dragón"
+      ],
       "firstMoves": [
         "Otra Vez",
         "Pirotecnia"
@@ -340,7 +344,7 @@
     {
       "nickname": "Furro",
       "species": "Zigzagoon",
-      "level": 5,
+      "level": 6,
       "types": [
         "Normal"
       ],
@@ -351,7 +355,8 @@
       "moves": [
         "Vaho Gélido",
         "Fitoimpulso",
-        "Ovocuración"
+        "Ovocuración",
+        "Sorpresa"
       ],
       "iv": [
         3,
@@ -364,7 +369,7 @@
       "ev": [
         0,
         0,
-        0,
+        1,
         0,
         0,
         0
@@ -460,6 +465,118 @@
         "Ovocuración"
       ],
       "spriteKey": "ZIGZAGOON"
+    },
+    {
+      "nickname": "Coffe",
+      "species": "Koffing",
+      "level": 6,
+      "types": [
+        "Veneno"
+      ],
+      "ability": "Tablilla Debacle",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Bilis",
+        "Salmuera",
+        "Calamidad"
+      ],
+      "iv": [
+        6,
+        25,
+        15,
+        12,
+        19,
+        24
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Tablilla Debacle",
+        "Nado Rápido"
+      ],
+      "abilHidden": [
+        "Torrente"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Bilis"
+        },
+        {
+          "lvl": 1,
+          "m": "Salmuera"
+        },
+        {
+          "lvl": 4,
+          "m": "Calamidad"
+        },
+        {
+          "lvl": 8,
+          "m": "Refuerzo"
+        },
+        {
+          "lvl": 12,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 16,
+          "m": "Obstrucción"
+        },
+        {
+          "lvl": 20,
+          "m": "Isofuerza"
+        },
+        {
+          "lvl": 24,
+          "m": "Deseo Cura"
+        },
+        {
+          "lvl": 28,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 29,
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 32,
+          "m": "Reciclaje"
+        },
+        {
+          "lvl": 36,
+          "m": "Asalto Espadón"
+        },
+        {
+          "lvl": 40,
+          "m": "Rodar"
+        },
+        {
+          "lvl": 44,
+          "m": "Polución"
+        },
+        {
+          "lvl": 48,
+          "m": "Electropunzada"
+        },
+        {
+          "lvl": 52,
+          "m": "Truco Defensa"
+        }
+      ],
+      "firstMoves": [
+        "Bilis",
+        "Salmuera",
+        "Calamidad"
+      ],
+      "spriteKey": "KOFFING"
     }
   ],
   "box": [],
@@ -508,6 +625,17 @@
       "category": "ciudad",
       "level": 5,
       "mon": "Zigzagoon"
+    },
+    {
+      "route": "ruta_22",
+      "where": "Ruta 22",
+      "species": "Koffing",
+      "nickname": "Coffe",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 6,
+      "mon": "Koffing"
     }
   ],
   "progress": {
@@ -517,13 +645,16 @@
     "routes": {
       "pueblo_paleta": true,
       "ruta_1": true,
-      "ciudad_verde": true
+      "ciudad_verde": true,
+      "ruta_22": true,
+      "ruta_2_sur": true
     },
     "items": {},
     "encounters": {
       "pueblo_paleta": true,
       "ruta_1": true,
-      "ciudad_verde": true
+      "ciudad_verde": true,
+      "ruta_22": true
     },
     "switches": [
       48,
@@ -546,14 +677,22 @@
     ],
     "foundItems": [
       "Energía Potenciadora",
+      "Más PP",
       "Más PS",
+      "Menta Alegre",
       "Miniseta",
+      "MT107",
       "MT121",
+      "MT29",
+      "MT83",
+      "MT91",
+      "MT98",
       "Poké Montura",
       "Radar",
       "Reglamento",
       "Sana Ball",
       "Supercaña",
+      "Toxisfera",
       "Vial"
     ],
     "bag": [
@@ -570,6 +709,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "TOXICORB",
+        "name": "Toxisfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HPUP",
         "name": "Más PS",
         "qty": 1,
@@ -582,6 +727,36 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "RARECANDY",
+        "name": "Caramelo Raro",
+        "qty": 999,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "RARECANDY",
+        "name": "Caramelo Raro",
+        "qty": 999,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "RARECANDY",
+        "name": "Caramelo Raro",
+        "qty": 602,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "PPUP",
+        "name": "Más PP",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "JOLLYMINT",
+        "name": "Menta Alegre",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 5,
@@ -590,7 +765,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 5,
+        "qty": 2,
         "pocket": "Poké Balls"
       },
       {
@@ -598,6 +773,36 @@
         "name": "Sana Ball",
         "qty": 1,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM29",
+        "name": "MT29",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM83",
+        "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM91",
+        "name": "MT91",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM98",
+        "name": "MT98",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM107",
+        "name": "MT107",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "TM121",
