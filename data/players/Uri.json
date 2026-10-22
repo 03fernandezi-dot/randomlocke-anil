@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 19h 55m jugadas · 96,160₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 19h 58m jugadas · 96,160₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Izan",
@@ -35,7 +35,7 @@
       "ev": [
         39,
         87,
-        59,
+        61,
         49,
         60,
         74
@@ -208,7 +208,7 @@
       "ev": [
         16,
         47,
-        29,
+        31,
         21,
         25,
         41
@@ -375,7 +375,7 @@
       "ev": [
         21,
         58,
-        32,
+        34,
         34,
         36,
         45
@@ -526,7 +526,7 @@
       "ev": [
         21,
         61,
-        40,
+        42,
         29,
         38,
         48
@@ -680,7 +680,7 @@
       "ev": [
         6,
         11,
-        9,
+        11,
         2,
         5,
         4
@@ -840,7 +840,7 @@
       "ev": [
         16,
         40,
-        25,
+        27,
         19,
         23,
         28
@@ -3670,6 +3670,121 @@
       "spriteKey": "DARTRIX_1"
     },
     {
+      "nickname": "Koi",
+      "species": "Arctovish",
+      "level": 41,
+      "types": [
+        "Agua",
+        "Hielo"
+      ],
+      "ability": "Francotirador",
+      "nature": "Osada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Plumerazo",
+        "Decoración",
+        "Hidrovapor",
+        "Llave Giro"
+      ],
+      "iv": [
+        14,
+        28,
+        15,
+        2,
+        20,
+        21
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Francotirador",
+        "Metal Pesado"
+      ],
+      "abilHidden": [
+        "Indefenso"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 1,
+          "m": "Tumba Rocas"
+        },
+        {
+          "lvl": 7,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 14,
+          "m": "Bastión Final"
+        },
+        {
+          "lvl": 21,
+          "m": "Plumerazo"
+        },
+        {
+          "lvl": 28,
+          "m": "Decoración"
+        },
+        {
+          "lvl": 35,
+          "m": "Hidrovapor"
+        },
+        {
+          "lvl": 35,
+          "m": "Llave Giro"
+        },
+        {
+          "lvl": 42,
+          "m": "Gran Ojo"
+        },
+        {
+          "lvl": 42,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 49,
+          "m": "Buceo"
+        },
+        {
+          "lvl": 56,
+          "m": "Alud"
+        },
+        {
+          "lvl": 63,
+          "m": "Liofilización"
+        },
+        {
+          "lvl": 63,
+          "m": "Batido"
+        },
+        {
+          "lvl": 70,
+          "m": "Shuriken de Agua"
+        },
+        {
+          "lvl": 77,
+          "m": "Chupavidas"
+        }
+      ],
+      "firstMoves": [
+        "Plumerazo",
+        "Decoración",
+        "Hidrovapor",
+        "Llave Giro"
+      ],
+      "spriteKey": "ARCTOVISH"
+    },
+    {
       "nickname": "Bonifacio",
       "species": "Cherrim",
       "level": 35,
@@ -5124,6 +5239,17 @@
       "mon": "Dartrix"
     },
     {
+      "route": "pueblo_marengo",
+      "where": "Pueblo Marengo",
+      "species": "Arctovish",
+      "nickname": "Koi",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 41,
+      "mon": "Arctovish"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Cherrim",
@@ -5253,6 +5379,7 @@
       "monte_moon": true,
       "ciudad_verde": true,
       "ciudad_azulona": true,
+      "pueblo_marengo": true,
       "ciudad_plateada": true,
       "ruta_4": true,
       "ruta_22": true,
@@ -5263,7 +5390,6 @@
       "ruta_7": true,
       "ruta_12": true,
       "ruta_11": true,
-      "pueblo_marengo": true,
       "ruta_21": true
     },
     "items": {},
@@ -5297,7 +5423,8 @@
       "ruta_7": true,
       "ciudad_azulona": true,
       "ruta_12": true,
-      "ruta_11": true
+      "ruta_11": true,
+      "pueblo_marengo": true
     },
     "switches": [
       48,
@@ -5376,6 +5503,7 @@
       "Álbum de Fotos",
       "Antídoto",
       "At. Esp. X 2",
+      "Baya Alcho",
       "Baya Ango",
       "Baya Aricoc",
       "Baya Baribá",
@@ -5387,6 +5515,7 @@
       "Baya Pasio",
       "Baya Perasi",
       "Baya Uvav",
+      "Baya Yecana",
       "Baya Zidra",
       "Bloque de Turba",
       "Bola de Nieve",
@@ -5426,6 +5555,7 @@
       "Incienso Lento",
       "Incienso Suave",
       "Incubadora",
+      "Leche Mu-mu",
       "Lente Recia",
       "Llamasfera",
       "Llave Rocket",
@@ -5525,6 +5655,7 @@
       "Radar",
       "Rapid Ball",
       "Reglamento",
+      "Resguardo",
       "Resistfeather",
       "Roca Suave",
       "Sana Ball",
@@ -5535,6 +5666,7 @@
       "Supercaña",
       "Supercápsula",
       "Swiftfeather",
+      "Tabla Cielo",
       "Tabla Linfa",
       "Tabla Terrax",
       "Tabla Trueno",
@@ -5798,6 +5930,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "SKYPLATE",
+        "name": "Tabla Cielo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
         "qty": 585,
@@ -5854,6 +5992,12 @@
       {
         "id": "SUPERCAPSULE",
         "name": "Supercápsula",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "MOOMOOMILK",
+        "name": "Leche Mu-mu",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -5980,7 +6124,7 @@
       {
         "id": "NETBALL",
         "name": "Malla Ball",
-        "qty": 10,
+        "qty": 9,
         "pocket": "Poké Balls"
       },
       {
@@ -6532,13 +6676,13 @@
       {
         "id": "TANGABERRY",
         "name": "Baya Yecana",
-        "qty": 5,
+        "qty": 6,
         "pocket": "Bayas"
       },
       {
         "id": "CHARTIBERRY",
         "name": "Baya Alcho",
-        "qty": 5,
+        "qty": 6,
         "pocket": "Bayas"
       },
       {
@@ -6772,6 +6916,12 @@
       {
         "id": "FLASHITEM",
         "name": "MO Destello",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "RESGUARDO",
+        "name": "Resguardo",
         "qty": 1,
         "pocket": "Objetos clave"
       }
