@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": false,
-  "notes": "Importado del save · 9h 20m jugadas · 316,370₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 9h 22m jugadas · 316,370₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Hedwig",
       "species": "Decidueye",
-      "level": 41,
+      "level": 42,
       "types": [
         "Planta",
         "Fantasma"
@@ -34,9 +34,9 @@
       ],
       "ev": [
         41,
-        80,
+        81,
         39,
-        34,
+        35,
         33,
         43
       ],
@@ -198,9 +198,9 @@
       ],
       "ev": [
         20,
-        26,
+        27,
         22,
-        13,
+        14,
         17,
         13
       ],
@@ -312,7 +312,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 41,
+      "level": 42,
       "types": [
         "Eléctrico"
       ],
@@ -336,9 +336,9 @@
       ],
       "ev": [
         38,
-        78,
+        79,
         42,
-        40,
+        41,
         37,
         46
       ],
@@ -475,7 +475,7 @@
     {
       "nickname": "Mocardo",
       "species": "Muk",
-      "level": 41,
+      "level": 42,
       "types": [
         "Veneno"
       ],
@@ -499,9 +499,9 @@
       ],
       "ev": [
         16,
-        30,
+        31,
         9,
-        14,
+        15,
         21,
         8
       ],
@@ -654,9 +654,9 @@
       ],
       "ev": [
         7,
-        6,
+        7,
         0,
-        4,
+        5,
         3,
         3
       ],
@@ -759,7 +759,7 @@
     {
       "nickname": "Bicharraco",
       "species": "Golurk",
-      "level": 41,
+      "level": 42,
       "types": [
         "Tierra",
         "Fantasma"
@@ -784,9 +784,9 @@
       ],
       "ev": [
         43,
-        53,
+        54,
         41,
-        30,
+        31,
         29,
         38
       ],
@@ -4096,6 +4096,118 @@
         "Onda Voltio"
       ],
       "spriteKey": "MEGANIUM"
+    },
+    {
+      "nickname": "Esteroide",
+      "species": "Minior",
+      "level": 41,
+      "types": [
+        "Roca",
+        "Volador"
+      ],
+      "ability": "Anticipación",
+      "nature": "Amable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Danza Aleteo",
+        "Presente",
+        "Meteorobola",
+        "Fuerza G"
+      ],
+      "iv": [
+        8,
+        9,
+        30,
+        3,
+        0,
+        24
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Anticipación"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Luz Lunar"
+        },
+        {
+          "lvl": 3,
+          "m": "Danza Pluma"
+        },
+        {
+          "lvl": 8,
+          "m": "Poder Pasado"
+        },
+        {
+          "lvl": 10,
+          "m": "Foco"
+        },
+        {
+          "lvl": 15,
+          "m": "Trampa Rocas"
+        },
+        {
+          "lvl": 17,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 22,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 24,
+          "m": "Roca Veloz"
+        },
+        {
+          "lvl": 29,
+          "m": "Ataque Ala"
+        },
+        {
+          "lvl": 31,
+          "m": "Danza Aleteo"
+        },
+        {
+          "lvl": 31,
+          "m": "Presente"
+        },
+        {
+          "lvl": 36,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 38,
+          "m": "Fuerza G"
+        },
+        {
+          "lvl": 43,
+          "m": "Giro Rápido"
+        },
+        {
+          "lvl": 45,
+          "m": "Acróbata"
+        },
+        {
+          "lvl": 50,
+          "m": "Avalancha"
+        }
+      ],
+      "firstMoves": [
+        "Danza Aleteo",
+        "Presente",
+        "Meteorobola",
+        "Fuerza G"
+      ],
+      "spriteKey": "MINIOR_12"
     }
   ],
   "graveyard": [
@@ -5430,6 +5542,17 @@
       "mon": "Meganium"
     },
     {
+      "route": "pueblo_marengo",
+      "where": "Pueblo Marengo",
+      "species": "Minior",
+      "nickname": "Esteroide",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 41,
+      "mon": "Minior"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -5539,6 +5662,7 @@
       "ruta_7": true,
       "ruta_12": true,
       "torre_pokemon": true,
+      "pueblo_marengo": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_10_sur": true,
@@ -5547,8 +5671,7 @@
       "pueblo_paleta": true,
       "ruta_2_norte": true,
       "ciudad_carmin": true,
-      "tunel_diglett": true,
-      "pueblo_marengo": true
+      "tunel_diglett": true
     },
     "items": {},
     "encounters": {
@@ -5582,7 +5705,8 @@
       "ruta_7": true,
       "ruta_11": true,
       "ciudad_azulona": true,
-      "torre_pokemon": true
+      "torre_pokemon": true,
+      "pueblo_marengo": true
     },
     "switches": [
       48,
@@ -5692,6 +5816,7 @@
       "Espray Bucal",
       "Fósil Garra",
       "Fósil Hélix",
+      "Fragmento Cometa",
       "Gema Dragón",
       "Gema Roca",
       "Globo Helio",
@@ -5711,6 +5836,7 @@
       "Menta Audaz",
       "Menta Huraña",
       "Menta Seria",
+      "Mineral Evol",
       "Miniseta",
       "MO Corte",
       "MO Golpe Roca",
@@ -5728,6 +5854,8 @@
       "MT125",
       "MT13",
       "MT14",
+      "MT16",
+      "MT17",
       "MT19",
       "MT21",
       "MT30",
@@ -5780,6 +5908,7 @@
       "Rapid Ball",
       "Real Plata",
       "Reglamento",
+      "Resguardo",
       "Roca Calor",
       "Scapsula",
       "Seguro Debilidad",
@@ -6013,6 +6142,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "COMETSHARD",
+        "name": "Fragmento Cometa",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "EVIOLITE",
+        "name": "Mineral Evol",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -6153,7 +6294,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 21,
+        "qty": 19,
         "pocket": "Poké Balls"
       },
       {
@@ -6201,7 +6342,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 10,
+        "qty": 9,
         "pocket": "Poké Balls"
       },
       {
@@ -6237,6 +6378,18 @@
       {
         "id": "TM14",
         "name": "MT14",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM16",
+        "name": "MT16",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM17",
+        "name": "MT17",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -6651,6 +6804,12 @@
       {
         "id": "POKEFLUTE",
         "name": "Poké Flauta",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "RESGUARDO",
+        "name": "Resguardo",
         "qty": 1,
         "pocket": "Objetos clave"
       }
