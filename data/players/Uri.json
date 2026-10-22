@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 19h 58m jugadas · 96,160₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 20h 6m jugadas · 96,160₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Izan",
@@ -164,6 +164,7 @@
         "Picotazo Veneno",
         "Poder Pasado",
         "Profecía",
+        "Pulpocañón",
         "Pulso Noche",
         "Puño Sombra",
         "Rayo Señal",
@@ -171,6 +172,7 @@
         "Señuelo",
         "Sonámbulo",
         "Trampa Rocas",
+        "Treparrocas",
         "Viento Feérico"
       ],
       "firstMoves": [
@@ -5588,6 +5590,7 @@
       "MT12",
       "MT122",
       "MT14",
+      "MT17",
       "MT20",
       "MT25",
       "MT26",
@@ -5600,6 +5603,7 @@
       "MT41",
       "MT42",
       "MT43",
+      "MT44",
       "MT46",
       "MT47",
       "MT51",
@@ -5980,7 +5984,7 @@
       {
         "id": "BIGMALASADA",
         "name": "Malasada Maxi",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Medicinas"
       },
       {
@@ -6176,6 +6180,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM17",
+        "name": "MT17",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM19",
         "name": "MT19",
         "qty": 1,
@@ -6256,6 +6266,12 @@
       {
         "id": "TM43",
         "name": "MT43",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM44",
+        "name": "MT44",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
