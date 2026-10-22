@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": false,
-  "notes": "Importado del save · 9h 44m jugadas · 137,230₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 9h 49m jugadas · 141,730₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Hedwig",
       "species": "Decidueye",
-      "level": 44,
+      "level": 45,
       "types": [
         "Planta",
         "Fantasma"
@@ -34,10 +34,10 @@
       ],
       "ev": [
         45,
-        90,
+        93,
         40,
+        43,
         42,
-        38,
         48
       ],
       "abilPool": [
@@ -176,7 +176,7 @@
     {
       "nickname": "Mocardo",
       "species": "Muk",
-      "level": 44,
+      "level": 45,
       "types": [
         "Veneno"
       ],
@@ -200,10 +200,10 @@
       ],
       "ev": [
         20,
-        40,
+        43,
         10,
-        22,
-        26,
+        23,
+        30,
         13
       ],
       "abilPool": [
@@ -334,7 +334,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 44,
+      "level": 45,
       "types": [
         "Eléctrico"
       ],
@@ -358,10 +358,10 @@
       ],
       "ev": [
         42,
-        88,
+        91,
         43,
-        48,
-        42,
+        49,
+        46,
         51
       ],
       "abilPool": [
@@ -502,7 +502,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 44,
+      "level": 45,
       "types": [
         "Psíquico",
         "Volador"
@@ -527,10 +527,10 @@
       ],
       "ev": [
         24,
-        36,
+        39,
         23,
-        21,
         22,
+        26,
         18
       ],
       "abilPool": [
@@ -645,7 +645,7 @@
     {
       "nickname": "Willyrex",
       "species": "Tyrantrum",
-      "level": 44,
+      "level": 45,
       "types": [
         "Roca",
         "Dragón"
@@ -670,10 +670,10 @@
       ],
       "ev": [
         11,
-        16,
+        19,
         1,
+        13,
         12,
-        8,
         8
       ],
       "abilPool": [
@@ -778,7 +778,7 @@
     {
       "nickname": "Bicharraco",
       "species": "Golurk",
-      "level": 44,
+      "level": 45,
       "types": [
         "Tierra",
         "Fantasma"
@@ -803,10 +803,10 @@
       ],
       "ev": [
         47,
-        63,
+        66,
         42,
+        39,
         38,
-        34,
         43
       ],
       "abilPool": [
@@ -5971,7 +5971,8 @@
       "pueblo_paleta": true,
       "ruta_2_norte": true,
       "ciudad_carmin": true,
-      "tunel_diglett": true
+      "tunel_diglett": true,
+      "ciudad_fucsia": true
     },
     "items": {},
     "encounters": {
@@ -6074,13 +6075,16 @@
       185,
       186,
       187,
+      189,
+      190,
       271,
       301,
       323,
       334,
       363,
       364,
-      365
+      365,
+      557
     ],
     "foundItems": [
       "Aecapsula",
@@ -6106,6 +6110,7 @@
       "Cenizas Sagradas",
       "Chaleco Asalto",
       "Chesnaughtite",
+      "Cinta Elección",
       "Cinto Recio",
       "Cleverfeather",
       "Competi Ball",
@@ -6472,6 +6477,12 @@
       {
         "id": "AIRBALLOON",
         "name": "Globo Helio",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "CHOICEBAND",
+        "name": "Cinta Elección",
         "qty": 1,
         "pocket": "Objetos"
       },
