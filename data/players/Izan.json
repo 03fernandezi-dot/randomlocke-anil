@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 7h 13m jugadas · 34,200₽ · vidas en el juego: 23",
+  "notes": "Importado del save · 7h 22m jugadas · 36,840₽ · vidas en el juego: 23",
   "team": [
     {
       "nickname": "Coffe",
       "species": "Koffing",
-      "level": 25,
+      "level": 26,
       "types": [
         "Veneno"
       ],
@@ -32,11 +32,11 @@
         24
       ],
       "ev": [
-        15,
+        17,
         21,
         20,
         17,
-        20,
+        21,
         28
       ],
       "abilPool": [
@@ -159,11 +159,11 @@
         4
       ],
       "ev": [
-        15,
+        17,
         22,
         21,
         17,
-        21,
+        22,
         29
       ],
       "abilPool": [
@@ -296,7 +296,7 @@
     {
       "nickname": "Furro",
       "species": "Linoone",
-      "level": 25,
+      "level": 26,
       "types": [
         "Normal"
       ],
@@ -319,11 +319,11 @@
         16
       ],
       "ev": [
-        15,
+        17,
         22,
         21,
         17,
-        21,
+        22,
         28
       ],
       "abilPool": [
@@ -445,7 +445,7 @@
     {
       "nickname": "El Bicho Siu",
       "species": "Beautifly",
-      "level": 25,
+      "level": 26,
       "types": [
         "Bicho",
         "Volador"
@@ -469,11 +469,11 @@
         18
       ],
       "ev": [
-        9,
+        11,
         19,
         16,
         17,
-        19,
+        20,
         25
       ],
       "abilPool": [
@@ -586,7 +586,7 @@
     {
       "nickname": "Clefairy",
       "species": "Clefairy",
-      "level": 25,
+      "level": 26,
       "types": [
         "Hada"
       ],
@@ -610,11 +610,11 @@
         25
       ],
       "ev": [
-        0,
+        2,
         0,
         0,
         1,
-        2,
+        3,
         0
       ],
       "abilPool": [
@@ -771,6 +771,143 @@
         "Impresionar"
       ],
       "spriteKey": "CLEFAIRY"
+    },
+    {
+      "nickname": "Eye of Rah",
+      "species": "Baltoy",
+      "level": 26,
+      "types": [
+        "Tierra",
+        "Psíquico"
+      ],
+      "ability": "Telepatía",
+      "nature": "Agitada",
+      "item": "",
+      "shiny": true,
+      "moves": [
+        "Truco Defensa",
+        "Ayuda",
+        "Psicorrayo",
+        "Pisotón"
+      ],
+      "iv": [
+        21,
+        9,
+        22,
+        15,
+        12,
+        5
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Telepatía"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 1,
+          "m": "Cambiafuerza"
+        },
+        {
+          "lvl": 3,
+          "m": "Hipnosis"
+        },
+        {
+          "lvl": 6,
+          "m": "Abrecaminos"
+        },
+        {
+          "lvl": 9,
+          "m": "Divide Dolor"
+        },
+        {
+          "lvl": 12,
+          "m": "Truco Defensa"
+        },
+        {
+          "lvl": 15,
+          "m": "Ayuda"
+        },
+        {
+          "lvl": 18,
+          "m": "Prensa Metálica"
+        },
+        {
+          "lvl": 21,
+          "m": "Pisotón"
+        },
+        {
+          "lvl": 24,
+          "m": "Picotazo"
+        },
+        {
+          "lvl": 27,
+          "m": "Bomba Imán"
+        },
+        {
+          "lvl": 30,
+          "m": "Reflejo"
+        },
+        {
+          "lvl": 33,
+          "m": "Doble Ataque"
+        },
+        {
+          "lvl": 36,
+          "m": "Onda Anómala"
+        },
+        {
+          "lvl": 36,
+          "m": "Pirotecnia"
+        },
+        {
+          "lvl": 39,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 42,
+          "m": "Cede Paso"
+        },
+        {
+          "lvl": 45,
+          "m": "Canto Mortal"
+        }
+      ],
+      "tmMoves": [
+        "Acupresión",
+        "Agua Fría",
+        "Atracción",
+        "Bombardeo",
+        "Chapoteo Lodo",
+        "Conversión2",
+        "Cuerpo Pesado",
+        "Giro Rápido",
+        "Golpe Rastrero",
+        "Gravedad",
+        "Llama Protectora",
+        "Puño Jet",
+        "Rueda Fuego",
+        "Señuelo",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Truco Defensa",
+        "Ayuda",
+        "Prensa Metálica",
+        "Pisotón"
+      ],
+      "spriteKey": "BALTOY"
     }
   ],
   "box": [
@@ -882,7 +1019,7 @@
     {
       "nickname": "Renfe",
       "species": "Ferroseed",
-      "level": 10,
+      "level": 15,
       "types": [
         "Planta",
         "Acero"
@@ -893,9 +1030,9 @@
       "shiny": false,
       "moves": [
         "Empujón",
-        "Legado",
+        "Voz Cautivadora",
         "Aromaterapia",
-        "Niebla"
+        "Escudo Real"
       ],
       "iv": [
         23,
@@ -906,11 +1043,11 @@
         9
       ],
       "ev": [
+        2,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0
       ],
       "abilPool": [
@@ -1953,262 +2090,6 @@
   ],
   "graveyard": [
     {
-      "nickname": "Calimero",
-      "species": "Capsakid",
-      "level": 25,
-      "types": [
-        "Planta"
-      ],
-      "ability": "Ilusión",
-      "nature": "Firme",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Fotosíntesis",
-        "Abrecaminos",
-        "Agua Fría",
-        "Patada Baja"
-      ],
-      "iv": [
-        17,
-        19,
-        21,
-        10,
-        8,
-        4
-      ],
-      "ev": [
-        15,
-        22,
-        22,
-        17,
-        19,
-        29
-      ],
-      "abilPool": [
-        "Carga Cuark",
-        "Ilusión"
-      ],
-      "abilHidden": [
-        "Manto Níveo"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Fotosíntesis"
-        },
-        {
-          "lvl": 1,
-          "m": "Semilladora"
-        },
-        {
-          "lvl": 1,
-          "m": "Agua Fría"
-        },
-        {
-          "lvl": 4,
-          "m": "Patada Baja"
-        },
-        {
-          "lvl": 10,
-          "m": "Abrecaminos"
-        },
-        {
-          "lvl": 13,
-          "m": "Fitoimpulso"
-        },
-        {
-          "lvl": 17,
-          "m": "Absorber"
-        },
-        {
-          "lvl": 21,
-          "m": "Paralizador"
-        },
-        {
-          "lvl": 24,
-          "m": "Gravedad"
-        },
-        {
-          "lvl": 28,
-          "m": "Psicorrayo"
-        },
-        {
-          "lvl": 38,
-          "m": "Vozarrón"
-        },
-        {
-          "lvl": 44,
-          "m": "Núcleo Castigo"
-        },
-        {
-          "lvl": 48,
-          "m": "Alivio"
-        }
-      ],
-      "tmMoves": [
-        "Acupresión",
-        "Bombardeo",
-        "Calcinación",
-        "Carga Tóxica",
-        "Chirrido",
-        "Cola Dragón",
-        "Conversión2",
-        "Cuerpo Pesado",
-        "Golpe Bajo",
-        "Golpe Rastrero",
-        "Meditación",
-        "Polvo Veneno",
-        "Remolino",
-        "Vendetta"
-      ],
-      "firstMoves": [
-        "Fotosíntesis",
-        "Semilladora",
-        "Agua Fría"
-      ],
-      "spriteKey": "CAPSAKID",
-      "cause": "",
-      "route": "Pueblo Paleta",
-      "date": ""
-    },
-    {
-      "nickname": "MisterCrab",
-      "species": "Corphish",
-      "level": 24,
-      "types": [
-        "Agua"
-      ],
-      "ability": "Transportarrocas",
-      "nature": "Tímida",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Golpe Bajo",
-        "Antiaéreo",
-        "Llama Protectora",
-        "Hoja Mágica"
-      ],
-      "iv": [
-        22,
-        6,
-        7,
-        10,
-        29,
-        17
-      ],
-      "ev": [
-        1,
-        2,
-        1,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Psicogénesis",
-        "Transportarrocas"
-      ],
-      "abilHidden": [
-        "Recogebolas"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Recuperación"
-        },
-        {
-          "lvl": 1,
-          "m": "Mimético"
-        },
-        {
-          "lvl": 1,
-          "m": "Destello"
-        },
-        {
-          "lvl": 4,
-          "m": "Defensa Floral"
-        },
-        {
-          "lvl": 8,
-          "m": "Burbuja"
-        },
-        {
-          "lvl": 10,
-          "m": "Zona Mágica"
-        },
-        {
-          "lvl": 12,
-          "m": "Antiaéreo"
-        },
-        {
-          "lvl": 16,
-          "m": "Llama Protectora"
-        },
-        {
-          "lvl": 20,
-          "m": "Hoja Mágica"
-        },
-        {
-          "lvl": 24,
-          "m": "Acua Aro"
-        },
-        {
-          "lvl": 28,
-          "m": "Embargo"
-        },
-        {
-          "lvl": 32,
-          "m": "Demolición"
-        },
-        {
-          "lvl": 36,
-          "m": "Humareda"
-        },
-        {
-          "lvl": 40,
-          "m": "Tornado"
-        },
-        {
-          "lvl": 44,
-          "m": "Tajo Acuático"
-        },
-        {
-          "lvl": 48,
-          "m": "Hidrochorro"
-        },
-        {
-          "lvl": 52,
-          "m": "Atrapabicho"
-        }
-      ],
-      "tmMoves": [
-        "Agua Fría",
-        "Atracción",
-        "Bombardeo",
-        "Calcinación",
-        "Chapoteo Lodo",
-        "Chirrido",
-        "Cuerpo Pesado",
-        "Golpe Bajo",
-        "Perforador",
-        "Polvo Mágico",
-        "Remolino",
-        "Rueda Fuego",
-        "Vendetta"
-      ],
-      "firstMoves": [
-        "Zona Mágica",
-        "Antiaéreo",
-        "Llama Protectora",
-        "Hoja Mágica"
-      ],
-      "spriteKey": "CORPHISH",
-      "cause": "",
-      "route": "Ruta 6",
-      "date": ""
-    },
-    {
       "nickname": "Pulir Cera",
       "species": "Meditite",
       "level": 17,
@@ -2640,6 +2521,262 @@
       "cause": "",
       "route": "Ciudad Plateada",
       "date": ""
+    },
+    {
+      "nickname": "Calimero",
+      "species": "Capsakid",
+      "level": 25,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Ilusión",
+      "nature": "Firme",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Fotosíntesis",
+        "Abrecaminos",
+        "Agua Fría",
+        "Patada Baja"
+      ],
+      "iv": [
+        17,
+        19,
+        21,
+        10,
+        8,
+        4
+      ],
+      "ev": [
+        15,
+        22,
+        22,
+        17,
+        19,
+        29
+      ],
+      "abilPool": [
+        "Carga Cuark",
+        "Ilusión"
+      ],
+      "abilHidden": [
+        "Manto Níveo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 1,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 1,
+          "m": "Agua Fría"
+        },
+        {
+          "lvl": 4,
+          "m": "Patada Baja"
+        },
+        {
+          "lvl": 10,
+          "m": "Abrecaminos"
+        },
+        {
+          "lvl": 13,
+          "m": "Fitoimpulso"
+        },
+        {
+          "lvl": 17,
+          "m": "Absorber"
+        },
+        {
+          "lvl": 21,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 24,
+          "m": "Gravedad"
+        },
+        {
+          "lvl": 28,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 38,
+          "m": "Vozarrón"
+        },
+        {
+          "lvl": 44,
+          "m": "Núcleo Castigo"
+        },
+        {
+          "lvl": 48,
+          "m": "Alivio"
+        }
+      ],
+      "tmMoves": [
+        "Acupresión",
+        "Bombardeo",
+        "Calcinación",
+        "Carga Tóxica",
+        "Chirrido",
+        "Cola Dragón",
+        "Conversión2",
+        "Cuerpo Pesado",
+        "Golpe Bajo",
+        "Golpe Rastrero",
+        "Meditación",
+        "Polvo Veneno",
+        "Remolino",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Fotosíntesis",
+        "Semilladora",
+        "Agua Fría"
+      ],
+      "spriteKey": "CAPSAKID",
+      "cause": "",
+      "route": "Pueblo Paleta",
+      "date": ""
+    },
+    {
+      "nickname": "MisterCrab",
+      "species": "Corphish",
+      "level": 24,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Transportarrocas",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Golpe Bajo",
+        "Antiaéreo",
+        "Llama Protectora",
+        "Hoja Mágica"
+      ],
+      "iv": [
+        22,
+        6,
+        7,
+        10,
+        29,
+        17
+      ],
+      "ev": [
+        1,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Psicogénesis",
+        "Transportarrocas"
+      ],
+      "abilHidden": [
+        "Recogebolas"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Recuperación"
+        },
+        {
+          "lvl": 1,
+          "m": "Mimético"
+        },
+        {
+          "lvl": 1,
+          "m": "Destello"
+        },
+        {
+          "lvl": 4,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 8,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 10,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 12,
+          "m": "Antiaéreo"
+        },
+        {
+          "lvl": 16,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 20,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 24,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 28,
+          "m": "Embargo"
+        },
+        {
+          "lvl": 32,
+          "m": "Demolición"
+        },
+        {
+          "lvl": 36,
+          "m": "Humareda"
+        },
+        {
+          "lvl": 40,
+          "m": "Tornado"
+        },
+        {
+          "lvl": 44,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 48,
+          "m": "Hidrochorro"
+        },
+        {
+          "lvl": 52,
+          "m": "Atrapabicho"
+        }
+      ],
+      "tmMoves": [
+        "Agua Fría",
+        "Atracción",
+        "Bombardeo",
+        "Calcinación",
+        "Chapoteo Lodo",
+        "Chirrido",
+        "Cuerpo Pesado",
+        "Golpe Bajo",
+        "Perforador",
+        "Polvo Mágico",
+        "Remolino",
+        "Rueda Fuego",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Zona Mágica",
+        "Antiaéreo",
+        "Llama Protectora",
+        "Hoja Mágica"
+      ],
+      "spriteKey": "CORPHISH",
+      "cause": "",
+      "route": "Ruta 6",
+      "date": ""
     }
   ],
   "captures": [
@@ -2653,17 +2790,6 @@
       "category": "salvaje",
       "level": 6,
       "mon": "Koffing"
-    },
-    {
-      "route": "pueblo_paleta",
-      "where": "Pueblo Paleta",
-      "species": "Capsakid",
-      "nickname": "Calimero",
-      "shiny": false,
-      "status": "dead",
-      "category": "ciudad",
-      "level": 3,
-      "mon": "Capsakid"
     },
     {
       "route": "ruta_1",
@@ -2710,6 +2836,17 @@
       "mon": "Clefairy"
     },
     {
+      "route": "ruta_5",
+      "where": "Ruta 5",
+      "species": "Baltoy",
+      "nickname": "Eye of Rah",
+      "shiny": true,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 21,
+      "mon": "Baltoy"
+    },
+    {
       "route": "",
       "where": "Museo Pokémon",
       "species": "Cutiefly",
@@ -2730,17 +2867,6 @@
       "category": "ciudad",
       "level": 10,
       "mon": "Ferroseed"
-    },
-    {
-      "route": "ruta_6",
-      "where": "Ruta 6",
-      "species": "Corphish",
-      "nickname": "MisterCrab",
-      "shiny": false,
-      "status": "dead",
-      "category": "salvaje",
-      "level": 22,
-      "mon": "Corphish"
     },
     {
       "route": "ciudad_celeste",
@@ -2873,6 +2999,28 @@
       "category": "ciudad",
       "level": 10,
       "mon": "Geodude"
+    },
+    {
+      "route": "pueblo_paleta",
+      "where": "Pueblo Paleta",
+      "species": "Capsakid",
+      "nickname": "Calimero",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 3,
+      "mon": "Capsakid"
+    },
+    {
+      "route": "ruta_6",
+      "where": "Ruta 6",
+      "species": "Corphish",
+      "nickname": "MisterCrab",
+      "shiny": false,
+      "status": "dead",
+      "category": "salvaje",
+      "level": 22,
+      "mon": "Corphish"
     }
   ],
   "progress": {
@@ -2884,12 +3032,11 @@
     "npcs": {},
     "routes": {
       "ruta_22": true,
-      "pueblo_paleta": true,
       "ruta_1": true,
       "ciudad_verde": true,
       "bosque_verde": true,
+      "ruta_5": true,
       "ciudad_plateada": true,
-      "ruta_6": true,
       "ciudad_celeste": true,
       "ruta_3": true,
       "monte_moon": true,
@@ -2898,9 +3045,10 @@
       "ruta_21": true,
       "ciudad_carmin": true,
       "ruta_2_sur": true,
+      "pueblo_paleta": true,
+      "ruta_6": true,
       "ruta_2_norte": true,
-      "ruta_20": true,
-      "ruta_5": true
+      "ruta_20": true
     },
     "items": {},
     "encounters": {
@@ -3168,12 +3316,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "SHINYZADOR",
-        "name": "Shinyzador",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "NEVERMELTICE",
         "name": "Hielo Perpetuo",
         "qty": 2,
@@ -3230,7 +3372,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 938,
+        "qty": 933,
         "pocket": "Medicinas"
       },
       {
@@ -3326,7 +3468,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 20,
+        "qty": 19,
         "pocket": "Poké Balls"
       },
       {
@@ -3612,8 +3754,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
