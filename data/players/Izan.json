@@ -2,14 +2,14 @@
   "id": "Izan",
   "name": "Izan",
   "lives": 30,
-  "livesUsed": 3,
+  "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 6h 48m jugadas · 29,020₽ · vidas en el juego: 25",
+  "notes": "Importado del save · 7h 4m jugadas · 32,450₽ · vidas en el juego: 24",
   "team": [
     {
       "nickname": "Coffe",
       "species": "Koffing",
-      "level": 24,
+      "level": 25,
       "types": [
         "Veneno"
       ],
@@ -32,9 +32,9 @@
         24
       ],
       "ev": [
-        14,
-        19,
-        18,
+        15,
+        21,
+        20,
         16,
         18,
         28
@@ -158,9 +158,9 @@
         4
       ],
       "ev": [
-        14,
-        20,
-        20,
+        15,
+        22,
+        22,
         16,
         19,
         29
@@ -252,7 +252,7 @@
     {
       "nickname": "Ninja Gaiden",
       "species": "Ninjask",
-      "level": 24,
+      "level": 25,
       "types": [
         "Bicho",
         "Volador"
@@ -276,9 +276,9 @@
         4
       ],
       "ev": [
-        14,
-        20,
-        19,
+        15,
+        22,
+        21,
         16,
         19,
         29
@@ -436,9 +436,9 @@
         16
       ],
       "ev": [
-        14,
-        20,
-        19,
+        15,
+        22,
+        21,
         16,
         19,
         28
@@ -586,9 +586,9 @@
         18
       ],
       "ev": [
-        8,
-        17,
-        14,
+        9,
+        19,
+        16,
         16,
         17,
         25
@@ -701,29 +701,30 @@
       "spriteKey": "BEAUTIFLY"
     },
     {
-      "nickname": "MisterCrab",
-      "species": "Corphish",
-      "level": 24,
+      "nickname": "Clefairy",
+      "species": "Clefairy",
+      "level": 25,
       "types": [
-        "Agua"
+        "Hada"
       ],
-      "ability": "Transportarrocas",
-      "nature": "Tímida",
+      "ability": "Bromista",
+      "nature": "Agitada",
       "item": "",
       "shiny": false,
       "moves": [
-        "Golpe Bajo",
-        "Antiaéreo",
-        "Llama Protectora",
-        "Hoja Mágica"
+        "Bostezo",
+        "Viento Feérico",
+        "Beso Dulce",
+        "Última Palabra"
       ],
+      "origin": "don_prodigio",
       "iv": [
-        22,
-        6,
-        7,
-        10,
-        29,
-        17
+        24,
+        31,
+        25,
+        30,
+        27,
+        25
       ],
       "ev": [
         0,
@@ -734,104 +735,159 @@
         0
       ],
       "abilPool": [
-        "Psicogénesis",
-        "Transportarrocas"
+        "Bromista",
+        "Hurto"
       ],
       "abilHidden": [
-        "Recogebolas"
+        "Relincho Negro"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Recuperación"
+          "m": "Puño Incremento"
         },
         {
           "lvl": 1,
-          "m": "Mimético"
+          "m": "Bola Voltio"
         },
         {
           "lvl": 1,
-          "m": "Destello"
+          "m": "Deseo Cura"
+        },
+        {
+          "lvl": 1,
+          "m": "Ráfaga Escamas"
+        },
+        {
+          "lvl": 1,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 1,
+          "m": "Agarrón"
+        },
+        {
+          "lvl": 1,
+          "m": "Palmeo"
+        },
+        {
+          "lvl": 1,
+          "m": "Última Palabra"
+        },
+        {
+          "lvl": 1,
+          "m": "Viento Feérico"
         },
         {
           "lvl": 4,
-          "m": "Defensa Floral"
+          "m": "Polución"
         },
         {
           "lvl": 8,
-          "m": "Burbuja"
+          "m": "Danza Amiga"
+        },
+        {
+          "lvl": 8,
+          "m": "Bostezo"
         },
         {
           "lvl": 10,
-          "m": "Zona Mágica"
+          "m": "Picotazo"
         },
         {
           "lvl": 12,
-          "m": "Antiaéreo"
+          "m": "Purificación"
+        },
+        {
+          "lvl": 13,
+          "m": "Beso Dulce"
         },
         {
           "lvl": 16,
-          "m": "Llama Protectora"
+          "m": "Impresionar"
+        },
+        {
+          "lvl": 19,
+          "m": "Truco Defensa"
         },
         {
           "lvl": 20,
-          "m": "Hoja Mágica"
+          "m": "Paliza"
+        },
+        {
+          "lvl": 22,
+          "m": "Disparo Espejo"
         },
         {
           "lvl": 24,
-          "m": "Acua Aro"
+          "m": "Golpe Aéreo"
         },
         {
           "lvl": 28,
-          "m": "Embargo"
+          "m": "Mundo Gélido"
         },
         {
           "lvl": 32,
-          "m": "Demolición"
+          "m": "Clorofiláser"
+        },
+        {
+          "lvl": 32,
+          "m": "Fuerza Telúrica"
         },
         {
           "lvl": 36,
-          "m": "Humareda"
+          "m": "Geocontrol"
+        },
+        {
+          "lvl": 37,
+          "m": "Cola Férrea"
         },
         {
           "lvl": 40,
-          "m": "Tornado"
+          "m": "Distorsión"
+        },
+        {
+          "lvl": 40,
+          "m": "Patada Ígnea"
         },
         {
           "lvl": 44,
-          "m": "Tajo Acuático"
+          "m": "Canto Ardiente"
+        },
+        {
+          "lvl": 46,
+          "m": "Moflete Estático"
         },
         {
           "lvl": 48,
-          "m": "Hidrochorro"
-        },
-        {
-          "lvl": 52,
-          "m": "Atrapabicho"
+          "m": "Barrera Espinosa"
         }
       ],
       "tmMoves": [
-        "Agua Fría",
-        "Atracción",
-        "Bombardeo",
+        "Brecha Negra",
         "Calcinación",
-        "Chapoteo Lodo",
+        "Cambiapoder",
         "Chirrido",
+        "Cola Dragón",
         "Cuerpo Pesado",
-        "Golpe Bajo",
-        "Perforador",
+        "Electrificación",
+        "Giro Rápido",
+        "Gravedad",
+        "Meditación",
         "Polvo Mágico",
+        "Polvo Veneno",
+        "Puño Jet",
         "Remolino",
-        "Rueda Fuego",
+        "Vaho Gélido",
         "Vendetta"
       ],
       "firstMoves": [
-        "Zona Mágica",
-        "Antiaéreo",
-        "Llama Protectora",
-        "Hoja Mágica"
+        "Picotazo",
+        "Purificación",
+        "Beso Dulce",
+        "Impresionar"
       ],
-      "spriteKey": "CORPHISH"
+      "spriteKey": "CLEFAIRY"
     }
   ],
   "box": [
@@ -1655,147 +1711,6 @@
       "spriteKey": "WOOBAT"
     },
     {
-      "nickname": "Mansa Musa",
-      "species": "Munna",
-      "level": 18,
-      "types": [
-        "Psíquico"
-      ],
-      "ability": "Rezagado",
-      "nature": "Miedosa",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Isofuerza",
-        "Arrumaco",
-        "Zona Extraña",
-        "Polvo Mágico"
-      ],
-      "iv": [
-        25,
-        7,
-        4,
-        1,
-        4,
-        10
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Rezagado",
-        "Agallas"
-      ],
-      "abilHidden": [
-        "Poder Sabio"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Restricción"
-        },
-        {
-          "lvl": 1,
-          "m": "Campo Psíquico"
-        },
-        {
-          "lvl": 1,
-          "m": "Agarrón"
-        },
-        {
-          "lvl": 4,
-          "m": "Reflejo"
-        },
-        {
-          "lvl": 5,
-          "m": "Patada Giro"
-        },
-        {
-          "lvl": 8,
-          "m": "Isofuerza"
-        },
-        {
-          "lvl": 12,
-          "m": "Arrumaco"
-        },
-        {
-          "lvl": 13,
-          "m": "Zona Extraña"
-        },
-        {
-          "lvl": 16,
-          "m": "Polvo Mágico"
-        },
-        {
-          "lvl": 20,
-          "m": "Sellar"
-        },
-        {
-          "lvl": 24,
-          "m": "Cambiadefensa"
-        },
-        {
-          "lvl": 25,
-          "m": "Profecía"
-        },
-        {
-          "lvl": 28,
-          "m": "Sol Matinal"
-        },
-        {
-          "lvl": 29,
-          "m": "Calcinación"
-        },
-        {
-          "lvl": 32,
-          "m": "Vendaval"
-        },
-        {
-          "lvl": 36,
-          "m": "Danza Pluma"
-        },
-        {
-          "lvl": 39,
-          "m": "Resarcimiento"
-        },
-        {
-          "lvl": 40,
-          "m": "Poder Oculto"
-        },
-        {
-          "lvl": 43,
-          "m": "Anclaje"
-        },
-        {
-          "lvl": 44,
-          "m": "Reserva"
-        },
-        {
-          "lvl": 48,
-          "m": "Respiro"
-        },
-        {
-          "lvl": 52,
-          "m": "Danza Despertar"
-        }
-      ],
-      "tmMoves": [
-        "Conversión2"
-      ],
-      "firstMoves": [
-        "Isofuerza",
-        "Arrumaco",
-        "Zona Extraña",
-        "Polvo Mágico"
-      ],
-      "spriteKey": "MUNNA"
-    },
-    {
       "nickname": "Taruma",
       "species": "Darumaka",
       "level": 21,
@@ -2154,6 +2069,142 @@
     }
   ],
   "graveyard": [
+    {
+      "nickname": "MisterCrab",
+      "species": "Corphish",
+      "level": 24,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Transportarrocas",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Golpe Bajo",
+        "Antiaéreo",
+        "Llama Protectora",
+        "Hoja Mágica"
+      ],
+      "iv": [
+        22,
+        6,
+        7,
+        10,
+        29,
+        17
+      ],
+      "ev": [
+        1,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Psicogénesis",
+        "Transportarrocas"
+      ],
+      "abilHidden": [
+        "Recogebolas"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Recuperación"
+        },
+        {
+          "lvl": 1,
+          "m": "Mimético"
+        },
+        {
+          "lvl": 1,
+          "m": "Destello"
+        },
+        {
+          "lvl": 4,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 8,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 10,
+          "m": "Zona Mágica"
+        },
+        {
+          "lvl": 12,
+          "m": "Antiaéreo"
+        },
+        {
+          "lvl": 16,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 20,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 24,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 28,
+          "m": "Embargo"
+        },
+        {
+          "lvl": 32,
+          "m": "Demolición"
+        },
+        {
+          "lvl": 36,
+          "m": "Humareda"
+        },
+        {
+          "lvl": 40,
+          "m": "Tornado"
+        },
+        {
+          "lvl": 44,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 48,
+          "m": "Hidrochorro"
+        },
+        {
+          "lvl": 52,
+          "m": "Atrapabicho"
+        }
+      ],
+      "tmMoves": [
+        "Agua Fría",
+        "Atracción",
+        "Bombardeo",
+        "Calcinación",
+        "Chapoteo Lodo",
+        "Chirrido",
+        "Cuerpo Pesado",
+        "Golpe Bajo",
+        "Perforador",
+        "Polvo Mágico",
+        "Remolino",
+        "Rueda Fuego",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Zona Mágica",
+        "Antiaéreo",
+        "Llama Protectora",
+        "Hoja Mágica"
+      ],
+      "spriteKey": "CORPHISH",
+      "cause": "",
+      "route": "Ruta 6",
+      "date": ""
+    },
     {
       "nickname": "Pulir Cera",
       "species": "Meditite",
@@ -2645,15 +2696,15 @@
       "mon": "Beautifly"
     },
     {
-      "route": "ruta_6",
-      "where": "Ruta 6",
-      "species": "Corphish",
-      "nickname": "MisterCrab",
+      "route": "",
+      "where": "S.S Anne",
+      "species": "Clefairy",
+      "nickname": "",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 22,
-      "mon": "Corphish"
+      "category": "intercambio",
+      "level": 18,
+      "mon": "Clefairy"
     },
     {
       "route": "",
@@ -2676,6 +2727,17 @@
       "category": "ciudad",
       "level": 10,
       "mon": "Ferroseed"
+    },
+    {
+      "route": "ruta_6",
+      "where": "Ruta 6",
+      "species": "Corphish",
+      "nickname": "MisterCrab",
+      "shiny": false,
+      "status": "dead",
+      "category": "salvaje",
+      "level": 22,
+      "mon": "Corphish"
     },
     {
       "route": "ciudad_celeste",
@@ -2742,17 +2804,6 @@
       "category": "salvaje",
       "level": 17,
       "mon": "Woobat"
-    },
-    {
-      "route": "ruta_20",
-      "where": "Ruta 20",
-      "species": "Munna",
-      "nickname": "Mansa Musa",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 18,
-      "mon": "Munna"
     },
     {
       "route": "ruta_21",
@@ -2834,18 +2885,18 @@
       "ruta_1": true,
       "ciudad_verde": true,
       "bosque_verde": true,
-      "ruta_6": true,
       "ciudad_plateada": true,
+      "ruta_6": true,
       "ciudad_celeste": true,
       "ruta_3": true,
       "monte_moon": true,
       "monte_moon_exterior": true,
       "ruta_4": true,
-      "ruta_20": true,
       "ruta_21": true,
       "ciudad_carmin": true,
       "ruta_2_sur": true,
       "ruta_2_norte": true,
+      "ruta_20": true,
       "ruta_5": true
     },
     "items": {},
@@ -2906,7 +2957,8 @@
       185,
       323,
       334,
-      364
+      364,
+      365
     ],
     "foundItems": [
       "Activaobjeto",
@@ -2931,6 +2983,7 @@
       "Franja Recia",
       "Gafas de Sol",
       "Galleta Lava",
+      "Gema Fantasma",
       "Griseosfera",
       "Hielo Perpetuo",
       "Hierba Mental",
@@ -2991,6 +3044,7 @@
       "Reglamento",
       "Rokikos",
       "Sana Ball",
+      "Saquito Fragante",
       "Shinyzador",
       "Supercaña",
       "Tabla Legendaria",
@@ -3118,7 +3172,7 @@
       {
         "id": "NEVERMELTICE",
         "name": "Hielo Perpetuo",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -3146,6 +3200,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "GHOSTGEM",
+        "name": "Gema Fantasma",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SACHET",
+        "name": "Saquito Fragante",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HPUP",
         "name": "Más PS",
         "qty": 1,
@@ -3160,7 +3226,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 945,
+        "qty": 938,
         "pocket": "Medicinas"
       },
       {
@@ -3536,8 +3602,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
@@ -3613,7 +3679,8 @@
     "1858370642",
     "1609471897",
     "2137204219",
-    "3458347518"
+    "3458347518",
+    "945441643"
   ],
   "revividos": 25
 }
