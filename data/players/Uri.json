@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 20h 28m jugadas · 137,640₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 20h 32m jugadas · 115,240₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 46,
+      "level": 47,
       "types": [
         "Agua",
         "Tierra"
@@ -36,7 +36,7 @@
         39,
         105,
         70,
-        57,
+        59,
         60,
         79
       ],
@@ -184,7 +184,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 46,
+      "level": 47,
       "types": [
         "Hada",
         "Acero"
@@ -211,7 +211,7 @@
         16,
         65,
         40,
-        29,
+        31,
         25,
         46
       ],
@@ -349,7 +349,7 @@
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 46,
+      "level": 47,
       "types": [
         "Planta",
         "Veneno"
@@ -378,7 +378,7 @@
         21,
         76,
         43,
-        42,
+        44,
         36,
         50
       ],
@@ -530,7 +530,7 @@
         21,
         79,
         51,
-        37,
+        39,
         38,
         53
       ],
@@ -658,7 +658,7 @@
     {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 46,
+      "level": 47,
       "types": [
         "Planta"
       ],
@@ -684,7 +684,7 @@
         6,
         29,
         20,
-        10,
+        12,
         5,
         9
       ],
@@ -818,7 +818,7 @@
     {
       "nickname": "Rem",
       "species": "Gothitelle",
-      "level": 46,
+      "level": 47,
       "types": [
         "Psíquico"
       ],
@@ -844,7 +844,7 @@
         16,
         58,
         36,
-        27,
+        29,
         23,
         33
       ],
@@ -5565,6 +5565,7 @@
       "Fósil Hélix",
       "Fósil Pluma",
       "Franja Recia",
+      "Gafas Elección",
       "Galleta Yantra",
       "Garra Garfio",
       "Gema Bicho",
@@ -5690,6 +5691,7 @@
       "Reglamento",
       "Resguardo",
       "Resistfeather",
+      "Revivir",
       "Roca Suave",
       "Sana Ball",
       "Scapsula",
@@ -5714,7 +5716,7 @@
       {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
-        "qty": 3,
+        "qty": 4,
         "pocket": "Objetos"
       },
       {
@@ -5930,7 +5932,7 @@
       {
         "id": "BUGGEM",
         "name": "Gema Bicho",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -5972,6 +5974,12 @@
       {
         "id": "PROTECTIVEPADS",
         "name": "Paracontacto",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "CHOICESPECS",
+        "name": "Gafas Elección",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -6044,6 +6052,12 @@
       {
         "id": "HEALTHFEATHER",
         "name": "Pluma Salud",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "REVIVE",
+        "name": "Revivir",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -6192,6 +6206,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM05",
+        "name": "MT05",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM06",
         "name": "MT06",
         "qty": 1,
@@ -6204,6 +6224,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM09",
+        "name": "MT09",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM11",
         "name": "MT11",
         "qty": 1,
@@ -6212,6 +6238,12 @@
       {
         "id": "TM12",
         "name": "MT12",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM13",
+        "name": "MT13",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -6252,6 +6284,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM27",
+        "name": "MT27",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM30",
         "name": "MT30",
         "qty": 1,
@@ -6278,6 +6316,12 @@
       {
         "id": "TM36",
         "name": "MT36",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM38",
+        "name": "MT38",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -6344,6 +6388,12 @@
       {
         "id": "TM51",
         "name": "MT51",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM52",
+        "name": "MT52",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -6422,6 +6472,18 @@
       {
         "id": "TM69",
         "name": "MT69",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM70",
+        "name": "MT70",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM71",
+        "name": "MT71",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -6570,6 +6632,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM106",
+        "name": "MT106",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM108",
         "name": "MT108",
         "qty": 1,
@@ -6584,6 +6652,12 @@
       {
         "id": "TM110",
         "name": "MT110",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM111",
+        "name": "MT111",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
