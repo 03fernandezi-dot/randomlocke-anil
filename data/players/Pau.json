@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": false,
-  "notes": "Importado del save · 9h 22m jugadas · 316,370₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 9h 29m jugadas · 326,870₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Hedwig",
       "species": "Decidueye",
-      "level": 42,
+      "level": 43,
       "types": [
         "Planta",
         "Fantasma"
@@ -33,12 +33,12 @@
         15
       ],
       "ev": [
-        41,
-        81,
+        42,
+        84,
         39,
-        35,
+        39,
         33,
-        43
+        46
       ],
       "abilPool": [
         "Encadenado",
@@ -173,7 +173,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 41,
+      "level": 42,
       "types": [
         "Psíquico",
         "Volador"
@@ -197,12 +197,12 @@
         20
       ],
       "ev": [
-        20,
-        27,
+        21,
+        30,
         22,
-        14,
+        18,
         17,
-        13
+        16
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -312,7 +312,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 42,
+      "level": 43,
       "types": [
         "Eléctrico"
       ],
@@ -335,12 +335,12 @@
         19
       ],
       "ev": [
-        38,
-        79,
+        39,
+        82,
         42,
-        41,
+        45,
         37,
-        46
+        49
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -475,7 +475,7 @@
     {
       "nickname": "Mocardo",
       "species": "Muk",
-      "level": 42,
+      "level": 43,
       "types": [
         "Veneno"
       ],
@@ -498,12 +498,12 @@
         26
       ],
       "ev": [
-        16,
-        31,
+        17,
+        34,
         9,
-        15,
+        19,
         21,
-        8
+        11
       ],
       "abilPool": [
         "Compiescolta",
@@ -629,7 +629,7 @@
     {
       "nickname": "Willyrex",
       "species": "Tyrantrum",
-      "level": 41,
+      "level": 42,
       "types": [
         "Roca",
         "Dragón"
@@ -653,12 +653,12 @@
         22
       ],
       "ev": [
-        7,
-        7,
+        8,
+        10,
         0,
-        5,
+        9,
         3,
-        3
+        6
       ],
       "abilPool": [
         "Ignorante"
@@ -759,7 +759,7 @@
     {
       "nickname": "Bicharraco",
       "species": "Golurk",
-      "level": 42,
+      "level": 43,
       "types": [
         "Tierra",
         "Fantasma"
@@ -783,12 +783,12 @@
         27
       ],
       "ev": [
-        43,
-        54,
+        44,
+        57,
         41,
-        31,
+        35,
         29,
-        38
+        41
       ],
       "abilPool": [
         "Madrugar"
@@ -4208,6 +4208,129 @@
         "Fuerza G"
       ],
       "spriteKey": "MINIOR_12"
+    },
+    {
+      "nickname": "Novia?",
+      "species": "Noibat",
+      "level": 42,
+      "types": [
+        "Volador",
+        "Dragón"
+      ],
+      "ability": "Rumia",
+      "nature": "Plácida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Concha Filo",
+        "Kinético",
+        "Arremetida",
+        "Puño Fuego"
+      ],
+      "iv": [
+        17,
+        19,
+        23,
+        11,
+        18,
+        12
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Punto Tóxico",
+        "Rumia"
+      ],
+      "abilHidden": [
+        "Escama Especial"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Dragoaliento"
+        },
+        {
+          "lvl": 1,
+          "m": "Estruendo Escama"
+        },
+        {
+          "lvl": 4,
+          "m": "Impresionar"
+        },
+        {
+          "lvl": 5,
+          "m": "Bramido Dragón"
+        },
+        {
+          "lvl": 8,
+          "m": "Cambio de Banda"
+        },
+        {
+          "lvl": 12,
+          "m": "Fachada"
+        },
+        {
+          "lvl": 16,
+          "m": "Infortunio"
+        },
+        {
+          "lvl": 18,
+          "m": "Furia"
+        },
+        {
+          "lvl": 20,
+          "m": "Sonámbulo"
+        },
+        {
+          "lvl": 24,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 28,
+          "m": "Tenaza"
+        },
+        {
+          "lvl": 31,
+          "m": "Concha Filo"
+        },
+        {
+          "lvl": 32,
+          "m": "Kinético"
+        },
+        {
+          "lvl": 36,
+          "m": "Arremetida"
+        },
+        {
+          "lvl": 40,
+          "m": "Puño Fuego"
+        },
+        {
+          "lvl": 44,
+          "m": "Joltioparálisis"
+        },
+        {
+          "lvl": 49,
+          "m": "Bote"
+        },
+        {
+          "lvl": 52,
+          "m": "Giro Vil"
+        }
+      ],
+      "firstMoves": [
+        "Concha Filo",
+        "Kinético",
+        "Arremetida",
+        "Puño Fuego"
+      ],
+      "spriteKey": "NOIBAT"
     }
   ],
   "graveyard": [
@@ -5553,6 +5676,17 @@
       "mon": "Minior"
     },
     {
+      "route": "ruta_13",
+      "where": "Ruta 13",
+      "species": "Noibat",
+      "nickname": "Novia?",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 42,
+      "mon": "Noibat"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -5663,6 +5797,7 @@
       "ruta_12": true,
       "torre_pokemon": true,
       "pueblo_marengo": true,
+      "ruta_13": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_10_sur": true,
@@ -5706,7 +5841,8 @@
       "ruta_11": true,
       "ciudad_azulona": true,
       "torre_pokemon": true,
-      "pueblo_marengo": true
+      "pueblo_marengo": true,
+      "ruta_13": true
     },
     "switches": [
       48,
@@ -5803,6 +5939,7 @@
       "Cascabel Concha",
       "Cenizas Sagradas",
       "Chaleco Asalto",
+      "Chesnaughtite",
       "Cinto Recio",
       "Cleverfeather",
       "Competi Ball",
@@ -5832,6 +5969,7 @@
       "Manuscrito Sombras",
       "Más PP",
       "Más PS",
+      "Mega-Aro",
       "Menta Afable",
       "Menta Audaz",
       "Menta Huraña",
@@ -5909,8 +6047,11 @@
       "Real Plata",
       "Reglamento",
       "Resguardo",
+      "Rillaboomite",
       "Roca Calor",
+      "Roca Suave",
       "Scapsula",
+      "Sceptilita",
       "Seguro Debilidad",
       "Semilla Bruma",
       "Servicio Raro",
@@ -5926,6 +6067,7 @@
       "Ultra Ball",
       "Velocidad X 3",
       "Velocidad X 6",
+      "Venusauritex",
       "Vial",
       "Visor Silph",
       "Zinc"
@@ -6154,6 +6296,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "SMOOTHROCK",
+        "name": "Roca Suave",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -6168,7 +6316,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 302,
+        "qty": 300,
         "pocket": "Medicinas"
       },
       {
@@ -6336,13 +6484,13 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 9,
+        "qty": 8,
         "pocket": "Poké Balls"
       },
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 9,
+        "qty": 8,
         "pocket": "Poké Balls"
       },
       {
@@ -6648,7 +6796,7 @@
       {
         "id": "HONDEWBERRY",
         "name": "Baya Meluce",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Bayas"
       },
       {
@@ -6686,6 +6834,30 @@
         "name": "Baya Maranga",
         "qty": 1,
         "pocket": "Bayas"
+      },
+      {
+        "id": "VENUSAURITEX",
+        "name": "Venusauritex",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
+        "id": "SCEPTILITE",
+        "name": "Sceptilita",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
+        "id": "CHESNAUGHTITE",
+        "name": "Chesnaughtite",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
+        "id": "RILLABOOMITE",
+        "name": "Rillaboomite",
+        "qty": 1,
+        "pocket": "Piedras Mega"
       },
       {
         "id": "XSPEED6",
@@ -6810,6 +6982,12 @@
       {
         "id": "RESGUARDO",
         "name": "Resguardo",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "MEGARING",
+        "name": "Mega-Aro",
         "qty": 1,
         "pocket": "Objetos clave"
       }
