@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": false,
-  "notes": "Importado del save · 9h 38m jugadas · 232,930₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 9h 44m jugadas · 137,230₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Hedwig",
@@ -34,9 +34,9 @@
       ],
       "ev": [
         45,
-        86,
+        90,
         40,
-        40,
+        42,
         38,
         48
       ],
@@ -151,10 +151,13 @@
       ],
       "tmMoves": [
         "Alarido",
+        "As Oculto",
         "Llave Corsé",
+        "Onda Tóxica",
         "Piñón Auxiliar",
         "Pulso de Campo",
         "Purificación",
+        "Rencor Reprimido",
         "Represión Metal",
         "Restricción",
         "Sacrificio",
@@ -171,143 +174,162 @@
       "spriteKey": "DECIDUEYE"
     },
     {
-      "nickname": "Ruffles",
-      "species": "Braviary (Hisui)",
+      "nickname": "Mocardo",
+      "species": "Muk",
       "level": 44,
       "types": [
-        "Psíquico",
-        "Volador"
+        "Veneno"
       ],
-      "ability": "Piel Tétrica",
-      "nature": "Rara",
-      "item": "Periscopio",
+      "ability": "Compiescolta",
+      "nature": "Plácida",
+      "item": "Lodo Negro",
       "shiny": false,
       "moves": [
-        "Pulso de Campo",
-        "Viento Plata",
-        "Arenas Ardientes",
-        "Esfera Aural"
+        "Cola Veneno",
+        "Superdiente",
+        "Escudo Real",
+        "Púas Tóxicas"
       ],
       "iv": [
-        29,
-        12,
-        24,
-        24,
-        27,
-        20
+        25,
+        26,
+        25,
+        20,
+        30,
+        26
       ],
       "ev": [
-        24,
-        32,
-        23,
-        19,
+        20,
+        40,
+        10,
         22,
-        18
+        26,
+        13
       ],
       "abilPool": [
-        "Piel Tétrica",
-        "Insonorizar"
+        "Compiescolta",
+        "Manto Níveo"
       ],
       "abilHidden": [
-        "Iluminación"
+        "Motor Hadrónico"
       ],
       "learnset": [
         {
           "lvl": 0,
-          "m": "Velo Sagrado"
+          "m": "Púas Tóxicas"
         },
         {
           "lvl": 1,
-          "m": "Canto"
+          "m": "Ácido"
         },
         {
           "lvl": 1,
-          "m": "Aullido"
+          "m": "Sísmico"
         },
         {
           "lvl": 1,
-          "m": "Hidrochorro"
+          "m": "Camuflaje"
         },
         {
-          "lvl": 1,
-          "m": "Brazo Pincho"
+          "lvl": 7,
+          "m": "Chapoteo Lodo"
         },
         {
-          "lvl": 1,
-          "m": "Afilagarras"
+          "lvl": 12,
+          "m": "Cola Veneno"
         },
         {
-          "lvl": 1,
-          "m": "Impresionar"
+          "lvl": 15,
+          "m": "Polvo Veneno"
         },
         {
           "lvl": 18,
-          "m": "Isoguardia"
+          "m": "Pantalla de Luz"
         },
         {
-          "lvl": 24,
-          "m": "Hilo Venenoso"
+          "lvl": 18,
+          "m": "Bomba Ácida"
         },
         {
-          "lvl": 30,
-          "m": "Canto Mortal"
+          "lvl": 21,
+          "m": "Octopresa"
         },
         {
-          "lvl": 36,
-          "m": "Atiborramiento"
+          "lvl": 21,
+          "m": "Maldición"
         },
         {
-          "lvl": 42,
-          "m": "Empujón"
+          "lvl": 26,
+          "m": "Golpe Aéreo"
         },
         {
-          "lvl": 48,
-          "m": "Puños Plasma"
+          "lvl": 26,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 29,
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 29,
+          "m": "Tornado"
+        },
+        {
+          "lvl": 32,
+          "m": "Superdiente"
+        },
+        {
+          "lvl": 37,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 40,
+          "m": "Retribución"
+        },
+        {
+          "lvl": 46,
+          "m": "Gas Venenoso"
+        },
+        {
+          "lvl": 52,
+          "m": "Halloween"
         },
         {
           "lvl": 57,
-          "m": "Garra Dragón"
-        },
-        {
-          "lvl": 64,
-          "m": "Frustración"
-        },
-        {
-          "lvl": 72,
-          "m": "Paranormal"
-        },
-        {
-          "lvl": 80,
-          "m": "Quemarrueda"
+          "m": "Espabila"
         }
       ],
       "tmMoves": [
         "Alarido",
-        "Arenas Ardientes",
-        "Barrera",
+        "Alboroto",
+        "Asalto Barrera",
+        "Bomba Ácida",
+        "Cabezazo Zen",
         "Carga Parábola",
         "Clavo Cañón",
         "Danza Aleteo",
-        "Esfera Aural",
+        "Decoración",
+        "Deslome",
+        "Electropico",
+        "Estrujón",
         "Gas Corrosivo",
         "Granizo",
-        "Hachazo Pétreo",
+        "Onda Tóxica",
+        "Ovocuración",
         "Pulso de Campo",
+        "Purificación",
         "Represión Metal",
         "Restricción",
-        "Shuriken de Agua",
-        "Vendetta",
-        "Viento Carámbano",
-        "Viento Plata"
+        "Sacrificio",
+        "Vendetta"
       ],
       "firstMoves": [
-        "Veneno X",
-        "Fanfarronear",
-        "Antojo",
-        "Obstrucción"
+        "Paralizador",
+        "Limpieza General",
+        "Presente",
+        "Bomba Imán"
       ],
-      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10240.png",
-      "spriteKey": "BRAVIARY_1"
+      "spriteKey": "MUK"
     },
     {
       "nickname": "Shawn",
@@ -321,7 +343,7 @@
       "item": "Ampharosita",
       "shiny": false,
       "moves": [
-        "Carga Parábola",
+        "Amplificador",
         "Viento Aciago",
         "Pikaturbo",
         "Alarido"
@@ -336,9 +358,9 @@
       ],
       "ev": [
         42,
-        84,
+        88,
         43,
-        46,
+        48,
         42,
         51
       ],
@@ -448,16 +470,21 @@
       ],
       "tmMoves": [
         "Alarido",
+        "Alboroto",
+        "As Oculto",
         "Barrera",
         "Carga Parábola",
         "Chuzos",
         "Danza Aleteo",
         "Decalcomanía",
         "Decoración",
+        "Electropico",
         "Estrujón",
         "Golpe Roca",
         "Granizo",
         "Llave Corsé",
+        "Onda Tóxica",
+        "Palma Rauda",
         "Piñón Auxiliar",
         "Puño Incremento",
         "Rayo Fusión",
@@ -473,158 +500,147 @@
       "spriteKey": "AMPHAROS"
     },
     {
-      "nickname": "Mocardo",
-      "species": "Muk",
+      "nickname": "Ruffles",
+      "species": "Braviary (Hisui)",
       "level": 44,
       "types": [
-        "Veneno"
+        "Psíquico",
+        "Volador"
       ],
-      "ability": "Compiescolta",
-      "nature": "Plácida",
-      "item": "Lodo Negro",
+      "ability": "Piel Tétrica",
+      "nature": "Rara",
+      "item": "Periscopio",
       "shiny": false,
       "moves": [
-        "Cola Veneno",
-        "Superdiente",
-        "Escudo Real",
-        "Púas Tóxicas"
+        "Pulso de Campo",
+        "Viento Plata",
+        "Arenas Ardientes",
+        "Esfera Aural"
       ],
       "iv": [
-        25,
-        26,
-        25,
-        20,
-        30,
-        26
+        29,
+        12,
+        24,
+        24,
+        27,
+        20
       ],
       "ev": [
-        20,
+        24,
         36,
-        10,
-        20,
-        26,
-        13
+        23,
+        21,
+        22,
+        18
       ],
       "abilPool": [
-        "Compiescolta",
-        "Manto Níveo"
+        "Piel Tétrica",
+        "Insonorizar"
       ],
       "abilHidden": [
-        "Motor Hadrónico"
+        "Iluminación"
       ],
       "learnset": [
         {
           "lvl": 0,
-          "m": "Púas Tóxicas"
+          "m": "Velo Sagrado"
         },
         {
           "lvl": 1,
-          "m": "Ácido"
+          "m": "Canto"
         },
         {
           "lvl": 1,
-          "m": "Sísmico"
+          "m": "Aullido"
         },
         {
           "lvl": 1,
-          "m": "Camuflaje"
+          "m": "Hidrochorro"
         },
         {
-          "lvl": 7,
-          "m": "Chapoteo Lodo"
+          "lvl": 1,
+          "m": "Brazo Pincho"
         },
         {
-          "lvl": 12,
-          "m": "Cola Veneno"
+          "lvl": 1,
+          "m": "Afilagarras"
         },
         {
-          "lvl": 15,
-          "m": "Polvo Veneno"
+          "lvl": 1,
+          "m": "Impresionar"
         },
         {
           "lvl": 18,
-          "m": "Pantalla de Luz"
+          "m": "Isoguardia"
         },
         {
-          "lvl": 18,
-          "m": "Bomba Ácida"
+          "lvl": 24,
+          "m": "Hilo Venenoso"
         },
         {
-          "lvl": 21,
-          "m": "Octopresa"
+          "lvl": 30,
+          "m": "Canto Mortal"
         },
         {
-          "lvl": 21,
-          "m": "Maldición"
+          "lvl": 36,
+          "m": "Atiborramiento"
         },
         {
-          "lvl": 26,
-          "m": "Golpe Aéreo"
+          "lvl": 42,
+          "m": "Empujón"
         },
         {
-          "lvl": 26,
-          "m": "Acua Aro"
-        },
-        {
-          "lvl": 29,
-          "m": "Carga Tóxica"
-        },
-        {
-          "lvl": 29,
-          "m": "Tornado"
-        },
-        {
-          "lvl": 32,
-          "m": "Superdiente"
-        },
-        {
-          "lvl": 37,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 40,
-          "m": "Retribución"
-        },
-        {
-          "lvl": 46,
-          "m": "Gas Venenoso"
-        },
-        {
-          "lvl": 52,
-          "m": "Halloween"
+          "lvl": 48,
+          "m": "Puños Plasma"
         },
         {
           "lvl": 57,
-          "m": "Espabila"
+          "m": "Garra Dragón"
+        },
+        {
+          "lvl": 64,
+          "m": "Frustración"
+        },
+        {
+          "lvl": 72,
+          "m": "Paranormal"
+        },
+        {
+          "lvl": 80,
+          "m": "Quemarrueda"
         }
       ],
       "tmMoves": [
         "Alarido",
-        "Asalto Barrera",
-        "Bomba Ácida",
+        "Alboroto",
+        "Arenas Ardientes",
+        "Barrera",
         "Carga Parábola",
         "Clavo Cañón",
         "Danza Aleteo",
-        "Decoración",
-        "Deslome",
-        "Estrujón",
+        "Electropico",
+        "Esfera Aural",
         "Gas Corrosivo",
         "Granizo",
-        "Ovocuración",
+        "Hachazo Pétreo",
+        "Mirada Heladora",
+        "Onda Tóxica",
         "Pulso de Campo",
-        "Purificación",
         "Represión Metal",
         "Restricción",
-        "Sacrificio",
-        "Vendetta"
+        "Shuriken de Agua",
+        "Vendetta",
+        "Viento Carámbano",
+        "Viento Plata"
       ],
       "firstMoves": [
-        "Paralizador",
-        "Limpieza General",
-        "Presente",
-        "Bomba Imán"
+        "Veneno X",
+        "Fanfarronear",
+        "Antojo",
+        "Obstrucción"
       ],
-      "spriteKey": "MUK"
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10240.png",
+      "spriteKey": "BRAVIARY_1"
     },
     {
       "nickname": "Willyrex",
@@ -654,9 +670,9 @@
       ],
       "ev": [
         11,
-        12,
+        16,
         1,
-        10,
+        12,
         8,
         8
       ],
@@ -741,12 +757,15 @@
         "Barrera",
         "Decoración",
         "Eco Metálico",
+        "Electropico",
         "Esfera Aural",
         "Gas Corrosivo",
         "Hachazo Pétreo",
         "Ovocuración",
+        "Palma Rauda",
         "Púas",
-        "Purificación"
+        "Purificación",
+        "Rencor Reprimido"
       ],
       "firstMoves": [
         "Última Palabra",
@@ -784,9 +803,9 @@
       ],
       "ev": [
         47,
-        59,
+        63,
         42,
-        36,
+        38,
         34,
         43
       ],
@@ -891,16 +910,23 @@
         }
       ],
       "tmMoves": [
+        "Alboroto",
+        "As Oculto",
         "Barrera",
         "Camelo",
         "Clavo Cañón",
         "Decalcomanía",
         "Deslome",
+        "Electropico",
+        "Fuerza G",
         "Gas Corrosivo",
         "Granizo",
+        "Mirada Heladora",
+        "Psicocarga",
         "Púas",
         "Puño Incremento",
         "Rayo Fusión",
+        "Rencor Reprimido",
         "Shuriken de Agua",
         "Terremoto",
         "Viento Carámbano"
@@ -5484,15 +5510,15 @@
       "mon": "Decidueye"
     },
     {
-      "route": "monte_moon",
-      "where": "Monte Moon",
-      "species": "Braviary",
-      "nickname": "Ruffles",
+      "route": "ruta_15",
+      "where": "Ruta 15",
+      "species": "Muk",
+      "nickname": "Mocardo",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 13,
-      "mon": "Braviary"
+      "level": 25,
+      "mon": "Muk"
     },
     {
       "route": "",
@@ -5506,15 +5532,15 @@
       "mon": "Ampharos"
     },
     {
-      "route": "ruta_15",
-      "where": "Ruta 15",
-      "species": "Muk",
-      "nickname": "Mocardo",
+      "route": "monte_moon",
+      "where": "Monte Moon",
+      "species": "Braviary",
+      "nickname": "Ruffles",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 25,
-      "mon": "Muk"
+      "level": 13,
+      "mon": "Braviary"
     },
     {
       "route": "ruta_5",
@@ -5913,8 +5939,8 @@
     "npcs": {},
     "routes": {
       "ciudad_plateada": true,
-      "monte_moon": true,
       "ruta_15": true,
+      "monte_moon": true,
       "ruta_5": true,
       "ruta_22": true,
       "ruta_6": true,
@@ -6152,6 +6178,7 @@
       "MT57",
       "MT59",
       "MT63",
+      "MT64",
       "MT65",
       "MT66",
       "MT72",
@@ -6809,6 +6836,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM64",
+        "name": "MT64",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM65",
         "name": "MT65",
         "qty": 1,
@@ -7027,6 +7060,12 @@
       {
         "id": "RILLABOOMITE",
         "name": "Rillaboomite",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
+        "id": "DRAGALGITE",
+        "name": "Dragalgite",
         "qty": 1,
         "pocket": "Piedras Mega"
       },
