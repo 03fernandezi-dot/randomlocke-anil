@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": false,
-  "notes": "Importado del save · 9h 29m jugadas · 326,870₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 9h 38m jugadas · 232,930₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Hedwig",
       "species": "Decidueye",
-      "level": 43,
+      "level": 44,
       "types": [
         "Planta",
         "Fantasma"
@@ -33,12 +33,12 @@
         15
       ],
       "ev": [
-        42,
-        84,
-        39,
-        39,
-        33,
-        46
+        45,
+        86,
+        40,
+        40,
+        38,
+        48
       ],
       "abilPool": [
         "Encadenado",
@@ -173,7 +173,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 42,
+      "level": 44,
       "types": [
         "Psíquico",
         "Volador"
@@ -197,12 +197,12 @@
         20
       ],
       "ev": [
-        21,
-        30,
+        24,
+        32,
+        23,
+        19,
         22,
-        18,
-        17,
-        16
+        18
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -312,13 +312,13 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 43,
+      "level": 44,
       "types": [
         "Eléctrico"
       ],
       "ability": "Cuerpo Maldito",
       "nature": "Serena",
-      "item": "Globo Helio",
+      "item": "Ampharosita",
       "shiny": false,
       "moves": [
         "Carga Parábola",
@@ -335,12 +335,12 @@
         19
       ],
       "ev": [
-        39,
-        82,
         42,
-        45,
-        37,
-        49
+        84,
+        43,
+        46,
+        42,
+        51
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -475,7 +475,7 @@
     {
       "nickname": "Mocardo",
       "species": "Muk",
-      "level": 43,
+      "level": 44,
       "types": [
         "Veneno"
       ],
@@ -498,12 +498,12 @@
         26
       ],
       "ev": [
-        17,
-        34,
-        9,
-        19,
-        21,
-        11
+        20,
+        36,
+        10,
+        20,
+        26,
+        13
       ],
       "abilPool": [
         "Compiescolta",
@@ -629,7 +629,7 @@
     {
       "nickname": "Willyrex",
       "species": "Tyrantrum",
-      "level": 42,
+      "level": 44,
       "types": [
         "Roca",
         "Dragón"
@@ -653,12 +653,12 @@
         22
       ],
       "ev": [
-        8,
+        11,
+        12,
+        1,
         10,
-        0,
-        9,
-        3,
-        6
+        8,
+        8
       ],
       "abilPool": [
         "Ignorante"
@@ -759,7 +759,7 @@
     {
       "nickname": "Bicharraco",
       "species": "Golurk",
-      "level": 43,
+      "level": 44,
       "types": [
         "Tierra",
         "Fantasma"
@@ -783,12 +783,12 @@
         27
       ],
       "ev": [
-        44,
-        57,
-        41,
-        35,
-        29,
-        41
+        47,
+        59,
+        42,
+        36,
+        34,
+        43
       ],
       "abilPool": [
         "Madrugar"
@@ -4331,6 +4331,133 @@
         "Puño Fuego"
       ],
       "spriteKey": "NOIBAT"
+    },
+    {
+      "nickname": "Wryn",
+      "species": "Dragalge",
+      "level": 42,
+      "types": [
+        "Veneno",
+        "Dragón"
+      ],
+      "ability": "Cuerpo Horneado",
+      "nature": "Serena",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Gas Corrosivo",
+        "Última Palabra",
+        "Clorofiláser",
+        "Vasto Impacto"
+      ],
+      "iv": [
+        7,
+        19,
+        19,
+        14,
+        21,
+        22
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Cuerpo Horneado",
+        "Peluche"
+      ],
+      "abilHidden": [
+        "Transportarrocas"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Eco Voz"
+        },
+        {
+          "lvl": 1,
+          "m": "Ciclón"
+        },
+        {
+          "lvl": 1,
+          "m": "Bramido Dragón"
+        },
+        {
+          "lvl": 1,
+          "m": "Gas Venenoso"
+        },
+        {
+          "lvl": 1,
+          "m": "Intercambio"
+        },
+        {
+          "lvl": 1,
+          "m": "Fanfarronear"
+        },
+        {
+          "lvl": 5,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 12,
+          "m": "Sol Matinal"
+        },
+        {
+          "lvl": 15,
+          "m": "Disparo Espejo"
+        },
+        {
+          "lvl": 19,
+          "m": "Relevo"
+        },
+        {
+          "lvl": 20,
+          "m": "Conversión"
+        },
+        {
+          "lvl": 25,
+          "m": "Gas Corrosivo"
+        },
+        {
+          "lvl": 30,
+          "m": "Última Palabra"
+        },
+        {
+          "lvl": 35,
+          "m": "Clorofiláser"
+        },
+        {
+          "lvl": 40,
+          "m": "Vasto Impacto"
+        },
+        {
+          "lvl": 45,
+          "m": "Nieve Polvo"
+        },
+        {
+          "lvl": 52,
+          "m": "Carga Dragón"
+        },
+        {
+          "lvl": 59,
+          "m": "Follaje"
+        },
+        {
+          "lvl": 66,
+          "m": "Garra Dragón"
+        }
+      ],
+      "firstMoves": [
+        "Gas Corrosivo",
+        "Última Palabra",
+        "Clorofiláser",
+        "Vasto Impacto"
+      ],
+      "spriteKey": "DRAGALGE"
     }
   ],
   "graveyard": [
@@ -5687,6 +5814,17 @@
       "mon": "Noibat"
     },
     {
+      "route": "ruta_14",
+      "where": "Ruta 14",
+      "species": "Dragalge",
+      "nickname": "Wryn",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 42,
+      "mon": "Dragalge"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -5798,6 +5936,7 @@
       "torre_pokemon": true,
       "pueblo_marengo": true,
       "ruta_13": true,
+      "ruta_14": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_10_sur": true,
@@ -5842,7 +5981,8 @@
       "ciudad_azulona": true,
       "torre_pokemon": true,
       "pueblo_marengo": true,
-      "ruta_13": true
+      "ruta_13": true,
+      "ruta_14": true
     },
     "switches": [
       48,
@@ -5971,6 +6111,7 @@
       "Más PS",
       "Mega-Aro",
       "Menta Afable",
+      "Menta Agitada",
       "Menta Audaz",
       "Menta Huraña",
       "Menta Seria",
@@ -6076,7 +6217,7 @@
       {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -6302,6 +6443,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "AIRBALLOON",
+        "name": "Globo Helio",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -6440,6 +6587,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "IMPISHMINT",
+        "name": "Menta Agitada",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 19,
@@ -6490,7 +6643,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 8,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
@@ -6508,6 +6661,12 @@
       {
         "id": "TM07",
         "name": "MT07",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM10",
+        "name": "MT10",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -6740,6 +6899,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM98",
+        "name": "MT98",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM101",
         "name": "MT101",
         "qty": 1,
@@ -6748,6 +6913,12 @@
       {
         "id": "TM102",
         "name": "MT102",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM105",
+        "name": "MT105",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
