@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 20h 15m jugadas · 106,660₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 20h 19m jugadas · 110,860₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Izan",
@@ -34,11 +34,11 @@
       ],
       "ev": [
         39,
-        93,
-        64,
-        51,
+        95,
+        66,
+        54,
         60,
-        74
+        76
       ],
       "abilPool": [
         "Velo Aroma"
@@ -209,11 +209,11 @@
       ],
       "ev": [
         16,
-        53,
-        34,
-        23,
+        55,
+        36,
+        26,
         25,
-        41
+        43
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -376,11 +376,11 @@
       ],
       "ev": [
         21,
-        64,
-        37,
+        66,
+        39,
+        39,
         36,
-        36,
-        45
+        47
       ],
       "abilPool": [
         "Perro Guardián"
@@ -528,11 +528,11 @@
       ],
       "ev": [
         21,
-        67,
-        45,
-        31,
+        69,
+        47,
+        34,
         38,
-        48
+        50
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -682,11 +682,11 @@
       ],
       "ev": [
         6,
-        17,
-        14,
-        4,
+        19,
+        16,
+        7,
         5,
-        4
+        6
       ],
       "abilPool": [
         "Mimetismo"
@@ -842,11 +842,11 @@
       ],
       "ev": [
         16,
-        46,
-        30,
-        21,
+        48,
+        32,
+        24,
         23,
-        28
+        30
       ],
       "abilPool": [
         "Albino",
@@ -5439,7 +5439,8 @@
       "ciudad_azulona": true,
       "ruta_12": true,
       "ruta_11": true,
-      "pueblo_marengo": true
+      "pueblo_marengo": true,
+      "ruta_13": true
     },
     "switches": [
       48,
@@ -5652,6 +5653,7 @@
       "MT97",
       "MT99",
       "Nerviosfera",
+      "Paracontacto",
       "Parte Amarilla",
       "Parte Verde",
       "Periscopio",
@@ -5958,6 +5960,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "PROTECTIVEPADS",
+        "name": "Paracontacto",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
         "qty": 559,
@@ -6056,7 +6064,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 20,
+        "qty": 17,
         "pocket": "Poké Balls"
       },
       {
