@@ -2,9 +2,9 @@
   "id": "Izan",
   "name": "Izan",
   "lives": 30,
-  "livesUsed": 2,
+  "livesUsed": 3,
   "champion": false,
-  "notes": "Importado del save · 6h 24m jugadas · 26,020₽ · vidas en el juego: 26",
+  "notes": "Importado del save · 6h 48m jugadas · 29,020₽ · vidas en el juego: 25",
   "team": [
     {
       "nickname": "Coffe",
@@ -33,8 +33,8 @@
       ],
       "ev": [
         14,
-        16,
-        17,
+        19,
+        18,
         16,
         18,
         28
@@ -135,7 +135,7 @@
     {
       "nickname": "Calimero",
       "species": "Capsakid",
-      "level": 24,
+      "level": 25,
       "types": [
         "Planta"
       ],
@@ -159,8 +159,8 @@
       ],
       "ev": [
         14,
-        17,
-        19,
+        20,
+        20,
         16,
         19,
         29
@@ -277,8 +277,8 @@
       ],
       "ev": [
         14,
-        17,
-        18,
+        20,
+        19,
         16,
         19,
         29
@@ -413,7 +413,7 @@
     {
       "nickname": "Furro",
       "species": "Linoone",
-      "level": 24,
+      "level": 25,
       "types": [
         "Normal"
       ],
@@ -437,8 +437,8 @@
       ],
       "ev": [
         14,
-        17,
-        18,
+        20,
+        19,
         16,
         19,
         28
@@ -562,7 +562,7 @@
     {
       "nickname": "El Bicho Siu",
       "species": "Beautifly",
-      "level": 24,
+      "level": 25,
       "types": [
         "Bicho",
         "Volador"
@@ -587,8 +587,8 @@
       ],
       "ev": [
         8,
+        17,
         14,
-        13,
         16,
         17,
         25
@@ -701,143 +701,137 @@
       "spriteKey": "BEAUTIFLY"
     },
     {
-      "nickname": "Allah",
-      "species": "Geodude",
+      "nickname": "MisterCrab",
+      "species": "Corphish",
       "level": 24,
       "types": [
-        "Roca",
-        "Tierra"
+        "Agua"
       ],
-      "ability": "Herbívoro",
+      "ability": "Transportarrocas",
       "nature": "Tímida",
       "item": "",
       "shiny": false,
       "moves": [
-        "Batido",
-        "Colmillo Hielo",
-        "Lanzarrocas",
-        "Colmillo Ígneo"
+        "Golpe Bajo",
+        "Antiaéreo",
+        "Llama Protectora",
+        "Hoja Mágica"
       ],
       "iv": [
-        10,
+        22,
         6,
-        23,
-        16,
-        11,
-        18
+        7,
+        10,
+        29,
+        17
       ],
       "ev": [
-        3,
-        7,
-        7,
-        9,
-        12,
-        14
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Herbívoro",
-        "Absorbe Elec."
+        "Psicogénesis",
+        "Transportarrocas"
       ],
       "abilHidden": [
-        "Líbero"
+        "Recogebolas"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Finta"
+          "m": "Recuperación"
         },
         {
           "lvl": 1,
-          "m": "Enrosque"
+          "m": "Mimético"
+        },
+        {
+          "lvl": 1,
+          "m": "Destello"
         },
         {
           "lvl": 4,
-          "m": "Tambor"
+          "m": "Defensa Floral"
         },
         {
-          "lvl": 4,
-          "m": "Colmillo Hielo"
-        },
-        {
-          "lvl": 6,
-          "m": "Impactrueno"
+          "lvl": 8,
+          "m": "Burbuja"
         },
         {
           "lvl": 10,
-          "m": "Cara Susto"
+          "m": "Zona Mágica"
         },
         {
           "lvl": 12,
-          "m": "Paralizador"
-        },
-        {
-          "lvl": 12,
-          "m": "Cambiafuerza"
-        },
-        {
-          "lvl": 15,
-          "m": "Lanzarrocas"
+          "m": "Antiaéreo"
         },
         {
           "lvl": 16,
-          "m": "Colmillo Ígneo"
+          "m": "Llama Protectora"
         },
         {
-          "lvl": 18,
-          "m": "Batido"
+          "lvl": 20,
+          "m": "Hoja Mágica"
         },
         {
           "lvl": 24,
-          "m": "Carga Tóxica"
+          "m": "Acua Aro"
         },
         {
           "lvl": 28,
-          "m": "Marcha Espectral"
+          "m": "Embargo"
         },
         {
-          "lvl": 30,
-          "m": "Impresionar"
-        },
-        {
-          "lvl": 34,
-          "m": "Patada Ígnea"
+          "lvl": 32,
+          "m": "Demolición"
         },
         {
           "lvl": 36,
-          "m": "Ala Aural"
+          "m": "Humareda"
         },
         {
           "lvl": 40,
-          "m": "Cola Dragón"
+          "m": "Tornado"
         },
         {
-          "lvl": 42,
-          "m": "Pataleta"
+          "lvl": 44,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 48,
+          "m": "Hidrochorro"
+        },
+        {
+          "lvl": 52,
+          "m": "Atrapabicho"
         }
       ],
       "tmMoves": [
-        "Acupresión",
+        "Agua Fría",
+        "Atracción",
         "Bombardeo",
         "Calcinación",
-        "Carga Tóxica",
         "Chapoteo Lodo",
-        "Estoicismo",
+        "Chirrido",
+        "Cuerpo Pesado",
         "Golpe Bajo",
-        "Hilo Venenoso",
-        "Impresionar",
-        "Mal de Ojo",
-        "Meditación",
+        "Perforador",
         "Polvo Mágico",
-        "Señuelo",
+        "Remolino",
+        "Rueda Fuego",
         "Vendetta"
       ],
       "firstMoves": [
-        "Tambor",
-        "Colmillo Hielo",
-        "Impactrueno",
-        "Cara Susto"
+        "Zona Mágica",
+        "Antiaéreo",
+        "Llama Protectora",
+        "Hoja Mágica"
       ],
-      "spriteKey": "GEODUDE"
+      "spriteKey": "CORPHISH"
     }
   ],
   "box": [
@@ -1071,139 +1065,6 @@
         "Niebla"
       ],
       "spriteKey": "FERROSEED"
-    },
-    {
-      "nickname": "MisterCrab",
-      "species": "Corphish",
-      "level": 22,
-      "types": [
-        "Agua"
-      ],
-      "ability": "Transportarrocas",
-      "nature": "Tímida",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Zona Mágica",
-        "Antiaéreo",
-        "Llama Protectora",
-        "Hoja Mágica"
-      ],
-      "iv": [
-        22,
-        6,
-        7,
-        10,
-        29,
-        17
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Psicogénesis",
-        "Transportarrocas"
-      ],
-      "abilHidden": [
-        "Recogebolas"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Recuperación"
-        },
-        {
-          "lvl": 1,
-          "m": "Mimético"
-        },
-        {
-          "lvl": 1,
-          "m": "Destello"
-        },
-        {
-          "lvl": 4,
-          "m": "Defensa Floral"
-        },
-        {
-          "lvl": 8,
-          "m": "Burbuja"
-        },
-        {
-          "lvl": 10,
-          "m": "Zona Mágica"
-        },
-        {
-          "lvl": 12,
-          "m": "Antiaéreo"
-        },
-        {
-          "lvl": 16,
-          "m": "Llama Protectora"
-        },
-        {
-          "lvl": 20,
-          "m": "Hoja Mágica"
-        },
-        {
-          "lvl": 24,
-          "m": "Acua Aro"
-        },
-        {
-          "lvl": 28,
-          "m": "Embargo"
-        },
-        {
-          "lvl": 32,
-          "m": "Demolición"
-        },
-        {
-          "lvl": 36,
-          "m": "Humareda"
-        },
-        {
-          "lvl": 40,
-          "m": "Tornado"
-        },
-        {
-          "lvl": 44,
-          "m": "Tajo Acuático"
-        },
-        {
-          "lvl": 48,
-          "m": "Hidrochorro"
-        },
-        {
-          "lvl": 52,
-          "m": "Atrapabicho"
-        }
-      ],
-      "tmMoves": [
-        "Agua Fría",
-        "Atracción",
-        "Bombardeo",
-        "Calcinación",
-        "Chapoteo Lodo",
-        "Chirrido",
-        "Cuerpo Pesado",
-        "Golpe Bajo",
-        "Perforador",
-        "Polvo Mágico",
-        "Remolino",
-        "Rueda Fuego",
-        "Vendetta"
-      ],
-      "firstMoves": [
-        "Zona Mágica",
-        "Antiaéreo",
-        "Llama Protectora",
-        "Hoja Mágica"
-      ],
-      "spriteKey": "CORPHISH"
     },
     {
       "nickname": "Poseidón",
@@ -2583,6 +2444,148 @@
       "cause": "",
       "route": "Laboratorio",
       "date": ""
+    },
+    {
+      "nickname": "Allah",
+      "species": "Geodude",
+      "level": 24,
+      "types": [
+        "Roca",
+        "Tierra"
+      ],
+      "ability": "Herbívoro",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Batido",
+        "Colmillo Hielo",
+        "Lanzarrocas",
+        "Colmillo Ígneo"
+      ],
+      "iv": [
+        10,
+        6,
+        23,
+        16,
+        11,
+        18
+      ],
+      "ev": [
+        3,
+        7,
+        7,
+        9,
+        12,
+        14
+      ],
+      "abilPool": [
+        "Herbívoro",
+        "Absorbe Elec."
+      ],
+      "abilHidden": [
+        "Líbero"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Finta"
+        },
+        {
+          "lvl": 1,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 4,
+          "m": "Tambor"
+        },
+        {
+          "lvl": 4,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 6,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 10,
+          "m": "Cara Susto"
+        },
+        {
+          "lvl": 12,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 12,
+          "m": "Cambiafuerza"
+        },
+        {
+          "lvl": 15,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 16,
+          "m": "Colmillo Ígneo"
+        },
+        {
+          "lvl": 18,
+          "m": "Batido"
+        },
+        {
+          "lvl": 24,
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 28,
+          "m": "Marcha Espectral"
+        },
+        {
+          "lvl": 30,
+          "m": "Impresionar"
+        },
+        {
+          "lvl": 34,
+          "m": "Patada Ígnea"
+        },
+        {
+          "lvl": 36,
+          "m": "Ala Aural"
+        },
+        {
+          "lvl": 40,
+          "m": "Cola Dragón"
+        },
+        {
+          "lvl": 42,
+          "m": "Pataleta"
+        }
+      ],
+      "tmMoves": [
+        "Acupresión",
+        "Bombardeo",
+        "Calcinación",
+        "Carga Tóxica",
+        "Chapoteo Lodo",
+        "Estoicismo",
+        "Golpe Bajo",
+        "Hilo Venenoso",
+        "Impresionar",
+        "Mal de Ojo",
+        "Meditación",
+        "Polvo Mágico",
+        "Señuelo",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Tambor",
+        "Colmillo Hielo",
+        "Impactrueno",
+        "Cara Susto"
+      ],
+      "spriteKey": "GEODUDE",
+      "cause": "",
+      "route": "Ciudad Plateada",
+      "date": ""
     }
   ],
   "captures": [
@@ -2642,15 +2645,15 @@
       "mon": "Beautifly"
     },
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Geodude",
-      "nickname": "Allah",
+      "route": "ruta_6",
+      "where": "Ruta 6",
+      "species": "Corphish",
+      "nickname": "MisterCrab",
       "shiny": false,
       "status": "captured",
-      "category": "ciudad",
-      "level": 10,
-      "mon": "Geodude"
+      "category": "salvaje",
+      "level": 22,
+      "mon": "Corphish"
     },
     {
       "route": "",
@@ -2673,17 +2676,6 @@
       "category": "ciudad",
       "level": 10,
       "mon": "Ferroseed"
-    },
-    {
-      "route": "ruta_6",
-      "where": "Ruta 6",
-      "species": "Corphish",
-      "nickname": "MisterCrab",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 22,
-      "mon": "Corphish"
     },
     {
       "route": "ciudad_celeste",
@@ -2816,6 +2808,17 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Solosis"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Geodude",
+      "nickname": "Allah",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Geodude"
     }
   ],
   "progress": {
@@ -2831,8 +2834,8 @@
       "ruta_1": true,
       "ciudad_verde": true,
       "bosque_verde": true,
-      "ciudad_plateada": true,
       "ruta_6": true,
+      "ciudad_plateada": true,
       "ciudad_celeste": true,
       "ruta_3": true,
       "monte_moon": true,
@@ -2915,6 +2918,7 @@
       "Cascabel Concha",
       "Cenizas Sagradas",
       "Colmillo de Dragón",
+      "Crítico X",
       "Cuerda Huida",
       "Def. Esp. X 2",
       "Defensa X 6",
@@ -2975,6 +2979,7 @@
       "MT95",
       "MT98",
       "Ocaso Ball",
+      "Parte Roja",
       "Piedra Noche",
       "Plesiofósil",
       "Poké Montura",
@@ -3135,6 +3140,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "REDSHARD",
+        "name": "Parte Roja",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HPUP",
         "name": "Más PS",
         "qty": 1,
@@ -3149,7 +3160,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 947,
+        "qty": 945,
         "pocket": "Medicinas"
       },
       {
@@ -3507,6 +3518,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "DIREHIT",
+        "name": "Crítico X",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -3598,5 +3615,5 @@
     "2137204219",
     "3458347518"
   ],
-  "revividos": 26
+  "revividos": 25
 }
