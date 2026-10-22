@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 20h 6m jugadas · 96,160₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 20h 11m jugadas · 96,160₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 41,
+      "level": 45,
       "types": [
         "Agua",
         "Tierra"
@@ -22,7 +22,7 @@
         "Acua Cola",
         "Huesomerang",
         "Tajo Metralla",
-        "Relajo"
+        "Erupción de Ira"
       ],
       "iv": [
         27,
@@ -184,7 +184,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 41,
+      "level": 45,
       "types": [
         "Hada",
         "Acero"
@@ -349,7 +349,7 @@
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 39,
+      "level": 45,
       "types": [
         "Planta",
         "Veneno"
@@ -502,7 +502,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 41,
+      "level": 45,
       "types": [
         "Fuego",
         "Psíquico"
@@ -515,7 +515,7 @@
         "Psicoonda",
         "Puño Sombra",
         "Calcinación",
-        "Aire Afilado"
+        "Cometa Draco"
       ],
       "iv": [
         8,
@@ -657,7 +657,7 @@
     {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 41,
+      "level": 45,
       "types": [
         "Planta"
       ],
@@ -817,7 +817,7 @@
     {
       "nickname": "Rem",
       "species": "Gothitelle",
-      "level": 41,
+      "level": 45,
       "types": [
         "Psíquico"
       ],
@@ -5942,7 +5942,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 585,
+        "qty": 559,
         "pocket": "Medicinas"
       },
       {
@@ -6740,7 +6740,7 @@
       {
         "id": "GANLONBERRY",
         "name": "Baya Gonlan",
-        "qty": 6,
+        "qty": 7,
         "pocket": "Bayas"
       },
       {
