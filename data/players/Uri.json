@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 20h 19m jugadas · 110,860₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 20h 23m jugadas · 121,660₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 45,
+      "level": 46,
       "types": [
         "Agua",
         "Tierra"
@@ -22,7 +22,7 @@
         "Acua Cola",
         "Huesomerang",
         "Tajo Metralla",
-        "Erupción de Ira"
+        "Fuego Sagrado"
       ],
       "iv": [
         27,
@@ -34,11 +34,11 @@
       ],
       "ev": [
         39,
-        95,
+        99,
         66,
-        54,
+        57,
         60,
-        76
+        79
       ],
       "abilPool": [
         "Velo Aroma"
@@ -184,7 +184,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 45,
+      "level": 46,
       "types": [
         "Hada",
         "Acero"
@@ -209,11 +209,11 @@
       ],
       "ev": [
         16,
-        55,
+        59,
         36,
-        26,
+        29,
         25,
-        43
+        46
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -349,7 +349,7 @@
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 45,
+      "level": 46,
       "types": [
         "Planta",
         "Veneno"
@@ -376,11 +376,11 @@
       ],
       "ev": [
         21,
-        66,
+        70,
         39,
-        39,
+        42,
         36,
-        47
+        50
       ],
       "abilPool": [
         "Perro Guardián"
@@ -503,7 +503,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 45,
+      "level": 46,
       "types": [
         "Fuego",
         "Psíquico"
@@ -528,11 +528,11 @@
       ],
       "ev": [
         21,
-        69,
+        73,
         47,
-        34,
+        37,
         38,
-        50
+        53
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -658,7 +658,7 @@
     {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 45,
+      "level": 46,
       "types": [
         "Planta"
       ],
@@ -682,11 +682,11 @@
       ],
       "ev": [
         6,
-        19,
+        23,
         16,
-        7,
+        10,
         5,
-        6
+        9
       ],
       "abilPool": [
         "Mimetismo"
@@ -818,7 +818,7 @@
     {
       "nickname": "Rem",
       "species": "Gothitelle",
-      "level": 45,
+      "level": 46,
       "types": [
         "Psíquico"
       ],
@@ -842,11 +842,11 @@
       ],
       "ev": [
         16,
-        48,
+        52,
         32,
-        24,
+        27,
         23,
-        30
+        33
       ],
       "abilPool": [
         "Albino",
@@ -5405,6 +5405,7 @@
       "ruta_12": true,
       "ruta_11": true,
       "ruta_13": true,
+      "ruta_14": true,
       "ruta_21": true
     },
     "items": {},
@@ -5440,7 +5441,8 @@
       "ruta_12": true,
       "ruta_11": true,
       "pueblo_marengo": true,
-      "ruta_13": true
+      "ruta_13": true,
+      "ruta_14": true
     },
     "switches": [
       48,
@@ -5664,6 +5666,7 @@
       "Piedra Noche",
       "Piedra Oval",
       "Piedra Trueno",
+      "Pluma Salud",
       "Plumaeolica",
       "Poción",
       "Poké Ball",
@@ -6028,6 +6031,12 @@
       {
         "id": "MOOMOOMILK",
         "name": "Leche Mu-mu",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "HEALTHFEATHER",
+        "name": "Pluma Salud",
         "qty": 1,
         "pocket": "Medicinas"
       },
