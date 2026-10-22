@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": false,
-  "notes": "Importado del save · 9h 17m jugadas · 314,370₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 9h 20m jugadas · 316,370₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Hedwig",
@@ -33,11 +33,11 @@
         15
       ],
       "ev": [
-        35,
+        41,
         80,
         39,
         34,
-        31,
+        33,
         43
       ],
       "abilPool": [
@@ -173,14 +173,14 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 40,
+      "level": 41,
       "types": [
         "Psíquico",
         "Volador"
       ],
       "ability": "Piel Tétrica",
       "nature": "Rara",
-      "item": "Pañuelo de Seda",
+      "item": "Periscopio",
       "shiny": false,
       "moves": [
         "Pulso de Campo",
@@ -197,11 +197,11 @@
         20
       ],
       "ev": [
-        14,
+        20,
         26,
         22,
         13,
-        15,
+        17,
         13
       ],
       "abilPool": [
@@ -335,11 +335,11 @@
         19
       ],
       "ev": [
-        32,
+        38,
         78,
         42,
         40,
-        35,
+        37,
         46
       ],
       "abilPool": [
@@ -498,11 +498,11 @@
         26
       ],
       "ev": [
-        10,
+        16,
         30,
         9,
         14,
-        19,
+        21,
         8
       ],
       "abilPool": [
@@ -629,7 +629,7 @@
     {
       "nickname": "Willyrex",
       "species": "Tyrantrum",
-      "level": 40,
+      "level": 41,
       "types": [
         "Roca",
         "Dragón"
@@ -653,11 +653,11 @@
         22
       ],
       "ev": [
-        1,
+        7,
         6,
         0,
         4,
-        1,
+        3,
         3
       ],
       "abilPool": [
@@ -783,11 +783,11 @@
         27
       ],
       "ev": [
-        37,
+        43,
         53,
         41,
         30,
-        27,
+        29,
         38
       ],
       "abilPool": [
@@ -5547,7 +5547,8 @@
       "pueblo_paleta": true,
       "ruta_2_norte": true,
       "ciudad_carmin": true,
-      "tunel_diglett": true
+      "tunel_diglett": true,
+      "pueblo_marengo": true
     },
     "items": {},
     "encounters": {
@@ -5622,6 +5623,7 @@
       104,
       105,
       106,
+      107,
       110,
       112,
       113,
@@ -5740,6 +5742,7 @@
       "MT51",
       "MT54",
       "MT55",
+      "MT57",
       "MT59",
       "MT63",
       "MT65",
@@ -5760,12 +5763,14 @@
       "Nivel Ball",
       "Pañuelo de Seda",
       "Pepita",
+      "Periscopio",
       "Pesa Recia",
       "Piedra Oval",
       "Plesiofósil",
       "Pluma Salud",
       "Poké Flauta",
       "Poké Montura",
+      "Polvo Brillo",
       "Polvo Estelar",
       "Prettyfeather",
       "Puerro",
@@ -5998,6 +6003,12 @@
       {
         "id": "SILKSCARF",
         "name": "Pañuelo de Seda",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BRIGHTPOWDER",
+        "name": "Polvo Brillo",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -6316,6 +6327,12 @@
       {
         "id": "TM55",
         "name": "MT55",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM57",
+        "name": "MT57",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
