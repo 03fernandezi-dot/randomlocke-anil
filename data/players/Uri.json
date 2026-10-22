@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 20h 23m jugadas · 121,660₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 20h 24m jugadas · 134,560₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Izan",
@@ -34,8 +34,8 @@
       ],
       "ev": [
         39,
-        99,
-        66,
+        101,
+        70,
         57,
         60,
         79
@@ -209,8 +209,8 @@
       ],
       "ev": [
         16,
-        59,
-        36,
+        61,
+        40,
         29,
         25,
         46
@@ -376,8 +376,8 @@
       ],
       "ev": [
         21,
-        70,
-        39,
+        72,
+        43,
         42,
         36,
         50
@@ -528,8 +528,8 @@
       ],
       "ev": [
         21,
-        73,
-        47,
+        75,
+        51,
         37,
         38,
         53
@@ -682,8 +682,8 @@
       ],
       "ev": [
         6,
-        23,
-        16,
+        25,
+        20,
         10,
         5,
         9
@@ -842,8 +842,8 @@
       ],
       "ev": [
         16,
-        52,
-        32,
+        54,
+        36,
         27,
         23,
         33
@@ -5652,6 +5652,7 @@
       "MT92",
       "MT93",
       "MT94",
+      "MT96",
       "MT97",
       "MT99",
       "Nerviosfera",
@@ -6509,6 +6510,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM96",
+        "name": "MT96",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM97",
         "name": "MT97",
         "qty": 1,
@@ -6905,8 +6912,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
