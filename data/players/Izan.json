@@ -2,9 +2,9 @@
   "id": "Izan",
   "name": "Izan",
   "lives": 30,
-  "livesUsed": 4,
+  "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 7h 4m jugadas · 32,450₽ · vidas en el juego: 24",
+  "notes": "Importado del save · 7h 13m jugadas · 34,200₽ · vidas en el juego: 23",
   "team": [
     {
       "nickname": "Coffe",
@@ -35,8 +35,8 @@
         15,
         21,
         20,
-        16,
-        18,
+        17,
+        20,
         28
       ],
       "abilPool": [
@@ -133,123 +133,6 @@
       "spriteKey": "KOFFING"
     },
     {
-      "nickname": "Calimero",
-      "species": "Capsakid",
-      "level": 25,
-      "types": [
-        "Planta"
-      ],
-      "ability": "Ilusión",
-      "nature": "Firme",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Fotosíntesis",
-        "Abrecaminos",
-        "Agua Fría",
-        "Patada Baja"
-      ],
-      "iv": [
-        17,
-        19,
-        21,
-        10,
-        8,
-        4
-      ],
-      "ev": [
-        15,
-        22,
-        22,
-        16,
-        19,
-        29
-      ],
-      "abilPool": [
-        "Carga Cuark",
-        "Ilusión"
-      ],
-      "abilHidden": [
-        "Manto Níveo"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Fotosíntesis"
-        },
-        {
-          "lvl": 1,
-          "m": "Semilladora"
-        },
-        {
-          "lvl": 1,
-          "m": "Agua Fría"
-        },
-        {
-          "lvl": 4,
-          "m": "Patada Baja"
-        },
-        {
-          "lvl": 10,
-          "m": "Abrecaminos"
-        },
-        {
-          "lvl": 13,
-          "m": "Fitoimpulso"
-        },
-        {
-          "lvl": 17,
-          "m": "Absorber"
-        },
-        {
-          "lvl": 21,
-          "m": "Paralizador"
-        },
-        {
-          "lvl": 24,
-          "m": "Gravedad"
-        },
-        {
-          "lvl": 28,
-          "m": "Psicorrayo"
-        },
-        {
-          "lvl": 38,
-          "m": "Vozarrón"
-        },
-        {
-          "lvl": 44,
-          "m": "Núcleo Castigo"
-        },
-        {
-          "lvl": 48,
-          "m": "Alivio"
-        }
-      ],
-      "tmMoves": [
-        "Acupresión",
-        "Bombardeo",
-        "Calcinación",
-        "Carga Tóxica",
-        "Chirrido",
-        "Cola Dragón",
-        "Conversión2",
-        "Cuerpo Pesado",
-        "Golpe Bajo",
-        "Golpe Rastrero",
-        "Meditación",
-        "Polvo Veneno",
-        "Remolino",
-        "Vendetta"
-      ],
-      "firstMoves": [
-        "Fotosíntesis",
-        "Semilladora",
-        "Agua Fría"
-      ],
-      "spriteKey": "CAPSAKID"
-    },
-    {
       "nickname": "Ninja Gaiden",
       "species": "Ninjask",
       "level": 25,
@@ -279,8 +162,8 @@
         15,
         22,
         21,
-        16,
-        19,
+        17,
+        21,
         29
       ],
       "abilPool": [
@@ -439,8 +322,8 @@
         15,
         22,
         21,
-        16,
-        19,
+        17,
+        21,
         28
       ],
       "abilPool": [
@@ -589,8 +472,8 @@
         9,
         19,
         16,
-        16,
         17,
+        19,
         25
       ],
       "abilPool": [
@@ -730,8 +613,8 @@
         0,
         0,
         0,
-        0,
-        0,
+        1,
+        2,
         0
       ],
       "abilPool": [
@@ -2070,6 +1953,126 @@
   ],
   "graveyard": [
     {
+      "nickname": "Calimero",
+      "species": "Capsakid",
+      "level": 25,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Ilusión",
+      "nature": "Firme",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Fotosíntesis",
+        "Abrecaminos",
+        "Agua Fría",
+        "Patada Baja"
+      ],
+      "iv": [
+        17,
+        19,
+        21,
+        10,
+        8,
+        4
+      ],
+      "ev": [
+        15,
+        22,
+        22,
+        17,
+        19,
+        29
+      ],
+      "abilPool": [
+        "Carga Cuark",
+        "Ilusión"
+      ],
+      "abilHidden": [
+        "Manto Níveo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 1,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 1,
+          "m": "Agua Fría"
+        },
+        {
+          "lvl": 4,
+          "m": "Patada Baja"
+        },
+        {
+          "lvl": 10,
+          "m": "Abrecaminos"
+        },
+        {
+          "lvl": 13,
+          "m": "Fitoimpulso"
+        },
+        {
+          "lvl": 17,
+          "m": "Absorber"
+        },
+        {
+          "lvl": 21,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 24,
+          "m": "Gravedad"
+        },
+        {
+          "lvl": 28,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 38,
+          "m": "Vozarrón"
+        },
+        {
+          "lvl": 44,
+          "m": "Núcleo Castigo"
+        },
+        {
+          "lvl": 48,
+          "m": "Alivio"
+        }
+      ],
+      "tmMoves": [
+        "Acupresión",
+        "Bombardeo",
+        "Calcinación",
+        "Carga Tóxica",
+        "Chirrido",
+        "Cola Dragón",
+        "Conversión2",
+        "Cuerpo Pesado",
+        "Golpe Bajo",
+        "Golpe Rastrero",
+        "Meditación",
+        "Polvo Veneno",
+        "Remolino",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Fotosíntesis",
+        "Semilladora",
+        "Agua Fría"
+      ],
+      "spriteKey": "CAPSAKID",
+      "cause": "",
+      "route": "Pueblo Paleta",
+      "date": ""
+    },
+    {
       "nickname": "MisterCrab",
       "species": "Corphish",
       "level": 24,
@@ -2657,7 +2660,7 @@
       "species": "Capsakid",
       "nickname": "Calimero",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "ciudad",
       "level": 3,
       "mon": "Capsakid"
@@ -2965,6 +2968,7 @@
       "Aecapsula",
       "Amuleto Oval",
       "Baya Arabol",
+      "Baya Pomaro",
       "Bola Férrea",
       "Bono Bici",
       "Cascabel Concha",
@@ -3560,6 +3564,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "CHOPLEBERRY",
+        "name": "Baya Pomaro",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "STARFBERRY",
         "name": "Baya Arabol",
         "qty": 1,
@@ -3680,7 +3690,8 @@
     "1609471897",
     "2137204219",
     "3458347518",
-    "945441643"
+    "945441643",
+    "3962858853"
   ],
   "revividos": 25
 }
