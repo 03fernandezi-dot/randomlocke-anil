@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 20h 14m jugadas · 102,460₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 20h 15m jugadas · 106,660₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Izan",
@@ -34,9 +34,9 @@
       ],
       "ev": [
         39,
-        91,
+        93,
         64,
-        49,
+        51,
         60,
         74
       ],
@@ -209,9 +209,9 @@
       ],
       "ev": [
         16,
-        51,
+        53,
         34,
-        21,
+        23,
         25,
         41
       ],
@@ -376,9 +376,9 @@
       ],
       "ev": [
         21,
-        62,
+        64,
         37,
-        34,
+        36,
         36,
         45
       ],
@@ -528,9 +528,9 @@
       ],
       "ev": [
         21,
-        65,
+        67,
         45,
-        29,
+        31,
         38,
         48
       ],
@@ -682,9 +682,9 @@
       ],
       "ev": [
         6,
-        15,
+        17,
         14,
-        2,
+        4,
         5,
         4
       ],
@@ -842,9 +842,9 @@
       ],
       "ev": [
         16,
-        44,
+        46,
         30,
-        19,
+        21,
         23,
         28
       ],
@@ -3143,22 +3143,33 @@
         "Adaptación",
         "Aire Afilado",
         "Alivio",
+        "Cambiaalmas",
         "Cañón Batidor",
         "Cerrojo Feérico",
         "Ciclón",
         "Copión",
+        "Encanto",
+        "Escalofrío",
         "Escudo Real",
         "Espora",
+        "Fertilizante",
         "Hidrochorro",
+        "Hoja Aguda",
+        "Látigo Ígneo",
+        "Legado",
         "Meteorobola",
+        "Mil Temblores",
         "Motivación",
         "Poder Pasado",
         "Pulso Noche",
+        "Puño Sombra",
         "Rayo Señal",
+        "Roca Veloz",
         "Salazón",
         "Sonámbulo",
         "Sorpresa",
-        "Tajo Metralla"
+        "Tajo Metralla",
+        "Treparrocas"
       ],
       "firstMoves": [
         "Meditación",
@@ -5393,6 +5404,7 @@
       "ruta_7": true,
       "ruta_12": true,
       "ruta_11": true,
+      "ruta_13": true,
       "ruta_21": true
     },
     "items": {},
