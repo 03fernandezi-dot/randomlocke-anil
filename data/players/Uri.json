@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 20h 24m jugadas · 134,560₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 20h 28m jugadas · 137,640₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Izan",
@@ -34,7 +34,7 @@
       ],
       "ev": [
         39,
-        101,
+        105,
         70,
         57,
         60,
@@ -209,7 +209,7 @@
       ],
       "ev": [
         16,
-        61,
+        65,
         40,
         29,
         25,
@@ -376,7 +376,7 @@
       ],
       "ev": [
         21,
-        72,
+        76,
         43,
         42,
         36,
@@ -528,7 +528,7 @@
       ],
       "ev": [
         21,
-        75,
+        79,
         51,
         37,
         38,
@@ -682,7 +682,7 @@
       ],
       "ev": [
         6,
-        25,
+        29,
         20,
         10,
         5,
@@ -829,8 +829,8 @@
       "moves": [
         "Espora",
         "Comesueños",
-        "Ciclón",
-        "Batido"
+        "Llama Azul",
+        "Pesadilla"
       ],
       "iv": [
         25,
@@ -842,7 +842,7 @@
       ],
       "ev": [
         16,
-        54,
+        58,
         36,
         27,
         23,
@@ -933,6 +933,8 @@
         "Agarre",
         "Batido",
         "Brillo Mágico",
+        "Canto Mortal",
+        "Carga Dragón",
         "Clemencia",
         "Cola Veneno",
         "Colmillo Veneno",
@@ -946,12 +948,16 @@
         "Hidrochorro",
         "Ladrón",
         "Legado",
+        "Llama Azul",
         "Meteorobola",
         "Mil Temblores",
         "Motivación",
+        "Nitrocarga",
         "Pesadilla",
         "Poder Pasado",
+        "Profecía",
         "Rayo Confuso",
+        "Reducción",
         "Señuelo",
         "Sonámbulo",
         "Sorpresa",
@@ -6912,8 +6918,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
