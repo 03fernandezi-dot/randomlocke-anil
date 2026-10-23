@@ -4,186 +4,151 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 21h 45m jugadas · 178,900₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 22h 5m jugadas · 178,900₽ · vidas en el juego: 22",
   "team": [
     {
-      "nickname": "Izan",
-      "species": "Swampert",
-      "level": 49,
+      "nickname": "Toby",
+      "species": "Furfrou",
+      "level": 45,
       "types": [
-        "Agua",
-        "Tierra"
+        "Normal"
       ],
-      "ability": "Velo Aroma",
-      "nature": "Seria",
-      "item": "Agua Mística",
+      "ability": "Francotirador",
+      "nature": "Ingenua",
+      "item": "",
       "shiny": false,
       "moves": [
-        "Acua Cola",
-        "Huesomerang",
-        "Tajo Metralla",
-        "Fuego Sagrado"
+        "Espora",
+        "Cuchillada",
+        "Colmillo Hielo",
+        "Roca Veloz"
       ],
       "iv": [
-        27,
-        7,
-        25,
+        10,
+        1,
+        18,
+        22,
         3,
-        27,
-        29
+        6
       ],
       "ev": [
-        45,
-        127,
-        85,
-        77,
-        68,
-        88
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Velo Aroma"
+        "Francotirador"
       ],
-      "abilHidden": [
-        "Sobrecarga"
-      ],
+      "abilHidden": [],
       "learnset": [
         {
-          "lvl": -1,
-          "m": "Acua Aro"
-        },
-        {
-          "lvl": -1,
-          "m": "Fertilizante"
-        },
-        {
-          "lvl": -1,
-          "m": "Clavo Cañón"
-        },
-        {
-          "lvl": -1,
-          "m": "Escupir"
+          "lvl": 1,
+          "m": "Garra Umbría"
         },
         {
           "lvl": 1,
-          "m": "Gran Ojo"
+          "m": "Calamidad"
         },
         {
-          "lvl": 1,
-          "m": "Agua Fría"
-        },
-        {
-          "lvl": 1,
-          "m": "Ataque Óseo"
-        },
-        {
-          "lvl": 1,
-          "m": "Gas Corrosivo"
-        },
-        {
-          "lvl": 1,
-          "m": "Desarrollo"
+          "lvl": 5,
+          "m": "Látigo Cepa"
         },
         {
           "lvl": 9,
-          "m": "Aire Afilado"
+          "m": "Ovocuración"
         },
         {
           "lvl": 12,
-          "m": "Anticipo"
+          "m": "Plumerazo"
         },
         {
           "lvl": 15,
-          "m": "Sustituto"
+          "m": "Polvo Explosivo"
         },
         {
-          "lvl": 20,
-          "m": "Cepo"
+          "lvl": 22,
+          "m": "Fuego Fatuo"
         },
         {
-          "lvl": 20,
-          "m": "Zona Extraña"
+          "lvl": 27,
+          "m": "Perforador"
         },
         {
-          "lvl": 25,
-          "m": "Gota Vital"
-        },
-        {
-          "lvl": 25,
-          "m": "Bomba Fango"
-        },
-        {
-          "lvl": 30,
-          "m": "Rueda Fuego"
+          "lvl": 33,
+          "m": "Ayuda"
         },
         {
           "lvl": 35,
-          "m": "Ladrón"
+          "m": "Cascabel Cura"
+        },
+        {
+          "lvl": 38,
+          "m": "Rayo Solar"
         },
         {
           "lvl": 42,
-          "m": "Erupción de Ira"
+          "m": "Colmillo Hielo"
         },
         {
-          "lvl": 46,
-          "m": "Fuego Sagrado"
-        },
-        {
-          "lvl": 49,
-          "m": "Tajo Cruzado"
-        },
-        {
-          "lvl": 56,
-          "m": "Umbreozona"
-        },
-        {
-          "lvl": 63,
-          "m": "Canto Encantador"
+          "lvl": 48,
+          "m": "Cuchillada"
         }
       ],
       "tmMoves": [
-        "Acua Cola",
+        "Absorbefuerza",
+        "Adaptación",
+        "Agarre",
         "Aire Afilado",
         "Alivio",
-        "Amplificador",
+        "Ascuas",
         "Bomba Fango",
-        "Bomba Lodo",
-        "Cañón Batidor",
-        "Carga Dragón",
-        "Cerrojo Feérico",
+        "Brecha Negra",
+        "Ciclón",
         "Cola Veneno",
         "Colmillo Veneno",
         "Copión",
         "Corpulencia",
-        "Cura Floral",
+        "Cuchillada",
+        "Daño Secreto",
         "Desarrollo",
-        "Escalofrío",
+        "Divide Dolor",
+        "Doble Golpe",
+        "Encanto",
+        "Escudo Real",
         "Espora",
+        "Fertilizante",
         "Fitoimpulso",
         "Giro Mortífero",
-        "Hidrochorro",
         "Hora del Té",
-        "Nitrocarga",
+        "Impactrueno",
+        "Ladrón",
+        "Meteorobola",
+        "Mil Temblores",
         "Pataleta",
-        "Picotazo Veneno",
         "Poder Pasado",
-        "Profecía",
+        "Presa Maxilar",
         "Pulpocañón",
         "Pulso Noche",
-        "Puño Sombra",
         "Rayo Señal",
+        "Reducción",
+        "Refuerzo",
         "Roca Veloz",
+        "Salazón",
         "Señuelo",
-        "Shuriken de Agua",
-        "Sonámbulo",
-        "Trampa Rocas",
-        "Treparrocas",
-        "Viento Feérico"
+        "Venganza",
+        "Viento Feérico",
+        "Voz Cautivadora"
       ],
       "firstMoves": [
-        "Cepo",
-        "Burbuja"
+        "Ayuda",
+        "Cascabel Cura",
+        "Rayo Solar",
+        "Colmillo Hielo"
       ],
-      "spriteKey": "SWAMPERT"
+      "spriteKey": "FURFROU_3"
     },
     {
       "nickname": "Mataró",
@@ -709,148 +674,183 @@
       "spriteKey": "ARMAROUGE"
     },
     {
-      "nickname": "Toby",
-      "species": "Furfrou",
-      "level": 45,
+      "nickname": "Izan",
+      "species": "Swampert",
+      "level": 49,
       "types": [
-        "Normal"
+        "Agua",
+        "Tierra"
       ],
-      "ability": "Tablilla Debacle",
-      "nature": "Ingenua",
-      "item": "",
+      "ability": "Velo Aroma",
+      "nature": "Seria",
+      "item": "Agua Mística",
       "shiny": false,
       "moves": [
-        "Ayuda",
-        "Cascabel Cura",
-        "Rayo Solar",
-        "Colmillo Hielo"
+        "Acua Cola",
+        "Huesomerang",
+        "Tajo Metralla",
+        "Fuego Sagrado"
       ],
       "iv": [
-        10,
-        1,
-        18,
-        22,
+        27,
+        7,
+        25,
         3,
-        6
+        27,
+        29
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        45,
+        127,
+        85,
+        77,
+        68,
+        88
       ],
       "abilPool": [
-        "Tablilla Debacle"
+        "Velo Aroma"
       ],
-      "abilHidden": [],
+      "abilHidden": [
+        "Sobrecarga"
+      ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Garra Umbría"
+          "lvl": -1,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": -1,
+          "m": "Fertilizante"
+        },
+        {
+          "lvl": -1,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": -1,
+          "m": "Escupir"
         },
         {
           "lvl": 1,
-          "m": "Calamidad"
+          "m": "Gran Ojo"
         },
         {
-          "lvl": 5,
-          "m": "Látigo Cepa"
+          "lvl": 1,
+          "m": "Agua Fría"
+        },
+        {
+          "lvl": 1,
+          "m": "Ataque Óseo"
+        },
+        {
+          "lvl": 1,
+          "m": "Gas Corrosivo"
+        },
+        {
+          "lvl": 1,
+          "m": "Desarrollo"
         },
         {
           "lvl": 9,
-          "m": "Ovocuración"
+          "m": "Aire Afilado"
         },
         {
           "lvl": 12,
-          "m": "Plumerazo"
+          "m": "Anticipo"
         },
         {
           "lvl": 15,
-          "m": "Polvo Explosivo"
+          "m": "Sustituto"
         },
         {
-          "lvl": 22,
-          "m": "Fuego Fatuo"
+          "lvl": 20,
+          "m": "Cepo"
         },
         {
-          "lvl": 27,
-          "m": "Perforador"
+          "lvl": 20,
+          "m": "Zona Extraña"
         },
         {
-          "lvl": 33,
-          "m": "Ayuda"
+          "lvl": 25,
+          "m": "Gota Vital"
+        },
+        {
+          "lvl": 25,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 30,
+          "m": "Rueda Fuego"
         },
         {
           "lvl": 35,
-          "m": "Cascabel Cura"
-        },
-        {
-          "lvl": 38,
-          "m": "Rayo Solar"
+          "m": "Ladrón"
         },
         {
           "lvl": 42,
-          "m": "Colmillo Hielo"
+          "m": "Erupción de Ira"
         },
         {
-          "lvl": 48,
-          "m": "Cuchillada"
+          "lvl": 46,
+          "m": "Fuego Sagrado"
+        },
+        {
+          "lvl": 49,
+          "m": "Tajo Cruzado"
+        },
+        {
+          "lvl": 56,
+          "m": "Umbreozona"
+        },
+        {
+          "lvl": 63,
+          "m": "Canto Encantador"
         }
       ],
       "tmMoves": [
-        "Absorbefuerza",
-        "Adaptación",
-        "Agarre",
+        "Acua Cola",
         "Aire Afilado",
         "Alivio",
-        "Ascuas",
+        "Amplificador",
         "Bomba Fango",
-        "Brecha Negra",
-        "Ciclón",
+        "Bomba Lodo",
+        "Cañón Batidor",
+        "Carga Dragón",
+        "Cerrojo Feérico",
         "Cola Veneno",
         "Colmillo Veneno",
         "Copión",
         "Corpulencia",
-        "Cuchillada",
-        "Daño Secreto",
+        "Cura Floral",
         "Desarrollo",
-        "Divide Dolor",
-        "Doble Golpe",
-        "Encanto",
-        "Escudo Real",
+        "Escalofrío",
         "Espora",
-        "Fertilizante",
         "Fitoimpulso",
         "Giro Mortífero",
+        "Hidrochorro",
         "Hora del Té",
-        "Impactrueno",
-        "Ladrón",
-        "Meteorobola",
-        "Mil Temblores",
+        "Nitrocarga",
         "Pataleta",
+        "Picotazo Veneno",
         "Poder Pasado",
-        "Presa Maxilar",
+        "Profecía",
         "Pulpocañón",
         "Pulso Noche",
+        "Puño Sombra",
         "Rayo Señal",
-        "Reducción",
-        "Refuerzo",
         "Roca Veloz",
-        "Salazón",
         "Señuelo",
-        "Venganza",
-        "Viento Feérico",
-        "Voz Cautivadora"
+        "Shuriken de Agua",
+        "Sonámbulo",
+        "Trampa Rocas",
+        "Treparrocas",
+        "Viento Feérico"
       ],
       "firstMoves": [
-        "Ayuda",
-        "Cascabel Cura",
-        "Rayo Solar",
-        "Colmillo Hielo"
+        "Cepo",
+        "Burbuja"
       ],
-      "spriteKey": "FURFROU"
+      "spriteKey": "SWAMPERT"
     },
     {
       "nickname": "Graham",
@@ -5480,15 +5480,15 @@
   ],
   "captures": [
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Swampert",
-      "nickname": "Izan",
+      "route": "ruta_16",
+      "where": "Ruta 16",
+      "species": "Furfrou",
+      "nickname": "Toby",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Swampert"
+      "category": "salvaje",
+      "level": 45,
+      "mon": "Furfrou"
     },
     {
       "route": "ruta_15",
@@ -5524,15 +5524,15 @@
       "mon": "Armarouge"
     },
     {
-      "route": "ruta_16",
-      "where": "Ruta 16",
-      "species": "Furfrou",
-      "nickname": "Toby",
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Swampert",
+      "nickname": "Izan",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 45,
-      "mon": "Furfrou"
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Swampert"
     },
     {
       "route": "ruta_1",
@@ -5942,10 +5942,10 @@
     "bosses": {},
     "npcs": {},
     "routes": {
+      "ruta_16": true,
       "ruta_15": true,
       "ruta_5": true,
       "tunel_diglett": true,
-      "ruta_16": true,
       "ruta_1": true,
       "ruta_9": true,
       "ruta_2_norte": true,
@@ -6155,6 +6155,7 @@
       "Galleta Yantra",
       "Garra Garfio",
       "Gema Bicho",
+      "Gema Dragón",
       "Gema Eléctrica",
       "Gema Fantasma",
       "Gema Hada",
@@ -6631,6 +6632,12 @@
       {
         "id": "MIRACLESEED",
         "name": "Semilla Milagro",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "DRAGONGEM",
+        "name": "Gema Dragón",
         "qty": 1,
         "pocket": "Objetos"
       },
