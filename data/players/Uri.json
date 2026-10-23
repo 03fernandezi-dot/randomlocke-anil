@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 21h 39m jugadas · 179,400₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 21h 41m jugadas · 178,900₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Izan",
@@ -5823,6 +5823,7 @@
       "ruta_13": true,
       "ruta_14": true,
       "ciudad_fucsia": true,
+      "ruta_16": true,
       "ruta_21": true
     },
     "items": {},
@@ -5930,6 +5931,7 @@
       190,
       191,
       192,
+      193,
       209,
       214,
       271,
@@ -6148,6 +6150,7 @@
       "Tabla Linfa",
       "Tabla Terrax",
       "Tabla Trueno",
+      "Tesecreto",
       "Ticket Barco",
       "Toxisfera",
       "Veloz Ball",
@@ -7554,8 +7557,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
@@ -7652,6 +7655,12 @@
       {
         "id": "LENSOFTRUTH",
         "name": "Lente de la Verdad",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "TESECRETO",
+        "name": "Tesecreto",
         "qty": 1,
         "pocket": "Objetos clave"
       }
