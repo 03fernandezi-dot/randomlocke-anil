@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 21h 41m jugadas · 178,900₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 21h 45m jugadas · 178,900₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Izan",
@@ -38,7 +38,7 @@
         85,
         77,
         68,
-        87
+        88
       ],
       "abilPool": [
         "Velo Aroma"
@@ -217,7 +217,7 @@
         55,
         51,
         33,
-        54
+        55
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -401,7 +401,7 @@
         58,
         64,
         44,
-        58
+        59
       ],
       "abilPool": [
         "Perro Guardián"
@@ -571,7 +571,7 @@
         66,
         59,
         46,
-        61
+        62
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -709,146 +709,148 @@
       "spriteKey": "ARMAROUGE"
     },
     {
-      "nickname": "Koi",
-      "species": "Arctovish",
-      "level": 49,
+      "nickname": "Toby",
+      "species": "Furfrou",
+      "level": 45,
       "types": [
-        "Agua",
-        "Hielo"
+        "Normal"
       ],
-      "ability": "Francotirador",
-      "nature": "Osada",
-      "item": "Periscopio",
+      "ability": "Tablilla Debacle",
+      "nature": "Ingenua",
+      "item": "",
       "shiny": false,
       "moves": [
-        "Daño Secreto",
-        "Mil Temblores",
-        "Buceo",
-        "Tumba Rocas"
+        "Ayuda",
+        "Cascabel Cura",
+        "Rayo Solar",
+        "Colmillo Hielo"
       ],
       "iv": [
-        14,
-        28,
-        15,
-        2,
-        20,
-        21
+        10,
+        1,
+        18,
+        22,
+        3,
+        6
       ],
       "ev": [
-        3,
-        16,
-        7,
-        11,
-        3,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Francotirador",
-        "Metal Pesado"
+        "Tablilla Debacle"
       ],
-      "abilHidden": [
-        "Indefenso"
-      ],
+      "abilHidden": [],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Avivar"
+          "m": "Garra Umbría"
         },
         {
           "lvl": 1,
-          "m": "Tumba Rocas"
+          "m": "Calamidad"
         },
         {
-          "lvl": 7,
-          "m": "Bomba Ácida"
+          "lvl": 5,
+          "m": "Látigo Cepa"
         },
         {
-          "lvl": 14,
-          "m": "Bastión Final"
+          "lvl": 9,
+          "m": "Ovocuración"
         },
         {
-          "lvl": 21,
+          "lvl": 12,
           "m": "Plumerazo"
         },
         {
-          "lvl": 28,
-          "m": "Decoración"
+          "lvl": 15,
+          "m": "Polvo Explosivo"
+        },
+        {
+          "lvl": 22,
+          "m": "Fuego Fatuo"
+        },
+        {
+          "lvl": 27,
+          "m": "Perforador"
+        },
+        {
+          "lvl": 33,
+          "m": "Ayuda"
         },
         {
           "lvl": 35,
-          "m": "Hidrovapor"
+          "m": "Cascabel Cura"
         },
         {
-          "lvl": 35,
-          "m": "Llave Giro"
-        },
-        {
-          "lvl": 42,
-          "m": "Gran Ojo"
+          "lvl": 38,
+          "m": "Rayo Solar"
         },
         {
           "lvl": 42,
-          "m": "Viraje"
+          "m": "Colmillo Hielo"
         },
         {
-          "lvl": 49,
-          "m": "Buceo"
-        },
-        {
-          "lvl": 56,
-          "m": "Alud"
-        },
-        {
-          "lvl": 63,
-          "m": "Liofilización"
-        },
-        {
-          "lvl": 63,
-          "m": "Batido"
-        },
-        {
-          "lvl": 70,
-          "m": "Shuriken de Agua"
-        },
-        {
-          "lvl": 77,
-          "m": "Chupavidas"
+          "lvl": 48,
+          "m": "Cuchillada"
         }
       ],
       "tmMoves": [
-        "Acua Cola",
+        "Absorbefuerza",
         "Adaptación",
         "Agarre",
-        "Amplificador",
+        "Aire Afilado",
+        "Alivio",
         "Ascuas",
-        "Beso Drenaje",
-        "Bomba Lodo",
+        "Bomba Fango",
         "Brecha Negra",
-        "Carga Dragón",
-        "Cerrojo Feérico",
         "Ciclón",
-        "Clemencia",
+        "Cola Veneno",
+        "Colmillo Veneno",
+        "Copión",
+        "Corpulencia",
+        "Cuchillada",
         "Daño Secreto",
+        "Desarrollo",
         "Divide Dolor",
+        "Doble Golpe",
         "Encanto",
-        "Hidrochorro",
-        "Ida y Vuelta",
+        "Escudo Real",
+        "Espora",
+        "Fertilizante",
+        "Fitoimpulso",
+        "Giro Mortífero",
+        "Hora del Té",
+        "Impactrueno",
+        "Ladrón",
+        "Meteorobola",
         "Mil Temblores",
-        "Moluscañón",
-        "Nitrocarga",
+        "Pataleta",
+        "Poder Pasado",
+        "Presa Maxilar",
         "Pulpocañón",
+        "Pulso Noche",
+        "Rayo Señal",
+        "Reducción",
         "Refuerzo",
-        "Saña",
+        "Roca Veloz",
+        "Salazón",
         "Señuelo",
-        "Venganza"
+        "Venganza",
+        "Viento Feérico",
+        "Voz Cautivadora"
       ],
       "firstMoves": [
-        "Plumerazo",
-        "Decoración",
-        "Hidrovapor",
-        "Llave Giro"
+        "Ayuda",
+        "Cascabel Cura",
+        "Rayo Solar",
+        "Colmillo Hielo"
       ],
-      "spriteKey": "ARCTOVISH"
+      "spriteKey": "FURFROU"
     },
     {
       "nickname": "Graham",
@@ -881,7 +883,7 @@
         35,
         32,
         13,
-        17
+        18
       ],
       "abilPool": [
         "Mimetismo"
@@ -4083,6 +4085,148 @@
       "dup": true
     },
     {
+      "nickname": "Koi",
+      "species": "Arctovish",
+      "level": 49,
+      "types": [
+        "Agua",
+        "Hielo"
+      ],
+      "ability": "Francotirador",
+      "nature": "Osada",
+      "item": "Periscopio",
+      "shiny": false,
+      "moves": [
+        "Daño Secreto",
+        "Mil Temblores",
+        "Buceo",
+        "Tumba Rocas"
+      ],
+      "iv": [
+        14,
+        28,
+        15,
+        2,
+        20,
+        21
+      ],
+      "ev": [
+        3,
+        16,
+        7,
+        11,
+        3,
+        2
+      ],
+      "abilPool": [
+        "Francotirador",
+        "Metal Pesado"
+      ],
+      "abilHidden": [
+        "Indefenso"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 1,
+          "m": "Tumba Rocas"
+        },
+        {
+          "lvl": 7,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 14,
+          "m": "Bastión Final"
+        },
+        {
+          "lvl": 21,
+          "m": "Plumerazo"
+        },
+        {
+          "lvl": 28,
+          "m": "Decoración"
+        },
+        {
+          "lvl": 35,
+          "m": "Hidrovapor"
+        },
+        {
+          "lvl": 35,
+          "m": "Llave Giro"
+        },
+        {
+          "lvl": 42,
+          "m": "Gran Ojo"
+        },
+        {
+          "lvl": 42,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 49,
+          "m": "Buceo"
+        },
+        {
+          "lvl": 56,
+          "m": "Alud"
+        },
+        {
+          "lvl": 63,
+          "m": "Liofilización"
+        },
+        {
+          "lvl": 63,
+          "m": "Batido"
+        },
+        {
+          "lvl": 70,
+          "m": "Shuriken de Agua"
+        },
+        {
+          "lvl": 77,
+          "m": "Chupavidas"
+        }
+      ],
+      "tmMoves": [
+        "Acua Cola",
+        "Adaptación",
+        "Agarre",
+        "Amplificador",
+        "Ascuas",
+        "Beso Drenaje",
+        "Bomba Lodo",
+        "Brecha Negra",
+        "Carga Dragón",
+        "Cerrojo Feérico",
+        "Ciclón",
+        "Clemencia",
+        "Daño Secreto",
+        "Divide Dolor",
+        "Encanto",
+        "Hidrochorro",
+        "Ida y Vuelta",
+        "Mil Temblores",
+        "Moluscañón",
+        "Nitrocarga",
+        "Pulpocañón",
+        "Refuerzo",
+        "Saña",
+        "Señuelo",
+        "Venganza"
+      ],
+      "firstMoves": [
+        "Plumerazo",
+        "Decoración",
+        "Hidrovapor",
+        "Llave Giro"
+      ],
+      "spriteKey": "ARCTOVISH"
+    },
+    {
       "nickname": "Rem",
       "species": "Gothitelle",
       "level": 49,
@@ -5380,15 +5524,15 @@
       "mon": "Armarouge"
     },
     {
-      "route": "pueblo_marengo",
-      "where": "Pueblo Marengo",
-      "species": "Arctovish",
-      "nickname": "Koi",
+      "route": "ruta_16",
+      "where": "Ruta 16",
+      "species": "Furfrou",
+      "nickname": "Toby",
       "shiny": false,
       "status": "captured",
-      "category": "ciudad",
-      "level": 41,
-      "mon": "Arctovish"
+      "category": "salvaje",
+      "level": 45,
+      "mon": "Furfrou"
     },
     {
       "route": "ruta_1",
@@ -5677,6 +5821,17 @@
       "mon": "Bellibolt"
     },
     {
+      "route": "pueblo_marengo",
+      "where": "Pueblo Marengo",
+      "species": "Arctovish",
+      "nickname": "Koi",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 41,
+      "mon": "Arctovish"
+    },
+    {
       "route": "",
       "where": "Museo Pokémon",
       "species": "Gothitelle",
@@ -5790,7 +5945,7 @@
       "ruta_15": true,
       "ruta_5": true,
       "tunel_diglett": true,
-      "pueblo_marengo": true,
+      "ruta_16": true,
       "ruta_1": true,
       "ruta_9": true,
       "ruta_2_norte": true,
@@ -5810,6 +5965,7 @@
       "ciudad_azulona": true,
       "ruta_17": true,
       "zona_safari": true,
+      "pueblo_marengo": true,
       "ciudad_plateada": true,
       "ruta_4": true,
       "ruta_22": true,
@@ -5823,7 +5979,6 @@
       "ruta_13": true,
       "ruta_14": true,
       "ciudad_fucsia": true,
-      "ruta_16": true,
       "ruta_21": true
     },
     "items": {},
@@ -5863,7 +6018,8 @@
       "ruta_14": true,
       "ciudad_fucsia": true,
       "zona_safari": true,
-      "ruta_17": true
+      "ruta_17": true,
+      "ruta_16": true
     },
     "switches": [
       48,
@@ -5946,6 +6102,7 @@
     "foundItems": [
       "Acopio Ball",
       "Activaobjeto",
+      "Aecapsula",
       "Agua Mística",
       "Álbum de Fotos",
       "Anillo",
@@ -5956,6 +6113,7 @@
       "Baya Aranja",
       "Baya Aricoc",
       "Baya Baribá",
+      "Baya Caquic",
       "Baya Dillo",
       "Baya Gonlan",
       "Baya Jaboca",
@@ -6579,6 +6737,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "AECapsula",
+        "name": "Aecapsula",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 17,
@@ -6611,7 +6775,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 16,
+        "qty": 15,
         "pocket": "Poké Balls"
       },
       {
@@ -7253,6 +7417,12 @@
       {
         "id": "ORANBERRY",
         "name": "Baya Aranja",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "PERSIMBERRY",
+        "name": "Baya Caquic",
         "qty": 1,
         "pocket": "Bayas"
       },
