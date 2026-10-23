@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": false,
-  "notes": "Importado del save · 10h 41m jugadas · 121,340₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 10h 44m jugadas · 105,340₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Hedwig",
@@ -36,8 +36,8 @@
         51,
         97,
         42,
-        45,
-        45,
+        46,
+        47,
         52
       ],
       "abilPool": [
@@ -202,8 +202,8 @@
         48,
         95,
         45,
+        52,
         51,
-        49,
         55
       ],
       "abilPool": [
@@ -371,8 +371,8 @@
         26,
         47,
         12,
-        25,
-        33,
+        26,
+        35,
         17
       ],
       "abilPool": [
@@ -532,8 +532,8 @@
         53,
         70,
         44,
-        41,
-        41,
+        42,
+        43,
         47
       ],
       "abilPool": [
@@ -695,8 +695,8 @@
         17,
         23,
         3,
-        15,
-        15,
+        16,
+        17,
         12
       ],
       "abilPool": [
@@ -828,8 +828,8 @@
         30,
         43,
         25,
-        24,
-        29,
+        25,
+        31,
         22
       ],
       "abilPool": [
@@ -4899,6 +4899,123 @@
         "Luna Roja"
       ],
       "spriteKey": "ORANGURU"
+    },
+    {
+      "nickname": "Ott",
+      "species": "Oshawott",
+      "level": 45,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Entusiasmo",
+      "nature": "Serena",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Alboroto",
+        "Puño Jet",
+        "Isoguardia",
+        "Marcha Espectral"
+      ],
+      "iv": [
+        5,
+        16,
+        25,
+        13,
+        24,
+        0
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Entusiasmo"
+      ],
+      "abilHidden": [
+        "Revés"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Magnitud"
+        },
+        {
+          "lvl": 5,
+          "m": "Gota Vital"
+        },
+        {
+          "lvl": 6,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 11,
+          "m": "Garra Metal"
+        },
+        {
+          "lvl": 11,
+          "m": "Disparo Lodo"
+        },
+        {
+          "lvl": 13,
+          "m": "Auxilio"
+        },
+        {
+          "lvl": 17,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 19,
+          "m": "Esquirla Helada"
+        },
+        {
+          "lvl": 23,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 25,
+          "m": "Aire Afilado"
+        },
+        {
+          "lvl": 25,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": 29,
+          "m": "Doble Golpe"
+        },
+        {
+          "lvl": 31,
+          "m": "Púas"
+        },
+        {
+          "lvl": 35,
+          "m": "Alboroto"
+        },
+        {
+          "lvl": 37,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 41,
+          "m": "Isoguardia"
+        },
+        {
+          "lvl": 43,
+          "m": "Marcha Espectral"
+        }
+      ],
+      "firstMoves": [
+        "Alboroto",
+        "Puño Jet",
+        "Isoguardia",
+        "Marcha Espectral"
+      ],
+      "spriteKey": "OSHAWOTT_1"
     }
   ],
   "graveyard": [
@@ -6288,6 +6405,17 @@
       "mon": "Oranguru"
     },
     {
+      "route": "ruta_16",
+      "where": "Ruta 16",
+      "species": "Oshawott",
+      "nickname": "Ott",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 45,
+      "mon": "Oshawott"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -6401,6 +6529,7 @@
       "ruta_11": true,
       "ciudad_fucsia": true,
       "zona_safari": true,
+      "ruta_16": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_10_sur": true,
@@ -6410,7 +6539,8 @@
       "ruta_2_norte": true,
       "ciudad_carmin": true,
       "tunel_diglett": true,
-      "pueblo_marengo": true
+      "pueblo_marengo": true,
+      "ruta_17": true
     },
     "items": {},
     "encounters": {
@@ -6449,7 +6579,9 @@
       "ruta_13": true,
       "ruta_14": true,
       "ciudad_fucsia": true,
-      "zona_safari": true
+      "zona_safari": true,
+      "ruta_16": true,
+      "ruta_17": true
     },
     "switches": [
       48,
@@ -6540,6 +6672,7 @@
       "Baya Algama",
       "Baya Ango",
       "Baya Aricoc",
+      "Baya Atania",
       "Baya Baribá",
       "Baya Biglia",
       "Baya Grana",
@@ -6553,6 +6686,7 @@
       "Bono Bici",
       "Botón Escape",
       "Brazal Firme",
+      "Caramelo Furia",
       "Cascabel Concha",
       "Cenizas Sagradas",
       "Chaleco Asalto",
@@ -6562,6 +6696,7 @@
       "Cleverfeather",
       "Competi Ball",
       "Crítico X 3",
+      "Cuchara Torcida",
       "Cuerda Huida",
       "Defensa X",
       "Efigie Antigua",
@@ -6964,6 +7099,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "TWISTEDSPOON",
+        "name": "Cuchara Torcida",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -7114,6 +7255,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "RAGECANDYBAR",
+        "name": "Caramelo Furia",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 18,
@@ -7134,7 +7281,7 @@
       {
         "id": "PREMIERBALL",
         "name": "Honor Ball",
-        "qty": 9,
+        "qty": 11,
         "pocket": "Poké Balls"
       },
       {
@@ -7158,13 +7305,13 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 18,
+        "qty": 17,
         "pocket": "Poké Balls"
       },
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 5,
+        "qty": 24,
         "pocket": "Poké Balls"
       },
       {
@@ -7502,6 +7649,12 @@
         "name": "MT125",
         "qty": 1,
         "pocket": "MTs y MOs"
+      },
+      {
+        "id": "CHESTOBERRY",
+        "name": "Baya Atania",
+        "qty": 1,
+        "pocket": "Bayas"
       },
       {
         "id": "ASPEARBERRY",
