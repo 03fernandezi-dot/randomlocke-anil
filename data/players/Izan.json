@@ -4,21 +4,21 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 7h 22m jugadas · 36,840₽ · vidas en el juego: 23",
+  "notes": "Importado del save · 8h 18m jugadas · 49,150₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Coffe",
-      "species": "Koffing",
-      "level": 26,
+      "species": "Weezing",
+      "level": 30,
       "types": [
         "Veneno"
       ],
-      "ability": "Tablilla Debacle",
+      "ability": "Ímpetu Tóxico",
       "nature": "Dócil",
       "item": "",
       "shiny": false,
       "moves": [
-        "Bilis",
+        "Tóxico",
         "Salmuera",
         "Calamidad",
         "Carga Tóxica"
@@ -32,110 +32,101 @@
         24
       ],
       "ev": [
-        17,
-        21,
         20,
-        17,
+        28,
         21,
+        21,
+        22,
         28
       ],
       "abilPool": [
-        "Tablilla Debacle",
-        "Nado Rápido"
+        "Ímpetu Tóxico",
+        "Simbiosis"
       ],
       "abilHidden": [
-        "Torrente"
+        "Alma Cura"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Bilis"
+          "lvl": -1,
+          "m": "Ciclón de Hojas"
         },
         {
           "lvl": 1,
-          "m": "Salmuera"
+          "m": "Gota Vital"
         },
         {
-          "lvl": 4,
-          "m": "Calamidad"
+          "lvl": 1,
+          "m": "Gruñido"
         },
         {
-          "lvl": 8,
-          "m": "Refuerzo"
+          "lvl": 1,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 1,
+          "m": "Mimético"
+        },
+        {
+          "lvl": 1,
+          "m": "Estrujón"
         },
         {
           "lvl": 12,
-          "m": "Acua Aro"
+          "m": "Hidrochorro"
         },
         {
           "lvl": 16,
-          "m": "Obstrucción"
+          "m": "Retracción"
         },
         {
           "lvl": 20,
-          "m": "Isofuerza"
+          "m": "Rayo Carga"
         },
         {
           "lvl": 24,
-          "m": "Deseo Cura"
+          "m": "Arañazo"
         },
         {
           "lvl": 28,
-          "m": "Tóxico"
-        },
-        {
-          "lvl": 29,
-          "m": "Carga Tóxica"
+          "m": "Rompecoraza"
         },
         {
           "lvl": 32,
-          "m": "Reciclaje"
+          "m": "Fría Acogida"
         },
         {
-          "lvl": 36,
-          "m": "Asalto Espadón"
-        },
-        {
-          "lvl": 40,
-          "m": "Rodar"
+          "lvl": 38,
+          "m": "Ácido"
         },
         {
           "lvl": 44,
-          "m": "Polución"
+          "m": "Tormenta Floral"
         },
         {
-          "lvl": 48,
-          "m": "Electropunzada"
+          "lvl": 50,
+          "m": "Mil Púas Tóxicas"
         },
         {
-          "lvl": 52,
-          "m": "Truco Defensa"
+          "lvl": 56,
+          "m": "Desarme"
+        },
+        {
+          "lvl": 62,
+          "m": "Giro Mortífero"
         }
-      ],
-      "tmMoves": [
-        "Calcinación",
-        "Carga Tóxica",
-        "Chapoteo Lodo",
-        "Cola Dragón",
-        "Cuerpo Pesado",
-        "Gravedad",
-        "Llama Protectora",
-        "Mal de Ojo",
-        "Meditación",
-        "Remolino",
-        "Señuelo"
       ],
       "firstMoves": [
         "Bilis",
         "Salmuera",
         "Calamidad"
       ],
-      "spriteKey": "KOFFING"
+      "spriteKey": "WEEZING"
     },
     {
       "nickname": "Ninja Gaiden",
       "species": "Ninjask",
-      "level": 25,
+      "level": 30,
       "types": [
         "Bicho",
         "Volador"
@@ -159,11 +150,11 @@
         4
       ],
       "ev": [
-        17,
+        18,
+        27,
         22,
-        21,
-        17,
-        22,
+        19,
+        23,
         29
       ],
       "abilPool": [
@@ -296,7 +287,7 @@
     {
       "nickname": "Furro",
       "species": "Linoone",
-      "level": 26,
+      "level": 30,
       "types": [
         "Normal"
       ],
@@ -319,11 +310,11 @@
         16
       ],
       "ev": [
-        17,
+        20,
+        29,
         22,
         21,
-        17,
-        22,
+        23,
         28
       ],
       "abilPool": [
@@ -445,7 +436,7 @@
     {
       "nickname": "El Bicho Siu",
       "species": "Beautifly",
-      "level": 26,
+      "level": 30,
       "types": [
         "Bicho",
         "Volador"
@@ -469,11 +460,11 @@
         18
       ],
       "ev": [
-        11,
-        19,
-        16,
+        14,
+        26,
         17,
-        20,
+        21,
+        21,
         25
       ],
       "abilPool": [
@@ -586,7 +577,7 @@
     {
       "nickname": "Clefairy",
       "species": "Clefairy",
-      "level": 26,
+      "level": 30,
       "types": [
         "Hada"
       ],
@@ -597,7 +588,7 @@
       "moves": [
         "Bostezo",
         "Viento Feérico",
-        "Beso Dulce",
+        "Mundo Gélido",
         "Última Palabra"
       ],
       "origin": "don_prodigio",
@@ -610,11 +601,11 @@
         25
       ],
       "ev": [
-        2,
-        0,
-        0,
+        5,
+        7,
         1,
-        3,
+        5,
+        4,
         0
       ],
       "abilPool": [
@@ -775,7 +766,7 @@
     {
       "nickname": "Eye of Rah",
       "species": "Baltoy",
-      "level": 26,
+      "level": 30,
       "types": [
         "Tierra",
         "Psíquico"
@@ -785,8 +776,8 @@
       "item": "",
       "shiny": true,
       "moves": [
-        "Truco Defensa",
-        "Ayuda",
+        "Reflejo",
+        "Bomba Imán",
         "Psicorrayo",
         "Pisotón"
       ],
@@ -799,11 +790,11 @@
         5
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
+        3,
+        7,
+        1,
+        4,
+        1,
         0
       ],
       "abilPool": [
@@ -2783,13 +2774,13 @@
     {
       "route": "ruta_22",
       "where": "Ruta 22",
-      "species": "Koffing",
+      "species": "Weezing",
       "nickname": "Coffe",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 6,
-      "mon": "Koffing"
+      "mon": "Weezing"
     },
     {
       "route": "ruta_1",
@@ -3026,7 +3017,8 @@
   "progress": {
     "gyms": {
       "gym1": true,
-      "gym2": true
+      "gym2": true,
+      "gym3": true
     },
     "bosses": {},
     "npcs": {},
@@ -3092,11 +3084,15 @@
       83,
       84,
       85,
+      87,
+      88,
+      89,
       110,
       112,
       113,
       114,
       121,
+      152,
       171,
       176,
       179,
@@ -3106,6 +3102,7 @@
       183,
       184,
       185,
+      186,
       323,
       334,
       364,
@@ -3124,6 +3121,7 @@
       "Colmillo de Dragón",
       "Crítico X",
       "Cuerda Huida",
+      "Dado Trucado",
       "Def. Esp. X 2",
       "Defensa X 6",
       "Disco Extraño",
@@ -3146,6 +3144,7 @@
       "Menta Alegre",
       "Menta Plácida",
       "Miniseta",
+      "MO Corte",
       "MO Golpe Roca",
       "Mochi Ímpetu",
       "MT02",
@@ -3175,6 +3174,7 @@
       "MT64",
       "MT69",
       "MT72",
+      "MT73",
       "MT83",
       "MT85",
       "MT86",
@@ -3186,6 +3186,7 @@
       "Ocaso Ball",
       "Parte Roja",
       "Piedra Noche",
+      "Pila",
       "Plesiofósil",
       "Poké Montura",
       "Puño Suerte",
@@ -3264,7 +3265,7 @@
       {
         "id": "DUSKSTONE",
         "name": "Piedra Noche",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -3358,6 +3359,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "LOADEDDICE",
+        "name": "Dado Trucado",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "CELLBATTERY",
+        "name": "Pila",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HPUP",
         "name": "Más PS",
         "qty": 1,
@@ -3372,7 +3385,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 933,
+        "qty": 910,
         "pocket": "Medicinas"
       },
       {
@@ -3438,12 +3451,6 @@
       {
         "id": "HASTYMINT",
         "name": "Menta Activa",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "SODAPOP",
-        "name": "Refresco",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -3606,6 +3613,12 @@
       {
         "id": "TM72",
         "name": "MT72",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM73",
+        "name": "MT73",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -3798,6 +3811,12 @@
       {
         "id": "BONOBICI",
         "name": "Bono Bici",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "CUTITEM",
+        "name": "MO Corte",
         "qty": 1,
         "pocket": "Objetos clave"
       }
