@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 21h 32m jugadas · 172,050₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 21h 39m jugadas · 179,400₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Izan",
@@ -35,10 +35,10 @@
       "ev": [
         45,
         127,
-        84,
-        71,
+        85,
+        77,
         68,
-        86
+        87
       ],
       "abilPool": [
         "Velo Aroma"
@@ -214,10 +214,10 @@
       "ev": [
         22,
         94,
-        54,
-        45,
+        55,
+        51,
         33,
-        53
+        54
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -398,10 +398,10 @@
       "ev": [
         27,
         105,
-        57,
         58,
+        64,
         44,
-        57
+        58
       ],
       "abilPool": [
         "Perro Guardián"
@@ -568,10 +568,10 @@
       "ev": [
         27,
         108,
-        65,
-        53,
+        66,
+        59,
         46,
-        60
+        61
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -737,10 +737,10 @@
       "ev": [
         3,
         16,
-        6,
-        5,
+        7,
+        11,
         3,
-        0
+        1
       ],
       "abilPool": [
         "Francotirador",
@@ -878,10 +878,10 @@
       "ev": [
         12,
         58,
-        34,
-        26,
+        35,
+        32,
         13,
-        16
+        17
       ],
       "abilPool": [
         "Mimetismo"
@@ -5781,7 +5781,8 @@
       "gym1": true,
       "gym2": true,
       "gym3": true,
-      "gym4": true
+      "gym4": true,
+      "gym5": true
     },
     "bosses": {},
     "npcs": {},
@@ -5928,6 +5929,7 @@
       189,
       190,
       191,
+      192,
       209,
       214,
       271,
@@ -6023,6 +6025,7 @@
       "Menta Agitada",
       "Menta Alegre",
       "Menta Huraña",
+      "Menta Ingenua",
       "Menta Osada",
       "Menta Plácida",
       "Miniseta",
@@ -6075,6 +6078,7 @@
       "MT62",
       "MT63",
       "MT64",
+      "MT65",
       "MT66",
       "MT69",
       "MT72",
@@ -6114,6 +6118,7 @@
       "Poké Flauta",
       "Poké Montura",
       "Poké Muñeco",
+      "Pokéseñuelo",
       "Porcehelado",
       "Precisión X 2",
       "Prisma Rojo",
@@ -6559,6 +6564,18 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "NAIVEMINT",
+        "name": "Menta Ingenua",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "CENIZASSAGRADAS",
+        "name": "Cenizas Sagradas",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 17,
@@ -6969,6 +6986,12 @@
       {
         "id": "TM64",
         "name": "MT64",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM65",
+        "name": "MT65",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -7510,6 +7533,12 @@
         "id": "XACCURACY2",
         "name": "Precisión X 2",
         "qty": 2,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "POKETOY",
+        "name": "Pokéseñuelo",
+        "qty": 1,
         "pocket": "Objetos de combate"
       },
       {
