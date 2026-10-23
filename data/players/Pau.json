@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 11h 45m jugadas · 108,890₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 11h 57m jugadas · 112,180₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Hedwig",
@@ -35,7 +35,7 @@
       "ev": [
         55,
         101,
-        47,
+        49,
         46,
         49,
         54
@@ -203,7 +203,7 @@
       "ev": [
         52,
         99,
-        50,
+        52,
         52,
         53,
         57
@@ -373,7 +373,7 @@
       "ev": [
         4,
         4,
-        5,
+        7,
         0,
         2,
         2
@@ -522,7 +522,7 @@
       "ev": [
         34,
         47,
-        30,
+        32,
         25,
         33,
         24
@@ -665,7 +665,7 @@
       "ev": [
         21,
         25,
-        5,
+        7,
         16,
         18,
         14
@@ -770,170 +770,157 @@
       "spriteKey": "TYRANTRUM"
     },
     {
-      "nickname": "Okidogi",
-      "species": "Okidogi",
-      "level": 48,
+      "nickname": "Wryn",
+      "species": "Dragalge",
+      "level": 47,
       "types": [
         "Veneno",
-        "Lucha"
+        "Dragón"
       ],
-      "ability": "Herbívoro",
-      "nature": "Amable",
-      "item": "",
+      "ability": "Cuerpo Horneado",
+      "nature": "Serena",
+      "item": "Dragalgite",
       "shiny": false,
       "moves": [
-        "Buena Baza",
-        "Veneno X",
-        "Asalto Barrera",
-        "Palma Rauda"
+        "Onda Tóxica",
+        "Psicocarga",
+        "Rencor Reprimido",
+        "Ciclón"
       ],
-      "origin": "don_prodigio",
       "iv": [
-        24,
-        28,
-        17,
-        12,
-        20,
-        28
+        7,
+        19,
+        19,
+        14,
+        21,
+        22
       ],
       "ev": [
         0,
+        2,
+        7,
         0,
-        0,
-        0,
-        0,
+        2,
         0
       ],
       "abilPool": [
-        "Herbívoro"
+        "Cuerpo Horneado",
+        "Peluche"
       ],
       "abilHidden": [
-        "Fuga"
+        "Transportarrocas"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Desquite"
+          "m": "Eco Voz"
         },
         {
           "lvl": 1,
-          "m": "Buena Baza"
+          "m": "Ciclón"
         },
         {
           "lvl": 1,
-          "m": "Veneno X"
+          "m": "Bramido Dragón"
         },
         {
           "lvl": 1,
-          "m": "Golpe Roca"
+          "m": "Gas Venenoso"
         },
         {
           "lvl": 1,
-          "m": "Tormento"
+          "m": "Intercambio"
         },
         {
           "lvl": 1,
-          "m": "Poder Reserva"
+          "m": "Fanfarronear"
         },
         {
-          "lvl": 1,
-          "m": "Cola Veneno"
+          "lvl": 5,
+          "m": "Niebla Clara"
         },
         {
-          "lvl": 8,
-          "m": "Sísmico"
+          "lvl": 12,
+          "m": "Sol Matinal"
         },
         {
-          "lvl": 16,
-          "m": "Bilis"
+          "lvl": 15,
+          "m": "Disparo Espejo"
         },
         {
-          "lvl": 24,
-          "m": "Gran Ojo"
+          "lvl": 19,
+          "m": "Relevo"
         },
         {
-          "lvl": 32,
-          "m": "Palma Rauda"
+          "lvl": 20,
+          "m": "Conversión"
         },
         {
-          "lvl": 37,
-          "m": "Puño Dinámico"
+          "lvl": 25,
+          "m": "Gas Corrosivo"
+        },
+        {
+          "lvl": 30,
+          "m": "Última Palabra"
+        },
+        {
+          "lvl": 35,
+          "m": "Clorofiláser"
         },
         {
           "lvl": 40,
-          "m": "Asalto Barrera"
+          "m": "Vasto Impacto"
         },
         {
-          "lvl": 48,
-          "m": "Colmillo Veneno"
+          "lvl": 45,
+          "m": "Nieve Polvo"
         },
         {
-          "lvl": 56,
-          "m": "Puño Meteoro"
+          "lvl": 52,
+          "m": "Carga Dragón"
         },
         {
-          "lvl": 61,
-          "m": "Distorsión"
+          "lvl": 59,
+          "m": "Follaje"
         },
         {
-          "lvl": 64,
-          "m": "Espabila"
-        },
-        {
-          "lvl": 67,
-          "m": "Sable Místico"
-        },
-        {
-          "lvl": 72,
-          "m": "Danza Aleteo"
-        },
-        {
-          "lvl": 73,
-          "m": "Niebla Clara"
+          "lvl": 66,
+          "m": "Garra Dragón"
         }
       ],
       "tmMoves": [
+        "Alboroto",
+        "As Oculto",
         "Asalto Barrera",
+        "Barrera",
+        "Bomba Ácida",
         "Carga Parábola",
-        "Chuzos",
-        "Ciclón",
         "Clavo Cañón",
-        "Cura Floral",
-        "Danza Aleteo",
-        "Danza Lunar",
         "Decalcomanía",
-        "Decoración",
-        "Deslome",
-        "Esfera Aural",
+        "Eco Metálico",
         "Estrujón",
-        "Fotocolisión",
         "Fuerza G",
-        "Gas Corrosivo",
-        "Giro Mortífero",
-        "Golpe Roca",
+        "Granizo",
         "Láser Doble",
-        "Onda Certera",
+        "Mirada Heladora",
         "Onda Tóxica",
-        "Ovocuración",
-        "Palma Rauda",
-        "Planta Feroz",
+        "Piñón Auxiliar",
+        "Psicocarga",
+        "Púas",
         "Pulso de Campo",
         "Puño Incremento",
-        "Purificación",
-        "Rayo Fusión",
         "Rencor Reprimido",
-        "Retribución",
-        "Sacrificio",
-        "Vendetta",
-        "Viento Plata"
+        "Shuriken de Agua",
+        "Velo Sagrado",
+        "Vendetta"
       ],
       "firstMoves": [
-        "Cola Veneno",
-        "Sísmico",
-        "Bilis",
-        "Gran Ojo"
+        "Gas Corrosivo",
+        "Última Palabra",
+        "Clorofiláser",
+        "Vasto Impacto"
       ],
-      "spriteKey": "OKIDOGI"
+      "spriteKey": "DRAGALGE"
     }
   ],
   "box": [
@@ -4399,159 +4386,6 @@
       "spriteKey": "AEGISLASH"
     },
     {
-      "nickname": "Wryn",
-      "species": "Dragalge",
-      "level": 47,
-      "types": [
-        "Veneno",
-        "Dragón"
-      ],
-      "ability": "Cuerpo Horneado",
-      "nature": "Serena",
-      "item": "Dragalgite",
-      "shiny": false,
-      "moves": [
-        "Onda Tóxica",
-        "Psicocarga",
-        "Rencor Reprimido",
-        "Ciclón"
-      ],
-      "iv": [
-        7,
-        19,
-        19,
-        14,
-        21,
-        22
-      ],
-      "ev": [
-        0,
-        2,
-        5,
-        0,
-        2,
-        0
-      ],
-      "abilPool": [
-        "Cuerpo Horneado",
-        "Peluche"
-      ],
-      "abilHidden": [
-        "Transportarrocas"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Eco Voz"
-        },
-        {
-          "lvl": 1,
-          "m": "Ciclón"
-        },
-        {
-          "lvl": 1,
-          "m": "Bramido Dragón"
-        },
-        {
-          "lvl": 1,
-          "m": "Gas Venenoso"
-        },
-        {
-          "lvl": 1,
-          "m": "Intercambio"
-        },
-        {
-          "lvl": 1,
-          "m": "Fanfarronear"
-        },
-        {
-          "lvl": 5,
-          "m": "Niebla Clara"
-        },
-        {
-          "lvl": 12,
-          "m": "Sol Matinal"
-        },
-        {
-          "lvl": 15,
-          "m": "Disparo Espejo"
-        },
-        {
-          "lvl": 19,
-          "m": "Relevo"
-        },
-        {
-          "lvl": 20,
-          "m": "Conversión"
-        },
-        {
-          "lvl": 25,
-          "m": "Gas Corrosivo"
-        },
-        {
-          "lvl": 30,
-          "m": "Última Palabra"
-        },
-        {
-          "lvl": 35,
-          "m": "Clorofiláser"
-        },
-        {
-          "lvl": 40,
-          "m": "Vasto Impacto"
-        },
-        {
-          "lvl": 45,
-          "m": "Nieve Polvo"
-        },
-        {
-          "lvl": 52,
-          "m": "Carga Dragón"
-        },
-        {
-          "lvl": 59,
-          "m": "Follaje"
-        },
-        {
-          "lvl": 66,
-          "m": "Garra Dragón"
-        }
-      ],
-      "tmMoves": [
-        "Alboroto",
-        "As Oculto",
-        "Asalto Barrera",
-        "Barrera",
-        "Bomba Ácida",
-        "Carga Parábola",
-        "Clavo Cañón",
-        "Decalcomanía",
-        "Eco Metálico",
-        "Estrujón",
-        "Fuerza G",
-        "Granizo",
-        "Láser Doble",
-        "Mirada Heladora",
-        "Onda Tóxica",
-        "Piñón Auxiliar",
-        "Psicocarga",
-        "Púas",
-        "Pulso de Campo",
-        "Puño Incremento",
-        "Rencor Reprimido",
-        "Shuriken de Agua",
-        "Velo Sagrado",
-        "Vendetta"
-      ],
-      "firstMoves": [
-        "Gas Corrosivo",
-        "Última Palabra",
-        "Clorofiláser",
-        "Vasto Impacto"
-      ],
-      "spriteKey": "DRAGALGE"
-    },
-    {
       "nickname": "Mariconada",
       "species": "Floette",
       "level": 21,
@@ -5086,6 +4920,172 @@
         "Halloween"
       ],
       "spriteKey": "SINISTEA_1"
+    },
+    {
+      "nickname": "Okidogi",
+      "species": "Okidogi",
+      "level": 48,
+      "types": [
+        "Veneno",
+        "Lucha"
+      ],
+      "ability": "Herbívoro",
+      "nature": "Amable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Buena Baza",
+        "Veneno X",
+        "Asalto Barrera",
+        "Palma Rauda"
+      ],
+      "origin": "don_prodigio",
+      "iv": [
+        24,
+        28,
+        17,
+        12,
+        20,
+        28
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Herbívoro"
+      ],
+      "abilHidden": [
+        "Fuga"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Desquite"
+        },
+        {
+          "lvl": 1,
+          "m": "Buena Baza"
+        },
+        {
+          "lvl": 1,
+          "m": "Veneno X"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Roca"
+        },
+        {
+          "lvl": 1,
+          "m": "Tormento"
+        },
+        {
+          "lvl": 1,
+          "m": "Poder Reserva"
+        },
+        {
+          "lvl": 1,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 8,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 16,
+          "m": "Bilis"
+        },
+        {
+          "lvl": 24,
+          "m": "Gran Ojo"
+        },
+        {
+          "lvl": 32,
+          "m": "Palma Rauda"
+        },
+        {
+          "lvl": 37,
+          "m": "Puño Dinámico"
+        },
+        {
+          "lvl": 40,
+          "m": "Asalto Barrera"
+        },
+        {
+          "lvl": 48,
+          "m": "Colmillo Veneno"
+        },
+        {
+          "lvl": 56,
+          "m": "Puño Meteoro"
+        },
+        {
+          "lvl": 61,
+          "m": "Distorsión"
+        },
+        {
+          "lvl": 64,
+          "m": "Espabila"
+        },
+        {
+          "lvl": 67,
+          "m": "Sable Místico"
+        },
+        {
+          "lvl": 72,
+          "m": "Danza Aleteo"
+        },
+        {
+          "lvl": 73,
+          "m": "Niebla Clara"
+        }
+      ],
+      "tmMoves": [
+        "Asalto Barrera",
+        "Carga Parábola",
+        "Chuzos",
+        "Ciclón",
+        "Clavo Cañón",
+        "Cura Floral",
+        "Danza Aleteo",
+        "Danza Lunar",
+        "Decalcomanía",
+        "Decoración",
+        "Deslome",
+        "Esfera Aural",
+        "Estrujón",
+        "Fotocolisión",
+        "Fuerza G",
+        "Gas Corrosivo",
+        "Giro Mortífero",
+        "Golpe Roca",
+        "Láser Doble",
+        "Onda Certera",
+        "Onda Tóxica",
+        "Ovocuración",
+        "Palma Rauda",
+        "Planta Feroz",
+        "Pulso de Campo",
+        "Puño Incremento",
+        "Purificación",
+        "Rayo Fusión",
+        "Rencor Reprimido",
+        "Retribución",
+        "Sacrificio",
+        "Vendetta",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Cola Veneno",
+        "Sísmico",
+        "Bilis",
+        "Gran Ojo"
+      ],
+      "spriteKey": "OKIDOGI"
     }
   ],
   "graveyard": [
@@ -6322,15 +6322,15 @@
       "mon": "Tyrantrum"
     },
     {
-      "route": "",
-      "where": "Estación del Magnetotrén",
-      "species": "Okidogi",
-      "nickname": "",
+      "route": "ruta_14",
+      "where": "Ruta 14",
+      "species": "Dragalge",
+      "nickname": "Wryn",
       "shiny": false,
       "status": "captured",
-      "category": "intercambio",
-      "level": 29,
-      "mon": "Okidogi"
+      "category": "salvaje",
+      "level": 42,
+      "mon": "Dragalge"
     },
     {
       "route": "ruta_12",
@@ -6597,17 +6597,6 @@
       "mon": "Aegislash"
     },
     {
-      "route": "ruta_14",
-      "where": "Ruta 14",
-      "species": "Dragalge",
-      "nickname": "Wryn",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 42,
-      "mon": "Dragalge"
-    },
-    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Floette",
@@ -6650,6 +6639,17 @@
       "category": "ciudad",
       "level": 10,
       "mon": "Sinistea"
+    },
+    {
+      "route": "",
+      "where": "Estación del Magnetotrén",
+      "species": "Okidogi",
+      "nickname": "",
+      "shiny": false,
+      "status": "captured",
+      "category": "intercambio",
+      "level": 29,
+      "mon": "Okidogi"
     },
     {
       "route": "ruta_1",
@@ -6755,6 +6755,7 @@
       "ruta_16": true,
       "monte_moon": true,
       "ruta_5": true,
+      "ruta_14": true,
       "ruta_12": true,
       "ruta_21": true,
       "ruta_4": true,
@@ -6773,7 +6774,6 @@
       "ruta_2_sur": true,
       "ruta_15": true,
       "ciudad_azafran": true,
-      "ruta_14": true,
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
       "ruta_9": true,
@@ -6908,6 +6908,7 @@
       271,
       301,
       323,
+      326,
       334,
       363,
       364,
@@ -6968,6 +6969,7 @@
       "Gema Roca",
       "Globo Helio",
       "Hierba Copia",
+      "Hierba Mental",
       "Hueso Grueso",
       "Incienso Marino",
       "Incubadora",
@@ -7371,6 +7373,12 @@
       {
         "id": "UTILITYUMBRELLA",
         "name": "Parasol Multiuso",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "MENTALHERB",
+        "name": "Hierba Mental",
         "qty": 1,
         "pocket": "Objetos"
       },
