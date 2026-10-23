@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 11h 17m jugadas · 114,540₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 11h 23m jugadas · 121,890₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Hedwig",
       "species": "Decidueye",
-      "level": 47,
+      "level": 48,
       "types": [
         "Planta",
         "Fantasma"
@@ -33,12 +33,12 @@
         15
       ],
       "ev": [
-        51,
-        99,
+        55,
+        101,
         45,
         46,
         48,
-        52
+        54
       ],
       "abilPool": [
         "Encadenado",
@@ -178,7 +178,7 @@
     {
       "nickname": "Mocardo",
       "species": "Muk (Alola)",
-      "level": 47,
+      "level": 48,
       "types": [
         "Veneno",
         "Siniestro"
@@ -202,12 +202,12 @@
         26
       ],
       "ev": [
-        26,
-        47,
+        30,
+        49,
         12,
         26,
         35,
-        17
+        19
       ],
       "abilPool": [
         "Mudar",
@@ -339,7 +339,7 @@
     {
       "nickname": "Willyrex",
       "species": "Tyrantrum",
-      "level": 47,
+      "level": 48,
       "types": [
         "Roca",
         "Dragón"
@@ -350,7 +350,7 @@
       "shiny": false,
       "moves": [
         "Hachazo Pétreo",
-        "Cola Dragón",
+        "Veneno X",
         "Terremoto",
         "Cuerno Certero"
       ],
@@ -363,12 +363,12 @@
         22
       ],
       "ev": [
-        17,
-        23,
+        21,
+        25,
         3,
         16,
         17,
-        12
+        14
       ],
       "abilPool": [
         "Ignorante"
@@ -472,7 +472,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 47,
+      "level": 48,
       "types": [
         "Eléctrico"
       ],
@@ -495,12 +495,12 @@
         19
       ],
       "ev": [
-        48,
-        97,
+        52,
+        99,
         48,
         52,
         52,
-        55
+        57
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -641,7 +641,7 @@
     {
       "nickname": "Ott",
       "species": "Samurott (Hisui)",
-      "level": 47,
+      "level": 48,
       "types": [
         "Agua",
         "Siniestro"
@@ -665,12 +665,12 @@
         0
       ],
       "ev": [
-        0,
-        2,
+        4,
+        4,
         3,
         0,
         1,
-        0
+        2
       ],
       "abilPool": [
         "Insonorizar"
@@ -790,7 +790,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 47,
+      "level": 48,
       "types": [
         "Psíquico",
         "Volador"
@@ -814,12 +814,12 @@
         20
       ],
       "ev": [
-        30,
-        45,
+        34,
+        47,
         28,
         25,
         32,
-        22
+        24
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -6544,7 +6544,8 @@
       "gym1": true,
       "gym2": true,
       "gym3": true,
-      "gym4": true
+      "gym4": true,
+      "gym5": true
     },
     "bosses": {},
     "npcs": {},
@@ -6696,6 +6697,8 @@
       189,
       190,
       191,
+      192,
+      193,
       209,
       214,
       271,
@@ -6786,6 +6789,7 @@
       "Mochi Intelecto",
       "Monedero",
       "MT03",
+      "MT05",
       "MT07",
       "MT100",
       "MT101",
@@ -6804,6 +6808,7 @@
       "MT19",
       "MT21",
       "MT30",
+      "MT36",
       "MT37",
       "MT38",
       "MT39",
@@ -6823,6 +6828,7 @@
       "MT64",
       "MT65",
       "MT66",
+      "MT67",
       "MT72",
       "MT73",
       "MT74",
@@ -6875,6 +6881,7 @@
       "Tabla Acero",
       "Tabla Linfa",
       "Tabla Pétrea",
+      "Tesecreto",
       "Ticket Barco",
       "Toxisfera",
       "Ultra Ball",
@@ -7188,12 +7195,6 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "LAVACOOKIE",
-        "name": "Galleta Lava",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "PPUP",
         "name": "Más PP",
         "qty": 1,
@@ -7308,6 +7309,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "CENIZASSAGRADAS",
+        "name": "Cenizas Sagradas",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 18,
@@ -7374,6 +7381,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM05",
+        "name": "MT05",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM07",
         "name": "MT07",
         "qty": 1,
@@ -7436,6 +7449,12 @@
       {
         "id": "TM30",
         "name": "MT30",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM36",
+        "name": "MT36",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -7556,6 +7575,12 @@
       {
         "id": "TM66",
         "name": "MT66",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM67",
+        "name": "MT67",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -7940,6 +7965,12 @@
       {
         "id": "LENSOFTRUTH",
         "name": "Lente de la Verdad",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "TESECRETO",
+        "name": "Tesecreto",
         "qty": 1,
         "pocket": "Objetos clave"
       }
