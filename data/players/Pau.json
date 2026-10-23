@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 11h 37m jugadas · 108,890₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 11h 45m jugadas · 108,890₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Hedwig",
@@ -35,9 +35,9 @@
       "ev": [
         55,
         101,
-        45,
+        47,
         46,
-        48,
+        49,
         54
       ],
       "abilPool": [
@@ -203,9 +203,9 @@
       "ev": [
         52,
         99,
-        48,
+        50,
         52,
-        52,
+        53,
         57
       ],
       "abilPool": [
@@ -373,9 +373,9 @@
       "ev": [
         4,
         4,
-        3,
+        5,
         0,
-        1,
+        2,
         2
       ],
       "abilPool": [
@@ -522,9 +522,9 @@
       "ev": [
         34,
         47,
-        28,
+        30,
         25,
-        32,
+        33,
         24
       ],
       "abilPool": [
@@ -665,9 +665,9 @@
       "ev": [
         21,
         25,
-        3,
+        5,
         16,
-        17,
+        18,
         14
       ],
       "abilPool": [
@@ -770,157 +770,170 @@
       "spriteKey": "TYRANTRUM"
     },
     {
-      "nickname": "Wryn",
-      "species": "Dragalge",
-      "level": 47,
+      "nickname": "Okidogi",
+      "species": "Okidogi",
+      "level": 48,
       "types": [
         "Veneno",
-        "Dragón"
+        "Lucha"
       ],
-      "ability": "Cuerpo Horneado",
-      "nature": "Serena",
-      "item": "Dragalgite",
+      "ability": "Herbívoro",
+      "nature": "Amable",
+      "item": "",
       "shiny": false,
       "moves": [
-        "Onda Tóxica",
-        "Psicocarga",
-        "Rencor Reprimido",
-        "Ciclón"
+        "Buena Baza",
+        "Veneno X",
+        "Asalto Barrera",
+        "Palma Rauda"
       ],
+      "origin": "don_prodigio",
       "iv": [
-        7,
-        19,
-        19,
-        14,
-        21,
-        22
+        24,
+        28,
+        17,
+        12,
+        20,
+        28
       ],
       "ev": [
         0,
-        2,
-        3,
         0,
-        1,
+        0,
+        0,
+        0,
         0
       ],
       "abilPool": [
-        "Cuerpo Horneado",
-        "Peluche"
+        "Herbívoro"
       ],
       "abilHidden": [
-        "Transportarrocas"
+        "Fuga"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Eco Voz"
+          "m": "Desquite"
         },
         {
           "lvl": 1,
-          "m": "Ciclón"
+          "m": "Buena Baza"
         },
         {
           "lvl": 1,
-          "m": "Bramido Dragón"
+          "m": "Veneno X"
         },
         {
           "lvl": 1,
-          "m": "Gas Venenoso"
+          "m": "Golpe Roca"
         },
         {
           "lvl": 1,
-          "m": "Intercambio"
+          "m": "Tormento"
         },
         {
           "lvl": 1,
-          "m": "Fanfarronear"
+          "m": "Poder Reserva"
         },
         {
-          "lvl": 5,
-          "m": "Niebla Clara"
+          "lvl": 1,
+          "m": "Cola Veneno"
         },
         {
-          "lvl": 12,
-          "m": "Sol Matinal"
+          "lvl": 8,
+          "m": "Sísmico"
         },
         {
-          "lvl": 15,
-          "m": "Disparo Espejo"
+          "lvl": 16,
+          "m": "Bilis"
         },
         {
-          "lvl": 19,
-          "m": "Relevo"
+          "lvl": 24,
+          "m": "Gran Ojo"
         },
         {
-          "lvl": 20,
-          "m": "Conversión"
+          "lvl": 32,
+          "m": "Palma Rauda"
         },
         {
-          "lvl": 25,
-          "m": "Gas Corrosivo"
-        },
-        {
-          "lvl": 30,
-          "m": "Última Palabra"
-        },
-        {
-          "lvl": 35,
-          "m": "Clorofiláser"
+          "lvl": 37,
+          "m": "Puño Dinámico"
         },
         {
           "lvl": 40,
-          "m": "Vasto Impacto"
+          "m": "Asalto Barrera"
         },
         {
-          "lvl": 45,
-          "m": "Nieve Polvo"
+          "lvl": 48,
+          "m": "Colmillo Veneno"
         },
         {
-          "lvl": 52,
-          "m": "Carga Dragón"
+          "lvl": 56,
+          "m": "Puño Meteoro"
         },
         {
-          "lvl": 59,
-          "m": "Follaje"
+          "lvl": 61,
+          "m": "Distorsión"
         },
         {
-          "lvl": 66,
-          "m": "Garra Dragón"
+          "lvl": 64,
+          "m": "Espabila"
+        },
+        {
+          "lvl": 67,
+          "m": "Sable Místico"
+        },
+        {
+          "lvl": 72,
+          "m": "Danza Aleteo"
+        },
+        {
+          "lvl": 73,
+          "m": "Niebla Clara"
         }
       ],
       "tmMoves": [
-        "Alboroto",
-        "As Oculto",
         "Asalto Barrera",
-        "Barrera",
-        "Bomba Ácida",
         "Carga Parábola",
+        "Chuzos",
+        "Ciclón",
         "Clavo Cañón",
+        "Cura Floral",
+        "Danza Aleteo",
+        "Danza Lunar",
         "Decalcomanía",
-        "Eco Metálico",
+        "Decoración",
+        "Deslome",
+        "Esfera Aural",
         "Estrujón",
+        "Fotocolisión",
         "Fuerza G",
-        "Granizo",
+        "Gas Corrosivo",
+        "Giro Mortífero",
+        "Golpe Roca",
         "Láser Doble",
-        "Mirada Heladora",
+        "Onda Certera",
         "Onda Tóxica",
-        "Piñón Auxiliar",
-        "Psicocarga",
-        "Púas",
+        "Ovocuración",
+        "Palma Rauda",
+        "Planta Feroz",
         "Pulso de Campo",
         "Puño Incremento",
+        "Purificación",
+        "Rayo Fusión",
         "Rencor Reprimido",
-        "Shuriken de Agua",
-        "Velo Sagrado",
-        "Vendetta"
+        "Retribución",
+        "Sacrificio",
+        "Vendetta",
+        "Viento Plata"
       ],
       "firstMoves": [
-        "Gas Corrosivo",
-        "Última Palabra",
-        "Clorofiláser",
-        "Vasto Impacto"
+        "Cola Veneno",
+        "Sísmico",
+        "Bilis",
+        "Gran Ojo"
       ],
-      "spriteKey": "DRAGALGE"
+      "spriteKey": "OKIDOGI"
     }
   ],
   "box": [
@@ -4266,6 +4279,279 @@
       "spriteKey": "MUK_1"
     },
     {
+      "nickname": "Zeppeli",
+      "species": "Aegislash",
+      "level": 46,
+      "types": [
+        "Acero",
+        "Fantasma"
+      ],
+      "ability": "Sequía",
+      "nature": "Alocada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Psicocorte",
+        "Luminicola",
+        "Rencor",
+        "Nitrocarga"
+      ],
+      "iv": [
+        17,
+        18,
+        22,
+        30,
+        11,
+        9
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Sequía"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 0,
+          "m": "Disparo Espejo"
+        },
+        {
+          "lvl": 1,
+          "m": "Venganza"
+        },
+        {
+          "lvl": 1,
+          "m": "Halloween"
+        },
+        {
+          "lvl": 1,
+          "m": "Viento Afín"
+        },
+        {
+          "lvl": 1,
+          "m": "Onda Anómala"
+        },
+        {
+          "lvl": 1,
+          "m": "Retracción"
+        },
+        {
+          "lvl": 1,
+          "m": "Terratemblor"
+        },
+        {
+          "lvl": 1,
+          "m": "Día de Pago"
+        },
+        {
+          "lvl": 1,
+          "m": "Rugido"
+        },
+        {
+          "lvl": 1,
+          "m": "Plumerazo"
+        },
+        {
+          "lvl": 1,
+          "m": "Frío Polar"
+        },
+        {
+          "lvl": 1,
+          "m": "Acoso"
+        },
+        {
+          "lvl": 1,
+          "m": "Furia"
+        },
+        {
+          "lvl": 1,
+          "m": "Fría Acogida"
+        },
+        {
+          "lvl": 1,
+          "m": "Psicocorte"
+        },
+        {
+          "lvl": 1,
+          "m": "Luminicola"
+        },
+        {
+          "lvl": 1,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 1,
+          "m": "Nitrocarga"
+        }
+      ],
+      "firstMoves": [
+        "Psicocorte",
+        "Luminicola",
+        "Rencor",
+        "Nitrocarga"
+      ],
+      "spriteKey": "AEGISLASH"
+    },
+    {
+      "nickname": "Wryn",
+      "species": "Dragalge",
+      "level": 47,
+      "types": [
+        "Veneno",
+        "Dragón"
+      ],
+      "ability": "Cuerpo Horneado",
+      "nature": "Serena",
+      "item": "Dragalgite",
+      "shiny": false,
+      "moves": [
+        "Onda Tóxica",
+        "Psicocarga",
+        "Rencor Reprimido",
+        "Ciclón"
+      ],
+      "iv": [
+        7,
+        19,
+        19,
+        14,
+        21,
+        22
+      ],
+      "ev": [
+        0,
+        2,
+        5,
+        0,
+        2,
+        0
+      ],
+      "abilPool": [
+        "Cuerpo Horneado",
+        "Peluche"
+      ],
+      "abilHidden": [
+        "Transportarrocas"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Eco Voz"
+        },
+        {
+          "lvl": 1,
+          "m": "Ciclón"
+        },
+        {
+          "lvl": 1,
+          "m": "Bramido Dragón"
+        },
+        {
+          "lvl": 1,
+          "m": "Gas Venenoso"
+        },
+        {
+          "lvl": 1,
+          "m": "Intercambio"
+        },
+        {
+          "lvl": 1,
+          "m": "Fanfarronear"
+        },
+        {
+          "lvl": 5,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 12,
+          "m": "Sol Matinal"
+        },
+        {
+          "lvl": 15,
+          "m": "Disparo Espejo"
+        },
+        {
+          "lvl": 19,
+          "m": "Relevo"
+        },
+        {
+          "lvl": 20,
+          "m": "Conversión"
+        },
+        {
+          "lvl": 25,
+          "m": "Gas Corrosivo"
+        },
+        {
+          "lvl": 30,
+          "m": "Última Palabra"
+        },
+        {
+          "lvl": 35,
+          "m": "Clorofiláser"
+        },
+        {
+          "lvl": 40,
+          "m": "Vasto Impacto"
+        },
+        {
+          "lvl": 45,
+          "m": "Nieve Polvo"
+        },
+        {
+          "lvl": 52,
+          "m": "Carga Dragón"
+        },
+        {
+          "lvl": 59,
+          "m": "Follaje"
+        },
+        {
+          "lvl": 66,
+          "m": "Garra Dragón"
+        }
+      ],
+      "tmMoves": [
+        "Alboroto",
+        "As Oculto",
+        "Asalto Barrera",
+        "Barrera",
+        "Bomba Ácida",
+        "Carga Parábola",
+        "Clavo Cañón",
+        "Decalcomanía",
+        "Eco Metálico",
+        "Estrujón",
+        "Fuerza G",
+        "Granizo",
+        "Láser Doble",
+        "Mirada Heladora",
+        "Onda Tóxica",
+        "Piñón Auxiliar",
+        "Psicocarga",
+        "Púas",
+        "Pulso de Campo",
+        "Puño Incremento",
+        "Rencor Reprimido",
+        "Shuriken de Agua",
+        "Velo Sagrado",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Gas Corrosivo",
+        "Última Palabra",
+        "Clorofiláser",
+        "Vasto Impacto"
+      ],
+      "spriteKey": "DRAGALGE"
+    },
+    {
       "nickname": "Mariconada",
       "species": "Floette",
       "level": 21,
@@ -4800,142 +5086,6 @@
         "Halloween"
       ],
       "spriteKey": "SINISTEA_1"
-    },
-    {
-      "nickname": "Sol Solet",
-      "species": "Solrock",
-      "level": 29,
-      "types": [
-        "Roca",
-        "Psíquico"
-      ],
-      "ability": "Clorofila",
-      "nature": "Cauta",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Seducción",
-        "Refugio",
-        "Intercambio",
-        "Atadura"
-      ],
-      "iv": [
-        0,
-        25,
-        15,
-        28,
-        5,
-        9
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Clorofila"
-      ],
-      "abilHidden": [],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Enrosque"
-        },
-        {
-          "lvl": 1,
-          "m": "Poder Pasado"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Jet"
-        },
-        {
-          "lvl": 1,
-          "m": "Golpe Roca"
-        },
-        {
-          "lvl": 1,
-          "m": "Doble Equipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Asalto Barrera"
-        },
-        {
-          "lvl": 5,
-          "m": "Psicocambio"
-        },
-        {
-          "lvl": 9,
-          "m": "Isofuerza"
-        },
-        {
-          "lvl": 10,
-          "m": "Sellar"
-        },
-        {
-          "lvl": 15,
-          "m": "Psicoonda"
-        },
-        {
-          "lvl": 17,
-          "m": "Seducción"
-        },
-        {
-          "lvl": 20,
-          "m": "Refugio"
-        },
-        {
-          "lvl": 21,
-          "m": "Intercambio"
-        },
-        {
-          "lvl": 25,
-          "m": "Atadura"
-        },
-        {
-          "lvl": 30,
-          "m": "Zona Extraña"
-        },
-        {
-          "lvl": 35,
-          "m": "Pirueta Helada"
-        },
-        {
-          "lvl": 35,
-          "m": "Meditación"
-        },
-        {
-          "lvl": 37,
-          "m": "Joya de Luz"
-        },
-        {
-          "lvl": 40,
-          "m": "Testarazo"
-        },
-        {
-          "lvl": 45,
-          "m": "Corpulencia"
-        },
-        {
-          "lvl": 50,
-          "m": "Pirotecnia"
-        },
-        {
-          "lvl": 55,
-          "m": "Cura Floral"
-        }
-      ],
-      "firstMoves": [
-        "Seducción",
-        "Refugio",
-        "Intercambio",
-        "Atadura"
-      ],
-      "spriteKey": "SOLROCK"
     }
   ],
   "graveyard": [
@@ -6172,15 +6322,15 @@
       "mon": "Tyrantrum"
     },
     {
-      "route": "ruta_14",
-      "where": "Ruta 14",
-      "species": "Dragalge",
-      "nickname": "Wryn",
+      "route": "",
+      "where": "Estación del Magnetotrén",
+      "species": "Okidogi",
+      "nickname": "",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 42,
-      "mon": "Dragalge"
+      "category": "intercambio",
+      "level": 29,
+      "mon": "Okidogi"
     },
     {
       "route": "ruta_12",
@@ -6436,6 +6586,28 @@
       "mon": "Muk"
     },
     {
+      "route": "ciudad_azafran",
+      "where": "Ciudad Azafrán",
+      "species": "Aegislash",
+      "nickname": "Zeppeli",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 46,
+      "mon": "Aegislash"
+    },
+    {
+      "route": "ruta_14",
+      "where": "Ruta 14",
+      "species": "Dragalge",
+      "nickname": "Wryn",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 42,
+      "mon": "Dragalge"
+    },
+    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Floette",
@@ -6478,17 +6650,6 @@
       "category": "ciudad",
       "level": 10,
       "mon": "Sinistea"
-    },
-    {
-      "route": "tunel_roca",
-      "where": "Túnel Roca",
-      "species": "Solrock",
-      "nickname": "Sol Solet",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 29,
-      "mon": "Solrock"
     },
     {
       "route": "ruta_1",
@@ -6594,7 +6755,6 @@
       "ruta_16": true,
       "monte_moon": true,
       "ruta_5": true,
-      "ruta_14": true,
       "ruta_12": true,
       "ruta_21": true,
       "ruta_4": true,
@@ -6612,10 +6772,11 @@
       "zona_safari": true,
       "ruta_2_sur": true,
       "ruta_15": true,
+      "ciudad_azafran": true,
+      "ruta_14": true,
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
       "ruta_9": true,
-      "tunel_roca": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_10_sur": true,
@@ -6626,6 +6787,7 @@
       "ruta_2_norte": true,
       "ciudad_carmin": true,
       "tunel_diglett": true,
+      "tunel_roca": true,
       "pueblo_marengo": true,
       "ruta_17": true
     },
@@ -6668,7 +6830,8 @@
       "ciudad_fucsia": true,
       "zona_safari": true,
       "ruta_16": true,
-      "ruta_17": true
+      "ruta_17": true,
+      "ciudad_azafran": true
     },
     "switches": [
       48,
@@ -6739,6 +6902,7 @@
       191,
       192,
       193,
+      201,
       209,
       214,
       271,
@@ -6773,6 +6937,7 @@
       "Baya Pomaro",
       "Baya Tamar",
       "Baya Tamate",
+      "Baya Zanama",
       "Bono Bici",
       "Botón Escape",
       "Brazal Firme",
@@ -6791,12 +6956,14 @@
       "Defensa X",
       "Efigie Antigua",
       "Elixir",
+      "Elixir Máximo",
       "Escama Bella",
       "Escama Dragón",
       "Espray Bucal",
       "Fósil Garra",
       "Fósil Hélix",
       "Fragmento Cometa",
+      "Freshstartmochi",
       "Gema Dragón",
       "Gema Roca",
       "Globo Helio",
@@ -6885,6 +7052,7 @@
       "MT90",
       "Nivel Ball",
       "Pañuelo de Seda",
+      "Parasol Multiuso",
       "Pepita",
       "Periscopio",
       "Pesa Recia",
@@ -7201,6 +7369,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "UTILITYUMBRELLA",
+        "name": "Parasol Multiuso",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -7215,7 +7389,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 176,
+        "qty": 157,
         "pocket": "Medicinas"
       },
       {
@@ -7357,6 +7531,18 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "MAXELIXIR",
+        "name": "Elixir Máximo",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "FRESHSTARTMOCHI",
+        "name": "Freshstartmochi",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 18,
@@ -7407,7 +7593,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 24,
+        "qty": 23,
         "pocket": "Poké Balls"
       },
       {
@@ -7813,6 +7999,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "LEPPABERRY",
+        "name": "Baya Zanama",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "MAGOBERRY",
         "name": "Baya Ango",
         "qty": 1,
@@ -7929,7 +8121,7 @@
       {
         "id": "DIREHIT3",
         "name": "Crítico X 3",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos de combate"
       },
       {
