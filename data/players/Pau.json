@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 11h 34m jugadas · 121,890₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 11h 37m jugadas · 108,890₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Hedwig",
@@ -6873,6 +6873,7 @@
       "MT73",
       "MT74",
       "MT80",
+      "MT81",
       "MT82",
       "MT83",
       "MT84",
@@ -6894,6 +6895,7 @@
       "Poké Montura",
       "Polvo Brillo",
       "Polvo Estelar",
+      "Precisión X",
       "Prettyfeather",
       "Puerro",
       "Radar",
@@ -7481,14 +7483,32 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM20",
+        "name": "MT20",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM21",
         "name": "MT21",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM27",
+        "name": "MT27",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM30",
         "name": "MT30",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM31",
+        "name": "MT31",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -7649,6 +7669,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM81",
+        "name": "MT81",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM82",
         "name": "MT82",
         "qty": 1,
@@ -7703,6 +7729,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM94",
+        "name": "MT94",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM98",
         "name": "MT98",
         "qty": 1,
@@ -7735,6 +7767,12 @@
       {
         "id": "TM108",
         "name": "MT108",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM109",
+        "name": "MT109",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -7909,6 +7947,12 @@
       {
         "id": "XSPEED3",
         "name": "Velocidad X 3",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "XACCURACY",
+        "name": "Precisión X",
         "qty": 1,
         "pocket": "Objetos de combate"
       },
