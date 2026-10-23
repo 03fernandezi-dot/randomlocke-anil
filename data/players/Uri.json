@@ -4,18 +4,18 @@
   "lives": 30,
   "livesUsed": 4,
   "champion": false,
-  "notes": "Importado del save · 22h 5m jugadas · 178,900₽ · vidas en el juego: 22",
+  "notes": "Importado del save · 22h 9m jugadas · 183,400₽ · vidas en el juego: 22",
   "team": [
     {
       "nickname": "Toby",
       "species": "Furfrou",
-      "level": 45,
+      "level": 48,
       "types": [
         "Normal"
       ],
       "ability": "Francotirador",
       "nature": "Ingenua",
-      "item": "",
+      "item": "Periscopio",
       "shiny": false,
       "moves": [
         "Espora",
@@ -35,9 +35,9 @@
         0,
         0,
         0,
-        0,
-        0,
-        0
+        3,
+        2,
+        1
       ],
       "abilPool": [
         "Francotirador"
@@ -180,9 +180,9 @@
         22,
         94,
         55,
-        51,
-        33,
-        55
+        54,
+        35,
+        56
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -364,9 +364,9 @@
         27,
         105,
         58,
-        64,
-        44,
-        59
+        67,
+        46,
+        60
       ],
       "abilPool": [
         "Perro Guardián"
@@ -534,9 +534,9 @@
         27,
         108,
         66,
-        59,
-        46,
-        62
+        62,
+        48,
+        63
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -703,9 +703,9 @@
         45,
         127,
         85,
-        77,
-        68,
-        88
+        80,
+        70,
+        89
       ],
       "abilPool": [
         "Velo Aroma"
@@ -881,9 +881,9 @@
         12,
         58,
         35,
-        32,
-        13,
-        18
+        35,
+        15,
+        19
       ],
       "abilPool": [
         "Mimetismo"
@@ -6516,12 +6516,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "SCOPELENS",
-        "name": "Periscopio",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "POWERLENS",
         "name": "Lente Recia",
         "qty": 1,
@@ -6644,7 +6638,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 504,
+        "qty": 501,
         "pocket": "Medicinas"
       },
       {
