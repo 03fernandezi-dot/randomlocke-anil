@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 12h 39m jugadas · 94,630₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 12h 41m jugadas · 94,630₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Clefairy",
@@ -218,7 +218,7 @@
         "Danza Triunfal"
       ],
       "iv": [
-        3,
+        13,
         25,
         28,
         25,
@@ -362,7 +362,7 @@
         "Acero"
       ],
       "ability": "Cortante",
-      "nature": "Audaz",
+      "nature": "Plácida",
       "item": "",
       "shiny": false,
       "moves": [
@@ -371,10 +371,12 @@
         "Luminicola",
         "Pulimento"
       ],
+      "natureMint": true,
+      "natureBase": "Audaz",
       "iv": [
         15,
         30,
-        13,
+        23,
         11,
         21,
         13
@@ -505,7 +507,7 @@
         18,
         8,
         7,
-        10,
+        20,
         8,
         11
       ],
@@ -4288,18 +4290,6 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "RELAXEDMINT",
-        "name": "Menta Plácida",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "SCapsula",
-        "name": "Scapsula",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "LAVACOOKIE",
         "name": "Galleta Lava",
         "qty": 1,
@@ -4312,12 +4302,6 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "AECapsula",
-        "name": "Aecapsula",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "HASTYMINT",
         "name": "Menta Activa",
         "qty": 1,
@@ -4326,12 +4310,6 @@
       {
         "id": "SWIFTMOCHI",
         "name": "Mochi Ímpetu",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "DCapsula",
-        "name": "Cápsula D",
         "qty": 1,
         "pocket": "Medicinas"
       },
