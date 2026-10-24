@@ -2,188 +2,14 @@
   "id": "Pau",
   "name": "Pau",
   "lives": 30,
-  "livesUsed": 8,
+  "livesUsed": 9,
   "champion": false,
-  "notes": "Importado del save · 12h 11m jugadas · 130,550₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 12h 20m jugadas · 152,310₽ · vidas en el juego: 17",
   "team": [
-    {
-      "nickname": "Hedwig",
-      "species": "Decidueye",
-      "level": 49,
-      "types": [
-        "Planta",
-        "Fantasma"
-      ],
-      "ability": "Compensación",
-      "nature": "Amable",
-      "item": "Seguro Debilidad",
-      "shiny": false,
-      "moves": [
-        "Tormenta Floral",
-        "Brinco",
-        "Colmillo Hielo",
-        "Espora"
-      ],
-      "iv": [
-        21,
-        4,
-        14,
-        26,
-        25,
-        15
-      ],
-      "ev": [
-        57,
-        101,
-        51,
-        51,
-        51,
-        58
-      ],
-      "abilPool": [
-        "Encadenado",
-        "Compensación"
-      ],
-      "abilHidden": [
-        "Mandíbula Fuerte"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Tinieblas"
-        },
-        {
-          "lvl": 1,
-          "m": "Colmillo Hielo"
-        },
-        {
-          "lvl": 1,
-          "m": "Ciclón de Hojas"
-        },
-        {
-          "lvl": 1,
-          "m": "Sombra Vil"
-        },
-        {
-          "lvl": 1,
-          "m": "Doble Equipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Niebla Aromática"
-        },
-        {
-          "lvl": 1,
-          "m": "Abrecaminos"
-        },
-        {
-          "lvl": 1,
-          "m": "Esquirla Helada"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Furia"
-        },
-        {
-          "lvl": 1,
-          "m": "Defensa Férrea"
-        },
-        {
-          "lvl": 1,
-          "m": "Mandato"
-        },
-        {
-          "lvl": 1,
-          "m": "Semilladora"
-        },
-        {
-          "lvl": 9,
-          "m": "Cura Selvática"
-        },
-        {
-          "lvl": 12,
-          "m": "Guardia Baja"
-        },
-        {
-          "lvl": 15,
-          "m": "Brinco"
-        },
-        {
-          "lvl": 19,
-          "m": "Afilagarras"
-        },
-        {
-          "lvl": 20,
-          "m": "Enrosque"
-        },
-        {
-          "lvl": 25,
-          "m": "Envidia ardiente"
-        },
-        {
-          "lvl": 30,
-          "m": "Rayo Carga"
-        },
-        {
-          "lvl": 37,
-          "m": "Tormenta Floral"
-        },
-        {
-          "lvl": 41,
-          "m": "Afilar"
-        },
-        {
-          "lvl": 44,
-          "m": "Escalofrío"
-        },
-        {
-          "lvl": 51,
-          "m": "Planta Feroz"
-        },
-        {
-          "lvl": 52,
-          "m": "Patada Tropical"
-        },
-        {
-          "lvl": 58,
-          "m": "Voto Planta"
-        }
-      ],
-      "tmMoves": [
-        "Alarido",
-        "Anulación",
-        "Arrumaco",
-        "As Oculto",
-        "Ciclón",
-        "Cura Floral",
-        "Halloween",
-        "Llave Corsé",
-        "Ominochoque",
-        "Onda Tóxica",
-        "Piñón Auxiliar",
-        "Planta Feroz",
-        "Pulso de Campo",
-        "Purificación",
-        "Rencor Reprimido",
-        "Represión Metal",
-        "Restricción",
-        "Sacrificio",
-        "Shuriken de Agua",
-        "Velo Sagrado",
-        "Viento Carámbano"
-      ],
-      "firstMoves": [
-        "Follaje",
-        "Hoja Mágica",
-        "Mofa",
-        "Truco Floral"
-      ],
-      "spriteKey": "DECIDUEYE"
-    },
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 49,
+      "level": 51,
       "types": [
         "Eléctrico"
       ],
@@ -195,7 +21,7 @@
         "Amplificador",
         "Viento Aciago",
         "Pikaturbo",
-        "Onda Tóxica"
+        "Canto Encantador"
       ],
       "iv": [
         10,
@@ -207,11 +33,11 @@
       ],
       "ev": [
         54,
-        99,
-        54,
-        57,
+        102,
         55,
-        61
+        59,
+        60,
+        71
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -358,7 +184,7 @@
     {
       "nickname": "Ott",
       "species": "Samurott (Hisui)",
-      "level": 49,
+      "level": 51,
       "types": [
         "Agua",
         "Siniestro"
@@ -383,11 +209,11 @@
       ],
       "ev": [
         6,
-        4,
+        7,
+        10,
+        7,
         9,
-        5,
-        4,
-        6
+        16
       ],
       "abilPool": [
         "Insonorizar"
@@ -512,7 +338,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 49,
+      "level": 50,
       "types": [
         "Psíquico",
         "Volador"
@@ -537,11 +363,11 @@
       ],
       "ev": [
         36,
-        47,
-        34,
-        30,
+        50,
         35,
-        28
+        32,
+        40,
+        38
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -659,7 +485,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 49,
+      "level": 50,
       "types": [
         "Veneno",
         "Dragón"
@@ -684,11 +510,11 @@
       ],
       "ev": [
         2,
-        2,
-        9,
         5,
-        4,
-        4
+        10,
+        7,
+        9,
+        14
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -816,7 +642,7 @@
     {
       "nickname": "Mocardo",
       "species": "Muk (Alola)",
-      "level": 49,
+      "level": 51,
       "types": [
         "Veneno",
         "Siniestro"
@@ -841,11 +667,11 @@
       ],
       "ev": [
         32,
-        49,
-        14,
-        31,
-        37,
-        23
+        52,
+        15,
+        33,
+        42,
+        33
       ],
       "abilPool": [
         "Mudar",
@@ -4418,6 +4244,118 @@
       "spriteKey": "AEGISLASH"
     },
     {
+      "nickname": "JODER",
+      "species": "Minior",
+      "level": 50,
+      "types": [
+        "Roca",
+        "Volador"
+      ],
+      "ability": "",
+      "nature": "Fuerte",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Fuerza G",
+        "Giro Rápido",
+        "Acróbata",
+        "Avalancha"
+      ],
+      "iv": [
+        9,
+        17,
+        29,
+        23,
+        29,
+        0
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Piel Tosca"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Luz Lunar"
+        },
+        {
+          "lvl": 3,
+          "m": "Danza Pluma"
+        },
+        {
+          "lvl": 8,
+          "m": "Poder Pasado"
+        },
+        {
+          "lvl": 10,
+          "m": "Foco"
+        },
+        {
+          "lvl": 15,
+          "m": "Trampa Rocas"
+        },
+        {
+          "lvl": 17,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 22,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 24,
+          "m": "Roca Veloz"
+        },
+        {
+          "lvl": 29,
+          "m": "Ataque Ala"
+        },
+        {
+          "lvl": 31,
+          "m": "Danza Aleteo"
+        },
+        {
+          "lvl": 31,
+          "m": "Presente"
+        },
+        {
+          "lvl": 36,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 38,
+          "m": "Fuerza G"
+        },
+        {
+          "lvl": 43,
+          "m": "Giro Rápido"
+        },
+        {
+          "lvl": 45,
+          "m": "Acróbata"
+        },
+        {
+          "lvl": 50,
+          "m": "Avalancha"
+        }
+      ],
+      "firstMoves": [
+        "Fuerza G",
+        "Giro Rápido",
+        "Acróbata",
+        "Avalancha"
+      ],
+      "spriteKey": "MINIOR_10"
+    },
+    {
       "nickname": "Mariconada",
       "species": "Floette",
       "level": 21,
@@ -5121,6 +5059,183 @@
     }
   ],
   "graveyard": [
+    {
+      "nickname": "Hedwig",
+      "species": "Decidueye",
+      "level": 51,
+      "types": [
+        "Planta",
+        "Fantasma"
+      ],
+      "ability": "Compensación",
+      "nature": "Amable",
+      "item": "Seguro Debilidad",
+      "shiny": false,
+      "moves": [
+        "Tormenta Floral",
+        "Brinco",
+        "Colmillo Hielo",
+        "Espora"
+      ],
+      "iv": [
+        21,
+        4,
+        14,
+        26,
+        25,
+        15
+      ],
+      "ev": [
+        57,
+        104,
+        52,
+        53,
+        56,
+        66
+      ],
+      "abilPool": [
+        "Encadenado",
+        "Compensación"
+      ],
+      "abilHidden": [
+        "Mandíbula Fuerte"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 1,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 1,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 1,
+          "m": "Sombra Vil"
+        },
+        {
+          "lvl": 1,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 1,
+          "m": "Abrecaminos"
+        },
+        {
+          "lvl": 1,
+          "m": "Esquirla Helada"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 1,
+          "m": "Defensa Férrea"
+        },
+        {
+          "lvl": 1,
+          "m": "Mandato"
+        },
+        {
+          "lvl": 1,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 9,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 12,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 15,
+          "m": "Brinco"
+        },
+        {
+          "lvl": 19,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 20,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 25,
+          "m": "Envidia ardiente"
+        },
+        {
+          "lvl": 30,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 37,
+          "m": "Tormenta Floral"
+        },
+        {
+          "lvl": 41,
+          "m": "Afilar"
+        },
+        {
+          "lvl": 44,
+          "m": "Escalofrío"
+        },
+        {
+          "lvl": 51,
+          "m": "Planta Feroz"
+        },
+        {
+          "lvl": 52,
+          "m": "Patada Tropical"
+        },
+        {
+          "lvl": 58,
+          "m": "Voto Planta"
+        }
+      ],
+      "tmMoves": [
+        "Alarido",
+        "Anulación",
+        "Arrumaco",
+        "As Oculto",
+        "Ciclón",
+        "Cura Floral",
+        "Halloween",
+        "Llave Corsé",
+        "Ominochoque",
+        "Onda Tóxica",
+        "Piñón Auxiliar",
+        "Planta Feroz",
+        "Pulso de Campo",
+        "Purificación",
+        "Rencor Reprimido",
+        "Represión Metal",
+        "Restricción",
+        "Sacrificio",
+        "Shuriken de Agua",
+        "Velo Sagrado",
+        "Viento Carámbano"
+      ],
+      "firstMoves": [
+        "Follaje",
+        "Hoja Mágica",
+        "Mofa",
+        "Truco Floral"
+      ],
+      "spriteKey": "DECIDUEYE",
+      "cause": "",
+      "route": "Ciudad Plateada",
+      "date": ""
+    },
     {
       "nickname": "Partyfiesta",
       "species": "Hatenna",
@@ -6304,7 +6419,7 @@
       "species": "Decidueye",
       "nickname": "Hedwig",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "ciudad",
       "level": 10,
       "mon": "Decidueye"
@@ -6629,6 +6744,17 @@
       "mon": "Aegislash"
     },
     {
+      "route": "",
+      "where": "Silph S.A",
+      "species": "Minior",
+      "nickname": "JODER",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 50,
+      "mon": "Minior"
+    },
+    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Floette",
@@ -6934,6 +7060,7 @@
       191,
       192,
       193,
+      197,
       198,
       201,
       209,
@@ -6963,6 +7090,7 @@
       "Baya Atania",
       "Baya Baribá",
       "Baya Biglia",
+      "Baya Caoca",
       "Baya Grana",
       "Baya Kouba",
       "Baya Maranga",
@@ -7017,6 +7145,7 @@
       "Más PP",
       "Más PS",
       "Maxipepita",
+      "Maxiseta",
       "Mega-Aro",
       "Menta Afable",
       "Menta Agitada",
@@ -7094,6 +7223,7 @@
       "Parasol Multiuso",
       "Pepita",
       "Periscopio",
+      "Perla",
       "Pesa Recia",
       "Piedra Oval",
       "Plesiofósil",
@@ -7132,6 +7262,7 @@
       "Tabla Pétrea",
       "Tesecreto",
       "Ticket Barco",
+      "Tmagn1",
       "Tmagn2",
       "Toxisfera",
       "Ultra Ball",
@@ -7279,7 +7410,7 @@
       {
         "id": "FOSSILIZEDDINO",
         "name": "Plesiofósil",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -7417,6 +7548,18 @@
       {
         "id": "BIGNUGGET",
         "name": "Maxipepita",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PEARL",
+        "name": "Perla",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "RELICVASE",
+        "name": "Ánfora",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -8099,6 +8242,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "OCCABERRY",
+        "name": "Baya Caoca",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "RINDOBERRY",
         "name": "Baya Tamar",
         "qty": 1,
@@ -8209,6 +8358,12 @@
       {
         "id": "XACCURACY",
         "name": "Precisión X",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "MAXMUSHROOMS",
+        "name": "Maxiseta",
         "qty": 1,
         "pocket": "Objetos de combate"
       },
@@ -8325,6 +8480,12 @@
         "name": "Tmagn2",
         "qty": 1,
         "pocket": "Objetos clave"
+      },
+      {
+        "id": "TMAGN1",
+        "name": "Tmagn1",
+        "qty": 1,
+        "pocket": "Objetos clave"
       }
     ]
   },
@@ -8340,5 +8501,5 @@
     "4140999321",
     "745453697"
   ],
-  "revividos": 2
+  "revividos": 1
 }
