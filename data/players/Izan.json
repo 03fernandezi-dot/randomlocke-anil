@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 12h 22m jugadas · 84,430₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 12h 39m jugadas · 94,630₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Clefairy",
@@ -33,12 +33,12 @@
         25
       ],
       "ev": [
-        10,
+        12,
         16,
-        4,
-        16,
-        205,
-        13
+        8,
+        19,
+        252,
+        16
       ],
       "abilPool": [
         "Bromista",
@@ -179,12 +179,14 @@
         "Electrificación",
         "Giro Rápido",
         "Gravedad",
+        "Láser Doble",
         "Meditación",
         "Patada Salto Alta",
         "Polvo Mágico",
         "Polvo Veneno",
         "Puño Jet",
         "Rayo Burbuja",
+        "Rayo Meteórico",
         "Remolino",
         "Truco Defensa",
         "Vaho Gélido",
@@ -201,7 +203,7 @@
     {
       "nickname": "Taruma",
       "species": "Darmanitan",
-      "level": 35,
+      "level": 36,
       "types": [
         "Fuego"
       ],
@@ -224,12 +226,12 @@
         7
       ],
       "ev": [
-        0,
         2,
-        3,
-        6,
+        2,
+        7,
+        9,
         4,
-        6
+        9
       ],
       "abilPool": [
         "Surcavientos"
@@ -330,6 +332,8 @@
         "Cuerpo Pesado",
         "Gravedad",
         "Hilo Venenoso",
+        "Lanzallamas",
+        "Láser Doble",
         "Llama Protectora",
         "Meditación",
         "Patada Giro",
@@ -376,12 +380,12 @@
         13
       ],
       "ev": [
-        0,
+        2,
         1,
+        6,
+        5,
         2,
-        2,
-        2,
-        2
+        5
       ],
       "abilPool": [
         "Cortante"
@@ -466,6 +470,7 @@
         "Patada Salto Alta",
         "Perforador",
         "Puño Jet",
+        "Rayo Meteórico",
         "Señuelo",
         "Truco Floral",
         "Ultrapuño"
@@ -505,12 +510,12 @@
         11
       ],
       "ev": [
-        0,
         2,
-        3,
-        6,
+        2,
+        7,
+        9,
         4,
-        6
+        9
       ],
       "abilPool": [
         "Fuerza Cerebral"
@@ -601,9 +606,11 @@
         "Electrificación",
         "Estoicismo",
         "Fotocolisión",
+        "Garra Umbría",
         "Giro Rápido",
         "Golpe Rastrero",
         "Gravedad",
+        "Láser Doble",
         "Mal de Ojo",
         "Manos Juntas",
         "Polvo Mágico",
@@ -630,7 +637,7 @@
       ],
       "ability": "Potencia",
       "nature": "Dócil",
-      "item": "",
+      "item": "Gafas Especiales",
       "shiny": false,
       "moves": [
         "Puño Jet",
@@ -647,12 +654,12 @@
         30
       ],
       "ev": [
-        0,
         2,
-        3,
-        6,
+        2,
+        7,
+        9,
         4,
-        6
+        9
       ],
       "abilPool": [
         "Potencia",
@@ -736,6 +743,7 @@
         "Patada Giro",
         "Polvo Veneno",
         "Puño Jet",
+        "Rayo Meteórico",
         "Rueda Fuego",
         "Señuelo",
         "Truco Defensa"
@@ -773,12 +781,12 @@
         6
       ],
       "ev": [
-        0,
-        1,
-        3,
-        4,
         2,
-        4
+        1,
+        7,
+        7,
+        2,
+        7
       ],
       "abilPool": [
         "Mar Llamas"
@@ -867,6 +875,7 @@
         "Fotocolisión",
         "Giro Rápido",
         "Golpe Bajo",
+        "Lanzallamas",
         "Llama Protectora",
         "Mal de Ojo",
         "Patada Giro",
@@ -3826,7 +3835,9 @@
       "ciudad_celeste": true,
       "ruta_2_norte": true,
       "ruta_20": true,
-      "ruta_15": true
+      "ruta_15": true,
+      "ruta_10_sur": true,
+      "pueblo_lavanda": true
     },
     "items": {},
     "encounters": {
@@ -3852,7 +3863,8 @@
       "tunel_diglett": true,
       "ruta_9": true,
       "ruta_10_norte": true,
-      "tunel_roca": true
+      "tunel_roca": true,
+      "ruta_10_sur": true
     },
     "switches": [
       48,
@@ -3879,6 +3891,7 @@
       88,
       89,
       90,
+      91,
       92,
       110,
       112,
@@ -3907,10 +3920,12 @@
       "Activaobjeto",
       "Aecapsula",
       "Amuleto Oval",
+      "Ataque X 2",
       "Banda Recia",
       "Baya Algama",
       "Baya Arabol",
       "Baya Aranja",
+      "Baya Lagro",
       "Baya Lichi",
       "Baya Pomaro",
       "Blanco",
@@ -3935,6 +3950,7 @@
       "Fósil Hélix",
       "Franja Recia",
       "Gafas de Sol",
+      "Gafas Especiales",
       "Galleta Lava",
       "Gema Acero",
       "Gema Fantasma",
@@ -3964,6 +3980,7 @@
       "MT106",
       "MT107",
       "MT111",
+      "MT12",
       "MT121",
       "MT17",
       "MT23",
@@ -3982,13 +3999,16 @@
       "MT54",
       "MT57",
       "MT59",
+      "MT60",
       "MT64",
       "MT69",
+      "MT70",
       "MT72",
       "MT73",
       "MT74",
       "MT76",
       "MT78",
+      "MT80",
       "MT83",
       "MT85",
       "MT86",
@@ -4022,6 +4042,7 @@
       "Ticket Barco",
       "Tiraobjeto",
       "Toxisfera",
+      "Trufa",
       "Turno Ball",
       "Vial"
     ],
@@ -4029,7 +4050,7 @@
       {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
-        "qty": 3,
+        "qty": 4,
         "pocket": "Objetos"
       },
       {
@@ -4321,6 +4342,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "TRUFA",
+        "name": "Trufa",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 1,
@@ -4371,6 +4398,12 @@
       {
         "id": "TM04",
         "name": "MT04",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM12",
+        "name": "MT12",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -4477,6 +4510,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM60",
+        "name": "MT60",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM64",
         "name": "MT64",
         "qty": 1,
@@ -4485,6 +4524,12 @@
       {
         "id": "TM69",
         "name": "MT69",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM70",
+        "name": "MT70",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -4515,6 +4560,12 @@
       {
         "id": "TM78",
         "name": "MT78",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM80",
+        "name": "MT80",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -4641,12 +4692,18 @@
       {
         "id": "LIECHIBERRY",
         "name": "Baya Lichi",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Bayas"
       },
       {
         "id": "STARFBERRY",
         "name": "Baya Arabol",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "MICLEBERRY",
+        "name": "Baya Lagro",
         "qty": 1,
         "pocket": "Bayas"
       },
@@ -4681,6 +4738,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "XATTACK2",
+        "name": "Ataque X 2",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -4693,8 +4756,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
