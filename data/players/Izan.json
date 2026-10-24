@@ -2,9 +2,9 @@
   "id": "Izan",
   "name": "Izan",
   "lives": 30,
-  "livesUsed": 7,
+  "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 11h 33m jugadas · 74,210₽ · vidas en el juego: 20",
+  "notes": "Importado del save · 11h 37m jugadas · 77,110₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Clefairy",
@@ -36,9 +36,9 @@
         10,
         15,
         1,
-        12,
-        139,
-        9
+        14,
+        155,
+        11
       ],
       "abilPool": [
         "Bromista",
@@ -227,9 +227,9 @@
         0,
         1,
         0,
+        4,
         2,
-        2,
-        2
+        4
       ],
       "abilPool": [
         "Surcavientos"
@@ -350,151 +350,160 @@
       "spriteKey": "DARMANITAN"
     },
     {
-      "nickname": "Poseidón",
-      "species": "Dragalge",
-      "level": 35,
+      "nickname": "Furro",
+      "species": "Linoone",
+      "level": 31,
       "types": [
-        "Veneno",
-        "Dragón"
+        "Normal"
       ],
-      "ability": "Relincho Blanco",
-      "nature": "Modesta",
-      "item": "Flecha Venenosa",
+      "ability": "Impasible",
+      "nature": "Cauta",
+      "item": "Parte Verde",
       "shiny": false,
       "moves": [
-        "Masa Cósmica",
-        "Carga Tóxica",
-        "Rayo Burbuja",
-        "Bomba Fango"
+        "Giro Rápido",
+        "Fitoimpulso",
+        "Ovocuración",
+        "Plumerazo"
       ],
       "iv": [
-        31,
-        24,
-        19,
-        9,
-        20,
-        18
+        3,
+        8,
+        5,
+        18,
+        22,
+        16
       ],
       "ev": [
-        0,
-        1,
-        0,
-        2,
-        2,
-        2
+        25,
+        36,
+        22,
+        26,
+        28,
+        35
       ],
       "abilPool": [
-        "Sal Purificadora",
-        "Relincho Blanco"
+        "Impasible",
+        "Nerviosismo"
       ],
       "abilHidden": [
-        "Disemillar"
+        "Receptor"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Bomba Fango"
+          "m": "Cuerpo Pesado"
         },
         {
           "lvl": 1,
-          "m": "Daño Secreto"
+          "m": "Ovocuración"
         },
         {
           "lvl": 1,
-          "m": "Afilagarras"
+          "m": "Clavo Cañón"
         },
         {
           "lvl": 1,
-          "m": "Cascabel Cura"
+          "m": "Señuelo"
         },
         {
           "lvl": 1,
-          "m": "Luz Lunar"
+          "m": "Clonatipo"
         },
         {
           "lvl": 1,
-          "m": "Cambiavelocidad"
+          "m": "Gruñido"
         },
         {
-          "lvl": 5,
-          "m": "Carga Tóxica"
+          "lvl": 1,
+          "m": "Llanto Falso"
+        },
+        {
+          "lvl": 1,
+          "m": "Represión Metal"
+        },
+        {
+          "lvl": 9,
+          "m": "Atadura"
         },
         {
           "lvl": 12,
-          "m": "Punzada Rama"
+          "m": "Fortaleza"
         },
         {
           "lvl": 15,
-          "m": "Levitón"
+          "m": "Puño Mareo"
         },
         {
-          "lvl": 19,
+          "lvl": 17,
+          "m": "Marcha Espectral"
+        },
+        {
+          "lvl": 18,
+          "m": "Capa Mágica"
+        },
+        {
+          "lvl": 23,
           "m": "Metrónomo"
         },
         {
-          "lvl": 20,
-          "m": "Hierba Lazo"
+          "lvl": 23,
+          "m": "Motivación"
         },
         {
-          "lvl": 25,
-          "m": "Aguante"
+          "lvl": 28,
+          "m": "Bálsamo Osado"
         },
         {
-          "lvl": 30,
-          "m": "Silbato"
+          "lvl": 33,
+          "m": "Truco Fuerza"
         },
         {
-          "lvl": 35,
-          "m": "Masa Cósmica"
+          "lvl": 38,
+          "m": "Intercambio"
         },
         {
-          "lvl": 40,
+          "lvl": 41,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 43,
           "m": "Danza Pluma"
         },
         {
-          "lvl": 45,
-          "m": "Residuos"
+          "lvl": 48,
+          "m": "Tecno Shock"
         },
         {
-          "lvl": 52,
-          "m": "Beso Amoroso"
-        },
-        {
-          "lvl": 59,
-          "m": "Hidrobomba"
-        },
-        {
-          "lvl": 66,
-          "m": "Onda Tóxica"
+          "lvl": 65,
+          "m": "Don Natural"
         }
       ],
       "tmMoves": [
-        "Agua Fría",
-        "Alivio",
-        "Brecha Negra",
-        "Calcinación",
-        "Carga Tóxica",
-        "Chapoteo Lodo",
+        "Acupresión",
+        "Atracción",
+        "Bombardeo",
+        "Cambiapoder",
         "Cola Dragón",
-        "Conversión2",
-        "Electrificación",
-        "Estoicismo",
-        "Patada Salto Alta",
+        "Golpe Rastrero",
+        "Gravedad",
+        "Llama Protectora",
+        "Mal de Ojo",
+        "Manos Juntas",
+        "Patada Giro",
         "Perforador",
         "Plumerazo",
-        "Polvo Veneno",
+        "Polvo Mágico",
         "Rayo Burbuja",
         "Remolino",
-        "Ultrapuño",
-        "Vendetta"
+        "Truco Defensa"
       ],
       "firstMoves": [
-        "Rabia",
-        "Viento Plata",
-        "Veneno X",
-        "Destello"
+        "Vaho Gélido",
+        "Fitoimpulso",
+        "Ovocuración"
       ],
-      "spriteKey": "DRAGALGE"
+      "spriteKey": "LINOONE"
     },
     {
       "nickname": "Rubí",
@@ -506,7 +515,7 @@
       ],
       "ability": "Fuerza Cerebral",
       "nature": "Tímida",
-      "item": "",
+      "item": "Gema Psíquica",
       "shiny": false,
       "moves": [
         "Estoicismo",
@@ -526,9 +535,9 @@
         0,
         1,
         0,
+        4,
         2,
-        2,
-        2
+        4
       ],
       "abilPool": [
         "Fuerza Cerebral"
@@ -667,9 +676,9 @@
         0,
         1,
         0,
+        4,
         2,
-        2,
-        2
+        4
       ],
       "abilPool": [
         "Potencia",
@@ -793,9 +802,9 @@
         0,
         0,
         0,
+        2,
         0,
-        0,
-        0
+        2
       ],
       "abilPool": [
         "Mar Llamas"
@@ -1868,162 +1877,6 @@
         "Fría Acogida"
       ],
       "spriteKey": "WOOBAT"
-    },
-    {
-      "nickname": "Furro",
-      "species": "Linoone",
-      "level": 31,
-      "types": [
-        "Normal"
-      ],
-      "ability": "Impasible",
-      "nature": "Cauta",
-      "item": "Parte Verde",
-      "shiny": false,
-      "moves": [
-        "Giro Rápido",
-        "Fitoimpulso",
-        "Ovocuración",
-        "Plumerazo"
-      ],
-      "iv": [
-        3,
-        8,
-        5,
-        18,
-        22,
-        16
-      ],
-      "ev": [
-        25,
-        36,
-        22,
-        26,
-        28,
-        35
-      ],
-      "abilPool": [
-        "Impasible",
-        "Nerviosismo"
-      ],
-      "abilHidden": [
-        "Receptor"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Cuerpo Pesado"
-        },
-        {
-          "lvl": 1,
-          "m": "Ovocuración"
-        },
-        {
-          "lvl": 1,
-          "m": "Clavo Cañón"
-        },
-        {
-          "lvl": 1,
-          "m": "Señuelo"
-        },
-        {
-          "lvl": 1,
-          "m": "Clonatipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Gruñido"
-        },
-        {
-          "lvl": 1,
-          "m": "Llanto Falso"
-        },
-        {
-          "lvl": 1,
-          "m": "Represión Metal"
-        },
-        {
-          "lvl": 9,
-          "m": "Atadura"
-        },
-        {
-          "lvl": 12,
-          "m": "Fortaleza"
-        },
-        {
-          "lvl": 15,
-          "m": "Puño Mareo"
-        },
-        {
-          "lvl": 17,
-          "m": "Marcha Espectral"
-        },
-        {
-          "lvl": 18,
-          "m": "Capa Mágica"
-        },
-        {
-          "lvl": 23,
-          "m": "Metrónomo"
-        },
-        {
-          "lvl": 23,
-          "m": "Motivación"
-        },
-        {
-          "lvl": 28,
-          "m": "Bálsamo Osado"
-        },
-        {
-          "lvl": 33,
-          "m": "Truco Fuerza"
-        },
-        {
-          "lvl": 38,
-          "m": "Intercambio"
-        },
-        {
-          "lvl": 41,
-          "m": "Punzada Rama"
-        },
-        {
-          "lvl": 43,
-          "m": "Danza Pluma"
-        },
-        {
-          "lvl": 48,
-          "m": "Tecno Shock"
-        },
-        {
-          "lvl": 65,
-          "m": "Don Natural"
-        }
-      ],
-      "tmMoves": [
-        "Acupresión",
-        "Atracción",
-        "Bombardeo",
-        "Cambiapoder",
-        "Cola Dragón",
-        "Golpe Rastrero",
-        "Gravedad",
-        "Llama Protectora",
-        "Mal de Ojo",
-        "Manos Juntas",
-        "Patada Giro",
-        "Perforador",
-        "Plumerazo",
-        "Polvo Mágico",
-        "Rayo Burbuja",
-        "Remolino",
-        "Truco Defensa"
-      ],
-      "firstMoves": [
-        "Vaho Gélido",
-        "Fitoimpulso",
-        "Ovocuración"
-      ],
-      "spriteKey": "LINOONE"
     },
     {
       "nickname": "Staraptor",
@@ -3243,6 +3096,156 @@
       "cause": "",
       "route": "Ruta 22",
       "date": ""
+    },
+    {
+      "nickname": "Poseidón",
+      "species": "Dragalge",
+      "level": 35,
+      "types": [
+        "Veneno",
+        "Dragón"
+      ],
+      "ability": "Relincho Blanco",
+      "nature": "Modesta",
+      "item": "Flecha Venenosa",
+      "shiny": false,
+      "moves": [
+        "Masa Cósmica",
+        "Carga Tóxica",
+        "Rayo Burbuja",
+        "Bomba Fango"
+      ],
+      "iv": [
+        31,
+        24,
+        19,
+        9,
+        20,
+        18
+      ],
+      "ev": [
+        0,
+        1,
+        0,
+        4,
+        2,
+        2
+      ],
+      "abilPool": [
+        "Sal Purificadora",
+        "Relincho Blanco"
+      ],
+      "abilHidden": [
+        "Disemillar"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 1,
+          "m": "Daño Secreto"
+        },
+        {
+          "lvl": 1,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 1,
+          "m": "Cascabel Cura"
+        },
+        {
+          "lvl": 1,
+          "m": "Luz Lunar"
+        },
+        {
+          "lvl": 1,
+          "m": "Cambiavelocidad"
+        },
+        {
+          "lvl": 5,
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 12,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 15,
+          "m": "Levitón"
+        },
+        {
+          "lvl": 19,
+          "m": "Metrónomo"
+        },
+        {
+          "lvl": 20,
+          "m": "Hierba Lazo"
+        },
+        {
+          "lvl": 25,
+          "m": "Aguante"
+        },
+        {
+          "lvl": 30,
+          "m": "Silbato"
+        },
+        {
+          "lvl": 35,
+          "m": "Masa Cósmica"
+        },
+        {
+          "lvl": 40,
+          "m": "Danza Pluma"
+        },
+        {
+          "lvl": 45,
+          "m": "Residuos"
+        },
+        {
+          "lvl": 52,
+          "m": "Beso Amoroso"
+        },
+        {
+          "lvl": 59,
+          "m": "Hidrobomba"
+        },
+        {
+          "lvl": 66,
+          "m": "Onda Tóxica"
+        }
+      ],
+      "tmMoves": [
+        "Agua Fría",
+        "Alivio",
+        "Brecha Negra",
+        "Calcinación",
+        "Carga Tóxica",
+        "Chapoteo Lodo",
+        "Cola Dragón",
+        "Conversión2",
+        "Electrificación",
+        "Estoicismo",
+        "Patada Salto Alta",
+        "Perforador",
+        "Plumerazo",
+        "Polvo Veneno",
+        "Rayo Burbuja",
+        "Remolino",
+        "Ultrapuño",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Rabia",
+        "Viento Plata",
+        "Veneno X",
+        "Destello"
+      ],
+      "spriteKey": "DRAGALGE",
+      "cause": "",
+      "route": "Ciudad Celeste",
+      "date": ""
     }
   ],
   "captures": [
@@ -3269,15 +3272,15 @@
       "mon": "Darmanitan"
     },
     {
-      "route": "ciudad_celeste",
-      "where": "Ciudad Celeste",
-      "species": "Dragalge",
-      "nickname": "Poseidón",
+      "route": "ciudad_verde",
+      "where": "Ciudad Verde",
+      "species": "Linoone",
+      "nickname": "Furro",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
-      "level": 18,
-      "mon": "Dragalge"
+      "level": 5,
+      "mon": "Linoone"
     },
     {
       "route": "monte_moon",
@@ -3401,17 +3404,6 @@
       "mon": "Woobat"
     },
     {
-      "route": "ciudad_verde",
-      "where": "Ciudad Verde",
-      "species": "Linoone",
-      "nickname": "Furro",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 5,
-      "mon": "Linoone"
-    },
-    {
       "route": "",
       "where": "Monte Moon",
       "species": "Staraptor",
@@ -3509,6 +3501,17 @@
       "category": "salvaje",
       "level": 6,
       "mon": "Weezing"
+    },
+    {
+      "route": "ciudad_celeste",
+      "where": "Ciudad Celeste",
+      "species": "Dragalge",
+      "nickname": "Poseidón",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 18,
+      "mon": "Dragalge"
     }
   ],
   "progress": {
@@ -3521,7 +3524,7 @@
     "npcs": {},
     "routes": {
       "ruta_21": true,
-      "ciudad_celeste": true,
+      "ciudad_verde": true,
       "monte_moon": true,
       "ruta_9": true,
       "bosque_verde": true,
@@ -3531,13 +3534,13 @@
       "ruta_5": true,
       "monte_moon_exterior": true,
       "ruta_4": true,
-      "ciudad_verde": true,
       "ciudad_carmin": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
       "ruta_6": true,
       "ruta_1": true,
       "ruta_22": true,
+      "ciudad_celeste": true,
       "ruta_2_norte": true,
       "ruta_20": true,
       "ruta_15": true,
@@ -3592,6 +3595,7 @@
       87,
       88,
       89,
+      90,
       92,
       110,
       112,
@@ -3650,6 +3654,7 @@
       "Galleta Lava",
       "Gema Acero",
       "Gema Fantasma",
+      "Gema Psíquica",
       "Griseosfera",
       "Hielo Perpetuo",
       "Hierba Mental",
@@ -4457,7 +4462,8 @@
     "945441643",
     "3962858853",
     "1626819504",
-    "3797447856"
+    "3797447856",
+    "1177239365"
   ],
   "revividos": 25
 }
