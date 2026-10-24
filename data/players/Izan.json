@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 12h 41m jugadas · 94,630₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 13h 8m jugadas · 106,770₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Clefairy",
       "species": "Clefairy",
-      "level": 36,
+      "level": 37,
       "types": [
         "Hada"
       ],
@@ -33,10 +33,10 @@
         25
       ],
       "ev": [
-        12,
-        16,
-        8,
-        19,
+        18,
+        18,
+        10,
+        20,
         252,
         16
       ],
@@ -226,11 +226,11 @@
         7
       ],
       "ev": [
-        2,
-        2,
-        7,
-        9,
+        8,
         4,
+        9,
+        10,
+        6,
         9
       ],
       "abilPool": [
@@ -356,20 +356,20 @@
     {
       "nickname": "Escuditooo",
       "species": "Bastiodon",
-      "level": 36,
+      "level": 37,
       "types": [
         "Roca",
         "Acero"
       ],
       "ability": "Cortante",
       "nature": "Plácida",
-      "item": "",
+      "item": "Baya Magua",
       "shiny": false,
       "moves": [
         "Robasombra",
         "Hoja Afilada",
-        "Luminicola",
-        "Pulimento"
+        "Hilo Venenoso",
+        "Rayo Meteórico"
       ],
       "natureMint": true,
       "natureBase": "Audaz",
@@ -382,11 +382,11 @@
         13
       ],
       "ev": [
-        2,
-        1,
+        8,
+        3,
+        8,
         6,
-        5,
-        2,
+        4,
         5
       ],
       "abilPool": [
@@ -488,7 +488,7 @@
     {
       "nickname": "Rubí",
       "species": "Orbeetle",
-      "level": 35,
+      "level": 36,
       "types": [
         "Bicho",
         "Psíquico"
@@ -512,11 +512,11 @@
         11
       ],
       "ev": [
-        2,
-        2,
-        7,
-        9,
+        8,
         4,
+        9,
+        10,
+        6,
         9
       ],
       "abilPool": [
@@ -632,7 +632,7 @@
     {
       "nickname": "Mierdecilla",
       "species": "Ribombee",
-      "level": 35,
+      "level": 36,
       "types": [
         "Bicho",
         "Hada"
@@ -656,11 +656,11 @@
         30
       ],
       "ev": [
-        2,
-        2,
-        7,
-        9,
+        8,
         4,
+        9,
+        10,
+        6,
         9
       ],
       "abilPool": [
@@ -760,7 +760,7 @@
     {
       "nickname": "PoliBueno",
       "species": "Poliwhirl",
-      "level": 35,
+      "level": 36,
       "types": [
         "Agua"
       ],
@@ -783,11 +783,11 @@
         6
       ],
       "ev": [
-        2,
-        1,
-        7,
-        7,
-        2,
+        8,
+        3,
+        9,
+        8,
+        4,
         7
       ],
       "abilPool": [
@@ -2147,6 +2147,116 @@
         "Cambio de Banda"
       ],
       "spriteKey": "SHIINOTIC"
+    },
+    {
+      "nickname": "Serafan",
+      "species": "Cetoddle",
+      "level": 33,
+      "types": [
+        "Hielo"
+      ],
+      "ability": "Gélido",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Carga Parábola",
+        "Ciclón de Hojas",
+        "Pulso Cura",
+        "Alud"
+      ],
+      "iv": [
+        22,
+        17,
+        22,
+        16,
+        12,
+        22
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Gélido",
+        "Remoto"
+      ],
+      "abilHidden": [
+        "Ritmo Propio"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Nieve Polvo"
+        },
+        {
+          "lvl": 1,
+          "m": "Carámbano"
+        },
+        {
+          "lvl": 6,
+          "m": "Mandato"
+        },
+        {
+          "lvl": 9,
+          "m": "Capa Mágica"
+        },
+        {
+          "lvl": 12,
+          "m": "Velo Sagrado"
+        },
+        {
+          "lvl": 15,
+          "m": "Decoración"
+        },
+        {
+          "lvl": 19,
+          "m": "Carga Parábola"
+        },
+        {
+          "lvl": 25,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 27,
+          "m": "Pulso Cura"
+        },
+        {
+          "lvl": 31,
+          "m": "Alud"
+        },
+        {
+          "lvl": 36,
+          "m": "Granizo"
+        },
+        {
+          "lvl": 40,
+          "m": "Deseo Oculto"
+        },
+        {
+          "lvl": 44,
+          "m": "Trapicheo"
+        },
+        {
+          "lvl": 49,
+          "m": "Escaramuza"
+        },
+        {
+          "lvl": 53,
+          "m": "Onda Certera"
+        }
+      ],
+      "firstMoves": [
+        "Carga Parábola",
+        "Ciclón de Hojas",
+        "Pulso Cura",
+        "Alud"
+      ],
+      "spriteKey": "CETODDLE"
     },
     {
       "nickname": "Staraptor",
@@ -3696,6 +3806,17 @@
       "mon": "Shiinotic"
     },
     {
+      "route": "ruta_8",
+      "where": "Ruta 8",
+      "species": "Cetoddle",
+      "nickname": "Serafan",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 33,
+      "mon": "Cetoddle"
+    },
+    {
       "route": "",
       "where": "Monte Moon",
       "species": "Staraptor",
@@ -3828,6 +3949,7 @@
       "monte_moon_exterior": true,
       "ruta_4": true,
       "tunel_roca": true,
+      "ruta_8": true,
       "ciudad_carmin": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
@@ -3839,7 +3961,9 @@
       "ruta_20": true,
       "ruta_15": true,
       "ruta_10_sur": true,
-      "pueblo_lavanda": true
+      "pueblo_lavanda": true,
+      "torre_pokemon": true,
+      "ruta_7": true
     },
     "items": {},
     "encounters": {
@@ -3866,7 +3990,8 @@
       "ruta_9": true,
       "ruta_10_norte": true,
       "tunel_roca": true,
-      "ruta_10_sur": true
+      "ruta_10_sur": true,
+      "ruta_8": true
     },
     "switches": [
       48,
@@ -3895,12 +4020,15 @@
       90,
       91,
       92,
+      94,
+      95,
       110,
       112,
       113,
       114,
       120,
       121,
+      138,
       152,
       171,
       176,
@@ -3929,7 +4057,9 @@
       "Baya Aranja",
       "Baya Lagro",
       "Baya Lichi",
+      "Baya Magua",
       "Baya Pomaro",
+      "Baya Yapati",
       "Blanco",
       "Bola Férrea",
       "Bono Bici",
@@ -3964,6 +4094,7 @@
       "Limonada",
       "Más PP",
       "Más PS",
+      "Master Ball",
       "Menta Activa",
       "Menta Alegre",
       "Menta Plácida",
@@ -3998,6 +4129,7 @@
       "MT46",
       "MT47",
       "MT51",
+      "MT53",
       "MT54",
       "MT57",
       "MT59",
@@ -4014,6 +4146,7 @@
       "MT83",
       "MT85",
       "MT86",
+      "MT88",
       "MT89",
       "MT91",
       "MT94",
@@ -4021,6 +4154,7 @@
       "MT98",
       "Ocaso Ball",
       "Parte Roja",
+      "Pelucaregia",
       "Piedra Fuego",
       "Piedra Noche",
       "Piedra Oval",
@@ -4248,6 +4382,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "PELUCAREGIA",
+        "name": "Pelucaregia",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HPUP",
         "name": "Más PS",
         "qty": 1,
@@ -4334,13 +4474,13 @@
       {
         "id": "HEALBALL",
         "name": "Sana Ball",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Poké Balls"
       },
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 11,
+        "qty": 10,
         "pocket": "Poké Balls"
       },
       {
@@ -4364,6 +4504,12 @@
       {
         "id": "BEASTBALL",
         "name": "Ente Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "MASTERBALL",
+        "name": "Master Ball",
         "qty": 1,
         "pocket": "Poké Balls"
       },
@@ -4470,6 +4616,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM53",
+        "name": "MT53",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM54",
         "name": "MT54",
         "qty": 1,
@@ -4562,6 +4714,12 @@
       {
         "id": "TM86",
         "name": "MT86",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM88",
+        "name": "MT88",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -4674,6 +4832,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "PETAYABERRY",
+        "name": "Baya Yapati",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "STARFBERRY",
         "name": "Baya Arabol",
         "qty": 1,
@@ -4734,8 +4898,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
