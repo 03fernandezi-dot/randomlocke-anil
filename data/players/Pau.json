@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 9,
   "champion": false,
-  "notes": "Importado del save · 12h 24m jugadas · 152,310₽ · vidas en el juego: 17",
+  "notes": "Importado del save · 12h 31m jugadas · 168,360₽ · vidas en el juego: 17",
   "team": [
     {
       "nickname": "Uri",
@@ -32,12 +32,12 @@
         7
       ],
       "ev": [
+        1,
+        9,
         0,
         0,
         0,
-        0,
-        0,
-        0
+        2
       ],
       "abilPool": [
         "Unísono"
@@ -198,12 +198,12 @@
         19
       ],
       "ev": [
-        54,
-        102,
+        55,
+        111,
         55,
         59,
         60,
-        71
+        73
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -363,7 +363,7 @@
         "Tajo Acuático",
         "Chuzos",
         "Terremoto",
-        "Palma Rauda"
+        "Garra Metal"
       ],
       "iv": [
         5,
@@ -374,12 +374,12 @@
         0
       ],
       "ev": [
-        6,
         7,
+        16,
         10,
         7,
         9,
-        16
+        18
       ],
       "abilPool": [
         "Insonorizar"
@@ -466,6 +466,7 @@
         "Alboroto",
         "Arrumaco",
         "Asalto Barrera",
+        "Bálsamo Osado",
         "Bomba Ácida",
         "Buceo",
         "Burbuja",
@@ -504,7 +505,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 50,
+      "level": 51,
       "types": [
         "Psíquico",
         "Volador"
@@ -528,12 +529,12 @@
         20
       ],
       "ev": [
-        36,
-        50,
+        37,
+        59,
         35,
         32,
         40,
-        38
+        40
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -651,7 +652,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 50,
+      "level": 51,
       "types": [
         "Veneno",
         "Dragón"
@@ -675,12 +676,12 @@
         22
       ],
       "ev": [
-        2,
-        5,
+        3,
+        14,
         10,
         7,
         9,
-        14
+        16
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -832,12 +833,12 @@
         26
       ],
       "ev": [
-        32,
-        52,
+        33,
+        61,
         15,
         33,
         42,
-        33
+        35
       ],
       "abilPool": [
         "Mudar",
@@ -7093,6 +7094,7 @@
       "Antihielo",
       "Antiparalizador",
       "Ataque X 3",
+      "Ataque X 6",
       "Banda Atadura",
       "Baya Algama",
       "Baya Ango",
@@ -7103,6 +7105,7 @@
       "Baya Caoca",
       "Baya Grana",
       "Baya Kouba",
+      "Baya Lagro",
       "Baya Maranga",
       "Baya Meluce",
       "Baya Perasi",
@@ -7126,12 +7129,14 @@
       "Cuchara Torcida",
       "Cuerda Huida",
       "Defensa X",
+      "Diamansfera",
       "Efigie Antigua",
       "Elixir",
       "Elixir Máximo",
       "Escama Bella",
       "Escama Dragón",
       "Espray Bucal",
+      "Flecha Venenosa",
       "Fósil Garra",
       "Fósil Hélix",
       "Fragmento Cometa",
@@ -7178,6 +7183,7 @@
       "MT101",
       "MT102",
       "MT108",
+      "MT111",
       "MT113",
       "MT114",
       "MT12",
@@ -7192,6 +7198,7 @@
       "MT19",
       "MT21",
       "MT30",
+      "MT35",
       "MT36",
       "MT37",
       "MT38",
@@ -7203,6 +7210,7 @@
       "MT47",
       "MT49",
       "MT51",
+      "MT53",
       "MT54",
       "MT55",
       "MT57",
@@ -7231,10 +7239,13 @@
       "Nivel Ball",
       "Pañuelo de Seda",
       "Parasol Multiuso",
+      "Parte Azul",
       "Pepita",
       "Periscopio",
       "Perla",
       "Pesa Recia",
+      "Piedra Fuego",
+      "Piedra Noche",
       "Piedra Oval",
       "Plesiofósil",
       "Pluma Salud",
@@ -7540,7 +7551,7 @@
       {
         "id": "UTILITYUMBRELLA",
         "name": "Parasol Multiuso",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -7564,6 +7575,36 @@
       {
         "id": "RELICVASE",
         "name": "Ánfora",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BLUESHARD",
+        "name": "Parte Azul",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "POISONBARB",
+        "name": "Flecha Venenosa",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ADAMANTORB",
+        "name": "Diamansfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "DUSKSTONE",
+        "name": "Piedra Noche",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FIRESTONE",
+        "name": "Piedra Fuego",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -7898,6 +7939,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM35",
+        "name": "MT35",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM36",
         "name": "MT36",
         "qty": 1,
@@ -7966,6 +8013,12 @@
       {
         "id": "TM51",
         "name": "MT51",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM53",
+        "name": "MT53",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -8168,6 +8221,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM111",
+        "name": "MT111",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM113",
         "name": "MT113",
         "qty": 1,
@@ -8282,6 +8341,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "MICLEBERRY",
+        "name": "Baya Lagro",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "KEEBERRY",
         "name": "Baya Biglia",
         "qty": 1,
@@ -8368,6 +8433,12 @@
       {
         "id": "MAXMUSHROOMS",
         "name": "Maxiseta",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "XATTACK6",
+        "name": "Ataque X 6",
         "qty": 1,
         "pocket": "Objetos de combate"
       },
