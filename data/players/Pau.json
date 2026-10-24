@@ -4,8 +4,174 @@
   "lives": 30,
   "livesUsed": 9,
   "champion": false,
-  "notes": "Importado del save · 12h 20m jugadas · 152,310₽ · vidas en el juego: 17",
+  "notes": "Importado del save · 12h 24m jugadas · 152,310₽ · vidas en el juego: 17",
   "team": [
+    {
+      "nickname": "Uri",
+      "species": "Meganium",
+      "level": 51,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Unísono",
+      "nature": "Alocada",
+      "item": "Gema Roca",
+      "shiny": false,
+      "moves": [
+        "Tajo Aéreo",
+        "Planta Feroz",
+        "Poder Pasado",
+        "Llama Protectora"
+      ],
+      "iv": [
+        22,
+        14,
+        21,
+        3,
+        22,
+        7
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Unísono"
+      ],
+      "abilHidden": [
+        "Punto Tóxico"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 1,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Cabeza"
+        },
+        {
+          "lvl": 1,
+          "m": "Deslizamiento"
+        },
+        {
+          "lvl": 1,
+          "m": "Persecución"
+        },
+        {
+          "lvl": 12,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 18,
+          "m": "Aire Afilado"
+        },
+        {
+          "lvl": 22,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 24,
+          "m": "Silbato"
+        },
+        {
+          "lvl": 26,
+          "m": "Placaje"
+        },
+        {
+          "lvl": 26,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 26,
+          "m": "Presente"
+        },
+        {
+          "lvl": 34,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 40,
+          "m": "Confidencia"
+        },
+        {
+          "lvl": 40,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 46,
+          "m": "Bomba Germen"
+        },
+        {
+          "lvl": 54,
+          "m": "Cosquillas"
+        },
+        {
+          "lvl": 54,
+          "m": "Brazo Pincho"
+        },
+        {
+          "lvl": 60,
+          "m": "Pirochoque"
+        },
+        {
+          "lvl": 60,
+          "m": "Sumisión"
+        },
+        {
+          "lvl": 65,
+          "m": "Gas Corrosivo"
+        }
+      ],
+      "tmMoves": [
+        "Alboroto",
+        "Arenas Ardientes",
+        "Bomba Ácida",
+        "Cabezazo Zen",
+        "Carga Parábola",
+        "Chuzos",
+        "Cura Floral",
+        "Danza Lunar",
+        "Decoración",
+        "Deslome",
+        "Estrujón",
+        "Fuerza G",
+        "Gas Corrosivo",
+        "Giro Mortífero",
+        "Golpe Roca",
+        "Granizo",
+        "Halloween",
+        "Láser Doble",
+        "Mirada Heladora",
+        "Ominochoque",
+        "Piñón Auxiliar",
+        "Planta Feroz",
+        "Púas",
+        "Puño Incremento",
+        "Terremoto",
+        "Velo Sagrado",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Púas Tóxicas",
+        "Aire Afilado",
+        "Puño Cometa",
+        "Onda Voltio"
+      ],
+      "spriteKey": "MEGANIUM"
+    },
     {
       "nickname": "Shawn",
       "species": "Ampharos",
@@ -1970,162 +2136,6 @@
         "Persecución"
       ],
       "spriteKey": "SPIDOPS"
-    },
-    {
-      "nickname": "Uri",
-      "species": "Meganium",
-      "level": 39,
-      "types": [
-        "Planta"
-      ],
-      "ability": "Unísono",
-      "nature": "Alocada",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Tajo Aéreo",
-        "Hoja Mágica",
-        "Poder Pasado",
-        "Geocontrol"
-      ],
-      "iv": [
-        22,
-        14,
-        21,
-        3,
-        22,
-        7
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Unísono"
-      ],
-      "abilHidden": [
-        "Punto Tóxico"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Doble Equipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Hoja Mágica"
-        },
-        {
-          "lvl": 1,
-          "m": "Paralizador"
-        },
-        {
-          "lvl": 1,
-          "m": "Golpe Cabeza"
-        },
-        {
-          "lvl": 1,
-          "m": "Deslizamiento"
-        },
-        {
-          "lvl": 1,
-          "m": "Persecución"
-        },
-        {
-          "lvl": 12,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 18,
-          "m": "Aire Afilado"
-        },
-        {
-          "lvl": 22,
-          "m": "Bomba Ácida"
-        },
-        {
-          "lvl": 24,
-          "m": "Silbato"
-        },
-        {
-          "lvl": 26,
-          "m": "Placaje"
-        },
-        {
-          "lvl": 26,
-          "m": "Mismo Destino"
-        },
-        {
-          "lvl": 26,
-          "m": "Presente"
-        },
-        {
-          "lvl": 34,
-          "m": "Cura Selvática"
-        },
-        {
-          "lvl": 40,
-          "m": "Confidencia"
-        },
-        {
-          "lvl": 40,
-          "m": "Llama Protectora"
-        },
-        {
-          "lvl": 46,
-          "m": "Bomba Germen"
-        },
-        {
-          "lvl": 54,
-          "m": "Cosquillas"
-        },
-        {
-          "lvl": 54,
-          "m": "Brazo Pincho"
-        },
-        {
-          "lvl": 60,
-          "m": "Pirochoque"
-        },
-        {
-          "lvl": 60,
-          "m": "Sumisión"
-        },
-        {
-          "lvl": 65,
-          "m": "Gas Corrosivo"
-        }
-      ],
-      "tmMoves": [
-        "Arenas Ardientes",
-        "Bomba Ácida",
-        "Carga Parábola",
-        "Chuzos",
-        "Danza Lunar",
-        "Decoración",
-        "Deslome",
-        "Estrujón",
-        "Gas Corrosivo",
-        "Golpe Roca",
-        "Granizo",
-        "Piñón Auxiliar",
-        "Púas",
-        "Puño Incremento",
-        "Terremoto",
-        "Velo Sagrado",
-        "Viento Plata"
-      ],
-      "firstMoves": [
-        "Púas Tóxicas",
-        "Aire Afilado",
-        "Puño Cometa",
-        "Onda Voltio"
-      ],
-      "spriteKey": "MEGANIUM"
     },
     {
       "nickname": "Jihadista",
@@ -4244,118 +4254,6 @@
       "spriteKey": "AEGISLASH"
     },
     {
-      "nickname": "JODER",
-      "species": "Minior",
-      "level": 50,
-      "types": [
-        "Roca",
-        "Volador"
-      ],
-      "ability": "",
-      "nature": "Fuerte",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Fuerza G",
-        "Giro Rápido",
-        "Acróbata",
-        "Avalancha"
-      ],
-      "iv": [
-        9,
-        17,
-        29,
-        23,
-        29,
-        0
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Piel Tosca"
-      ],
-      "abilHidden": [],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Luz Lunar"
-        },
-        {
-          "lvl": 3,
-          "m": "Danza Pluma"
-        },
-        {
-          "lvl": 8,
-          "m": "Poder Pasado"
-        },
-        {
-          "lvl": 10,
-          "m": "Foco"
-        },
-        {
-          "lvl": 15,
-          "m": "Trampa Rocas"
-        },
-        {
-          "lvl": 17,
-          "m": "Punzada Rama"
-        },
-        {
-          "lvl": 22,
-          "m": "Ultrapuño"
-        },
-        {
-          "lvl": 24,
-          "m": "Roca Veloz"
-        },
-        {
-          "lvl": 29,
-          "m": "Ataque Ala"
-        },
-        {
-          "lvl": 31,
-          "m": "Danza Aleteo"
-        },
-        {
-          "lvl": 31,
-          "m": "Presente"
-        },
-        {
-          "lvl": 36,
-          "m": "Meteorobola"
-        },
-        {
-          "lvl": 38,
-          "m": "Fuerza G"
-        },
-        {
-          "lvl": 43,
-          "m": "Giro Rápido"
-        },
-        {
-          "lvl": 45,
-          "m": "Acróbata"
-        },
-        {
-          "lvl": 50,
-          "m": "Avalancha"
-        }
-      ],
-      "firstMoves": [
-        "Fuerza G",
-        "Giro Rápido",
-        "Acróbata",
-        "Avalancha"
-      ],
-      "spriteKey": "MINIOR_10"
-    },
-    {
       "nickname": "Mariconada",
       "species": "Floette",
       "level": 21,
@@ -5056,186 +4954,121 @@
         "Gran Ojo"
       ],
       "spriteKey": "OKIDOGI"
-    }
-  ],
-  "graveyard": [
+    },
     {
-      "nickname": "Hedwig",
-      "species": "Decidueye",
-      "level": 51,
+      "nickname": "JODER",
+      "species": "Minior",
+      "level": 50,
       "types": [
-        "Planta",
-        "Fantasma"
+        "Roca",
+        "Volador"
       ],
-      "ability": "Compensación",
-      "nature": "Amable",
-      "item": "Seguro Debilidad",
+      "ability": "Piel Tosca",
+      "nature": "Fuerte",
+      "item": "",
       "shiny": false,
       "moves": [
-        "Tormenta Floral",
-        "Brinco",
-        "Colmillo Hielo",
-        "Espora"
+        "Fuerza G",
+        "Giro Rápido",
+        "Acróbata",
+        "Avalancha"
       ],
       "iv": [
-        21,
-        4,
-        14,
-        26,
-        25,
-        15
+        9,
+        17,
+        29,
+        23,
+        29,
+        0
       ],
       "ev": [
-        57,
-        104,
-        52,
-        53,
-        56,
-        66
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Encadenado",
-        "Compensación"
+        "Piel Tosca"
       ],
-      "abilHidden": [
-        "Mandíbula Fuerte"
-      ],
+      "abilHidden": [],
       "learnset": [
         {
-          "lvl": -1,
-          "m": "Tinieblas"
-        },
-        {
           "lvl": 1,
-          "m": "Colmillo Hielo"
+          "m": "Luz Lunar"
         },
         {
-          "lvl": 1,
-          "m": "Ciclón de Hojas"
+          "lvl": 3,
+          "m": "Danza Pluma"
         },
         {
-          "lvl": 1,
-          "m": "Sombra Vil"
+          "lvl": 8,
+          "m": "Poder Pasado"
         },
         {
-          "lvl": 1,
-          "m": "Doble Equipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Niebla Aromática"
-        },
-        {
-          "lvl": 1,
-          "m": "Abrecaminos"
-        },
-        {
-          "lvl": 1,
-          "m": "Esquirla Helada"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Furia"
-        },
-        {
-          "lvl": 1,
-          "m": "Defensa Férrea"
-        },
-        {
-          "lvl": 1,
-          "m": "Mandato"
-        },
-        {
-          "lvl": 1,
-          "m": "Semilladora"
-        },
-        {
-          "lvl": 9,
-          "m": "Cura Selvática"
-        },
-        {
-          "lvl": 12,
-          "m": "Guardia Baja"
+          "lvl": 10,
+          "m": "Foco"
         },
         {
           "lvl": 15,
-          "m": "Brinco"
+          "m": "Trampa Rocas"
         },
         {
-          "lvl": 19,
-          "m": "Afilagarras"
+          "lvl": 17,
+          "m": "Punzada Rama"
         },
         {
-          "lvl": 20,
-          "m": "Enrosque"
+          "lvl": 22,
+          "m": "Ultrapuño"
         },
         {
-          "lvl": 25,
-          "m": "Envidia ardiente"
+          "lvl": 24,
+          "m": "Roca Veloz"
         },
         {
-          "lvl": 30,
-          "m": "Rayo Carga"
+          "lvl": 29,
+          "m": "Ataque Ala"
         },
         {
-          "lvl": 37,
-          "m": "Tormenta Floral"
+          "lvl": 31,
+          "m": "Danza Aleteo"
         },
         {
-          "lvl": 41,
-          "m": "Afilar"
+          "lvl": 31,
+          "m": "Presente"
         },
         {
-          "lvl": 44,
-          "m": "Escalofrío"
+          "lvl": 36,
+          "m": "Meteorobola"
         },
         {
-          "lvl": 51,
-          "m": "Planta Feroz"
+          "lvl": 38,
+          "m": "Fuerza G"
         },
         {
-          "lvl": 52,
-          "m": "Patada Tropical"
+          "lvl": 43,
+          "m": "Giro Rápido"
         },
         {
-          "lvl": 58,
-          "m": "Voto Planta"
+          "lvl": 45,
+          "m": "Acróbata"
+        },
+        {
+          "lvl": 50,
+          "m": "Avalancha"
         }
       ],
-      "tmMoves": [
-        "Alarido",
-        "Anulación",
-        "Arrumaco",
-        "As Oculto",
-        "Ciclón",
-        "Cura Floral",
-        "Halloween",
-        "Llave Corsé",
-        "Ominochoque",
-        "Onda Tóxica",
-        "Piñón Auxiliar",
-        "Planta Feroz",
-        "Pulso de Campo",
-        "Purificación",
-        "Rencor Reprimido",
-        "Represión Metal",
-        "Restricción",
-        "Sacrificio",
-        "Shuriken de Agua",
-        "Velo Sagrado",
-        "Viento Carámbano"
-      ],
       "firstMoves": [
-        "Follaje",
-        "Hoja Mágica",
-        "Mofa",
-        "Truco Floral"
+        "Fuerza G",
+        "Giro Rápido",
+        "Acróbata",
+        "Avalancha"
       ],
-      "spriteKey": "DECIDUEYE",
-      "cause": "",
-      "route": "Ciudad Plateada",
-      "date": ""
-    },
+      "spriteKey": "MINIOR_10"
+    }
+  ],
+  "graveyard": [
     {
       "nickname": "Partyfiesta",
       "species": "Hatenna",
@@ -6410,19 +6243,196 @@
       "cause": "",
       "route": "Ruta 22",
       "date": ""
+    },
+    {
+      "nickname": "Hedwig",
+      "species": "Decidueye",
+      "level": 51,
+      "types": [
+        "Planta",
+        "Fantasma"
+      ],
+      "ability": "Compensación",
+      "nature": "Amable",
+      "item": "Seguro Debilidad",
+      "shiny": false,
+      "moves": [
+        "Tormenta Floral",
+        "Brinco",
+        "Colmillo Hielo",
+        "Espora"
+      ],
+      "iv": [
+        21,
+        4,
+        14,
+        26,
+        25,
+        15
+      ],
+      "ev": [
+        57,
+        104,
+        52,
+        53,
+        56,
+        66
+      ],
+      "abilPool": [
+        "Encadenado",
+        "Compensación"
+      ],
+      "abilHidden": [
+        "Mandíbula Fuerte"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 1,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 1,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 1,
+          "m": "Sombra Vil"
+        },
+        {
+          "lvl": 1,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 1,
+          "m": "Abrecaminos"
+        },
+        {
+          "lvl": 1,
+          "m": "Esquirla Helada"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 1,
+          "m": "Defensa Férrea"
+        },
+        {
+          "lvl": 1,
+          "m": "Mandato"
+        },
+        {
+          "lvl": 1,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 9,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 12,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 15,
+          "m": "Brinco"
+        },
+        {
+          "lvl": 19,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 20,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 25,
+          "m": "Envidia ardiente"
+        },
+        {
+          "lvl": 30,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 37,
+          "m": "Tormenta Floral"
+        },
+        {
+          "lvl": 41,
+          "m": "Afilar"
+        },
+        {
+          "lvl": 44,
+          "m": "Escalofrío"
+        },
+        {
+          "lvl": 51,
+          "m": "Planta Feroz"
+        },
+        {
+          "lvl": 52,
+          "m": "Patada Tropical"
+        },
+        {
+          "lvl": 58,
+          "m": "Voto Planta"
+        }
+      ],
+      "tmMoves": [
+        "Alarido",
+        "Anulación",
+        "Arrumaco",
+        "As Oculto",
+        "Ciclón",
+        "Cura Floral",
+        "Halloween",
+        "Llave Corsé",
+        "Ominochoque",
+        "Onda Tóxica",
+        "Piñón Auxiliar",
+        "Planta Feroz",
+        "Pulso de Campo",
+        "Purificación",
+        "Rencor Reprimido",
+        "Represión Metal",
+        "Restricción",
+        "Sacrificio",
+        "Shuriken de Agua",
+        "Velo Sagrado",
+        "Viento Carámbano"
+      ],
+      "firstMoves": [
+        "Follaje",
+        "Hoja Mágica",
+        "Mofa",
+        "Truco Floral"
+      ],
+      "spriteKey": "DECIDUEYE",
+      "cause": "",
+      "route": "Ciudad Plateada",
+      "date": ""
     }
   ],
   "captures": [
     {
-      "route": "ciudad_plateada",
-      "where": "Ciudad Plateada",
-      "species": "Decidueye",
-      "nickname": "Hedwig",
+      "route": "torre_pokemon",
+      "where": "Torre Pokémon",
+      "species": "Meganium",
+      "nickname": "Uri",
       "shiny": false,
-      "status": "dead",
-      "category": "ciudad",
-      "level": 10,
-      "mon": "Decidueye"
+      "status": "captured",
+      "category": "salvaje",
+      "level": 31,
+      "mon": "Meganium"
     },
     {
       "route": "",
@@ -6566,17 +6576,6 @@
       "category": "salvaje",
       "level": 34,
       "mon": "Spidops"
-    },
-    {
-      "route": "torre_pokemon",
-      "where": "Torre Pokémon",
-      "species": "Meganium",
-      "nickname": "Uri",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 31,
-      "mon": "Meganium"
     },
     {
       "route": "ciudad_azulona",
@@ -6744,17 +6743,6 @@
       "mon": "Aegislash"
     },
     {
-      "route": "",
-      "where": "Silph S.A",
-      "species": "Minior",
-      "nickname": "JODER",
-      "shiny": false,
-      "status": "captured",
-      "category": "estatico_regalo",
-      "level": 50,
-      "mon": "Minior"
-    },
-    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Floette",
@@ -6808,6 +6796,17 @@
       "category": "intercambio",
       "level": 29,
       "mon": "Okidogi"
+    },
+    {
+      "route": "",
+      "where": "Silph S.A",
+      "species": "Minior",
+      "nickname": "JODER",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 50,
+      "mon": "Minior"
     },
     {
       "route": "ruta_1",
@@ -6896,6 +6895,17 @@
       "category": "salvaje",
       "level": 4,
       "mon": "Golurk"
+    },
+    {
+      "route": "ciudad_plateada",
+      "where": "Ciudad Plateada",
+      "species": "Decidueye",
+      "nickname": "Hedwig",
+      "shiny": false,
+      "status": "dead",
+      "category": "ciudad",
+      "level": 10,
+      "mon": "Decidueye"
     }
   ],
   "progress": {
@@ -6909,7 +6919,7 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ciudad_plateada": true,
+      "torre_pokemon": true,
       "ruta_16": true,
       "monte_moon": true,
       "ruta_14": true,
@@ -6919,7 +6929,6 @@
       "ruta_4": true,
       "ruta_6": true,
       "ruta_7": true,
-      "torre_pokemon": true,
       "ciudad_azulona": true,
       "pueblo_lavanda": true,
       "ciudad_verde": true,
@@ -6935,6 +6944,7 @@
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
       "ruta_9": true,
+      "ciudad_plateada": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_10_sur": true,
@@ -7306,12 +7316,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "ROCKGEM",
-        "name": "Gema Roca",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "RELICSILVER",
         "name": "Real Plata",
         "qty": 1,
@@ -7578,7 +7582,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 157,
+        "qty": 145,
         "pocket": "Medicinas"
       },
       {
