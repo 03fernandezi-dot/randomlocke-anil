@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 13h 8m jugadas · 106,770₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 13h 16m jugadas · 111,670₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Clefairy",
@@ -34,7 +34,7 @@
       ],
       "ev": [
         18,
-        18,
+        19,
         10,
         20,
         252,
@@ -227,7 +227,7 @@
       ],
       "ev": [
         8,
-        4,
+        5,
         9,
         10,
         6,
@@ -383,7 +383,7 @@
       ],
       "ev": [
         8,
-        3,
+        4,
         8,
         6,
         4,
@@ -513,7 +513,7 @@
       ],
       "ev": [
         8,
-        4,
+        5,
         9,
         10,
         6,
@@ -657,7 +657,7 @@
       ],
       "ev": [
         8,
-        4,
+        5,
         9,
         10,
         6,
@@ -784,7 +784,7 @@
       ],
       "ev": [
         8,
-        3,
+        4,
         9,
         8,
         4,
@@ -2481,6 +2481,128 @@
         "Tóxico"
       ],
       "spriteKey": "PETILIL"
+    },
+    {
+      "nickname": "Donal Tromp",
+      "species": "Yungoos",
+      "level": 35,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Mimetismo",
+      "nature": "Ingenua",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Furia",
+        "Ráfaga Escamas",
+        "Impactrueno",
+        "Atracción"
+      ],
+      "iv": [
+        30,
+        21,
+        23,
+        30,
+        26,
+        15
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Esclusa de Aire",
+        "Mimetismo"
+      ],
+      "abilHidden": [
+        "Gran Encanto"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Púas"
+        },
+        {
+          "lvl": 3,
+          "m": "Destructor"
+        },
+        {
+          "lvl": 7,
+          "m": "Cambiadefensa"
+        },
+        {
+          "lvl": 7,
+          "m": "Fertilizante"
+        },
+        {
+          "lvl": 10,
+          "m": "Paisaje Nevado"
+        },
+        {
+          "lvl": 13,
+          "m": "Relajo"
+        },
+        {
+          "lvl": 13,
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 16,
+          "m": "Arraigo"
+        },
+        {
+          "lvl": 19,
+          "m": "Mimético"
+        },
+        {
+          "lvl": 22,
+          "m": "Hierba Lazo"
+        },
+        {
+          "lvl": 25,
+          "m": "Furia"
+        },
+        {
+          "lvl": 28,
+          "m": "Ráfaga Escamas"
+        },
+        {
+          "lvl": 31,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 34,
+          "m": "Atracción"
+        },
+        {
+          "lvl": 37,
+          "m": "Recogearena"
+        },
+        {
+          "lvl": 37,
+          "m": "Patada Relámpago"
+        },
+        {
+          "lvl": 40,
+          "m": "Trampa Venenosa"
+        },
+        {
+          "lvl": 43,
+          "m": "Puño Furia"
+        }
+      ],
+      "firstMoves": [
+        "Furia",
+        "Ráfaga Escamas",
+        "Impactrueno",
+        "Atracción"
+      ],
+      "spriteKey": "YUNGOOS"
     }
   ],
   "graveyard": [
@@ -3839,6 +3961,17 @@
       "mon": "Petilil"
     },
     {
+      "route": "ruta_7",
+      "where": "Ruta 7",
+      "species": "Yungoos",
+      "nickname": "Donal Tromp",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 35,
+      "mon": "Yungoos"
+    },
+    {
       "route": "ruta_2_sur",
       "where": "Ruta 2 Sur",
       "species": "Meditite",
@@ -3951,6 +4084,7 @@
       "tunel_roca": true,
       "ruta_8": true,
       "ciudad_carmin": true,
+      "ruta_7": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
       "ruta_6": true,
@@ -3963,7 +4097,7 @@
       "ruta_10_sur": true,
       "pueblo_lavanda": true,
       "torre_pokemon": true,
-      "ruta_7": true
+      "ciudad_azulona": true
     },
     "items": {},
     "encounters": {
@@ -3991,7 +4125,8 @@
       "ruta_10_norte": true,
       "tunel_roca": true,
       "ruta_10_sur": true,
-      "ruta_8": true
+      "ruta_8": true,
+      "ruta_7": true
     },
     "switches": [
       48,
@@ -4064,6 +4199,7 @@
       "Bola Férrea",
       "Bono Bici",
       "Cápsula D",
+      "Cápsula DE",
       "Cascabel Concha",
       "Cenizas Sagradas",
       "Colmillo de Dragón",
@@ -4071,6 +4207,7 @@
       "Cuerda Huida",
       "Dado Trucado",
       "Def. Esp. X 2",
+      "Defensa X 3",
       "Defensa X 6",
       "Disco Extraño",
       "Energía Potenciadora",
@@ -4092,6 +4229,7 @@
       "Hierba Mental",
       "Ictiofósil",
       "Limonada",
+      "Malasada Maxi",
       "Más PP",
       "Más PS",
       "Master Ball",
@@ -4125,6 +4263,7 @@
       "MT37",
       "MT39",
       "MT40",
+      "MT42",
       "MT43",
       "MT46",
       "MT47",
@@ -4270,12 +4409,6 @@
       {
         "id": "GRISEOUSORB",
         "name": "Griseosfera",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "RELICSILVER",
-        "name": "Real Plata",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -4466,6 +4599,18 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "DECapsula",
+        "name": "Cápsula DE",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "BIGMALASADA",
+        "name": "Malasada Maxi",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 1,
@@ -4480,7 +4625,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 10,
+        "qty": 9,
         "pocket": "Poké Balls"
       },
       {
@@ -4588,6 +4733,12 @@
       {
         "id": "TM40",
         "name": "MT40",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM42",
+        "name": "MT42",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -4886,6 +5037,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "XDEFENSE3",
+        "name": "Defensa X 3",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -4898,8 +5055,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
