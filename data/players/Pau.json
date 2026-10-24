@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 12h 0m jugadas · 112,180₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 12h 11m jugadas · 130,550₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Hedwig",
       "species": "Decidueye",
-      "level": 48,
+      "level": 49,
       "types": [
         "Planta",
         "Fantasma"
@@ -33,12 +33,12 @@
         15
       ],
       "ev": [
-        55,
+        57,
         101,
-        49,
-        46,
-        49,
-        54
+        51,
+        51,
+        51,
+        58
       ],
       "abilPool": [
         "Encadenado",
@@ -152,8 +152,13 @@
       "tmMoves": [
         "Alarido",
         "Anulación",
+        "Arrumaco",
         "As Oculto",
+        "Ciclón",
+        "Cura Floral",
+        "Halloween",
         "Llave Corsé",
+        "Ominochoque",
         "Onda Tóxica",
         "Piñón Auxiliar",
         "Planta Feroz",
@@ -178,7 +183,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 48,
+      "level": 49,
       "types": [
         "Eléctrico"
       ],
@@ -201,12 +206,12 @@
         19
       ],
       "ev": [
-        52,
+        54,
         99,
-        52,
-        52,
-        53,
-        57
+        54,
+        57,
+        55,
+        61
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -317,17 +322,23 @@
         "Alboroto",
         "As Oculto",
         "Barrera",
+        "Bloqueo",
+        "Buceo",
         "Carga Parábola",
         "Chuzos",
+        "Cura Floral",
         "Danza Aleteo",
         "Decalcomanía",
         "Decoración",
         "Electropico",
         "Estrujón",
+        "Fotocolisión",
         "Giro Mortífero",
         "Golpe Roca",
         "Granizo",
+        "Halloween",
         "Llave Corsé",
+        "Onda Certera",
         "Onda Tóxica",
         "Palma Rauda",
         "Piñón Auxiliar",
@@ -347,7 +358,7 @@
     {
       "nickname": "Ott",
       "species": "Samurott (Hisui)",
-      "level": 48,
+      "level": 49,
       "types": [
         "Agua",
         "Siniestro"
@@ -359,7 +370,7 @@
       "moves": [
         "Tajo Acuático",
         "Chuzos",
-        "Asalto Barrera",
+        "Terremoto",
         "Palma Rauda"
       ],
       "iv": [
@@ -371,12 +382,12 @@
         0
       ],
       "ev": [
+        6,
         4,
+        9,
+        5,
         4,
-        7,
-        0,
-        2,
-        2
+        6
       ],
       "abilPool": [
         "Insonorizar"
@@ -461,9 +472,12 @@
       "tmMoves": [
         "Alarido",
         "Alboroto",
+        "Arrumaco",
         "Asalto Barrera",
         "Bomba Ácida",
+        "Buceo",
         "Burbuja",
+        "Ciclón",
         "Decalcomanía",
         "Eco Metálico",
         "Electropico",
@@ -471,6 +485,8 @@
         "Granizo",
         "Llave Corsé",
         "Mirada Heladora",
+        "Ominochoque",
+        "Onda Certera",
         "Ovocuración",
         "Palma Rauda",
         "Piñón Auxiliar",
@@ -496,7 +512,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 48,
+      "level": 49,
       "types": [
         "Psíquico",
         "Volador"
@@ -520,12 +536,12 @@
         20
       ],
       "ev": [
-        34,
+        36,
         47,
-        32,
-        25,
-        33,
-        24
+        34,
+        30,
+        35,
+        28
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -607,14 +623,17 @@
       "tmMoves": [
         "Alarido",
         "Alboroto",
+        "Anulación",
         "Arenas Ardientes",
         "Barrera",
         "Carga Parábola",
+        "Ciclón",
         "Clavo Cañón",
         "Danza Aleteo",
         "Electropico",
         "Esfera Aural",
         "Gas Corrosivo",
+        "Giro Mortífero",
         "Granizo",
         "Hachazo Pétreo",
         "Mirada Heladora",
@@ -622,6 +641,7 @@
         "Pulso de Campo",
         "Represión Metal",
         "Restricción",
+        "Retribución",
         "Shuriken de Agua",
         "Vendetta",
         "Viento Carámbano",
@@ -637,142 +657,9 @@
       "spriteKey": "BRAVIARY_1"
     },
     {
-      "nickname": "Willyrex",
-      "species": "Tyrantrum",
-      "level": 48,
-      "types": [
-        "Roca",
-        "Dragón"
-      ],
-      "ability": "Ignorante",
-      "nature": "Alegre",
-      "item": "Cascabel Concha",
-      "shiny": false,
-      "moves": [
-        "Hachazo Pétreo",
-        "Veneno X",
-        "Terremoto",
-        "Cuerno Certero"
-      ],
-      "iv": [
-        9,
-        21,
-        24,
-        7,
-        23,
-        22
-      ],
-      "ev": [
-        21,
-        25,
-        7,
-        16,
-        18,
-        14
-      ],
-      "abilPool": [
-        "Ignorante"
-      ],
-      "abilHidden": [
-        "Tablilla Debacle"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Ciclón"
-        },
-        {
-          "lvl": 1,
-          "m": "Ofrenda"
-        },
-        {
-          "lvl": 1,
-          "m": "Fotosíntesis"
-        },
-        {
-          "lvl": 1,
-          "m": "Rodillo de Púas"
-        },
-        {
-          "lvl": 12,
-          "m": "Nieve Polvo"
-        },
-        {
-          "lvl": 15,
-          "m": "Estruendo Escama"
-        },
-        {
-          "lvl": 16,
-          "m": "Rodar"
-        },
-        {
-          "lvl": 20,
-          "m": "Canto Mortal"
-        },
-        {
-          "lvl": 24,
-          "m": "Polvo Mágico"
-        },
-        {
-          "lvl": 28,
-          "m": "Remolino"
-        },
-        {
-          "lvl": 32,
-          "m": "Tenaza"
-        },
-        {
-          "lvl": 36,
-          "m": "Doble Equipo"
-        },
-        {
-          "lvl": 42,
-          "m": "Trampa Rocas"
-        },
-        {
-          "lvl": 48,
-          "m": "Veneno X"
-        },
-        {
-          "lvl": 54,
-          "m": "Vasta Guardia"
-        },
-        {
-          "lvl": 60,
-          "m": "Rayo Infinito"
-        },
-        {
-          "lvl": 66,
-          "m": "Ala Mortífera"
-        }
-      ],
-      "tmMoves": [
-        "Asalto Barrera",
-        "Barrera",
-        "Decoración",
-        "Eco Metálico",
-        "Electropico",
-        "Esfera Aural",
-        "Gas Corrosivo",
-        "Hachazo Pétreo",
-        "Ovocuración",
-        "Palma Rauda",
-        "Púas",
-        "Purificación",
-        "Rencor Reprimido"
-      ],
-      "firstMoves": [
-        "Última Palabra",
-        "Bucle Arena",
-        "Persecución",
-        "Tumba Rocas"
-      ],
-      "spriteKey": "TYRANTRUM"
-    },
-    {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 47,
+      "level": 49,
       "types": [
         "Veneno",
         "Dragón"
@@ -796,12 +683,12 @@
         22
       ],
       "ev": [
-        0,
         2,
-        7,
-        0,
         2,
-        0
+        9,
+        5,
+        4,
+        4
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -890,15 +777,18 @@
       ],
       "tmMoves": [
         "Alboroto",
+        "Arrumaco",
         "As Oculto",
         "Asalto Barrera",
         "Barrera",
+        "Bloqueo",
         "Bomba Ácida",
         "Carga Parábola",
         "Clavo Cañón",
         "Decalcomanía",
         "Eco Metálico",
         "Estrujón",
+        "Fotocolisión",
         "Fuerza G",
         "Granizo",
         "Láser Doble",
@@ -910,6 +800,7 @@
         "Pulso de Campo",
         "Puño Incremento",
         "Rencor Reprimido",
+        "Retribución",
         "Shuriken de Agua",
         "Velo Sagrado",
         "Vendetta"
@@ -921,6 +812,175 @@
         "Vasto Impacto"
       ],
       "spriteKey": "DRAGALGE"
+    },
+    {
+      "nickname": "Mocardo",
+      "species": "Muk (Alola)",
+      "level": 49,
+      "types": [
+        "Veneno",
+        "Siniestro"
+      ],
+      "ability": "Mudar",
+      "nature": "Plácida",
+      "item": "Lodo Negro",
+      "shiny": false,
+      "moves": [
+        "Cola Veneno",
+        "Superdiente",
+        "Cabezazo Zen",
+        "Púas Tóxicas"
+      ],
+      "iv": [
+        25,
+        26,
+        25,
+        20,
+        30,
+        26
+      ],
+      "ev": [
+        32,
+        49,
+        14,
+        31,
+        37,
+        23
+      ],
+      "abilPool": [
+        "Mudar",
+        "Vista Lince"
+      ],
+      "abilHidden": [
+        "Indefenso"
+      ],
+      "learnset": [
+        {
+          "lvl": 0,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 1,
+          "m": "Ácido"
+        },
+        {
+          "lvl": 1,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 1,
+          "m": "Camuflaje"
+        },
+        {
+          "lvl": 7,
+          "m": "Chapoteo Lodo"
+        },
+        {
+          "lvl": 12,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 15,
+          "m": "Polvo Veneno"
+        },
+        {
+          "lvl": 18,
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 18,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 21,
+          "m": "Octopresa"
+        },
+        {
+          "lvl": 21,
+          "m": "Maldición"
+        },
+        {
+          "lvl": 26,
+          "m": "Golpe Aéreo"
+        },
+        {
+          "lvl": 26,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 29,
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 29,
+          "m": "Tornado"
+        },
+        {
+          "lvl": 32,
+          "m": "Superdiente"
+        },
+        {
+          "lvl": 37,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 40,
+          "m": "Retribución"
+        },
+        {
+          "lvl": 46,
+          "m": "Gas Venenoso"
+        },
+        {
+          "lvl": 52,
+          "m": "Halloween"
+        },
+        {
+          "lvl": 57,
+          "m": "Espabila"
+        }
+      ],
+      "tmMoves": [
+        "Alarido",
+        "Alboroto",
+        "Anulación",
+        "Asalto Barrera",
+        "Bloqueo",
+        "Bomba Ácida",
+        "Cabezazo Zen",
+        "Carga Parábola",
+        "Ciclón",
+        "Clavo Cañón",
+        "Danza Aleteo",
+        "Decoración",
+        "Deslome",
+        "Electropico",
+        "Estrujón",
+        "Gas Corrosivo",
+        "Giro Mortífero",
+        "Granizo",
+        "Halloween",
+        "Hora del Té",
+        "Láser Doble",
+        "Ominochoque",
+        "Onda Tóxica",
+        "Ovocuración",
+        "Pulso de Campo",
+        "Purificación",
+        "Represión Metal",
+        "Restricción",
+        "Retribución",
+        "Sacrificio",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Paralizador",
+        "Limpieza General",
+        "Presente",
+        "Bomba Imán"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10113.png",
+      "spriteKey": "MUK_1"
     }
   ],
   "box": [
@@ -4105,165 +4165,137 @@
       "spriteKey": "FEAROW"
     },
     {
-      "nickname": "Mocardo",
-      "species": "Muk (Alola)",
+      "nickname": "Willyrex",
+      "species": "Tyrantrum",
       "level": 48,
       "types": [
-        "Veneno",
-        "Siniestro"
+        "Roca",
+        "Dragón"
       ],
-      "ability": "Mudar",
-      "nature": "Plácida",
-      "item": "",
+      "ability": "Ignorante",
+      "nature": "Alegre",
+      "item": "Cascabel Concha",
       "shiny": false,
       "moves": [
-        "Cola Veneno",
-        "Superdiente",
-        "Cabezazo Zen",
-        "Púas Tóxicas"
+        "Hachazo Pétreo",
+        "Veneno X",
+        "Terremoto",
+        "Cuerno Certero"
       ],
       "iv": [
-        25,
-        26,
-        25,
-        20,
-        30,
-        26
+        9,
+        21,
+        24,
+        7,
+        23,
+        22
       ],
       "ev": [
-        30,
-        49,
-        12,
-        26,
-        35,
-        19
+        21,
+        25,
+        7,
+        16,
+        18,
+        14
       ],
       "abilPool": [
-        "Mudar",
-        "Vista Lince"
+        "Ignorante"
       ],
       "abilHidden": [
-        "Indefenso"
+        "Tablilla Debacle"
       ],
       "learnset": [
         {
-          "lvl": 0,
-          "m": "Púas Tóxicas"
+          "lvl": 1,
+          "m": "Ciclón"
         },
         {
           "lvl": 1,
-          "m": "Ácido"
+          "m": "Ofrenda"
         },
         {
           "lvl": 1,
-          "m": "Sísmico"
+          "m": "Fotosíntesis"
         },
         {
           "lvl": 1,
-          "m": "Camuflaje"
-        },
-        {
-          "lvl": 7,
-          "m": "Chapoteo Lodo"
+          "m": "Rodillo de Púas"
         },
         {
           "lvl": 12,
-          "m": "Cola Veneno"
+          "m": "Nieve Polvo"
         },
         {
           "lvl": 15,
-          "m": "Polvo Veneno"
+          "m": "Estruendo Escama"
         },
         {
-          "lvl": 18,
-          "m": "Pantalla de Luz"
+          "lvl": 16,
+          "m": "Rodar"
         },
         {
-          "lvl": 18,
-          "m": "Bomba Ácida"
+          "lvl": 20,
+          "m": "Canto Mortal"
         },
         {
-          "lvl": 21,
-          "m": "Octopresa"
+          "lvl": 24,
+          "m": "Polvo Mágico"
         },
         {
-          "lvl": 21,
-          "m": "Maldición"
-        },
-        {
-          "lvl": 26,
-          "m": "Golpe Aéreo"
-        },
-        {
-          "lvl": 26,
-          "m": "Acua Aro"
-        },
-        {
-          "lvl": 29,
-          "m": "Carga Tóxica"
-        },
-        {
-          "lvl": 29,
-          "m": "Tornado"
+          "lvl": 28,
+          "m": "Remolino"
         },
         {
           "lvl": 32,
-          "m": "Superdiente"
+          "m": "Tenaza"
         },
         {
-          "lvl": 37,
-          "m": "Ojitos Tiernos"
+          "lvl": 36,
+          "m": "Doble Equipo"
         },
         {
-          "lvl": 40,
-          "m": "Retribución"
+          "lvl": 42,
+          "m": "Trampa Rocas"
         },
         {
-          "lvl": 46,
-          "m": "Gas Venenoso"
+          "lvl": 48,
+          "m": "Veneno X"
         },
         {
-          "lvl": 52,
-          "m": "Halloween"
+          "lvl": 54,
+          "m": "Vasta Guardia"
         },
         {
-          "lvl": 57,
-          "m": "Espabila"
+          "lvl": 60,
+          "m": "Rayo Infinito"
+        },
+        {
+          "lvl": 66,
+          "m": "Ala Mortífera"
         }
       ],
       "tmMoves": [
-        "Alarido",
-        "Alboroto",
         "Asalto Barrera",
-        "Bomba Ácida",
-        "Cabezazo Zen",
-        "Carga Parábola",
-        "Clavo Cañón",
-        "Danza Aleteo",
+        "Barrera",
         "Decoración",
-        "Deslome",
+        "Eco Metálico",
         "Electropico",
-        "Estrujón",
+        "Esfera Aural",
         "Gas Corrosivo",
-        "Granizo",
-        "Láser Doble",
-        "Onda Tóxica",
+        "Hachazo Pétreo",
         "Ovocuración",
-        "Pulso de Campo",
+        "Palma Rauda",
+        "Púas",
         "Purificación",
-        "Represión Metal",
-        "Restricción",
-        "Sacrificio",
-        "Vendetta"
+        "Rencor Reprimido"
       ],
       "firstMoves": [
-        "Paralizador",
-        "Limpieza General",
-        "Presente",
-        "Bomba Imán"
+        "Última Palabra",
+        "Bucle Arena",
+        "Persecución",
+        "Tumba Rocas"
       ],
-      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10113.png",
-      "spriteKey": "MUK_1"
+      "spriteKey": "TYRANTRUM"
     },
     {
       "nickname": "Zeppeli",
@@ -6311,17 +6343,6 @@
       "mon": "Braviary"
     },
     {
-      "route": "ruta_5",
-      "where": "Ruta 5",
-      "species": "Tyrantrum",
-      "nickname": "Willyrex",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 20,
-      "mon": "Tyrantrum"
-    },
-    {
       "route": "ruta_14",
       "where": "Ruta 14",
       "species": "Dragalge",
@@ -6331,6 +6352,17 @@
       "category": "salvaje",
       "level": 42,
       "mon": "Dragalge"
+    },
+    {
+      "route": "ruta_15",
+      "where": "Ruta 15",
+      "species": "Muk",
+      "nickname": "Mocardo",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 25,
+      "mon": "Muk"
     },
     {
       "route": "ruta_12",
@@ -6575,15 +6607,15 @@
       "mon": "Fearow"
     },
     {
-      "route": "ruta_15",
-      "where": "Ruta 15",
-      "species": "Muk",
-      "nickname": "Mocardo",
+      "route": "ruta_5",
+      "where": "Ruta 5",
+      "species": "Tyrantrum",
+      "nickname": "Willyrex",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 25,
-      "mon": "Muk"
+      "level": 20,
+      "mon": "Tyrantrum"
     },
     {
       "route": "ciudad_azafran",
@@ -6754,8 +6786,8 @@
       "ciudad_plateada": true,
       "ruta_16": true,
       "monte_moon": true,
-      "ruta_5": true,
       "ruta_14": true,
+      "ruta_15": true,
       "ruta_12": true,
       "ruta_21": true,
       "ruta_4": true,
@@ -6772,7 +6804,7 @@
       "ruta_11": true,
       "zona_safari": true,
       "ruta_2_sur": true,
-      "ruta_15": true,
+      "ruta_5": true,
       "ciudad_azafran": true,
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
@@ -6902,6 +6934,7 @@
       191,
       192,
       193,
+      198,
       201,
       209,
       214,
@@ -6983,6 +7016,7 @@
       "Manuscrito Sombras",
       "Más PP",
       "Más PS",
+      "Maxipepita",
       "Mega-Aro",
       "Menta Afable",
       "Menta Agitada",
@@ -6999,11 +7033,13 @@
       "Monedero",
       "MT03",
       "MT05",
+      "MT06",
       "MT07",
       "MT100",
       "MT101",
       "MT102",
       "MT108",
+      "MT113",
       "MT114",
       "MT12",
       "MT122",
@@ -7031,6 +7067,7 @@
       "MT54",
       "MT55",
       "MT57",
+      "MT58",
       "MT59",
       "MT62",
       "MT63",
@@ -7095,6 +7132,7 @@
       "Tabla Pétrea",
       "Tesecreto",
       "Ticket Barco",
+      "Tmagn2",
       "Toxisfera",
       "Ultra Ball",
       "Velocidad X 3",
@@ -7365,12 +7403,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "BLACKSLUDGE",
-        "name": "Lodo Negro",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "UTILITYUMBRELLA",
         "name": "Parasol Multiuso",
         "qty": 1,
@@ -7379,6 +7411,12 @@
       {
         "id": "MENTALHERB",
         "name": "Hierba Mental",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BIGNUGGET",
+        "name": "Maxipepita",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -7623,6 +7661,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM06",
+        "name": "MT06",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM07",
         "name": "MT07",
         "qty": 1,
@@ -7797,6 +7841,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM58",
+        "name": "MT58",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM59",
         "name": "MT59",
         "qty": 1,
@@ -7967,6 +8017,12 @@
       {
         "id": "TM109",
         "name": "MT109",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM113",
+        "name": "MT113",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -8261,6 +8317,12 @@
       {
         "id": "TESECRETO",
         "name": "Tesecreto",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "TMAGN2",
+        "name": "Tmagn2",
         "qty": 1,
         "pocket": "Objetos clave"
       }
