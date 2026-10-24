@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 11h 37m jugadas · 77,110₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 12h 22m jugadas · 84,430₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Clefairy",
       "species": "Clefairy",
-      "level": 35,
+      "level": 36,
       "types": [
         "Hada"
       ],
@@ -34,11 +34,11 @@
       ],
       "ev": [
         10,
-        15,
-        1,
-        14,
-        155,
-        11
+        16,
+        4,
+        16,
+        205,
+        13
       ],
       "abilPool": [
         "Bromista",
@@ -225,11 +225,11 @@
       ],
       "ev": [
         0,
-        1,
-        0,
-        4,
         2,
-        4
+        3,
+        6,
+        4,
+        6
       ],
       "abilPool": [
         "Surcavientos"
@@ -350,160 +350,133 @@
       "spriteKey": "DARMANITAN"
     },
     {
-      "nickname": "Furro",
-      "species": "Linoone",
-      "level": 31,
+      "nickname": "Escuditooo",
+      "species": "Bastiodon",
+      "level": 36,
       "types": [
-        "Normal"
+        "Roca",
+        "Acero"
       ],
-      "ability": "Impasible",
-      "nature": "Cauta",
-      "item": "Parte Verde",
+      "ability": "Cortante",
+      "nature": "Audaz",
+      "item": "",
       "shiny": false,
       "moves": [
-        "Giro Rápido",
-        "Fitoimpulso",
-        "Ovocuración",
-        "Plumerazo"
+        "Robasombra",
+        "Hoja Afilada",
+        "Luminicola",
+        "Pulimento"
       ],
       "iv": [
-        3,
-        8,
-        5,
-        18,
-        22,
-        16
+        15,
+        30,
+        13,
+        11,
+        21,
+        13
       ],
       "ev": [
-        25,
-        36,
-        22,
-        26,
-        28,
-        35
+        0,
+        1,
+        2,
+        2,
+        2,
+        2
       ],
       "abilPool": [
-        "Impasible",
-        "Nerviosismo"
+        "Cortante"
       ],
       "abilHidden": [
-        "Receptor"
+        "Cuerpo Vívido"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Cuerpo Pesado"
+          "lvl": -1,
+          "m": "Hoja Afilada"
+        },
+        {
+          "lvl": -1,
+          "m": "Escalofrío"
         },
         {
           "lvl": 1,
-          "m": "Ovocuración"
+          "m": "Sombra Vil"
         },
         {
           "lvl": 1,
-          "m": "Clavo Cañón"
+          "m": "Salazón"
         },
         {
           "lvl": 1,
-          "m": "Señuelo"
+          "m": "Tinieblas"
         },
         {
           "lvl": 1,
-          "m": "Clonatipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Gruñido"
-        },
-        {
-          "lvl": 1,
-          "m": "Llanto Falso"
-        },
-        {
-          "lvl": 1,
-          "m": "Represión Metal"
-        },
-        {
-          "lvl": 9,
-          "m": "Atadura"
-        },
-        {
-          "lvl": 12,
-          "m": "Fortaleza"
+          "m": "Agarrón"
         },
         {
           "lvl": 15,
-          "m": "Puño Mareo"
+          "m": "Doble Patada"
         },
         {
-          "lvl": 17,
-          "m": "Marcha Espectral"
+          "lvl": 19,
+          "m": "Vaho Gélido"
         },
         {
-          "lvl": 18,
-          "m": "Capa Mágica"
-        },
-        {
-          "lvl": 23,
-          "m": "Metrónomo"
-        },
-        {
-          "lvl": 23,
-          "m": "Motivación"
+          "lvl": 24,
+          "m": "Rencor"
         },
         {
           "lvl": 28,
-          "m": "Bálsamo Osado"
+          "m": "Pulimento"
         },
         {
-          "lvl": 33,
-          "m": "Truco Fuerza"
-        },
-        {
-          "lvl": 38,
-          "m": "Intercambio"
-        },
-        {
-          "lvl": 41,
-          "m": "Punzada Rama"
+          "lvl": 36,
+          "m": "Aguzar"
         },
         {
           "lvl": 43,
-          "m": "Danza Pluma"
+          "m": "Rayo Solar"
         },
         {
-          "lvl": 48,
-          "m": "Tecno Shock"
+          "lvl": 51,
+          "m": "Furia Natural"
         },
         {
-          "lvl": 65,
-          "m": "Don Natural"
+          "lvl": 58,
+          "m": "Despejar"
         }
       ],
       "tmMoves": [
         "Acupresión",
-        "Atracción",
+        "Agua Fría",
         "Bombardeo",
-        "Cambiapoder",
-        "Cola Dragón",
-        "Golpe Rastrero",
-        "Gravedad",
-        "Llama Protectora",
-        "Mal de Ojo",
+        "Brecha Negra",
+        "Chapoteo Lodo",
+        "Chirrido",
+        "Conversión2",
+        "Cuerpo Pesado",
+        "Electrificación",
+        "Estoicismo",
+        "Fotocolisión",
+        "Giro Rápido",
+        "Hilo Venenoso",
         "Manos Juntas",
-        "Patada Giro",
+        "Meditación",
+        "Patada Salto Alta",
         "Perforador",
-        "Plumerazo",
-        "Polvo Mágico",
-        "Rayo Burbuja",
-        "Remolino",
-        "Truco Defensa"
+        "Puño Jet",
+        "Señuelo",
+        "Truco Floral",
+        "Ultrapuño"
       ],
       "firstMoves": [
-        "Vaho Gélido",
-        "Fitoimpulso",
-        "Ovocuración"
+        "Robasombra",
+        "Atiborramiento",
+        "Luminicola",
+        "Pulimento"
       ],
-      "spriteKey": "LINOONE"
+      "spriteKey": "BASTIODON"
     },
     {
       "nickname": "Rubí",
@@ -519,7 +492,7 @@
       "shiny": false,
       "moves": [
         "Estoicismo",
-        "Psicorrayo",
+        "Fotocolisión",
         "Poder Pasado",
         "Vaho Gélido"
       ],
@@ -533,11 +506,11 @@
       ],
       "ev": [
         0,
-        1,
-        0,
-        4,
         2,
-        4
+        3,
+        6,
+        4,
+        6
       ],
       "abilPool": [
         "Fuerza Cerebral"
@@ -627,6 +600,7 @@
         "Cola Dragón",
         "Electrificación",
         "Estoicismo",
+        "Fotocolisión",
         "Giro Rápido",
         "Golpe Rastrero",
         "Gravedad",
@@ -674,11 +648,11 @@
       ],
       "ev": [
         0,
-        1,
-        0,
-        4,
         2,
-        4
+        3,
+        6,
+        4,
+        6
       ],
       "abilPool": [
         "Potencia",
@@ -800,11 +774,11 @@
       ],
       "ev": [
         0,
-        0,
-        0,
+        1,
+        3,
+        4,
         2,
-        0,
-        2
+        4
       ],
       "abilPool": [
         "Mar Llamas"
@@ -890,6 +864,7 @@
         "Cuerpo Pesado",
         "Electrificación",
         "Estoicismo",
+        "Fotocolisión",
         "Giro Rápido",
         "Golpe Bajo",
         "Llama Protectora",
@@ -1515,6 +1490,162 @@
       "spriteKey": "BURMY"
     },
     {
+      "nickname": "Furro",
+      "species": "Linoone",
+      "level": 32,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Impasible",
+      "nature": "Cauta",
+      "item": "Parte Verde",
+      "shiny": false,
+      "moves": [
+        "Giro Rápido",
+        "Fitoimpulso",
+        "Ovocuración",
+        "Plumerazo"
+      ],
+      "iv": [
+        3,
+        8,
+        5,
+        18,
+        22,
+        16
+      ],
+      "ev": [
+        25,
+        36,
+        23,
+        26,
+        28,
+        35
+      ],
+      "abilPool": [
+        "Impasible",
+        "Nerviosismo"
+      ],
+      "abilHidden": [
+        "Receptor"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cuerpo Pesado"
+        },
+        {
+          "lvl": 1,
+          "m": "Ovocuración"
+        },
+        {
+          "lvl": 1,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 1,
+          "m": "Señuelo"
+        },
+        {
+          "lvl": 1,
+          "m": "Clonatipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Gruñido"
+        },
+        {
+          "lvl": 1,
+          "m": "Llanto Falso"
+        },
+        {
+          "lvl": 1,
+          "m": "Represión Metal"
+        },
+        {
+          "lvl": 9,
+          "m": "Atadura"
+        },
+        {
+          "lvl": 12,
+          "m": "Fortaleza"
+        },
+        {
+          "lvl": 15,
+          "m": "Puño Mareo"
+        },
+        {
+          "lvl": 17,
+          "m": "Marcha Espectral"
+        },
+        {
+          "lvl": 18,
+          "m": "Capa Mágica"
+        },
+        {
+          "lvl": 23,
+          "m": "Metrónomo"
+        },
+        {
+          "lvl": 23,
+          "m": "Motivación"
+        },
+        {
+          "lvl": 28,
+          "m": "Bálsamo Osado"
+        },
+        {
+          "lvl": 33,
+          "m": "Truco Fuerza"
+        },
+        {
+          "lvl": 38,
+          "m": "Intercambio"
+        },
+        {
+          "lvl": 41,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 43,
+          "m": "Danza Pluma"
+        },
+        {
+          "lvl": 48,
+          "m": "Tecno Shock"
+        },
+        {
+          "lvl": 65,
+          "m": "Don Natural"
+        }
+      ],
+      "tmMoves": [
+        "Acupresión",
+        "Atracción",
+        "Bombardeo",
+        "Cambiapoder",
+        "Cola Dragón",
+        "Golpe Rastrero",
+        "Gravedad",
+        "Llama Protectora",
+        "Mal de Ojo",
+        "Manos Juntas",
+        "Patada Giro",
+        "Perforador",
+        "Plumerazo",
+        "Polvo Mágico",
+        "Rayo Burbuja",
+        "Remolino",
+        "Truco Defensa"
+      ],
+      "firstMoves": [
+        "Vaho Gélido",
+        "Fitoimpulso",
+        "Ovocuración"
+      ],
+      "spriteKey": "LINOONE"
+    },
+    {
       "nickname": "Eye of Rah",
       "species": "Claydol",
       "level": 35,
@@ -1877,6 +2008,134 @@
         "Fría Acogida"
       ],
       "spriteKey": "WOOBAT"
+    },
+    {
+      "nickname": "Fine Shyy",
+      "species": "Shiinotic",
+      "level": 35,
+      "types": [
+        "Planta",
+        "Hada"
+      ],
+      "ability": "Regeneración",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Truco Floral",
+        "Fotosíntesis",
+        "Rayo Burbuja",
+        "Fotocolisión"
+      ],
+      "iv": [
+        10,
+        8,
+        3,
+        17,
+        17,
+        23
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Regeneración",
+        "Hidrorrefuerzo"
+      ],
+      "abilHidden": [
+        "Encadenado"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Condena Silvana"
+        },
+        {
+          "lvl": 1,
+          "m": "Vasto Impacto"
+        },
+        {
+          "lvl": 1,
+          "m": "Retracción"
+        },
+        {
+          "lvl": 1,
+          "m": "Telequinesis"
+        },
+        {
+          "lvl": 8,
+          "m": "Limpieza General"
+        },
+        {
+          "lvl": 12,
+          "m": "Truco Floral"
+        },
+        {
+          "lvl": 16,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 20,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 27,
+          "m": "Cambio de Banda"
+        },
+        {
+          "lvl": 32,
+          "m": "Camelo"
+        },
+        {
+          "lvl": 38,
+          "m": "Látigo Cepa"
+        },
+        {
+          "lvl": 44,
+          "m": "Pesadilla"
+        },
+        {
+          "lvl": 50,
+          "m": "Erupción de Ira"
+        },
+        {
+          "lvl": 56,
+          "m": "Filo Potente"
+        }
+      ],
+      "tmMoves": [
+        "Acupresión",
+        "Agua Fría",
+        "Atracción",
+        "Carga Tóxica",
+        "Cola Dragón",
+        "Conversión2",
+        "Estoicismo",
+        "Fotocolisión",
+        "Golpe Rastrero",
+        "Hilo Venenoso",
+        "Mal de Ojo",
+        "Manos Juntas",
+        "Meditación",
+        "Patada Salto Alta",
+        "Rayo Burbuja",
+        "Señuelo",
+        "Truco Floral",
+        "Vaho Gélido",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Truco Floral",
+        "Fotosíntesis",
+        "Punzada Rama",
+        "Cambio de Banda"
+      ],
+      "spriteKey": "SHIINOTIC"
     },
     {
       "nickname": "Staraptor",
@@ -3272,15 +3531,15 @@
       "mon": "Darmanitan"
     },
     {
-      "route": "ciudad_verde",
-      "where": "Ciudad Verde",
-      "species": "Linoone",
-      "nickname": "Furro",
+      "route": "ruta_10_norte",
+      "where": "Ruta 10 Norte",
+      "species": "Bastiodon",
+      "nickname": "Escuditooo",
       "shiny": false,
       "status": "captured",
-      "category": "ciudad",
-      "level": 5,
-      "mon": "Linoone"
+      "category": "salvaje",
+      "level": 28,
+      "mon": "Bastiodon"
     },
     {
       "route": "monte_moon",
@@ -3371,6 +3630,17 @@
       "mon": "Burmy"
     },
     {
+      "route": "ciudad_verde",
+      "where": "Ciudad Verde",
+      "species": "Linoone",
+      "nickname": "Furro",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 5,
+      "mon": "Linoone"
+    },
+    {
       "route": "ruta_5",
       "where": "Ruta 5",
       "species": "Claydol",
@@ -3402,6 +3672,17 @@
       "category": "salvaje",
       "level": 17,
       "mon": "Woobat"
+    },
+    {
+      "route": "tunel_roca",
+      "where": "Túnel Roca",
+      "species": "Shiinotic",
+      "nickname": "Fine Shyy",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 27,
+      "mon": "Shiinotic"
     },
     {
       "route": "",
@@ -3524,16 +3805,18 @@
     "npcs": {},
     "routes": {
       "ruta_21": true,
-      "ciudad_verde": true,
+      "ruta_10_norte": true,
       "monte_moon": true,
       "ruta_9": true,
       "bosque_verde": true,
       "ciudad_plateada": true,
       "tunel_diglett": true,
       "ruta_3": true,
+      "ciudad_verde": true,
       "ruta_5": true,
       "monte_moon_exterior": true,
       "ruta_4": true,
+      "tunel_roca": true,
       "ciudad_carmin": true,
       "ruta_2_sur": true,
       "pueblo_paleta": true,
@@ -3543,9 +3826,7 @@
       "ciudad_celeste": true,
       "ruta_2_norte": true,
       "ruta_20": true,
-      "ruta_15": true,
-      "ruta_10_norte": true,
-      "tunel_roca": true
+      "ruta_15": true
     },
     "items": {},
     "encounters": {
@@ -3569,7 +3850,9 @@
       "ciudad_carmin": true,
       "ruta_15": true,
       "tunel_diglett": true,
-      "ruta_9": true
+      "ruta_9": true,
+      "ruta_10_norte": true,
+      "tunel_roca": true
     },
     "switches": [
       48,
@@ -3627,6 +3910,7 @@
       "Banda Recia",
       "Baya Algama",
       "Baya Arabol",
+      "Baya Aranja",
       "Baya Lichi",
       "Baya Pomaro",
       "Blanco",
@@ -3659,6 +3943,7 @@
       "Hielo Perpetuo",
       "Hierba Mental",
       "Ictiofósil",
+      "Limonada",
       "Más PP",
       "Más PS",
       "Menta Activa",
@@ -3681,6 +3966,7 @@
       "MT111",
       "MT121",
       "MT17",
+      "MT23",
       "MT27",
       "MT29",
       "MT30",
@@ -3713,6 +3999,7 @@
       "MT98",
       "Ocaso Ball",
       "Parte Roja",
+      "Piedra Fuego",
       "Piedra Noche",
       "Piedra Oval",
       "Pila",
@@ -3733,6 +4020,7 @@
       "Tabla Legendaria",
       "Tela Terrible",
       "Ticket Barco",
+      "Tiraobjeto",
       "Toxisfera",
       "Turno Ball",
       "Vial"
@@ -3925,6 +4213,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "BIGMUSHROOM",
+        "name": "Seta Grande",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FIRESTONE",
+        "name": "Piedra Fuego",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HPUP",
         "name": "Más PS",
         "qty": 1,
@@ -3939,7 +4239,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 758,
+        "qty": 742,
         "pocket": "Medicinas"
       },
       {
@@ -4015,6 +4315,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "LEMONADE",
+        "name": "Limonada",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 1,
@@ -4029,7 +4335,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 14,
+        "qty": 11,
         "pocket": "Poké Balls"
       },
       {
@@ -4071,6 +4377,12 @@
       {
         "id": "TM17",
         "name": "MT17",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM23",
+        "name": "MT23",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -4309,6 +4621,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "ORANBERRY",
+        "name": "Baya Aranja",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "KELPSYBERRY",
         "name": "Baya Algama",
         "qty": 1,
@@ -4357,6 +4675,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "ITEMDROP",
+        "name": "Tiraobjeto",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -4369,8 +4693,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
