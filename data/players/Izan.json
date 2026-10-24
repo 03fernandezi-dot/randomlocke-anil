@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 9,
   "champion": false,
-  "notes": "Importado del save · 13h 43m jugadas · 118,840₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 14h 22m jugadas · 165,220₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Clefairy",
       "species": "Clefairy",
-      "level": 38,
+      "level": 39,
       "types": [
         "Hada"
       ],
@@ -33,12 +33,12 @@
         25
       ],
       "ev": [
-        18,
-        22,
-        11,
-        21,
+        27,
+        35,
+        14,
+        31,
         252,
-        16
+        28
       ],
       "abilPool": [
         "Bromista",
@@ -203,7 +203,7 @@
     {
       "nickname": "Taruma",
       "species": "Darmanitan",
-      "level": 37,
+      "level": 39,
       "types": [
         "Fuego"
       ],
@@ -226,12 +226,12 @@
         7
       ],
       "ev": [
-        8,
-        8,
-        10,
-        11,
-        6,
-        9
+        17,
+        21,
+        13,
+        21,
+        9,
+        21
       ],
       "abilPool": [
         "Surcavientos"
@@ -356,7 +356,7 @@
     {
       "nickname": "Escuditooo",
       "species": "Bastiodon",
-      "level": 37,
+      "level": 39,
       "types": [
         "Roca",
         "Acero"
@@ -382,12 +382,12 @@
         13
       ],
       "ev": [
-        8,
+        17,
+        20,
+        12,
+        17,
         7,
-        9,
-        7,
-        4,
-        5
+        17
       ],
       "abilPool": [
         "Cortante"
@@ -488,7 +488,7 @@
     {
       "nickname": "Abascal",
       "species": "Chesnaught",
-      "level": 36,
+      "level": 39,
       "types": [
         "Planta",
         "Lucha"
@@ -512,12 +512,12 @@
         26
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        9,
+        13,
+        3,
+        10,
+        3,
+        12
       ],
       "abilPool": [
         "Hélice Caudal"
@@ -660,7 +660,7 @@
     {
       "nickname": "Mierdecilla",
       "species": "Ribombee",
-      "level": 37,
+      "level": 39,
       "types": [
         "Bicho",
         "Hada"
@@ -684,12 +684,12 @@
         30
       ],
       "ev": [
-        8,
-        8,
-        10,
-        11,
-        6,
-        9
+        17,
+        21,
+        13,
+        21,
+        9,
+        21
       ],
       "abilPool": [
         "Potencia",
@@ -788,7 +788,7 @@
     {
       "nickname": "PoliBueno",
       "species": "Poliwrath",
-      "level": 36,
+      "level": 39,
       "types": [
         "Agua",
         "Lucha"
@@ -812,12 +812,12 @@
         6
       ],
       "ev": [
-        8,
+        17,
+        20,
+        13,
+        19,
         7,
-        10,
-        9,
-        4,
-        7
+        19
       ],
       "abilPool": [
         "Trampa Arena"
@@ -4240,7 +4240,8 @@
     "gyms": {
       "gym1": true,
       "gym2": true,
-      "gym3": true
+      "gym3": true,
+      "gym4": true
     },
     "bosses": {},
     "npcs": {},
@@ -4336,6 +4337,8 @@
       94,
       95,
       96,
+      97,
+      98,
       110,
       112,
       113,
@@ -4354,6 +4357,7 @@
       184,
       185,
       186,
+      187,
       271,
       301,
       323,
@@ -4369,6 +4373,7 @@
       "Ataque X 2",
       "Banda Recia",
       "Baya Algama",
+      "Baya Ango",
       "Baya Arabol",
       "Baya Aranja",
       "Baya Lagro",
@@ -4379,6 +4384,7 @@
       "Blanco",
       "Bola Férrea",
       "Bono Bici",
+      "Capa Furtiva",
       "Cápsula D",
       "Cápsula DE",
       "Cascabel Concha",
@@ -4409,14 +4415,19 @@
       "Griseosfera",
       "Hielo Perpetuo",
       "Hierba Mental",
+      "Hueso Raro",
       "Huevo Suerte",
       "Ictiofósil",
       "Limonada",
+      "Llave Rocket",
+      "Luna Ball",
       "Malasada Maxi",
       "Más PP",
       "Más PS",
       "Master Ball",
+      "Maxipepita",
       "Menta Activa",
+      "Menta Agitada",
       "Menta Alegre",
       "Menta Floja",
       "Menta Plácida",
@@ -4425,6 +4436,7 @@
       "MO Destello",
       "MO Golpe Roca",
       "Mochi Ímpetu",
+      "Monedero",
       "MT02",
       "MT04",
       "MT101",
@@ -4459,7 +4471,9 @@
       "MT57",
       "MT59",
       "MT60",
+      "MT63",
       "MT64",
+      "MT66",
       "MT69",
       "MT70",
       "MT72",
@@ -4469,6 +4483,7 @@
       "MT78",
       "MT80",
       "MT83",
+      "MT84",
       "MT85",
       "MT86",
       "MT88",
@@ -4487,17 +4502,22 @@
       "Pila",
       "Plesiofósil",
       "Poké Montura",
+      "Polvo Estelar",
       "Polvo Metálico",
       "Prettyfeather",
       "Puño Suerte",
       "Radar",
       "Raíz Energía",
+      "Randomizador de Habilidad",
       "Real Plata",
       "Refresco",
       "Reglamento",
+      "Revivir",
       "Rokikos",
       "Sana Ball",
       "Saquito Fragante",
+      "Semilla Electro",
+      "Semilla Hierba",
       "Shinyzador",
       "Supercaña",
       "Tabla Legendaria",
@@ -4507,7 +4527,9 @@
       "Toxisfera",
       "Trufa",
       "Turno Ball",
-      "Vial"
+      "Velocidad X 2",
+      "Vial",
+      "Visor Silph"
     ],
     "bag": [
       {
@@ -4727,6 +4749,42 @@
         "pocket": "Objetos"
       },
       {
+        "id": "GRASSYSEED",
+        "name": "Semilla Hierba",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "RAREBONE",
+        "name": "Hueso Raro",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "COVERTCLOAK",
+        "name": "Capa Furtiva",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ELECTRICSEED",
+        "name": "Semilla Electro",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "STARDUST",
+        "name": "Polvo Estelar",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BIGNUGGET",
+        "name": "Maxipepita",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "HPUP",
         "name": "Más PS",
         "qty": 1,
@@ -4823,6 +4881,30 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "RANDOMABILITYCAPSULE",
+        "name": "Randomizador de Habilidad",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "REVIVE",
+        "name": "Revivir",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "IMPISHMINT",
+        "name": "Menta Agitada",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "CENIZASSAGRADAS",
+        "name": "Cenizas Sagradas",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "POKEBALL",
         "name": "Poké Ball",
         "qty": 1,
@@ -4867,6 +4949,12 @@
       {
         "id": "MASTERBALL",
         "name": "Master Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "MOONBALL",
+        "name": "Luna Ball",
         "qty": 1,
         "pocket": "Poké Balls"
       },
@@ -5015,8 +5103,20 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM63",
+        "name": "MT63",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM64",
         "name": "MT64",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM66",
+        "name": "MT66",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -5071,6 +5171,12 @@
       {
         "id": "TM83",
         "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM84",
+        "name": "MT84",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -5195,6 +5301,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "MAGOBERRY",
+        "name": "Baya Ango",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "KELPSYBERRY",
         "name": "Baya Algama",
         "qty": 1,
@@ -5279,6 +5391,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "XSPEED2",
+        "name": "Velocidad X 2",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -5291,8 +5409,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
@@ -5347,6 +5465,24 @@
       {
         "id": "FLASHITEM",
         "name": "MO Destello",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "LLAVEROCKET",
+        "name": "Llave Rocket",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "VISORSILPH",
+        "name": "Visor Silph",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "COINCASE",
+        "name": "Monedero",
         "qty": 1,
         "pocket": "Objetos clave"
       }
