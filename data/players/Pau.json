@@ -2,180 +2,14 @@
   "id": "Pau",
   "name": "Pau",
   "lives": 30,
-  "livesUsed": 9,
+  "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 12h 31m jugadas · 168,360₽ · vidas en el juego: 17",
+  "notes": "Importado del save · 12h 40m jugadas · 181,730₽ · vidas en el juego: 16",
   "team": [
-    {
-      "nickname": "Uri",
-      "species": "Meganium",
-      "level": 51,
-      "types": [
-        "Planta"
-      ],
-      "ability": "Unísono",
-      "nature": "Alocada",
-      "item": "Gema Roca",
-      "shiny": false,
-      "moves": [
-        "Tajo Aéreo",
-        "Planta Feroz",
-        "Poder Pasado",
-        "Llama Protectora"
-      ],
-      "iv": [
-        22,
-        14,
-        21,
-        3,
-        22,
-        7
-      ],
-      "ev": [
-        1,
-        9,
-        0,
-        0,
-        0,
-        2
-      ],
-      "abilPool": [
-        "Unísono"
-      ],
-      "abilHidden": [
-        "Punto Tóxico"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Doble Equipo"
-        },
-        {
-          "lvl": 1,
-          "m": "Hoja Mágica"
-        },
-        {
-          "lvl": 1,
-          "m": "Paralizador"
-        },
-        {
-          "lvl": 1,
-          "m": "Golpe Cabeza"
-        },
-        {
-          "lvl": 1,
-          "m": "Deslizamiento"
-        },
-        {
-          "lvl": 1,
-          "m": "Persecución"
-        },
-        {
-          "lvl": 12,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 18,
-          "m": "Aire Afilado"
-        },
-        {
-          "lvl": 22,
-          "m": "Bomba Ácida"
-        },
-        {
-          "lvl": 24,
-          "m": "Silbato"
-        },
-        {
-          "lvl": 26,
-          "m": "Placaje"
-        },
-        {
-          "lvl": 26,
-          "m": "Mismo Destino"
-        },
-        {
-          "lvl": 26,
-          "m": "Presente"
-        },
-        {
-          "lvl": 34,
-          "m": "Cura Selvática"
-        },
-        {
-          "lvl": 40,
-          "m": "Confidencia"
-        },
-        {
-          "lvl": 40,
-          "m": "Llama Protectora"
-        },
-        {
-          "lvl": 46,
-          "m": "Bomba Germen"
-        },
-        {
-          "lvl": 54,
-          "m": "Cosquillas"
-        },
-        {
-          "lvl": 54,
-          "m": "Brazo Pincho"
-        },
-        {
-          "lvl": 60,
-          "m": "Pirochoque"
-        },
-        {
-          "lvl": 60,
-          "m": "Sumisión"
-        },
-        {
-          "lvl": 65,
-          "m": "Gas Corrosivo"
-        }
-      ],
-      "tmMoves": [
-        "Alboroto",
-        "Arenas Ardientes",
-        "Bomba Ácida",
-        "Cabezazo Zen",
-        "Carga Parábola",
-        "Chuzos",
-        "Cura Floral",
-        "Danza Lunar",
-        "Decoración",
-        "Deslome",
-        "Estrujón",
-        "Fuerza G",
-        "Gas Corrosivo",
-        "Giro Mortífero",
-        "Golpe Roca",
-        "Granizo",
-        "Halloween",
-        "Láser Doble",
-        "Mirada Heladora",
-        "Ominochoque",
-        "Piñón Auxiliar",
-        "Planta Feroz",
-        "Púas",
-        "Puño Incremento",
-        "Terremoto",
-        "Velo Sagrado",
-        "Viento Plata"
-      ],
-      "firstMoves": [
-        "Púas Tóxicas",
-        "Aire Afilado",
-        "Puño Cometa",
-        "Onda Voltio"
-      ],
-      "spriteKey": "MEGANIUM"
-    },
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 51,
+      "level": 52,
       "types": [
         "Eléctrico"
       ],
@@ -198,12 +32,12 @@
         19
       ],
       "ev": [
-        55,
-        111,
-        55,
+        59,
+        115,
+        57,
         59,
         60,
-        73
+        74
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -350,7 +184,7 @@
     {
       "nickname": "Ott",
       "species": "Samurott (Hisui)",
-      "level": 51,
+      "level": 52,
       "types": [
         "Agua",
         "Siniestro"
@@ -374,12 +208,12 @@
         0
       ],
       "ev": [
-        7,
-        16,
-        10,
+        11,
+        20,
+        12,
         7,
         9,
-        18
+        19
       ],
       "abilPool": [
         "Insonorizar"
@@ -529,12 +363,12 @@
         20
       ],
       "ev": [
+        41,
+        63,
         37,
-        59,
-        35,
         32,
         40,
-        40
+        41
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -652,7 +486,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 51,
+      "level": 52,
       "types": [
         "Veneno",
         "Dragón"
@@ -676,12 +510,12 @@
         22
       ],
       "ev": [
-        3,
-        14,
-        10,
+        7,
+        18,
+        12,
         7,
         9,
-        16
+        17
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -809,7 +643,7 @@
     {
       "nickname": "Mocardo",
       "species": "Muk (Alola)",
-      "level": 51,
+      "level": 52,
       "types": [
         "Veneno",
         "Siniestro"
@@ -833,12 +667,12 @@
         26
       ],
       "ev": [
-        33,
-        61,
-        15,
+        37,
+        65,
+        17,
         33,
         42,
-        35
+        36
       ],
       "abilPool": [
         "Mudar",
@@ -5071,6 +4905,175 @@
   ],
   "graveyard": [
     {
+      "nickname": "Uri",
+      "species": "Meganium",
+      "level": 52,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Unísono",
+      "nature": "Alocada",
+      "item": "Gema Roca",
+      "shiny": false,
+      "moves": [
+        "Tajo Aéreo",
+        "Planta Feroz",
+        "Poder Pasado",
+        "Llama Protectora"
+      ],
+      "iv": [
+        22,
+        14,
+        21,
+        3,
+        22,
+        7
+      ],
+      "ev": [
+        3,
+        13,
+        2,
+        0,
+        0,
+        3
+      ],
+      "abilPool": [
+        "Unísono"
+      ],
+      "abilHidden": [
+        "Punto Tóxico"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Doble Equipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 1,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Cabeza"
+        },
+        {
+          "lvl": 1,
+          "m": "Deslizamiento"
+        },
+        {
+          "lvl": 1,
+          "m": "Persecución"
+        },
+        {
+          "lvl": 12,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 18,
+          "m": "Aire Afilado"
+        },
+        {
+          "lvl": 22,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 24,
+          "m": "Silbato"
+        },
+        {
+          "lvl": 26,
+          "m": "Placaje"
+        },
+        {
+          "lvl": 26,
+          "m": "Mismo Destino"
+        },
+        {
+          "lvl": 26,
+          "m": "Presente"
+        },
+        {
+          "lvl": 34,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 40,
+          "m": "Confidencia"
+        },
+        {
+          "lvl": 40,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 46,
+          "m": "Bomba Germen"
+        },
+        {
+          "lvl": 54,
+          "m": "Cosquillas"
+        },
+        {
+          "lvl": 54,
+          "m": "Brazo Pincho"
+        },
+        {
+          "lvl": 60,
+          "m": "Pirochoque"
+        },
+        {
+          "lvl": 60,
+          "m": "Sumisión"
+        },
+        {
+          "lvl": 65,
+          "m": "Gas Corrosivo"
+        }
+      ],
+      "tmMoves": [
+        "Alboroto",
+        "Arenas Ardientes",
+        "Bomba Ácida",
+        "Cabezazo Zen",
+        "Carga Parábola",
+        "Chuzos",
+        "Cura Floral",
+        "Danza Lunar",
+        "Decoración",
+        "Deslome",
+        "Estrujón",
+        "Fuerza G",
+        "Gas Corrosivo",
+        "Giro Mortífero",
+        "Golpe Roca",
+        "Granizo",
+        "Halloween",
+        "Láser Doble",
+        "Mirada Heladora",
+        "Ominochoque",
+        "Piñón Auxiliar",
+        "Planta Feroz",
+        "Púas",
+        "Puño Incremento",
+        "Terremoto",
+        "Velo Sagrado",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Púas Tóxicas",
+        "Aire Afilado",
+        "Puño Cometa",
+        "Onda Voltio"
+      ],
+      "spriteKey": "MEGANIUM",
+      "cause": "",
+      "route": "Torre Pokémon",
+      "date": ""
+    },
+    {
       "nickname": "Partyfiesta",
       "species": "Hatenna",
       "level": 7,
@@ -6430,7 +6433,7 @@
       "species": "Meganium",
       "nickname": "Uri",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "salvaje",
       "level": 31,
       "mon": "Meganium"
@@ -7113,6 +7116,7 @@
       "Baya Tamar",
       "Baya Tamate",
       "Baya Zanama",
+      "Bola Luminosa",
       "Bono Bici",
       "Botón Escape",
       "Brazal Firme",
@@ -7139,6 +7143,7 @@
       "Flecha Venenosa",
       "Fósil Garra",
       "Fósil Hélix",
+      "Fósil Mandíbula",
       "Fragmento Cometa",
       "Freshstartmochi",
       "Gema Dragón",
@@ -7154,6 +7159,7 @@
       "Lente Recia",
       "Llave Rocket",
       "Lodo Negro",
+      "Lujo Ball",
       "Lustresfera",
       "Malasada Maxi",
       "Manuscrito Sombras",
@@ -7166,6 +7172,7 @@
       "Menta Agitada",
       "Menta Audaz",
       "Menta Huraña",
+      "Menta Miedosa",
       "Menta Pícara",
       "Menta Seria",
       "Mineral Evol",
@@ -7323,7 +7330,7 @@
       {
         "id": "POWERWEIGHT",
         "name": "Pesa Recia",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -7609,6 +7616,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "JAWFOSSIL",
+        "name": "Fósil Mandíbula",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LIGHTBALL",
+        "name": "Bola Luminosa",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -7777,6 +7796,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "TIMIDMINT",
+        "name": "Menta Miedosa",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 18,
@@ -7821,7 +7846,7 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 17,
+        "qty": 18,
         "pocket": "Poké Balls"
       },
       {
@@ -7834,6 +7859,12 @@
         "id": "TIMERBALL",
         "name": "Turno Ball",
         "qty": 5,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "LUXURYBALL",
+        "name": "Lujo Ball",
+        "qty": 1,
         "pocket": "Poké Balls"
       },
       {
@@ -8259,7 +8290,7 @@
       {
         "id": "CHESTOBERRY",
         "name": "Baya Atania",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Bayas"
       },
       {
@@ -8574,7 +8605,8 @@
     "3944579620",
     "252916811",
     "4140999321",
-    "745453697"
+    "745453697",
+    "1788753619"
   ],
   "revividos": 1
 }
