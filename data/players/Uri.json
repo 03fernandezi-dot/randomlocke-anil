@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 13m jugadas · 276,190₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 16m jugadas · 276,190₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -7992,7 +7992,7 @@
       {
         "id": "XACCURACY",
         "name": "Precisión X",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos de combate"
       },
       {
