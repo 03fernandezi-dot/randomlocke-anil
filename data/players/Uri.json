@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 4m jugadas · 254,730₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 6m jugadas · 261,380₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 52,
+      "level": 53,
       "types": [
         "Agua",
         "Tierra"
@@ -188,7 +188,7 @@
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 52,
+      "level": 53,
       "types": [
         "Planta",
         "Veneno"
@@ -214,12 +214,12 @@
         19
       ],
       "ev": [
-        34,
-        126,
+        37,
+        128,
         67,
         79,
         52,
-        78
+        80
       ],
       "abilPool": [
         "Perro Guardián"
@@ -384,12 +384,12 @@
         23
       ],
       "ev": [
-        34,
-        129,
+        37,
+        131,
         75,
         74,
         54,
-        81
+        83
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -553,12 +553,12 @@
         21
       ],
       "ev": [
-        10,
-        33,
+        13,
+        35,
         14,
         15,
         6,
-        18
+        20
       ],
       "abilPool": [
         "Francotirador",
@@ -671,7 +671,7 @@
     {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 52,
+      "level": 53,
       "types": [
         "Planta"
       ],
@@ -694,12 +694,12 @@
         5
       ],
       "ev": [
-        19,
-        79,
+        22,
+        81,
         44,
         47,
         21,
-        37
+        39
       ],
       "abilPool": [
         "Mimetismo"
@@ -838,7 +838,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 52,
+      "level": 53,
       "types": [
         "Hada",
         "Acero"
@@ -862,12 +862,12 @@
         3
       ],
       "ev": [
-        29,
-        115,
+        32,
+        117,
         64,
         66,
         41,
-        74
+        76
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -6233,6 +6233,7 @@
       "Franja Recia",
       "Gafas de Sol",
       "Gafas Elección",
+      "Gafas Especiales",
       "Galleta Yantra",
       "Garra Garfio",
       "Gema Acero",
@@ -6368,8 +6369,10 @@
       "Poké Muñeco",
       "Pokéseñuelo",
       "Porcehelado",
+      "PP Máximos",
       "Precisión X",
       "Precisión X 2",
+      "Prisma Azul",
       "Prisma Rojo",
       "Protección X",
       "Puerro",
@@ -6394,6 +6397,7 @@
       "Semilla Psique",
       "Supercaña",
       "Supercápsula",
+      "Superrepelente",
       "Swampertita",
       "Swiftfeather",
       "Tabla Cielo",
@@ -6824,6 +6828,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "WISEGLASSES",
+        "name": "Gafas Especiales",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SUPERREPEL",
+        "name": "Superrepelente",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ANTIDOTE",
         "name": "Antídoto",
         "qty": 1,
@@ -6934,6 +6950,12 @@
       {
         "id": "ICEHEAL",
         "name": "Antihielo",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "PPMAX",
+        "name": "PP Máximos",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -7870,6 +7892,12 @@
       {
         "id": "SCIZORITE",
         "name": "Scizorita",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
+        "id": "BLUEORB",
+        "name": "Prisma Azul",
         "qty": 1,
         "pocket": "Piedras Mega"
       },
