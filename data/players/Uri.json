@@ -4,189 +4,149 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 22h 45m jugadas · 203,040₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 22h 46m jugadas · 203,040₽ · vidas en el juego: 21",
   "team": [
     {
-      "nickname": "Mataró",
-      "species": "Tinkaton",
-      "level": 50,
+      "nickname": "Koi",
+      "species": "Arctovish",
+      "level": 49,
       "types": [
-        "Hada",
-        "Acero"
+        "Agua",
+        "Hielo"
       ],
-      "ability": "Pompa",
-      "nature": "Rara",
-      "item": "Seguro Debilidad",
+      "ability": "Francotirador",
+      "nature": "Osada",
+      "item": "Periscopio",
       "shiny": false,
       "moves": [
-        "Escudo Real",
-        "Brillo Mágico",
-        "Cola Férrea",
-        "Acua Cola"
+        "Daño Secreto",
+        "Mil Temblores",
+        "Buceo",
+        "Tumba Rocas"
       ],
       "iv": [
-        30,
-        0,
-        16,
+        14,
+        28,
         15,
-        3,
-        3
+        2,
+        20,
+        21
       ],
       "ev": [
-        22,
-        98,
-        57,
-        62,
-        38,
-        61
+        3,
+        16,
+        7,
+        11,
+        3,
+        5
       ],
       "abilPool": [
-        "Pelaje Recio",
-        "Pompa"
+        "Francotirador",
+        "Metal Pesado"
       ],
       "abilHidden": [
-        "Tintineo"
+        "Indefenso"
       ],
       "learnset": [
         {
-          "lvl": -1,
-          "m": "Geocontrol"
+          "lvl": 1,
+          "m": "Avivar"
         },
         {
           "lvl": 1,
-          "m": "Llama Protectora"
+          "m": "Tumba Rocas"
         },
         {
-          "lvl": 1,
-          "m": "Bomba Caramelo"
-        },
-        {
-          "lvl": 5,
-          "m": "Robo"
-        },
-        {
-          "lvl": 8,
-          "m": "Sacrificio"
-        },
-        {
-          "lvl": 11,
-          "m": "Telatrampa"
+          "lvl": 7,
+          "m": "Bomba Ácida"
         },
         {
           "lvl": 14,
-          "m": "Daño Secreto"
-        },
-        {
-          "lvl": 17,
-          "m": "Voz Cautivadora"
+          "m": "Bastión Final"
         },
         {
           "lvl": 21,
-          "m": "Bomba Imán"
+          "m": "Plumerazo"
         },
         {
-          "lvl": 24,
-          "m": "Impactrueno"
-        },
-        {
-          "lvl": 27,
-          "m": "Defensa Férrea"
-        },
-        {
-          "lvl": 31,
-          "m": "Aerochorro"
+          "lvl": 28,
+          "m": "Decoración"
         },
         {
           "lvl": 35,
-          "m": "Cola Férrea"
+          "m": "Hidrovapor"
         },
         {
-          "lvl": 39,
-          "m": "Cambio de Marcha"
-        },
-        {
-          "lvl": 40,
-          "m": "Electrificación"
-        },
-        {
-          "lvl": 40,
-          "m": "Prensa Metálica"
-        },
-        {
-          "lvl": 40,
-          "m": "Llama Embrujada"
+          "lvl": 35,
+          "m": "Llave Giro"
         },
         {
           "lvl": 42,
-          "m": "Tajo Taquión"
-        },
-        {
-          "lvl": 43,
-          "m": "Onda Vacío"
-        },
-        {
-          "lvl": 47,
-          "m": "Niebla Aromática"
-        },
-        {
-          "lvl": 52,
           "m": "Gran Ojo"
         },
         {
-          "lvl": 55,
-          "m": "Desarme"
+          "lvl": 42,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 49,
+          "m": "Buceo"
+        },
+        {
+          "lvl": 56,
+          "m": "Alud"
+        },
+        {
+          "lvl": 63,
+          "m": "Liofilización"
+        },
+        {
+          "lvl": 63,
+          "m": "Batido"
+        },
+        {
+          "lvl": 70,
+          "m": "Shuriken de Agua"
+        },
+        {
+          "lvl": 77,
+          "m": "Chupavidas"
         }
       ],
       "tmMoves": [
         "Acua Cola",
-        "Aire Afilado",
+        "Adaptación",
+        "Agarre",
         "Amplificador",
-        "Batido",
+        "Ascuas",
+        "Beso Drenaje",
         "Bomba Lodo",
-        "Brillo Mágico",
-        "Cañón Dinamax",
+        "Brecha Negra",
+        "Carga Dragón",
         "Cerrojo Feérico",
-        "Chispa",
         "Ciclón",
         "Clemencia",
-        "Colmillo Veneno",
-        "Copión",
-        "Cura Floral",
         "Daño Secreto",
-        "Desarrollo",
+        "Divide Dolor",
         "Encanto",
-        "Escudo Real",
-        "Fertilizante",
-        "Gas Venenoso",
-        "Golpe Umbrío",
-        "Hoja Aguda",
-        "Hora del Té",
-        "Ladrón",
-        "Legado",
+        "Hidrochorro",
+        "Ida y Vuelta",
+        "Mil Temblores",
         "Moluscañón",
-        "Motivación",
-        "Pataleta",
-        "Pesadilla",
-        "Pin Misil",
-        "Piñón Auxiliar",
-        "Presa Maxilar",
-        "Pulso Noche",
-        "Rayo Señal",
-        "Roca Veloz",
+        "Nitrocarga",
+        "Pulpocañón",
+        "Refuerzo",
         "Saña",
-        "Shuriken de Agua",
-        "Sonámbulo",
-        "Trampa Rocas",
-        "Treparrocas",
-        "Viento Feérico"
+        "Señuelo",
+        "Venganza"
       ],
       "firstMoves": [
-        "Giro Vil",
-        "Conversión",
-        "Geocontrol",
-        "Bramido Dragón"
+        "Plumerazo",
+        "Decoración",
+        "Hidrovapor",
+        "Llave Giro"
       ],
-      "spriteKey": "TINKATON"
+      "spriteKey": "ARCTOVISH"
     },
     {
       "nickname": "Rammus",
@@ -876,146 +836,186 @@
       "spriteKey": "MEGANIUM"
     },
     {
-      "nickname": "Koi",
-      "species": "Arctovish",
-      "level": 49,
+      "nickname": "Mataró",
+      "species": "Tinkaton",
+      "level": 50,
       "types": [
-        "Agua",
-        "Hielo"
+        "Hada",
+        "Acero"
       ],
-      "ability": "Francotirador",
-      "nature": "Osada",
-      "item": "Periscopio",
+      "ability": "Pompa",
+      "nature": "Rara",
+      "item": "Seguro Debilidad",
       "shiny": false,
       "moves": [
-        "Daño Secreto",
-        "Mil Temblores",
-        "Buceo",
-        "Tumba Rocas"
+        "Escudo Real",
+        "Brillo Mágico",
+        "Cola Férrea",
+        "Acua Cola"
       ],
       "iv": [
-        14,
-        28,
+        30,
+        0,
+        16,
         15,
-        2,
-        20,
-        21
+        3,
+        3
       ],
       "ev": [
-        3,
-        16,
-        7,
-        11,
-        3,
-        5
+        22,
+        98,
+        57,
+        62,
+        38,
+        61
       ],
       "abilPool": [
-        "Francotirador",
-        "Metal Pesado"
+        "Pelaje Recio",
+        "Pompa"
       ],
       "abilHidden": [
-        "Indefenso"
+        "Tintineo"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Avivar"
+          "lvl": -1,
+          "m": "Geocontrol"
         },
         {
           "lvl": 1,
-          "m": "Tumba Rocas"
+          "m": "Llama Protectora"
         },
         {
-          "lvl": 7,
-          "m": "Bomba Ácida"
+          "lvl": 1,
+          "m": "Bomba Caramelo"
+        },
+        {
+          "lvl": 5,
+          "m": "Robo"
+        },
+        {
+          "lvl": 8,
+          "m": "Sacrificio"
+        },
+        {
+          "lvl": 11,
+          "m": "Telatrampa"
         },
         {
           "lvl": 14,
-          "m": "Bastión Final"
+          "m": "Daño Secreto"
+        },
+        {
+          "lvl": 17,
+          "m": "Voz Cautivadora"
         },
         {
           "lvl": 21,
-          "m": "Plumerazo"
+          "m": "Bomba Imán"
         },
         {
-          "lvl": 28,
-          "m": "Decoración"
+          "lvl": 24,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 27,
+          "m": "Defensa Férrea"
+        },
+        {
+          "lvl": 31,
+          "m": "Aerochorro"
         },
         {
           "lvl": 35,
-          "m": "Hidrovapor"
+          "m": "Cola Férrea"
         },
         {
-          "lvl": 35,
-          "m": "Llave Giro"
+          "lvl": 39,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 40,
+          "m": "Electrificación"
+        },
+        {
+          "lvl": 40,
+          "m": "Prensa Metálica"
+        },
+        {
+          "lvl": 40,
+          "m": "Llama Embrujada"
         },
         {
           "lvl": 42,
+          "m": "Tajo Taquión"
+        },
+        {
+          "lvl": 43,
+          "m": "Onda Vacío"
+        },
+        {
+          "lvl": 47,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 52,
           "m": "Gran Ojo"
         },
         {
-          "lvl": 42,
-          "m": "Viraje"
-        },
-        {
-          "lvl": 49,
-          "m": "Buceo"
-        },
-        {
-          "lvl": 56,
-          "m": "Alud"
-        },
-        {
-          "lvl": 63,
-          "m": "Liofilización"
-        },
-        {
-          "lvl": 63,
-          "m": "Batido"
-        },
-        {
-          "lvl": 70,
-          "m": "Shuriken de Agua"
-        },
-        {
-          "lvl": 77,
-          "m": "Chupavidas"
+          "lvl": 55,
+          "m": "Desarme"
         }
       ],
       "tmMoves": [
         "Acua Cola",
-        "Adaptación",
-        "Agarre",
+        "Aire Afilado",
         "Amplificador",
-        "Ascuas",
-        "Beso Drenaje",
+        "Batido",
         "Bomba Lodo",
-        "Brecha Negra",
-        "Carga Dragón",
+        "Brillo Mágico",
+        "Cañón Dinamax",
         "Cerrojo Feérico",
+        "Chispa",
         "Ciclón",
         "Clemencia",
+        "Colmillo Veneno",
+        "Copión",
+        "Cura Floral",
         "Daño Secreto",
-        "Divide Dolor",
+        "Desarrollo",
         "Encanto",
-        "Hidrochorro",
-        "Ida y Vuelta",
-        "Mil Temblores",
+        "Escudo Real",
+        "Fertilizante",
+        "Gas Venenoso",
+        "Golpe Umbrío",
+        "Hoja Aguda",
+        "Hora del Té",
+        "Ladrón",
+        "Legado",
         "Moluscañón",
-        "Nitrocarga",
-        "Pulpocañón",
-        "Refuerzo",
+        "Motivación",
+        "Pataleta",
+        "Pesadilla",
+        "Pin Misil",
+        "Piñón Auxiliar",
+        "Presa Maxilar",
+        "Pulso Noche",
+        "Rayo Señal",
+        "Roca Veloz",
         "Saña",
-        "Señuelo",
-        "Venganza"
+        "Shuriken de Agua",
+        "Sonámbulo",
+        "Trampa Rocas",
+        "Treparrocas",
+        "Viento Feérico"
       ],
       "firstMoves": [
-        "Plumerazo",
-        "Decoración",
-        "Hidrovapor",
-        "Llave Giro"
+        "Giro Vil",
+        "Conversión",
+        "Geocontrol",
+        "Bramido Dragón"
       ],
-      "spriteKey": "ARCTOVISH"
+      "spriteKey": "TINKATON"
     }
   ],
   "box": [
@@ -5551,15 +5551,15 @@
   ],
   "captures": [
     {
-      "route": "ruta_15",
-      "where": "Ruta 15",
-      "species": "Tinkaton",
-      "nickname": "Mataró",
+      "route": "pueblo_marengo",
+      "where": "Pueblo Marengo",
+      "species": "Arctovish",
+      "nickname": "Koi",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 22,
-      "mon": "Tinkaton"
+      "category": "ciudad",
+      "level": 41,
+      "mon": "Arctovish"
     },
     {
       "route": "ruta_5",
@@ -5606,15 +5606,15 @@
       "mon": "Meganium"
     },
     {
-      "route": "pueblo_marengo",
-      "where": "Pueblo Marengo",
-      "species": "Arctovish",
-      "nickname": "Koi",
+      "route": "ruta_15",
+      "where": "Ruta 15",
+      "species": "Tinkaton",
+      "nickname": "Mataró",
       "shiny": false,
       "status": "captured",
-      "category": "ciudad",
-      "level": 41,
-      "mon": "Arctovish"
+      "category": "salvaje",
+      "level": 22,
+      "mon": "Tinkaton"
     },
     {
       "route": "ruta_9",
@@ -6013,11 +6013,11 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ruta_15": true,
+      "pueblo_marengo": true,
       "ruta_5": true,
       "tunel_diglett": true,
       "ruta_1": true,
-      "pueblo_marengo": true,
+      "ruta_15": true,
       "ruta_9": true,
       "ruta_2_norte": true,
       "bosque_verde": true,
@@ -6367,6 +6367,7 @@
       "Reglamento",
       "Resguardo",
       "Resistfeather",
+      "Revest. Metálico",
       "Revivir",
       "Roca Suave",
       "Sana Ball",
@@ -6741,6 +6742,12 @@
       {
         "id": "RELICCOPPER",
         "name": "Real Cobre",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "METALCOAT",
+        "name": "Revest. Metálico",
         "qty": 1,
         "pocket": "Objetos"
       },
