@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 8m jugadas · 264,740₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 9m jugadas · 269,540₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -215,10 +215,10 @@
       ],
       "ev": [
         37,
-        128,
-        67,
+        130,
+        70,
         81,
-        52,
+        53,
         80
       ],
       "abilPool": [
@@ -385,10 +385,10 @@
       ],
       "ev": [
         37,
-        131,
-        75,
+        133,
+        78,
         76,
-        54,
+        55,
         83
       ],
       "abilPool": [
@@ -554,10 +554,10 @@
       ],
       "ev": [
         13,
-        35,
-        14,
+        37,
         17,
-        6,
+        17,
+        7,
         20
       ],
       "abilPool": [
@@ -695,10 +695,10 @@
       ],
       "ev": [
         22,
-        81,
-        44,
+        83,
+        47,
         49,
-        21,
+        22,
         39
       ],
       "abilPool": [
@@ -863,10 +863,10 @@
       ],
       "ev": [
         32,
-        117,
-        64,
+        119,
+        67,
         68,
-        41,
+        42,
         76
       ],
       "abilPool": [
@@ -7987,8 +7987,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
