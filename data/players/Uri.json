@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 12m jugadas · 272,830₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 13m jugadas · 276,190₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -215,11 +215,11 @@
       ],
       "ev": [
         37,
-        130,
+        131,
         70,
         82,
         53,
-        83
+        84
       ],
       "abilPool": [
         "Perro Guardián"
@@ -385,11 +385,11 @@
       ],
       "ev": [
         37,
-        133,
+        134,
         78,
         77,
         55,
-        86
+        87
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -554,11 +554,11 @@
       ],
       "ev": [
         13,
-        37,
+        38,
         17,
         18,
         7,
-        23
+        24
       ],
       "abilPool": [
         "Francotirador",
@@ -695,11 +695,11 @@
       ],
       "ev": [
         22,
-        83,
+        84,
         47,
         50,
         22,
-        42
+        43
       ],
       "abilPool": [
         "Mimetismo"
@@ -863,11 +863,11 @@
       ],
       "ev": [
         32,
-        119,
+        120,
         67,
         69,
         42,
-        79
+        80
       ],
       "abilPool": [
         "Pelaje Recio",
