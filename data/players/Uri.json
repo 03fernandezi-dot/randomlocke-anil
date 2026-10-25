@@ -6192,6 +6192,7 @@
       "Baya Baribá",
       "Baya Caquic",
       "Baya Dillo",
+      "Baya Drasi",
       "Baya Gonlan",
       "Baya Jaboca",
       "Baya Lagro",
@@ -7812,7 +7813,7 @@
       {
         "id": "KASIBBERRY",
         "name": "Baya Drasi",
-        "qty": 5,
+        "qty": 6,
         "pocket": "Bayas"
       },
       {
