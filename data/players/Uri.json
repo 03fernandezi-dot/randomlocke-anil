@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 22h 37m jugadas · 199,750₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 22h 40m jugadas · 199,750₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Mataró",
@@ -6197,6 +6197,7 @@
       "Baya Wiki",
       "Baya Yecana",
       "Baya Zidra",
+      "Bici",
       "Blastoisita X",
       "Bloque de Turba",
       "Bola de Nieve",
@@ -6365,6 +6366,7 @@
       "Revivir",
       "Roca Suave",
       "Sana Ball",
+      "Sarta Perlas",
       "Scapsula",
       "Scizorita",
       "Seguro Debilidad",
@@ -6379,6 +6381,7 @@
       "Swiftfeather",
       "Tabla Cielo",
       "Tabla Linfa",
+      "Tabla Pradal",
       "Tabla Terrax",
       "Tabla Trueno",
       "Tesecreto",
@@ -6716,6 +6719,18 @@
       {
         "id": "GHOSTGEM",
         "name": "Gema Fantasma",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PEARLSTRING",
+        "name": "Sarta Perlas",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "MEADOWPLATE",
+        "name": "Tabla Pradal",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -7884,12 +7899,6 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "BONOBICI",
-        "name": "Bono Bici",
-        "qty": 1,
-        "pocket": "Objetos clave"
-      },
-      {
         "id": "POKEFLUTE",
         "name": "Poké Flauta",
         "qty": 1,
@@ -7922,6 +7931,12 @@
       {
         "id": "TESECRETO",
         "name": "Tesecreto",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "BICYCLE",
+        "name": "Bici",
         "qty": 1,
         "pocket": "Objetos clave"
       }
