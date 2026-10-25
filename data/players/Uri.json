@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 0m jugadas · 241,430₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 1m jugadas · 246,230₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -215,11 +215,11 @@
       ],
       "ev": [
         34,
-        125,
+        126,
         67,
-        76,
+        77,
         52,
-        72
+        73
       ],
       "abilPool": [
         "Perro Guardián"
@@ -385,11 +385,11 @@
       ],
       "ev": [
         34,
-        128,
+        129,
         75,
-        71,
+        72,
         54,
-        75
+        76
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -529,7 +529,7 @@
     {
       "nickname": "Koi",
       "species": "Arctovish",
-      "level": 50,
+      "level": 51,
       "types": [
         "Agua",
         "Hielo"
@@ -554,11 +554,11 @@
       ],
       "ev": [
         10,
-        32,
+        33,
         14,
-        12,
+        13,
         6,
-        12
+        13
       ],
       "abilPool": [
         "Francotirador",
@@ -695,11 +695,11 @@
       ],
       "ev": [
         19,
-        78,
+        79,
         44,
-        44,
+        45,
         21,
-        31
+        32
       ],
       "abilPool": [
         "Mimetismo"
@@ -863,11 +863,11 @@
       ],
       "ev": [
         29,
-        114,
+        115,
         64,
-        63,
+        64,
         41,
-        68
+        69
       ],
       "abilPool": [
         "Pelaje Recio",
