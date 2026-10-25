@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 9m jugadas · 269,540₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 10m jugadas · 269,540₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -6396,6 +6396,7 @@
       "Semilla Hierba",
       "Semilla Milagro",
       "Semilla Psique",
+      "Shinyzador",
       "Supercaña",
       "Supercápsula",
       "Superrepelente",
@@ -6843,6 +6844,12 @@
       {
         "id": "LAXINCENSE",
         "name": "Incienso Suave",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SHINYZADOR",
+        "name": "Shinyzador",
         "qty": 1,
         "pocket": "Objetos"
       },
