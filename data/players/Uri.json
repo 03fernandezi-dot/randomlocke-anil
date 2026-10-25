@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 22h 56m jugadas · 231,420₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 0m jugadas · 241,430₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 51,
+      "level": 52,
       "types": [
         "Agua",
         "Tierra"
@@ -188,7 +188,7 @@
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 51,
+      "level": 52,
       "types": [
         "Planta",
         "Veneno"
@@ -215,8 +215,8 @@
       ],
       "ev": [
         34,
-        118,
-        63,
+        125,
+        67,
         76,
         52,
         72
@@ -385,8 +385,8 @@
       ],
       "ev": [
         34,
-        121,
-        71,
+        128,
+        75,
         71,
         54,
         75
@@ -554,8 +554,8 @@
       ],
       "ev": [
         10,
-        25,
-        10,
+        32,
+        14,
         12,
         6,
         12
@@ -671,7 +671,7 @@
     {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 51,
+      "level": 52,
       "types": [
         "Planta"
       ],
@@ -695,8 +695,8 @@
       ],
       "ev": [
         19,
-        71,
-        40,
+        78,
+        44,
         44,
         21,
         31
@@ -838,7 +838,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 51,
+      "level": 52,
       "types": [
         "Hada",
         "Acero"
@@ -863,8 +863,8 @@
       ],
       "ev": [
         29,
-        107,
-        60,
+        114,
+        64,
         63,
         41,
         68
@@ -6182,6 +6182,7 @@
       "Álbum de Fotos",
       "Anillo",
       "Antídoto",
+      "Antihielo",
       "At. Esp. X 2",
       "Baya Alcho",
       "Baya Ango",
@@ -6205,6 +6206,7 @@
       "Blastoisita X",
       "Bloque de Turba",
       "Bola de Nieve",
+      "Bola Férrea",
       "Bola Luminosa",
       "Bono Bici",
       "Botón Escape",
@@ -6231,6 +6233,7 @@
       "Gafas Elección",
       "Galleta Yantra",
       "Garra Garfio",
+      "Gema Acero",
       "Gema Bicho",
       "Gema Dragón",
       "Gema Eléctrica",
@@ -6239,6 +6242,7 @@
       "Gema Lucha",
       "Gema Planta",
       "Gema Psíquica",
+      "Gema Veneno",
       "Gran Diamansfera",
       "Greninjita",
       "Griseosfera",
@@ -6266,6 +6270,7 @@
       "Menta Ingenua",
       "Menta Osada",
       "Menta Plácida",
+      "Mineral Evol",
       "Miniseta",
       "MO Corte",
       "MO Destello",
@@ -6346,6 +6351,7 @@
       "Periscopio",
       "Perla",
       "Pesa Recia",
+      "Pico Afilado",
       "Piedra Eterna",
       "Piedra Lunar",
       "Piedra Noche",
@@ -6360,6 +6366,7 @@
       "Poké Muñeco",
       "Pokéseñuelo",
       "Porcehelado",
+      "Precisión X",
       "Precisión X 2",
       "Prisma Rojo",
       "Protección X",
@@ -6389,6 +6396,7 @@
       "Swiftfeather",
       "Tabla Cielo",
       "Tabla Linfa",
+      "Tabla Oscura",
       "Tabla Pradal",
       "Tabla Terrax",
       "Tabla Terror",
@@ -6749,7 +6757,7 @@
       {
         "id": "RELICCOPPER",
         "name": "Real Cobre",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -6767,6 +6775,42 @@
       {
         "id": "TOXICPLATE",
         "name": "Tabla Tóxica",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "IRONBALL",
+        "name": "Bola Férrea",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SHARPBEAK",
+        "name": "Pico Afilado",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "POISONGEM",
+        "name": "Gema Veneno",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "STEELGEM",
+        "name": "Gema Acero",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "DREADPLATE",
+        "name": "Tabla Oscura",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "EVIOLITE",
+        "name": "Mineral Evol",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -6875,6 +6919,12 @@
       {
         "id": "SUPERCAPSULE",
         "name": "Supercápsula",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "ICEHEAL",
+        "name": "Antihielo",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -7875,6 +7925,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "XACCURACY",
+        "name": "Precisión X",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -7887,8 +7943,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
