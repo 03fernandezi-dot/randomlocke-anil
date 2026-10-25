@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 22h 51m jugadas · 221,620₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 22h 52m jugadas · 224,910₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -215,10 +215,10 @@
       ],
       "ev": [
         34,
-        112,
+        115,
         63,
-        75,
-        51,
+        76,
+        52,
         68
       ],
       "abilPool": [
@@ -385,10 +385,10 @@
       ],
       "ev": [
         34,
-        115,
+        118,
         71,
-        70,
-        53,
+        71,
+        54,
         71
       ],
       "abilPool": [
@@ -554,10 +554,10 @@
       ],
       "ev": [
         10,
-        19,
+        22,
         10,
-        11,
-        5,
+        12,
+        6,
         8
       ],
       "abilPool": [
@@ -695,10 +695,10 @@
       ],
       "ev": [
         19,
-        65,
+        68,
         40,
-        43,
-        20,
+        44,
+        21,
         27
       ],
       "abilPool": [
@@ -863,10 +863,10 @@
       ],
       "ev": [
         29,
-        101,
+        104,
         60,
-        62,
-        40,
+        63,
+        41,
         64
       ],
       "abilPool": [
@@ -6310,6 +6310,7 @@
       "MT54",
       "MT55",
       "MT57",
+      "MT58",
       "MT59",
       "MT60",
       "MT61",
@@ -7240,6 +7241,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM58",
+        "name": "MT58",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM59",
         "name": "MT59",
         "qty": 1,
@@ -7852,8 +7859,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
