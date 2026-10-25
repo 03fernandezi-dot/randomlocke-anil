@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 28m jugadas · 298,640₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 29m jugadas · 298,640₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -8180,8 +8180,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
