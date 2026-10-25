@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 10m jugadas · 269,540₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 12m jugadas · 272,830₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -217,9 +217,9 @@
         37,
         130,
         70,
-        81,
+        82,
         53,
-        80
+        83
       ],
       "abilPool": [
         "Perro Guardián"
@@ -387,9 +387,9 @@
         37,
         133,
         78,
-        76,
+        77,
         55,
-        83
+        86
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -529,7 +529,7 @@
     {
       "nickname": "Koi",
       "species": "Arctovish",
-      "level": 51,
+      "level": 52,
       "types": [
         "Agua",
         "Hielo"
@@ -556,9 +556,9 @@
         13,
         37,
         17,
-        17,
+        18,
         7,
-        20
+        23
       ],
       "abilPool": [
         "Francotirador",
@@ -697,9 +697,9 @@
         22,
         83,
         47,
-        49,
+        50,
         22,
-        39
+        42
       ],
       "abilPool": [
         "Mimetismo"
@@ -865,9 +865,9 @@
         32,
         119,
         67,
-        68,
+        69,
         42,
-        76
+        79
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -6266,6 +6266,7 @@
       "Malasada Maxi",
       "Malla Ball",
       "Manuscrito Sombras",
+      "Maxipanal",
       "Mega-Aro",
       "Menta Afable",
       "Menta Agitada",
@@ -6306,6 +6307,7 @@
       "MT30",
       "MT31",
       "MT34",
+      "MT35",
       "MT36",
       "MT39",
       "MT40",
@@ -6974,6 +6976,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "MAXHONEY",
+        "name": "Maxipanal",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 17,
@@ -7240,6 +7248,12 @@
       {
         "id": "TM34",
         "name": "MT34",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM35",
+        "name": "MT35",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
