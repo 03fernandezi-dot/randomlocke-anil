@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 1m jugadas · 246,230₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 4m jugadas · 254,730₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -217,9 +217,9 @@
         34,
         126,
         67,
-        77,
+        79,
         52,
-        73
+        78
       ],
       "abilPool": [
         "Perro Guardián"
@@ -360,7 +360,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 51,
+      "level": 52,
       "types": [
         "Fuego",
         "Psíquico"
@@ -387,9 +387,9 @@
         34,
         129,
         75,
-        72,
+        74,
         54,
-        76
+        81
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -556,9 +556,9 @@
         10,
         33,
         14,
-        13,
+        15,
         6,
-        13
+        18
       ],
       "abilPool": [
         "Francotirador",
@@ -697,9 +697,9 @@
         19,
         79,
         44,
-        45,
+        47,
         21,
-        32
+        37
       ],
       "abilPool": [
         "Mimetismo"
@@ -865,9 +865,9 @@
         29,
         115,
         64,
-        64,
+        66,
         41,
-        69
+        74
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -6160,6 +6160,7 @@
       191,
       192,
       193,
+      197,
       198,
       201,
       209,
@@ -6230,6 +6231,7 @@
       "Fósil Hélix",
       "Fósil Pluma",
       "Franja Recia",
+      "Gafas de Sol",
       "Gafas Elección",
       "Galleta Yantra",
       "Garra Garfio",
@@ -6404,6 +6406,7 @@
       "Tabla Trueno",
       "Tesecreto",
       "Ticket Barco",
+      "Tmagn1",
       "Tmagn2",
       "Toxisfera",
       "Velocidad X",
@@ -6811,6 +6814,12 @@
       {
         "id": "EVIOLITE",
         "name": "Mineral Evol",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BLACKGLASSES",
+        "name": "Gafas de Sol",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -7943,8 +7952,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "EMPTYVIAL",
-        "name": "Emptyvial",
+        "id": "VIAL",
+        "name": "Vial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
@@ -8053,6 +8062,12 @@
       {
         "id": "TMAGN2",
         "name": "Tmagn2",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "TMAGN1",
+        "name": "Tmagn1",
         "qty": 1,
         "pocket": "Objetos clave"
       }
