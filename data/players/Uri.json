@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 6m jugadas · 261,380₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 8m jugadas · 264,740₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -195,7 +195,7 @@
       ],
       "ability": "Perro Guardián",
       "nature": "Osada",
-      "item": "Incienso Suave",
+      "item": "Tabla Pradal",
       "shiny": false,
       "moves": [
         "Cañón Batidor",
@@ -217,7 +217,7 @@
         37,
         128,
         67,
-        79,
+        81,
         52,
         80
       ],
@@ -367,7 +367,7 @@
       ],
       "ability": "Unidad Ecuestre",
       "nature": "Activa",
-      "item": "Chaleco Asalto",
+      "item": "Carbón",
       "shiny": false,
       "moves": [
         "Psicoonda",
@@ -387,7 +387,7 @@
         37,
         131,
         75,
-        74,
+        76,
         54,
         83
       ],
@@ -556,7 +556,7 @@
         13,
         35,
         14,
-        15,
+        17,
         6,
         20
       ],
@@ -677,7 +677,7 @@
       ],
       "ability": "Mimetismo",
       "nature": "Firme",
-      "item": "Gema Planta",
+      "item": "Chaleco Asalto",
       "shiny": true,
       "moves": [
         "Ataque Óseo",
@@ -697,7 +697,7 @@
         22,
         81,
         44,
-        47,
+        49,
         21,
         39
       ],
@@ -865,7 +865,7 @@
         32,
         117,
         64,
-        66,
+        68,
         41,
         76
       ],
@@ -6213,6 +6213,7 @@
       "Botón Escape",
       "Brazal Firme",
       "Caramelo Furia",
+      "Carbón",
       "Carburante",
       "Cascabel Alivio",
       "Cebo Ball",
@@ -6756,12 +6757,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "MEADOWPLATE",
-        "name": "Tabla Pradal",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "RELICCOPPER",
         "name": "Real Cobre",
         "qty": 2,
@@ -6836,6 +6831,18 @@
       {
         "id": "SUPERREPEL",
         "name": "Superrepelente",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "GRASSGEM",
+        "name": "Gema Planta",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LAXINCENSE",
+        "name": "Incienso Suave",
         "qty": 1,
         "pocket": "Objetos"
       },
