@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 19m jugadas · 276,190₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 20m jugadas · 285,590₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -214,12 +214,12 @@
         19
       ],
       "ev": [
-        37,
+        39,
         131,
         70,
         82,
         53,
-        84
+        86
       ],
       "abilPool": [
         "Perro Guardián"
@@ -384,12 +384,12 @@
         23
       ],
       "ev": [
-        37,
+        39,
         134,
         78,
         77,
         55,
-        87
+        89
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -553,12 +553,12 @@
         21
       ],
       "ev": [
-        13,
+        15,
         38,
         17,
         18,
         7,
-        24
+        26
       ],
       "abilPool": [
         "Francotirador",
@@ -694,12 +694,12 @@
         5
       ],
       "ev": [
-        22,
+        24,
         84,
         47,
         50,
         22,
-        43
+        45
       ],
       "abilPool": [
         "Mimetismo"
@@ -862,12 +862,12 @@
         3
       ],
       "ev": [
-        32,
+        34,
         120,
         67,
         69,
         42,
-        80
+        82
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -6238,6 +6238,7 @@
       "Gafas Especiales",
       "Galleta Yantra",
       "Garra Garfio",
+      "Garra Rápida",
       "Gema Acero",
       "Gema Bicho",
       "Gema Dragón",
@@ -6818,7 +6819,7 @@
       {
         "id": "EVIOLITE",
         "name": "Mineral Evol",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -6854,6 +6855,12 @@
       {
         "id": "SHINYZADOR",
         "name": "Shinyzador",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "QUICKCLAW",
+        "name": "Garra Rápida",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -7754,7 +7761,7 @@
       {
         "id": "PASSHOBERRY",
         "name": "Baya Pasio",
-        "qty": 6,
+        "qty": 7,
         "pocket": "Bayas"
       },
       {
