@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 22h 53m jugadas · 224,910₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 22h 54m jugadas · 228,060₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -215,11 +215,11 @@
       ],
       "ev": [
         34,
-        115,
+        118,
         63,
         76,
         52,
-        68
+        70
       ],
       "abilPool": [
         "Perro Guardián"
@@ -385,11 +385,11 @@
       ],
       "ev": [
         34,
-        118,
+        121,
         71,
         71,
         54,
-        71
+        73
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -554,11 +554,11 @@
       ],
       "ev": [
         10,
-        22,
+        25,
         10,
         12,
         6,
-        8
+        10
       ],
       "abilPool": [
         "Francotirador",
@@ -695,11 +695,11 @@
       ],
       "ev": [
         19,
-        68,
+        71,
         40,
         44,
         21,
-        27
+        29
       ],
       "abilPool": [
         "Mimetismo"
@@ -863,11 +863,11 @@
       ],
       "ev": [
         29,
-        104,
+        107,
         60,
         63,
         41,
-        64
+        66
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -6390,6 +6390,8 @@
       "Tabla Linfa",
       "Tabla Pradal",
       "Tabla Terrax",
+      "Tabla Terror",
+      "Tabla Tóxica",
       "Tabla Trueno",
       "Tesecreto",
       "Ticket Barco",
@@ -6752,6 +6754,18 @@
       {
         "id": "METALCOAT",
         "name": "Revest. Metálico",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SPOOKYPLATE",
+        "name": "Tabla Terror",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "TOXICPLATE",
+        "name": "Tabla Tóxica",
         "qty": 1,
         "pocket": "Objetos"
       },
