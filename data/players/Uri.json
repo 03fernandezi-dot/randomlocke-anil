@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 22h 46m jugadas · 203,040₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 22h 47m jugadas · 206,400₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Koi",
@@ -38,7 +38,7 @@
         7,
         11,
         3,
-        5
+        8
       ],
       "abilPool": [
         "Francotirador",
@@ -182,7 +182,7 @@
         60,
         75,
         49,
-        65
+        68
       ],
       "abilPool": [
         "Perro Guardián"
@@ -352,7 +352,7 @@
         68,
         70,
         51,
-        68
+        71
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -699,7 +699,7 @@
         37,
         43,
         18,
-        24
+        27
       ],
       "abilPool": [
         "Mimetismo"
@@ -867,7 +867,7 @@
         57,
         62,
         38,
-        61
+        64
       ],
       "abilPool": [
         "Pelaje Recio",
