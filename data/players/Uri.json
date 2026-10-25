@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 22h 54m jugadas · 228,060₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 22h 56m jugadas · 231,420₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -219,7 +219,7 @@
         63,
         76,
         52,
-        70
+        72
       ],
       "abilPool": [
         "Perro Guardián"
@@ -389,7 +389,7 @@
         71,
         71,
         54,
-        73
+        75
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -558,7 +558,7 @@
         10,
         12,
         6,
-        10
+        12
       ],
       "abilPool": [
         "Francotirador",
@@ -699,7 +699,7 @@
         40,
         44,
         21,
-        29
+        31
       ],
       "abilPool": [
         "Mimetismo"
@@ -867,7 +867,7 @@
         60,
         63,
         41,
-        66
+        68
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -6271,6 +6271,7 @@
       "MO Destello",
       "MO Golpe Roca",
       "Monedero",
+      "MT03",
       "MT04",
       "MT06",
       "MT08",
@@ -6808,7 +6809,7 @@
       {
         "id": "MOOMOOMILK",
         "name": "Leche Mu-mu",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -7014,6 +7015,12 @@
         "name": "Turno Ball",
         "qty": 5,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM03",
+        "name": "MT03",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "TM04",
