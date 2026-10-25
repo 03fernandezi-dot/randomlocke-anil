@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 22h 40m jugadas · 199,750₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 22h 44m jugadas · 199,750₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Mataró",
@@ -6050,6 +6050,7 @@
       "ruta_13": true,
       "ruta_14": true,
       "ciudad_fucsia": true,
+      "ciudad_azafran": true,
       "ruta_21": true
     },
     "items": {},
@@ -6159,11 +6160,13 @@
       191,
       192,
       193,
+      201,
       209,
       214,
       271,
       301,
       323,
+      326,
       334,
       363,
       364,
@@ -6539,7 +6542,7 @@
       {
         "id": "POWERANKLET",
         "name": "Franja Recia",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -7805,7 +7808,7 @@
       {
         "id": "XSPATK2",
         "name": "At. Esp. X 2",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos de combate"
       },
       {
