@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 20m jugadas · 285,590₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 22m jugadas · 290,690₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -214,10 +214,10 @@
         19
       ],
       "ev": [
-        39,
-        131,
-        70,
-        82,
+        41,
+        134,
+        73,
+        84,
         53,
         86
       ],
@@ -360,7 +360,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 52,
+      "level": 53,
       "types": [
         "Fuego",
         "Psíquico"
@@ -384,10 +384,10 @@
         23
       ],
       "ev": [
-        39,
-        134,
-        78,
-        77,
+        41,
+        137,
+        81,
+        79,
         55,
         89
       ],
@@ -553,10 +553,10 @@
         21
       ],
       "ev": [
-        15,
-        38,
         17,
-        18,
+        41,
+        20,
+        20,
         7,
         26
       ],
@@ -694,10 +694,10 @@
         5
       ],
       "ev": [
-        24,
-        84,
-        47,
+        26,
+        87,
         50,
+        52,
         22,
         45
       ],
@@ -862,10 +862,10 @@
         3
       ],
       "ev": [
-        34,
-        120,
-        67,
-        69,
+        36,
+        123,
+        70,
+        71,
         42,
         82
       ],
@@ -6191,6 +6191,7 @@
       "Baya Aricoc",
       "Baya Baribá",
       "Baya Caquic",
+      "Baya Chilan",
       "Baya Dillo",
       "Baya Drasi",
       "Baya Gonlan",
@@ -6275,6 +6276,7 @@
       "Menta Alegre",
       "Menta Huraña",
       "Menta Ingenua",
+      "Menta Modesta",
       "Menta Osada",
       "Menta Plácida",
       "Mineral Evol",
@@ -6987,6 +6989,12 @@
       {
         "id": "MAXHONEY",
         "name": "Maxipanal",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "MODESTMINT",
+        "name": "Menta Modesta",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -7855,6 +7863,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "CHILANBERRY",
+        "name": "Baya Chilan",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "LIECHIBERRY",
         "name": "Baya Lichi",
         "qty": 5,
@@ -8023,8 +8037,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
