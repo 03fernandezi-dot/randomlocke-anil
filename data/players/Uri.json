@@ -4,491 +4,8 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 22h 49m jugadas · 209,760₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 22h 51m jugadas · 221,620₽ · vidas en el juego: 21",
   "team": [
-    {
-      "nickname": "Koi",
-      "species": "Arctovish",
-      "level": 49,
-      "types": [
-        "Agua",
-        "Hielo"
-      ],
-      "ability": "Francotirador",
-      "nature": "Osada",
-      "item": "Periscopio",
-      "shiny": false,
-      "moves": [
-        "Daño Secreto",
-        "Mil Temblores",
-        "Buceo",
-        "Tumba Rocas"
-      ],
-      "iv": [
-        14,
-        28,
-        15,
-        2,
-        20,
-        21
-      ],
-      "ev": [
-        6,
-        16,
-        10,
-        11,
-        3,
-        8
-      ],
-      "abilPool": [
-        "Francotirador",
-        "Metal Pesado"
-      ],
-      "abilHidden": [
-        "Indefenso"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Avivar"
-        },
-        {
-          "lvl": 1,
-          "m": "Tumba Rocas"
-        },
-        {
-          "lvl": 7,
-          "m": "Bomba Ácida"
-        },
-        {
-          "lvl": 14,
-          "m": "Bastión Final"
-        },
-        {
-          "lvl": 21,
-          "m": "Plumerazo"
-        },
-        {
-          "lvl": 28,
-          "m": "Decoración"
-        },
-        {
-          "lvl": 35,
-          "m": "Hidrovapor"
-        },
-        {
-          "lvl": 35,
-          "m": "Llave Giro"
-        },
-        {
-          "lvl": 42,
-          "m": "Gran Ojo"
-        },
-        {
-          "lvl": 42,
-          "m": "Viraje"
-        },
-        {
-          "lvl": 49,
-          "m": "Buceo"
-        },
-        {
-          "lvl": 56,
-          "m": "Alud"
-        },
-        {
-          "lvl": 63,
-          "m": "Liofilización"
-        },
-        {
-          "lvl": 63,
-          "m": "Batido"
-        },
-        {
-          "lvl": 70,
-          "m": "Shuriken de Agua"
-        },
-        {
-          "lvl": 77,
-          "m": "Chupavidas"
-        }
-      ],
-      "tmMoves": [
-        "Acua Cola",
-        "Adaptación",
-        "Agarre",
-        "Amplificador",
-        "Ascuas",
-        "Beso Drenaje",
-        "Bomba Lodo",
-        "Brecha Negra",
-        "Carga Dragón",
-        "Cerrojo Feérico",
-        "Ciclón",
-        "Clemencia",
-        "Daño Secreto",
-        "Divide Dolor",
-        "Encanto",
-        "Hidrochorro",
-        "Ida y Vuelta",
-        "Mil Temblores",
-        "Moluscañón",
-        "Nitrocarga",
-        "Pulpocañón",
-        "Refuerzo",
-        "Saña",
-        "Señuelo",
-        "Venganza"
-      ],
-      "firstMoves": [
-        "Plumerazo",
-        "Decoración",
-        "Hidrovapor",
-        "Llave Giro"
-      ],
-      "spriteKey": "ARCTOVISH"
-    },
-    {
-      "nickname": "Rammus",
-      "species": "Venusaur",
-      "level": 51,
-      "types": [
-        "Planta",
-        "Veneno"
-      ],
-      "ability": "Perro Guardián",
-      "nature": "Osada",
-      "item": "Incienso Suave",
-      "shiny": false,
-      "moves": [
-        "Cañón Batidor",
-        "Bomba Lodo",
-        "Poder Pasado",
-        "Defensa Férrea"
-      ],
-      "natureMint": true,
-      "natureBase": "Serena",
-      "iv": [
-        19,
-        21,
-        0,
-        27,
-        30,
-        19
-      ],
-      "ev": [
-        30,
-        109,
-        63,
-        75,
-        49,
-        68
-      ],
-      "abilPool": [
-        "Perro Guardián"
-      ],
-      "abilHidden": [
-        "Recogebolas"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Psicorrayo"
-        },
-        {
-          "lvl": 1,
-          "m": "Octopresa"
-        },
-        {
-          "lvl": 1,
-          "m": "Guardia Baja"
-        },
-        {
-          "lvl": 1,
-          "m": "Disparo Lodo"
-        },
-        {
-          "lvl": 1,
-          "m": "Paralizador"
-        },
-        {
-          "lvl": 1,
-          "m": "Purificación"
-        },
-        {
-          "lvl": 9,
-          "m": "Cura Selvática"
-        },
-        {
-          "lvl": 12,
-          "m": "Defensa Férrea"
-        },
-        {
-          "lvl": 15,
-          "m": "Aromaterapia"
-        },
-        {
-          "lvl": 15,
-          "m": "Cola Veneno"
-        },
-        {
-          "lvl": 20,
-          "m": "Cepo"
-        },
-        {
-          "lvl": 25,
-          "m": "Frío Polar"
-        },
-        {
-          "lvl": 30,
-          "m": "Bramido Dragón"
-        },
-        {
-          "lvl": 36,
-          "m": "Comesueños"
-        },
-        {
-          "lvl": 37,
-          "m": "Remolino"
-        },
-        {
-          "lvl": 39,
-          "m": "Picotazo"
-        },
-        {
-          "lvl": 44,
-          "m": "Pirochoque"
-        },
-        {
-          "lvl": 51,
-          "m": "Espacio Raro"
-        },
-        {
-          "lvl": 51,
-          "m": "Truco Floral"
-        },
-        {
-          "lvl": 58,
-          "m": "Patada Tropical"
-        }
-      ],
-      "tmMoves": [
-        "Absorbefuerza",
-        "Autotomía",
-        "Beso Drenaje",
-        "Bomba Caramelo",
-        "Bomba Lodo",
-        "Brecha Negra",
-        "Brillo Mágico",
-        "Cambiaalmas",
-        "Cañón Batidor",
-        "Carga Dragón",
-        "Cerrojo Feérico",
-        "Cola Veneno",
-        "Colmillo Veneno",
-        "Desarrollo",
-        "Doble Golpe",
-        "Espora",
-        "Fertilizante",
-        "Gas Venenoso",
-        "Giro Mortífero",
-        "Hoja Aguda",
-        "Hora del Té",
-        "Impactrueno",
-        "Ladrón",
-        "Legado",
-        "Motivación",
-        "Nitrocarga",
-        "Pataleta",
-        "Picotazo Veneno",
-        "Pin Misil",
-        "Piñón Auxiliar",
-        "Poder Pasado",
-        "Presa Maxilar",
-        "Profecía",
-        "Rayo Señal",
-        "Reducción",
-        "Saña",
-        "Señuelo",
-        "Viento Feérico"
-      ],
-      "firstMoves": [
-        "Campo de Hierba",
-        "Cuchillada",
-        "Paralizador",
-        "Residuos"
-      ],
-      "spriteKey": "VENUSAUR"
-    },
-    {
-      "nickname": "Niggy",
-      "species": "Armarouge",
-      "level": 50,
-      "types": [
-        "Fuego",
-        "Psíquico"
-      ],
-      "ability": "Unidad Ecuestre",
-      "nature": "Activa",
-      "item": "Chaleco Asalto",
-      "shiny": false,
-      "moves": [
-        "Psicoonda",
-        "Puño Sombra",
-        "Calcinación",
-        "Cometa Draco"
-      ],
-      "iv": [
-        8,
-        2,
-        26,
-        29,
-        28,
-        23
-      ],
-      "ev": [
-        30,
-        112,
-        71,
-        70,
-        51,
-        71
-      ],
-      "abilPool": [
-        "Unidad Ecuestre"
-      ],
-      "abilHidden": [
-        "Acero Templado"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Foco"
-        },
-        {
-          "lvl": 1,
-          "m": "Paga Extra"
-        },
-        {
-          "lvl": 1,
-          "m": "Cambio de Cancha"
-        },
-        {
-          "lvl": 1,
-          "m": "Piñón Auxiliar"
-        },
-        {
-          "lvl": 1,
-          "m": "Nitrocarga"
-        },
-        {
-          "lvl": 1,
-          "m": "Giro Fuego"
-        },
-        {
-          "lvl": 8,
-          "m": "Sombra Vil"
-        },
-        {
-          "lvl": 12,
-          "m": "Psicoonda"
-        },
-        {
-          "lvl": 16,
-          "m": "Golpe Bajo"
-        },
-        {
-          "lvl": 20,
-          "m": "Calcinación"
-        },
-        {
-          "lvl": 24,
-          "m": "Sellar"
-        },
-        {
-          "lvl": 28,
-          "m": "Psicocorte"
-        },
-        {
-          "lvl": 32,
-          "m": "Impresionar"
-        },
-        {
-          "lvl": 37,
-          "m": "Canto"
-        },
-        {
-          "lvl": 42,
-          "m": "Cometa Draco"
-        },
-        {
-          "lvl": 48,
-          "m": "Mandato"
-        },
-        {
-          "lvl": 56,
-          "m": "Truco Floral"
-        },
-        {
-          "lvl": 62,
-          "m": "Rabia"
-        },
-        {
-          "lvl": 62,
-          "m": "Hipnosis"
-        }
-      ],
-      "tmMoves": [
-        "Absorbefuerza",
-        "Acua Cola",
-        "Adaptación",
-        "Aire Afilado",
-        "Alivio",
-        "Ascuas",
-        "Autotomía",
-        "Batido",
-        "Bomba Caramelo",
-        "Bomba Lodo",
-        "Brillo Mágico",
-        "Cañón Dinamax",
-        "Clemencia",
-        "Cola Veneno",
-        "Doble Golpe",
-        "Escalofrío",
-        "Escudo Real",
-        "Fertilizante",
-        "Hoja Aguda",
-        "Hora del Té",
-        "Látigo Ígneo",
-        "Llama Azul",
-        "Mil Temblores",
-        "Moluscañón",
-        "Motivación",
-        "Pataleta",
-        "Pesadilla",
-        "Picotazo Veneno",
-        "Piñón Auxiliar",
-        "Poder Pasado",
-        "Profecía",
-        "Pulpocañón",
-        "Puño Sombra",
-        "Roca Veloz",
-        "Salazón",
-        "Sorpresa",
-        "Tajo Metralla",
-        "Trampa Rocas",
-        "Treparrocas",
-        "Viento Feérico",
-        "Voz Cautivadora"
-      ],
-      "firstMoves": [
-        "Psicoonda",
-        "Golpe Bajo",
-        "Calcinación",
-        "Sellar"
-      ],
-      "spriteKey": "ARMAROUGE"
-    },
     {
       "nickname": "Izan",
       "species": "Swampert",
@@ -669,6 +186,489 @@
       "spriteKey": "SWAMPERT"
     },
     {
+      "nickname": "Rammus",
+      "species": "Venusaur",
+      "level": 51,
+      "types": [
+        "Planta",
+        "Veneno"
+      ],
+      "ability": "Perro Guardián",
+      "nature": "Osada",
+      "item": "Incienso Suave",
+      "shiny": false,
+      "moves": [
+        "Cañón Batidor",
+        "Bomba Lodo",
+        "Poder Pasado",
+        "Defensa Férrea"
+      ],
+      "natureMint": true,
+      "natureBase": "Serena",
+      "iv": [
+        19,
+        21,
+        0,
+        27,
+        30,
+        19
+      ],
+      "ev": [
+        34,
+        112,
+        63,
+        75,
+        51,
+        68
+      ],
+      "abilPool": [
+        "Perro Guardián"
+      ],
+      "abilHidden": [
+        "Recogebolas"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 1,
+          "m": "Octopresa"
+        },
+        {
+          "lvl": 1,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 1,
+          "m": "Disparo Lodo"
+        },
+        {
+          "lvl": 1,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 1,
+          "m": "Purificación"
+        },
+        {
+          "lvl": 9,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 12,
+          "m": "Defensa Férrea"
+        },
+        {
+          "lvl": 15,
+          "m": "Aromaterapia"
+        },
+        {
+          "lvl": 15,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 20,
+          "m": "Cepo"
+        },
+        {
+          "lvl": 25,
+          "m": "Frío Polar"
+        },
+        {
+          "lvl": 30,
+          "m": "Bramido Dragón"
+        },
+        {
+          "lvl": 36,
+          "m": "Comesueños"
+        },
+        {
+          "lvl": 37,
+          "m": "Remolino"
+        },
+        {
+          "lvl": 39,
+          "m": "Picotazo"
+        },
+        {
+          "lvl": 44,
+          "m": "Pirochoque"
+        },
+        {
+          "lvl": 51,
+          "m": "Espacio Raro"
+        },
+        {
+          "lvl": 51,
+          "m": "Truco Floral"
+        },
+        {
+          "lvl": 58,
+          "m": "Patada Tropical"
+        }
+      ],
+      "tmMoves": [
+        "Absorbefuerza",
+        "Autotomía",
+        "Beso Drenaje",
+        "Bomba Caramelo",
+        "Bomba Lodo",
+        "Brecha Negra",
+        "Brillo Mágico",
+        "Cambiaalmas",
+        "Cañón Batidor",
+        "Carga Dragón",
+        "Cerrojo Feérico",
+        "Cola Veneno",
+        "Colmillo Veneno",
+        "Desarrollo",
+        "Doble Golpe",
+        "Espora",
+        "Fertilizante",
+        "Gas Venenoso",
+        "Giro Mortífero",
+        "Hoja Aguda",
+        "Hora del Té",
+        "Impactrueno",
+        "Ladrón",
+        "Legado",
+        "Motivación",
+        "Nitrocarga",
+        "Pataleta",
+        "Picotazo Veneno",
+        "Pin Misil",
+        "Piñón Auxiliar",
+        "Poder Pasado",
+        "Presa Maxilar",
+        "Profecía",
+        "Rayo Señal",
+        "Reducción",
+        "Saña",
+        "Señuelo",
+        "Viento Feérico"
+      ],
+      "firstMoves": [
+        "Campo de Hierba",
+        "Cuchillada",
+        "Paralizador",
+        "Residuos"
+      ],
+      "spriteKey": "VENUSAUR"
+    },
+    {
+      "nickname": "Niggy",
+      "species": "Armarouge",
+      "level": 51,
+      "types": [
+        "Fuego",
+        "Psíquico"
+      ],
+      "ability": "Unidad Ecuestre",
+      "nature": "Activa",
+      "item": "Chaleco Asalto",
+      "shiny": false,
+      "moves": [
+        "Psicoonda",
+        "Puño Sombra",
+        "Calcinación",
+        "Cometa Draco"
+      ],
+      "iv": [
+        8,
+        2,
+        26,
+        29,
+        28,
+        23
+      ],
+      "ev": [
+        34,
+        115,
+        71,
+        70,
+        53,
+        71
+      ],
+      "abilPool": [
+        "Unidad Ecuestre"
+      ],
+      "abilHidden": [
+        "Acero Templado"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Foco"
+        },
+        {
+          "lvl": 1,
+          "m": "Paga Extra"
+        },
+        {
+          "lvl": 1,
+          "m": "Cambio de Cancha"
+        },
+        {
+          "lvl": 1,
+          "m": "Piñón Auxiliar"
+        },
+        {
+          "lvl": 1,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 1,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 8,
+          "m": "Sombra Vil"
+        },
+        {
+          "lvl": 12,
+          "m": "Psicoonda"
+        },
+        {
+          "lvl": 16,
+          "m": "Golpe Bajo"
+        },
+        {
+          "lvl": 20,
+          "m": "Calcinación"
+        },
+        {
+          "lvl": 24,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 28,
+          "m": "Psicocorte"
+        },
+        {
+          "lvl": 32,
+          "m": "Impresionar"
+        },
+        {
+          "lvl": 37,
+          "m": "Canto"
+        },
+        {
+          "lvl": 42,
+          "m": "Cometa Draco"
+        },
+        {
+          "lvl": 48,
+          "m": "Mandato"
+        },
+        {
+          "lvl": 56,
+          "m": "Truco Floral"
+        },
+        {
+          "lvl": 62,
+          "m": "Rabia"
+        },
+        {
+          "lvl": 62,
+          "m": "Hipnosis"
+        }
+      ],
+      "tmMoves": [
+        "Absorbefuerza",
+        "Acua Cola",
+        "Adaptación",
+        "Aire Afilado",
+        "Alivio",
+        "Ascuas",
+        "Autotomía",
+        "Batido",
+        "Bomba Caramelo",
+        "Bomba Lodo",
+        "Brillo Mágico",
+        "Cañón Dinamax",
+        "Clemencia",
+        "Cola Veneno",
+        "Doble Golpe",
+        "Escalofrío",
+        "Escudo Real",
+        "Fertilizante",
+        "Hoja Aguda",
+        "Hora del Té",
+        "Látigo Ígneo",
+        "Llama Azul",
+        "Mil Temblores",
+        "Moluscañón",
+        "Motivación",
+        "Pataleta",
+        "Pesadilla",
+        "Picotazo Veneno",
+        "Piñón Auxiliar",
+        "Poder Pasado",
+        "Profecía",
+        "Pulpocañón",
+        "Puño Sombra",
+        "Roca Veloz",
+        "Salazón",
+        "Sorpresa",
+        "Tajo Metralla",
+        "Trampa Rocas",
+        "Treparrocas",
+        "Viento Feérico",
+        "Voz Cautivadora"
+      ],
+      "firstMoves": [
+        "Psicoonda",
+        "Golpe Bajo",
+        "Calcinación",
+        "Sellar"
+      ],
+      "spriteKey": "ARMAROUGE"
+    },
+    {
+      "nickname": "Koi",
+      "species": "Arctovish",
+      "level": 50,
+      "types": [
+        "Agua",
+        "Hielo"
+      ],
+      "ability": "Francotirador",
+      "nature": "Osada",
+      "item": "Periscopio",
+      "shiny": false,
+      "moves": [
+        "Daño Secreto",
+        "Mil Temblores",
+        "Buceo",
+        "Tumba Rocas"
+      ],
+      "iv": [
+        14,
+        28,
+        15,
+        2,
+        20,
+        21
+      ],
+      "ev": [
+        10,
+        19,
+        10,
+        11,
+        5,
+        8
+      ],
+      "abilPool": [
+        "Francotirador",
+        "Metal Pesado"
+      ],
+      "abilHidden": [
+        "Indefenso"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 1,
+          "m": "Tumba Rocas"
+        },
+        {
+          "lvl": 7,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 14,
+          "m": "Bastión Final"
+        },
+        {
+          "lvl": 21,
+          "m": "Plumerazo"
+        },
+        {
+          "lvl": 28,
+          "m": "Decoración"
+        },
+        {
+          "lvl": 35,
+          "m": "Hidrovapor"
+        },
+        {
+          "lvl": 35,
+          "m": "Llave Giro"
+        },
+        {
+          "lvl": 42,
+          "m": "Gran Ojo"
+        },
+        {
+          "lvl": 42,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 49,
+          "m": "Buceo"
+        },
+        {
+          "lvl": 56,
+          "m": "Alud"
+        },
+        {
+          "lvl": 63,
+          "m": "Liofilización"
+        },
+        {
+          "lvl": 63,
+          "m": "Batido"
+        },
+        {
+          "lvl": 70,
+          "m": "Shuriken de Agua"
+        },
+        {
+          "lvl": 77,
+          "m": "Chupavidas"
+        }
+      ],
+      "tmMoves": [
+        "Acua Cola",
+        "Adaptación",
+        "Agarre",
+        "Amplificador",
+        "Ascuas",
+        "Beso Drenaje",
+        "Bomba Lodo",
+        "Brecha Negra",
+        "Carga Dragón",
+        "Cerrojo Feérico",
+        "Ciclón",
+        "Clemencia",
+        "Daño Secreto",
+        "Divide Dolor",
+        "Encanto",
+        "Hidrochorro",
+        "Ida y Vuelta",
+        "Mil Temblores",
+        "Moluscañón",
+        "Nitrocarga",
+        "Pulpocañón",
+        "Refuerzo",
+        "Saña",
+        "Señuelo",
+        "Venganza"
+      ],
+      "firstMoves": [
+        "Plumerazo",
+        "Decoración",
+        "Hidrovapor",
+        "Llave Giro"
+      ],
+      "spriteKey": "ARCTOVISH"
+    },
+    {
       "nickname": "Graham",
       "species": "Meganium",
       "level": 51,
@@ -694,11 +694,11 @@
         5
       ],
       "ev": [
-        15,
-        62,
+        19,
+        65,
         40,
         43,
-        18,
+        20,
         27
       ],
       "abilPool": [
@@ -862,11 +862,11 @@
         3
       ],
       "ev": [
-        25,
-        98,
+        29,
+        101,
         60,
         62,
-        38,
+        40,
         64
       ],
       "abilPool": [
@@ -5551,15 +5551,15 @@
   ],
   "captures": [
     {
-      "route": "pueblo_marengo",
-      "where": "Pueblo Marengo",
-      "species": "Arctovish",
-      "nickname": "Koi",
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Swampert",
+      "nickname": "Izan",
       "shiny": false,
       "status": "captured",
-      "category": "ciudad",
-      "level": 41,
-      "mon": "Arctovish"
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Swampert"
     },
     {
       "route": "ruta_5",
@@ -5584,15 +5584,15 @@
       "mon": "Armarouge"
     },
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Swampert",
-      "nickname": "Izan",
+      "route": "pueblo_marengo",
+      "where": "Pueblo Marengo",
+      "species": "Arctovish",
+      "nickname": "Koi",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Swampert"
+      "category": "ciudad",
+      "level": 41,
+      "mon": "Arctovish"
     },
     {
       "route": "ruta_1",
@@ -6013,9 +6013,9 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "pueblo_marengo": true,
       "ruta_5": true,
       "tunel_diglett": true,
+      "pueblo_marengo": true,
       "ruta_1": true,
       "ruta_15": true,
       "ruta_9": true,
@@ -6160,6 +6160,7 @@
       191,
       192,
       193,
+      198,
       201,
       209,
       214,
@@ -6391,6 +6392,7 @@
       "Tabla Trueno",
       "Tesecreto",
       "Ticket Barco",
+      "Tmagn2",
       "Toxisfera",
       "Veloz Ball",
       "Vial",
@@ -7954,6 +7956,12 @@
       {
         "id": "BICYCLE",
         "name": "Bici",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "TMAGN2",
+        "name": "Tmagn2",
         "qty": 1,
         "pocket": "Objetos clave"
       }
