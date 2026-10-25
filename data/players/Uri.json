@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 23m jugadas · 290,690₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 28m jugadas · 298,640₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 53,
+      "level": 54,
       "types": [
         "Agua",
         "Tierra"
@@ -188,7 +188,7 @@
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 53,
+      "level": 54,
       "types": [
         "Planta",
         "Veneno"
@@ -215,10 +215,10 @@
       ],
       "ev": [
         41,
-        134,
+        139,
         73,
-        84,
-        53,
+        88,
+        56,
         86
       ],
       "abilPool": [
@@ -385,10 +385,10 @@
       ],
       "ev": [
         41,
-        137,
+        142,
         81,
-        79,
-        55,
+        83,
+        58,
         89
       ],
       "abilPool": [
@@ -529,7 +529,7 @@
     {
       "nickname": "Koi",
       "species": "Arctovish",
-      "level": 52,
+      "level": 53,
       "types": [
         "Agua",
         "Hielo"
@@ -554,10 +554,10 @@
       ],
       "ev": [
         17,
-        41,
+        46,
         20,
-        20,
-        7,
+        24,
+        10,
         26
       ],
       "abilPool": [
@@ -671,7 +671,7 @@
     {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 53,
+      "level": 54,
       "types": [
         "Planta"
       ],
@@ -680,7 +680,7 @@
       "item": "Chaleco Asalto",
       "shiny": true,
       "moves": [
-        "Ataque Óseo",
+        "Llama Gélida",
         "Truco Floral",
         "Látigo Ígneo",
         "Patada Giro"
@@ -695,10 +695,10 @@
       ],
       "ev": [
         26,
-        87,
+        92,
         50,
-        52,
-        22,
+        56,
+        25,
         45
       ],
       "abilPool": [
@@ -838,7 +838,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 53,
+      "level": 54,
       "types": [
         "Hada",
         "Acero"
@@ -863,10 +863,10 @@
       ],
       "ev": [
         36,
-        123,
+        128,
         70,
-        71,
-        42,
+        75,
+        45,
         82
       ],
       "abilPool": [
@@ -6303,13 +6303,14 @@
       193,
       197,
       198,
+      199,
       201,
       209,
       214,
       271,
       301,
       323,
-      326,
+      327,
       334,
       363,
       364,
@@ -6342,6 +6343,7 @@
       "Baya Meluce",
       "Baya Pasio",
       "Baya Perasi",
+      "Baya Rimoya",
       "Baya Uvav",
       "Baya Wiki",
       "Baya Yecana",
@@ -7928,7 +7930,7 @@
       {
         "id": "YACHEBERRY",
         "name": "Baya Rimoya",
-        "qty": 5,
+        "qty": 6,
         "pocket": "Bayas"
       },
       {
