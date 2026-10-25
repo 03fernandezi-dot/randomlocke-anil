@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 22h 44m jugadas · 199,750₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 22h 45m jugadas · 203,040₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Mataró",
@@ -38,7 +38,7 @@
         57,
         62,
         38,
-        58
+        61
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -222,7 +222,7 @@
         60,
         75,
         49,
-        62
+        65
       ],
       "abilPool": [
         "Perro Guardián"
@@ -392,7 +392,7 @@
         68,
         70,
         51,
-        65
+        68
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -739,7 +739,7 @@
         37,
         43,
         18,
-        21
+        24
       ],
       "abilPool": [
         "Mimetismo"
@@ -907,7 +907,7 @@
         7,
         11,
         3,
-        2
+        5
       ],
       "abilPool": [
         "Francotirador",
@@ -6363,6 +6363,7 @@
       "Puerro",
       "Radar",
       "Rapid Ball",
+      "Real Cobre",
       "Reglamento",
       "Resguardo",
       "Resistfeather",
@@ -6734,6 +6735,12 @@
       {
         "id": "MEADOWPLATE",
         "name": "Tabla Pradal",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "RELICCOPPER",
+        "name": "Real Cobre",
         "qty": 1,
         "pocket": "Objetos"
       },
