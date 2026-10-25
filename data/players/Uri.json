@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 22h 47m jugadas · 206,400₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 22h 49m jugadas · 209,760₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Koi",
@@ -33,9 +33,9 @@
         21
       ],
       "ev": [
-        3,
+        6,
         16,
-        7,
+        10,
         11,
         3,
         8
@@ -151,7 +151,7 @@
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 50,
+      "level": 51,
       "types": [
         "Planta",
         "Veneno"
@@ -177,9 +177,9 @@
         19
       ],
       "ev": [
-        27,
+        30,
         109,
-        60,
+        63,
         75,
         49,
         68
@@ -347,9 +347,9 @@
         23
       ],
       "ev": [
-        27,
+        30,
         112,
-        68,
+        71,
         70,
         51,
         71
@@ -492,7 +492,7 @@
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 50,
+      "level": 51,
       "types": [
         "Agua",
         "Tierra"
@@ -671,7 +671,7 @@
     {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 50,
+      "level": 51,
       "types": [
         "Planta"
       ],
@@ -694,9 +694,9 @@
         5
       ],
       "ev": [
-        12,
+        15,
         62,
-        37,
+        40,
         43,
         18,
         27
@@ -838,7 +838,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 50,
+      "level": 51,
       "types": [
         "Hada",
         "Acero"
@@ -862,9 +862,9 @@
         3
       ],
       "ev": [
-        22,
+        25,
         98,
-        57,
+        60,
         62,
         38,
         64
@@ -6676,7 +6676,7 @@
       {
         "id": "SOOTHEBELL",
         "name": "Cascabel Alivio",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
