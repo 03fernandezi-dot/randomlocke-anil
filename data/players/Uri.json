@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 49m jugadas · 311,940₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 54m jugadas · 311,940₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -531,21 +531,23 @@
     },
     {
       "nickname": "Nescafé",
-      "species": "Magmar",
-      "level": 25,
+      "species": "Magmortar",
+      "level": 50,
       "types": [
         "Fuego"
       ],
-      "ability": "Realeza",
-      "nature": "Alegre",
-      "item": "",
+      "ability": "Piel Tétrica",
+      "nature": "Modesta",
+      "item": "Gafas Especiales",
       "shiny": false,
       "moves": [
         "Moluscañón",
-        "Llama Azul",
-        "Viento Feérico",
+        "Canto Ardiente",
+        "Onda Certera",
         "Espora"
       ],
+      "natureMint": true,
+      "natureBase": "Alegre",
       "iv": [
         28,
         5,
@@ -563,106 +565,96 @@
         3
       ],
       "abilPool": [
-        "Realeza"
+        "Piel Tétrica"
       ],
       "abilHidden": [
-        "Acometida"
+        "Silvano"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Anticura"
+          "m": "Magnitud"
         },
         {
           "lvl": 1,
-          "m": "Sombra Vil"
+          "m": "Calcinación"
         },
         {
           "lvl": 1,
-          "m": "Día Soleado"
+          "m": "Escudo Real"
         },
         {
           "lvl": 1,
-          "m": "Impresionar"
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 1,
+          "m": "Estímulo"
         },
         {
           "lvl": 12,
-          "m": "Viento Feérico"
+          "m": "Fuego Fatuo"
         },
         {
           "lvl": 12,
-          "m": "Cornada"
+          "m": "Llama Protectora"
         },
         {
           "lvl": 15,
-          "m": "Empapar"
+          "m": "Represión Metal"
         },
         {
           "lvl": 16,
-          "m": "Gran Ojo"
+          "m": "Hachazo Pétreo"
         },
         {
           "lvl": 20,
-          "m": "Golpe Calor"
+          "m": "Manos Juntas"
         },
         {
           "lvl": 22,
-          "m": "Puño Bala"
+          "m": "Ascuas"
         },
         {
           "lvl": 24,
-          "m": "Triple Patada"
+          "m": "Pirotecnia"
         },
         {
           "lvl": 28,
-          "m": "Tormenta Arena"
+          "m": "Buena Baza"
         },
         {
           "lvl": 34,
-          "m": "Espada Lamento"
+          "m": "Onda Ígnea"
         },
         {
           "lvl": 40,
-          "m": "Patada Ígnea"
+          "m": "Cólera Ardiente"
+        },
+        {
+          "lvl": 45,
+          "m": "Constricción"
         },
         {
           "lvl": 46,
-          "m": "Canto Ardiente"
+          "m": "Voto Fuego"
         },
         {
           "lvl": 52,
-          "m": "Fertilizante"
+          "m": "Presente"
+        },
+        {
+          "lvl": 55,
+          "m": "Coraza Trampa"
         },
         {
           "lvl": 58,
-          "m": "Ponzochoque"
+          "m": "Latigazo"
         },
         {
           "lvl": 64,
-          "m": "Giro Fuego"
+          "m": "Erupción de Ira"
         }
-      ],
-      "tmMoves": [
-        "Absorbefuerza",
-        "Acua Cola",
-        "Aire Afilado",
-        "Bomba Fango",
-        "Cañón Batidor",
-        "Carga Dragón",
-        "Cuchillada",
-        "Desarrollo",
-        "Espora",
-        "Fertilizante",
-        "Fitoimpulso",
-        "Hoja Aguda",
-        "Llama Azul",
-        "Moluscañón",
-        "Nitrocarga",
-        "Pin Misil",
-        "Profecía",
-        "Puño Sombra",
-        "Rayo Confuso",
-        "Reducción"
       ],
       "firstMoves": [
         "Anticipo",
@@ -670,7 +662,7 @@
         "Lanzarrocas",
         "Barrera"
       ],
-      "spriteKey": "MAGMAR"
+      "spriteKey": "MAGMORTAR"
     },
     {
       "nickname": "Graham",
@@ -5765,13 +5757,13 @@
     {
       "route": "ciudad_celeste",
       "where": "Ciudad Celeste",
-      "species": "Magmar",
+      "species": "Magmortar",
       "nickname": "Nescafé",
       "shiny": false,
       "status": "captured",
       "category": "ciudad",
       "level": 17,
-      "mon": "Magmar"
+      "mon": "Magmortar"
     },
     {
       "route": "ruta_1",
@@ -7025,12 +7017,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "WISEGLASSES",
-        "name": "Gafas Especiales",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "SUPERREPEL",
         "name": "Superrepelente",
         "qty": 1,
@@ -7067,14 +7053,14 @@
         "pocket": "Objetos"
       },
       {
-        "id": "MAGMARIZER",
-        "name": "Magmatizador",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "ANTIDOTE",
         "name": "Antídoto",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "ICEHEAL",
+        "name": "Antihielo",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -7087,7 +7073,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 458,
+        "qty": 433,
         "pocket": "Medicinas"
       },
       {
@@ -7118,6 +7104,12 @@
         "id": "BIGMALASADA",
         "name": "Malasada Maxi",
         "qty": 3,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "MAXHONEY",
+        "name": "Maxipanal",
+        "qty": 1,
         "pocket": "Medicinas"
       },
       {
@@ -7169,6 +7161,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "PPMAX",
+        "name": "PP Máximos",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "REVIVE",
         "name": "Revivir",
         "qty": 1,
@@ -7177,30 +7175,6 @@
       {
         "id": "SUPERCAPSULE",
         "name": "Supercápsula",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "ICEHEAL",
-        "name": "Antihielo",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "PPMAX",
-        "name": "PP Máximos",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "MAXHONEY",
-        "name": "Maxipanal",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "MODESTMINT",
-        "name": "Menta Modesta",
         "qty": 1,
         "pocket": "Medicinas"
       },
