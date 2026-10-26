@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 23h 55m jugadas · 311,940₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 23h 58m jugadas · 311,940₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -847,7 +847,7 @@
         "Acero"
       ],
       "ability": "Pompa",
-      "nature": "Rara",
+      "nature": "Alegre",
       "item": "Seguro Debilidad",
       "shiny": false,
       "moves": [
@@ -856,6 +856,8 @@
         "Cola Férrea",
         "Acua Cola"
       ],
+      "natureMint": true,
+      "natureBase": "Rara",
       "iv": [
         30,
         0,
@@ -7121,12 +7123,6 @@
       {
         "id": "MILDMINT",
         "name": "Menta Afable",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "JOLLYMINT",
-        "name": "Menta Alegre",
         "qty": 1,
         "pocket": "Medicinas"
       },
