@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 24h 5m jugadas · 311,940₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 24h 10m jugadas · 333,540₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 54,
+      "level": 55,
       "types": [
         "Agua",
         "Tierra"
@@ -189,7 +189,7 @@
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 54,
+      "level": 55,
       "types": [
         "Planta",
         "Veneno"
@@ -215,12 +215,12 @@
         19
       ],
       "ev": [
-        45,
+        52,
         139,
-        76,
+        78,
         93,
         56,
-        87
+        90
       ],
       "abilPool": [
         "Perro Guardián"
@@ -387,12 +387,12 @@
         13
       ],
       "ev": [
+        7,
+        0,
+        2,
         0,
         0,
-        0,
-        0,
-        0,
-        0
+        3
       ],
       "abilPool": [
         "Fuerza Mental"
@@ -539,7 +539,7 @@
     {
       "nickname": "Nescafé",
       "species": "Magmortar",
-      "level": 54,
+      "level": 55,
       "types": [
         "Fuego"
       ],
@@ -551,7 +551,7 @@
         "Moluscañón",
         "Canto Ardiente",
         "Onda Certera",
-        "Espora"
+        "Coraza Trampa"
       ],
       "natureMint": true,
       "natureBase": "Alegre",
@@ -564,12 +564,12 @@
         17
       ],
       "ev": [
-        5,
+        12,
         8,
-        2,
+        4,
         8,
         7,
-        3
+        6
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -674,7 +674,7 @@
     {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 54,
+      "level": 55,
       "types": [
         "Planta"
       ],
@@ -697,12 +697,12 @@
         5
       ],
       "ev": [
-        30,
+        37,
         92,
-        53,
+        55,
         61,
         25,
-        46
+        49
       ],
       "abilPool": [
         "Mimetismo"
@@ -841,7 +841,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 54,
+      "level": 55,
       "types": [
         "Hada",
         "Acero"
@@ -867,12 +867,12 @@
         3
       ],
       "ev": [
-        40,
+        47,
         128,
-        73,
+        75,
         80,
         45,
-        83
+        86
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -7081,7 +7081,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 429,
+        "qty": 424,
         "pocket": "Medicinas"
       },
       {
