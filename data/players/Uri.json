@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 25h 11m jugadas · 341,040₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 25h 15m jugadas · 341,040₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -672,182 +672,171 @@
       "spriteKey": "MAGMORTAR"
     },
     {
-      "nickname": "Tita",
-      "species": "Tyranitar",
+      "nickname": "Graham",
+      "species": "Meganium",
       "level": 55,
       "types": [
-        "Roca",
-        "Siniestro"
+        "Planta"
       ],
-      "ability": "Rezagado",
-      "nature": "Plácida",
-      "item": "Seguro Debilidad",
+      "ability": "Mimetismo",
+      "nature": "Firme",
+      "item": "Gema Planta",
       "shiny": true,
       "moves": [
-        "Escudo Real",
-        "Hachazo Pétreo",
-        "Presa Maxilar",
-        "Ponzochoque"
+        "Llama Gélida",
+        "Truco Floral",
+        "Látigo Ígneo",
+        "Patada Giro"
       ],
-      "natureMint": true,
-      "natureBase": "Serena",
       "iv": [
-        9,
-        10,
-        1,
-        11,
-        23,
-        25
+        25,
+        28,
+        14,
+        12,
+        27,
+        5
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        37,
+        94,
+        59,
+        61,
+        25,
+        49
       ],
       "abilPool": [
-        "Rezagado"
+        "Mimetismo"
       ],
       "abilHidden": [
-        "Roca Solida"
+        "Relincho Negro"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Condena Silvana"
+          "lvl": -1,
+          "m": "Homenaje Póstumo"
         },
         {
           "lvl": 1,
-          "m": "Antiaéreo"
+          "m": "Truco Floral"
         },
         {
           "lvl": 1,
-          "m": "Venganza"
+          "m": "Picotazo Veneno"
         },
         {
           "lvl": 1,
-          "m": "Abatidoras"
+          "m": "Descanso"
         },
         {
           "lvl": 1,
-          "m": "Mofa"
+          "m": "Tajo Metralla"
         },
         {
           "lvl": 1,
-          "m": "Aura Magnética"
-        },
-        {
-          "lvl": 1,
-          "m": "Onda Vacío"
-        },
-        {
-          "lvl": 1,
-          "m": "Octopresa"
-        },
-        {
-          "lvl": 1,
-          "m": "Colmillo Veneno"
-        },
-        {
-          "lvl": 9,
-          "m": "Cerrojo Feérico"
+          "m": "Corte Furia"
         },
         {
           "lvl": 12,
-          "m": "Puño Mareo"
-        },
-        {
-          "lvl": 14,
-          "m": "Rugido de Guerra"
-        },
-        {
-          "lvl": 15,
-          "m": "Colmillo Ígneo"
+          "m": "Danza Pluma"
         },
         {
           "lvl": 18,
-          "m": "Trapicheo"
+          "m": "Cepo"
         },
         {
-          "lvl": 21,
-          "m": "Estímulo"
+          "lvl": 22,
+          "m": "Silbato"
         },
         {
           "lvl": 24,
-          "m": "Bostezo"
+          "m": "Doble Patada"
         },
         {
-          "lvl": 27,
-          "m": "Alarido"
+          "lvl": 26,
+          "m": "Ovocuración"
         },
         {
-          "lvl": 33,
-          "m": "Tajo Umbrío"
+          "lvl": 26,
+          "m": "Encanto"
         },
         {
-          "lvl": 37,
-          "m": "Canto Mortal"
+          "lvl": 26,
+          "m": "Rizo Algodón"
         },
         {
-          "lvl": 42,
-          "m": "Pulso Umbrío"
+          "lvl": 34,
+          "m": "Sincrorruido"
         },
         {
-          "lvl": 47,
-          "m": "Ponzochoque"
+          "lvl": 40,
+          "m": "Placaje"
         },
         {
-          "lvl": 52,
-          "m": "Avalancha"
+          "lvl": 40,
+          "m": "Voto Agua"
         },
         {
-          "lvl": 59,
-          "m": "Sonámbulo"
+          "lvl": 46,
+          "m": "Energibola"
+        },
+        {
+          "lvl": 54,
+          "m": "Llama Gélida"
+        },
+        {
+          "lvl": 54,
+          "m": "Escaramuza"
+        },
+        {
+          "lvl": 60,
+          "m": "Enfado"
+        },
+        {
+          "lvl": 60,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 65,
+          "m": "Fuerza Lunar"
         }
       ],
       "tmMoves": [
+        "Acua Cola",
+        "Aire Afilado",
         "Alivio",
-        "Anillo Ígneo",
+        "Batido",
+        "Beso Drenaje",
         "Bomba Caramelo",
-        "Bomba Lodo",
         "Brecha Negra",
         "Brillo Mágico",
-        "Canto Mortal",
-        "Carga Dragón",
-        "Cerrojo Feérico",
-        "Chispa",
-        "Cola Veneno",
-        "Desarrollo",
-        "Doble Golpe",
+        "Cambiaalmas",
+        "Cañón Batidor",
+        "Cañón Dinamax",
+        "Corpulencia",
+        "Cura Floral",
+        "Daño Secreto",
         "Encanto",
+        "Escalofrío",
         "Escudo Real",
-        "Giro Mortífero",
-        "Golpe Umbrío",
-        "Hoja Aguda",
-        "Hora del Té",
-        "Ladrón",
-        "Legado",
+        "Fertilizante",
+        "Hidrochorro",
+        "Impactrueno",
+        "Látigo Ígneo",
         "Moluscañón",
-        "Motivación",
-        "Onda Certera",
-        "Picotazo Veneno",
-        "Roca Veloz",
-        "Salazón",
-        "Saña",
-        "Sorpresa",
-        "Tinieblas",
+        "Profecía",
+        "Pulpocañón",
+        "Puño Sombra",
+        "Shuriken de Agua",
+        "Sonámbulo",
         "Trampa Rocas",
+        "Viento Feérico",
         "Voz Cautivadora"
       ],
       "firstMoves": [
-        "Pin Misil",
-        "Absorbefuerza",
-        "Rodar",
-        "Puntapié"
+        "Cambiavelocidad",
+        "Hoja Afilada"
       ],
-      "spriteKey": "TYRANITAR"
+      "spriteKey": "MEGANIUM"
     },
     {
       "nickname": "Mataró",
@@ -4300,171 +4289,182 @@
       "spriteKey": "DECIDUEYE_1"
     },
     {
-      "nickname": "Graham",
-      "species": "Meganium",
+      "nickname": "Tita",
+      "species": "Tyranitar",
       "level": 55,
       "types": [
-        "Planta"
+        "Roca",
+        "Siniestro"
       ],
-      "ability": "Mimetismo",
-      "nature": "Firme",
-      "item": "",
+      "ability": "Roca Solida",
+      "nature": "Plácida",
+      "item": "Seguro Debilidad",
       "shiny": true,
       "moves": [
-        "Llama Gélida",
-        "Truco Floral",
-        "Látigo Ígneo",
-        "Patada Giro"
+        "Escudo Real",
+        "Hachazo Pétreo",
+        "Presa Maxilar",
+        "Ponzochoque"
       ],
+      "natureMint": true,
+      "natureBase": "Serena",
       "iv": [
-        25,
-        28,
-        14,
-        12,
-        27,
-        5
+        9,
+        10,
+        1,
+        11,
+        23,
+        25
       ],
       "ev": [
-        37,
-        94,
-        59,
-        61,
-        25,
-        49
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Mimetismo"
+        "Rezagado"
       ],
       "abilHidden": [
-        "Relincho Negro"
+        "Roca Solida"
       ],
       "learnset": [
         {
-          "lvl": -1,
-          "m": "Homenaje Póstumo"
+          "lvl": 1,
+          "m": "Condena Silvana"
         },
         {
           "lvl": 1,
-          "m": "Truco Floral"
+          "m": "Antiaéreo"
         },
         {
           "lvl": 1,
-          "m": "Picotazo Veneno"
+          "m": "Venganza"
         },
         {
           "lvl": 1,
-          "m": "Descanso"
+          "m": "Abatidoras"
         },
         {
           "lvl": 1,
-          "m": "Tajo Metralla"
+          "m": "Mofa"
         },
         {
           "lvl": 1,
-          "m": "Corte Furia"
+          "m": "Aura Magnética"
+        },
+        {
+          "lvl": 1,
+          "m": "Onda Vacío"
+        },
+        {
+          "lvl": 1,
+          "m": "Octopresa"
+        },
+        {
+          "lvl": 1,
+          "m": "Colmillo Veneno"
+        },
+        {
+          "lvl": 9,
+          "m": "Cerrojo Feérico"
         },
         {
           "lvl": 12,
-          "m": "Danza Pluma"
+          "m": "Puño Mareo"
+        },
+        {
+          "lvl": 14,
+          "m": "Rugido de Guerra"
+        },
+        {
+          "lvl": 15,
+          "m": "Colmillo Ígneo"
         },
         {
           "lvl": 18,
-          "m": "Cepo"
+          "m": "Trapicheo"
         },
         {
-          "lvl": 22,
-          "m": "Silbato"
+          "lvl": 21,
+          "m": "Estímulo"
         },
         {
           "lvl": 24,
-          "m": "Doble Patada"
+          "m": "Bostezo"
         },
         {
-          "lvl": 26,
-          "m": "Ovocuración"
+          "lvl": 27,
+          "m": "Alarido"
         },
         {
-          "lvl": 26,
-          "m": "Encanto"
+          "lvl": 33,
+          "m": "Tajo Umbrío"
         },
         {
-          "lvl": 26,
-          "m": "Rizo Algodón"
+          "lvl": 37,
+          "m": "Canto Mortal"
         },
         {
-          "lvl": 34,
-          "m": "Sincrorruido"
+          "lvl": 42,
+          "m": "Pulso Umbrío"
         },
         {
-          "lvl": 40,
-          "m": "Placaje"
+          "lvl": 47,
+          "m": "Ponzochoque"
         },
         {
-          "lvl": 40,
-          "m": "Voto Agua"
+          "lvl": 52,
+          "m": "Avalancha"
         },
         {
-          "lvl": 46,
-          "m": "Energibola"
-        },
-        {
-          "lvl": 54,
-          "m": "Llama Gélida"
-        },
-        {
-          "lvl": 54,
-          "m": "Escaramuza"
-        },
-        {
-          "lvl": 60,
-          "m": "Enfado"
-        },
-        {
-          "lvl": 60,
-          "m": "Paralizador"
-        },
-        {
-          "lvl": 65,
-          "m": "Fuerza Lunar"
+          "lvl": 59,
+          "m": "Sonámbulo"
         }
       ],
       "tmMoves": [
-        "Acua Cola",
-        "Aire Afilado",
         "Alivio",
-        "Batido",
-        "Beso Drenaje",
+        "Anillo Ígneo",
         "Bomba Caramelo",
+        "Bomba Lodo",
         "Brecha Negra",
         "Brillo Mágico",
-        "Cambiaalmas",
-        "Cañón Batidor",
-        "Cañón Dinamax",
-        "Corpulencia",
-        "Cura Floral",
-        "Daño Secreto",
+        "Canto Mortal",
+        "Carga Dragón",
+        "Cerrojo Feérico",
+        "Chispa",
+        "Cola Veneno",
+        "Desarrollo",
+        "Doble Golpe",
         "Encanto",
-        "Escalofrío",
         "Escudo Real",
-        "Fertilizante",
-        "Hidrochorro",
-        "Impactrueno",
-        "Látigo Ígneo",
+        "Giro Mortífero",
+        "Golpe Umbrío",
+        "Hoja Aguda",
+        "Hora del Té",
+        "Ladrón",
+        "Legado",
         "Moluscañón",
-        "Profecía",
-        "Pulpocañón",
-        "Puño Sombra",
-        "Shuriken de Agua",
-        "Sonámbulo",
+        "Motivación",
+        "Onda Certera",
+        "Picotazo Veneno",
+        "Roca Veloz",
+        "Salazón",
+        "Saña",
+        "Sorpresa",
+        "Tinieblas",
         "Trampa Rocas",
-        "Viento Feérico",
         "Voz Cautivadora"
       ],
       "firstMoves": [
-        "Cambiavelocidad",
-        "Hoja Afilada"
+        "Pin Misil",
+        "Absorbefuerza",
+        "Rodar",
+        "Puntapié"
       ],
-      "spriteKey": "MEGANIUM"
+      "spriteKey": "TYRANITAR"
     },
     {
       "nickname": "Koi",
@@ -6092,15 +6092,15 @@
       "mon": "Magmortar"
     },
     {
-      "route": "ruta_2_sur",
-      "where": "Ruta 2 Sur",
-      "species": "Tyranitar",
-      "nickname": "Tita",
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Meganium",
+      "nickname": "Graham",
       "shiny": true,
       "status": "captured",
       "category": "salvaje",
-      "level": 6,
-      "mon": "Tyranitar"
+      "level": 4,
+      "mon": "Meganium"
     },
     {
       "route": "ruta_15",
@@ -6400,15 +6400,15 @@
       "mon": "Decidueye"
     },
     {
-      "route": "ruta_1",
-      "where": "Ruta 1",
-      "species": "Meganium",
-      "nickname": "Graham",
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Tyranitar",
+      "nickname": "Tita",
       "shiny": true,
       "status": "captured",
       "category": "salvaje",
-      "level": 4,
-      "mon": "Meganium"
+      "level": 6,
+      "mon": "Tyranitar"
     },
     {
       "route": "pueblo_marengo",
@@ -6547,7 +6547,6 @@
       "ruta_5": true,
       "ruta_1": true,
       "ciudad_celeste": true,
-      "ruta_2_sur": true,
       "ruta_15": true,
       "ruta_9": true,
       "ruta_2_norte": true,
@@ -6566,6 +6565,7 @@
       "ciudad_azulona": true,
       "ruta_17": true,
       "zona_safari": true,
+      "ruta_2_sur": true,
       "pueblo_marengo": true,
       "tunel_diglett": true,
       "ciudad_plateada": true,
@@ -6973,7 +6973,7 @@
       {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
-        "qty": 5,
+        "qty": 4,
         "pocket": "Objetos"
       },
       {
@@ -7363,12 +7363,6 @@
       {
         "id": "SUPERREPEL",
         "name": "Superrepelente",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "GRASSGEM",
-        "name": "Gema Planta",
         "qty": 1,
         "pocket": "Objetos"
       },
