@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 24h 3m jugadas · 311,940₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 24h 5m jugadas · 311,940₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -2251,6 +2251,136 @@
       "spriteKey": "BLISSEY"
     },
     {
+      "nickname": "Tobi!",
+      "species": "Okidogi",
+      "level": 50,
+      "types": [
+        "Veneno",
+        "Lucha"
+      ],
+      "ability": "Experto",
+      "nature": "Serena",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Guillotina",
+        "Salmuera",
+        "Burbuja",
+        "Recogearena"
+      ],
+      "iv": [
+        7,
+        15,
+        23,
+        21,
+        28,
+        11
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Experto"
+      ],
+      "abilHidden": [
+        "Coránima"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Búnker"
+        },
+        {
+          "lvl": 1,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 1,
+          "m": "Velo Sagrado"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Incremento"
+        },
+        {
+          "lvl": 1,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 1,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 1,
+          "m": "Esfuerzo"
+        },
+        {
+          "lvl": 8,
+          "m": "Campo de Hierba"
+        },
+        {
+          "lvl": 16,
+          "m": "Pedrada"
+        },
+        {
+          "lvl": 24,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 32,
+          "m": "Guillotina"
+        },
+        {
+          "lvl": 37,
+          "m": "Salmuera"
+        },
+        {
+          "lvl": 40,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 48,
+          "m": "Recogearena"
+        },
+        {
+          "lvl": 56,
+          "m": "Llave Corsé"
+        },
+        {
+          "lvl": 61,
+          "m": "Palma Rauda"
+        },
+        {
+          "lvl": 64,
+          "m": "Fulgor Semilla"
+        },
+        {
+          "lvl": 67,
+          "m": "Atracción"
+        },
+        {
+          "lvl": 72,
+          "m": "Rabia"
+        },
+        {
+          "lvl": 73,
+          "m": "Roca Afilada"
+        }
+      ],
+      "firstMoves": [
+        "Guillotina",
+        "Salmuera",
+        "Burbuja",
+        "Recogearena"
+      ],
+      "spriteKey": "OKIDOGI"
+    },
+    {
       "nickname": "Adama",
       "species": "Zweilous",
       "level": 36,
@@ -3847,136 +3977,6 @@
         "Extracto Picante"
       ],
       "spriteKey": "BRAMBLEGHAST"
-    },
-    {
-      "nickname": "Tobi!",
-      "species": "Okidogi",
-      "level": 50,
-      "types": [
-        "Veneno",
-        "Lucha"
-      ],
-      "ability": "Experto",
-      "nature": "Serena",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Guillotina",
-        "Salmuera",
-        "Burbuja",
-        "Recogearena"
-      ],
-      "iv": [
-        7,
-        15,
-        23,
-        21,
-        28,
-        11
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Experto"
-      ],
-      "abilHidden": [
-        "Coránima"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Búnker"
-        },
-        {
-          "lvl": 1,
-          "m": "Enrosque"
-        },
-        {
-          "lvl": 1,
-          "m": "Velo Sagrado"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Incremento"
-        },
-        {
-          "lvl": 1,
-          "m": "Sísmico"
-        },
-        {
-          "lvl": 1,
-          "m": "Ultrapuño"
-        },
-        {
-          "lvl": 1,
-          "m": "Esfuerzo"
-        },
-        {
-          "lvl": 8,
-          "m": "Campo de Hierba"
-        },
-        {
-          "lvl": 16,
-          "m": "Pedrada"
-        },
-        {
-          "lvl": 24,
-          "m": "Niebla Clara"
-        },
-        {
-          "lvl": 32,
-          "m": "Guillotina"
-        },
-        {
-          "lvl": 37,
-          "m": "Salmuera"
-        },
-        {
-          "lvl": 40,
-          "m": "Burbuja"
-        },
-        {
-          "lvl": 48,
-          "m": "Recogearena"
-        },
-        {
-          "lvl": 56,
-          "m": "Llave Corsé"
-        },
-        {
-          "lvl": 61,
-          "m": "Palma Rauda"
-        },
-        {
-          "lvl": 64,
-          "m": "Fulgor Semilla"
-        },
-        {
-          "lvl": 67,
-          "m": "Atracción"
-        },
-        {
-          "lvl": 72,
-          "m": "Rabia"
-        },
-        {
-          "lvl": 73,
-          "m": "Roca Afilada"
-        }
-      ],
-      "firstMoves": [
-        "Guillotina",
-        "Salmuera",
-        "Burbuja",
-        "Recogearena"
-      ],
-      "spriteKey": "OKIDOGI"
     },
     {
       "nickname": "Blathers",
@@ -5900,6 +5900,17 @@
       "mon": "Blissey"
     },
     {
+      "route": "",
+      "where": "Silph S.A",
+      "species": "Okidogi",
+      "nickname": "Tobi!",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 50,
+      "mon": "Okidogi"
+    },
+    {
       "route": "ruta_10_norte",
       "where": "Ruta 10 Norte",
       "species": "Zweilous",
@@ -6041,17 +6052,6 @@
       "category": "salvaje",
       "level": 45,
       "mon": "Brambleghast"
-    },
-    {
-      "route": "",
-      "where": "Silph S.A",
-      "species": "Okidogi",
-      "nickname": "Tobi!",
-      "shiny": false,
-      "status": "captured",
-      "category": "estatico_regalo",
-      "level": 50,
-      "mon": "Okidogi"
     },
     {
       "route": "",
