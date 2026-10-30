@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 24h 10m jugadas · 333,540₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 24h 58m jugadas · 341,040₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -217,7 +217,7 @@
       "ev": [
         52,
         139,
-        78,
+        80,
         93,
         56,
         90
@@ -388,8 +388,8 @@
       ],
       "ev": [
         7,
-        0,
         2,
+        6,
         0,
         0,
         3
@@ -565,8 +565,8 @@
       ],
       "ev": [
         12,
+        10,
         8,
-        4,
         8,
         7,
         6
@@ -672,171 +672,128 @@
       "spriteKey": "MAGMORTAR"
     },
     {
-      "nickname": "Graham",
-      "species": "Meganium",
-      "level": 55,
+      "nickname": "Tita",
+      "species": "Larvitar",
+      "level": 6,
       "types": [
-        "Planta"
+        "Roca",
+        "Tierra"
       ],
-      "ability": "Mimetismo",
-      "nature": "Firme",
-      "item": "Chaleco Asalto",
+      "ability": "Velo Pastel",
+      "nature": "Plácida",
+      "item": "",
       "shiny": true,
       "moves": [
-        "Llama Gélida",
-        "Truco Floral",
-        "Látigo Ígneo",
-        "Patada Giro"
+        "Pin Misil",
+        "Absorbefuerza",
+        "Rodar",
+        "Puntapié"
       ],
+      "natureMint": true,
+      "natureBase": "Serena",
       "iv": [
-        25,
-        28,
-        14,
-        12,
-        27,
-        5
+        9,
+        10,
+        1,
+        11,
+        23,
+        25
       ],
       "ev": [
-        37,
-        92,
-        55,
-        61,
-        25,
-        49
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Mimetismo"
+        "Velo Pastel"
       ],
       "abilHidden": [
-        "Relincho Negro"
+        "Anticipación"
       ],
       "learnset": [
         {
-          "lvl": -1,
-          "m": "Homenaje Póstumo"
+          "lvl": 1,
+          "m": "Pin Misil"
         },
         {
           "lvl": 1,
-          "m": "Truco Floral"
+          "m": "Absorbefuerza"
         },
         {
-          "lvl": 1,
-          "m": "Picotazo Veneno"
+          "lvl": 3,
+          "m": "Rodar"
         },
         {
-          "lvl": 1,
-          "m": "Descanso"
+          "lvl": 6,
+          "m": "Puntapié"
         },
         {
-          "lvl": 1,
-          "m": "Tajo Metralla"
-        },
-        {
-          "lvl": 1,
-          "m": "Corte Furia"
+          "lvl": 9,
+          "m": "Antojo"
         },
         {
           "lvl": 12,
-          "m": "Danza Pluma"
+          "m": "Beso Amoroso"
+        },
+        {
+          "lvl": 14,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 15,
+          "m": "Aguante"
         },
         {
           "lvl": 18,
-          "m": "Cepo"
+          "m": "Defensa Floral"
         },
         {
-          "lvl": 22,
-          "m": "Silbato"
+          "lvl": 21,
+          "m": "Rastreo"
         },
         {
           "lvl": 24,
-          "m": "Doble Patada"
+          "m": "Reducción"
         },
         {
-          "lvl": 26,
-          "m": "Ovocuración"
+          "lvl": 24,
+          "m": "Ascuas"
         },
         {
-          "lvl": 26,
-          "m": "Encanto"
+          "lvl": 27,
+          "m": "Tajo Metralla"
         },
         {
-          "lvl": 26,
-          "m": "Rizo Algodón"
+          "lvl": 31,
+          "m": "Estrujón"
         },
         {
-          "lvl": 34,
-          "m": "Sincrorruido"
+          "lvl": 33,
+          "m": "Mil Flechas"
         },
         {
-          "lvl": 40,
-          "m": "Placaje"
+          "lvl": 36,
+          "m": "Reserva"
         },
         {
-          "lvl": 40,
-          "m": "Voto Agua"
+          "lvl": 39,
+          "m": "Plumerazo"
         },
         {
-          "lvl": 46,
-          "m": "Energibola"
-        },
-        {
-          "lvl": 54,
-          "m": "Llama Gélida"
-        },
-        {
-          "lvl": 54,
-          "m": "Escaramuza"
-        },
-        {
-          "lvl": 60,
-          "m": "Enfado"
-        },
-        {
-          "lvl": 60,
-          "m": "Paralizador"
-        },
-        {
-          "lvl": 65,
-          "m": "Fuerza Lunar"
+          "lvl": 42,
+          "m": "Hidrovapor"
         }
       ],
-      "tmMoves": [
-        "Acua Cola",
-        "Aire Afilado",
-        "Alivio",
-        "Batido",
-        "Beso Drenaje",
-        "Bomba Caramelo",
-        "Brecha Negra",
-        "Brillo Mágico",
-        "Cambiaalmas",
-        "Cañón Batidor",
-        "Cañón Dinamax",
-        "Corpulencia",
-        "Cura Floral",
-        "Daño Secreto",
-        "Encanto",
-        "Escalofrío",
-        "Escudo Real",
-        "Fertilizante",
-        "Hidrochorro",
-        "Impactrueno",
-        "Látigo Ígneo",
-        "Moluscañón",
-        "Profecía",
-        "Pulpocañón",
-        "Puño Sombra",
-        "Shuriken de Agua",
-        "Sonámbulo",
-        "Trampa Rocas",
-        "Viento Feérico",
-        "Voz Cautivadora"
-      ],
       "firstMoves": [
-        "Cambiavelocidad",
-        "Hoja Afilada"
+        "Pin Misil",
+        "Absorbefuerza",
+        "Rodar",
+        "Puntapié"
       ],
-      "spriteKey": "MEGANIUM"
+      "spriteKey": "LARVITAR"
     },
     {
       "nickname": "Mataró",
@@ -868,8 +825,8 @@
       ],
       "ev": [
         47,
-        128,
-        75,
+        130,
+        79,
         80,
         45,
         86
@@ -2526,6 +2483,152 @@
       "spriteKey": "ZWEILOUS"
     },
     {
+      "nickname": "Zlatan",
+      "species": "Hitmonlee",
+      "level": 50,
+      "types": [
+        "Lucha"
+      ],
+      "ability": "Rumia",
+      "nature": "Plácida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Detección",
+        "Doble Filo",
+        "Pirotecnia",
+        "Pirueta Helada"
+      ],
+      "iv": [
+        1,
+        14,
+        18,
+        8,
+        26,
+        17
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Rumia",
+        "Alma Errante"
+      ],
+      "abilHidden": [
+        "Espada Debacle"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Ataque Óseo"
+        },
+        {
+          "lvl": 1,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 1,
+          "m": "Doble Bofetón"
+        },
+        {
+          "lvl": 1,
+          "m": "Palmeo"
+        },
+        {
+          "lvl": 1,
+          "m": "Puntapié"
+        },
+        {
+          "lvl": 1,
+          "m": "Hachazo Pétreo"
+        },
+        {
+          "lvl": 4,
+          "m": "Afilar"
+        },
+        {
+          "lvl": 5,
+          "m": "Trampa Rocas"
+        },
+        {
+          "lvl": 8,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 9,
+          "m": "Golpe Calor"
+        },
+        {
+          "lvl": 12,
+          "m": "Paliza"
+        },
+        {
+          "lvl": 13,
+          "m": "Patada Giro"
+        },
+        {
+          "lvl": 16,
+          "m": "Patada Baja"
+        },
+        {
+          "lvl": 16,
+          "m": "Sacrificio"
+        },
+        {
+          "lvl": 21,
+          "m": "Palma Rauda"
+        },
+        {
+          "lvl": 24,
+          "m": "Cambiadefensa"
+        },
+        {
+          "lvl": 28,
+          "m": "Pulso Cura"
+        },
+        {
+          "lvl": 28,
+          "m": "Empujón"
+        },
+        {
+          "lvl": 32,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 36,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 37,
+          "m": "Detección"
+        },
+        {
+          "lvl": 40,
+          "m": "Doble Filo"
+        },
+        {
+          "lvl": 44,
+          "m": "Pirotecnia"
+        },
+        {
+          "lvl": 50,
+          "m": "Pirueta Helada"
+        }
+      ],
+      "firstMoves": [
+        "Detección",
+        "Doble Filo",
+        "Pirotecnia",
+        "Pirueta Helada"
+      ],
+      "spriteKey": "HITMONLEE"
+    },
+    {
       "nickname": "Cartman",
       "species": "Sliggoo (Hisui)",
       "level": 33,
@@ -4141,6 +4244,173 @@
       ],
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10244.png",
       "spriteKey": "DECIDUEYE_1"
+    },
+    {
+      "nickname": "Graham",
+      "species": "Meganium",
+      "level": 55,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Mimetismo",
+      "nature": "Firme",
+      "item": "",
+      "shiny": true,
+      "moves": [
+        "Llama Gélida",
+        "Truco Floral",
+        "Látigo Ígneo",
+        "Patada Giro"
+      ],
+      "iv": [
+        25,
+        28,
+        14,
+        12,
+        27,
+        5
+      ],
+      "ev": [
+        37,
+        94,
+        59,
+        61,
+        25,
+        49
+      ],
+      "abilPool": [
+        "Mimetismo"
+      ],
+      "abilHidden": [
+        "Relincho Negro"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 1,
+          "m": "Truco Floral"
+        },
+        {
+          "lvl": 1,
+          "m": "Picotazo Veneno"
+        },
+        {
+          "lvl": 1,
+          "m": "Descanso"
+        },
+        {
+          "lvl": 1,
+          "m": "Tajo Metralla"
+        },
+        {
+          "lvl": 1,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 12,
+          "m": "Danza Pluma"
+        },
+        {
+          "lvl": 18,
+          "m": "Cepo"
+        },
+        {
+          "lvl": 22,
+          "m": "Silbato"
+        },
+        {
+          "lvl": 24,
+          "m": "Doble Patada"
+        },
+        {
+          "lvl": 26,
+          "m": "Ovocuración"
+        },
+        {
+          "lvl": 26,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 26,
+          "m": "Rizo Algodón"
+        },
+        {
+          "lvl": 34,
+          "m": "Sincrorruido"
+        },
+        {
+          "lvl": 40,
+          "m": "Placaje"
+        },
+        {
+          "lvl": 40,
+          "m": "Voto Agua"
+        },
+        {
+          "lvl": 46,
+          "m": "Energibola"
+        },
+        {
+          "lvl": 54,
+          "m": "Llama Gélida"
+        },
+        {
+          "lvl": 54,
+          "m": "Escaramuza"
+        },
+        {
+          "lvl": 60,
+          "m": "Enfado"
+        },
+        {
+          "lvl": 60,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 65,
+          "m": "Fuerza Lunar"
+        }
+      ],
+      "tmMoves": [
+        "Acua Cola",
+        "Aire Afilado",
+        "Alivio",
+        "Batido",
+        "Beso Drenaje",
+        "Bomba Caramelo",
+        "Brecha Negra",
+        "Brillo Mágico",
+        "Cambiaalmas",
+        "Cañón Batidor",
+        "Cañón Dinamax",
+        "Corpulencia",
+        "Cura Floral",
+        "Daño Secreto",
+        "Encanto",
+        "Escalofrío",
+        "Escudo Real",
+        "Fertilizante",
+        "Hidrochorro",
+        "Impactrueno",
+        "Látigo Ígneo",
+        "Moluscañón",
+        "Profecía",
+        "Pulpocañón",
+        "Puño Sombra",
+        "Shuriken de Agua",
+        "Sonámbulo",
+        "Trampa Rocas",
+        "Viento Feérico",
+        "Voz Cautivadora"
+      ],
+      "firstMoves": [
+        "Cambiavelocidad",
+        "Hoja Afilada"
+      ],
+      "spriteKey": "MEGANIUM"
     },
     {
       "nickname": "Koi",
@@ -5768,15 +6038,15 @@
       "mon": "Magmortar"
     },
     {
-      "route": "ruta_1",
-      "where": "Ruta 1",
-      "species": "Meganium",
-      "nickname": "Graham",
+      "route": "ruta_2_sur",
+      "where": "Ruta 2 Sur",
+      "species": "Larvitar",
+      "nickname": "Tita",
       "shiny": true,
       "status": "captured",
       "category": "salvaje",
-      "level": 4,
-      "mon": "Meganium"
+      "level": 6,
+      "mon": "Larvitar"
     },
     {
       "route": "ruta_15",
@@ -5922,6 +6192,17 @@
       "mon": "Zweilous"
     },
     {
+      "route": "",
+      "where": "Dojo Azafrán",
+      "species": "Hitmonlee",
+      "nickname": "Zlatan",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 50,
+      "mon": "Hitmonlee"
+    },
+    {
       "route": "torre_pokemon",
       "where": "Torre Pokémon",
       "species": "Sliggoo",
@@ -6065,6 +6346,17 @@
       "mon": "Decidueye"
     },
     {
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Meganium",
+      "nickname": "Graham",
+      "shiny": true,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 4,
+      "mon": "Meganium"
+    },
+    {
       "route": "pueblo_marengo",
       "where": "Pueblo Marengo",
       "species": "Arctovish",
@@ -6201,6 +6493,7 @@
       "ruta_5": true,
       "ruta_1": true,
       "ciudad_celeste": true,
+      "ruta_2_sur": true,
       "ruta_15": true,
       "ruta_9": true,
       "ruta_2_norte": true,
@@ -6224,7 +6517,6 @@
       "ciudad_plateada": true,
       "ruta_4": true,
       "ruta_22": true,
-      "ruta_2_sur": true,
       "pueblo_paleta": true,
       "tunel_roca": true,
       "ruta_16": true,
@@ -6345,6 +6637,8 @@
       191,
       192,
       193,
+      194,
+      195,
       196,
       197,
       198,
@@ -7037,12 +7331,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "SHINYZADOR",
-        "name": "Shinyzador",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "QUICKCLAW",
         "name": "Garra Rápida",
         "qty": 1,
@@ -7057,6 +7345,12 @@
       {
         "id": "CHARCOAL",
         "name": "Carbón",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ASSAULTVEST",
+        "name": "Chaleco Asalto",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -7139,12 +7433,6 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "RELAXEDMINT",
-        "name": "Menta Plácida",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "HEALTHFEATHER",
         "name": "Pluma Salud",
         "qty": 1,
@@ -7213,7 +7501,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 15,
+        "qty": 14,
         "pocket": "Poké Balls"
       },
       {
@@ -7267,19 +7555,13 @@
       {
         "id": "HEAVYBALL",
         "name": "Peso Ball",
-        "qty": 5,
+        "qty": 4,
         "pocket": "Poké Balls"
       },
       {
         "id": "LUREBALL",
         "name": "Cebo Ball",
         "qty": 10,
-        "pocket": "Poké Balls"
-      },
-      {
-        "id": "LEVELBALL",
-        "name": "Nivel Ball",
-        "qty": 2,
         "pocket": "Poké Balls"
       },
       {
@@ -7315,7 +7597,7 @@
       {
         "id": "TIMERBALL",
         "name": "Turno Ball",
-        "qty": 5,
+        "qty": 3,
         "pocket": "Poké Balls"
       },
       {
