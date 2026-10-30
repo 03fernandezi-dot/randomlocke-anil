@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 13h 45m jugadas · 201,070₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 13h 48m jugadas · 201,070₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Sabanero",
@@ -324,9 +324,9 @@
       "shiny": false,
       "moves": [
         "Onda Tóxica",
-        "Psicocarga",
+        "Mirada Heladora",
         "Rencor Reprimido",
-        "Ciclón"
+        "Disparo Espejo"
       ],
       "iv": [
         7,
@@ -437,10 +437,13 @@
         "Barrera",
         "Bloqueo",
         "Bomba Ácida",
+        "Cambiavelocidad",
         "Carga Parábola",
+        "Ciclón",
         "Clavo Cañón",
         "Decalcomanía",
         "Eco Metálico",
+        "Empujón",
         "Estrujón",
         "Fotocolisión",
         "Fuerza G",
@@ -480,7 +483,7 @@
       "shiny": false,
       "moves": [
         "Amplificador",
-        "Viento Aciago",
+        "Onda Tóxica",
         "Pikaturbo",
         "Canto Encantador"
       ],
@@ -608,9 +611,11 @@
         "Alarido",
         "Alboroto",
         "As Oculto",
+        "Bálsamo Osado",
         "Barrera",
         "Bloqueo",
         "Buceo",
+        "Cambiavelocidad",
         "Carga Parábola",
         "Chuzos",
         "Cura Floral",
@@ -618,6 +623,7 @@
         "Decalcomanía",
         "Decoración",
         "Electropico",
+        "Empujón",
         "Estrujón",
         "Fotocolisión",
         "Giro Mortífero",
@@ -817,7 +823,7 @@
       "item": "Lodo Negro",
       "shiny": false,
       "moves": [
-        "Cola Veneno",
+        "Ominochoque",
         "Golpe Aéreo",
         "Cabezazo Zen",
         "Púas Tóxicas"
