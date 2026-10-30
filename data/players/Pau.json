@@ -4,311 +4,177 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 13h 57m jugadas · 230,170₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 14h 8m jugadas · 230,170₽ · vidas en el juego: 15",
   "team": [
     {
-      "nickname": "Sabanero",
-      "species": "Mudsdale",
+      "nickname": "Orioleeeet",
+      "species": "Dragonite",
       "level": 55,
       "types": [
-        "Tierra"
+        "Dragón",
+        "Volador"
       ],
-      "ability": "Peluche",
-      "nature": "Amable",
+      "ability": "Rompeaura",
+      "nature": "Pícara",
       "item": "Seguro Debilidad",
       "shiny": false,
       "moves": [
+        "Caída Libre",
+        "Dracoflechas",
         "Terremoto",
-        "Hachazo Pétreo",
-        "Rueda Fuego",
-        "Llama Protectora"
+        "Respiro"
       ],
       "iv": [
-        5,
-        24,
-        9,
-        29,
+        4,
+        12,
         8,
-        0
+        5,
+        23,
+        26
       ],
       "ev": [
         0,
-        17,
-        4,
-        1,
-        2,
-        4
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Peluche",
-        "Albino"
+        "Rompeaura"
       ],
       "abilHidden": [
-        "Baba"
+        "Ojo Compuesto"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Fisura"
+          "lvl": -1,
+          "m": "Batido"
         },
         {
           "lvl": 1,
-          "m": "Viento Feérico"
+          "m": "Bomba Ácida"
         },
         {
           "lvl": 1,
-          "m": "Enrosque"
+          "m": "Estruendo Escama"
         },
         {
           "lvl": 1,
-          "m": "Bastión Final"
+          "m": "Atracción"
         },
         {
-          "lvl": 3,
-          "m": "Llama Protectora"
+          "lvl": 1,
+          "m": "Afilar"
         },
         {
-          "lvl": 8,
-          "m": "Relámpago Súbito"
+          "lvl": 1,
+          "m": "Despejar"
         },
         {
-          "lvl": 12,
-          "m": "Destructor"
+          "lvl": 1,
+          "m": "Poder Místico"
         },
         {
-          "lvl": 16,
-          "m": "Fotosíntesis"
+          "lvl": 1,
+          "m": "Desarrollo"
+        },
+        {
+          "lvl": 1,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 1,
+          "m": "Granizo"
+        },
+        {
+          "lvl": 15,
+          "m": "Aire Afilado"
+        },
+        {
+          "lvl": 15,
+          "m": "Hora del Té"
         },
         {
           "lvl": 20,
-          "m": "Púas"
+          "m": "Respiro"
         },
         {
-          "lvl": 22,
-          "m": "Absorbefuerza"
+          "lvl": 25,
+          "m": "Gas Venenoso"
         },
         {
-          "lvl": 24,
-          "m": "Asalto Barrera"
+          "lvl": 33,
+          "m": "Asalto Espadón"
         },
         {
-          "lvl": 28,
-          "m": "Bofetón Lodo"
+          "lvl": 39,
+          "m": "Hachazo Pétreo"
         },
         {
-          "lvl": 34,
-          "m": "Tragar"
-        },
-        {
-          "lvl": 40,
-          "m": "Terratemblor"
-        },
-        {
-          "lvl": 40,
-          "m": "Taladradora"
+          "lvl": 41,
+          "m": "Caída Libre"
         },
         {
           "lvl": 46,
-          "m": "Conjuro Funesto"
-        },
-        {
-          "lvl": 52,
-          "m": "Lanzallamas"
+          "m": "Retribución"
         },
         {
           "lvl": 53,
-          "m": "Allanador Férreo"
-        }
-      ],
-      "tmMoves": [
-        "Ala de Acero",
-        "Alarido",
-        "Arenas Ardientes",
-        "Barrera",
-        "Buceo",
-        "Carga Parábola",
-        "Chuzos",
-        "Ciclón",
-        "Clavo Cañón",
-        "Decalcomanía",
-        "Electropico",
-        "Esfera Aural",
-        "Gas Corrosivo",
-        "Giro Mortífero",
-        "Granizo",
-        "Hachazo Pétreo",
-        "Halloween",
-        "Hipnosis",
-        "Láser Doble",
-        "Llave Corsé",
-        "Onda Certera",
-        "Planta Feroz",
-        "Púas",
-        "Represión Metal",
-        "Retribución",
-        "Shuriken de Agua",
-        "Terremoto",
-        "Velo Sagrado",
-        "Vendetta",
-        "Viento Plata"
-      ],
-      "firstMoves": [
-        "Impresionar",
-        "Telequinesis",
-        "Represalia",
-        "Fertilizante"
-      ],
-      "spriteKey": "MUDSDALE"
-    },
-    {
-      "nickname": "Ruffles",
-      "species": "Braviary (Hisui)",
-      "level": 55,
-      "types": [
-        "Psíquico",
-        "Volador"
-      ],
-      "ability": "Piel Tétrica",
-      "nature": "Rara",
-      "item": "Periscopio",
-      "shiny": false,
-      "moves": [
-        "Mirada Heladora",
-        "Viento Plata",
-        "Arenas Ardientes",
-        "Esfera Aural"
-      ],
-      "iv": [
-        29,
-        12,
-        24,
-        24,
-        27,
-        20
-      ],
-      "ev": [
-        41,
-        82,
-        50,
-        36,
-        46,
-        45
-      ],
-      "abilPool": [
-        "Piel Tétrica",
-        "Insonorizar"
-      ],
-      "abilHidden": [
-        "Iluminación"
-      ],
-      "learnset": [
-        {
-          "lvl": 0,
-          "m": "Velo Sagrado"
+          "m": "Dracoflechas"
         },
         {
-          "lvl": 1,
-          "m": "Canto"
+          "lvl": 58,
+          "m": "Puño Meteoro"
         },
         {
-          "lvl": 1,
-          "m": "Aullido"
-        },
-        {
-          "lvl": 1,
-          "m": "Hidrochorro"
-        },
-        {
-          "lvl": 1,
-          "m": "Brazo Pincho"
-        },
-        {
-          "lvl": 1,
-          "m": "Afilagarras"
-        },
-        {
-          "lvl": 1,
-          "m": "Impresionar"
-        },
-        {
-          "lvl": 18,
-          "m": "Isoguardia"
-        },
-        {
-          "lvl": 24,
-          "m": "Hilo Venenoso"
-        },
-        {
-          "lvl": 30,
-          "m": "Canto Mortal"
-        },
-        {
-          "lvl": 36,
-          "m": "Atiborramiento"
-        },
-        {
-          "lvl": 42,
-          "m": "Empujón"
-        },
-        {
-          "lvl": 48,
-          "m": "Puños Plasma"
-        },
-        {
-          "lvl": 57,
-          "m": "Garra Dragón"
-        },
-        {
-          "lvl": 64,
-          "m": "Frustración"
-        },
-        {
-          "lvl": 72,
-          "m": "Paranormal"
+          "lvl": 62,
+          "m": "Mundo Gélido"
         },
         {
           "lvl": 80,
-          "m": "Quemarrueda"
+          "m": "Tijera X"
         }
       ],
       "tmMoves": [
-        "Alarido",
-        "Alboroto",
         "Anulación",
-        "Arenas Ardientes",
-        "Bálsamo Osado",
+        "Arrumaco",
+        "Asalto Barrera",
         "Barrera",
+        "Bruma Explosiva",
+        "Burbuja",
         "Carga Parábola",
-        "Ciclón",
-        "Clavo Cañón",
+        "Cura Floral",
         "Danza Aleteo",
-        "Danza Pétalo",
-        "Electropico",
-        "Esfera Aural",
-        "Gas Corrosivo",
+        "Decalcomanía",
+        "Deslome",
+        "Eco Metálico",
+        "Fotocolisión",
+        "Fuerza G",
         "Giro Mortífero",
-        "Granizo",
         "Hachazo Pétreo",
-        "Hipnosis",
+        "Halloween",
         "Mirada Heladora",
-        "Onda Tóxica",
+        "Onda Certera",
+        "Ovocuración",
+        "Planta Feroz",
+        "Psicocarga",
         "Pulso de Campo",
+        "Purificación",
         "Represión Metal",
         "Restricción",
-        "Retribución",
         "Shuriken de Agua",
-        "Vendetta",
-        "Viento Carámbano",
-        "Viento Plata"
+        "Tajo Aéreo",
+        "Terremoto",
+        "Vendetta"
       ],
       "firstMoves": [
-        "Veneno X",
-        "Fanfarronear",
-        "Antojo",
-        "Obstrucción"
+        "Asalto Espadón",
+        "Hachazo Pétreo",
+        "Caída Libre",
+        "Retribución"
       ],
-      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10240.png",
-      "spriteKey": "BRAVIARY_1"
+      "spriteKey": "DRAGONITE"
     },
     {
       "nickname": "Wryn",
@@ -979,6 +845,156 @@
       ],
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10113.png",
       "spriteKey": "MUK_1"
+    },
+    {
+      "nickname": "Ruffles",
+      "species": "Braviary (Hisui)",
+      "level": 55,
+      "types": [
+        "Psíquico",
+        "Volador"
+      ],
+      "ability": "Piel Tétrica",
+      "nature": "Rara",
+      "item": "Periscopio",
+      "shiny": false,
+      "moves": [
+        "Mirada Heladora",
+        "Viento Plata",
+        "Arenas Ardientes",
+        "Esfera Aural"
+      ],
+      "iv": [
+        29,
+        12,
+        24,
+        24,
+        27,
+        20
+      ],
+      "ev": [
+        41,
+        82,
+        50,
+        36,
+        46,
+        45
+      ],
+      "abilPool": [
+        "Piel Tétrica",
+        "Insonorizar"
+      ],
+      "abilHidden": [
+        "Iluminación"
+      ],
+      "learnset": [
+        {
+          "lvl": 0,
+          "m": "Velo Sagrado"
+        },
+        {
+          "lvl": 1,
+          "m": "Canto"
+        },
+        {
+          "lvl": 1,
+          "m": "Aullido"
+        },
+        {
+          "lvl": 1,
+          "m": "Hidrochorro"
+        },
+        {
+          "lvl": 1,
+          "m": "Brazo Pincho"
+        },
+        {
+          "lvl": 1,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 1,
+          "m": "Impresionar"
+        },
+        {
+          "lvl": 18,
+          "m": "Isoguardia"
+        },
+        {
+          "lvl": 24,
+          "m": "Hilo Venenoso"
+        },
+        {
+          "lvl": 30,
+          "m": "Canto Mortal"
+        },
+        {
+          "lvl": 36,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 42,
+          "m": "Empujón"
+        },
+        {
+          "lvl": 48,
+          "m": "Puños Plasma"
+        },
+        {
+          "lvl": 57,
+          "m": "Garra Dragón"
+        },
+        {
+          "lvl": 64,
+          "m": "Frustración"
+        },
+        {
+          "lvl": 72,
+          "m": "Paranormal"
+        },
+        {
+          "lvl": 80,
+          "m": "Quemarrueda"
+        }
+      ],
+      "tmMoves": [
+        "Alarido",
+        "Alboroto",
+        "Anulación",
+        "Arenas Ardientes",
+        "Bálsamo Osado",
+        "Barrera",
+        "Carga Parábola",
+        "Ciclón",
+        "Clavo Cañón",
+        "Danza Aleteo",
+        "Danza Pétalo",
+        "Electropico",
+        "Esfera Aural",
+        "Gas Corrosivo",
+        "Giro Mortífero",
+        "Granizo",
+        "Hachazo Pétreo",
+        "Hipnosis",
+        "Mirada Heladora",
+        "Onda Tóxica",
+        "Pulso de Campo",
+        "Represión Metal",
+        "Restricción",
+        "Retribución",
+        "Shuriken de Agua",
+        "Vendetta",
+        "Viento Carámbano",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Veneno X",
+        "Fanfarronear",
+        "Antojo",
+        "Obstrucción"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10240.png",
+      "spriteKey": "BRAVIARY_1"
     }
   ],
   "box": [
@@ -4495,142 +4511,158 @@
       "spriteKey": "SAWSBUCK_1"
     },
     {
-      "nickname": "Orioleeeet",
-      "species": "Dragonite",
-      "level": 50,
+      "nickname": "Sabanero",
+      "species": "Mudsdale",
+      "level": 55,
       "types": [
-        "Dragón",
-        "Volador"
+        "Tierra"
       ],
-      "ability": "Rompeaura",
-      "nature": "Pícara",
-      "item": "",
+      "ability": "Peluche",
+      "nature": "Amable",
+      "item": "Seguro Debilidad",
       "shiny": false,
       "moves": [
-        "Asalto Espadón",
+        "Terremoto",
         "Hachazo Pétreo",
-        "Caída Libre",
-        "Retribución"
+        "Rueda Fuego",
+        "Llama Protectora"
       ],
       "iv": [
-        4,
-        12,
-        8,
         5,
-        23,
-        26
+        24,
+        9,
+        29,
+        8,
+        0
       ],
       "ev": [
         0,
-        0,
-        0,
-        0,
-        0,
-        0
+        17,
+        4,
+        1,
+        2,
+        4
       ],
       "abilPool": [
-        "Rompeaura"
+        "Peluche",
+        "Albino"
       ],
       "abilHidden": [
-        "Ojo Compuesto"
+        "Baba"
       ],
       "learnset": [
         {
-          "lvl": -1,
-          "m": "Batido"
+          "lvl": 1,
+          "m": "Fisura"
         },
         {
           "lvl": 1,
-          "m": "Bomba Ácida"
+          "m": "Viento Feérico"
         },
         {
           "lvl": 1,
-          "m": "Estruendo Escama"
+          "m": "Enrosque"
         },
         {
           "lvl": 1,
-          "m": "Atracción"
+          "m": "Bastión Final"
         },
         {
-          "lvl": 1,
-          "m": "Afilar"
+          "lvl": 3,
+          "m": "Llama Protectora"
         },
         {
-          "lvl": 1,
-          "m": "Despejar"
+          "lvl": 8,
+          "m": "Relámpago Súbito"
         },
         {
-          "lvl": 1,
-          "m": "Poder Místico"
+          "lvl": 12,
+          "m": "Destructor"
         },
         {
-          "lvl": 1,
-          "m": "Desarrollo"
-        },
-        {
-          "lvl": 1,
-          "m": "Nitrocarga"
-        },
-        {
-          "lvl": 1,
-          "m": "Granizo"
-        },
-        {
-          "lvl": 15,
-          "m": "Aire Afilado"
-        },
-        {
-          "lvl": 15,
-          "m": "Hora del Té"
+          "lvl": 16,
+          "m": "Fotosíntesis"
         },
         {
           "lvl": 20,
-          "m": "Respiro"
+          "m": "Púas"
         },
         {
-          "lvl": 25,
-          "m": "Gas Venenoso"
+          "lvl": 22,
+          "m": "Absorbefuerza"
         },
         {
-          "lvl": 33,
-          "m": "Asalto Espadón"
+          "lvl": 24,
+          "m": "Asalto Barrera"
         },
         {
-          "lvl": 39,
-          "m": "Hachazo Pétreo"
+          "lvl": 28,
+          "m": "Bofetón Lodo"
         },
         {
-          "lvl": 41,
-          "m": "Caída Libre"
+          "lvl": 34,
+          "m": "Tragar"
+        },
+        {
+          "lvl": 40,
+          "m": "Terratemblor"
+        },
+        {
+          "lvl": 40,
+          "m": "Taladradora"
         },
         {
           "lvl": 46,
-          "m": "Retribución"
+          "m": "Conjuro Funesto"
+        },
+        {
+          "lvl": 52,
+          "m": "Lanzallamas"
         },
         {
           "lvl": 53,
-          "m": "Dracoflechas"
-        },
-        {
-          "lvl": 58,
-          "m": "Puño Meteoro"
-        },
-        {
-          "lvl": 62,
-          "m": "Mundo Gélido"
-        },
-        {
-          "lvl": 80,
-          "m": "Tijera X"
+          "m": "Allanador Férreo"
         }
       ],
-      "firstMoves": [
-        "Asalto Espadón",
+      "tmMoves": [
+        "Ala de Acero",
+        "Alarido",
+        "Arenas Ardientes",
+        "Barrera",
+        "Buceo",
+        "Carga Parábola",
+        "Chuzos",
+        "Ciclón",
+        "Clavo Cañón",
+        "Decalcomanía",
+        "Electropico",
+        "Esfera Aural",
+        "Gas Corrosivo",
+        "Giro Mortífero",
+        "Granizo",
         "Hachazo Pétreo",
-        "Caída Libre",
-        "Retribución"
+        "Halloween",
+        "Hipnosis",
+        "Láser Doble",
+        "Llave Corsé",
+        "Onda Certera",
+        "Planta Feroz",
+        "Púas",
+        "Represión Metal",
+        "Retribución",
+        "Shuriken de Agua",
+        "Terremoto",
+        "Velo Sagrado",
+        "Vendetta",
+        "Viento Plata"
       ],
-      "spriteKey": "DRAGONITE"
+      "firstMoves": [
+        "Impresionar",
+        "Telequinesis",
+        "Represalia",
+        "Fertilizante"
+      ],
+      "spriteKey": "MUDSDALE"
     },
     {
       "nickname": "Mariconada",
@@ -6764,26 +6796,15 @@
   ],
   "captures": [
     {
-      "route": "ruta_10_sur",
-      "where": "Ruta 10 Sur",
-      "species": "Mudsdale",
-      "nickname": "Sabanero",
+      "route": "",
+      "where": "Dojo Azafrán",
+      "species": "Dragonite",
+      "nickname": "Orioleeeet",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 31,
-      "mon": "Mudsdale"
-    },
-    {
-      "route": "monte_moon",
-      "where": "Monte Moon",
-      "species": "Braviary",
-      "nickname": "Ruffles",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 13,
-      "mon": "Braviary"
+      "category": "estatico_regalo",
+      "level": 50,
+      "mon": "Dragonite"
     },
     {
       "route": "ruta_14",
@@ -6828,6 +6849,17 @@
       "category": "salvaje",
       "level": 25,
       "mon": "Muk"
+    },
+    {
+      "route": "monte_moon",
+      "where": "Monte Moon",
+      "species": "Braviary",
+      "nickname": "Ruffles",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 13,
+      "mon": "Braviary"
     },
     {
       "route": "ruta_12",
@@ -7105,15 +7137,15 @@
       "mon": "Sawsbuck"
     },
     {
-      "route": "",
-      "where": "Dojo Azafrán",
-      "species": "Dragonite",
-      "nickname": "Orioleeeet",
+      "route": "ruta_10_sur",
+      "where": "Ruta 10 Sur",
+      "species": "Mudsdale",
+      "nickname": "Sabanero",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 50,
-      "mon": "Dragonite"
+      "category": "salvaje",
+      "level": 31,
+      "mon": "Mudsdale"
     },
     {
       "route": "monte_moon_exterior",
@@ -7282,10 +7314,9 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ruta_10_sur": true,
-      "monte_moon": true,
       "ruta_14": true,
       "ruta_15": true,
+      "monte_moon": true,
       "ruta_12": true,
       "ruta_21": true,
       "ruta_4": true,
@@ -7304,6 +7335,7 @@
       "ruta_2_sur": true,
       "ruta_5": true,
       "ruta_3": true,
+      "ruta_10_sur": true,
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
       "ruta_9": true,
@@ -7897,12 +7929,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "WEAKNESSPOLICY",
-        "name": "Seguro Debilidad",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "STONEPLATE",
         "name": "Tabla Pétrea",
         "qty": 1,
@@ -8031,7 +8057,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 40,
+        "qty": 35,
         "pocket": "Medicinas"
       },
       {
