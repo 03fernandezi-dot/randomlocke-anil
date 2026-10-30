@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 14h 8m jugadas · 230,170₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 14h 22m jugadas · 230,170₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Orioleeeet",
@@ -38,7 +38,7 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "abilPool": [
         "Rompeaura"
@@ -208,7 +208,7 @@
         25,
         11,
         15,
-        21
+        22
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -367,7 +367,7 @@
         70,
         63,
         66,
-        78
+        79
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -515,168 +515,6 @@
       "spriteKey": "AMPHAROS"
     },
     {
-      "nickname": "Dondondondon",
-      "species": "Dondozo",
-      "level": 55,
-      "types": [
-        "Agua"
-      ],
-      "ability": "Electromotor",
-      "nature": "Osada",
-      "item": "Chaleco Asalto",
-      "shiny": false,
-      "moves": [
-        "Puño Jet",
-        "Terremoto",
-        "Ominochoque",
-        "Viraje"
-      ],
-      "iv": [
-        27,
-        7,
-        8,
-        8,
-        26,
-        2
-      ],
-      "ev": [
-        0,
-        15,
-        6,
-        1,
-        5,
-        4
-      ],
-      "abilPool": [
-        "Electromotor",
-        "Ritmo Propio"
-      ],
-      "abilHidden": [
-        "Pelusa"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Desarrollo"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Jet"
-        },
-        {
-          "lvl": 1,
-          "m": "Gota Vital"
-        },
-        {
-          "lvl": 5,
-          "m": "Acua Jet"
-        },
-        {
-          "lvl": 10,
-          "m": "Psicoonda"
-        },
-        {
-          "lvl": 15,
-          "m": "Danza Dragón"
-        },
-        {
-          "lvl": 15,
-          "m": "Tambor"
-        },
-        {
-          "lvl": 20,
-          "m": "Fijar Blanco"
-        },
-        {
-          "lvl": 25,
-          "m": "Sísmico"
-        },
-        {
-          "lvl": 25,
-          "m": "Tenaza"
-        },
-        {
-          "lvl": 30,
-          "m": "Viraje"
-        },
-        {
-          "lvl": 35,
-          "m": "Cascada"
-        },
-        {
-          "lvl": 40,
-          "m": "Vapodrenaje"
-        },
-        {
-          "lvl": 45,
-          "m": "Profecía"
-        },
-        {
-          "lvl": 50,
-          "m": "Empapar"
-        },
-        {
-          "lvl": 50,
-          "m": "Esporagodón"
-        },
-        {
-          "lvl": 55,
-          "m": "Ariete"
-        },
-        {
-          "lvl": 60,
-          "m": "Tierra Viva"
-        },
-        {
-          "lvl": 65,
-          "m": "Chorro de Vapor"
-        },
-        {
-          "lvl": 65,
-          "m": "Envite Acuático"
-        }
-      ],
-      "tmMoves": [
-        "Alarido",
-        "Alboroto",
-        "Anulación",
-        "Arrumaco",
-        "As Oculto",
-        "Asalto Barrera",
-        "Bálsamo Osado",
-        "Bruma Explosiva",
-        "Buceo",
-        "Burbuja",
-        "Cabezazo Zen",
-        "Carga Parábola",
-        "Clavo Cañón",
-        "Danza Pétalo",
-        "Decalcomanía",
-        "Deslome",
-        "Eco Metálico",
-        "Electropico",
-        "Empujón",
-        "Esfera Aural",
-        "Llave Corsé",
-        "Ominochoque",
-        "Onda Certera",
-        "Onda Tóxica",
-        "Ovocuración",
-        "Puño Incremento",
-        "Purificación",
-        "Terremoto",
-        "Vendetta",
-        "Viento Carámbano",
-        "Viento Plata"
-      ],
-      "firstMoves": [
-        "Desarrollo",
-        "Puño Jet",
-        "Gota Vital"
-      ],
-      "spriteKey": "DONDOZO"
-    },
-    {
       "nickname": "Mocardo",
       "species": "Muk (Alola)",
       "level": 55,
@@ -708,7 +546,7 @@
         30,
         37,
         48,
-        40
+        41
       ],
       "abilPool": [
         "Mudar",
@@ -847,6 +685,136 @@
       "spriteKey": "MUK_1"
     },
     {
+      "nickname": "Levante",
+      "species": "Seismitoad",
+      "level": 55,
+      "types": [
+        "Agua",
+        "Tierra"
+      ],
+      "ability": "Caparazón",
+      "nature": "Dócil",
+      "item": "Periscopio",
+      "shiny": false,
+      "moves": [
+        "Clavo Cañón",
+        "Terremoto",
+        "Esfera Aural",
+        "Lluevehojas"
+      ],
+      "iv": [
+        0,
+        3,
+        19,
+        4,
+        1,
+        23
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Surcavientos",
+        "Caparazón"
+      ],
+      "abilHidden": [
+        "Potencia"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Arenas Ardientes"
+        },
+        {
+          "lvl": 1,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 1,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 1,
+          "m": "Amago"
+        },
+        {
+          "lvl": 1,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 1,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 1,
+          "m": "Paz Mental"
+        },
+        {
+          "lvl": 12,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 16,
+          "m": "Acua Jet"
+        },
+        {
+          "lvl": 20,
+          "m": "Hilo Venenoso"
+        },
+        {
+          "lvl": 24,
+          "m": "Megaagotar"
+        },
+        {
+          "lvl": 30,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 39,
+          "m": "Conversión2"
+        },
+        {
+          "lvl": 39,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 46,
+          "m": "Pulso Primigenio"
+        },
+        {
+          "lvl": 49,
+          "m": "Simún de Arena"
+        },
+        {
+          "lvl": 54,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 62,
+          "m": "Magnitud"
+        },
+        {
+          "lvl": 70,
+          "m": "Transformación"
+        }
+      ],
+      "tmMoves": [
+        "Púas"
+      ],
+      "firstMoves": [
+        "Rizo Algodón",
+        "Lluevehojas",
+        "Escaramuza",
+        "Hipercolmillo"
+      ],
+      "spriteKey": "SEISMITOAD"
+    },
+    {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
       "level": 55,
@@ -878,7 +846,7 @@
         50,
         36,
         46,
-        45
+        46
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -4665,6 +4633,168 @@
       "spriteKey": "MUDSDALE"
     },
     {
+      "nickname": "Dondondondon",
+      "species": "Dondozo",
+      "level": 55,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Electromotor",
+      "nature": "Osada",
+      "item": "Chaleco Asalto",
+      "shiny": false,
+      "moves": [
+        "Puño Jet",
+        "Terremoto",
+        "Ominochoque",
+        "Viraje"
+      ],
+      "iv": [
+        27,
+        7,
+        8,
+        8,
+        26,
+        2
+      ],
+      "ev": [
+        0,
+        15,
+        6,
+        1,
+        5,
+        5
+      ],
+      "abilPool": [
+        "Electromotor",
+        "Ritmo Propio"
+      ],
+      "abilHidden": [
+        "Pelusa"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Desarrollo"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 1,
+          "m": "Gota Vital"
+        },
+        {
+          "lvl": 5,
+          "m": "Acua Jet"
+        },
+        {
+          "lvl": 10,
+          "m": "Psicoonda"
+        },
+        {
+          "lvl": 15,
+          "m": "Danza Dragón"
+        },
+        {
+          "lvl": 15,
+          "m": "Tambor"
+        },
+        {
+          "lvl": 20,
+          "m": "Fijar Blanco"
+        },
+        {
+          "lvl": 25,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 25,
+          "m": "Tenaza"
+        },
+        {
+          "lvl": 30,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 35,
+          "m": "Cascada"
+        },
+        {
+          "lvl": 40,
+          "m": "Vapodrenaje"
+        },
+        {
+          "lvl": 45,
+          "m": "Profecía"
+        },
+        {
+          "lvl": 50,
+          "m": "Empapar"
+        },
+        {
+          "lvl": 50,
+          "m": "Esporagodón"
+        },
+        {
+          "lvl": 55,
+          "m": "Ariete"
+        },
+        {
+          "lvl": 60,
+          "m": "Tierra Viva"
+        },
+        {
+          "lvl": 65,
+          "m": "Chorro de Vapor"
+        },
+        {
+          "lvl": 65,
+          "m": "Envite Acuático"
+        }
+      ],
+      "tmMoves": [
+        "Alarido",
+        "Alboroto",
+        "Anulación",
+        "Arrumaco",
+        "As Oculto",
+        "Asalto Barrera",
+        "Bálsamo Osado",
+        "Bruma Explosiva",
+        "Buceo",
+        "Burbuja",
+        "Cabezazo Zen",
+        "Carga Parábola",
+        "Clavo Cañón",
+        "Danza Pétalo",
+        "Decalcomanía",
+        "Deslome",
+        "Eco Metálico",
+        "Electropico",
+        "Empujón",
+        "Esfera Aural",
+        "Llave Corsé",
+        "Ominochoque",
+        "Onda Certera",
+        "Onda Tóxica",
+        "Ovocuración",
+        "Puño Incremento",
+        "Purificación",
+        "Terremoto",
+        "Vendetta",
+        "Viento Carámbano",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Desarrollo",
+        "Puño Jet",
+        "Gota Vital"
+      ],
+      "spriteKey": "DONDOZO"
+    },
+    {
       "nickname": "Mariconada",
       "species": "Floette",
       "level": 21,
@@ -6829,17 +6959,6 @@
       "mon": "Ampharos"
     },
     {
-      "route": "",
-      "where": "Museo Pokémon",
-      "species": "Dondozo",
-      "nickname": "Dondondondon",
-      "shiny": false,
-      "status": "captured",
-      "category": "estatico_regalo",
-      "level": 1,
-      "mon": "Dondozo"
-    },
-    {
       "route": "ruta_15",
       "where": "Ruta 15",
       "species": "Muk",
@@ -6849,6 +6968,17 @@
       "category": "salvaje",
       "level": 25,
       "mon": "Muk"
+    },
+    {
+      "route": "ruta_18",
+      "where": "Ruta 18",
+      "species": "Seismitoad",
+      "nickname": "Levante",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 51,
+      "mon": "Seismitoad"
     },
     {
       "route": "monte_moon",
@@ -7148,6 +7278,17 @@
       "mon": "Mudsdale"
     },
     {
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Dondozo",
+      "nickname": "Dondondondon",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Dondozo"
+    },
+    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Floette",
@@ -7316,6 +7457,7 @@
     "routes": {
       "ruta_14": true,
       "ruta_15": true,
+      "ruta_18": true,
       "monte_moon": true,
       "ruta_12": true,
       "ruta_21": true,
@@ -7394,7 +7536,8 @@
       "zona_safari": true,
       "ruta_16": true,
       "ruta_17": true,
-      "ciudad_azafran": true
+      "ciudad_azafran": true,
+      "ruta_18": true
     },
     "switches": [
       48,
@@ -7512,6 +7655,7 @@
       "Baya Tamar",
       "Baya Tamate",
       "Baya Zanama",
+      "Baya Zonlan",
       "Bola Luminosa",
       "Bono Bici",
       "Botón Escape",
@@ -7544,6 +7688,7 @@
       "Fragmento Cometa",
       "Freshstartmochi",
       "Gema Dragón",
+      "Gema Psíquica",
       "Gema Roca",
       "Globo Helio",
       "Hierba Copia",
@@ -7642,7 +7787,10 @@
       "MT89",
       "MT90",
       "MT91",
+      "MT95",
+      "MT99",
       "Nivel Ball",
+      "Ornitofósil",
       "Pañuelo de Seda",
       "Parasol Multiuso",
       "Parte Azul",
@@ -7682,6 +7830,7 @@
       "Semilla Bruma",
       "Servicio Raro",
       "Shinyzador",
+      "Slowbronita",
       "Supercaña",
       "Supercápsula",
       "Supereviolita",
@@ -7793,7 +7942,7 @@
       {
         "id": "OVALSTONE",
         "name": "Piedra Oval",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -7919,7 +8068,7 @@
       {
         "id": "BINDINGBAND",
         "name": "Banda Atadura",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -8043,6 +8192,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "PSYCHICGEM",
+        "name": "Gema Psíquica",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FOSSILIZEDBIRD",
+        "name": "Ornitofósil",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -8057,7 +8218,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 35,
+        "qty": 31,
         "pocket": "Medicinas"
       },
       {
@@ -8267,7 +8428,7 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 18,
+        "qty": 17,
         "pocket": "Poké Balls"
       },
       {
@@ -8643,8 +8804,20 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM95",
+        "name": "MT95",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM98",
         "name": "MT98",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM99",
+        "name": "MT99",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -8805,6 +8978,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "LANSATBERRY",
+        "name": "Baya Zonlan",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "MICLEBERRY",
         "name": "Baya Lagro",
         "qty": 1,
@@ -8855,6 +9034,12 @@
       {
         "id": "AMPHAROSITE",
         "name": "Ampharosita",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
+        "id": "SLOWBRONITE",
+        "name": "Slowbronita",
         "qty": 1,
         "pocket": "Piedras Mega"
       },
