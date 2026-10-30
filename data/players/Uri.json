@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 24h 58m jugadas · 341,040₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 25h 11m jugadas · 341,040₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Izan",
@@ -16,7 +16,7 @@
       ],
       "ability": "Velo Aroma",
       "nature": "Seria",
-      "item": "Agua Mística",
+      "item": "Chaleco Asalto",
       "shiny": false,
       "moves": [
         "Acua Cola",
@@ -673,21 +673,21 @@
     },
     {
       "nickname": "Tita",
-      "species": "Larvitar",
-      "level": 6,
+      "species": "Tyranitar",
+      "level": 55,
       "types": [
         "Roca",
-        "Tierra"
+        "Siniestro"
       ],
-      "ability": "Velo Pastel",
+      "ability": "Rezagado",
       "nature": "Plácida",
-      "item": "",
+      "item": "Seguro Debilidad",
       "shiny": true,
       "moves": [
-        "Pin Misil",
-        "Absorbefuerza",
-        "Rodar",
-        "Puntapié"
+        "Escudo Real",
+        "Hachazo Pétreo",
+        "Presa Maxilar",
+        "Ponzochoque"
       ],
       "natureMint": true,
       "natureBase": "Serena",
@@ -708,84 +708,138 @@
         0
       ],
       "abilPool": [
-        "Velo Pastel"
+        "Rezagado"
       ],
       "abilHidden": [
-        "Anticipación"
+        "Roca Solida"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Pin Misil"
+          "m": "Condena Silvana"
         },
         {
           "lvl": 1,
-          "m": "Absorbefuerza"
+          "m": "Antiaéreo"
         },
         {
-          "lvl": 3,
-          "m": "Rodar"
+          "lvl": 1,
+          "m": "Venganza"
         },
         {
-          "lvl": 6,
-          "m": "Puntapié"
+          "lvl": 1,
+          "m": "Abatidoras"
+        },
+        {
+          "lvl": 1,
+          "m": "Mofa"
+        },
+        {
+          "lvl": 1,
+          "m": "Aura Magnética"
+        },
+        {
+          "lvl": 1,
+          "m": "Onda Vacío"
+        },
+        {
+          "lvl": 1,
+          "m": "Octopresa"
+        },
+        {
+          "lvl": 1,
+          "m": "Colmillo Veneno"
         },
         {
           "lvl": 9,
-          "m": "Antojo"
+          "m": "Cerrojo Feérico"
         },
         {
           "lvl": 12,
-          "m": "Beso Amoroso"
+          "m": "Puño Mareo"
         },
         {
           "lvl": 14,
-          "m": "Sellar"
+          "m": "Rugido de Guerra"
         },
         {
           "lvl": 15,
-          "m": "Aguante"
+          "m": "Colmillo Ígneo"
         },
         {
           "lvl": 18,
-          "m": "Defensa Floral"
+          "m": "Trapicheo"
         },
         {
           "lvl": 21,
-          "m": "Rastreo"
+          "m": "Estímulo"
         },
         {
           "lvl": 24,
-          "m": "Reducción"
-        },
-        {
-          "lvl": 24,
-          "m": "Ascuas"
+          "m": "Bostezo"
         },
         {
           "lvl": 27,
-          "m": "Tajo Metralla"
-        },
-        {
-          "lvl": 31,
-          "m": "Estrujón"
+          "m": "Alarido"
         },
         {
           "lvl": 33,
-          "m": "Mil Flechas"
+          "m": "Tajo Umbrío"
         },
         {
-          "lvl": 36,
-          "m": "Reserva"
-        },
-        {
-          "lvl": 39,
-          "m": "Plumerazo"
+          "lvl": 37,
+          "m": "Canto Mortal"
         },
         {
           "lvl": 42,
-          "m": "Hidrovapor"
+          "m": "Pulso Umbrío"
+        },
+        {
+          "lvl": 47,
+          "m": "Ponzochoque"
+        },
+        {
+          "lvl": 52,
+          "m": "Avalancha"
+        },
+        {
+          "lvl": 59,
+          "m": "Sonámbulo"
         }
+      ],
+      "tmMoves": [
+        "Alivio",
+        "Anillo Ígneo",
+        "Bomba Caramelo",
+        "Bomba Lodo",
+        "Brecha Negra",
+        "Brillo Mágico",
+        "Canto Mortal",
+        "Carga Dragón",
+        "Cerrojo Feérico",
+        "Chispa",
+        "Cola Veneno",
+        "Desarrollo",
+        "Doble Golpe",
+        "Encanto",
+        "Escudo Real",
+        "Giro Mortífero",
+        "Golpe Umbrío",
+        "Hoja Aguda",
+        "Hora del Té",
+        "Ladrón",
+        "Legado",
+        "Moluscañón",
+        "Motivación",
+        "Onda Certera",
+        "Picotazo Veneno",
+        "Roca Veloz",
+        "Salazón",
+        "Saña",
+        "Sorpresa",
+        "Tinieblas",
+        "Trampa Rocas",
+        "Voz Cautivadora"
       ],
       "firstMoves": [
         "Pin Misil",
@@ -793,7 +847,7 @@
         "Rodar",
         "Puntapié"
       ],
-      "spriteKey": "LARVITAR"
+      "spriteKey": "TYRANITAR"
     },
     {
       "nickname": "Mataró",
@@ -805,7 +859,7 @@
       ],
       "ability": "Pompa",
       "nature": "Alegre",
-      "item": "Seguro Debilidad",
+      "item": "Revest. Metálico",
       "shiny": false,
       "moves": [
         "Escudo Real",
@@ -6040,13 +6094,13 @@
     {
       "route": "ruta_2_sur",
       "where": "Ruta 2 Sur",
-      "species": "Larvitar",
+      "species": "Tyranitar",
       "nickname": "Tita",
       "shiny": true,
       "status": "captured",
       "category": "salvaje",
       "level": 6,
-      "mon": "Larvitar"
+      "mon": "Tyranitar"
     },
     {
       "route": "ruta_15",
@@ -7259,12 +7313,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "METALCOAT",
-        "name": "Revest. Metálico",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "SPOOKYPLATE",
         "name": "Tabla Terror",
         "qty": 1,
@@ -7349,8 +7397,8 @@
         "pocket": "Objetos"
       },
       {
-        "id": "ASSAULTVEST",
-        "name": "Chaleco Asalto",
+        "id": "MYSTICWATER",
+        "name": "Agua Mística",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -7375,7 +7423,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 424,
+        "qty": 375,
         "pocket": "Medicinas"
       },
       {
