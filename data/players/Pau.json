@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 14h 45m jugadas · 243,520₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 14h 46m jugadas · 243,520₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Shawn",
@@ -359,7 +359,7 @@
       "shiny": false,
       "moves": [
         "Sylveotornado",
-        "Esfera Aural",
+        "Viento Plata",
         "Fiebre Dorada",
         "Patada Tropical"
       ],
@@ -475,6 +475,40 @@
           "lvl": 55,
           "m": "Puntapié"
         }
+      ],
+      "tmMoves": [
+        "Ala de Acero",
+        "Alarido",
+        "Arenas Ardientes",
+        "As Oculto",
+        "Asalto Barrera",
+        "Bruma Explosiva",
+        "Chuzos",
+        "Ciclón",
+        "Cura Floral",
+        "Decoración",
+        "Empujón",
+        "Estrujón",
+        "Giro Mortífero",
+        "Golpe Roca",
+        "Hachazo Pétreo",
+        "Halloween",
+        "Hipnosis",
+        "Llave Corsé",
+        "Mirada Heladora",
+        "Palma Rauda",
+        "Piñón Auxiliar",
+        "Planta Feroz",
+        "Pulso de Campo",
+        "Puño Incremento",
+        "Purificación",
+        "Rencor Reprimido",
+        "Represión Metal",
+        "Restricción",
+        "Shuriken de Agua",
+        "Sylveotornado",
+        "Velo Sagrado",
+        "Viento Plata"
       ],
       "firstMoves": [
         "Fuerza Bruta",
