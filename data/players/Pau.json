@@ -4,188 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 16h 36m jugadas · 317,745₽ · vidas en el juego: 14",
+  "notes": "Importado del save · 16h 43m jugadas · 330,345₽ · vidas en el juego: 14",
   "team": [
-    {
-      "nickname": "Popiruleta",
-      "species": "Tinkaton",
-      "level": 59,
-      "types": [
-        "Hada",
-        "Acero"
-      ],
-      "ability": "Retirada",
-      "nature": "Seria",
-      "item": "Chaleco Asalto",
-      "shiny": false,
-      "moves": [
-        "Patada Tropical",
-        "Hachazo Pétreo",
-        "Fiebre Dorada",
-        "Viento Plata"
-      ],
-      "iv": [
-        26,
-        30,
-        26,
-        24,
-        30,
-        20
-      ],
-      "ev": [
-        10,
-        38,
-        6,
-        14,
-        6,
-        24
-      ],
-      "abilPool": [
-        "Manto Níveo",
-        "Retirada"
-      ],
-      "abilHidden": [
-        "Ventosas"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 1,
-          "m": "Disparo Espejo"
-        },
-        {
-          "lvl": 1,
-          "m": "Cuerpo Pesado"
-        },
-        {
-          "lvl": 5,
-          "m": "Garra Metal"
-        },
-        {
-          "lvl": 8,
-          "m": "Onda Voltio"
-        },
-        {
-          "lvl": 11,
-          "m": "Cambio de Marcha"
-        },
-        {
-          "lvl": 14,
-          "m": "Viento Feérico"
-        },
-        {
-          "lvl": 17,
-          "m": "Paliza"
-        },
-        {
-          "lvl": 21,
-          "m": "Disparo Lodo"
-        },
-        {
-          "lvl": 24,
-          "m": "Campo de Niebla"
-        },
-        {
-          "lvl": 27,
-          "m": "Beso Dulce"
-        },
-        {
-          "lvl": 31,
-          "m": "Eco Voz"
-        },
-        {
-          "lvl": 35,
-          "m": "Niebla Aromática"
-        },
-        {
-          "lvl": 39,
-          "m": "Giro Bola"
-        },
-        {
-          "lvl": 40,
-          "m": "Puño Bala"
-        },
-        {
-          "lvl": 40,
-          "m": "Embargo"
-        },
-        {
-          "lvl": 40,
-          "m": "Plegaria Lunar"
-        },
-        {
-          "lvl": 42,
-          "m": "Rompecoraza"
-        },
-        {
-          "lvl": 43,
-          "m": "Onda Simple"
-        },
-        {
-          "lvl": 47,
-          "m": "Homenaje Póstumo"
-        },
-        {
-          "lvl": 52,
-          "m": "Bruma Explosiva"
-        },
-        {
-          "lvl": 55,
-          "m": "Puntapié"
-        }
-      ],
-      "tmMoves": [
-        "Ala de Acero",
-        "Alarido",
-        "Arenas Ardientes",
-        "As Oculto",
-        "Asalto Barrera",
-        "Azote",
-        "Bruma Explosiva",
-        "Carga",
-        "Chuzos",
-        "Ciclón",
-        "Cura Floral",
-        "Decoración",
-        "Empujón",
-        "Estrujón",
-        "Giro Mortífero",
-        "Golpe Roca",
-        "Hachazo Pétreo",
-        "Halloween",
-        "Hipnosis",
-        "Joya de Luz",
-        "Llave Corsé",
-        "Mirada Heladora",
-        "Palma Rauda",
-        "Piñón Auxiliar",
-        "Planta Feroz",
-        "Pulso de Campo",
-        "Puño Incremento",
-        "Purificación",
-        "Rencor Reprimido",
-        "Represión Metal",
-        "Restricción",
-        "Shuriken de Agua",
-        "Sylveotornado",
-        "Velo Sagrado",
-        "Viento Plata"
-      ],
-      "firstMoves": [
-        "Fuerza Bruta",
-        "Giro Bola",
-        "Fiebre Dorada",
-        "Isofuerza"
-      ],
-      "spriteKey": "TINKATON"
-    },
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 59,
+      "level": 61,
       "types": [
         "Eléctrico"
       ],
@@ -364,9 +188,185 @@
       "spriteKey": "AMPHAROS"
     },
     {
+      "nickname": "Popiruleta",
+      "species": "Tinkaton",
+      "level": 61,
+      "types": [
+        "Hada",
+        "Acero"
+      ],
+      "ability": "Retirada",
+      "nature": "Seria",
+      "item": "Chaleco Asalto",
+      "shiny": false,
+      "moves": [
+        "Patada Tropical",
+        "Hachazo Pétreo",
+        "Fiebre Dorada",
+        "Viento Plata"
+      ],
+      "iv": [
+        26,
+        30,
+        26,
+        24,
+        30,
+        20
+      ],
+      "ev": [
+        11,
+        48,
+        6,
+        16,
+        6,
+        26
+      ],
+      "abilPool": [
+        "Manto Níveo",
+        "Retirada"
+      ],
+      "abilHidden": [
+        "Ventosas"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 1,
+          "m": "Disparo Espejo"
+        },
+        {
+          "lvl": 1,
+          "m": "Cuerpo Pesado"
+        },
+        {
+          "lvl": 5,
+          "m": "Garra Metal"
+        },
+        {
+          "lvl": 8,
+          "m": "Onda Voltio"
+        },
+        {
+          "lvl": 11,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 14,
+          "m": "Viento Feérico"
+        },
+        {
+          "lvl": 17,
+          "m": "Paliza"
+        },
+        {
+          "lvl": 21,
+          "m": "Disparo Lodo"
+        },
+        {
+          "lvl": 24,
+          "m": "Campo de Niebla"
+        },
+        {
+          "lvl": 27,
+          "m": "Beso Dulce"
+        },
+        {
+          "lvl": 31,
+          "m": "Eco Voz"
+        },
+        {
+          "lvl": 35,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 39,
+          "m": "Giro Bola"
+        },
+        {
+          "lvl": 40,
+          "m": "Puño Bala"
+        },
+        {
+          "lvl": 40,
+          "m": "Embargo"
+        },
+        {
+          "lvl": 40,
+          "m": "Plegaria Lunar"
+        },
+        {
+          "lvl": 42,
+          "m": "Rompecoraza"
+        },
+        {
+          "lvl": 43,
+          "m": "Onda Simple"
+        },
+        {
+          "lvl": 47,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 52,
+          "m": "Bruma Explosiva"
+        },
+        {
+          "lvl": 55,
+          "m": "Puntapié"
+        }
+      ],
+      "tmMoves": [
+        "Ala de Acero",
+        "Alarido",
+        "Arenas Ardientes",
+        "As Oculto",
+        "Asalto Barrera",
+        "Azote",
+        "Bruma Explosiva",
+        "Carga",
+        "Chuzos",
+        "Ciclón",
+        "Cura Floral",
+        "Decoración",
+        "Empujón",
+        "Estrujón",
+        "Giro Mortífero",
+        "Golpe Roca",
+        "Hachazo Pétreo",
+        "Halloween",
+        "Hipnosis",
+        "Joya de Luz",
+        "Llave Corsé",
+        "Mirada Heladora",
+        "Palma Rauda",
+        "Piñón Auxiliar",
+        "Planta Feroz",
+        "Pulso de Campo",
+        "Puño Incremento",
+        "Purificación",
+        "Rencor Reprimido",
+        "Represión Metal",
+        "Restricción",
+        "Shuriken de Agua",
+        "Sylveotornado",
+        "Velo Sagrado",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Fuerza Bruta",
+        "Giro Bola",
+        "Fiebre Dorada",
+        "Isofuerza"
+      ],
+      "spriteKey": "TINKATON"
+    },
+    {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 59,
+      "level": 61,
       "types": [
         "Siniestro",
         "Acero"
@@ -392,12 +392,12 @@
         0
       ],
       "ev": [
-        10,
-        38,
+        11,
+        48,
         6,
-        14,
+        16,
         6,
-        24
+        26
       ],
       "abilPool": [
         "Recogebolas",
@@ -529,7 +529,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 59,
+      "level": 60,
       "types": [
         "Psíquico",
         "Volador"
@@ -553,12 +553,12 @@
         20
       ],
       "ev": [
-        53,
-        124,
+        54,
+        134,
         58,
-        50,
         52,
-        75
+        52,
+        77
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -683,7 +683,7 @@
     {
       "nickname": "Dondondondon",
       "species": "Dondozo",
-      "level": 59,
+      "level": 60,
       "types": [
         "Agua"
       ],
@@ -708,12 +708,12 @@
         2
       ],
       "ev": [
-        7,
-        44,
+        8,
+        54,
         11,
-        11,
+        13,
         10,
-        22
+        24
       ],
       "abilPool": [
         "Electromotor",
@@ -851,7 +851,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 59,
+      "level": 61,
       "types": [
         "Veneno",
         "Dragón"
@@ -875,12 +875,12 @@
         22
       ],
       "ev": [
-        19,
-        79,
+        20,
+        89,
         33,
-        25,
+        27,
         22,
-        51
+        53
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -8258,17 +8258,6 @@
   ],
   "captures": [
     {
-      "route": "isla_canela",
-      "where": "Isla Canela",
-      "species": "Tinkaton",
-      "nickname": "Popiruleta",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 53,
-      "mon": "Tinkaton"
-    },
-    {
       "route": "",
       "where": "Laboratorio",
       "species": "Ampharos",
@@ -8278,6 +8267,17 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Ampharos"
+    },
+    {
+      "route": "isla_canela",
+      "where": "Isla Canela",
+      "species": "Tinkaton",
+      "nickname": "Popiruleta",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 53,
+      "mon": "Tinkaton"
     },
     {
       "route": "islas_espuma",
@@ -9071,6 +9071,10 @@
       216,
       231,
       232,
+      233,
+      234,
+      235,
+      236,
       252,
       271,
       301,
@@ -9110,6 +9114,7 @@
       "Baya Tamar",
       "Baya Tamate",
       "Baya Zanama",
+      "Baya Zidra",
       "Baya Zonlan",
       "Bola Luminosa",
       "Bono Bici",
@@ -9173,6 +9178,7 @@
       "Maxipepita",
       "Maxiseta",
       "Mega-Aro",
+      "Mejora",
       "Menta Afable",
       "Menta Agitada",
       "Menta Audaz",
@@ -9201,6 +9207,7 @@
       "MT112",
       "MT113",
       "MT114",
+      "MT118",
       "MT12",
       "MT122",
       "MT123",
@@ -9312,6 +9319,7 @@
       "Tabla Acero",
       "Tabla Bicho",
       "Tabla Duende",
+      "Tabla Helada",
       "Tabla Linfa",
       "Tabla Pétrea",
       "Tesecreto",
@@ -9567,7 +9575,7 @@
       {
         "id": "PEARL",
         "name": "Perla",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -9729,6 +9737,18 @@
       {
         "id": "DARKGEM",
         "name": "Gema Siniestra",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ICICLEPLATE",
+        "name": "Tabla Helada",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "UPGRADE",
+        "name": "Mejora",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -10441,6 +10461,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM118",
+        "name": "MT118",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM122",
         "name": "MT122",
         "qty": 1,
@@ -10474,6 +10500,12 @@
         "id": "LEPPABERRY",
         "name": "Baya Zanama",
         "qty": 2,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "SITRUSBERRY",
+        "name": "Baya Zidra",
+        "qty": 1,
         "pocket": "Bayas"
       },
       {
@@ -10641,7 +10673,7 @@
       {
         "id": "XSPEED3",
         "name": "Velocidad X 3",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos de combate"
       },
       {
