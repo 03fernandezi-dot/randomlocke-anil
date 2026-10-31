@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 15h 55m jugadas · 273,180₽ · vidas en el juego: 14",
+  "notes": "Importado del save · 16h 6m jugadas · 294,080₽ · vidas en el juego: 14",
   "team": [
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 57,
+      "level": 58,
       "types": [
         "Eléctrico"
       ],
@@ -152,6 +152,7 @@
         "Bloqueo",
         "Buceo",
         "Cambiavelocidad",
+        "Carga",
         "Carga Parábola",
         "Chuzos",
         "Cura Floral",
@@ -189,7 +190,7 @@
     {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 57,
+      "level": 59,
       "types": [
         "Siniestro",
         "Acero"
@@ -213,12 +214,12 @@
         0
       ],
       "ev": [
+        4,
+        28,
         3,
-        14,
-        1,
         6,
         1,
-        7
+        13
       ],
       "abilPool": [
         "Recogebolas",
@@ -313,6 +314,7 @@
         "Cabezazo Zen",
         "Cambiavelocidad",
         "Camelo",
+        "Carga",
         "Ciclón",
         "Danza Aleteo",
         "Danza Lunar",
@@ -349,7 +351,7 @@
     {
       "nickname": "Popiruleta",
       "species": "Tinkaton",
-      "level": 57,
+      "level": 58,
       "types": [
         "Hada",
         "Acero"
@@ -373,12 +375,12 @@
         20
       ],
       "ev": [
+        4,
+        28,
         3,
-        14,
-        1,
         6,
         1,
-        7
+        13
       ],
       "abilPool": [
         "Manto Níveo",
@@ -485,6 +487,7 @@
         "Asalto Barrera",
         "Azote",
         "Bruma Explosiva",
+        "Carga",
         "Chuzos",
         "Ciclón",
         "Cura Floral",
@@ -496,6 +499,7 @@
         "Hachazo Pétreo",
         "Halloween",
         "Hipnosis",
+        "Joya de Luz",
         "Llave Corsé",
         "Mirada Heladora",
         "Palma Rauda",
@@ -523,7 +527,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 57,
+      "level": 59,
       "types": [
         "Veneno",
         "Dragón"
@@ -547,12 +551,12 @@
         22
       ],
       "ev": [
-        12,
-        55,
-        28,
+        13,
+        69,
+        30,
         17,
         17,
-        34
+        40
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -649,6 +653,7 @@
         "Bloqueo",
         "Bomba Ácida",
         "Cambiavelocidad",
+        "Carga",
         "Carga Parábola",
         "Ciclón",
         "Clavo Cañón",
@@ -686,7 +691,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 57,
+      "level": 58,
       "types": [
         "Psíquico",
         "Volador"
@@ -710,12 +715,12 @@
         20
       ],
       "ev": [
-        46,
-        100,
-        53,
+        47,
+        114,
+        55,
         42,
         47,
-        58
+        64
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -814,6 +819,7 @@
         "Granizo",
         "Hachazo Pétreo",
         "Hipnosis",
+        "Joya de Luz",
         "Manto Espejo",
         "Mirada Heladora",
         "Onda Tóxica",
@@ -839,7 +845,7 @@
     {
       "nickname": "Dondondondon",
       "species": "Dondozo",
-      "level": 57,
+      "level": 58,
       "types": [
         "Agua"
       ],
@@ -862,12 +868,12 @@
         2
       ],
       "ev": [
-        0,
-        20,
-        6,
+        1,
+        34,
+        8,
         3,
         5,
-        5
+        11
       ],
       "abilPool": [
         "Electromotor",
@@ -981,6 +987,7 @@
         "Electropico",
         "Empujón",
         "Esfera Aural",
+        "Joya de Luz",
         "Llave Corsé",
         "Manto Espejo",
         "Ominochoque",
@@ -8563,6 +8570,7 @@
       "MT106",
       "MT108",
       "MT111",
+      "MT112",
       "MT113",
       "MT114",
       "MT12",
@@ -9773,6 +9781,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM112",
+        "name": "MT112",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM113",
         "name": "MT113",
         "qty": 1,
@@ -10037,8 +10051,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
