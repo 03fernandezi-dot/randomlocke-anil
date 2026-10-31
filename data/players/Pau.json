@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 16h 28m jugadas · 309,680₽ · vidas en el juego: 14",
+  "notes": "Importado del save · 16h 31m jugadas · 313,810₽ · vidas en el juego: 14",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -34,9 +34,9 @@
       ],
       "ev": [
         10,
-        33,
+        36,
         6,
-        12,
+        14,
         2,
         24
       ],
@@ -393,9 +393,9 @@
       ],
       "ev": [
         10,
-        33,
+        36,
         6,
-        12,
+        14,
         2,
         24
       ],
@@ -555,9 +555,9 @@
       ],
       "ev": [
         7,
-        39,
+        42,
         11,
-        9,
+        11,
         6,
         22
       ],
@@ -722,9 +722,9 @@
       ],
       "ev": [
         53,
-        119,
+        122,
         58,
-        48,
+        50,
         48,
         75
       ],
@@ -876,9 +876,9 @@
       ],
       "ev": [
         19,
-        74,
+        77,
         33,
-        23,
+        25,
         18,
         51
       ],
@@ -3714,6 +3714,107 @@
         "Foco"
       ],
       "spriteKey": "SPIRITOMB"
+    },
+    {
+      "nickname": "Iguana",
+      "species": "Drizzile",
+      "level": 58,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Agallas",
+      "nature": "Floja",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Chirrido",
+        "Trapicheo",
+        "Extracto Picante",
+        "Triple Inmersión"
+      ],
+      "iv": [
+        9,
+        23,
+        0,
+        21,
+        1,
+        29
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Agallas"
+      ],
+      "abilHidden": [
+        "Iluminación"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Tenaza"
+        },
+        {
+          "lvl": 1,
+          "m": "Camelo"
+        },
+        {
+          "lvl": 1,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Calor"
+        },
+        {
+          "lvl": 12,
+          "m": "Resarcimiento"
+        },
+        {
+          "lvl": 19,
+          "m": "Onda Trueno"
+        },
+        {
+          "lvl": 19,
+          "m": "Polvo Mágico"
+        },
+        {
+          "lvl": 24,
+          "m": "Tormento"
+        },
+        {
+          "lvl": 30,
+          "m": "Bostezo"
+        },
+        {
+          "lvl": 36,
+          "m": "Chirrido"
+        },
+        {
+          "lvl": 36,
+          "m": "Trapicheo"
+        },
+        {
+          "lvl": 42,
+          "m": "Extracto Picante"
+        },
+        {
+          "lvl": 48,
+          "m": "Triple Inmersión"
+        }
+      ],
+      "firstMoves": [
+        "Chirrido",
+        "Trapicheo",
+        "Extracto Picante",
+        "Triple Inmersión"
+      ],
+      "spriteKey": "DRIZZILE"
     },
     {
       "nickname": "Mariconada",
@@ -8384,6 +8485,17 @@
       "mon": "Spiritomb"
     },
     {
+      "route": "cueva_celeste",
+      "where": "Cueva Celeste",
+      "species": "Drizzile",
+      "nickname": "Iguana",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 58,
+      "mon": "Drizzile"
+    },
+    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Floette",
@@ -8731,6 +8843,7 @@
       "ruta_8": true,
       "zona_safari": true,
       "ciudad_fucsia": true,
+      "cueva_celeste": true,
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
       "ruta_9": true,
@@ -8806,7 +8919,8 @@
       "islas_espuma": true,
       "isla_canela": true,
       "mansion_quemada": true,
-      "ruta_19": true
+      "ruta_19": true,
+      "cueva_celeste": true
     },
     "switches": [
       48,
@@ -8897,6 +9011,8 @@
       214,
       216,
       231,
+      232,
+      252,
       271,
       301,
       323,
@@ -9787,7 +9903,7 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 12,
+        "qty": 11,
         "pocket": "Poké Balls"
       },
       {
