@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 17h 24m jugadas · 370,350₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 17h 29m jugadas · 370,350₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -196,7 +196,7 @@
       ],
       "ability": "Iluminación",
       "nature": "Miedosa",
-      "item": "Periscopio",
+      "item": "Seguro Debilidad",
       "shiny": false,
       "moves": [
         "Mirada Heladora",
@@ -522,7 +522,7 @@
         "Amplificador",
         "Onda Tóxica",
         "Pikaturbo",
-        "Canto Encantador"
+        "Disparo Certero"
       ],
       "iv": [
         10,
@@ -690,172 +690,155 @@
       "spriteKey": "AMPHAROS"
     },
     {
-      "nickname": "Dondondondon",
-      "species": "Dondozo",
-      "level": 62,
+      "nickname": "Juanca",
+      "species": "Greattusk",
+      "level": 63,
       "types": [
-        "Agua"
+        "Tierra",
+        "Lucha"
       ],
-      "ability": "Electromotor",
-      "nature": "Audaz",
-      "item": "Cascabel Concha",
+      "ability": "Unidad Ecuestre",
+      "nature": "Alegre",
+      "item": "Seguro Debilidad",
       "shiny": false,
       "moves": [
-        "Puño Jet",
         "Terremoto",
-        "Ominochoque",
-        "Llave Corsé"
+        "Llave Corsé",
+        "Clavo Cañón",
+        "Cambio de Marcha"
       ],
-      "natureMint": true,
-      "natureBase": "Osada",
       "iv": [
-        27,
-        7,
         8,
-        8,
-        26,
-        2
+        31,
+        21,
+        5,
+        6,
+        18
       ],
       "ev": [
-        15,
-        62,
-        15,
-        15,
-        20,
-        40
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Electromotor",
-        "Ritmo Propio"
+        "Unidad Ecuestre"
       ],
-      "abilHidden": [
-        "Pelusa"
-      ],
+      "abilHidden": [],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Desarrollo"
+          "m": "Psicocambio"
         },
         {
           "lvl": 1,
-          "m": "Puño Jet"
+          "m": "Escalofrío"
         },
         {
           "lvl": 1,
-          "m": "Gota Vital"
+          "m": "Bomba Fango"
         },
         {
-          "lvl": 5,
-          "m": "Acua Jet"
+          "lvl": 1,
+          "m": "Onda Vacío"
         },
         {
-          "lvl": 10,
-          "m": "Psicoonda"
+          "lvl": 7,
+          "m": "Cambio de Marcha"
         },
         {
-          "lvl": 15,
-          "m": "Danza Dragón"
+          "lvl": 14,
+          "m": "Palma Rauda"
         },
         {
-          "lvl": 15,
-          "m": "Tambor"
+          "lvl": 21,
+          "m": "Llave Vital"
         },
         {
-          "lvl": 20,
-          "m": "Fijar Blanco"
-        },
-        {
-          "lvl": 25,
-          "m": "Sísmico"
-        },
-        {
-          "lvl": 25,
-          "m": "Tenaza"
-        },
-        {
-          "lvl": 30,
-          "m": "Viraje"
+          "lvl": 28,
+          "m": "Llave Corsé"
         },
         {
           "lvl": 35,
-          "m": "Cascada"
+          "m": "Moflete Estático"
         },
         {
-          "lvl": 40,
-          "m": "Vapodrenaje"
+          "lvl": 42,
+          "m": "Teraclúster"
         },
         {
-          "lvl": 45,
-          "m": "Profecía"
+          "lvl": 49,
+          "m": "Granizo"
         },
         {
-          "lvl": 50,
-          "m": "Empapar"
+          "lvl": 56,
+          "m": "Simún de Arena"
         },
         {
-          "lvl": 50,
-          "m": "Esporagodón"
+          "lvl": 63,
+          "m": "Ala Mortífera"
         },
         {
-          "lvl": 55,
-          "m": "Ariete"
+          "lvl": 70,
+          "m": "Enrosque"
         },
         {
-          "lvl": 60,
-          "m": "Tierra Viva"
+          "lvl": 77,
+          "m": "Chulería"
         },
         {
-          "lvl": 65,
-          "m": "Chorro de Vapor"
+          "lvl": 84,
+          "m": "Fisura"
         },
         {
-          "lvl": 65,
-          "m": "Envite Acuático"
+          "lvl": 91,
+          "m": "Beso Dulce"
         }
       ],
       "tmMoves": [
-        "Alarido",
+        "Ala de Acero",
         "Alboroto",
-        "Anulación",
+        "Arenas Ardientes",
         "Arrumaco",
-        "As Oculto",
         "Asalto Barrera",
-        "Azote",
         "Bálsamo Osado",
+        "Barrera",
+        "Bloqueo",
+        "Bola Voltio",
         "Bruma Explosiva",
-        "Buceo",
-        "Burbuja",
         "Cabezazo Zen",
-        "Carga Parábola",
+        "Chuzos",
         "Clavo Cañón",
-        "Danza Pétalo",
-        "Decalcomanía",
-        "Deslome",
+        "Cura Floral",
         "Disparo Certero",
-        "Eco Metálico",
-        "Electropico",
         "Empujón",
-        "Esfera Aural",
-        "Joya de Luz",
+        "Estrujón",
+        "Fuerza G",
+        "Golpe Roca",
+        "Halloween",
+        "Láser Doble",
         "Llave Corsé",
-        "Manto Espejo",
         "Ominochoque",
         "Onda Certera",
-        "Onda Tóxica",
-        "Ovocuración",
-        "Puño Incremento",
+        "Palma Rauda",
+        "Púas",
         "Purificación",
+        "Represión Metal",
+        "Sylveotornado",
         "Terremoto",
-        "Vendetta",
-        "Viento Carámbano",
+        "Velo Sagrado",
+        "Vendaval",
         "Viento Plata"
       ],
       "firstMoves": [
-        "Desarrollo",
-        "Puño Jet",
-        "Gota Vital"
+        "Moflete Estático",
+        "Teraclúster",
+        "Granizo",
+        "Simún de Arena"
       ],
-      "spriteKey": "DONDOZO"
+      "spriteKey": "GREATTUSK"
     },
     {
       "nickname": "Wryn",
@@ -3725,122 +3708,6 @@
       "spriteKey": "SPIRITOMB"
     },
     {
-      "nickname": "Juanca",
-      "species": "Greattusk",
-      "level": 60,
-      "types": [
-        "Tierra",
-        "Lucha"
-      ],
-      "ability": "Unidad Ecuestre",
-      "nature": "Alegre",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Moflete Estático",
-        "Teraclúster",
-        "Granizo",
-        "Simún de Arena"
-      ],
-      "iv": [
-        8,
-        31,
-        21,
-        5,
-        6,
-        18
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Unidad Ecuestre"
-      ],
-      "abilHidden": [],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Psicocambio"
-        },
-        {
-          "lvl": 1,
-          "m": "Escalofrío"
-        },
-        {
-          "lvl": 1,
-          "m": "Bomba Fango"
-        },
-        {
-          "lvl": 1,
-          "m": "Onda Vacío"
-        },
-        {
-          "lvl": 7,
-          "m": "Cambio de Marcha"
-        },
-        {
-          "lvl": 14,
-          "m": "Palma Rauda"
-        },
-        {
-          "lvl": 21,
-          "m": "Llave Vital"
-        },
-        {
-          "lvl": 28,
-          "m": "Llave Corsé"
-        },
-        {
-          "lvl": 35,
-          "m": "Moflete Estático"
-        },
-        {
-          "lvl": 42,
-          "m": "Teraclúster"
-        },
-        {
-          "lvl": 49,
-          "m": "Granizo"
-        },
-        {
-          "lvl": 56,
-          "m": "Simún de Arena"
-        },
-        {
-          "lvl": 63,
-          "m": "Ala Mortífera"
-        },
-        {
-          "lvl": 70,
-          "m": "Enrosque"
-        },
-        {
-          "lvl": 77,
-          "m": "Chulería"
-        },
-        {
-          "lvl": 84,
-          "m": "Fisura"
-        },
-        {
-          "lvl": 91,
-          "m": "Beso Dulce"
-        }
-      ],
-      "firstMoves": [
-        "Moflete Estático",
-        "Teraclúster",
-        "Granizo",
-        "Simún de Arena"
-      ],
-      "spriteKey": "GREATTUSK"
-    },
-    {
       "nickname": "Mariconada",
       "species": "Floette",
       "level": 21,
@@ -6513,6 +6380,174 @@
       "spriteKey": "INTELEON"
     },
     {
+      "nickname": "Dondondondon",
+      "species": "Dondozo",
+      "level": 62,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Electromotor",
+      "nature": "Audaz",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Puño Jet",
+        "Terremoto",
+        "Ominochoque",
+        "Llave Corsé"
+      ],
+      "natureMint": true,
+      "natureBase": "Osada",
+      "iv": [
+        27,
+        7,
+        8,
+        8,
+        26,
+        2
+      ],
+      "ev": [
+        15,
+        62,
+        15,
+        15,
+        20,
+        40
+      ],
+      "abilPool": [
+        "Electromotor",
+        "Ritmo Propio"
+      ],
+      "abilHidden": [
+        "Pelusa"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Desarrollo"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 1,
+          "m": "Gota Vital"
+        },
+        {
+          "lvl": 5,
+          "m": "Acua Jet"
+        },
+        {
+          "lvl": 10,
+          "m": "Psicoonda"
+        },
+        {
+          "lvl": 15,
+          "m": "Danza Dragón"
+        },
+        {
+          "lvl": 15,
+          "m": "Tambor"
+        },
+        {
+          "lvl": 20,
+          "m": "Fijar Blanco"
+        },
+        {
+          "lvl": 25,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 25,
+          "m": "Tenaza"
+        },
+        {
+          "lvl": 30,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 35,
+          "m": "Cascada"
+        },
+        {
+          "lvl": 40,
+          "m": "Vapodrenaje"
+        },
+        {
+          "lvl": 45,
+          "m": "Profecía"
+        },
+        {
+          "lvl": 50,
+          "m": "Empapar"
+        },
+        {
+          "lvl": 50,
+          "m": "Esporagodón"
+        },
+        {
+          "lvl": 55,
+          "m": "Ariete"
+        },
+        {
+          "lvl": 60,
+          "m": "Tierra Viva"
+        },
+        {
+          "lvl": 65,
+          "m": "Chorro de Vapor"
+        },
+        {
+          "lvl": 65,
+          "m": "Envite Acuático"
+        }
+      ],
+      "tmMoves": [
+        "Alarido",
+        "Alboroto",
+        "Anulación",
+        "Arrumaco",
+        "As Oculto",
+        "Asalto Barrera",
+        "Azote",
+        "Bálsamo Osado",
+        "Bruma Explosiva",
+        "Buceo",
+        "Burbuja",
+        "Cabezazo Zen",
+        "Carga Parábola",
+        "Clavo Cañón",
+        "Danza Pétalo",
+        "Decalcomanía",
+        "Deslome",
+        "Disparo Certero",
+        "Eco Metálico",
+        "Electropico",
+        "Empujón",
+        "Esfera Aural",
+        "Joya de Luz",
+        "Llave Corsé",
+        "Manto Espejo",
+        "Ominochoque",
+        "Onda Certera",
+        "Onda Tóxica",
+        "Ovocuración",
+        "Puño Incremento",
+        "Purificación",
+        "Terremoto",
+        "Vendetta",
+        "Viento Carámbano",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Desarrollo",
+        "Puño Jet",
+        "Gota Vital"
+      ],
+      "spriteKey": "DONDOZO"
+    },
+    {
       "nickname": "Okidogi",
       "species": "Okidogi",
       "level": 48,
@@ -8427,15 +8462,15 @@
       "mon": "Ampharos"
     },
     {
-      "route": "",
-      "where": "Museo Pokémon",
-      "species": "Dondozo",
-      "nickname": "Dondondondon",
+      "route": "bosque_celeste",
+      "where": "Bosque Celeste",
+      "species": "Greattusk",
+      "nickname": "Juanca",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 1,
-      "mon": "Dondozo"
+      "category": "salvaje",
+      "level": 60,
+      "mon": "Greattusk"
     },
     {
       "route": "ruta_14",
@@ -8669,17 +8704,6 @@
       "mon": "Spiritomb"
     },
     {
-      "route": "bosque_celeste",
-      "where": "Bosque Celeste",
-      "species": "Greattusk",
-      "nickname": "Juanca",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 60,
-      "mon": "Greattusk"
-    },
-    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Floette",
@@ -8879,6 +8903,17 @@
     },
     {
       "route": "",
+      "where": "Museo Pokémon",
+      "species": "Dondozo",
+      "nickname": "Dondondondon",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Dondozo"
+    },
+    {
+      "route": "",
       "where": "Estación del Magnetotrén",
       "species": "Okidogi",
       "nickname": "",
@@ -9026,6 +9061,7 @@
       "isla_canela": true,
       "monte_moon": true,
       "islas_espuma": true,
+      "bosque_celeste": true,
       "ruta_14": true,
       "ruta_12": true,
       "ruta_21": true,
@@ -9038,7 +9074,6 @@
       "ruta_8": true,
       "zona_safari": true,
       "ciudad_fucsia": true,
-      "bosque_celeste": true,
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
       "ruta_9": true,
@@ -9865,19 +9900,13 @@
       {
         "id": "SCOPELENS",
         "name": "Periscopio",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
         "id": "RAZORCLAW",
         "name": "Garra Afilada",
         "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "WEAKNESSPOLICY",
-        "name": "Seguro Debilidad",
-        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -9911,6 +9940,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "SHELLBELL",
+        "name": "Cascabel Concha",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -9931,7 +9966,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 713,
+        "qty": 710,
         "pocket": "Medicinas"
       },
       {
