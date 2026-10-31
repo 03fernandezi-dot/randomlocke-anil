@@ -4,341 +4,8 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 15h 24m jugadas · 243,520₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 15h 31m jugadas · 258,370₽ · vidas en el juego: 15",
   "team": [
-    {
-      "nickname": "Popiruleta",
-      "species": "Tinkaton",
-      "level": 56,
-      "types": [
-        "Hada",
-        "Acero"
-      ],
-      "ability": "Retirada",
-      "nature": "Seria",
-      "item": "Chaleco Asalto",
-      "shiny": false,
-      "moves": [
-        "Patada Tropical",
-        "Hachazo Pétreo",
-        "Fiebre Dorada",
-        "Viento Plata"
-      ],
-      "iv": [
-        26,
-        30,
-        26,
-        24,
-        30,
-        20
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "abilPool": [
-        "Manto Níveo",
-        "Retirada"
-      ],
-      "abilHidden": [
-        "Ventosas"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Ojitos Tiernos"
-        },
-        {
-          "lvl": 1,
-          "m": "Disparo Espejo"
-        },
-        {
-          "lvl": 1,
-          "m": "Cuerpo Pesado"
-        },
-        {
-          "lvl": 5,
-          "m": "Garra Metal"
-        },
-        {
-          "lvl": 8,
-          "m": "Onda Voltio"
-        },
-        {
-          "lvl": 11,
-          "m": "Cambio de Marcha"
-        },
-        {
-          "lvl": 14,
-          "m": "Viento Feérico"
-        },
-        {
-          "lvl": 17,
-          "m": "Paliza"
-        },
-        {
-          "lvl": 21,
-          "m": "Disparo Lodo"
-        },
-        {
-          "lvl": 24,
-          "m": "Campo de Niebla"
-        },
-        {
-          "lvl": 27,
-          "m": "Beso Dulce"
-        },
-        {
-          "lvl": 31,
-          "m": "Eco Voz"
-        },
-        {
-          "lvl": 35,
-          "m": "Niebla Aromática"
-        },
-        {
-          "lvl": 39,
-          "m": "Giro Bola"
-        },
-        {
-          "lvl": 40,
-          "m": "Puño Bala"
-        },
-        {
-          "lvl": 40,
-          "m": "Embargo"
-        },
-        {
-          "lvl": 40,
-          "m": "Plegaria Lunar"
-        },
-        {
-          "lvl": 42,
-          "m": "Rompecoraza"
-        },
-        {
-          "lvl": 43,
-          "m": "Onda Simple"
-        },
-        {
-          "lvl": 47,
-          "m": "Homenaje Póstumo"
-        },
-        {
-          "lvl": 52,
-          "m": "Bruma Explosiva"
-        },
-        {
-          "lvl": 55,
-          "m": "Puntapié"
-        }
-      ],
-      "tmMoves": [
-        "Ala de Acero",
-        "Alarido",
-        "Arenas Ardientes",
-        "As Oculto",
-        "Asalto Barrera",
-        "Bruma Explosiva",
-        "Chuzos",
-        "Ciclón",
-        "Cura Floral",
-        "Decoración",
-        "Empujón",
-        "Estrujón",
-        "Giro Mortífero",
-        "Golpe Roca",
-        "Hachazo Pétreo",
-        "Halloween",
-        "Hipnosis",
-        "Llave Corsé",
-        "Mirada Heladora",
-        "Palma Rauda",
-        "Piñón Auxiliar",
-        "Planta Feroz",
-        "Pulso de Campo",
-        "Puño Incremento",
-        "Purificación",
-        "Rencor Reprimido",
-        "Represión Metal",
-        "Restricción",
-        "Shuriken de Agua",
-        "Sylveotornado",
-        "Velo Sagrado",
-        "Viento Plata"
-      ],
-      "firstMoves": [
-        "Fuerza Bruta",
-        "Giro Bola",
-        "Fiebre Dorada",
-        "Isofuerza"
-      ],
-      "spriteKey": "TINKATON"
-    },
-    {
-      "nickname": "Gambito",
-      "species": "Bisharp",
-      "level": 56,
-      "types": [
-        "Siniestro",
-        "Acero"
-      ],
-      "ability": "Punto Tóxico",
-      "nature": "Afable",
-      "item": "Mineral Evol",
-      "shiny": false,
-      "moves": [
-        "Buena Baza",
-        "Chuzos",
-        "Quemarrueda",
-        "Cabezazo Zen"
-      ],
-      "iv": [
-        15,
-        24,
-        23,
-        26,
-        15,
-        0
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ],
-      "abilPool": [
-        "Recogebolas",
-        "Punto Tóxico"
-      ],
-      "abilHidden": [
-        "Escudo Magma"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Ala de Acero"
-        },
-        {
-          "lvl": 1,
-          "m": "Día de Pago"
-        },
-        {
-          "lvl": 1,
-          "m": "Buena Baza"
-        },
-        {
-          "lvl": 1,
-          "m": "Bomba Fango"
-        },
-        {
-          "lvl": 1,
-          "m": "Batido"
-        },
-        {
-          "lvl": 15,
-          "m": "Impactrueno"
-        },
-        {
-          "lvl": 17,
-          "m": "Zona Extraña"
-        },
-        {
-          "lvl": 20,
-          "m": "Represión Metal"
-        },
-        {
-          "lvl": 25,
-          "m": "Castigo"
-        },
-        {
-          "lvl": 30,
-          "m": "Acua Aro"
-        },
-        {
-          "lvl": 35,
-          "m": "Camaradería"
-        },
-        {
-          "lvl": 40,
-          "m": "Avivar"
-        },
-        {
-          "lvl": 41,
-          "m": "Mordisco"
-        },
-        {
-          "lvl": 45,
-          "m": "Láser Doble"
-        },
-        {
-          "lvl": 50,
-          "m": "Garra Dragón"
-        },
-        {
-          "lvl": 50,
-          "m": "Luz Aniquiladora"
-        },
-        {
-          "lvl": 57,
-          "m": "Cuerpo Pesado"
-        },
-        {
-          "lvl": 64,
-          "m": "Garra Brutal"
-        },
-        {
-          "lvl": 71,
-          "m": "Allanador Férreo"
-        }
-      ],
-      "tmMoves": [
-        "Ala de Acero",
-        "Alarido",
-        "Arenas Ardientes",
-        "Asalto Barrera",
-        "Cabezazo Zen",
-        "Cambiavelocidad",
-        "Camelo",
-        "Ciclón",
-        "Danza Aleteo",
-        "Danza Lunar",
-        "Eco Metálico",
-        "Electropico",
-        "Empujón",
-        "Fuerza G",
-        "Giro Mortífero",
-        "Hachazo Pétreo",
-        "Hora del Té",
-        "Mirada Heladora",
-        "Ominochoque",
-        "Palma Rauda",
-        "Piñón Auxiliar",
-        "Planta Feroz",
-        "Pulso de Campo",
-        "Puño Incremento",
-        "Purificación",
-        "Represión Metal",
-        "Retribución",
-        "Shuriken de Agua",
-        "Tajo Aéreo",
-        "Vendetta",
-        "Viento Plata"
-      ],
-      "firstMoves": [
-        "Avivar",
-        "Llanto Falso",
-        "Quemarrueda",
-        "Escalofrío"
-      ],
-      "spriteKey": "BISHARP"
-    },
     {
       "nickname": "Shawn",
       "species": "Ampharos",
@@ -366,11 +33,11 @@
       ],
       "ev": [
         61,
-        138,
-        72,
-        63,
+        145,
+        73,
+        66,
         68,
-        84
+        87
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -519,6 +186,339 @@
       "spriteKey": "AMPHAROS"
     },
     {
+      "nickname": "Gambito",
+      "species": "Bisharp",
+      "level": 56,
+      "types": [
+        "Siniestro",
+        "Acero"
+      ],
+      "ability": "Punto Tóxico",
+      "nature": "Afable",
+      "item": "Mineral Evol",
+      "shiny": false,
+      "moves": [
+        "Buena Baza",
+        "Chuzos",
+        "Cabezazo Zen",
+        "Quemarrueda"
+      ],
+      "iv": [
+        15,
+        24,
+        23,
+        26,
+        15,
+        0
+      ],
+      "ev": [
+        0,
+        7,
+        1,
+        3,
+        1,
+        3
+      ],
+      "abilPool": [
+        "Recogebolas",
+        "Punto Tóxico"
+      ],
+      "abilHidden": [
+        "Escudo Magma"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Ala de Acero"
+        },
+        {
+          "lvl": 1,
+          "m": "Día de Pago"
+        },
+        {
+          "lvl": 1,
+          "m": "Buena Baza"
+        },
+        {
+          "lvl": 1,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 1,
+          "m": "Batido"
+        },
+        {
+          "lvl": 15,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 17,
+          "m": "Zona Extraña"
+        },
+        {
+          "lvl": 20,
+          "m": "Represión Metal"
+        },
+        {
+          "lvl": 25,
+          "m": "Castigo"
+        },
+        {
+          "lvl": 30,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 35,
+          "m": "Camaradería"
+        },
+        {
+          "lvl": 40,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 41,
+          "m": "Mordisco"
+        },
+        {
+          "lvl": 45,
+          "m": "Láser Doble"
+        },
+        {
+          "lvl": 50,
+          "m": "Garra Dragón"
+        },
+        {
+          "lvl": 50,
+          "m": "Luz Aniquiladora"
+        },
+        {
+          "lvl": 57,
+          "m": "Cuerpo Pesado"
+        },
+        {
+          "lvl": 64,
+          "m": "Garra Brutal"
+        },
+        {
+          "lvl": 71,
+          "m": "Allanador Férreo"
+        }
+      ],
+      "tmMoves": [
+        "Ala de Acero",
+        "Alarido",
+        "Arenas Ardientes",
+        "Asalto Barrera",
+        "Cabezazo Zen",
+        "Cambiavelocidad",
+        "Camelo",
+        "Ciclón",
+        "Danza Aleteo",
+        "Danza Lunar",
+        "Eco Metálico",
+        "Electropico",
+        "Empujón",
+        "Fuerza G",
+        "Giro Mortífero",
+        "Hachazo Pétreo",
+        "Hora del Té",
+        "Mirada Heladora",
+        "Ominochoque",
+        "Palma Rauda",
+        "Piñón Auxiliar",
+        "Planta Feroz",
+        "Pulso de Campo",
+        "Puño Incremento",
+        "Purificación",
+        "Represión Metal",
+        "Retribución",
+        "Shuriken de Agua",
+        "Tajo Aéreo",
+        "Vendetta",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Avivar",
+        "Llanto Falso",
+        "Quemarrueda",
+        "Escalofrío"
+      ],
+      "spriteKey": "BISHARP"
+    },
+    {
+      "nickname": "Popiruleta",
+      "species": "Tinkaton",
+      "level": 56,
+      "types": [
+        "Hada",
+        "Acero"
+      ],
+      "ability": "Retirada",
+      "nature": "Seria",
+      "item": "Chaleco Asalto",
+      "shiny": false,
+      "moves": [
+        "Patada Tropical",
+        "Hachazo Pétreo",
+        "Fiebre Dorada",
+        "Viento Plata"
+      ],
+      "iv": [
+        26,
+        30,
+        26,
+        24,
+        30,
+        20
+      ],
+      "ev": [
+        0,
+        7,
+        1,
+        3,
+        1,
+        3
+      ],
+      "abilPool": [
+        "Manto Níveo",
+        "Retirada"
+      ],
+      "abilHidden": [
+        "Ventosas"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 1,
+          "m": "Disparo Espejo"
+        },
+        {
+          "lvl": 1,
+          "m": "Cuerpo Pesado"
+        },
+        {
+          "lvl": 5,
+          "m": "Garra Metal"
+        },
+        {
+          "lvl": 8,
+          "m": "Onda Voltio"
+        },
+        {
+          "lvl": 11,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 14,
+          "m": "Viento Feérico"
+        },
+        {
+          "lvl": 17,
+          "m": "Paliza"
+        },
+        {
+          "lvl": 21,
+          "m": "Disparo Lodo"
+        },
+        {
+          "lvl": 24,
+          "m": "Campo de Niebla"
+        },
+        {
+          "lvl": 27,
+          "m": "Beso Dulce"
+        },
+        {
+          "lvl": 31,
+          "m": "Eco Voz"
+        },
+        {
+          "lvl": 35,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 39,
+          "m": "Giro Bola"
+        },
+        {
+          "lvl": 40,
+          "m": "Puño Bala"
+        },
+        {
+          "lvl": 40,
+          "m": "Embargo"
+        },
+        {
+          "lvl": 40,
+          "m": "Plegaria Lunar"
+        },
+        {
+          "lvl": 42,
+          "m": "Rompecoraza"
+        },
+        {
+          "lvl": 43,
+          "m": "Onda Simple"
+        },
+        {
+          "lvl": 47,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 52,
+          "m": "Bruma Explosiva"
+        },
+        {
+          "lvl": 55,
+          "m": "Puntapié"
+        }
+      ],
+      "tmMoves": [
+        "Ala de Acero",
+        "Alarido",
+        "Arenas Ardientes",
+        "As Oculto",
+        "Asalto Barrera",
+        "Bruma Explosiva",
+        "Chuzos",
+        "Ciclón",
+        "Cura Floral",
+        "Decoración",
+        "Empujón",
+        "Estrujón",
+        "Giro Mortífero",
+        "Golpe Roca",
+        "Hachazo Pétreo",
+        "Halloween",
+        "Hipnosis",
+        "Llave Corsé",
+        "Mirada Heladora",
+        "Palma Rauda",
+        "Piñón Auxiliar",
+        "Planta Feroz",
+        "Pulso de Campo",
+        "Puño Incremento",
+        "Purificación",
+        "Rencor Reprimido",
+        "Represión Metal",
+        "Restricción",
+        "Shuriken de Agua",
+        "Sylveotornado",
+        "Velo Sagrado",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Fuerza Bruta",
+        "Giro Bola",
+        "Fiebre Dorada",
+        "Isofuerza"
+      ],
+      "spriteKey": "TINKATON"
+    },
+    {
       "nickname": "Wryn",
       "species": "Dragalge",
       "level": 56,
@@ -546,11 +546,11 @@
       ],
       "ev": [
         9,
-        41,
-        27,
-        11,
+        48,
+        28,
+        14,
         17,
-        27
+        30
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -708,11 +708,11 @@
       ],
       "ev": [
         2,
-        4,
+        11,
+        3,
+        3,
         2,
-        0,
-        2,
-        5
+        8
       ],
       "abilPool": [
         "Surcavientos",
@@ -831,7 +831,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 55,
+      "level": 56,
       "types": [
         "Psíquico",
         "Volador"
@@ -856,11 +856,11 @@
       ],
       "ev": [
         43,
-        86,
-        52,
-        36,
+        93,
+        53,
+        39,
         47,
-        51
+        54
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -7659,15 +7659,15 @@
   ],
   "captures": [
     {
-      "route": "isla_canela",
-      "where": "Isla Canela",
-      "species": "Tinkaton",
-      "nickname": "Popiruleta",
+      "route": "",
+      "where": "Laboratorio",
+      "species": "Ampharos",
+      "nickname": "Shawn",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 53,
-      "mon": "Tinkaton"
+      "category": "estatico_regalo",
+      "level": 5,
+      "mon": "Ampharos"
     },
     {
       "route": "islas_espuma",
@@ -7681,15 +7681,15 @@
       "mon": "Bisharp"
     },
     {
-      "route": "",
-      "where": "Laboratorio",
-      "species": "Ampharos",
-      "nickname": "Shawn",
+      "route": "isla_canela",
+      "where": "Isla Canela",
+      "species": "Tinkaton",
+      "nickname": "Popiruleta",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Ampharos"
+      "category": "salvaje",
+      "level": 53,
+      "mon": "Tinkaton"
     },
     {
       "route": "ruta_14",
@@ -8243,8 +8243,8 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "isla_canela": true,
       "islas_espuma": true,
+      "isla_canela": true,
       "ruta_14": true,
       "ruta_18": true,
       "monte_moon": true,
@@ -8408,6 +8408,8 @@
       198,
       199,
       201,
+      202,
+      204,
       207,
       209,
       214,
@@ -8455,6 +8457,7 @@
       "Botón Escape",
       "Brazal Firme",
       "Caramelo Furia",
+      "Carbón",
       "Cascabel Alivio",
       "Cascabel Concha",
       "Cenizas Sagradas",
@@ -8475,6 +8478,7 @@
       "Elixir Máximo",
       "Escama Bella",
       "Escama Dragón",
+      "Espada Oxidada",
       "Espray Bucal",
       "Flecha Venenosa",
       "Fósil Garra",
@@ -8490,6 +8494,7 @@
       "Hierba Copia",
       "Hierba Mental",
       "Hueso Grueso",
+      "Incienso Duplo",
       "Incienso Marino",
       "Incubadora",
       "Leche Mu-mu",
@@ -8528,6 +8533,7 @@
       "MT100",
       "MT101",
       "MT102",
+      "MT106",
       "MT108",
       "MT111",
       "MT113",
@@ -8608,6 +8614,7 @@
       "Precisión X",
       "Precisión X 3",
       "Prettyfeather",
+      "Prisma Rojo",
       "Puerro",
       "Radar",
       "Raíz Grande",
@@ -8637,6 +8644,7 @@
       "Surfitem",
       "Tabla Acero",
       "Tabla Bicho",
+      "Tabla Duende",
       "Tabla Linfa",
       "Tabla Pétrea",
       "Tesecreto",
@@ -8645,6 +8653,7 @@
       "Tmagn2",
       "Toxisfera",
       "Ultra Ball",
+      "Vcapsula",
       "Velocidad X 3",
       "Velocidad X 6",
       "Veloz Ball",
@@ -8921,7 +8930,7 @@
       {
         "id": "ADAMANTORB",
         "name": "Diamansfera",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -9011,6 +9020,30 @@
       {
         "id": "BLUNDERPOLICY",
         "name": "Seguro Fallo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PIXIEPLATE",
+        "name": "Tabla Duende",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "RUSTEDSWORD",
+        "name": "Espada Oxidada",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LUCKINCENSE",
+        "name": "Incienso Duplo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "CHARCOAL",
+        "name": "Carbón",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -9195,6 +9228,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "VCapsula",
+        "name": "Vcapsula",
+        "qty": 2,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 18,
@@ -9261,188 +9300,8 @@
         "pocket": "Poké Balls"
       },
       {
-        "id": "TM111",
-        "name": "MT111",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM114",
-        "name": "MT114",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM57",
-        "name": "MT57",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM108",
-        "name": "MT108",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM88",
-        "name": "MT88",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM36",
-        "name": "MT36",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM43",
-        "name": "MT43",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM37",
-        "name": "MT37",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM58",
-        "name": "MT58",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM89",
-        "name": "MT89",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM113",
-        "name": "MT113",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM84",
-        "name": "MT84",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM109",
-        "name": "MT109",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM67",
-        "name": "MT67",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM90",
-        "name": "MT90",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM10",
-        "name": "MT10",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM35",
-        "name": "MT35",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM83",
-        "name": "MT83",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM51",
-        "name": "MT51",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM125",
-        "name": "MT125",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM94",
-        "name": "MT94",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM38",
-        "name": "MT38",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM20",
-        "name": "MT20",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM72",
-        "name": "MT72",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM86",
-        "name": "MT86",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM91",
-        "name": "MT91",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM73",
-        "name": "MT73",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM49",
-        "name": "MT49",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM65",
-        "name": "MT65",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM74",
-        "name": "MT74",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM64",
-        "name": "MT64",
+        "id": "TM03",
+        "name": "MT03",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -9453,56 +9312,8 @@
         "pocket": "MTs y MOs"
       },
       {
-        "id": "TM42",
-        "name": "MT42",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM85",
-        "name": "MT85",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM81",
-        "name": "MT81",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM98",
-        "name": "MT98",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM55",
-        "name": "MT55",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM15",
-        "name": "MT15",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM102",
-        "name": "MT102",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM59",
-        "name": "MT59",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM12",
-        "name": "MT12",
+        "id": "TM05",
+        "name": "MT05",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -9513,140 +9324,20 @@
         "pocket": "MTs y MOs"
       },
       {
-        "id": "TM53",
-        "name": "MT53",
+        "id": "TM07",
+        "name": "MT07",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
       {
-        "id": "TM44",
-        "name": "MT44",
+        "id": "TM10",
+        "name": "MT10",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
       {
-        "id": "TM62",
-        "name": "MT62",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM46",
-        "name": "MT46",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM99",
-        "name": "MT99",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM14",
-        "name": "MT14",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM31",
-        "name": "MT31",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM27",
-        "name": "MT27",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM105",
-        "name": "MT105",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM101",
-        "name": "MT101",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM30",
-        "name": "MT30",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM123",
-        "name": "MT123",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM100",
-        "name": "MT100",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM16",
-        "name": "MT16",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM03",
-        "name": "MT03",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM19",
-        "name": "MT19",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM122",
-        "name": "MT122",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM47",
-        "name": "MT47",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM80",
-        "name": "MT80",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM17",
-        "name": "MT17",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM39",
-        "name": "MT39",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM21",
-        "name": "MT21",
-        "qty": 1,
-        "pocket": "MTs y MOs"
-      },
-      {
-        "id": "TM05",
-        "name": "MT05",
+        "id": "TM12",
+        "name": "MT12",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -9657,20 +9348,92 @@
         "pocket": "MTs y MOs"
       },
       {
-        "id": "TM82",
-        "name": "MT82",
+        "id": "TM14",
+        "name": "MT14",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
       {
-        "id": "TM95",
-        "name": "MT95",
+        "id": "TM15",
+        "name": "MT15",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
       {
-        "id": "TM63",
-        "name": "MT63",
+        "id": "TM16",
+        "name": "MT16",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM17",
+        "name": "MT17",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM19",
+        "name": "MT19",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM20",
+        "name": "MT20",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM21",
+        "name": "MT21",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM27",
+        "name": "MT27",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM30",
+        "name": "MT30",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM31",
+        "name": "MT31",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM35",
+        "name": "MT35",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM36",
+        "name": "MT36",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM37",
+        "name": "MT37",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM38",
+        "name": "MT38",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM39",
+        "name": "MT39",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -9681,14 +9444,104 @@
         "pocket": "MTs y MOs"
       },
       {
-        "id": "TM07",
-        "name": "MT07",
+        "id": "TM42",
+        "name": "MT42",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
       {
-        "id": "TM87",
-        "name": "MT87",
+        "id": "TM43",
+        "name": "MT43",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM44",
+        "name": "MT44",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM46",
+        "name": "MT46",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM47",
+        "name": "MT47",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM49",
+        "name": "MT49",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM51",
+        "name": "MT51",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM53",
+        "name": "MT53",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM54",
+        "name": "MT54",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM55",
+        "name": "MT55",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM57",
+        "name": "MT57",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM58",
+        "name": "MT58",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM59",
+        "name": "MT59",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM62",
+        "name": "MT62",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM63",
+        "name": "MT63",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM64",
+        "name": "MT64",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM65",
+        "name": "MT65",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -9699,8 +9552,200 @@
         "pocket": "MTs y MOs"
       },
       {
-        "id": "TM54",
-        "name": "MT54",
+        "id": "TM67",
+        "name": "MT67",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM72",
+        "name": "MT72",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM73",
+        "name": "MT73",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM74",
+        "name": "MT74",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM80",
+        "name": "MT80",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM81",
+        "name": "MT81",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM82",
+        "name": "MT82",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM83",
+        "name": "MT83",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM84",
+        "name": "MT84",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM85",
+        "name": "MT85",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM86",
+        "name": "MT86",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM87",
+        "name": "MT87",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM88",
+        "name": "MT88",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM89",
+        "name": "MT89",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM90",
+        "name": "MT90",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM91",
+        "name": "MT91",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM94",
+        "name": "MT94",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM95",
+        "name": "MT95",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM98",
+        "name": "MT98",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM99",
+        "name": "MT99",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM100",
+        "name": "MT100",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM101",
+        "name": "MT101",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM102",
+        "name": "MT102",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM105",
+        "name": "MT105",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM106",
+        "name": "MT106",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM108",
+        "name": "MT108",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM109",
+        "name": "MT109",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM111",
+        "name": "MT111",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM113",
+        "name": "MT113",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM114",
+        "name": "MT114",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM122",
+        "name": "MT122",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM123",
+        "name": "MT123",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM125",
+        "name": "MT125",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -9719,7 +9764,7 @@
       {
         "id": "LEPPABERRY",
         "name": "Baya Zanama",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Bayas"
       },
       {
@@ -9851,6 +9896,12 @@
       {
         "id": "SLOWBRONITE",
         "name": "Slowbronita",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
+        "id": "REDORB",
+        "name": "Prisma Rojo",
         "qty": 1,
         "pocket": "Piedras Mega"
       },
