@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 15h 2m jugadas · 243,520₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 15h 4m jugadas · 243,520₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Shawn",
@@ -36,7 +36,7 @@
         138,
         72,
         63,
-        67,
+        68,
         84
       ],
       "abilPool": [
@@ -216,7 +216,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ],
       "abilPool": [
@@ -376,7 +376,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ],
       "abilPool": [
@@ -549,7 +549,7 @@
         88,
         32,
         37,
-        49,
+        50,
         46
       ],
       "abilPool": [
@@ -719,7 +719,7 @@
         4,
         2,
         0,
-        1,
+        2,
         5
       ],
       "abilPool": [
@@ -850,7 +850,7 @@
         41,
         27,
         11,
-        16,
+        17,
         27
       ],
       "abilPool": [
@@ -5795,6 +5795,117 @@
       "spriteKey": "ARCTOZOLT"
     },
     {
+      "nickname": "Fantasmiko",
+      "species": "Misdreavus",
+      "level": 54,
+      "types": [
+        "Fantasma"
+      ],
+      "ability": "Espada Indómita",
+      "nature": "Alocada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cañón Floral",
+        "Lanzarrocas",
+        "Absorbefuerza",
+        "Amago"
+      ],
+      "iv": [
+        26,
+        5,
+        13,
+        19,
+        29,
+        20
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Espada Indómita"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 1,
+          "m": "Armadura Ácida"
+        },
+        {
+          "lvl": 1,
+          "m": "Disparo Demora"
+        },
+        {
+          "lvl": 5,
+          "m": "Mandato"
+        },
+        {
+          "lvl": 10,
+          "m": "Ojitos Tiernos"
+        },
+        {
+          "lvl": 14,
+          "m": "Lengüetazo"
+        },
+        {
+          "lvl": 19,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 23,
+          "m": "Clonatipo"
+        },
+        {
+          "lvl": 28,
+          "m": "Ladrón"
+        },
+        {
+          "lvl": 32,
+          "m": "Campo de Niebla"
+        },
+        {
+          "lvl": 37,
+          "m": "Plumerazo"
+        },
+        {
+          "lvl": 37,
+          "m": "Maldición"
+        },
+        {
+          "lvl": 41,
+          "m": "Cañón Floral"
+        },
+        {
+          "lvl": 46,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 50,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 50,
+          "m": "Amago"
+        }
+      ],
+      "firstMoves": [
+        "Cañón Floral",
+        "Lanzarrocas",
+        "Absorbefuerza",
+        "Amago"
+      ],
+      "spriteKey": "MISDREAVUS"
+    },
+    {
       "nickname": "Okidogi",
       "species": "Okidogi",
       "level": 48,
@@ -7943,6 +8054,17 @@
       "mon": "Arctozolt"
     },
     {
+      "route": "mansion_quemada",
+      "where": "Mansión Quemada",
+      "species": "Misdreavus",
+      "nickname": "Fantasmiko",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 54,
+      "mon": "Misdreavus"
+    },
+    {
       "route": "",
       "where": "Estación del Magnetotrén",
       "species": "Okidogi",
@@ -8104,6 +8226,7 @@
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
       "ruta_9": true,
+      "mansion_quemada": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_16": true,
@@ -8162,7 +8285,8 @@
       "ciudad_azafran": true,
       "ruta_18": true,
       "islas_espuma": true,
-      "isla_canela": true
+      "isla_canela": true,
+      "mansion_quemada": true
     },
     "switches": [
       48,
@@ -9076,7 +9200,7 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 15,
+        "qty": 14,
         "pocket": "Poké Balls"
       },
       {
