@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 16h 20m jugadas · 302,930₽ · vidas en el juego: 14",
+  "notes": "Importado del save · 16h 27m jugadas · 309,680₽ · vidas en el juego: 14",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -33,12 +33,12 @@
         20
       ],
       "ev": [
-        4,
-        32,
-        3,
-        11,
-        1,
-        18
+        10,
+        33,
+        6,
+        12,
+        2,
+        24
       ],
       "abilPool": [
         "Manto Níveo",
@@ -392,12 +392,12 @@
         0
       ],
       "ev": [
-        4,
-        32,
-        3,
-        11,
-        1,
-        18
+        10,
+        33,
+        6,
+        12,
+        2,
+        24
       ],
       "abilPool": [
         "Recogebolas",
@@ -554,12 +554,12 @@
         2
       ],
       "ev": [
-        1,
-        38,
-        8,
-        8,
-        5,
-        16
+        7,
+        39,
+        11,
+        9,
+        6,
+        22
       ],
       "abilPool": [
         "Electromotor",
@@ -721,12 +721,12 @@
         20
       ],
       "ev": [
-        47,
-        118,
-        55,
-        47,
-        47,
-        69
+        53,
+        119,
+        58,
+        48,
+        48,
+        75
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -875,12 +875,12 @@
         22
       ],
       "ev": [
-        13,
-        73,
-        30,
-        22,
-        17,
-        45
+        19,
+        74,
+        33,
+        23,
+        18,
+        51
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -3588,6 +3588,132 @@
       ],
       "spriteKey": "ARCTOZOLT",
       "dup": true
+    },
+    {
+      "nickname": "Mascara",
+      "species": "Spiritomb",
+      "level": 44,
+      "types": [
+        "Fantasma",
+        "Siniestro"
+      ],
+      "ability": "Cobardía",
+      "nature": "Rara",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Golpes Furia",
+        "Guillotina",
+        "Buena Baza",
+        "Foco"
+      ],
+      "iv": [
+        17,
+        6,
+        17,
+        26,
+        19,
+        13
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Cobardía"
+      ],
+      "abilHidden": [
+        "Floración"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Mil Púas Tóxicas"
+        },
+        {
+          "lvl": 1,
+          "m": "Ladrón"
+        },
+        {
+          "lvl": 1,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 5,
+          "m": "Rastreo"
+        },
+        {
+          "lvl": 7,
+          "m": "Llanto Falso"
+        },
+        {
+          "lvl": 10,
+          "m": "Cambiavelocidad"
+        },
+        {
+          "lvl": 15,
+          "m": "Trampa Venenosa"
+        },
+        {
+          "lvl": 20,
+          "m": "Abrecaminos"
+        },
+        {
+          "lvl": 25,
+          "m": "Pesadilla"
+        },
+        {
+          "lvl": 25,
+          "m": "Golpes Furia"
+        },
+        {
+          "lvl": 30,
+          "m": "Guillotina"
+        },
+        {
+          "lvl": 35,
+          "m": "Buena Baza"
+        },
+        {
+          "lvl": 40,
+          "m": "Foco"
+        },
+        {
+          "lvl": 45,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 50,
+          "m": "Fuerza"
+        },
+        {
+          "lvl": 53,
+          "m": "Martillo Colosal"
+        },
+        {
+          "lvl": 55,
+          "m": "Garra Umbría"
+        },
+        {
+          "lvl": 55,
+          "m": "Asalto Estelar"
+        },
+        {
+          "lvl": 60,
+          "m": "Última Palabra"
+        }
+      ],
+      "firstMoves": [
+        "Golpes Furia",
+        "Guillotina",
+        "Buena Baza",
+        "Foco"
+      ],
+      "spriteKey": "SPIRITOMB"
     },
     {
       "nickname": "Mariconada",
@@ -8247,6 +8373,17 @@
       "mon": "Arctozolt"
     },
     {
+      "route": "",
+      "where": "Camino de Bicis",
+      "species": "Spiritomb",
+      "nickname": "Mascara",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 44,
+      "mon": "Spiritomb"
+    },
+    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Floette",
@@ -8711,6 +8848,7 @@
       105,
       106,
       107,
+      108,
       110,
       112,
       113,
@@ -8836,6 +8974,7 @@
       "Gema Normal",
       "Gema Psíquica",
       "Gema Roca",
+      "Gema Siniestra",
       "Globo Helio",
       "Hierba Copia",
       "Hierba Mental",
@@ -9411,6 +9550,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "DARKGEM",
+        "name": "Gema Siniestra",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -9641,7 +9786,7 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 13,
+        "qty": 12,
         "pocket": "Poké Balls"
       },
       {
@@ -10343,7 +10488,7 @@
       {
         "id": "POKETOY",
         "name": "Pokéseñuelo",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos de combate"
       },
       {
