@@ -4,342 +4,12 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 14h 24m jugadas · 230,170₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 14h 36m jugadas · 243,520₽ · vidas en el juego: 15",
   "team": [
-    {
-      "nickname": "Orioleeeet",
-      "species": "Dragonite",
-      "level": 55,
-      "types": [
-        "Dragón",
-        "Volador"
-      ],
-      "ability": "Rompeaura",
-      "nature": "Pícara",
-      "item": "Seguro Debilidad",
-      "shiny": false,
-      "moves": [
-        "Caída Libre",
-        "Dracoflechas",
-        "Terremoto",
-        "Respiro"
-      ],
-      "iv": [
-        4,
-        12,
-        8,
-        5,
-        23,
-        26
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
-      ],
-      "abilPool": [
-        "Rompeaura"
-      ],
-      "abilHidden": [
-        "Ojo Compuesto"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Batido"
-        },
-        {
-          "lvl": 1,
-          "m": "Bomba Ácida"
-        },
-        {
-          "lvl": 1,
-          "m": "Estruendo Escama"
-        },
-        {
-          "lvl": 1,
-          "m": "Atracción"
-        },
-        {
-          "lvl": 1,
-          "m": "Afilar"
-        },
-        {
-          "lvl": 1,
-          "m": "Despejar"
-        },
-        {
-          "lvl": 1,
-          "m": "Poder Místico"
-        },
-        {
-          "lvl": 1,
-          "m": "Desarrollo"
-        },
-        {
-          "lvl": 1,
-          "m": "Nitrocarga"
-        },
-        {
-          "lvl": 1,
-          "m": "Granizo"
-        },
-        {
-          "lvl": 15,
-          "m": "Aire Afilado"
-        },
-        {
-          "lvl": 15,
-          "m": "Hora del Té"
-        },
-        {
-          "lvl": 20,
-          "m": "Respiro"
-        },
-        {
-          "lvl": 25,
-          "m": "Gas Venenoso"
-        },
-        {
-          "lvl": 33,
-          "m": "Asalto Espadón"
-        },
-        {
-          "lvl": 39,
-          "m": "Hachazo Pétreo"
-        },
-        {
-          "lvl": 41,
-          "m": "Caída Libre"
-        },
-        {
-          "lvl": 46,
-          "m": "Retribución"
-        },
-        {
-          "lvl": 53,
-          "m": "Dracoflechas"
-        },
-        {
-          "lvl": 58,
-          "m": "Puño Meteoro"
-        },
-        {
-          "lvl": 62,
-          "m": "Mundo Gélido"
-        },
-        {
-          "lvl": 80,
-          "m": "Tijera X"
-        }
-      ],
-      "tmMoves": [
-        "Anulación",
-        "Arrumaco",
-        "Asalto Barrera",
-        "Barrera",
-        "Bruma Explosiva",
-        "Burbuja",
-        "Carga Parábola",
-        "Cura Floral",
-        "Danza Aleteo",
-        "Decalcomanía",
-        "Deslome",
-        "Eco Metálico",
-        "Fotocolisión",
-        "Fuerza G",
-        "Giro Mortífero",
-        "Hachazo Pétreo",
-        "Halloween",
-        "Mirada Heladora",
-        "Onda Certera",
-        "Ovocuración",
-        "Planta Feroz",
-        "Psicocarga",
-        "Pulso de Campo",
-        "Purificación",
-        "Represión Metal",
-        "Restricción",
-        "Shuriken de Agua",
-        "Tajo Aéreo",
-        "Terremoto",
-        "Vendetta"
-      ],
-      "firstMoves": [
-        "Asalto Espadón",
-        "Hachazo Pétreo",
-        "Caída Libre",
-        "Retribución"
-      ],
-      "spriteKey": "DRAGONITE"
-    },
-    {
-      "nickname": "Wryn",
-      "species": "Dragalge",
-      "level": 55,
-      "types": [
-        "Veneno",
-        "Dragón"
-      ],
-      "ability": "Cuerpo Horneado",
-      "nature": "Serena",
-      "item": "Dragalgite",
-      "shiny": false,
-      "moves": [
-        "Onda Tóxica",
-        "Mirada Heladora",
-        "Rencor Reprimido",
-        "Disparo Espejo"
-      ],
-      "iv": [
-        7,
-        19,
-        19,
-        14,
-        21,
-        22
-      ],
-      "ev": [
-        7,
-        37,
-        25,
-        11,
-        15,
-        22
-      ],
-      "abilPool": [
-        "Cuerpo Horneado",
-        "Peluche"
-      ],
-      "abilHidden": [
-        "Transportarrocas"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Eco Voz"
-        },
-        {
-          "lvl": 1,
-          "m": "Ciclón"
-        },
-        {
-          "lvl": 1,
-          "m": "Bramido Dragón"
-        },
-        {
-          "lvl": 1,
-          "m": "Gas Venenoso"
-        },
-        {
-          "lvl": 1,
-          "m": "Intercambio"
-        },
-        {
-          "lvl": 1,
-          "m": "Fanfarronear"
-        },
-        {
-          "lvl": 5,
-          "m": "Niebla Clara"
-        },
-        {
-          "lvl": 12,
-          "m": "Sol Matinal"
-        },
-        {
-          "lvl": 15,
-          "m": "Disparo Espejo"
-        },
-        {
-          "lvl": 19,
-          "m": "Relevo"
-        },
-        {
-          "lvl": 20,
-          "m": "Conversión"
-        },
-        {
-          "lvl": 25,
-          "m": "Gas Corrosivo"
-        },
-        {
-          "lvl": 30,
-          "m": "Última Palabra"
-        },
-        {
-          "lvl": 35,
-          "m": "Clorofiláser"
-        },
-        {
-          "lvl": 40,
-          "m": "Vasto Impacto"
-        },
-        {
-          "lvl": 45,
-          "m": "Nieve Polvo"
-        },
-        {
-          "lvl": 52,
-          "m": "Carga Dragón"
-        },
-        {
-          "lvl": 59,
-          "m": "Follaje"
-        },
-        {
-          "lvl": 66,
-          "m": "Garra Dragón"
-        }
-      ],
-      "tmMoves": [
-        "Alboroto",
-        "Arrumaco",
-        "As Oculto",
-        "Asalto Barrera",
-        "Barrera",
-        "Bloqueo",
-        "Bomba Ácida",
-        "Cambiavelocidad",
-        "Carga Parábola",
-        "Ciclón",
-        "Clavo Cañón",
-        "Decalcomanía",
-        "Eco Metálico",
-        "Empujón",
-        "Estrujón",
-        "Fotocolisión",
-        "Fuerza G",
-        "Granizo",
-        "Láser Doble",
-        "Mirada Heladora",
-        "Onda Tóxica",
-        "Piñón Auxiliar",
-        "Psicocarga",
-        "Púas",
-        "Pulso de Campo",
-        "Puño Incremento",
-        "Rencor Reprimido",
-        "Retribución",
-        "Shuriken de Agua",
-        "Velo Sagrado",
-        "Vendetta"
-      ],
-      "firstMoves": [
-        "Gas Corrosivo",
-        "Última Palabra",
-        "Clorofiláser",
-        "Vasto Impacto"
-      ],
-      "spriteKey": "DRAGALGE"
-    },
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 55,
+      "level": 56,
       "types": [
         "Eléctrico"
       ],
@@ -362,12 +32,12 @@
         19
       ],
       "ev": [
-        59,
-        134,
-        70,
+        61,
+        138,
+        72,
         63,
-        66,
-        79
+        67,
+        84
       ],
       "abilPool": [
         "Cuerpo Maldito"
@@ -515,9 +185,339 @@
       "spriteKey": "AMPHAROS"
     },
     {
+      "nickname": "Wryn",
+      "species": "Dragalge",
+      "level": 56,
+      "types": [
+        "Veneno",
+        "Dragón"
+      ],
+      "ability": "Cuerpo Horneado",
+      "nature": "Serena",
+      "item": "Dragalgite",
+      "shiny": false,
+      "moves": [
+        "Onda Tóxica",
+        "Mirada Heladora",
+        "Rencor Reprimido",
+        "Disparo Espejo"
+      ],
+      "iv": [
+        7,
+        19,
+        19,
+        14,
+        21,
+        22
+      ],
+      "ev": [
+        9,
+        41,
+        27,
+        11,
+        16,
+        27
+      ],
+      "abilPool": [
+        "Cuerpo Horneado",
+        "Peluche"
+      ],
+      "abilHidden": [
+        "Transportarrocas"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Eco Voz"
+        },
+        {
+          "lvl": 1,
+          "m": "Ciclón"
+        },
+        {
+          "lvl": 1,
+          "m": "Bramido Dragón"
+        },
+        {
+          "lvl": 1,
+          "m": "Gas Venenoso"
+        },
+        {
+          "lvl": 1,
+          "m": "Intercambio"
+        },
+        {
+          "lvl": 1,
+          "m": "Fanfarronear"
+        },
+        {
+          "lvl": 5,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 12,
+          "m": "Sol Matinal"
+        },
+        {
+          "lvl": 15,
+          "m": "Disparo Espejo"
+        },
+        {
+          "lvl": 19,
+          "m": "Relevo"
+        },
+        {
+          "lvl": 20,
+          "m": "Conversión"
+        },
+        {
+          "lvl": 25,
+          "m": "Gas Corrosivo"
+        },
+        {
+          "lvl": 30,
+          "m": "Última Palabra"
+        },
+        {
+          "lvl": 35,
+          "m": "Clorofiláser"
+        },
+        {
+          "lvl": 40,
+          "m": "Vasto Impacto"
+        },
+        {
+          "lvl": 45,
+          "m": "Nieve Polvo"
+        },
+        {
+          "lvl": 52,
+          "m": "Carga Dragón"
+        },
+        {
+          "lvl": 59,
+          "m": "Follaje"
+        },
+        {
+          "lvl": 66,
+          "m": "Garra Dragón"
+        }
+      ],
+      "tmMoves": [
+        "Alboroto",
+        "Arrumaco",
+        "As Oculto",
+        "Asalto Barrera",
+        "Barrera",
+        "Bloqueo",
+        "Bomba Ácida",
+        "Cambiavelocidad",
+        "Carga Parábola",
+        "Ciclón",
+        "Clavo Cañón",
+        "Decalcomanía",
+        "Eco Metálico",
+        "Empujón",
+        "Estrujón",
+        "Fotocolisión",
+        "Fuerza G",
+        "Granizo",
+        "Láser Doble",
+        "Mirada Heladora",
+        "Onda Tóxica",
+        "Piñón Auxiliar",
+        "Psicocarga",
+        "Púas",
+        "Pulso de Campo",
+        "Puño Incremento",
+        "Rencor Reprimido",
+        "Retribución",
+        "Shuriken de Agua",
+        "Velo Sagrado",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Gas Corrosivo",
+        "Última Palabra",
+        "Clorofiláser",
+        "Vasto Impacto"
+      ],
+      "spriteKey": "DRAGALGE"
+    },
+    {
+      "nickname": "Orioleeeet",
+      "species": "Dragonite",
+      "level": 55,
+      "types": [
+        "Dragón",
+        "Volador"
+      ],
+      "ability": "Rompeaura",
+      "nature": "Pícara",
+      "item": "Seguro Debilidad",
+      "shiny": false,
+      "moves": [
+        "Caída Libre",
+        "Dracoflechas",
+        "Terremoto",
+        "Respiro"
+      ],
+      "iv": [
+        4,
+        12,
+        8,
+        5,
+        23,
+        26
+      ],
+      "ev": [
+        2,
+        4,
+        2,
+        0,
+        1,
+        6
+      ],
+      "abilPool": [
+        "Rompeaura"
+      ],
+      "abilHidden": [
+        "Ojo Compuesto"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Batido"
+        },
+        {
+          "lvl": 1,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 1,
+          "m": "Estruendo Escama"
+        },
+        {
+          "lvl": 1,
+          "m": "Atracción"
+        },
+        {
+          "lvl": 1,
+          "m": "Afilar"
+        },
+        {
+          "lvl": 1,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 1,
+          "m": "Poder Místico"
+        },
+        {
+          "lvl": 1,
+          "m": "Desarrollo"
+        },
+        {
+          "lvl": 1,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 1,
+          "m": "Granizo"
+        },
+        {
+          "lvl": 15,
+          "m": "Aire Afilado"
+        },
+        {
+          "lvl": 15,
+          "m": "Hora del Té"
+        },
+        {
+          "lvl": 20,
+          "m": "Respiro"
+        },
+        {
+          "lvl": 25,
+          "m": "Gas Venenoso"
+        },
+        {
+          "lvl": 33,
+          "m": "Asalto Espadón"
+        },
+        {
+          "lvl": 39,
+          "m": "Hachazo Pétreo"
+        },
+        {
+          "lvl": 41,
+          "m": "Caída Libre"
+        },
+        {
+          "lvl": 46,
+          "m": "Retribución"
+        },
+        {
+          "lvl": 53,
+          "m": "Dracoflechas"
+        },
+        {
+          "lvl": 58,
+          "m": "Puño Meteoro"
+        },
+        {
+          "lvl": 62,
+          "m": "Mundo Gélido"
+        },
+        {
+          "lvl": 80,
+          "m": "Tijera X"
+        }
+      ],
+      "tmMoves": [
+        "Anulación",
+        "Arrumaco",
+        "Asalto Barrera",
+        "Barrera",
+        "Bruma Explosiva",
+        "Burbuja",
+        "Carga Parábola",
+        "Cura Floral",
+        "Danza Aleteo",
+        "Decalcomanía",
+        "Deslome",
+        "Eco Metálico",
+        "Fotocolisión",
+        "Fuerza G",
+        "Giro Mortífero",
+        "Hachazo Pétreo",
+        "Halloween",
+        "Mirada Heladora",
+        "Onda Certera",
+        "Ovocuración",
+        "Planta Feroz",
+        "Psicocarga",
+        "Pulso de Campo",
+        "Purificación",
+        "Represión Metal",
+        "Restricción",
+        "Shuriken de Agua",
+        "Tajo Aéreo",
+        "Terremoto",
+        "Vendetta"
+      ],
+      "firstMoves": [
+        "Asalto Espadón",
+        "Hachazo Pétreo",
+        "Caída Libre",
+        "Retribución"
+      ],
+      "spriteKey": "DRAGONITE"
+    },
+    {
       "nickname": "Mocardo",
       "species": "Muk (Alola)",
-      "level": 55,
+      "level": 56,
       "types": [
         "Veneno",
         "Siniestro"
@@ -541,12 +541,12 @@
         26
       ],
       "ev": [
+        39,
+        88,
+        32,
         37,
-        84,
-        30,
-        37,
-        48,
-        41
+        49,
+        46
       ],
       "abilPool": [
         "Mudar",
@@ -711,12 +711,12 @@
         23
       ],
       "ev": [
+        2,
+        4,
+        2,
         0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1,
+        5
       ],
       "abilPool": [
         "Surcavientos",
@@ -804,6 +804,7 @@
         }
       ],
       "tmMoves": [
+        "Burbuja",
         "Púas"
       ],
       "firstMoves": [
@@ -841,12 +842,12 @@
         20
       ],
       "ev": [
-        41,
-        82,
-        50,
+        43,
+        86,
+        52,
         36,
-        46,
-        46
+        47,
+        51
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -4795,6 +4796,244 @@
       "spriteKey": "DONDOZO"
     },
     {
+      "nickname": "Gambito",
+      "species": "Pawniard",
+      "level": 52,
+      "types": [
+        "Siniestro",
+        "Acero"
+      ],
+      "ability": "Calco",
+      "nature": "Afable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Avivar",
+        "Llanto Falso",
+        "Quemarrueda",
+        "Escalofrío"
+      ],
+      "iv": [
+        15,
+        24,
+        23,
+        26,
+        15,
+        0
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Piel Eléctrica",
+        "Calco"
+      ],
+      "abilHidden": [
+        "Velo Agua"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cambiapoder"
+        },
+        {
+          "lvl": 1,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 5,
+          "m": "Cuerpo Pesado"
+        },
+        {
+          "lvl": 10,
+          "m": "Voz Cautivadora"
+        },
+        {
+          "lvl": 15,
+          "m": "Giro Bola"
+        },
+        {
+          "lvl": 17,
+          "m": "Última Palabra"
+        },
+        {
+          "lvl": 20,
+          "m": "Defensa Férrea"
+        },
+        {
+          "lvl": 25,
+          "m": "Caída Libre"
+        },
+        {
+          "lvl": 30,
+          "m": "Cuchillada"
+        },
+        {
+          "lvl": 35,
+          "m": "Chuzos"
+        },
+        {
+          "lvl": 40,
+          "m": "Deslizamiento"
+        },
+        {
+          "lvl": 41,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 45,
+          "m": "Llanto Falso"
+        },
+        {
+          "lvl": 50,
+          "m": "Quemarrueda"
+        },
+        {
+          "lvl": 50,
+          "m": "Escalofrío"
+        },
+        {
+          "lvl": 55,
+          "m": "Plancha Voladora"
+        },
+        {
+          "lvl": 60,
+          "m": "Géiser Fotónico"
+        },
+        {
+          "lvl": 65,
+          "m": "Filo del Abismo"
+        }
+      ],
+      "firstMoves": [
+        "Avivar",
+        "Llanto Falso",
+        "Quemarrueda",
+        "Escalofrío"
+      ],
+      "spriteKey": "PAWNIARD"
+    },
+    {
+      "nickname": "Popiruleta",
+      "species": "Tinkatink",
+      "level": 53,
+      "types": [
+        "Hada",
+        "Acero"
+      ],
+      "ability": "Hélice Caudal",
+      "nature": "Seria",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Fuerza Bruta",
+        "Giro Bola",
+        "Fiebre Dorada",
+        "Isofuerza"
+      ],
+      "iv": [
+        26,
+        30,
+        26,
+        24,
+        30,
+        20
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Irascible",
+        "Hélice Caudal"
+      ],
+      "abilHidden": [
+        "Cambio Color"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Refugio"
+        },
+        {
+          "lvl": 1,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 5,
+          "m": "Respiro"
+        },
+        {
+          "lvl": 8,
+          "m": "Luz Lunar"
+        },
+        {
+          "lvl": 11,
+          "m": "Patada Tropical"
+        },
+        {
+          "lvl": 14,
+          "m": "Hidropulso"
+        },
+        {
+          "lvl": 17,
+          "m": "Hierba Lazo"
+        },
+        {
+          "lvl": 21,
+          "m": "Viento Feérico"
+        },
+        {
+          "lvl": 24,
+          "m": "Tajo Acuático"
+        },
+        {
+          "lvl": 27,
+          "m": "Corte"
+        },
+        {
+          "lvl": 31,
+          "m": "Carantoña"
+        },
+        {
+          "lvl": 35,
+          "m": "Ataque Aéreo"
+        },
+        {
+          "lvl": 39,
+          "m": "Fuerza Bruta"
+        },
+        {
+          "lvl": 43,
+          "m": "Giro Bola"
+        },
+        {
+          "lvl": 47,
+          "m": "Fiebre Dorada"
+        },
+        {
+          "lvl": 52,
+          "m": "Isofuerza"
+        }
+      ],
+      "firstMoves": [
+        "Fuerza Bruta",
+        "Giro Bola",
+        "Fiebre Dorada",
+        "Isofuerza"
+      ],
+      "spriteKey": "TINKATINK"
+    },
+    {
       "nickname": "Mariconada",
       "species": "Floette",
       "level": 21,
@@ -6927,14 +7166,14 @@
   "captures": [
     {
       "route": "",
-      "where": "Dojo Azafrán",
-      "species": "Dragonite",
-      "nickname": "Orioleeeet",
+      "where": "Laboratorio",
+      "species": "Ampharos",
+      "nickname": "Shawn",
       "shiny": false,
       "status": "captured",
       "category": "estatico_regalo",
-      "level": 50,
-      "mon": "Dragonite"
+      "level": 5,
+      "mon": "Ampharos"
     },
     {
       "route": "ruta_14",
@@ -6949,14 +7188,14 @@
     },
     {
       "route": "",
-      "where": "Laboratorio",
-      "species": "Ampharos",
-      "nickname": "Shawn",
+      "where": "Dojo Azafrán",
+      "species": "Dragonite",
+      "nickname": "Orioleeeet",
       "shiny": false,
       "status": "captured",
       "category": "estatico_regalo",
-      "level": 5,
-      "mon": "Ampharos"
+      "level": 50,
+      "mon": "Dragonite"
     },
     {
       "route": "ruta_15",
@@ -7289,6 +7528,28 @@
       "mon": "Dondozo"
     },
     {
+      "route": "islas_espuma",
+      "where": "Islas Espuma",
+      "species": "Pawniard",
+      "nickname": "Gambito",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 52,
+      "mon": "Pawniard"
+    },
+    {
+      "route": "isla_canela",
+      "where": "Isla Canela",
+      "species": "Tinkatink",
+      "nickname": "Popiruleta",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 53,
+      "mon": "Tinkatink"
+    },
+    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Floette",
@@ -7478,6 +7739,8 @@
       "ruta_5": true,
       "ruta_3": true,
       "ruta_10_sur": true,
+      "islas_espuma": true,
+      "isla_canela": true,
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
       "ruta_9": true,
@@ -7537,7 +7800,9 @@
       "ruta_16": true,
       "ruta_17": true,
       "ciudad_azafran": true,
-      "ruta_18": true
+      "ruta_18": true,
+      "islas_espuma": true,
+      "isla_canela": true
     },
     "switches": [
       48,
@@ -7661,6 +7926,7 @@
       "Botón Escape",
       "Brazal Firme",
       "Caramelo Furia",
+      "Cascabel Alivio",
       "Cascabel Concha",
       "Cenizas Sagradas",
       "Chaleco Asalto",
@@ -7828,6 +8094,7 @@
       "Scizorita",
       "Seguro Debilidad",
       "Semilla Bruma",
+      "Semilla Hierba",
       "Servicio Raro",
       "Shinyzador",
       "Slowbronita",
@@ -8204,6 +8471,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "GRASSYSEED",
+        "name": "Semilla Hierba",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SOOTHEBELL",
+        "name": "Cascabel Alivio",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -8338,7 +8617,7 @@
       {
         "id": "IMPISHMINT",
         "name": "Menta Agitada",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -8416,7 +8695,7 @@
       {
         "id": "LEVELBALL",
         "name": "Nivel Ball",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Poké Balls"
       },
       {
@@ -8428,13 +8707,13 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 17,
+        "qty": 15,
         "pocket": "Poké Balls"
       },
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 23,
+        "qty": 22,
         "pocket": "Poké Balls"
       },
       {
@@ -8902,7 +9181,7 @@
       {
         "id": "ASPEARBERRY",
         "name": "Baya Perasi",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Bayas"
       },
       {
