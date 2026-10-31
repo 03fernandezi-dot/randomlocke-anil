@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 16h 35m jugadas · 313,810₽ · vidas en el juego: 14",
+  "notes": "Importado del save · 16h 36m jugadas · 317,745₽ · vidas en el juego: 14",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -34,10 +34,10 @@
       ],
       "ev": [
         10,
-        36,
+        38,
         6,
         14,
-        2,
+        6,
         24
       ],
       "abilPool": [
@@ -393,10 +393,10 @@
       ],
       "ev": [
         10,
-        36,
+        38,
         6,
         14,
-        2,
+        6,
         24
       ],
       "abilPool": [
@@ -554,10 +554,10 @@
       ],
       "ev": [
         53,
-        122,
+        124,
         58,
         50,
-        48,
+        52,
         75
       ],
       "abilPool": [
@@ -709,10 +709,10 @@
       ],
       "ev": [
         7,
-        42,
+        44,
         11,
         11,
-        6,
+        10,
         22
       ],
       "abilPool": [
@@ -876,10 +876,10 @@
       ],
       "ev": [
         19,
-        77,
+        79,
         33,
         25,
-        18,
+        22,
         51
       ],
       "abilPool": [
@@ -9306,6 +9306,7 @@
       "Supercaña",
       "Supercápsula",
       "Supereviolita",
+      "Superpoción",
       "Superrepelente",
       "Surfitem",
       "Tabla Acero",
@@ -9914,6 +9915,12 @@
       {
         "id": "ENERGYROOT",
         "name": "Raíz Energía",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "SUPERPOTION",
+        "name": "Superpoción",
         "qty": 1,
         "pocket": "Medicinas"
       },
