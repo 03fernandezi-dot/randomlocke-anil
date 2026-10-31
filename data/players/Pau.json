@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 17h 6m jugadas · 357,575₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 17h 12m jugadas · 370,035₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
       "species": "Tinkaton",
-      "level": 62,
+      "level": 63,
       "types": [
         "Hada",
         "Acero"
@@ -36,11 +36,11 @@
       ],
       "ev": [
         18,
-        51,
+        53,
         10,
+        18,
         16,
-        12,
-        34
+        42
       ],
       "abilPool": [
         "Manto Níveo",
@@ -216,11 +216,11 @@
       ],
       "ev": [
         61,
-        137,
+        139,
         62,
-        52,
-        58,
-        85
+        54,
+        62,
+        93
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -346,7 +346,7 @@
     {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 62,
+      "level": 63,
       "types": [
         "Siniestro",
         "Acero"
@@ -373,11 +373,11 @@
       ],
       "ev": [
         18,
-        51,
+        53,
         10,
+        18,
         16,
-        12,
-        34
+        42
       ],
       "abilPool": [
         "Recogebolas",
@@ -510,7 +510,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 62,
+      "level": 63,
       "types": [
         "Eléctrico"
       ],
@@ -718,11 +718,11 @@
       ],
       "ev": [
         15,
-        57,
+        59,
         15,
-        13,
-        16,
-        32
+        15,
+        20,
+        40
       ],
       "abilPool": [
         "Electromotor",
@@ -860,7 +860,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 62,
+      "level": 63,
       "types": [
         "Veneno",
         "Dragón"
@@ -885,11 +885,11 @@
       ],
       "ev": [
         25,
-        92,
+        94,
         35,
-        27,
-        28,
-        59
+        29,
+        32,
+        67
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -9147,6 +9147,7 @@
       "Cuchara Torcida",
       "Cuerda Huida",
       "Cura Total",
+      "Def. Esp. X 3",
       "Defensa X",
       "Diamansfera",
       "Efigie Antigua",
@@ -9323,6 +9324,7 @@
       "Semilla Bruma",
       "Semilla Hierba",
       "Servicio Raro",
+      "Seta Aroma",
       "Shinyzador",
       "Slowbronita",
       "Supercaña",
@@ -9770,6 +9772,12 @@
       {
         "id": "LINKINGCORD",
         "name": "Cordón Unión",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BALMMUSHROOM",
+        "name": "Seta Aroma",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -10736,6 +10744,12 @@
       {
         "id": "XACCURACY6",
         "name": "Precisión X 6",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "XSPDEF3",
+        "name": "Def. Esp. X 3",
         "qty": 1,
         "pocket": "Objetos de combate"
       },
