@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 16h 19m jugadas · 302,930₽ · vidas en el juego: 14",
+  "notes": "Importado del save · 16h 20m jugadas · 302,930₽ · vidas en el juego: 14",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -372,7 +372,7 @@
         "Acero"
       ],
       "ability": "Punto Tóxico",
-      "nature": "Afable",
+      "nature": "Cauta",
       "item": "Mineral Evol",
       "shiny": false,
       "moves": [
@@ -381,6 +381,8 @@
         "Cabezazo Zen",
         "Quemarrueda"
       ],
+      "natureMint": true,
+      "natureBase": "Afable",
       "iv": [
         15,
         24,
@@ -532,7 +534,7 @@
         "Agua"
       ],
       "ability": "Electromotor",
-      "nature": "Osada",
+      "nature": "Audaz",
       "item": "Cascabel Concha",
       "shiny": false,
       "moves": [
@@ -541,6 +543,8 @@
         "Ominochoque",
         "Llave Corsé"
       ],
+      "natureMint": true,
+      "natureBase": "Osada",
       "iv": [
         27,
         7,
@@ -9500,18 +9504,6 @@
         "id": "IMPISHMINT",
         "name": "Menta Agitada",
         "qty": 2,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "BRAVEMINT",
-        "name": "Menta Audaz",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "CAREFULMINT",
-        "name": "Menta Cauta",
-        "qty": 1,
         "pocket": "Medicinas"
       },
       {
