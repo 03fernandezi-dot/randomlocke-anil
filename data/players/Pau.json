@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 16h 31m jugadas · 313,810₽ · vidas en el juego: 14",
+  "notes": "Importado del save · 16h 35m jugadas · 313,810₽ · vidas en el juego: 14",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -527,6 +527,160 @@
       "spriteKey": "BISHARP"
     },
     {
+      "nickname": "Ruffles",
+      "species": "Braviary (Hisui)",
+      "level": 59,
+      "types": [
+        "Psíquico",
+        "Volador"
+      ],
+      "ability": "Iluminación",
+      "nature": "Rara",
+      "item": "Periscopio",
+      "shiny": false,
+      "moves": [
+        "Mirada Heladora",
+        "Sylveotornado",
+        "Esfera Aural",
+        "Arenas Ardientes"
+      ],
+      "iv": [
+        29,
+        12,
+        24,
+        24,
+        27,
+        20
+      ],
+      "ev": [
+        53,
+        122,
+        58,
+        50,
+        48,
+        75
+      ],
+      "abilPool": [
+        "Piel Tétrica",
+        "Insonorizar"
+      ],
+      "abilHidden": [
+        "Iluminación"
+      ],
+      "learnset": [
+        {
+          "lvl": 0,
+          "m": "Velo Sagrado"
+        },
+        {
+          "lvl": 1,
+          "m": "Canto"
+        },
+        {
+          "lvl": 1,
+          "m": "Aullido"
+        },
+        {
+          "lvl": 1,
+          "m": "Hidrochorro"
+        },
+        {
+          "lvl": 1,
+          "m": "Brazo Pincho"
+        },
+        {
+          "lvl": 1,
+          "m": "Afilagarras"
+        },
+        {
+          "lvl": 1,
+          "m": "Impresionar"
+        },
+        {
+          "lvl": 18,
+          "m": "Isoguardia"
+        },
+        {
+          "lvl": 24,
+          "m": "Hilo Venenoso"
+        },
+        {
+          "lvl": 30,
+          "m": "Canto Mortal"
+        },
+        {
+          "lvl": 36,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 42,
+          "m": "Empujón"
+        },
+        {
+          "lvl": 48,
+          "m": "Puños Plasma"
+        },
+        {
+          "lvl": 57,
+          "m": "Garra Dragón"
+        },
+        {
+          "lvl": 64,
+          "m": "Frustración"
+        },
+        {
+          "lvl": 72,
+          "m": "Paranormal"
+        },
+        {
+          "lvl": 80,
+          "m": "Quemarrueda"
+        }
+      ],
+      "tmMoves": [
+        "Alarido",
+        "Alboroto",
+        "Anulación",
+        "Arenas Ardientes",
+        "Azote",
+        "Bálsamo Osado",
+        "Barrera",
+        "Carga Parábola",
+        "Ciclón",
+        "Clavo Cañón",
+        "Danza Aleteo",
+        "Danza Pétalo",
+        "Electropico",
+        "Esfera Aural",
+        "Gas Corrosivo",
+        "Giro Mortífero",
+        "Granizo",
+        "Hachazo Pétreo",
+        "Hipnosis",
+        "Joya de Luz",
+        "Manto Espejo",
+        "Mirada Heladora",
+        "Onda Tóxica",
+        "Pulso de Campo",
+        "Represión Metal",
+        "Restricción",
+        "Retribución",
+        "Shuriken de Agua",
+        "Sylveotornado",
+        "Vendetta",
+        "Viento Carámbano",
+        "Viento Plata"
+      ],
+      "firstMoves": [
+        "Veneno X",
+        "Fanfarronear",
+        "Antojo",
+        "Obstrucción"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10240.png",
+      "spriteKey": "BRAVIARY_1"
+    },
+    {
       "nickname": "Dondondondon",
       "species": "Dondozo",
       "level": 59,
@@ -693,160 +847,6 @@
         "Gota Vital"
       ],
       "spriteKey": "DONDOZO"
-    },
-    {
-      "nickname": "Ruffles",
-      "species": "Braviary (Hisui)",
-      "level": 59,
-      "types": [
-        "Psíquico",
-        "Volador"
-      ],
-      "ability": "Iluminación",
-      "nature": "Rara",
-      "item": "Periscopio",
-      "shiny": false,
-      "moves": [
-        "Mirada Heladora",
-        "Sylveotornado",
-        "Esfera Aural",
-        "Arenas Ardientes"
-      ],
-      "iv": [
-        29,
-        12,
-        24,
-        24,
-        27,
-        20
-      ],
-      "ev": [
-        53,
-        122,
-        58,
-        50,
-        48,
-        75
-      ],
-      "abilPool": [
-        "Piel Tétrica",
-        "Insonorizar"
-      ],
-      "abilHidden": [
-        "Iluminación"
-      ],
-      "learnset": [
-        {
-          "lvl": 0,
-          "m": "Velo Sagrado"
-        },
-        {
-          "lvl": 1,
-          "m": "Canto"
-        },
-        {
-          "lvl": 1,
-          "m": "Aullido"
-        },
-        {
-          "lvl": 1,
-          "m": "Hidrochorro"
-        },
-        {
-          "lvl": 1,
-          "m": "Brazo Pincho"
-        },
-        {
-          "lvl": 1,
-          "m": "Afilagarras"
-        },
-        {
-          "lvl": 1,
-          "m": "Impresionar"
-        },
-        {
-          "lvl": 18,
-          "m": "Isoguardia"
-        },
-        {
-          "lvl": 24,
-          "m": "Hilo Venenoso"
-        },
-        {
-          "lvl": 30,
-          "m": "Canto Mortal"
-        },
-        {
-          "lvl": 36,
-          "m": "Atiborramiento"
-        },
-        {
-          "lvl": 42,
-          "m": "Empujón"
-        },
-        {
-          "lvl": 48,
-          "m": "Puños Plasma"
-        },
-        {
-          "lvl": 57,
-          "m": "Garra Dragón"
-        },
-        {
-          "lvl": 64,
-          "m": "Frustración"
-        },
-        {
-          "lvl": 72,
-          "m": "Paranormal"
-        },
-        {
-          "lvl": 80,
-          "m": "Quemarrueda"
-        }
-      ],
-      "tmMoves": [
-        "Alarido",
-        "Alboroto",
-        "Anulación",
-        "Arenas Ardientes",
-        "Azote",
-        "Bálsamo Osado",
-        "Barrera",
-        "Carga Parábola",
-        "Ciclón",
-        "Clavo Cañón",
-        "Danza Aleteo",
-        "Danza Pétalo",
-        "Electropico",
-        "Esfera Aural",
-        "Gas Corrosivo",
-        "Giro Mortífero",
-        "Granizo",
-        "Hachazo Pétreo",
-        "Hipnosis",
-        "Joya de Luz",
-        "Manto Espejo",
-        "Mirada Heladora",
-        "Onda Tóxica",
-        "Pulso de Campo",
-        "Represión Metal",
-        "Restricción",
-        "Retribución",
-        "Shuriken de Agua",
-        "Sylveotornado",
-        "Vendetta",
-        "Viento Carámbano",
-        "Viento Plata"
-      ],
-      "firstMoves": [
-        "Veneno X",
-        "Fanfarronear",
-        "Antojo",
-        "Obstrucción"
-      ],
-      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10240.png",
-      "spriteKey": "BRAVIARY_1"
     },
     {
       "nickname": "Wryn",
@@ -3716,107 +3716,6 @@
       "spriteKey": "SPIRITOMB"
     },
     {
-      "nickname": "Iguana",
-      "species": "Drizzile",
-      "level": 58,
-      "types": [
-        "Agua"
-      ],
-      "ability": "Agallas",
-      "nature": "Floja",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Chirrido",
-        "Trapicheo",
-        "Extracto Picante",
-        "Triple Inmersión"
-      ],
-      "iv": [
-        9,
-        23,
-        0,
-        21,
-        1,
-        29
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Agallas"
-      ],
-      "abilHidden": [
-        "Iluminación"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Tenaza"
-        },
-        {
-          "lvl": 1,
-          "m": "Camelo"
-        },
-        {
-          "lvl": 1,
-          "m": "Anulación"
-        },
-        {
-          "lvl": 1,
-          "m": "Golpe Calor"
-        },
-        {
-          "lvl": 12,
-          "m": "Resarcimiento"
-        },
-        {
-          "lvl": 19,
-          "m": "Onda Trueno"
-        },
-        {
-          "lvl": 19,
-          "m": "Polvo Mágico"
-        },
-        {
-          "lvl": 24,
-          "m": "Tormento"
-        },
-        {
-          "lvl": 30,
-          "m": "Bostezo"
-        },
-        {
-          "lvl": 36,
-          "m": "Chirrido"
-        },
-        {
-          "lvl": 36,
-          "m": "Trapicheo"
-        },
-        {
-          "lvl": 42,
-          "m": "Extracto Picante"
-        },
-        {
-          "lvl": 48,
-          "m": "Triple Inmersión"
-        }
-      ],
-      "firstMoves": [
-        "Chirrido",
-        "Trapicheo",
-        "Extracto Picante",
-        "Triple Inmersión"
-      ],
-      "spriteKey": "DRIZZILE"
-    },
-    {
       "nickname": "Mariconada",
       "species": "Floette",
       "level": 21,
@@ -6329,6 +6228,166 @@
       "spriteKey": "GOLEM"
     },
     {
+      "nickname": "Iguana",
+      "species": "Inteleon",
+      "level": 59,
+      "types": [
+        "Agua"
+      ],
+      "ability": "Clorofila",
+      "nature": "Floja",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Búnker",
+        "Disparo Certero",
+        "Rayo Señal",
+        "Fotocolisión"
+      ],
+      "iv": [
+        9,
+        23,
+        0,
+        21,
+        1,
+        29
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Clorofila"
+      ],
+      "abilHidden": [
+        "Termoconversión"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Tormento"
+        },
+        {
+          "lvl": 1,
+          "m": "Neblina"
+        },
+        {
+          "lvl": 1,
+          "m": "Escudo Tatami"
+        },
+        {
+          "lvl": 1,
+          "m": "Maquinación"
+        },
+        {
+          "lvl": 1,
+          "m": "Onda Vacío"
+        },
+        {
+          "lvl": 1,
+          "m": "Ovocuración"
+        },
+        {
+          "lvl": 12,
+          "m": "Doble Bofetón"
+        },
+        {
+          "lvl": 19,
+          "m": "Búnker"
+        },
+        {
+          "lvl": 19,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 24,
+          "m": "Patada Giro"
+        },
+        {
+          "lvl": 30,
+          "m": "Danza Lunar"
+        },
+        {
+          "lvl": 35,
+          "m": "Rayo Señal"
+        },
+        {
+          "lvl": 38,
+          "m": "Follaje"
+        },
+        {
+          "lvl": 38,
+          "m": "Golpe Kárate"
+        },
+        {
+          "lvl": 46,
+          "m": "Allanador Férreo"
+        },
+        {
+          "lvl": 46,
+          "m": "Ala Aural"
+        },
+        {
+          "lvl": 54,
+          "m": "Cerco Dimensión"
+        },
+        {
+          "lvl": 62,
+          "m": "Mazazo"
+        }
+      ],
+      "tmMoves": [
+        "Ala de Acero",
+        "Alarido",
+        "Arenas Ardientes",
+        "Arrumaco",
+        "Azote",
+        "Bálsamo Osado",
+        "Barrera",
+        "Bloqueo",
+        "Burbuja",
+        "Cambiavelocidad",
+        "Camelo",
+        "Chuzos",
+        "Clavo Cañón",
+        "Danza Lunar",
+        "Danza Pétalo",
+        "Decalcomanía",
+        "Decoración",
+        "Disparo Certero",
+        "Estrujón",
+        "Fuerza G",
+        "Gas Corrosivo",
+        "Golpe Roca",
+        "Halloween",
+        "Joya de Luz",
+        "Llave Corsé",
+        "Mirada Heladora",
+        "Ominochoque",
+        "Piñón Auxiliar",
+        "Planta Feroz",
+        "Púas",
+        "Pulso de Campo",
+        "Puño Incremento",
+        "Rencor Reprimido",
+        "Restricción",
+        "Retribución",
+        "Vendetta",
+        "Viento Carámbano"
+      ],
+      "firstMoves": [
+        "Chirrido",
+        "Trapicheo",
+        "Extracto Picante",
+        "Triple Inmersión"
+      ],
+      "spriteKey": "INTELEON"
+    },
+    {
       "nickname": "Okidogi",
       "species": "Okidogi",
       "level": 48,
@@ -8232,17 +8291,6 @@
       "mon": "Bisharp"
     },
     {
-      "route": "",
-      "where": "Museo Pokémon",
-      "species": "Dondozo",
-      "nickname": "Dondondondon",
-      "shiny": false,
-      "status": "captured",
-      "category": "estatico_regalo",
-      "level": 1,
-      "mon": "Dondozo"
-    },
-    {
       "route": "monte_moon",
       "where": "Monte Moon",
       "species": "Braviary",
@@ -8252,6 +8300,17 @@
       "category": "salvaje",
       "level": 13,
       "mon": "Braviary"
+    },
+    {
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Dondozo",
+      "nickname": "Dondondondon",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Dondozo"
     },
     {
       "route": "ruta_14",
@@ -8485,17 +8544,6 @@
       "mon": "Spiritomb"
     },
     {
-      "route": "cueva_celeste",
-      "where": "Cueva Celeste",
-      "species": "Drizzile",
-      "nickname": "Iguana",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 58,
-      "mon": "Drizzile"
-    },
-    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Floette",
@@ -8683,6 +8731,17 @@
       "mon": "Golem"
     },
     {
+      "route": "cueva_celeste",
+      "where": "Cueva Celeste",
+      "species": "Inteleon",
+      "nickname": "Iguana",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 58,
+      "mon": "Inteleon"
+    },
+    {
       "route": "",
       "where": "Estación del Magnetotrén",
       "species": "Okidogi",
@@ -8843,7 +8902,6 @@
       "ruta_8": true,
       "zona_safari": true,
       "ciudad_fucsia": true,
-      "cueva_celeste": true,
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
       "ruta_9": true,
@@ -8858,6 +8916,7 @@
       "ruta_5": true,
       "ruta_19": true,
       "ruta_11": true,
+      "cueva_celeste": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_16": true,
@@ -9693,7 +9752,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 714,
+        "qty": 713,
         "pocket": "Medicinas"
       },
       {
