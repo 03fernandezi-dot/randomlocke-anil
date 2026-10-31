@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": false,
-  "notes": "Importado del save · 14h 40m jugadas · 243,520₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 14h 45m jugadas · 243,520₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Shawn",
@@ -167,6 +167,7 @@
         "Granizo",
         "Halloween",
         "Llave Corsé",
+        "Manto Espejo",
         "Onda Certera",
         "Onda Tóxica",
         "Palma Rauda",
@@ -346,21 +347,21 @@
     },
     {
       "nickname": "Popiruleta",
-      "species": "Tinkatink",
-      "level": 53,
+      "species": "Tinkaton",
+      "level": 55,
       "types": [
         "Hada",
         "Acero"
       ],
-      "ability": "Hélice Caudal",
+      "ability": "Retirada",
       "nature": "Seria",
       "item": "",
       "shiny": false,
       "moves": [
-        "Fuerza Bruta",
-        "Giro Bola",
+        "Sylveotornado",
+        "Esfera Aural",
         "Fiebre Dorada",
-        "Isofuerza"
+        "Patada Tropical"
       ],
       "iv": [
         26,
@@ -379,80 +380,101 @@
         0
       ],
       "abilPool": [
-        "Irascible",
-        "Hélice Caudal"
+        "Manto Níveo",
+        "Retirada"
       ],
       "abilHidden": [
-        "Cambio Color"
+        "Ventosas"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Refugio"
+          "lvl": -1,
+          "m": "Ojitos Tiernos"
         },
         {
           "lvl": 1,
-          "m": "Semilladora"
+          "m": "Disparo Espejo"
+        },
+        {
+          "lvl": 1,
+          "m": "Cuerpo Pesado"
         },
         {
           "lvl": 5,
-          "m": "Respiro"
+          "m": "Garra Metal"
         },
         {
           "lvl": 8,
-          "m": "Luz Lunar"
+          "m": "Onda Voltio"
         },
         {
           "lvl": 11,
-          "m": "Patada Tropical"
+          "m": "Cambio de Marcha"
         },
         {
           "lvl": 14,
-          "m": "Hidropulso"
-        },
-        {
-          "lvl": 17,
-          "m": "Hierba Lazo"
-        },
-        {
-          "lvl": 21,
           "m": "Viento Feérico"
         },
         {
+          "lvl": 17,
+          "m": "Paliza"
+        },
+        {
+          "lvl": 21,
+          "m": "Disparo Lodo"
+        },
+        {
           "lvl": 24,
-          "m": "Tajo Acuático"
+          "m": "Campo de Niebla"
         },
         {
           "lvl": 27,
-          "m": "Corte"
+          "m": "Beso Dulce"
         },
         {
           "lvl": 31,
-          "m": "Carantoña"
+          "m": "Eco Voz"
         },
         {
           "lvl": 35,
-          "m": "Ataque Aéreo"
+          "m": "Niebla Aromática"
         },
         {
           "lvl": 39,
-          "m": "Fuerza Bruta"
-        },
-        {
-          "lvl": 43,
           "m": "Giro Bola"
         },
         {
+          "lvl": 40,
+          "m": "Puño Bala"
+        },
+        {
+          "lvl": 40,
+          "m": "Embargo"
+        },
+        {
+          "lvl": 40,
+          "m": "Plegaria Lunar"
+        },
+        {
+          "lvl": 42,
+          "m": "Rompecoraza"
+        },
+        {
+          "lvl": 43,
+          "m": "Onda Simple"
+        },
+        {
           "lvl": 47,
-          "m": "Fiebre Dorada"
+          "m": "Homenaje Póstumo"
         },
         {
           "lvl": 52,
-          "m": "Isofuerza"
+          "m": "Bruma Explosiva"
+        },
+        {
+          "lvl": 55,
+          "m": "Puntapié"
         }
-      ],
-      "tmMoves": [
-        "Burbuja"
       ],
       "firstMoves": [
         "Fuerza Bruta",
@@ -460,7 +482,7 @@
         "Fiebre Dorada",
         "Isofuerza"
       ],
-      "spriteKey": "TINKATINK"
+      "spriteKey": "TINKATON"
     },
     {
       "nickname": "Mocardo",
@@ -7229,13 +7251,13 @@
     {
       "route": "isla_canela",
       "where": "Isla Canela",
-      "species": "Tinkatink",
+      "species": "Tinkaton",
       "nickname": "Popiruleta",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 53,
-      "mon": "Tinkatink"
+      "mon": "Tinkaton"
     },
     {
       "route": "ruta_15",
@@ -8537,7 +8559,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 30,
+        "qty": 28,
         "pocket": "Medicinas"
       },
       {
