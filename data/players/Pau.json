@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 15h 43m jugadas · 263,320₽ · vidas en el juego: 14",
+  "notes": "Importado del save · 15h 46m jugadas · 263,320₽ · vidas en el juego: 14",
   "team": [
     {
       "nickname": "Shawn",
@@ -686,7 +686,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 56,
+      "level": 57,
       "types": [
         "Psíquico",
         "Volador"
@@ -697,9 +697,9 @@
       "shiny": false,
       "moves": [
         "Mirada Heladora",
+        "Sylveotornado",
         "Esfera Aural",
-        "Arenas Ardientes",
-        "Sylveotornado"
+        "Arenas Ardientes"
       ],
       "iv": [
         29,
@@ -839,13 +839,13 @@
     {
       "nickname": "Dondondondon",
       "species": "Dondozo",
-      "level": 55,
+      "level": 57,
       "types": [
         "Agua"
       ],
       "ability": "Electromotor",
       "nature": "Osada",
-      "item": "",
+      "item": "Cascabel Concha",
       "shiny": false,
       "moves": [
         "Puño Jet",
@@ -9033,12 +9033,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "SHELLBELL",
-        "name": "Cascabel Concha",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "NORMALGEM",
         "name": "Gema Normal",
         "qty": 1,
@@ -9107,7 +9101,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 721,
+        "qty": 718,
         "pocket": "Medicinas"
       },
       {
