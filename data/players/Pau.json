@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 16h 54m jugadas · 340,885₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 16h 57m jugadas · 340,885₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Dondondondon",
@@ -183,7 +183,7 @@
         "Volador"
       ],
       "ability": "Iluminación",
-      "nature": "Rara",
+      "nature": "Miedosa",
       "item": "Periscopio",
       "shiny": false,
       "moves": [
@@ -192,6 +192,8 @@
         "Esfera Aural",
         "Arenas Ardientes"
       ],
+      "natureMint": true,
+      "natureBase": "Rara",
       "iv": [
         29,
         12,
@@ -502,7 +504,7 @@
         "Acero"
       ],
       "ability": "Retirada",
-      "nature": "Seria",
+      "nature": "Agitada",
       "item": "Chaleco Asalto",
       "shiny": false,
       "moves": [
@@ -511,6 +513,8 @@
         "Fiebre Dorada",
         "Viento Plata"
       ],
+      "natureMint": true,
+      "natureBase": "Seria",
       "iv": [
         26,
         30,
@@ -9852,18 +9856,12 @@
       {
         "id": "IMPISHMINT",
         "name": "Menta Agitada",
-        "qty": 2,
+        "qty": 1,
         "pocket": "Medicinas"
       },
       {
         "id": "LONELYMINT",
         "name": "Menta Huraña",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "TIMIDMINT",
-        "name": "Menta Miedosa",
         "qty": 1,
         "pocket": "Medicinas"
       },
