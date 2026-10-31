@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 17h 12m jugadas · 370,035₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 17h 14m jugadas · 370,035₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -8940,7 +8940,8 @@
       "tunel_diglett": true,
       "tunel_roca": true,
       "pueblo_marengo": true,
-      "ruta_17": true
+      "ruta_17": true,
+      "bosque_celeste": true
     },
     "items": {},
     "encounters": {
