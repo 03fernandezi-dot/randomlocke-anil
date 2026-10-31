@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 17h 22m jugadas · 370,035₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 17h 24m jugadas · 370,350₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -36,7 +36,7 @@
       ],
       "ev": [
         18,
-        53,
+        56,
         10,
         18,
         16,
@@ -216,7 +216,7 @@
       ],
       "ev": [
         61,
-        139,
+        142,
         62,
         54,
         62,
@@ -373,7 +373,7 @@
       ],
       "ev": [
         18,
-        53,
+        56,
         10,
         18,
         16,
@@ -718,7 +718,7 @@
       ],
       "ev": [
         15,
-        59,
+        62,
         15,
         15,
         20,
@@ -885,7 +885,7 @@
       ],
       "ev": [
         25,
-        94,
+        97,
         35,
         29,
         32,
@@ -3723,6 +3723,122 @@
         "Foco"
       ],
       "spriteKey": "SPIRITOMB"
+    },
+    {
+      "nickname": "Juanca",
+      "species": "Greattusk",
+      "level": 60,
+      "types": [
+        "Tierra",
+        "Lucha"
+      ],
+      "ability": "Unidad Ecuestre",
+      "nature": "Alegre",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Moflete Estático",
+        "Teraclúster",
+        "Granizo",
+        "Simún de Arena"
+      ],
+      "iv": [
+        8,
+        31,
+        21,
+        5,
+        6,
+        18
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Unidad Ecuestre"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Psicocambio"
+        },
+        {
+          "lvl": 1,
+          "m": "Escalofrío"
+        },
+        {
+          "lvl": 1,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 1,
+          "m": "Onda Vacío"
+        },
+        {
+          "lvl": 7,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 14,
+          "m": "Palma Rauda"
+        },
+        {
+          "lvl": 21,
+          "m": "Llave Vital"
+        },
+        {
+          "lvl": 28,
+          "m": "Llave Corsé"
+        },
+        {
+          "lvl": 35,
+          "m": "Moflete Estático"
+        },
+        {
+          "lvl": 42,
+          "m": "Teraclúster"
+        },
+        {
+          "lvl": 49,
+          "m": "Granizo"
+        },
+        {
+          "lvl": 56,
+          "m": "Simún de Arena"
+        },
+        {
+          "lvl": 63,
+          "m": "Ala Mortífera"
+        },
+        {
+          "lvl": 70,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 77,
+          "m": "Chulería"
+        },
+        {
+          "lvl": 84,
+          "m": "Fisura"
+        },
+        {
+          "lvl": 91,
+          "m": "Beso Dulce"
+        }
+      ],
+      "firstMoves": [
+        "Moflete Estático",
+        "Teraclúster",
+        "Granizo",
+        "Simún de Arena"
+      ],
+      "spriteKey": "GREATTUSK"
     },
     {
       "nickname": "Mariconada",
@@ -8553,6 +8669,17 @@
       "mon": "Spiritomb"
     },
     {
+      "route": "bosque_celeste",
+      "where": "Bosque Celeste",
+      "species": "Greattusk",
+      "nickname": "Juanca",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 60,
+      "mon": "Greattusk"
+    },
+    {
       "route": "monte_moon_exterior",
       "where": "Monte Moon Exterior",
       "species": "Floette",
@@ -8911,6 +9038,7 @@
       "ruta_8": true,
       "zona_safari": true,
       "ciudad_fucsia": true,
+      "bosque_celeste": true,
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
       "ruta_9": true,
@@ -8940,8 +9068,7 @@
       "tunel_diglett": true,
       "tunel_roca": true,
       "pueblo_marengo": true,
-      "ruta_17": true,
-      "bosque_celeste": true
+      "ruta_17": true
     },
     "items": {},
     "encounters": {
@@ -8989,7 +9116,8 @@
       "isla_canela": true,
       "mansion_quemada": true,
       "ruta_19": true,
-      "cueva_celeste": true
+      "cueva_celeste": true,
+      "bosque_celeste": true
     },
     "switches": [
       48,
@@ -10013,13 +10141,13 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 11,
+        "qty": 10,
         "pocket": "Poké Balls"
       },
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 22,
+        "qty": 19,
         "pocket": "Poké Balls"
       },
       {
