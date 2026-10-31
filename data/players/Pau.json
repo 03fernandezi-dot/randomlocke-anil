@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 16h 14m jugadas · 302,930₽ · vidas en el juego: 14",
+  "notes": "Importado del save · 16h 19m jugadas · 302,930₽ · vidas en el juego: 14",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -698,7 +698,7 @@
         "Psíquico",
         "Volador"
       ],
-      "ability": "Piel Tétrica",
+      "ability": "Iluminación",
       "nature": "Rara",
       "item": "Periscopio",
       "shiny": false,
@@ -3451,30 +3451,29 @@
       "spriteKey": "ARAQUANID"
     },
     {
-      "nickname": "Pedrolo",
-      "species": "Golem",
-      "level": 46,
+      "nickname": "2",
+      "species": "Arctozolt",
+      "level": 1,
       "types": [
-        "Roca",
-        "Tierra"
+        "Eléctrico",
+        "Hielo"
       ],
-      "ability": "Insomnio",
-      "nature": "Ingenua",
+      "ability": "Acero Templado",
+      "nature": "Miedosa",
       "item": "",
       "shiny": false,
       "moves": [
-        "Hueso Sombrío",
-        "Terremoto",
-        "Lariat Oscuro",
-        "Torm. de Diamantes"
+        "Cortina Plasma",
+        "Sol Matinal",
+        "Latigazo"
       ],
       "iv": [
-        0,
-        0,
-        9,
-        6,
-        21,
-        16
+        20,
+        2,
+        2,
+        26,
+        14,
+        4
       ],
       "ev": [
         0,
@@ -3485,126 +3484,106 @@
         0
       ],
       "abilPool": [
-        "Don Floral",
-        "Insomnio"
+        "Acero Templado",
+        "Antibarrera"
       ],
       "abilHidden": [
-        "Huida"
+        "Manto Frondoso"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Cura Floral"
+          "m": "Cortina Plasma"
         },
         {
           "lvl": 1,
-          "m": "Danza Aleteo"
+          "m": "Sol Matinal"
         },
         {
-          "lvl": 1,
-          "m": "Giro Rápido"
+          "lvl": 7,
+          "m": "Cambio de Marcha"
         },
         {
-          "lvl": 1,
-          "m": "Polvo Mágico"
+          "lvl": 14,
+          "m": "Pulso de Campo"
         },
         {
-          "lvl": 1,
-          "m": "Bomba Fango"
+          "lvl": 21,
+          "m": "Arrumaco"
         },
         {
-          "lvl": 4,
-          "m": "Estrujón"
+          "lvl": 28,
+          "m": "Tajo Umbrío"
         },
         {
-          "lvl": 10,
-          "m": "Magnitud"
+          "lvl": 35,
+          "m": "Puño Hielo"
         },
         {
-          "lvl": 12,
-          "m": "Hachazo Pétreo"
+          "lvl": 42,
+          "m": "Choque Anímico"
         },
         {
-          "lvl": 15,
-          "m": "Hidropulso"
+          "lvl": 42,
+          "m": "Meteorobola"
         },
         {
-          "lvl": 16,
-          "m": "Guillotina"
+          "lvl": 49,
+          "m": "Trueno"
         },
         {
-          "lvl": 18,
-          "m": "Alquitranazo"
+          "lvl": 56,
+          "m": "Chuzos"
         },
         {
-          "lvl": 18,
-          "m": "Antiaéreo"
+          "lvl": 63,
+          "m": "Atiborramiento"
         },
         {
-          "lvl": 22,
-          "m": "Gas Venenoso"
+          "lvl": 63,
+          "m": "Esquirla Helada"
         },
         {
-          "lvl": 24,
-          "m": "Danza Triunfal"
+          "lvl": 70,
+          "m": "Paisaje Nevado"
         },
         {
-          "lvl": 30,
-          "m": "Deslizamiento"
-        },
-        {
-          "lvl": 34,
-          "m": "Torm. de Diamantes"
-        },
-        {
-          "lvl": 40,
-          "m": "Tormenta Arena"
-        },
-        {
-          "lvl": 44,
-          "m": "Lariat Oscuro"
-        },
-        {
-          "lvl": 50,
-          "m": "Niebla Aromática"
-        },
-        {
-          "lvl": 54,
-          "m": "Arenas Ardientes"
+          "lvl": 77,
+          "m": "Rueda Aural"
         }
       ],
       "tmMoves": [
-        "Alarido",
-        "Arenas Ardientes",
+        "Anulación",
+        "Arrumaco",
+        "As Oculto",
         "Asalto Barrera",
-        "Barrera",
-        "Cabezazo Zen",
-        "Carga Parábola",
+        "Bálsamo Osado",
+        "Bruma Explosiva",
+        "Camelo",
         "Chuzos",
-        "Clavo Cañón",
-        "Decalcomanía",
+        "Danza Aleteo",
+        "Deslome",
         "Eco Metálico",
+        "Electropico",
+        "Estrujón",
         "Fuerza G",
         "Granizo",
         "Hachazo Pétreo",
+        "Hora del Té",
         "Llave Corsé",
-        "Mirada Heladora",
-        "Palma Rauda",
-        "Púas",
-        "Puño Incremento",
-        "Rencor Reprimido",
-        "Restricción",
-        "Sacrificio",
-        "Terremoto",
-        "Velo Sagrado"
+        "Onda Certera",
+        "Rayo Fusión",
+        "Shuriken de Agua",
+        "Sylveotornado",
+        "Viento Carámbano"
       ],
       "firstMoves": [
-        "Hueso Sombrío",
-        "Castigo",
-        "Recogearena",
-        "Vasta Guardia"
+        "Cortina Plasma",
+        "Sol Matinal",
+        "Latigazo"
       ],
-      "spriteKey": "GOLEM"
+      "spriteKey": "ARCTOZOLT",
+      "dup": true
     },
     {
       "nickname": "Mariconada",
@@ -4586,7 +4565,7 @@
       ],
       "ability": "Rompeaura",
       "nature": "Pícara",
-      "item": "Seguro Debilidad",
+      "item": "",
       "shiny": false,
       "moves": [
         "Caída Libre",
@@ -4753,7 +4732,7 @@
       "types": [
         "Tierra"
       ],
-      "ability": "Peluche",
+      "ability": "Baba",
       "nature": "Amable",
       "item": "",
       "shiny": false,
@@ -4910,7 +4889,7 @@
       ],
       "ability": "Acero Templado",
       "nature": "Floja",
-      "item": "Seguro Debilidad",
+      "item": "",
       "shiny": false,
       "moves": [
         "Cabeza de Hierro",
@@ -5963,29 +5942,30 @@
       "spriteKey": "HEATMOR"
     },
     {
-      "nickname": "2",
-      "species": "Arctozolt",
-      "level": 1,
+      "nickname": "Pedrolo",
+      "species": "Golem",
+      "level": 46,
       "types": [
-        "Eléctrico",
-        "Hielo"
+        "Roca",
+        "Tierra"
       ],
-      "ability": "",
-      "nature": "Miedosa",
+      "ability": "Insomnio",
+      "nature": "Ingenua",
       "item": "",
       "shiny": false,
       "moves": [
-        "Cortina Plasma",
-        "Sol Matinal",
-        "Latigazo"
+        "Hueso Sombrío",
+        "Terremoto",
+        "Lariat Oscuro",
+        "Torm. de Diamantes"
       ],
       "iv": [
-        20,
-        2,
-        2,
-        26,
-        14,
-        4
+        0,
+        0,
+        9,
+        6,
+        21,
+        16
       ],
       "ev": [
         0,
@@ -5996,106 +5976,126 @@
         0
       ],
       "abilPool": [
-        "Acero Templado",
-        "Antibarrera"
+        "Don Floral",
+        "Insomnio"
       ],
       "abilHidden": [
-        "Manto Frondoso"
+        "Huida"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Cortina Plasma"
+          "m": "Cura Floral"
         },
         {
           "lvl": 1,
-          "m": "Sol Matinal"
+          "m": "Danza Aleteo"
         },
         {
-          "lvl": 7,
-          "m": "Cambio de Marcha"
+          "lvl": 1,
+          "m": "Giro Rápido"
         },
         {
-          "lvl": 14,
-          "m": "Pulso de Campo"
+          "lvl": 1,
+          "m": "Polvo Mágico"
         },
         {
-          "lvl": 21,
-          "m": "Arrumaco"
+          "lvl": 1,
+          "m": "Bomba Fango"
         },
         {
-          "lvl": 28,
-          "m": "Tajo Umbrío"
+          "lvl": 4,
+          "m": "Estrujón"
         },
         {
-          "lvl": 35,
-          "m": "Puño Hielo"
+          "lvl": 10,
+          "m": "Magnitud"
         },
         {
-          "lvl": 42,
-          "m": "Choque Anímico"
+          "lvl": 12,
+          "m": "Hachazo Pétreo"
         },
         {
-          "lvl": 42,
-          "m": "Meteorobola"
+          "lvl": 15,
+          "m": "Hidropulso"
         },
         {
-          "lvl": 49,
-          "m": "Trueno"
+          "lvl": 16,
+          "m": "Guillotina"
         },
         {
-          "lvl": 56,
-          "m": "Chuzos"
+          "lvl": 18,
+          "m": "Alquitranazo"
         },
         {
-          "lvl": 63,
-          "m": "Atiborramiento"
+          "lvl": 18,
+          "m": "Antiaéreo"
         },
         {
-          "lvl": 63,
-          "m": "Esquirla Helada"
+          "lvl": 22,
+          "m": "Gas Venenoso"
         },
         {
-          "lvl": 70,
-          "m": "Paisaje Nevado"
+          "lvl": 24,
+          "m": "Danza Triunfal"
         },
         {
-          "lvl": 77,
-          "m": "Rueda Aural"
+          "lvl": 30,
+          "m": "Deslizamiento"
+        },
+        {
+          "lvl": 34,
+          "m": "Torm. de Diamantes"
+        },
+        {
+          "lvl": 40,
+          "m": "Tormenta Arena"
+        },
+        {
+          "lvl": 44,
+          "m": "Lariat Oscuro"
+        },
+        {
+          "lvl": 50,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 54,
+          "m": "Arenas Ardientes"
         }
       ],
       "tmMoves": [
-        "Anulación",
-        "Arrumaco",
-        "As Oculto",
+        "Alarido",
+        "Arenas Ardientes",
         "Asalto Barrera",
-        "Bálsamo Osado",
-        "Bruma Explosiva",
-        "Camelo",
+        "Barrera",
+        "Cabezazo Zen",
+        "Carga Parábola",
         "Chuzos",
-        "Danza Aleteo",
-        "Deslome",
+        "Clavo Cañón",
+        "Decalcomanía",
         "Eco Metálico",
-        "Electropico",
-        "Estrujón",
         "Fuerza G",
         "Granizo",
         "Hachazo Pétreo",
-        "Hora del Té",
         "Llave Corsé",
-        "Onda Certera",
-        "Rayo Fusión",
-        "Shuriken de Agua",
-        "Sylveotornado",
-        "Viento Carámbano"
+        "Mirada Heladora",
+        "Palma Rauda",
+        "Púas",
+        "Puño Incremento",
+        "Rencor Reprimido",
+        "Restricción",
+        "Sacrificio",
+        "Terremoto",
+        "Velo Sagrado"
       ],
       "firstMoves": [
-        "Cortina Plasma",
-        "Sol Matinal",
-        "Latigazo"
+        "Hueso Sombrío",
+        "Castigo",
+        "Recogearena",
+        "Vasta Guardia"
       ],
-      "spriteKey": "ARCTOZOLT",
-      "dup": true
+      "spriteKey": "GOLEM"
     },
     {
       "nickname": "Okidogi",
@@ -8232,15 +8232,15 @@
       "mon": "Araquanid"
     },
     {
-      "route": "ruta_11",
-      "where": "Ruta 11",
-      "species": "Golem",
-      "nickname": "Pedrolo",
+      "route": "",
+      "where": "Laboratorio Canela",
+      "species": "Arctozolt",
+      "nickname": "2",
       "shiny": false,
       "status": "captured",
-      "category": "salvaje",
-      "level": 34,
-      "mon": "Golem"
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Arctozolt"
     },
     {
       "route": "monte_moon_exterior",
@@ -8419,15 +8419,15 @@
       "mon": "Heatmor"
     },
     {
-      "route": "",
-      "where": "Laboratorio Canela",
-      "species": "Arctozolt",
-      "nickname": "2",
+      "route": "ruta_11",
+      "where": "Ruta 11",
+      "species": "Golem",
+      "nickname": "Pedrolo",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 1,
-      "mon": "Arctozolt"
+      "category": "salvaje",
+      "level": 34,
+      "mon": "Golem"
     },
     {
       "route": "",
@@ -8590,7 +8590,6 @@
       "ruta_8": true,
       "zona_safari": true,
       "ciudad_fucsia": true,
-      "ruta_11": true,
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
       "ruta_9": true,
@@ -8604,6 +8603,7 @@
       "ruta_3": true,
       "ruta_5": true,
       "ruta_19": true,
+      "ruta_11": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_16": true,
@@ -9011,12 +9011,6 @@
     ],
     "bag": [
       {
-        "id": "TINYMUSHROOM",
-        "name": "Miniseta",
-        "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
         "id": "LUSTROUSORB",
         "name": "Lustresfera",
         "qty": 1,
@@ -9404,6 +9398,12 @@
         "id": "RAZORCLAW",
         "name": "Garra Afilada",
         "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "WEAKNESSPOLICY",
+        "name": "Seguro Debilidad",
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
