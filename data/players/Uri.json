@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 38m jugadas · 423,940₽ · vidas en el juego: 20",
+  "notes": "Importado del save · 26h 42m jugadas · 432,790₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Cucatrampada",
       "species": "Dragonite",
-      "level": 58,
+      "level": 59,
       "types": [
         "Dragón",
         "Volador"
@@ -34,10 +34,10 @@
       ],
       "ev": [
         18,
-        30,
-        22,
+        35,
+        26,
+        11,
         8,
-        7,
         18
       ],
       "abilPool": [
@@ -212,9 +212,9 @@
       "ev": [
         25,
         38,
-        24,
+        25,
         18,
-        15,
+        16,
         24
       ],
       "abilPool": [
@@ -530,10 +530,10 @@
       ],
       "ev": [
         13,
-        28,
-        16,
-        10,
-        8,
+        33,
+        20,
+        13,
+        9,
         18
       ],
       "abilPool": [
@@ -7356,7 +7356,8 @@
       "gym3": true,
       "gym4": true,
       "gym5": true,
-      "gym6": true
+      "gym6": true,
+      "gym7": true
     },
     "bosses": {},
     "npcs": {},
@@ -7533,6 +7534,7 @@
       209,
       210,
       211,
+      212,
       214,
       216,
       271,
@@ -7610,6 +7612,7 @@
       "Cuerda Huida",
       "Defensa X",
       "Defensa X 2",
+      "Diente Marino",
       "Elixir Máximo",
       "Fósil Hélix",
       "Fósil Pluma",
@@ -8108,7 +8111,7 @@
       {
         "id": "REDSHARD",
         "name": "Parte Roja",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -8168,7 +8171,7 @@
       {
         "id": "SPOOKYPLATE",
         "name": "Tabla Terror",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -8276,6 +8279,12 @@
       {
         "id": "FLAMEPLATE",
         "name": "Tabla Llama",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "DEEPSEATOOTH",
+        "name": "Diente Marino",
         "qty": 1,
         "pocket": "Objetos"
       },
