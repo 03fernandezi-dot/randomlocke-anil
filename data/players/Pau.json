@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 18h 33m jugadas · 561,865₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 18h 35m jugadas · 567,625₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -36,9 +36,9 @@
       ],
       "ev": [
         28,
-        70,
+        72,
         13,
-        31,
+        34,
         19,
         47
       ],
@@ -349,7 +349,7 @@
     {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 65,
+      "level": 66,
       "types": [
         "Siniestro",
         "Acero"
@@ -376,9 +376,9 @@
       ],
       "ev": [
         28,
-        70,
+        72,
         13,
-        28,
+        31,
         19,
         47
       ],
@@ -723,9 +723,9 @@
       ],
       "ev": [
         10,
-        14,
+        16,
         3,
-        10,
+        13,
         3,
         5
       ],
@@ -874,9 +874,9 @@
       ],
       "ev": [
         35,
-        111,
+        113,
         38,
-        39,
+        42,
         35,
         72
       ],
@@ -9555,6 +9555,8 @@
       213,
       214,
       216,
+      226,
+      227,
       229,
       231,
       232,
