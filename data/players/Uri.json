@@ -7672,6 +7672,7 @@
       "MT03",
       "MT04",
       "MT06",
+      "MT07",
       "MT08",
       "MT10",
       "MT101",
@@ -8581,6 +8582,12 @@
       {
         "id": "TM06",
         "name": "MT06",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM07",
+        "name": "MT07",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
