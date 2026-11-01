@@ -2,9 +2,9 @@
   "id": "Uri",
   "name": "Uri",
   "lives": 30,
-  "livesUsed": 7,
+  "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 27h 50m jugadas · 548,700₽ · vidas en el juego: 16",
+  "notes": "Importado del save · 27h 55m jugadas · 560,860₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,11 +34,11 @@
       ],
       "ev": [
         26,
-        62,
+        65,
         36,
         32,
-        14,
-        29
+        20,
+        30
       ],
       "abilPool": [
         "Fuerza Mental"
@@ -213,11 +213,11 @@
       ],
       "ev": [
         21,
-        62,
+        65,
         32,
         37,
-        15,
-        29
+        21,
+        30
       ],
       "abilPool": [
         "Rezagado"
@@ -390,11 +390,11 @@
       ],
       "ev": [
         33,
-        67,
+        70,
         37,
         42,
-        22,
-        35
+        28,
+        36
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -501,197 +501,13 @@
       "spriteKey": "MAGMORTAR"
     },
     {
-      "nickname": "Mataró",
-      "species": "Tinkaton",
-      "level": 65,
-      "types": [
-        "Hada",
-        "Acero"
-      ],
-      "ability": "Pompa",
-      "nature": "Alegre",
-      "item": "Revest. Metálico",
-      "shiny": false,
-      "moves": [
-        "Escudo Real",
-        "Brillo Mágico",
-        "Cola Férrea",
-        "Acua Cola"
-      ],
-      "natureMint": true,
-      "natureBase": "Rara",
-      "iv": [
-        30,
-        0,
-        16,
-        15,
-        3,
-        3
-      ],
-      "ev": [
-        55,
-        139,
-        85,
-        83,
-        50,
-        98
-      ],
-      "abilPool": [
-        "Pelaje Recio",
-        "Pompa"
-      ],
-      "abilHidden": [
-        "Tintineo"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Geocontrol"
-        },
-        {
-          "lvl": 1,
-          "m": "Llama Protectora"
-        },
-        {
-          "lvl": 1,
-          "m": "Bomba Caramelo"
-        },
-        {
-          "lvl": 5,
-          "m": "Robo"
-        },
-        {
-          "lvl": 8,
-          "m": "Sacrificio"
-        },
-        {
-          "lvl": 11,
-          "m": "Telatrampa"
-        },
-        {
-          "lvl": 14,
-          "m": "Daño Secreto"
-        },
-        {
-          "lvl": 17,
-          "m": "Voz Cautivadora"
-        },
-        {
-          "lvl": 21,
-          "m": "Bomba Imán"
-        },
-        {
-          "lvl": 24,
-          "m": "Impactrueno"
-        },
-        {
-          "lvl": 27,
-          "m": "Defensa Férrea"
-        },
-        {
-          "lvl": 31,
-          "m": "Aerochorro"
-        },
-        {
-          "lvl": 35,
-          "m": "Cola Férrea"
-        },
-        {
-          "lvl": 39,
-          "m": "Cambio de Marcha"
-        },
-        {
-          "lvl": 40,
-          "m": "Electrificación"
-        },
-        {
-          "lvl": 40,
-          "m": "Prensa Metálica"
-        },
-        {
-          "lvl": 40,
-          "m": "Llama Embrujada"
-        },
-        {
-          "lvl": 42,
-          "m": "Tajo Taquión"
-        },
-        {
-          "lvl": 43,
-          "m": "Onda Vacío"
-        },
-        {
-          "lvl": 47,
-          "m": "Niebla Aromática"
-        },
-        {
-          "lvl": 52,
-          "m": "Gran Ojo"
-        },
-        {
-          "lvl": 55,
-          "m": "Desarme"
-        }
-      ],
-      "tmMoves": [
-        "Acua Cola",
-        "Aire Afilado",
-        "Amplificador",
-        "Batido",
-        "Bomba Lodo",
-        "Brillo Mágico",
-        "Cañón Dinamax",
-        "Cerrojo Feérico",
-        "Chispa",
-        "Ciclón",
-        "Clemencia",
-        "Colmillo Veneno",
-        "Copión",
-        "Cura Floral",
-        "Daño Secreto",
-        "Desarrollo",
-        "Encanto",
-        "Escudo Real",
-        "Fertilizante",
-        "Gas Venenoso",
-        "Golpe Umbrío",
-        "Hoja Aguda",
-        "Hora del Té",
-        "Ladrón",
-        "Legado",
-        "Moluscañón",
-        "Motivación",
-        "Pataleta",
-        "Pesadilla",
-        "Pin Misil",
-        "Piñón Auxiliar",
-        "Presa Maxilar",
-        "Pulso Noche",
-        "Rayo Señal",
-        "Roca Veloz",
-        "Saña",
-        "Shuriken de Agua",
-        "Sonámbulo",
-        "Trampa Rocas",
-        "Treparrocas",
-        "Viento Feérico"
-      ],
-      "firstMoves": [
-        "Giro Vil",
-        "Conversión",
-        "Geocontrol",
-        "Bramido Dragón"
-      ],
-      "spriteKey": "TINKATON"
-    },
-    {
       "nickname": "Gustav",
       "species": "Inteleon",
       "level": 65,
       "types": [
         "Agua"
       ],
-      "ability": "Torrente",
+      "ability": "Viscosidad",
       "nature": "Serena",
       "item": "Inteleonita",
       "shiny": false,
@@ -711,11 +527,11 @@
       ],
       "ev": [
         3,
-        7,
+        10,
         2,
         6,
-        5,
-        4
+        11,
+        5
       ],
       "abilPool": [
         "Viscosidad"
@@ -873,11 +689,11 @@
       ],
       "ev": [
         0,
+        3,
         0,
         0,
-        0,
-        0,
-        0
+        6,
+        1
       ],
       "abilPool": [
         "Néctar dulce",
@@ -6107,6 +5923,193 @@
   ],
   "graveyard": [
     {
+      "nickname": "Mataró",
+      "species": "Tinkaton",
+      "level": 65,
+      "types": [
+        "Hada",
+        "Acero"
+      ],
+      "ability": "Pompa",
+      "nature": "Alegre",
+      "item": "Revest. Metálico",
+      "shiny": false,
+      "moves": [
+        "Escudo Real",
+        "Brillo Mágico",
+        "Cola Férrea",
+        "Acua Cola"
+      ],
+      "natureMint": true,
+      "natureBase": "Rara",
+      "iv": [
+        30,
+        0,
+        16,
+        15,
+        3,
+        3
+      ],
+      "ev": [
+        55,
+        139,
+        85,
+        83,
+        50,
+        98
+      ],
+      "abilPool": [
+        "Pelaje Recio",
+        "Pompa"
+      ],
+      "abilHidden": [
+        "Tintineo"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Geocontrol"
+        },
+        {
+          "lvl": 1,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 1,
+          "m": "Bomba Caramelo"
+        },
+        {
+          "lvl": 5,
+          "m": "Robo"
+        },
+        {
+          "lvl": 8,
+          "m": "Sacrificio"
+        },
+        {
+          "lvl": 11,
+          "m": "Telatrampa"
+        },
+        {
+          "lvl": 14,
+          "m": "Daño Secreto"
+        },
+        {
+          "lvl": 17,
+          "m": "Voz Cautivadora"
+        },
+        {
+          "lvl": 21,
+          "m": "Bomba Imán"
+        },
+        {
+          "lvl": 24,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 27,
+          "m": "Defensa Férrea"
+        },
+        {
+          "lvl": 31,
+          "m": "Aerochorro"
+        },
+        {
+          "lvl": 35,
+          "m": "Cola Férrea"
+        },
+        {
+          "lvl": 39,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 40,
+          "m": "Electrificación"
+        },
+        {
+          "lvl": 40,
+          "m": "Prensa Metálica"
+        },
+        {
+          "lvl": 40,
+          "m": "Llama Embrujada"
+        },
+        {
+          "lvl": 42,
+          "m": "Tajo Taquión"
+        },
+        {
+          "lvl": 43,
+          "m": "Onda Vacío"
+        },
+        {
+          "lvl": 47,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 52,
+          "m": "Gran Ojo"
+        },
+        {
+          "lvl": 55,
+          "m": "Desarme"
+        }
+      ],
+      "tmMoves": [
+        "Acua Cola",
+        "Aire Afilado",
+        "Amplificador",
+        "Batido",
+        "Bomba Lodo",
+        "Brillo Mágico",
+        "Cañón Dinamax",
+        "Cerrojo Feérico",
+        "Chispa",
+        "Ciclón",
+        "Clemencia",
+        "Colmillo Veneno",
+        "Copión",
+        "Cura Floral",
+        "Daño Secreto",
+        "Desarrollo",
+        "Encanto",
+        "Escudo Real",
+        "Fertilizante",
+        "Gas Venenoso",
+        "Golpe Umbrío",
+        "Hoja Aguda",
+        "Hora del Té",
+        "Ladrón",
+        "Legado",
+        "Moluscañón",
+        "Motivación",
+        "Pataleta",
+        "Pesadilla",
+        "Pin Misil",
+        "Piñón Auxiliar",
+        "Presa Maxilar",
+        "Pulso Noche",
+        "Rayo Señal",
+        "Roca Veloz",
+        "Saña",
+        "Shuriken de Agua",
+        "Sonámbulo",
+        "Trampa Rocas",
+        "Treparrocas",
+        "Viento Feérico"
+      ],
+      "firstMoves": [
+        "Giro Vil",
+        "Conversión",
+        "Geocontrol",
+        "Bramido Dragón"
+      ],
+      "spriteKey": "TINKATON",
+      "cause": "",
+      "route": "Ruta 15",
+      "date": ""
+    },
+    {
       "nickname": "Samuel",
       "species": "Diglett",
       "level": 11,
@@ -7168,7 +7171,7 @@
       "species": "Tinkaton",
       "nickname": "Mataró",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "salvaje",
       "level": 22,
       "mon": "Tinkaton"
@@ -7895,6 +7898,8 @@
       213,
       214,
       216,
+      226,
+      227,
       229,
       231,
       232,
@@ -10048,7 +10053,8 @@
     "600970694",
     "2293061989",
     "2629669245",
-    "1416296312"
+    "1416296312",
+    "2500383999"
   ],
   "revividos": 0
 }
