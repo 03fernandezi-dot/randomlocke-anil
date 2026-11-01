@@ -7524,6 +7524,7 @@
       199,
       201,
       202,
+      203,
       207,
       209,
       214,
@@ -7591,6 +7592,7 @@
       "Cenizas Sagradas",
       "Chaleco Asalto",
       "Cinta Aguante",
+      "Cinta Elección",
       "Cinturón Negro",
       "Cola Plúmbea",
       "Colmillo Agudo",
@@ -8237,6 +8239,12 @@
       {
         "id": "LUSTROUSORB",
         "name": "Lustresfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "CHOICEBAND",
+        "name": "Cinta Elección",
         "qty": 1,
         "pocket": "Objetos"
       },
