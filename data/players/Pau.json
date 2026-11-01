@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 18h 1m jugadas · 388,655₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 18h 6m jugadas · 388,655₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -35,9 +35,9 @@
         20
       ],
       "ev": [
-        25,
+        28,
         70,
-        11,
+        13,
         31,
         17,
         45
@@ -189,7 +189,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 64,
+      "level": 65,
       "types": [
         "Psíquico",
         "Volador"
@@ -372,9 +372,9 @@
         0
       ],
       "ev": [
-        25,
+        28,
         70,
-        11,
+        13,
         28,
         17,
         45
@@ -717,9 +717,9 @@
         18
       ],
       "ev": [
-        7,
+        10,
         14,
-        1,
+        3,
         10,
         1,
         3
@@ -844,7 +844,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 64,
+      "level": 65,
       "types": [
         "Veneno",
         "Dragón"
@@ -868,9 +868,9 @@
         22
       ],
       "ev": [
-        32,
+        35,
         111,
-        36,
+        38,
         39,
         33,
         70
@@ -6659,6 +6659,121 @@
       "spriteKey": "HERDIER"
     },
     {
+      "nickname": "Llenguado",
+      "species": "Arctovish",
+      "level": 62,
+      "types": [
+        "Agua",
+        "Hielo"
+      ],
+      "ability": "Muro Mágico",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Disparo Espejo",
+        "Rayo Burbuja",
+        "Desahogo",
+        "Frío Polar"
+      ],
+      "iv": [
+        19,
+        17,
+        29,
+        12,
+        3,
+        9
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Muro Mágico",
+        "Piel Milagro"
+      ],
+      "abilHidden": [
+        "Fuerza Mental"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 1,
+          "m": "Agua Fría"
+        },
+        {
+          "lvl": 7,
+          "m": "Shuriken de Agua"
+        },
+        {
+          "lvl": 14,
+          "m": "Tenaza"
+        },
+        {
+          "lvl": 21,
+          "m": "Desarrollo"
+        },
+        {
+          "lvl": 28,
+          "m": "Fría Acogida"
+        },
+        {
+          "lvl": 35,
+          "m": "Relajo"
+        },
+        {
+          "lvl": 35,
+          "m": "Canto Ardiente"
+        },
+        {
+          "lvl": 42,
+          "m": "Disparo Espejo"
+        },
+        {
+          "lvl": 42,
+          "m": "Rayo Burbuja"
+        },
+        {
+          "lvl": 49,
+          "m": "Desahogo"
+        },
+        {
+          "lvl": 56,
+          "m": "Frío Polar"
+        },
+        {
+          "lvl": 63,
+          "m": "Hidrobomba"
+        },
+        {
+          "lvl": 63,
+          "m": "Disparo Certero"
+        },
+        {
+          "lvl": 70,
+          "m": "Asalto Barrera"
+        },
+        {
+          "lvl": 77,
+          "m": "Chirrido"
+        }
+      ],
+      "firstMoves": [
+        "Disparo Espejo",
+        "Rayo Burbuja",
+        "Desahogo",
+        "Frío Polar"
+      ],
+      "spriteKey": "ARCTOVISH"
+    },
+    {
       "nickname": "Toxicroak",
       "species": "Toxicroak",
       "level": 48,
@@ -8993,6 +9108,17 @@
       "mon": "Herdier"
     },
     {
+      "route": "central_energia",
+      "where": "Central Energía",
+      "species": "Arctovish",
+      "nickname": "Llenguado",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 62,
+      "mon": "Arctovish"
+    },
+    {
       "route": "",
       "where": "Isla Canela",
       "species": "Toxicroak",
@@ -9170,6 +9296,7 @@
       "ruta_11": true,
       "cueva_celeste": true,
       "volcan_canela": true,
+      "central_energia": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_16": true,
@@ -9234,7 +9361,8 @@
       "ruta_19": true,
       "cueva_celeste": true,
       "bosque_celeste": true,
-      "volcan_canela": true
+      "volcan_canela": true,
+      "central_energia": true
     },
     "switches": [
       48,
@@ -9288,6 +9416,7 @@
       119,
       120,
       121,
+      126,
       129,
       152,
       176,
@@ -9376,6 +9505,7 @@
       "Baya Tamar",
       "Baya Tamate",
       "Baya Uvav",
+      "Baya Wiki",
       "Baya Zanama",
       "Baya Zidra",
       "Baya Zonlan",
@@ -9472,6 +9602,7 @@
       "MT102",
       "MT106",
       "MT108",
+      "MT11",
       "MT111",
       "MT112",
       "MT113",
@@ -9521,6 +9652,7 @@
       "MT72",
       "MT73",
       "MT74",
+      "MT76",
       "MT80",
       "MT81",
       "MT82",
@@ -10290,7 +10422,7 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 9,
+        "qty": 8,
         "pocket": "Poké Balls"
       },
       {
@@ -10350,6 +10482,12 @@
       {
         "id": "TM10",
         "name": "MT10",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM11",
+        "name": "MT11",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -10606,6 +10744,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM76",
+        "name": "MT76",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM80",
         "name": "MT80",
         "qty": 1,
@@ -10836,6 +10980,12 @@
       {
         "id": "SITRUSBERRY",
         "name": "Baya Zidra",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "WIKIBERRY",
+        "name": "Baya Wiki",
         "qty": 1,
         "pocket": "Bayas"
       },
