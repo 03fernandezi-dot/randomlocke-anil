@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": false,
-  "notes": "Importado del save · 27h 47m jugadas · 502,700₽ · vidas en el juego: 16",
+  "notes": "Importado del save · 27h 50m jugadas · 548,700₽ · vidas en el juego: 16",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -8175,6 +8175,7 @@
       "Slowbronita",
       "Supercaña",
       "Supercápsula",
+      "Superpoción",
       "Superrepelente",
       "Surfitem",
       "Swampertita",
@@ -8481,7 +8482,7 @@
       {
         "id": "SOOTHEBELL",
         "name": "Cascabel Alivio",
-        "qty": 3,
+        "qty": 1,
         "pocket": "Objetos"
       },
       {
@@ -8530,18 +8531,6 @@
         "id": "GHOSTGEM",
         "name": "Gema Fantasma",
         "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "PEARLSTRING",
-        "name": "Sarta Perlas",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "RELICCOPPER",
-        "name": "Real Cobre",
-        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -8833,6 +8822,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "SUPERPOTION",
+        "name": "Superpoción",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 15,
@@ -8853,7 +8848,7 @@
       {
         "id": "PREMIERBALL",
         "name": "Honor Ball",
-        "qty": 3,
+        "qty": 4,
         "pocket": "Poké Balls"
       },
       {
@@ -8865,7 +8860,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 1,
+        "qty": 11,
         "pocket": "Poké Balls"
       },
       {
