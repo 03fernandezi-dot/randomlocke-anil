@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 28h 35m jugadas · 576,610₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 37m jugadas · 576,610₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -33,7 +33,7 @@
         13
       ],
       "ev": [
-        26,
+        28,
         69,
         36,
         37,
@@ -214,7 +214,7 @@
         25
       ],
       "ev": [
-        21,
+        23,
         69,
         32,
         42,
@@ -391,7 +391,7 @@
         17
       ],
       "ev": [
-        33,
+        35,
         74,
         37,
         47,
@@ -749,7 +749,7 @@
         13
       ],
       "ev": [
-        3,
+        5,
         14,
         2,
         11,
@@ -913,7 +913,7 @@
         26
       ],
       "ev": [
-        0,
+        2,
         4,
         0,
         5,
@@ -4228,6 +4228,120 @@
       ],
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10241.png",
       "spriteKey": "SLIGGOO_1"
+    },
+    {
+      "nickname": "Cerdito",
+      "species": "Oinkologne",
+      "level": 52,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Cola Armadura",
+      "nature": "Cauta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Vendaval",
+        "Ala Bis",
+        "Paralizador",
+        "Patada Giro"
+      ],
+      "iv": [
+        4,
+        18,
+        2,
+        13,
+        21,
+        12
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Ultraimpulso",
+        "Cola Armadura"
+      ],
+      "abilHidden": [
+        "Detonación"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Adaptación"
+        },
+        {
+          "lvl": 1,
+          "m": "Persecución"
+        },
+        {
+          "lvl": 5,
+          "m": "Presente"
+        },
+        {
+          "lvl": 8,
+          "m": "Metrónomo"
+        },
+        {
+          "lvl": 12,
+          "m": "Aullido"
+        },
+        {
+          "lvl": 15,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 17,
+          "m": "Tambor"
+        },
+        {
+          "lvl": 17,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 23,
+          "m": "Triple Patada"
+        },
+        {
+          "lvl": 26,
+          "m": "Estruendo Escama"
+        },
+        {
+          "lvl": 27,
+          "m": "Sol Matinal"
+        },
+        {
+          "lvl": 34,
+          "m": "Vendaval"
+        },
+        {
+          "lvl": 38,
+          "m": "Ala Bis"
+        },
+        {
+          "lvl": 42,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 48,
+          "m": "Patada Giro"
+        },
+        {
+          "lvl": 54,
+          "m": "Truco Fuerza"
+        }
+      ],
+      "firstMoves": [
+        "Vendaval",
+        "Ala Bis",
+        "Paralizador",
+        "Patada Giro"
+      ],
+      "spriteKey": "OINKOLOGNE_1"
     },
     {
       "nickname": "Rem",
@@ -7602,6 +7716,17 @@
       "mon": "Sliggoo"
     },
     {
+      "route": "isla_canela",
+      "where": "Isla Canela",
+      "species": "Oinkologne",
+      "nickname": "Cerdito",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 52,
+      "mon": "Oinkologne"
+    },
+    {
       "route": "",
       "where": "Museo Pokémon",
       "species": "Gothitelle",
@@ -7869,6 +7994,7 @@
       "ruta_2_norte": true,
       "pueblo_marengo": true,
       "torre_pokemon": true,
+      "isla_canela": true,
       "islas_espuma": true,
       "ruta_4": true,
       "ruta_21": true,
@@ -7891,8 +8017,7 @@
       "ruta_11": true,
       "ruta_13": true,
       "ruta_14": true,
-      "ciudad_fucsia": true,
-      "isla_canela": true
+      "ciudad_fucsia": true
     },
     "items": {},
     "encounters": {
@@ -7940,7 +8065,8 @@
       "ruta_19": true,
       "mansion_quemada": true,
       "cueva_celeste": true,
-      "bosque_celeste": true
+      "bosque_celeste": true,
+      "isla_canela": true
     },
     "switches": [
       48,
@@ -8973,7 +9099,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 15,
+        "qty": 14,
         "pocket": "Poké Balls"
       },
       {
