@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 56m jugadas · 453,170₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 27h 0m jugadas · 465,770₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Cucatrampada",
       "species": "Dragonite",
-      "level": 59,
+      "level": 60,
       "types": [
         "Dragón",
         "Volador"
@@ -34,11 +34,11 @@
       ],
       "ev": [
         18,
-        40,
-        29,
-        16,
+        43,
+        31,
+        19,
         8,
-        18
+        22
       ],
       "abilPool": [
         "Fuerza Mental"
@@ -185,7 +185,7 @@
     {
       "nickname": "Nescafé",
       "species": "Magmortar",
-      "level": 59,
+      "level": 61,
       "types": [
         "Fuego"
       ],
@@ -211,11 +211,11 @@
       ],
       "ev": [
         25,
-        43,
-        28,
-        23,
+        48,
+        32,
+        26,
         16,
-        24
+        28
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -323,7 +323,7 @@
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 59,
+      "level": 61,
       "types": [
         "Agua",
         "Tierra"
@@ -503,7 +503,7 @@
     {
       "nickname": "Tita",
       "species": "Tyranitar",
-      "level": 59,
+      "level": 60,
       "types": [
         "Roca",
         "Siniestro"
@@ -530,11 +530,11 @@
       ],
       "ev": [
         13,
-        38,
-        23,
-        18,
+        43,
+        27,
+        21,
         9,
-        18
+        22
       ],
       "abilPool": [
         "Rezagado"
@@ -681,7 +681,7 @@
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 59,
+      "level": 61,
       "types": [
         "Planta",
         "Veneno"
@@ -855,7 +855,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 59,
+      "level": 61,
       "types": [
         "Hada",
         "Acero"
@@ -8449,12 +8449,6 @@
         "id": "RARECANDY",
         "name": "Caramelo Raro",
         "qty": 353,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "CENIZASSAGRADAS",
-        "name": "Cenizas Sagradas",
-        "qty": 1,
         "pocket": "Medicinas"
       },
       {
