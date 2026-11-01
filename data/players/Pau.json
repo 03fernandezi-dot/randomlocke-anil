@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 17h 51m jugadas · 388,655₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 17h 52m jugadas · 388,655₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -6549,30 +6549,30 @@
       "spriteKey": "DONDOZO"
     },
     {
-      "nickname": "Okidogi",
-      "species": "Okidogi",
+      "nickname": "Toxicroak",
+      "species": "Toxicroak",
       "level": 48,
       "types": [
         "Veneno",
         "Lucha"
       ],
-      "ability": "Herbívoro",
-      "nature": "Amable",
+      "ability": "Antibalas",
+      "nature": "Fuerte",
       "item": "",
       "shiny": false,
       "moves": [
-        "Buena Baza",
-        "Veneno X",
-        "Asalto Barrera",
-        "Palma Rauda"
+        "Tajo Metralla",
+        "Psicocolmillo",
+        "Isoguardia",
+        "Octopresa"
       ],
       "origin": "don_prodigio",
       "iv": [
-        24,
-        28,
-        17,
-        12,
-        20,
+        3,
+        25,
+        11,
+        19,
+        8,
         28
       ],
       "ev": [
@@ -6584,135 +6584,93 @@
         0
       ],
       "abilPool": [
-        "Herbívoro"
+        "Antibalas",
+        "Cosecha"
       ],
       "abilHidden": [
-        "Fuga"
+        "Albino"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Desquite"
+          "m": "Tormenta Arena"
         },
         {
           "lvl": 1,
-          "m": "Buena Baza"
+          "m": "Cambio de Cancha"
         },
         {
           "lvl": 1,
-          "m": "Veneno X"
+          "m": "Halloween"
         },
         {
           "lvl": 1,
-          "m": "Golpe Roca"
+          "m": "Cambiaalmas"
         },
         {
-          "lvl": 1,
-          "m": "Tormento"
+          "lvl": 12,
+          "m": "Geocontrol"
         },
         {
-          "lvl": 1,
-          "m": "Poder Reserva"
-        },
-        {
-          "lvl": 1,
-          "m": "Cola Veneno"
-        },
-        {
-          "lvl": 8,
-          "m": "Sísmico"
+          "lvl": 15,
+          "m": "Shuriken de Agua"
         },
         {
           "lvl": 16,
-          "m": "Bilis"
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 16,
+          "m": "Mordisco"
+        },
+        {
+          "lvl": 17,
+          "m": "Confidencia"
+        },
+        {
+          "lvl": 20,
+          "m": "Aguzar"
         },
         {
           "lvl": 24,
-          "m": "Gran Ojo"
+          "m": "Residuos"
+        },
+        {
+          "lvl": 28,
+          "m": "Escudo Tatami"
+        },
+        {
+          "lvl": 29,
+          "m": "Rugido de Guerra"
         },
         {
           "lvl": 32,
-          "m": "Palma Rauda"
+          "m": "Tajo Metralla"
         },
         {
-          "lvl": 37,
-          "m": "Puño Dinámico"
+          "lvl": 36,
+          "m": "Psicocolmillo"
         },
         {
-          "lvl": 40,
-          "m": "Asalto Barrera"
+          "lvl": 42,
+          "m": "Isoguardia"
         },
         {
           "lvl": 48,
-          "m": "Colmillo Veneno"
+          "m": "Octopresa"
         },
         {
-          "lvl": 56,
-          "m": "Puño Meteoro"
-        },
-        {
-          "lvl": 61,
-          "m": "Distorsión"
-        },
-        {
-          "lvl": 64,
-          "m": "Espabila"
-        },
-        {
-          "lvl": 67,
-          "m": "Sable Místico"
-        },
-        {
-          "lvl": 72,
-          "m": "Danza Aleteo"
-        },
-        {
-          "lvl": 73,
-          "m": "Niebla Clara"
+          "lvl": 54,
+          "m": "Luna Roja"
         }
       ],
-      "tmMoves": [
-        "Asalto Barrera",
-        "Carga Parábola",
-        "Chuzos",
-        "Ciclón",
-        "Clavo Cañón",
-        "Cura Floral",
-        "Danza Aleteo",
-        "Danza Lunar",
-        "Decalcomanía",
-        "Decoración",
-        "Deslome",
-        "Esfera Aural",
-        "Estrujón",
-        "Fotocolisión",
-        "Fuerza G",
-        "Gas Corrosivo",
-        "Giro Mortífero",
-        "Golpe Roca",
-        "Láser Doble",
-        "Onda Certera",
-        "Onda Tóxica",
-        "Ovocuración",
-        "Palma Rauda",
-        "Planta Feroz",
-        "Pulso de Campo",
-        "Puño Incremento",
-        "Purificación",
-        "Rayo Fusión",
-        "Rencor Reprimido",
-        "Retribución",
-        "Sacrificio",
-        "Vendetta",
-        "Viento Plata"
-      ],
       "firstMoves": [
-        "Cola Veneno",
-        "Sísmico",
-        "Bilis",
-        "Gran Ojo"
+        "Tajo Metralla",
+        "Psicocolmillo",
+        "Isoguardia",
+        "Octopresa"
       ],
-      "spriteKey": "OKIDOGI"
+      "spriteKey": "TOXICROAK"
     }
   ],
   "graveyard": [
@@ -8915,14 +8873,14 @@
     },
     {
       "route": "",
-      "where": "Estación del Magnetotrén",
-      "species": "Okidogi",
+      "where": "Isla Canela",
+      "species": "Toxicroak",
       "nickname": "",
       "shiny": false,
       "status": "captured",
       "category": "intercambio",
-      "level": 29,
-      "mon": "Okidogi"
+      "level": 48,
+      "mon": "Toxicroak"
     },
     {
       "route": "ruta_1",
