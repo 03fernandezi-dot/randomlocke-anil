@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 19h 21m jugadas · 597,695₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 19h 23m jugadas · 597,695₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -3457,29 +3457,30 @@
       "spriteKey": "ARAQUANID"
     },
     {
-      "nickname": "2",
-      "species": "Arctozolt",
-      "level": 1,
+      "nickname": "Travis",
+      "species": "Cacturne",
+      "level": 64,
       "types": [
-        "Eléctrico",
-        "Hielo"
+        "Planta",
+        "Siniestro"
       ],
-      "ability": "Acero Templado",
-      "nature": "Miedosa",
+      "ability": "Punk Rock",
+      "nature": "Modesta",
       "item": "",
       "shiny": false,
       "moves": [
-        "Cortina Plasma",
-        "Sol Matinal",
-        "Latigazo"
+        "Cola Férrea",
+        "Campo de Niebla",
+        "Calamidad",
+        "Brazo Pincho"
       ],
       "iv": [
-        20,
-        2,
-        2,
+        16,
+        3,
+        13,
         26,
-        14,
-        4
+        13,
+        23
       ],
       "ev": [
         0,
@@ -3490,106 +3491,124 @@
         0
       ],
       "abilPool": [
-        "Acero Templado",
-        "Antibarrera"
+        "Punk Rock"
       ],
       "abilHidden": [
-        "Manto Frondoso"
+        "Hurto"
       ],
       "learnset": [
+        {
+          "lvl": -1,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 1,
+          "m": "Patada Giro"
+        },
+        {
+          "lvl": 1,
+          "m": "Hoja Mágica"
+        },
         {
           "lvl": 1,
           "m": "Cortina Plasma"
         },
         {
           "lvl": 1,
-          "m": "Sol Matinal"
+          "m": "Divide Dolor"
         },
         {
-          "lvl": 7,
-          "m": "Cambio de Marcha"
+          "lvl": 1,
+          "m": "Hierba Lazo"
         },
         {
-          "lvl": 14,
-          "m": "Pulso de Campo"
+          "lvl": 1,
+          "m": "Deslome"
         },
         {
-          "lvl": 21,
-          "m": "Arrumaco"
+          "lvl": 10,
+          "m": "Llanto Falso"
         },
         {
-          "lvl": 28,
-          "m": "Tajo Umbrío"
+          "lvl": 13,
+          "m": "Hilo Venenoso"
+        },
+        {
+          "lvl": 16,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 16,
+          "m": "Ataque Óseo"
+        },
+        {
+          "lvl": 19,
+          "m": "Ascuas"
+        },
+        {
+          "lvl": 22,
+          "m": "Trapicheo"
+        },
+        {
+          "lvl": 26,
+          "m": "Látigo Cepa"
+        },
+        {
+          "lvl": 29,
+          "m": "Drenadoras"
+        },
+        {
+          "lvl": 30,
+          "m": "Brecha Negra"
+        },
+        {
+          "lvl": 32,
+          "m": "Chapoteo Lodo"
         },
         {
           "lvl": 35,
-          "m": "Puño Hielo"
+          "m": "Hipertaladro"
         },
         {
-          "lvl": 42,
-          "m": "Choque Anímico"
+          "lvl": 38,
+          "m": "Cepo"
         },
         {
-          "lvl": 42,
-          "m": "Meteorobola"
+          "lvl": 38,
+          "m": "Llama Final"
+        },
+        {
+          "lvl": 43,
+          "m": "Reserva"
+        },
+        {
+          "lvl": 44,
+          "m": "Purificación"
+        },
+        {
+          "lvl": 44,
+          "m": "Cola Férrea"
         },
         {
           "lvl": 49,
-          "m": "Trueno"
+          "m": "Campo de Niebla"
         },
         {
-          "lvl": 56,
-          "m": "Chuzos"
+          "lvl": 53,
+          "m": "Calamidad"
         },
         {
-          "lvl": 63,
-          "m": "Atiborramiento"
-        },
-        {
-          "lvl": 63,
-          "m": "Esquirla Helada"
-        },
-        {
-          "lvl": 70,
-          "m": "Paisaje Nevado"
-        },
-        {
-          "lvl": 77,
-          "m": "Rueda Aural"
+          "lvl": 54,
+          "m": "Brazo Pincho"
         }
       ],
-      "tmMoves": [
-        "Anulación",
-        "Arrumaco",
-        "As Oculto",
-        "Asalto Barrera",
-        "Bálsamo Osado",
-        "Bruma Explosiva",
-        "Camelo",
-        "Chuzos",
-        "Danza Aleteo",
-        "Deslome",
-        "Eco Metálico",
-        "Electropico",
-        "Estrujón",
-        "Fuerza G",
-        "Granizo",
-        "Hachazo Pétreo",
-        "Hora del Té",
-        "Llave Corsé",
-        "Onda Certera",
-        "Rayo Fusión",
-        "Shuriken de Agua",
-        "Sylveotornado",
-        "Viento Carámbano"
-      ],
       "firstMoves": [
-        "Cortina Plasma",
-        "Sol Matinal",
-        "Latigazo"
+        "Cola Férrea",
+        "Campo de Niebla",
+        "Calamidad",
+        "Brazo Pincho"
       ],
-      "spriteKey": "ARCTOZOLT",
-      "dup": true
+      "spriteKey": "CACTURNE"
     },
     {
       "nickname": "Mascara",
@@ -4354,6 +4373,141 @@
         "Última Palabra"
       ],
       "spriteKey": "RHYPERIOR"
+    },
+    {
+      "nickname": "2",
+      "species": "Arctozolt",
+      "level": 1,
+      "types": [
+        "Eléctrico",
+        "Hielo"
+      ],
+      "ability": "Acero Templado",
+      "nature": "Miedosa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cortina Plasma",
+        "Sol Matinal",
+        "Latigazo"
+      ],
+      "iv": [
+        20,
+        2,
+        2,
+        26,
+        14,
+        4
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Acero Templado",
+        "Antibarrera"
+      ],
+      "abilHidden": [
+        "Manto Frondoso"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cortina Plasma"
+        },
+        {
+          "lvl": 1,
+          "m": "Sol Matinal"
+        },
+        {
+          "lvl": 7,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 14,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 21,
+          "m": "Arrumaco"
+        },
+        {
+          "lvl": 28,
+          "m": "Tajo Umbrío"
+        },
+        {
+          "lvl": 35,
+          "m": "Puño Hielo"
+        },
+        {
+          "lvl": 42,
+          "m": "Choque Anímico"
+        },
+        {
+          "lvl": 42,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 49,
+          "m": "Trueno"
+        },
+        {
+          "lvl": 56,
+          "m": "Chuzos"
+        },
+        {
+          "lvl": 63,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 63,
+          "m": "Esquirla Helada"
+        },
+        {
+          "lvl": 70,
+          "m": "Paisaje Nevado"
+        },
+        {
+          "lvl": 77,
+          "m": "Rueda Aural"
+        }
+      ],
+      "tmMoves": [
+        "Anulación",
+        "Arrumaco",
+        "As Oculto",
+        "Asalto Barrera",
+        "Bálsamo Osado",
+        "Bruma Explosiva",
+        "Camelo",
+        "Chuzos",
+        "Danza Aleteo",
+        "Deslome",
+        "Eco Metálico",
+        "Electropico",
+        "Estrujón",
+        "Fuerza G",
+        "Granizo",
+        "Hachazo Pétreo",
+        "Hora del Té",
+        "Llave Corsé",
+        "Onda Certera",
+        "Rayo Fusión",
+        "Shuriken de Agua",
+        "Sylveotornado",
+        "Viento Carámbano"
+      ],
+      "firstMoves": [
+        "Cortina Plasma",
+        "Sol Matinal",
+        "Latigazo"
+      ],
+      "spriteKey": "ARCTOZOLT",
+      "dup": true
     },
     {
       "nickname": "Toby",
@@ -6998,160 +7152,6 @@
         "Octopresa"
       ],
       "spriteKey": "TOXICROAK"
-    },
-    {
-      "nickname": "Travis",
-      "species": "Cacturne",
-      "level": 64,
-      "types": [
-        "Planta",
-        "Siniestro"
-      ],
-      "ability": "Punk Rock",
-      "nature": "Modesta",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Cola Férrea",
-        "Campo de Niebla",
-        "Calamidad",
-        "Brazo Pincho"
-      ],
-      "iv": [
-        16,
-        3,
-        13,
-        26,
-        13,
-        23
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Punk Rock"
-      ],
-      "abilHidden": [
-        "Hurto"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Ultrapuño"
-        },
-        {
-          "lvl": 1,
-          "m": "Patada Giro"
-        },
-        {
-          "lvl": 1,
-          "m": "Hoja Mágica"
-        },
-        {
-          "lvl": 1,
-          "m": "Cortina Plasma"
-        },
-        {
-          "lvl": 1,
-          "m": "Divide Dolor"
-        },
-        {
-          "lvl": 1,
-          "m": "Hierba Lazo"
-        },
-        {
-          "lvl": 1,
-          "m": "Deslome"
-        },
-        {
-          "lvl": 10,
-          "m": "Llanto Falso"
-        },
-        {
-          "lvl": 13,
-          "m": "Hilo Venenoso"
-        },
-        {
-          "lvl": 16,
-          "m": "Lanzarrocas"
-        },
-        {
-          "lvl": 16,
-          "m": "Ataque Óseo"
-        },
-        {
-          "lvl": 19,
-          "m": "Ascuas"
-        },
-        {
-          "lvl": 22,
-          "m": "Trapicheo"
-        },
-        {
-          "lvl": 26,
-          "m": "Látigo Cepa"
-        },
-        {
-          "lvl": 29,
-          "m": "Drenadoras"
-        },
-        {
-          "lvl": 30,
-          "m": "Brecha Negra"
-        },
-        {
-          "lvl": 32,
-          "m": "Chapoteo Lodo"
-        },
-        {
-          "lvl": 35,
-          "m": "Hipertaladro"
-        },
-        {
-          "lvl": 38,
-          "m": "Cepo"
-        },
-        {
-          "lvl": 38,
-          "m": "Llama Final"
-        },
-        {
-          "lvl": 43,
-          "m": "Reserva"
-        },
-        {
-          "lvl": 44,
-          "m": "Purificación"
-        },
-        {
-          "lvl": 44,
-          "m": "Cola Férrea"
-        },
-        {
-          "lvl": 49,
-          "m": "Campo de Niebla"
-        },
-        {
-          "lvl": 53,
-          "m": "Calamidad"
-        },
-        {
-          "lvl": 54,
-          "m": "Brazo Pincho"
-        }
-      ],
-      "firstMoves": [
-        "Cola Férrea",
-        "Campo de Niebla",
-        "Calamidad",
-        "Brazo Pincho"
-      ],
-      "spriteKey": "CACTURNE"
     }
   ],
   "graveyard": [
@@ -9122,15 +9122,15 @@
       "mon": "Araquanid"
     },
     {
-      "route": "",
-      "where": "Laboratorio Canela",
-      "species": "Arctozolt",
-      "nickname": "2",
+      "route": "ruta_23",
+      "where": "Ruta 23",
+      "species": "Cacturne",
+      "nickname": "Travis",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 1,
-      "mon": "Arctozolt"
+      "category": "salvaje",
+      "level": 64,
+      "mon": "Cacturne"
     },
     {
       "route": "",
@@ -9186,6 +9186,17 @@
       "category": "intercambio",
       "level": 22,
       "mon": "Rhyperior"
+    },
+    {
+      "route": "",
+      "where": "Laboratorio Canela",
+      "species": "Arctozolt",
+      "nickname": "2",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Arctozolt"
     },
     {
       "route": "volcan_canela",
@@ -9386,17 +9397,6 @@
       "mon": "Toxicroak"
     },
     {
-      "route": "ruta_23",
-      "where": "Ruta 23",
-      "species": "Cacturne",
-      "nickname": "Travis",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 64,
-      "mon": "Cacturne"
-    },
-    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -9548,6 +9548,7 @@
       "ruta_8": true,
       "zona_safari": true,
       "ciudad_fucsia": true,
+      "ruta_23": true,
       "ruta_19": true,
       "ruta_11": true,
       "ruta_6": true,
@@ -9565,7 +9566,6 @@
       "ruta_5": true,
       "central_energia": true,
       "cueva_celeste": true,
-      "ruta_23": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_16": true,
