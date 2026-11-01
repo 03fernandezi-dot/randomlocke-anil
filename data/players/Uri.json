@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 27h 9m jugadas · 484,710₽ · vidas en el juego: 18",
+  "notes": "Importado del save · 27h 12m jugadas · 484,710₽ · vidas en el juego: 18",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,7 +34,7 @@
       ],
       "ev": [
         23,
-        51,
+        53,
         33,
         23,
         8,
@@ -212,7 +212,7 @@
       ],
       "ev": [
         18,
-        51,
+        53,
         29,
         25,
         9,
@@ -743,7 +743,7 @@
       ],
       "ev": [
         30,
-        56,
+        58,
         34,
         30,
         16,
@@ -6247,6 +6247,157 @@
         "Alboroto"
       ],
       "spriteKey": "NOSEPASS"
+    },
+    {
+      "nickname": "Frederic",
+      "species": "Sneasler",
+      "level": 58,
+      "types": [
+        "Lucha",
+        "Veneno"
+      ],
+      "ability": "Termoconversión",
+      "nature": "Miedosa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Gruñido",
+        "Trampa Venenosa",
+        "Puño Dinámico",
+        "Campo Eléctrico"
+      ],
+      "iv": [
+        30,
+        2,
+        26,
+        1,
+        27,
+        26
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Despiste",
+        "Termoconversión"
+      ],
+      "abilHidden": [
+        "Mar Llamas"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Poder Reserva"
+        },
+        {
+          "lvl": 1,
+          "m": "Reflejo"
+        },
+        {
+          "lvl": 1,
+          "m": "Envidia ardiente"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Incremento"
+        },
+        {
+          "lvl": 1,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Kárate"
+        },
+        {
+          "lvl": 1,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 1,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 6,
+          "m": "Bostezo"
+        },
+        {
+          "lvl": 10,
+          "m": "Chirrido"
+        },
+        {
+          "lvl": 12,
+          "m": "Mil Púas Tóxicas"
+        },
+        {
+          "lvl": 14,
+          "m": "Llave Vital"
+        },
+        {
+          "lvl": 16,
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 18,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 20,
+          "m": "Cambio de Cancha"
+        },
+        {
+          "lvl": 24,
+          "m": "Telaraña"
+        },
+        {
+          "lvl": 28,
+          "m": "Follaje"
+        },
+        {
+          "lvl": 30,
+          "m": "Granizo"
+        },
+        {
+          "lvl": 36,
+          "m": "Golpe Roca"
+        },
+        {
+          "lvl": 40,
+          "m": "Patada Baja"
+        },
+        {
+          "lvl": 42,
+          "m": "Gruñido"
+        },
+        {
+          "lvl": 47,
+          "m": "Trampa Venenosa"
+        },
+        {
+          "lvl": 48,
+          "m": "Puño Dinámico"
+        },
+        {
+          "lvl": 54,
+          "m": "Campo Eléctrico"
+        },
+        {
+          "lvl": 60,
+          "m": "Armadura Ácida"
+        }
+      ],
+      "firstMoves": [
+        "Gruñido",
+        "Trampa Venenosa",
+        "Puño Dinámico",
+        "Campo Eléctrico"
+      ],
+      "spriteKey": "SNEASLER_1"
     }
   ],
   "graveyard": [
@@ -7419,6 +7570,17 @@
       "mon": "Nosepass"
     },
     {
+      "route": "bosque_celeste",
+      "where": "Bosque Celeste",
+      "species": "Sneasler",
+      "nickname": "Frederic",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 58,
+      "mon": "Sneasler"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -7520,6 +7682,7 @@
       "ruta_19": true,
       "mansion_quemada": true,
       "cueva_celeste": true,
+      "bosque_celeste": true,
       "ruta_22": true,
       "pueblo_paleta": true,
       "tunel_roca": true,
@@ -7578,7 +7741,8 @@
       "islas_espuma": true,
       "ruta_19": true,
       "mansion_quemada": true,
-      "cueva_celeste": true
+      "cueva_celeste": true,
+      "bosque_celeste": true
     },
     "switches": [
       48,
@@ -8592,7 +8756,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 16,
+        "qty": 15,
         "pocket": "Poké Balls"
       },
       {
@@ -8622,13 +8786,13 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 6,
+        "qty": 1,
         "pocket": "Poké Balls"
       },
       {
         "id": "FASTBALL",
         "name": "Rapid Ball",
-        "qty": 6,
+        "qty": 5,
         "pocket": "Poké Balls"
       },
       {
