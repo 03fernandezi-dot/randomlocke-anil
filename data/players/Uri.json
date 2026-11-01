@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 10m jugadas · 378,330₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 26h 23m jugadas · 378,330₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 56,
+      "level": 57,
       "types": [
         "Planta",
         "Veneno"
@@ -210,9 +210,9 @@
       "ev": [
         21,
         19,
-        14,
+        15,
         11,
-        12,
+        14,
         18
       ],
       "abilPool": [
@@ -307,6 +307,9 @@
           "m": "Erupción de Ira"
         }
       ],
+      "tmMoves": [
+        "Roca Veloz"
+      ],
       "firstMoves": [
         "Anticipo",
         "Fuego Fatuo",
@@ -318,7 +321,7 @@
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 56,
+      "level": 57,
       "types": [
         "Agua",
         "Tierra"
@@ -526,9 +529,9 @@
       "ev": [
         9,
         9,
-        6,
+        7,
         3,
-        5,
+        7,
         12
       ],
       "abilPool": [
@@ -702,9 +705,9 @@
       "ev": [
         16,
         11,
-        12,
+        13,
         3,
-        5,
+        7,
         15
       ],
       "abilPool": [
@@ -852,7 +855,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 56,
+      "level": 57,
       "types": [
         "Hada",
         "Acero"
@@ -7524,7 +7527,6 @@
       199,
       201,
       202,
-      203,
       207,
       209,
       214,
@@ -7677,6 +7679,7 @@
       "MT11",
       "MT113",
       "MT116",
+      "MT119",
       "MT12",
       "MT122",
       "MT123",
@@ -7735,6 +7738,7 @@
       "MT99",
       "Nerviosfera",
       "Paracontacto",
+      "Parasol Multiuso",
       "Parte Amarilla",
       "Parte Roja",
       "Parte Verde",
@@ -8246,6 +8250,12 @@
       {
         "id": "CHOICEBAND",
         "name": "Cinta Elección",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "UTILITYUMBRELLA",
+        "name": "Parasol Multiuso",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -9068,6 +9078,12 @@
       {
         "id": "TM118",
         "name": "MT118",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM119",
+        "name": "MT119",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
