@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 28h 18m jugadas · 576,610₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 21m jugadas · 576,610₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -503,7 +503,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 65,
+      "level": 66,
       "types": [
         "Hada",
         "Acero"
@@ -515,8 +515,8 @@
       "moves": [
         "Escudo Real",
         "Brillo Mágico",
-        "Cola Férrea",
-        "Acua Cola"
+        "Cabeza de Hierro",
+        "Cambio de Marcha"
       ],
       "natureMint": true,
       "natureBase": "Rara",
@@ -640,6 +640,7 @@
         "Batido",
         "Bomba Lodo",
         "Brillo Mágico",
+        "Cabeza de Hierro",
         "Cañón Dinamax",
         "Cerrojo Feérico",
         "Chispa",
@@ -674,7 +675,8 @@
         "Sonámbulo",
         "Trampa Rocas",
         "Treparrocas",
-        "Viento Feérico"
+        "Viento Feérico",
+        "Yo Primero"
       ],
       "firstMoves": [
         "Giro Vil",
@@ -8802,7 +8804,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 273,
+        "qty": 272,
         "pocket": "Medicinas"
       },
       {
