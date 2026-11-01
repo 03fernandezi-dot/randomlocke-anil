@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 36m jugadas · 418,810₽ · vidas en el juego: 20",
+  "notes": "Importado del save · 26h 38m jugadas · 423,940₽ · vidas en el juego: 20",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -33,8 +33,8 @@
         13
       ],
       "ev": [
-        16,
-        28,
+        18,
+        30,
         22,
         8,
         7,
@@ -210,8 +210,8 @@
         17
       ],
       "ev": [
-        23,
-        36,
+        25,
+        38,
         24,
         18,
         15,
@@ -529,8 +529,8 @@
         25
       ],
       "ev": [
-        11,
-        26,
+        13,
+        28,
         16,
         10,
         8,
@@ -9516,8 +9516,8 @@
         "pocket": "Objetos clave"
       },
       {
-        "id": "VIAL",
-        "name": "Vial",
+        "id": "EMPTYVIAL",
+        "name": "Emptyvial",
         "qty": 1,
         "pocket": "Objetos clave"
       },
