@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": false,
-  "notes": "Importado del save · 27h 25m jugadas · 493,250₽ · vidas en el juego: 16",
+  "notes": "Importado del save · 27h 47m jugadas · 502,700₽ · vidas en el juego: 16",
   "team": [
     {
       "nickname": "Cucatrampada",
       "species": "Dragonite",
-      "level": 62,
+      "level": 65,
       "types": [
         "Dragón",
         "Volador"
@@ -33,12 +33,12 @@
         13
       ],
       "ev": [
-        23,
-        59,
-        34,
+        26,
+        62,
+        36,
         32,
-        12,
-        25
+        14,
+        29
       ],
       "abilPool": [
         "Fuerza Mental"
@@ -186,7 +186,7 @@
     {
       "nickname": "Tita",
       "species": "Tyranitar",
-      "level": 62,
+      "level": 65,
       "types": [
         "Roca",
         "Siniestro"
@@ -212,12 +212,12 @@
         25
       ],
       "ev": [
-        18,
-        59,
-        30,
-        34,
-        13,
-        25
+        21,
+        62,
+        32,
+        37,
+        15,
+        29
       ],
       "abilPool": [
         "Rezagado"
@@ -364,7 +364,7 @@
     {
       "nickname": "Nescafé",
       "species": "Magmortar",
-      "level": 63,
+      "level": 65,
       "types": [
         "Fuego"
       ],
@@ -389,12 +389,12 @@
         17
       ],
       "ev": [
-        30,
-        64,
-        35,
-        39,
-        20,
-        31
+        33,
+        67,
+        37,
+        42,
+        22,
+        35
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -503,7 +503,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 63,
+      "level": 65,
       "types": [
         "Hada",
         "Acero"
@@ -687,11 +687,11 @@
     {
       "nickname": "Gustav",
       "species": "Inteleon",
-      "level": 63,
+      "level": 65,
       "types": [
         "Agua"
       ],
-      "ability": "Viscosidad",
+      "ability": "Torrente",
       "nature": "Serena",
       "item": "Inteleonita",
       "shiny": false,
@@ -710,12 +710,12 @@
         13
       ],
       "ev": [
-        0,
-        4,
-        0,
         3,
-        3,
-        0
+        7,
+        2,
+        6,
+        5,
+        4
       ],
       "abilPool": [
         "Viscosidad"
@@ -844,6 +844,191 @@
         "Pisotón"
       ],
       "spriteKey": "INTELEON"
+    },
+    {
+      "nickname": "SQLite",
+      "species": "Muk (Alola)",
+      "level": 65,
+      "types": [
+        "Veneno",
+        "Siniestro"
+      ],
+      "ability": "Espada Indómita",
+      "nature": "Tímida",
+      "item": "Tabla Tóxica",
+      "shiny": false,
+      "moves": [
+        "Garra Nociva",
+        "Escudo Real",
+        "Presa Maxilar",
+        "Púas Tóxicas"
+      ],
+      "iv": [
+        0,
+        2,
+        8,
+        27,
+        29,
+        1
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Néctar dulce",
+        "Espada Indómita"
+      ],
+      "abilHidden": [
+        "Piel Feérica"
+      ],
+      "learnset": [
+        {
+          "lvl": 0,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 1,
+          "m": "Campo Eléctrico"
+        },
+        {
+          "lvl": 1,
+          "m": "Conversión2"
+        },
+        {
+          "lvl": 1,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 7,
+          "m": "Telépata"
+        },
+        {
+          "lvl": 12,
+          "m": "Tenaza"
+        },
+        {
+          "lvl": 15,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 18,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 18,
+          "m": "Chispa"
+        },
+        {
+          "lvl": 21,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 21,
+          "m": "Poder Reserva"
+        },
+        {
+          "lvl": 26,
+          "m": "Infortunio"
+        },
+        {
+          "lvl": 26,
+          "m": "Cambio de Banda"
+        },
+        {
+          "lvl": 29,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 29,
+          "m": "Agarre"
+        },
+        {
+          "lvl": 32,
+          "m": "Garra Nociva"
+        },
+        {
+          "lvl": 37,
+          "m": "Isofuerza"
+        },
+        {
+          "lvl": 40,
+          "m": "Espora"
+        },
+        {
+          "lvl": 46,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 52,
+          "m": "Poder Místico"
+        },
+        {
+          "lvl": 57,
+          "m": "Atizar"
+        }
+      ],
+      "tmMoves": [
+        "Absorbefuerza",
+        "Acua Cola",
+        "Adaptación",
+        "Agarre",
+        "Alivio",
+        "Amplificador",
+        "Anillo Ígneo",
+        "Ascuas",
+        "Beso Drenaje",
+        "Bomba Caramelo",
+        "Bomba Lodo",
+        "Brecha Negra",
+        "Brillo Mágico",
+        "Cabeza de Hierro",
+        "Cañón Batidor",
+        "Cañón Dinamax",
+        "Carga Dragón",
+        "Ciclón",
+        "Clemencia",
+        "Cola Veneno",
+        "Colmillo Veneno",
+        "Cura Floral",
+        "Desarrollo",
+        "Doble Golpe",
+        "Escudo Real",
+        "Hoja Aguda",
+        "Hora del Té",
+        "Ladrón",
+        "Moluscañón",
+        "Motivación",
+        "Nitrocarga",
+        "Onda Certera",
+        "Pesadilla",
+        "Picotazo Veneno",
+        "Pin Misil",
+        "Poder Pasado",
+        "Presa Maxilar",
+        "Profecía",
+        "Puño Sombra",
+        "Rayo Señal",
+        "Reducción",
+        "Retribución",
+        "Salazón",
+        "Shuriken de Agua",
+        "Venganza",
+        "Voz Cautivadora",
+        "Yo Primero"
+      ],
+      "firstMoves": [
+        "Garra Nociva",
+        "Isofuerza",
+        "Espora",
+        "Púas Tóxicas"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10113.png",
+      "spriteKey": "MUK_1"
     }
   ],
   "box": [
@@ -5376,142 +5561,6 @@
       "spriteKey": "DONDOZO"
     },
     {
-      "nickname": "SQLite",
-      "species": "Muk (Alola)",
-      "level": 51,
-      "types": [
-        "Veneno",
-        "Siniestro"
-      ],
-      "ability": "Espada Indómita",
-      "nature": "Tímida",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Garra Nociva",
-        "Isofuerza",
-        "Espora",
-        "Púas Tóxicas"
-      ],
-      "iv": [
-        0,
-        2,
-        8,
-        27,
-        29,
-        1
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Néctar dulce",
-        "Espada Indómita"
-      ],
-      "abilHidden": [
-        "Piel Feérica"
-      ],
-      "learnset": [
-        {
-          "lvl": 0,
-          "m": "Encanto"
-        },
-        {
-          "lvl": 1,
-          "m": "Campo Eléctrico"
-        },
-        {
-          "lvl": 1,
-          "m": "Conversión2"
-        },
-        {
-          "lvl": 1,
-          "m": "Rencor"
-        },
-        {
-          "lvl": 7,
-          "m": "Telépata"
-        },
-        {
-          "lvl": 12,
-          "m": "Tenaza"
-        },
-        {
-          "lvl": 15,
-          "m": "A Defender"
-        },
-        {
-          "lvl": 18,
-          "m": "Cura Floral"
-        },
-        {
-          "lvl": 18,
-          "m": "Chispa"
-        },
-        {
-          "lvl": 21,
-          "m": "Fotosíntesis"
-        },
-        {
-          "lvl": 21,
-          "m": "Poder Reserva"
-        },
-        {
-          "lvl": 26,
-          "m": "Infortunio"
-        },
-        {
-          "lvl": 26,
-          "m": "Cambio de Banda"
-        },
-        {
-          "lvl": 29,
-          "m": "Corte Furia"
-        },
-        {
-          "lvl": 29,
-          "m": "Agarre"
-        },
-        {
-          "lvl": 32,
-          "m": "Garra Nociva"
-        },
-        {
-          "lvl": 37,
-          "m": "Isofuerza"
-        },
-        {
-          "lvl": 40,
-          "m": "Espora"
-        },
-        {
-          "lvl": 46,
-          "m": "Púas Tóxicas"
-        },
-        {
-          "lvl": 52,
-          "m": "Poder Místico"
-        },
-        {
-          "lvl": 57,
-          "m": "Atizar"
-        }
-      ],
-      "firstMoves": [
-        "Garra Nociva",
-        "Isofuerza",
-        "Espora",
-        "Púas Tóxicas"
-      ],
-      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10113.png",
-      "spriteKey": "MUK_1"
-    },
-    {
       "nickname": "Makakinho",
       "species": "Darumaka",
       "level": 53,
@@ -6057,184 +6106,6 @@
     }
   ],
   "graveyard": [
-    {
-      "nickname": "Rammus",
-      "species": "Venusaur",
-      "level": 63,
-      "types": [
-        "Planta",
-        "Veneno"
-      ],
-      "ability": "Perro Guardián",
-      "nature": "Osada",
-      "item": "Tabla Pradal",
-      "shiny": false,
-      "moves": [
-        "Cañón Batidor",
-        "Bomba Lodo",
-        "Poder Pasado",
-        "Defensa Férrea"
-      ],
-      "natureMint": true,
-      "natureBase": "Serena",
-      "iv": [
-        19,
-        21,
-        0,
-        27,
-        30,
-        19
-      ],
-      "ev": [
-        52,
-        139,
-        80,
-        93,
-        56,
-        90
-      ],
-      "abilPool": [
-        "Perro Guardián"
-      ],
-      "abilHidden": [
-        "Recogebolas"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Psicorrayo"
-        },
-        {
-          "lvl": 1,
-          "m": "Octopresa"
-        },
-        {
-          "lvl": 1,
-          "m": "Guardia Baja"
-        },
-        {
-          "lvl": 1,
-          "m": "Disparo Lodo"
-        },
-        {
-          "lvl": 1,
-          "m": "Paralizador"
-        },
-        {
-          "lvl": 1,
-          "m": "Purificación"
-        },
-        {
-          "lvl": 9,
-          "m": "Cura Selvática"
-        },
-        {
-          "lvl": 12,
-          "m": "Defensa Férrea"
-        },
-        {
-          "lvl": 15,
-          "m": "Aromaterapia"
-        },
-        {
-          "lvl": 15,
-          "m": "Cola Veneno"
-        },
-        {
-          "lvl": 20,
-          "m": "Cepo"
-        },
-        {
-          "lvl": 25,
-          "m": "Frío Polar"
-        },
-        {
-          "lvl": 30,
-          "m": "Bramido Dragón"
-        },
-        {
-          "lvl": 36,
-          "m": "Comesueños"
-        },
-        {
-          "lvl": 37,
-          "m": "Remolino"
-        },
-        {
-          "lvl": 39,
-          "m": "Picotazo"
-        },
-        {
-          "lvl": 44,
-          "m": "Pirochoque"
-        },
-        {
-          "lvl": 51,
-          "m": "Espacio Raro"
-        },
-        {
-          "lvl": 51,
-          "m": "Truco Floral"
-        },
-        {
-          "lvl": 58,
-          "m": "Patada Tropical"
-        }
-      ],
-      "tmMoves": [
-        "Absorbefuerza",
-        "Anillo Ígneo",
-        "Autotomía",
-        "Beso Drenaje",
-        "Bomba Caramelo",
-        "Bomba Lodo",
-        "Brecha Negra",
-        "Brillo Mágico",
-        "Cambiaalmas",
-        "Cañón Batidor",
-        "Carga Dragón",
-        "Cerrojo Feérico",
-        "Cola Veneno",
-        "Colmillo Veneno",
-        "Desarrollo",
-        "Descanso",
-        "Doble Golpe",
-        "Espora",
-        "Fertilizante",
-        "Fitoimpulso",
-        "Gas Venenoso",
-        "Giro Mortífero",
-        "Hoja Aguda",
-        "Hora del Té",
-        "Impactrueno",
-        "Ladrón",
-        "Legado",
-        "Motivación",
-        "Nitrocarga",
-        "Pataleta",
-        "Picotazo Veneno",
-        "Pin Misil",
-        "Piñón Auxiliar",
-        "Poder Pasado",
-        "Presa Maxilar",
-        "Profecía",
-        "Rayo Señal",
-        "Reducción",
-        "Saña",
-        "Señuelo",
-        "Viento Feérico"
-      ],
-      "firstMoves": [
-        "Campo de Hierba",
-        "Cuchillada",
-        "Paralizador",
-        "Residuos"
-      ],
-      "spriteKey": "VENUSAUR",
-      "cause": "",
-      "route": "Ruta 5",
-      "date": ""
-    },
     {
       "nickname": "Samuel",
       "species": "Diglett",
@@ -7077,6 +6948,184 @@
       "cause": "",
       "route": "Laboratorio",
       "date": ""
+    },
+    {
+      "nickname": "Rammus",
+      "species": "Venusaur",
+      "level": 63,
+      "types": [
+        "Planta",
+        "Veneno"
+      ],
+      "ability": "Perro Guardián",
+      "nature": "Osada",
+      "item": "Tabla Pradal",
+      "shiny": false,
+      "moves": [
+        "Cañón Batidor",
+        "Bomba Lodo",
+        "Poder Pasado",
+        "Defensa Férrea"
+      ],
+      "natureMint": true,
+      "natureBase": "Serena",
+      "iv": [
+        19,
+        21,
+        0,
+        27,
+        30,
+        19
+      ],
+      "ev": [
+        52,
+        139,
+        80,
+        93,
+        56,
+        90
+      ],
+      "abilPool": [
+        "Perro Guardián"
+      ],
+      "abilHidden": [
+        "Recogebolas"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 1,
+          "m": "Octopresa"
+        },
+        {
+          "lvl": 1,
+          "m": "Guardia Baja"
+        },
+        {
+          "lvl": 1,
+          "m": "Disparo Lodo"
+        },
+        {
+          "lvl": 1,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 1,
+          "m": "Purificación"
+        },
+        {
+          "lvl": 9,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 12,
+          "m": "Defensa Férrea"
+        },
+        {
+          "lvl": 15,
+          "m": "Aromaterapia"
+        },
+        {
+          "lvl": 15,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 20,
+          "m": "Cepo"
+        },
+        {
+          "lvl": 25,
+          "m": "Frío Polar"
+        },
+        {
+          "lvl": 30,
+          "m": "Bramido Dragón"
+        },
+        {
+          "lvl": 36,
+          "m": "Comesueños"
+        },
+        {
+          "lvl": 37,
+          "m": "Remolino"
+        },
+        {
+          "lvl": 39,
+          "m": "Picotazo"
+        },
+        {
+          "lvl": 44,
+          "m": "Pirochoque"
+        },
+        {
+          "lvl": 51,
+          "m": "Espacio Raro"
+        },
+        {
+          "lvl": 51,
+          "m": "Truco Floral"
+        },
+        {
+          "lvl": 58,
+          "m": "Patada Tropical"
+        }
+      ],
+      "tmMoves": [
+        "Absorbefuerza",
+        "Anillo Ígneo",
+        "Autotomía",
+        "Beso Drenaje",
+        "Bomba Caramelo",
+        "Bomba Lodo",
+        "Brecha Negra",
+        "Brillo Mágico",
+        "Cambiaalmas",
+        "Cañón Batidor",
+        "Carga Dragón",
+        "Cerrojo Feérico",
+        "Cola Veneno",
+        "Colmillo Veneno",
+        "Desarrollo",
+        "Descanso",
+        "Doble Golpe",
+        "Espora",
+        "Fertilizante",
+        "Fitoimpulso",
+        "Gas Venenoso",
+        "Giro Mortífero",
+        "Hoja Aguda",
+        "Hora del Té",
+        "Impactrueno",
+        "Ladrón",
+        "Legado",
+        "Motivación",
+        "Nitrocarga",
+        "Pataleta",
+        "Picotazo Veneno",
+        "Pin Misil",
+        "Piñón Auxiliar",
+        "Poder Pasado",
+        "Presa Maxilar",
+        "Profecía",
+        "Rayo Señal",
+        "Reducción",
+        "Saña",
+        "Señuelo",
+        "Viento Feérico"
+      ],
+      "firstMoves": [
+        "Campo de Hierba",
+        "Cuchillada",
+        "Paralizador",
+        "Residuos"
+      ],
+      "spriteKey": "VENUSAUR",
+      "cause": "",
+      "route": "Ruta 5",
+      "date": ""
     }
   ],
   "captures": [
@@ -7101,17 +7150,6 @@
       "category": "salvaje",
       "level": 6,
       "mon": "Tyranitar"
-    },
-    {
-      "route": "ruta_5",
-      "where": "Ruta 5",
-      "species": "Venusaur",
-      "nickname": "Rammus",
-      "shiny": false,
-      "status": "dead",
-      "category": "salvaje",
-      "level": 21,
-      "mon": "Venusaur"
     },
     {
       "route": "ciudad_celeste",
@@ -7145,6 +7183,17 @@
       "category": "salvaje",
       "level": 14,
       "mon": "Inteleon"
+    },
+    {
+      "route": "ruta_19",
+      "where": "Ruta 19",
+      "species": "Muk",
+      "nickname": "SQLite",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 51,
+      "mon": "Muk"
     },
     {
       "route": "ruta_9",
@@ -7532,17 +7581,6 @@
       "mon": "Dondozo"
     },
     {
-      "route": "ruta_19",
-      "where": "Ruta 19",
-      "species": "Muk",
-      "nickname": "SQLite",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 51,
-      "mon": "Muk"
-    },
-    {
       "route": "mansion_quemada",
       "where": "Mansión Quemada",
       "species": "Darumaka",
@@ -7651,6 +7689,17 @@
       "category": "estatico_regalo",
       "level": 5,
       "mon": "Swampert"
+    },
+    {
+      "route": "ruta_5",
+      "where": "Ruta 5",
+      "species": "Venusaur",
+      "nickname": "Rammus",
+      "shiny": false,
+      "status": "dead",
+      "category": "salvaje",
+      "level": 21,
+      "mon": "Venusaur"
     }
   ],
   "progress": {
@@ -7668,10 +7717,10 @@
     "routes": {
       "ruta_1": true,
       "ruta_2_sur": true,
-      "ruta_5": true,
       "ciudad_celeste": true,
       "ruta_15": true,
       "monte_moon": true,
+      "ruta_19": true,
       "ruta_9": true,
       "bosque_verde": true,
       "ruta_20": true,
@@ -7695,7 +7744,6 @@
       "ciudad_azafran": true,
       "ruta_18": true,
       "islas_espuma": true,
-      "ruta_19": true,
       "mansion_quemada": true,
       "cueva_celeste": true,
       "bosque_celeste": true,
@@ -7704,6 +7752,7 @@
       "pueblo_paleta": true,
       "tunel_roca": true,
       "ruta_16": true,
+      "ruta_5": true,
       "ruta_3": true,
       "ruta_7": true,
       "ruta_12": true,
@@ -7846,6 +7895,7 @@
       213,
       214,
       216,
+      229,
       231,
       232,
       233,
@@ -7853,6 +7903,10 @@
       235,
       236,
       237,
+      239,
+      240,
+      241,
+      242,
       252,
       271,
       301,
@@ -8106,6 +8160,7 @@
       "Revivir",
       "Roca Helada",
       "Roca Suave",
+      "Rockclimbitem",
       "Sana Ball",
       "Sarta Perlas",
       "Scapsula",
@@ -8498,7 +8553,7 @@
       {
         "id": "TOXICPLATE",
         "name": "Tabla Tóxica",
-        "qty": 2,
+        "qty": 1,
         "pocket": "Objetos"
       },
       {
@@ -8648,7 +8703,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 326,
+        "qty": 307,
         "pocket": "Medicinas"
       },
       {
@@ -9980,6 +10035,12 @@
       {
         "id": "SURFITEM",
         "name": "Surfitem",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "ROCKCLIMBITEM",
+        "name": "Rockclimbitem",
         "qty": 1,
         "pocket": "Objetos clave"
       }
