@@ -3,8 +3,8 @@
   "name": "Uri",
   "lives": 30,
   "livesUsed": 8,
-  "champion": false,
-  "notes": "Importado del save · 28h 12m jugadas · 566,710₽ · vidas en el juego: 15",
+  "champion": true,
+  "notes": "Importado del save · 28h 15m jugadas · 576,610₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,11 +34,11 @@
       ],
       "ev": [
         26,
-        67,
+        69,
         36,
-        35,
-        20,
-        30
+        37,
+        26,
+        33
       ],
       "abilPool": [
         "Fuerza Mental"
@@ -186,7 +186,7 @@
     {
       "nickname": "Tita",
       "species": "Tyranitar",
-      "level": 65,
+      "level": 66,
       "types": [
         "Roca",
         "Siniestro"
@@ -213,11 +213,11 @@
       ],
       "ev": [
         21,
-        67,
+        69,
         32,
-        40,
-        21,
-        30
+        42,
+        27,
+        33
       ],
       "abilPool": [
         "Rezagado"
@@ -364,7 +364,7 @@
     {
       "nickname": "Nescafé",
       "species": "Magmortar",
-      "level": 65,
+      "level": 66,
       "types": [
         "Fuego"
       ],
@@ -390,11 +390,11 @@
       ],
       "ev": [
         33,
-        72,
+        74,
         37,
-        45,
-        28,
-        36
+        47,
+        34,
+        39
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -503,7 +503,7 @@
     {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 65,
+      "level": 66,
       "types": [
         "Planta"
       ],
@@ -527,11 +527,11 @@
       ],
       "ev": [
         37,
-        96,
+        98,
         59,
-        64,
-        25,
-        49
+        66,
+        31,
+        52
       ],
       "abilPool": [
         "Mimetismo"
@@ -671,7 +671,7 @@
     {
       "nickname": "Gustav",
       "species": "Inteleon",
-      "level": 65,
+      "level": 66,
       "types": [
         "Agua"
       ],
@@ -695,11 +695,11 @@
       ],
       "ev": [
         3,
-        12,
+        14,
         2,
-        9,
         11,
-        5
+        17,
+        8
       ],
       "abilPool": [
         "Viscosidad"
@@ -859,11 +859,11 @@
       ],
       "ev": [
         0,
-        2,
+        4,
         0,
-        3,
-        0,
-        0
+        5,
+        6,
+        3
       ],
       "abilPool": [
         "Despiste",
@@ -7798,7 +7798,8 @@
       "gym4": true,
       "gym5": true,
       "gym6": true,
-      "gym7": true
+      "gym7": true,
+      "gym8": true
     },
     "bosses": {},
     "npcs": {},
@@ -7983,8 +7984,10 @@
       213,
       214,
       216,
+      225,
       226,
       227,
+      228,
       229,
       231,
       232,
@@ -8231,6 +8234,7 @@
       "Poké Montura",
       "Poké Muñeco",
       "Pokéseñuelo",
+      "Polvo Metálico",
       "Polvo Veloz",
       "Porcehelado",
       "PP Máximos",
@@ -8428,7 +8432,7 @@
       {
         "id": "BUGGEM",
         "name": "Gema Bicho",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos"
       },
       {
@@ -8590,7 +8594,7 @@
       {
         "id": "SCOPELENS",
         "name": "Periscopio",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -8762,6 +8766,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "METALPOWDER",
+        "name": "Polvo Metálico",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "FRESHWATER",
         "name": "Agua Fresca",
         "qty": 1,
@@ -8914,6 +8924,12 @@
       {
         "id": "BERRYJUICE",
         "name": "Zumo de Baya",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "CENIZASSAGRADAS",
+        "name": "Cenizas Sagradas",
         "qty": 1,
         "pocket": "Medicinas"
       },
