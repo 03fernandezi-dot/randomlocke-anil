@@ -841,10 +841,10 @@
       "item": "",
       "shiny": false,
       "moves": [
-        "Búnker",
+        "Giro Mortífero",
         "Ultrapuño",
-        "Batido",
-        "Giro Mortífero"
+        "Búnker",
+        "Batido"
       ],
       "iv": [
         7,
