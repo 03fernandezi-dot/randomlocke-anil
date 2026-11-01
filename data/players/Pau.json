@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 19h 17m jugadas · 589,775₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 19h 21m jugadas · 597,695₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -36,9 +36,9 @@
       ],
       "ev": [
         33,
-        81,
+        87,
         13,
-        38,
+        39,
         22,
         48
       ],
@@ -376,9 +376,9 @@
       ],
       "ev": [
         33,
-        81,
+        87,
         13,
-        35,
+        36,
         22,
         48
       ],
@@ -723,9 +723,9 @@
       ],
       "ev": [
         15,
-        25,
+        31,
         3,
-        17,
+        18,
         6,
         6
       ],
@@ -874,9 +874,9 @@
       ],
       "ev": [
         40,
-        122,
+        128,
         38,
-        46,
+        47,
         38,
         73
       ],
@@ -6998,6 +6998,160 @@
         "Octopresa"
       ],
       "spriteKey": "TOXICROAK"
+    },
+    {
+      "nickname": "Travis",
+      "species": "Cacturne",
+      "level": 64,
+      "types": [
+        "Planta",
+        "Siniestro"
+      ],
+      "ability": "Punk Rock",
+      "nature": "Modesta",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cola Férrea",
+        "Campo de Niebla",
+        "Calamidad",
+        "Brazo Pincho"
+      ],
+      "iv": [
+        16,
+        3,
+        13,
+        26,
+        13,
+        23
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Punk Rock"
+      ],
+      "abilHidden": [
+        "Hurto"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 1,
+          "m": "Patada Giro"
+        },
+        {
+          "lvl": 1,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 1,
+          "m": "Cortina Plasma"
+        },
+        {
+          "lvl": 1,
+          "m": "Divide Dolor"
+        },
+        {
+          "lvl": 1,
+          "m": "Hierba Lazo"
+        },
+        {
+          "lvl": 1,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 10,
+          "m": "Llanto Falso"
+        },
+        {
+          "lvl": 13,
+          "m": "Hilo Venenoso"
+        },
+        {
+          "lvl": 16,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 16,
+          "m": "Ataque Óseo"
+        },
+        {
+          "lvl": 19,
+          "m": "Ascuas"
+        },
+        {
+          "lvl": 22,
+          "m": "Trapicheo"
+        },
+        {
+          "lvl": 26,
+          "m": "Látigo Cepa"
+        },
+        {
+          "lvl": 29,
+          "m": "Drenadoras"
+        },
+        {
+          "lvl": 30,
+          "m": "Brecha Negra"
+        },
+        {
+          "lvl": 32,
+          "m": "Chapoteo Lodo"
+        },
+        {
+          "lvl": 35,
+          "m": "Hipertaladro"
+        },
+        {
+          "lvl": 38,
+          "m": "Cepo"
+        },
+        {
+          "lvl": 38,
+          "m": "Llama Final"
+        },
+        {
+          "lvl": 43,
+          "m": "Reserva"
+        },
+        {
+          "lvl": 44,
+          "m": "Purificación"
+        },
+        {
+          "lvl": 44,
+          "m": "Cola Férrea"
+        },
+        {
+          "lvl": 49,
+          "m": "Campo de Niebla"
+        },
+        {
+          "lvl": 53,
+          "m": "Calamidad"
+        },
+        {
+          "lvl": 54,
+          "m": "Brazo Pincho"
+        }
+      ],
+      "firstMoves": [
+        "Cola Férrea",
+        "Campo de Niebla",
+        "Calamidad",
+        "Brazo Pincho"
+      ],
+      "spriteKey": "CACTURNE"
     }
   ],
   "graveyard": [
@@ -9232,6 +9386,17 @@
       "mon": "Toxicroak"
     },
     {
+      "route": "ruta_23",
+      "where": "Ruta 23",
+      "species": "Cacturne",
+      "nickname": "Travis",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 64,
+      "mon": "Cacturne"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -9400,6 +9565,7 @@
       "ruta_5": true,
       "central_energia": true,
       "cueva_celeste": true,
+      "ruta_23": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_16": true,
@@ -9414,8 +9580,7 @@
       "tunel_diglett": true,
       "tunel_roca": true,
       "pueblo_marengo": true,
-      "ruta_17": true,
-      "ruta_23": true
+      "ruta_17": true
     },
     "items": {},
     "encounters": {
@@ -9466,7 +9631,8 @@
       "cueva_celeste": true,
       "bosque_celeste": true,
       "volcan_canela": true,
-      "central_energia": true
+      "central_energia": true,
+      "ruta_23": true
     },
     "switches": [
       48,
@@ -9633,6 +9799,7 @@
       "Chaleco Asalto",
       "Chesnaughtite",
       "Cinta Elección",
+      "Cinta Fuerte",
       "Cinto Recio",
       "Cleverfeather",
       "Competi Ball",
@@ -10252,6 +10419,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "MUSCLEBAND",
+        "name": "Cinta Fuerte",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -10488,13 +10661,13 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 8,
+        "qty": 7,
         "pocket": "Poké Balls"
       },
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 27,
+        "qty": 26,
         "pocket": "Poké Balls"
       },
       {
