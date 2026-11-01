@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 17h 29m jugadas · 370,350₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 17h 50m jugadas · 388,655₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
       "species": "Tinkaton",
-      "level": 63,
+      "level": 65,
       "types": [
         "Hada",
         "Acero"
@@ -35,12 +35,12 @@
         20
       ],
       "ev": [
-        18,
-        56,
-        10,
-        18,
-        16,
-        42
+        25,
+        68,
+        11,
+        31,
+        17,
+        45
       ],
       "abilPool": [
         "Manto Níveo",
@@ -189,7 +189,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 62,
+      "level": 64,
       "types": [
         "Psíquico",
         "Volador"
@@ -215,12 +215,12 @@
         20
       ],
       "ev": [
-        61,
-        142,
-        62,
-        54,
-        62,
-        93
+        68,
+        154,
+        63,
+        66,
+        63,
+        96
       ],
       "abilPool": [
         "Piel Tétrica",
@@ -346,7 +346,7 @@
     {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 63,
+      "level": 65,
       "types": [
         "Siniestro",
         "Acero"
@@ -372,12 +372,12 @@
         0
       ],
       "ev": [
-        18,
-        56,
-        10,
-        18,
-        16,
-        42
+        25,
+        68,
+        11,
+        28,
+        17,
+        45
       ],
       "abilPool": [
         "Recogebolas",
@@ -480,6 +480,7 @@
         "Eco Metálico",
         "Electropico",
         "Empujón",
+        "Espejo",
         "Fuerza G",
         "Giro Mortífero",
         "Hachazo Pétreo",
@@ -510,7 +511,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 63,
+      "level": 65,
       "types": [
         "Eléctrico"
       ],
@@ -692,7 +693,7 @@
     {
       "nickname": "Juanca",
       "species": "Greattusk",
-      "level": 63,
+      "level": 64,
       "types": [
         "Tierra",
         "Lucha"
@@ -716,12 +717,12 @@
         18
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        7,
+        12,
+        1,
+        10,
+        1,
+        3
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -843,12 +844,12 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 63,
+      "level": 64,
       "types": [
         "Veneno",
         "Dragón"
       ],
-      "ability": "Cuerpo Horneado",
+      "ability": "Punto Tóxico",
       "nature": "Serena",
       "item": "Dragalgite",
       "shiny": false,
@@ -867,12 +868,12 @@
         22
       ],
       "ev": [
-        25,
-        97,
-        35,
-        29,
         32,
-        67
+        109,
+        36,
+        39,
+        33,
+        70
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -9242,6 +9243,7 @@
       213,
       214,
       216,
+      229,
       231,
       232,
       233,
@@ -9249,6 +9251,10 @@
       235,
       236,
       237,
+      239,
+      240,
+      241,
+      242,
       252,
       271,
       301,
@@ -9287,6 +9293,7 @@
       "Baya Pomaro",
       "Baya Tamar",
       "Baya Tamate",
+      "Baya Uvav",
       "Baya Zanama",
       "Baya Zidra",
       "Baya Zonlan",
@@ -9467,6 +9474,7 @@
       "Precisión X 3",
       "Prettyfeather",
       "Prisma Rojo",
+      "Proteína",
       "Puerro",
       "Radar",
       "Raíz Energía",
@@ -9480,6 +9488,7 @@
       "Roca Calor",
       "Roca Helada",
       "Roca Suave",
+      "Rockclimbitem",
       "Scapsula",
       "Sceptilita",
       "Scizorita",
@@ -9576,7 +9585,7 @@
       {
         "id": "SUPERREPEL",
         "name": "Superrepelente",
-        "qty": 2,
+        "qty": 1,
         "pocket": "Objetos"
       },
       {
@@ -9946,6 +9955,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "TINYMUSHROOM",
+        "name": "Miniseta",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -10120,14 +10135,14 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "ENERGYROOT",
-        "name": "Raíz Energía",
+        "id": "RESISTMOCHI",
+        "name": "Mochi Aguante",
         "qty": 1,
         "pocket": "Medicinas"
       },
       {
-        "id": "RESISTMOCHI",
-        "name": "Mochi Aguante",
+        "id": "PROTEIN",
+        "name": "Proteína",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -10732,6 +10747,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "GREPABERRY",
+        "name": "Baya Uvav",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "TAMATOBERRY",
         "name": "Baya Tamate",
         "qty": 1,
@@ -11040,6 +11061,12 @@
       {
         "id": "BICYCLE",
         "name": "Bici",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "ROCKCLIMBITEM",
+        "name": "Rockclimbitem",
         "qty": 1,
         "pocket": "Objetos clave"
       }
