@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 43m jugadas · 432,790₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 26h 45m jugadas · 441,340₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -7634,6 +7634,7 @@
       "Gema Planta",
       "Gema Psíquica",
       "Gema Veneno",
+      "Geniusfeather",
       "Gran Diamansfera",
       "Greninjita",
       "Griseosfera",
@@ -7786,6 +7787,7 @@
       "Resistfeather",
       "Revest. Metálico",
       "Revivir",
+      "Roca Helada",
       "Roca Suave",
       "Sana Ball",
       "Sarta Perlas",
@@ -7968,7 +7970,7 @@
       {
         "id": "PSYCHICGEM",
         "name": "Gema Psíquica",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -8290,6 +8292,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "ICYROCK",
+        "name": "Roca Helada",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ANTIDOTE",
         "name": "Antídoto",
         "qty": 1,
@@ -8430,6 +8438,12 @@
       {
         "id": "HEALTHMOCHI",
         "name": "Mochi Vigor",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "GENIUSFEATHER",
+        "name": "Geniusfeather",
         "qty": 1,
         "pocket": "Medicinas"
       },
