@@ -4,186 +4,188 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 24m jugadas · 383,280₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 26h 30m jugadas · 403,040₽ · vidas en el juego: 20",
   "team": [
     {
-      "nickname": "Rammus",
-      "species": "Venusaur",
+      "nickname": "Cucatrampada",
+      "species": "Dragonite",
       "level": 57,
       "types": [
-        "Planta",
-        "Veneno"
+        "Dragón",
+        "Volador"
       ],
-      "ability": "Perro Guardián",
-      "nature": "Osada",
-      "item": "Tabla Pradal",
-      "shiny": false,
+      "ability": "Fuerza Mental",
+      "nature": "Activa",
+      "item": "Pico Afilado",
+      "shiny": true,
       "moves": [
-        "Cañón Batidor",
-        "Bomba Lodo",
-        "Poder Pasado",
-        "Defensa Férrea"
+        "Vasto Impacto",
+        "Respiro",
+        "Picoteo",
+        "Espora"
       ],
-      "natureMint": true,
-      "natureBase": "Serena",
       "iv": [
-        19,
-        21,
-        0,
-        27,
-        30,
-        19
+        4,
+        5,
+        22,
+        6,
+        31,
+        13
       ],
       "ev": [
-        52,
-        139,
-        80,
-        93,
-        56,
-        90
+        16,
+        18,
+        19,
+        5,
+        7,
+        15
       ],
       "abilPool": [
-        "Perro Guardián"
+        "Fuerza Mental"
       ],
       "abilHidden": [
-        "Recogebolas"
+        "Poder Gélido"
       ],
       "learnset": [
         {
           "lvl": -1,
-          "m": "Psicorrayo"
+          "m": "Despejar"
         },
         {
           "lvl": 1,
-          "m": "Octopresa"
+          "m": "Amago"
         },
         {
           "lvl": 1,
-          "m": "Guardia Baja"
+          "m": "Clemencia"
         },
         {
           "lvl": 1,
-          "m": "Disparo Lodo"
+          "m": "Arañazo"
         },
         {
           "lvl": 1,
-          "m": "Paralizador"
+          "m": "Cerrojo Feérico"
         },
         {
           "lvl": 1,
-          "m": "Purificación"
+          "m": "Picoteo"
         },
         {
-          "lvl": 9,
-          "m": "Cura Selvática"
+          "lvl": 1,
+          "m": "Ráfaga Escamas"
         },
         {
-          "lvl": 12,
-          "m": "Defensa Férrea"
+          "lvl": 1,
+          "m": "Polvo Explosivo"
+        },
+        {
+          "lvl": 1,
+          "m": "Voltiocambio"
+        },
+        {
+          "lvl": 1,
+          "m": "Vasto Impacto"
         },
         {
           "lvl": 15,
-          "m": "Aromaterapia"
+          "m": "Tornado"
         },
         {
           "lvl": 15,
-          "m": "Cola Veneno"
+          "m": "Envidia ardiente"
         },
         {
           "lvl": 20,
-          "m": "Cepo"
+          "m": "Respiro"
         },
         {
           "lvl": 25,
-          "m": "Frío Polar"
+          "m": "Confusión"
         },
         {
-          "lvl": 30,
-          "m": "Bramido Dragón"
-        },
-        {
-          "lvl": 36,
-          "m": "Comesueños"
-        },
-        {
-          "lvl": 37,
-          "m": "Remolino"
+          "lvl": 33,
+          "m": "Distorsión"
         },
         {
           "lvl": 39,
-          "m": "Picotazo"
+          "m": "Corpulencia"
         },
         {
-          "lvl": 44,
-          "m": "Pirochoque"
+          "lvl": 41,
+          "m": "Esporagodón"
         },
         {
-          "lvl": 51,
-          "m": "Espacio Raro"
+          "lvl": 46,
+          "m": "Infierno"
         },
         {
-          "lvl": 51,
-          "m": "Truco Floral"
+          "lvl": 53,
+          "m": "Tormenta Floral"
         },
         {
           "lvl": 58,
-          "m": "Patada Tropical"
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 62,
+          "m": "Cañón Dinamax"
+        },
+        {
+          "lvl": 80,
+          "m": "Bucle Arena"
         }
       ],
       "tmMoves": [
         "Absorbefuerza",
-        "Anillo Ígneo",
+        "Alivio",
+        "Ascuas",
         "Autotomía",
         "Beso Drenaje",
-        "Bomba Caramelo",
         "Bomba Lodo",
         "Brecha Negra",
-        "Brillo Mágico",
         "Cambiaalmas",
         "Cañón Batidor",
+        "Cañón Dinamax",
         "Carga Dragón",
-        "Cerrojo Feérico",
-        "Cola Veneno",
-        "Colmillo Veneno",
-        "Desarrollo",
+        "Chispa",
+        "Copión",
+        "Cuchillada",
+        "Cura Floral",
+        "Divide Dolor",
         "Doble Golpe",
+        "Escalofrío",
         "Espora",
         "Fertilizante",
-        "Fitoimpulso",
-        "Gas Venenoso",
-        "Giro Mortífero",
+        "Golpe Bis",
+        "Golpe Umbrío",
         "Hoja Aguda",
         "Hora del Té",
         "Impactrueno",
         "Ladrón",
-        "Legado",
-        "Motivación",
-        "Nitrocarga",
-        "Pataleta",
-        "Picotazo Veneno",
-        "Pin Misil",
-        "Piñón Auxiliar",
-        "Poder Pasado",
-        "Presa Maxilar",
-        "Profecía",
-        "Rayo Señal",
-        "Reducción",
-        "Saña",
+        "Meteorobola",
+        "Onda Certera",
+        "Pulso Noche",
+        "Refuerzo",
+        "Salazón",
         "Señuelo",
-        "Viento Feérico"
+        "Sorpresa",
+        "Sumisión",
+        "Tajo Metralla",
+        "Venganza",
+        "Viento Feérico",
+        "Voz Cautivadora"
       ],
       "firstMoves": [
-        "Campo de Hierba",
-        "Cuchillada",
-        "Paralizador",
-        "Residuos"
+        "Ciclón",
+        "Maquinación"
       ],
-      "spriteKey": "VENUSAUR"
+      "spriteKey": "DRAGONITE"
     },
     {
       "nickname": "Nescafé",
       "species": "Magmortar",
-      "level": 57,
+      "level": 58,
       "types": [
         "Fuego"
       ],
@@ -208,12 +210,12 @@
         17
       ],
       "ev": [
+        23,
+        26,
         21,
-        21,
-        17,
-        11,
-        14,
-        18
+        15,
+        15,
+        21
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -321,7 +323,7 @@
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 57,
+      "level": 58,
       "types": [
         "Agua",
         "Tierra"
@@ -501,7 +503,7 @@
     {
       "nickname": "Tita",
       "species": "Tyranitar",
-      "level": 56,
+      "level": 57,
       "types": [
         "Roca",
         "Siniestro"
@@ -527,12 +529,12 @@
         25
       ],
       "ev": [
-        9,
         11,
-        9,
-        3,
+        16,
+        13,
         7,
-        12
+        8,
+        15
       ],
       "abilPool": [
         "Rezagado"
@@ -677,185 +679,183 @@
       "spriteKey": "TYRANITAR"
     },
     {
-      "nickname": "Cucatrampada",
-      "species": "Dragonite",
-      "level": 57,
+      "nickname": "Rammus",
+      "species": "Venusaur",
+      "level": 58,
       "types": [
-        "Dragón",
-        "Volador"
+        "Planta",
+        "Veneno"
       ],
-      "ability": "Fuerza Mental",
-      "nature": "Activa",
-      "item": "Pico Afilado",
-      "shiny": true,
+      "ability": "Perro Guardián",
+      "nature": "Osada",
+      "item": "Tabla Pradal",
+      "shiny": false,
       "moves": [
-        "Vasto Impacto",
-        "Respiro",
-        "Picoteo",
-        "Espora"
+        "Cañón Batidor",
+        "Bomba Lodo",
+        "Poder Pasado",
+        "Defensa Férrea"
       ],
+      "natureMint": true,
+      "natureBase": "Serena",
       "iv": [
-        4,
-        5,
-        22,
-        6,
-        31,
-        13
+        19,
+        21,
+        0,
+        27,
+        30,
+        19
       ],
       "ev": [
-        16,
-        13,
-        15,
-        3,
-        7,
-        15
+        52,
+        139,
+        80,
+        93,
+        56,
+        90
       ],
       "abilPool": [
-        "Fuerza Mental"
+        "Perro Guardián"
       ],
       "abilHidden": [
-        "Poder Gélido"
+        "Recogebolas"
       ],
       "learnset": [
         {
           "lvl": -1,
-          "m": "Despejar"
+          "m": "Psicorrayo"
         },
         {
           "lvl": 1,
-          "m": "Amago"
+          "m": "Octopresa"
         },
         {
           "lvl": 1,
-          "m": "Clemencia"
+          "m": "Guardia Baja"
         },
         {
           "lvl": 1,
-          "m": "Arañazo"
+          "m": "Disparo Lodo"
         },
         {
           "lvl": 1,
-          "m": "Cerrojo Feérico"
+          "m": "Paralizador"
         },
         {
           "lvl": 1,
-          "m": "Picoteo"
+          "m": "Purificación"
         },
         {
-          "lvl": 1,
-          "m": "Ráfaga Escamas"
+          "lvl": 9,
+          "m": "Cura Selvática"
         },
         {
-          "lvl": 1,
-          "m": "Polvo Explosivo"
-        },
-        {
-          "lvl": 1,
-          "m": "Voltiocambio"
-        },
-        {
-          "lvl": 1,
-          "m": "Vasto Impacto"
+          "lvl": 12,
+          "m": "Defensa Férrea"
         },
         {
           "lvl": 15,
-          "m": "Tornado"
+          "m": "Aromaterapia"
         },
         {
           "lvl": 15,
-          "m": "Envidia ardiente"
+          "m": "Cola Veneno"
         },
         {
           "lvl": 20,
-          "m": "Respiro"
+          "m": "Cepo"
         },
         {
           "lvl": 25,
-          "m": "Confusión"
+          "m": "Frío Polar"
         },
         {
-          "lvl": 33,
-          "m": "Distorsión"
+          "lvl": 30,
+          "m": "Bramido Dragón"
+        },
+        {
+          "lvl": 36,
+          "m": "Comesueños"
+        },
+        {
+          "lvl": 37,
+          "m": "Remolino"
         },
         {
           "lvl": 39,
-          "m": "Corpulencia"
+          "m": "Picotazo"
         },
         {
-          "lvl": 41,
-          "m": "Esporagodón"
+          "lvl": 44,
+          "m": "Pirochoque"
         },
         {
-          "lvl": 46,
-          "m": "Infierno"
+          "lvl": 51,
+          "m": "Espacio Raro"
         },
         {
-          "lvl": 53,
-          "m": "Tormenta Floral"
+          "lvl": 51,
+          "m": "Truco Floral"
         },
         {
           "lvl": 58,
-          "m": "Tóxico"
-        },
-        {
-          "lvl": 62,
-          "m": "Cañón Dinamax"
-        },
-        {
-          "lvl": 80,
-          "m": "Bucle Arena"
+          "m": "Patada Tropical"
         }
       ],
       "tmMoves": [
         "Absorbefuerza",
-        "Alivio",
-        "Ascuas",
+        "Anillo Ígneo",
         "Autotomía",
         "Beso Drenaje",
+        "Bomba Caramelo",
         "Bomba Lodo",
         "Brecha Negra",
+        "Brillo Mágico",
         "Cambiaalmas",
         "Cañón Batidor",
-        "Cañón Dinamax",
         "Carga Dragón",
-        "Chispa",
-        "Copión",
-        "Cuchillada",
-        "Cura Floral",
-        "Divide Dolor",
+        "Cerrojo Feérico",
+        "Cola Veneno",
+        "Colmillo Veneno",
+        "Desarrollo",
         "Doble Golpe",
-        "Escalofrío",
         "Espora",
         "Fertilizante",
-        "Golpe Bis",
-        "Golpe Umbrío",
+        "Fitoimpulso",
+        "Gas Venenoso",
+        "Giro Mortífero",
         "Hoja Aguda",
         "Hora del Té",
         "Impactrueno",
         "Ladrón",
-        "Meteorobola",
-        "Onda Certera",
-        "Pulso Noche",
-        "Refuerzo",
-        "Salazón",
+        "Legado",
+        "Motivación",
+        "Nitrocarga",
+        "Pataleta",
+        "Picotazo Veneno",
+        "Pin Misil",
+        "Piñón Auxiliar",
+        "Poder Pasado",
+        "Presa Maxilar",
+        "Profecía",
+        "Rayo Señal",
+        "Reducción",
+        "Saña",
         "Señuelo",
-        "Sorpresa",
-        "Sumisión",
-        "Tajo Metralla",
-        "Venganza",
-        "Viento Feérico",
-        "Voz Cautivadora"
+        "Viento Feérico"
       ],
       "firstMoves": [
-        "Ciclón",
-        "Maquinación"
+        "Campo de Hierba",
+        "Cuchillada",
+        "Paralizador",
+        "Residuos"
       ],
-      "spriteKey": "DRAGONITE"
+      "spriteKey": "VENUSAUR"
     },
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 57,
+      "level": 58,
       "types": [
         "Hada",
         "Acero"
@@ -6799,15 +6799,15 @@
   ],
   "captures": [
     {
-      "route": "ruta_5",
-      "where": "Ruta 5",
-      "species": "Venusaur",
-      "nickname": "Rammus",
-      "shiny": false,
+      "route": "ruta_1",
+      "where": "Ruta 1",
+      "species": "Dragonite",
+      "nickname": "Cucatrampada",
+      "shiny": true,
       "status": "captured",
       "category": "salvaje",
-      "level": 21,
-      "mon": "Venusaur"
+      "level": 4,
+      "mon": "Dragonite"
     },
     {
       "route": "ciudad_celeste",
@@ -6843,15 +6843,15 @@
       "mon": "Tyranitar"
     },
     {
-      "route": "ruta_1",
-      "where": "Ruta 1",
-      "species": "Dragonite",
-      "nickname": "Cucatrampada",
-      "shiny": true,
+      "route": "ruta_5",
+      "where": "Ruta 5",
+      "species": "Venusaur",
+      "nickname": "Rammus",
+      "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 4,
-      "mon": "Dragonite"
+      "level": 21,
+      "mon": "Venusaur"
     },
     {
       "route": "ruta_15",
@@ -7361,10 +7361,10 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ruta_5": true,
+      "ruta_1": true,
       "ciudad_celeste": true,
       "ruta_2_sur": true,
-      "ruta_1": true,
+      "ruta_5": true,
       "ruta_15": true,
       "ruta_9": true,
       "bosque_verde": true,
@@ -7527,8 +7527,11 @@
       199,
       201,
       202,
+      205,
+      206,
       207,
       209,
+      210,
       214,
       216,
       271,
@@ -7558,6 +7561,7 @@
       "Baya Aranja",
       "Baya Aricoc",
       "Baya Baribá",
+      "Baya Caoca",
       "Baya Caquic",
       "Baya Chilan",
       "Baya Dillo",
@@ -7759,6 +7763,7 @@
       "Poké Montura",
       "Poké Muñeco",
       "Pokéseñuelo",
+      "Polvo Veloz",
       "Porcehelado",
       "PP Máximos",
       "Precisión X",
@@ -8172,7 +8177,7 @@
       {
         "id": "IRONBALL",
         "name": "Bola Férrea",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos"
       },
       {
@@ -8260,6 +8265,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "QUICKPOWDER",
+        "name": "Polvo Veloz",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ANTIDOTE",
         "name": "Antídoto",
         "qty": 1,
@@ -8286,7 +8297,7 @@
       {
         "id": "CENIZASSAGRADAS",
         "name": "Cenizas Sagradas",
-        "qty": 2,
+        "qty": 1,
         "pocket": "Medicinas"
       },
       {
@@ -8376,7 +8387,7 @@
       {
         "id": "DECapsula",
         "name": "Cápsula DE",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -9198,7 +9209,7 @@
       {
         "id": "OCCABERRY",
         "name": "Baya Caoca",
-        "qty": 5,
+        "qty": 6,
         "pocket": "Bayas"
       },
       {
