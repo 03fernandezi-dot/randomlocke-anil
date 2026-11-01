@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 25h 58m jugadas · 353,870₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 26h 2m jugadas · 358,550₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Rammus",
@@ -183,7 +183,7 @@
     {
       "nickname": "Tita",
       "species": "Tyranitar",
-      "level": 55,
+      "level": 56,
       "types": [
         "Roca",
         "Siniestro"
@@ -209,12 +209,12 @@
         25
       ],
       "ev": [
-        6,
+        7,
+        4,
+        4,
         3,
-        0,
-        3,
-        2,
-        3
+        5,
+        6
       ],
       "abilPool": [
         "Rezagado"
@@ -566,12 +566,12 @@
         17
       ],
       "ev": [
-        18,
-        13,
-        8,
+        19,
+        14,
+        12,
         11,
-        9,
-        9
+        12,
+        12
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -676,7 +676,7 @@
     {
       "nickname": "Cucatrampada",
       "species": "Dragonite",
-      "level": 55,
+      "level": 56,
       "types": [
         "Dragón",
         "Volador"
@@ -700,12 +700,12 @@
         13
       ],
       "ev": [
-        13,
-        5,
+        14,
         6,
+        10,
         3,
-        2,
-        6
+        5,
+        9
       ],
       "abilPool": [
         "Fuerza Mental"
@@ -878,12 +878,12 @@
         3
       ],
       "ev": [
-        53,
-        133,
-        79,
+        54,
+        134,
         83,
-        47,
-        89
+        83,
+        50,
+        92
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -5873,6 +5873,142 @@
         "Anillo Ígneo"
       ],
       "spriteKey": "DONDOZO"
+    },
+    {
+      "nickname": "SQLite",
+      "species": "Muk (Alola)",
+      "level": 51,
+      "types": [
+        "Veneno",
+        "Siniestro"
+      ],
+      "ability": "Espada Indómita",
+      "nature": "Tímida",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Garra Nociva",
+        "Isofuerza",
+        "Espora",
+        "Púas Tóxicas"
+      ],
+      "iv": [
+        0,
+        2,
+        8,
+        27,
+        29,
+        1
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Néctar dulce",
+        "Espada Indómita"
+      ],
+      "abilHidden": [
+        "Piel Feérica"
+      ],
+      "learnset": [
+        {
+          "lvl": 0,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 1,
+          "m": "Campo Eléctrico"
+        },
+        {
+          "lvl": 1,
+          "m": "Conversión2"
+        },
+        {
+          "lvl": 1,
+          "m": "Rencor"
+        },
+        {
+          "lvl": 7,
+          "m": "Telépata"
+        },
+        {
+          "lvl": 12,
+          "m": "Tenaza"
+        },
+        {
+          "lvl": 15,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 18,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 18,
+          "m": "Chispa"
+        },
+        {
+          "lvl": 21,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 21,
+          "m": "Poder Reserva"
+        },
+        {
+          "lvl": 26,
+          "m": "Infortunio"
+        },
+        {
+          "lvl": 26,
+          "m": "Cambio de Banda"
+        },
+        {
+          "lvl": 29,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 29,
+          "m": "Agarre"
+        },
+        {
+          "lvl": 32,
+          "m": "Garra Nociva"
+        },
+        {
+          "lvl": 37,
+          "m": "Isofuerza"
+        },
+        {
+          "lvl": 40,
+          "m": "Espora"
+        },
+        {
+          "lvl": 46,
+          "m": "Púas Tóxicas"
+        },
+        {
+          "lvl": 52,
+          "m": "Poder Místico"
+        },
+        {
+          "lvl": 57,
+          "m": "Atizar"
+        }
+      ],
+      "firstMoves": [
+        "Garra Nociva",
+        "Isofuerza",
+        "Espora",
+        "Púas Tóxicas"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10113.png",
+      "spriteKey": "MUK_1"
     }
   ],
   "graveyard": [
@@ -7012,6 +7148,17 @@
       "mon": "Dondozo"
     },
     {
+      "route": "ruta_19",
+      "where": "Ruta 19",
+      "species": "Muk",
+      "nickname": "SQLite",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 51,
+      "mon": "Muk"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -7109,6 +7256,7 @@
       "ciudad_azafran": true,
       "ruta_18": true,
       "islas_espuma": true,
+      "ruta_19": true,
       "ruta_22": true,
       "pueblo_paleta": true,
       "tunel_roca": true,
@@ -7120,7 +7268,6 @@
       "ruta_13": true,
       "ruta_14": true,
       "ciudad_fucsia": true,
-      "ruta_19": true,
       "isla_canela": true
     },
     "items": {},
@@ -7165,7 +7312,8 @@
       "ruta_21": true,
       "ciudad_azafran": true,
       "ruta_18": true,
-      "islas_espuma": true
+      "islas_espuma": true,
+      "ruta_19": true
     },
     "switches": [
       48,
@@ -7287,6 +7435,7 @@
       "Baya Yecana",
       "Baya Zanama",
       "Baya Zidra",
+      "Baya Ziuela",
       "Bici",
       "Blastoisita X",
       "Bloque de Turba",
@@ -8111,7 +8260,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 10,
+        "qty": 9,
         "pocket": "Poké Balls"
       },
       {
@@ -8805,6 +8954,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "LUMBERRY",
+        "name": "Baya Ziuela",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "SITRUSBERRY",
         "name": "Baya Zidra",
         "qty": 2,
@@ -9113,7 +9268,7 @@
       {
         "id": "POKETOY",
         "name": "Pokéseñuelo",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos de combate"
       },
       {
