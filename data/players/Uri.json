@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 31m jugadas · 403,040₽ · vidas en el juego: 20",
+  "notes": "Importado del save · 26h 34m jugadas · 408,640₽ · vidas en el juego: 20",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,8 +34,8 @@
       ],
       "ev": [
         16,
-        18,
-        19,
+        21,
+        22,
         5,
         7,
         15
@@ -185,7 +185,7 @@
     {
       "nickname": "Nescafé",
       "species": "Magmortar",
-      "level": 58,
+      "level": 59,
       "types": [
         "Fuego"
       ],
@@ -211,8 +211,8 @@
       ],
       "ev": [
         23,
-        26,
-        21,
+        29,
+        24,
         15,
         15,
         21
@@ -530,8 +530,8 @@
       ],
       "ev": [
         11,
+        19,
         16,
-        13,
         7,
         8,
         15
