@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 27h 59m jugadas · 560,860₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 7m jugadas · 560,860₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -644,6 +644,7 @@
         "Corpulencia",
         "Cura Floral",
         "Daño Secreto",
+        "Descanso",
         "Encanto",
         "Escalofrío",
         "Escudo Real",
@@ -829,30 +830,32 @@
       "spriteKey": "INTELEON"
     },
     {
-      "nickname": "Tobi!",
-      "species": "Okidogi",
-      "level": 65,
+      "nickname": "Frederic",
+      "species": "Sneasler",
+      "level": 58,
       "types": [
-        "Veneno",
-        "Lucha"
+        "Lucha",
+        "Veneno"
       ],
-      "ability": "Experto",
-      "nature": "Serena",
-      "item": "",
+      "ability": "Termoconversión",
+      "nature": "Ingenua",
+      "item": "Tabla Tóxica",
       "shiny": false,
       "moves": [
-        "Giro Mortífero",
-        "Llave Corsé",
-        "Búnker",
-        "Batido"
+        "Colmillo Veneno",
+        "Mil Púas Tóxicas",
+        "Puño Incremento",
+        "Acua Cola"
       ],
+      "natureMint": true,
+      "natureBase": "Miedosa",
       "iv": [
-        7,
-        15,
-        23,
-        21,
-        28,
-        11
+        30,
+        2,
+        26,
+        1,
+        27,
+        26
       ],
       "ev": [
         0,
@@ -863,23 +866,24 @@
         0
       ],
       "abilPool": [
-        "Experto"
+        "Despiste",
+        "Termoconversión"
       ],
       "abilHidden": [
-        "Coránima"
+        "Mar Llamas"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Búnker"
+          "lvl": -1,
+          "m": "Poder Reserva"
         },
         {
           "lvl": 1,
-          "m": "Enrosque"
+          "m": "Reflejo"
         },
         {
           "lvl": 1,
-          "m": "Velo Sagrado"
+          "m": "Envidia ardiente"
         },
         {
           "lvl": 1,
@@ -887,109 +891,145 @@
         },
         {
           "lvl": 1,
-          "m": "Sísmico"
+          "m": "Absorbefuerza"
         },
         {
           "lvl": 1,
-          "m": "Ultrapuño"
+          "m": "Golpe Kárate"
         },
         {
           "lvl": 1,
-          "m": "Esfuerzo"
+          "m": "Tóxico"
         },
         {
-          "lvl": 8,
-          "m": "Campo de Hierba"
+          "lvl": 1,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 6,
+          "m": "Bostezo"
+        },
+        {
+          "lvl": 10,
+          "m": "Chirrido"
+        },
+        {
+          "lvl": 12,
+          "m": "Mil Púas Tóxicas"
+        },
+        {
+          "lvl": 14,
+          "m": "Llave Vital"
         },
         {
           "lvl": 16,
-          "m": "Pedrada"
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 18,
+          "m": "Encanto"
+        },
+        {
+          "lvl": 20,
+          "m": "Cambio de Cancha"
         },
         {
           "lvl": 24,
-          "m": "Niebla Clara"
+          "m": "Telaraña"
         },
         {
-          "lvl": 32,
-          "m": "Guillotina"
+          "lvl": 28,
+          "m": "Follaje"
         },
         {
-          "lvl": 37,
-          "m": "Salmuera"
+          "lvl": 30,
+          "m": "Granizo"
+        },
+        {
+          "lvl": 36,
+          "m": "Golpe Roca"
         },
         {
           "lvl": 40,
-          "m": "Burbuja"
+          "m": "Patada Baja"
+        },
+        {
+          "lvl": 42,
+          "m": "Gruñido"
+        },
+        {
+          "lvl": 47,
+          "m": "Trampa Venenosa"
         },
         {
           "lvl": 48,
-          "m": "Recogearena"
+          "m": "Puño Dinámico"
         },
         {
-          "lvl": 56,
-          "m": "Llave Corsé"
+          "lvl": 54,
+          "m": "Campo Eléctrico"
         },
         {
-          "lvl": 61,
-          "m": "Palma Rauda"
-        },
-        {
-          "lvl": 64,
-          "m": "Fulgor Semilla"
-        },
-        {
-          "lvl": 67,
-          "m": "Atracción"
-        },
-        {
-          "lvl": 72,
-          "m": "Rabia"
-        },
-        {
-          "lvl": 73,
-          "m": "Roca Afilada"
+          "lvl": 60,
+          "m": "Armadura Ácida"
         }
       ],
       "tmMoves": [
-        "Agarre",
-        "Amplificador",
-        "Batido",
+        "Absorbefuerza",
+        "Acua Cola",
+        "Alivio",
+        "Anillo Ígneo",
+        "Autotomía",
         "Bomba Fango",
-        "Bomba Lodo",
-        "Cambiaalmas",
+        "Brecha Negra",
+        "Brillo Mágico",
+        "Cabeza de Hierro",
+        "Cañón Batidor",
+        "Cañón Dinamax",
         "Canto Mortal",
-        "Ciclón",
-        "Clemencia",
-        "Copión",
+        "Cola Veneno",
+        "Colmillo Veneno",
         "Corpulencia",
+        "Cuchillada",
         "Descanso",
+        "Divide Dolor",
         "Doble Golpe",
-        "Escalofrío",
-        "Espora",
+        "Gas Venenoso",
         "Giro Mortífero",
+        "Golpe Bis",
+        "Golpe Umbrío",
+        "Hora del Té",
+        "Impactrueno",
         "Ladrón",
         "Látigo Ígneo",
+        "Meteorobola",
         "Moluscañón",
-        "Motivación",
-        "Nitrocarga",
+        "Onda Certera",
         "Picotazo Veneno",
         "Pin Misil",
         "Piñón Auxiliar",
-        "Presa Maxilar",
+        "Poder Pasado",
+        "Pulpocañón",
         "Puño Sombra",
-        "Refuerzo",
+        "Rayo Señal",
+        "Retribución",
+        "Señuelo",
+        "Shuriken de Agua",
         "Sorpresa",
         "Sumisión",
+        "Tinieblas",
+        "Trampa Rocas",
         "Treparrocas",
-        "Viento Feérico"
+        "Voz Cautivadora",
+        "Yo Primero"
       ],
       "firstMoves": [
-        "Guillotina",
-        "Salmuera",
-        "Burbuja",
-        "Recogearena"
+        "Gruñido",
+        "Trampa Venenosa",
+        "Puño Dinámico",
+        "Campo Eléctrico"
       ],
-      "spriteKey": "OKIDOGI"
+      "spriteKey": "SNEASLER_1"
     }
   ],
   "box": [
@@ -5392,7 +5432,7 @@
       ],
       "ability": "Espada Indómita",
       "nature": "Tímida",
-      "item": "Tabla Tóxica",
+      "item": "",
       "shiny": false,
       "moves": [
         "Garra Nociva",
@@ -5682,157 +5722,6 @@
       "spriteKey": "NOSEPASS"
     },
     {
-      "nickname": "Frederic",
-      "species": "Sneasler",
-      "level": 58,
-      "types": [
-        "Lucha",
-        "Veneno"
-      ],
-      "ability": "Termoconversión",
-      "nature": "Miedosa",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Gruñido",
-        "Trampa Venenosa",
-        "Puño Dinámico",
-        "Campo Eléctrico"
-      ],
-      "iv": [
-        30,
-        2,
-        26,
-        1,
-        27,
-        26
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Despiste",
-        "Termoconversión"
-      ],
-      "abilHidden": [
-        "Mar Llamas"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Poder Reserva"
-        },
-        {
-          "lvl": 1,
-          "m": "Reflejo"
-        },
-        {
-          "lvl": 1,
-          "m": "Envidia ardiente"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Incremento"
-        },
-        {
-          "lvl": 1,
-          "m": "Absorbefuerza"
-        },
-        {
-          "lvl": 1,
-          "m": "Golpe Kárate"
-        },
-        {
-          "lvl": 1,
-          "m": "Tóxico"
-        },
-        {
-          "lvl": 1,
-          "m": "Niebla Aromática"
-        },
-        {
-          "lvl": 6,
-          "m": "Bostezo"
-        },
-        {
-          "lvl": 10,
-          "m": "Chirrido"
-        },
-        {
-          "lvl": 12,
-          "m": "Mil Púas Tóxicas"
-        },
-        {
-          "lvl": 14,
-          "m": "Llave Vital"
-        },
-        {
-          "lvl": 16,
-          "m": "Pantalla de Luz"
-        },
-        {
-          "lvl": 18,
-          "m": "Encanto"
-        },
-        {
-          "lvl": 20,
-          "m": "Cambio de Cancha"
-        },
-        {
-          "lvl": 24,
-          "m": "Telaraña"
-        },
-        {
-          "lvl": 28,
-          "m": "Follaje"
-        },
-        {
-          "lvl": 30,
-          "m": "Granizo"
-        },
-        {
-          "lvl": 36,
-          "m": "Golpe Roca"
-        },
-        {
-          "lvl": 40,
-          "m": "Patada Baja"
-        },
-        {
-          "lvl": 42,
-          "m": "Gruñido"
-        },
-        {
-          "lvl": 47,
-          "m": "Trampa Venenosa"
-        },
-        {
-          "lvl": 48,
-          "m": "Puño Dinámico"
-        },
-        {
-          "lvl": 54,
-          "m": "Campo Eléctrico"
-        },
-        {
-          "lvl": 60,
-          "m": "Armadura Ácida"
-        }
-      ],
-      "firstMoves": [
-        "Gruñido",
-        "Trampa Venenosa",
-        "Puño Dinámico",
-        "Campo Eléctrico"
-      ],
-      "spriteKey": "SNEASLER_1"
-    },
-    {
       "nickname": "Makakinho",
       "species": "Darumaka",
       "level": 53,
@@ -5952,6 +5841,169 @@
         "Amnesia"
       ],
       "spriteKey": "DARUMAKA"
+    },
+    {
+      "nickname": "Tobi!",
+      "species": "Okidogi",
+      "level": 65,
+      "types": [
+        "Veneno",
+        "Lucha"
+      ],
+      "ability": "Experto",
+      "nature": "Serena",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Giro Mortífero",
+        "Llave Corsé",
+        "Búnker",
+        "Batido"
+      ],
+      "iv": [
+        7,
+        15,
+        23,
+        21,
+        28,
+        11
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Experto"
+      ],
+      "abilHidden": [
+        "Coránima"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Búnker"
+        },
+        {
+          "lvl": 1,
+          "m": "Enrosque"
+        },
+        {
+          "lvl": 1,
+          "m": "Velo Sagrado"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Incremento"
+        },
+        {
+          "lvl": 1,
+          "m": "Sísmico"
+        },
+        {
+          "lvl": 1,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 1,
+          "m": "Esfuerzo"
+        },
+        {
+          "lvl": 8,
+          "m": "Campo de Hierba"
+        },
+        {
+          "lvl": 16,
+          "m": "Pedrada"
+        },
+        {
+          "lvl": 24,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 32,
+          "m": "Guillotina"
+        },
+        {
+          "lvl": 37,
+          "m": "Salmuera"
+        },
+        {
+          "lvl": 40,
+          "m": "Burbuja"
+        },
+        {
+          "lvl": 48,
+          "m": "Recogearena"
+        },
+        {
+          "lvl": 56,
+          "m": "Llave Corsé"
+        },
+        {
+          "lvl": 61,
+          "m": "Palma Rauda"
+        },
+        {
+          "lvl": 64,
+          "m": "Fulgor Semilla"
+        },
+        {
+          "lvl": 67,
+          "m": "Atracción"
+        },
+        {
+          "lvl": 72,
+          "m": "Rabia"
+        },
+        {
+          "lvl": 73,
+          "m": "Roca Afilada"
+        }
+      ],
+      "tmMoves": [
+        "Agarre",
+        "Amplificador",
+        "Batido",
+        "Bomba Fango",
+        "Bomba Lodo",
+        "Cambiaalmas",
+        "Canto Mortal",
+        "Ciclón",
+        "Clemencia",
+        "Copión",
+        "Corpulencia",
+        "Descanso",
+        "Doble Golpe",
+        "Escalofrío",
+        "Espora",
+        "Giro Mortífero",
+        "Ladrón",
+        "Látigo Ígneo",
+        "Moluscañón",
+        "Motivación",
+        "Nitrocarga",
+        "Picotazo Veneno",
+        "Pin Misil",
+        "Piñón Auxiliar",
+        "Presa Maxilar",
+        "Puño Sombra",
+        "Refuerzo",
+        "Sorpresa",
+        "Sumisión",
+        "Treparrocas",
+        "Viento Feérico"
+      ],
+      "firstMoves": [
+        "Guillotina",
+        "Salmuera",
+        "Burbuja",
+        "Recogearena"
+      ],
+      "spriteKey": "OKIDOGI"
     }
   ],
   "graveyard": [
@@ -7221,15 +7273,15 @@
       "mon": "Inteleon"
     },
     {
-      "route": "",
-      "where": "Silph S.A",
-      "species": "Okidogi",
-      "nickname": "Tobi!",
+      "route": "bosque_celeste",
+      "where": "Bosque Celeste",
+      "species": "Sneasler",
+      "nickname": "Frederic",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 50,
-      "mon": "Okidogi"
+      "category": "salvaje",
+      "level": 58,
+      "mon": "Sneasler"
     },
     {
       "route": "ruta_9",
@@ -7628,17 +7680,6 @@
       "mon": "Nosepass"
     },
     {
-      "route": "bosque_celeste",
-      "where": "Bosque Celeste",
-      "species": "Sneasler",
-      "nickname": "Frederic",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 58,
-      "mon": "Sneasler"
-    },
-    {
       "route": "mansion_quemada",
       "where": "Mansión Quemada",
       "species": "Darumaka",
@@ -7648,6 +7689,17 @@
       "category": "salvaje",
       "level": 53,
       "mon": "Darumaka"
+    },
+    {
+      "route": "",
+      "where": "Silph S.A",
+      "species": "Okidogi",
+      "nickname": "Tobi!",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 50,
+      "mon": "Okidogi"
     },
     {
       "route": "ruta_22",
@@ -7755,6 +7807,7 @@
       "ruta_2_sur": true,
       "ciudad_celeste": true,
       "monte_moon": true,
+      "bosque_celeste": true,
       "ruta_9": true,
       "bosque_verde": true,
       "ruta_20": true,
@@ -7781,7 +7834,6 @@
       "ruta_18": true,
       "ruta_19": true,
       "cueva_celeste": true,
-      "bosque_celeste": true,
       "mansion_quemada": true,
       "ruta_22": true,
       "pueblo_paleta": true,
@@ -8242,128 +8294,14 @@
     ],
     "bag": [
       {
-        "id": "TINYMUSHROOM",
-        "name": "Miniseta",
-        "qty": 5,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "ELECTRICGEM",
-        "name": "Gema Eléctrica",
+        "id": "MYSTICWATER",
+        "name": "Agua Mística",
         "qty": 1,
         "pocket": "Objetos"
       },
       {
-        "id": "ADRENALINEORB",
-        "name": "Nerviosfera",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "SCROLLOFDARKNESS",
-        "name": "Manuscrito Sombras",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "LIGHTBALL",
-        "name": "Bola Luminosa",
-        "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "SNOWBALL",
-        "name": "Bola de Nieve",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "YELLOWSHARD",
-        "name": "Parte Amarilla",
-        "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "EVERSTONE",
-        "name": "Piedra Eterna",
-        "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "ZAPPLATE",
-        "name": "Tabla Trueno",
-        "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "MOONSTONE",
-        "name": "Piedra Lunar",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "MIRRORHERB",
-        "name": "Hierba Copia",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "ELECTRICSEED",
-        "name": "Semilla Electro",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "POWERWEIGHT",
-        "name": "Pesa Recia",
-        "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "MACHOBRACE",
-        "name": "Brazal Firme",
-        "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "LEEK",
-        "name": "Puerro",
-        "qty": 3,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "GREENSHARD",
-        "name": "Parte Verde",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "LAGGINGTAIL",
-        "name": "Cola Plúmbea",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "FULLINCENSE",
-        "name": "Incienso Lento",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "DUSKSTONE",
-        "name": "Piedra Noche",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "TOXICORB",
-        "name": "Toxisfera",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "FIGHTINGGEM",
-        "name": "Gema Lucha",
+        "id": "CLEANSETAG",
+        "name": "Amuleto",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -8374,45 +8312,21 @@
         "pocket": "Objetos"
       },
       {
-        "id": "GRISEOUSORB",
-        "name": "Griseosfera",
+        "id": "SNOWBALL",
+        "name": "Bola de Nieve",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "IRONBALL",
+        "name": "Bola Férrea",
         "qty": 3,
         "pocket": "Objetos"
       },
       {
-        "id": "PSYCHICGEM",
-        "name": "Gema Psíquica",
+        "id": "LIGHTBALL",
+        "name": "Bola Luminosa",
         "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "POWERANKLET",
-        "name": "Franja Recia",
-        "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "THUNDERSTONE",
-        "name": "Piedra Trueno",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "RAZORFANG",
-        "name": "Colmillo Agudo",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "ADAMANTCRYSTAL",
-        "name": "Gran Diamansfera",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "EARTHPLATE",
-        "name": "Tabla Terrax",
-        "qty": 1,
         "pocket": "Objetos"
       },
       {
@@ -8422,98 +8336,14 @@
         "pocket": "Objetos"
       },
       {
-        "id": "FLAMEORB",
-        "name": "Llamasfera",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "BLUNDERPOLICY",
-        "name": "Seguro Fallo",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "SMOOTHROCK",
-        "name": "Roca Suave",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "POWERLENS",
-        "name": "Lente Recia",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "PLUMAEOLICA",
-        "name": "Plumaeolica",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "BUGGEM",
-        "name": "Gema Bicho",
+        "id": "MACHOBRACE",
+        "name": "Brazal Firme",
         "qty": 2,
         "pocket": "Objetos"
       },
       {
-        "id": "LEAFSTONE",
-        "name": "Piedra Hoja",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "FIRESTONE",
-        "name": "Piedra Fuego",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "WATERSTONE",
-        "name": "Piedra Agua",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "GRIPCLAW",
-        "name": "Garra Garfio",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "SPLASHPLATE",
-        "name": "Tabla Linfa",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "SKYPLATE",
-        "name": "Tabla Cielo",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "PROTECTIVEPADS",
-        "name": "Paracontacto",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "CHOICESPECS",
-        "name": "Gafas Elección",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "PUNCHINGGLOVE",
-        "name": "Guante de Boxeo",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "BLACKBELT",
-        "name": "Cinturón Negro",
+        "id": "CHARCOAL",
+        "name": "Carbón",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -8524,20 +8354,98 @@
         "pocket": "Objetos"
       },
       {
-        "id": "REDSHARD",
-        "name": "Parte Roja",
-        "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "PSYCHICSEED",
-        "name": "Semilla Psique",
+        "id": "ASSAULTVEST",
+        "name": "Chaleco Asalto",
         "qty": 1,
         "pocket": "Objetos"
       },
       {
-        "id": "GRASSYSEED",
-        "name": "Semilla Hierba",
+        "id": "CHOICEBAND",
+        "name": "Cinta Elección",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BLACKBELT",
+        "name": "Cinturón Negro",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LAGGINGTAIL",
+        "name": "Cola Plúmbea",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "RAZORFANG",
+        "name": "Colmillo Agudo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "DEEPSEATOOTH",
+        "name": "Diente Marino",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "POWERANKLET",
+        "name": "Franja Recia",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BLACKGLASSES",
+        "name": "Gafas de Sol",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "CHOICESPECS",
+        "name": "Gafas Elección",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "GRIPCLAW",
+        "name": "Garra Garfio",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "QUICKCLAW",
+        "name": "Garra Rápida",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "STEELGEM",
+        "name": "Gema Acero",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BUGGEM",
+        "name": "Gema Bicho",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "DRAGONGEM",
+        "name": "Gema Dragón",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ELECTRICGEM",
+        "name": "Gema Eléctrica",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "GHOSTGEM",
+        "name": "Gema Fantasma",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -8548,15 +8456,135 @@
         "pocket": "Objetos"
       },
       {
-        "id": "MIRACLESEED",
-        "name": "Semilla Milagro",
+        "id": "FIGHTINGGEM",
+        "name": "Gema Lucha",
         "qty": 1,
         "pocket": "Objetos"
       },
       {
-        "id": "DRAGONGEM",
-        "name": "Gema Dragón",
+        "id": "PSYCHICGEM",
+        "name": "Gema Psíquica",
         "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ROCKGEM",
+        "name": "Gema Roca",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "POISONGEM",
+        "name": "Gema Veneno",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ADAMANTCRYSTAL",
+        "name": "Gran Diamansfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "GRISEOUSORB",
+        "name": "Griseosfera",
+        "qty": 3,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PUNCHINGGLOVE",
+        "name": "Guante de Boxeo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "MIRRORHERB",
+        "name": "Hierba Copia",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FULLINCENSE",
+        "name": "Incienso Lento",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LAXINCENSE",
+        "name": "Incienso Suave",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "POWERLENS",
+        "name": "Lente Recia",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FLAMEORB",
+        "name": "Llamasfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LUSTROUSORB",
+        "name": "Lustresfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SCROLLOFDARKNESS",
+        "name": "Manuscrito Sombras",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "EVIOLITE",
+        "name": "Mineral Evol",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "TINYMUSHROOM",
+        "name": "Miniseta",
+        "qty": 5,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ADRENALINEORB",
+        "name": "Nerviosfera",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PROTECTIVEPADS",
+        "name": "Paracontacto",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "UTILITYUMBRELLA",
+        "name": "Parasol Multiuso",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "YELLOWSHARD",
+        "name": "Parte Amarilla",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "REDSHARD",
+        "name": "Parte Roja",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "GREENSHARD",
+        "name": "Parte Verde",
+        "qty": 1,
         "pocket": "Objetos"
       },
       {
@@ -8566,8 +8594,146 @@
         "pocket": "Objetos"
       },
       {
-        "id": "GHOSTGEM",
-        "name": "Gema Fantasma",
+        "id": "POWERWEIGHT",
+        "name": "Pesa Recia",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "WATERSTONE",
+        "name": "Piedra Agua",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "EVERSTONE",
+        "name": "Piedra Eterna",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FIRESTONE",
+        "name": "Piedra Fuego",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LEAFSTONE",
+        "name": "Piedra Hoja",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "MOONSTONE",
+        "name": "Piedra Lunar",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "DUSKSTONE",
+        "name": "Piedra Noche",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "THUNDERSTONE",
+        "name": "Piedra Trueno",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PLUMAEOLICA",
+        "name": "Plumaeolica",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "QUICKPOWDER",
+        "name": "Polvo Veloz",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LEEK",
+        "name": "Puerro",
+        "qty": 3,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ICYROCK",
+        "name": "Roca Helada",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SMOOTHROCK",
+        "name": "Roca Suave",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BLUNDERPOLICY",
+        "name": "Seguro Fallo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ELECTRICSEED",
+        "name": "Semilla Electro",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "GRASSYSEED",
+        "name": "Semilla Hierba",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "MIRACLESEED",
+        "name": "Semilla Milagro",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PSYCHICSEED",
+        "name": "Semilla Psique",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SUPERREPEL",
+        "name": "Superrepelente",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SKYPLATE",
+        "name": "Tabla Cielo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SPLASHPLATE",
+        "name": "Tabla Linfa",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FLAMEPLATE",
+        "name": "Tabla Llama",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "DREADPLATE",
+        "name": "Tabla Oscura",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "EARTHPLATE",
+        "name": "Tabla Terrax",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -8584,130 +8750,22 @@
         "pocket": "Objetos"
       },
       {
-        "id": "IRONBALL",
-        "name": "Bola Férrea",
-        "qty": 3,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "POISONGEM",
-        "name": "Gema Veneno",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "STEELGEM",
-        "name": "Gema Acero",
+        "id": "ZAPPLATE",
+        "name": "Tabla Trueno",
         "qty": 2,
         "pocket": "Objetos"
       },
       {
-        "id": "DREADPLATE",
-        "name": "Tabla Oscura",
+        "id": "TOXICORB",
+        "name": "Toxisfera",
         "qty": 1,
         "pocket": "Objetos"
       },
       {
-        "id": "EVIOLITE",
-        "name": "Mineral Evol",
-        "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "BLACKGLASSES",
-        "name": "Gafas de Sol",
+        "id": "FRESHWATER",
+        "name": "Agua Fresca",
         "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "SUPERREPEL",
-        "name": "Superrepelente",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "LAXINCENSE",
-        "name": "Incienso Suave",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "QUICKCLAW",
-        "name": "Garra Rápida",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "CLEANSETAG",
-        "name": "Amuleto",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "CHARCOAL",
-        "name": "Carbón",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "MYSTICWATER",
-        "name": "Agua Mística",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "LUSTROUSORB",
-        "name": "Lustresfera",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "CHOICEBAND",
-        "name": "Cinta Elección",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "UTILITYUMBRELLA",
-        "name": "Parasol Multiuso",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "QUICKPOWDER",
-        "name": "Polvo Veloz",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "FLAMEPLATE",
-        "name": "Tabla Llama",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "DEEPSEATOOTH",
-        "name": "Diente Marino",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "ICYROCK",
-        "name": "Roca Helada",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "ROCKGEM",
-        "name": "Gema Roca",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "ASSAULTVEST",
-        "name": "Chaleco Asalto",
-        "qty": 1,
-        "pocket": "Objetos"
+        "pocket": "Medicinas"
       },
       {
         "id": "ANTIDOTE",
@@ -8734,8 +8792,20 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "DECapsula",
+        "name": "Cápsula DE",
+        "qty": 2,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "AECapsula",
         "name": "Aecapsula",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "MAXELIXIR",
+        "name": "Elixir Máximo",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -8778,7 +8848,25 @@
       {
         "id": "NAIVEMINT",
         "name": "Menta Ingenua",
-        "qty": 2,
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "RELAXEDMINT",
+        "name": "Menta Plácida",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "HEALTHMOCHI",
+        "name": "Mochi Vigor",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "GENIUSFEATHER",
+        "name": "Geniusfeather",
+        "qty": 1,
         "pocket": "Medicinas"
       },
       {
@@ -8818,50 +8906,14 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "DECapsula",
-        "name": "Cápsula DE",
-        "qty": 2,
+        "id": "SUPERPOTION",
+        "name": "Superpoción",
+        "qty": 1,
         "pocket": "Medicinas"
       },
       {
         "id": "BERRYJUICE",
         "name": "Zumo de Baya",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "FRESHWATER",
-        "name": "Agua Fresca",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "MAXELIXIR",
-        "name": "Elixir Máximo",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "HEALTHMOCHI",
-        "name": "Mochi Vigor",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "GENIUSFEATHER",
-        "name": "Geniusfeather",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "RELAXEDMINT",
-        "name": "Menta Plácida",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "SUPERPOTION",
-        "name": "Superpoción",
         "qty": 1,
         "pocket": "Medicinas"
       },
