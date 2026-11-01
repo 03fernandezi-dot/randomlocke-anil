@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 28h 30m jugadas · 576,610₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 35m jugadas · 576,610₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -378,7 +378,7 @@
         "Moluscañón",
         "Canto Ardiente",
         "Onda Certera",
-        "Coraza Trampa"
+        "Llama Protectora"
       ],
       "natureMint": true,
       "natureBase": "Alegre",
@@ -491,8 +491,43 @@
         }
       ],
       "tmMoves": [
+        "Acua Cola",
+        "Anillo Ígneo",
+        "Ascuas",
+        "Autotomía",
+        "Brecha Negra",
+        "Cabeza de Hierro",
+        "Cambiaalmas",
+        "Cañón Dinamax",
+        "Colmillo Veneno",
+        "Copión",
+        "Cuchillada",
+        "Cura Floral",
         "Descanso",
-        "Roca Veloz"
+        "Doble Golpe",
+        "Encanto",
+        "Espora",
+        "Giro Mortífero",
+        "Golpe Umbrío",
+        "Hachazo Pétreo",
+        "Hora del Té",
+        "Ida y Vuelta",
+        "Ladrón",
+        "Látigo Ígneo",
+        "Llama Azul",
+        "Motivación",
+        "Nitrocarga",
+        "Piñón Auxiliar",
+        "Poder Pasado",
+        "Presa Maxilar",
+        "Rayo Señal",
+        "Reducción",
+        "Roca Veloz",
+        "Salazón",
+        "Sorpresa",
+        "Tajo Metralla",
+        "Trampa Rocas",
+        "Treparrocas"
       ],
       "firstMoves": [
         "Anticipo",
