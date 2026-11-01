@@ -4,8 +4,186 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 2m jugadas · 358,550₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 26h 5m jugadas · 368,430₽ · vidas en el juego: 21",
   "team": [
+    {
+      "nickname": "Tita",
+      "species": "Tyranitar",
+      "level": 56,
+      "types": [
+        "Roca",
+        "Siniestro"
+      ],
+      "ability": "Roca Solida",
+      "nature": "Plácida",
+      "item": "Seguro Debilidad",
+      "shiny": true,
+      "moves": [
+        "Escudo Real",
+        "Hachazo Pétreo",
+        "Presa Maxilar",
+        "Ponzochoque"
+      ],
+      "natureMint": true,
+      "natureBase": "Serena",
+      "iv": [
+        9,
+        10,
+        1,
+        11,
+        23,
+        25
+      ],
+      "ev": [
+        7,
+        5,
+        5,
+        3,
+        5,
+        10
+      ],
+      "abilPool": [
+        "Rezagado"
+      ],
+      "abilHidden": [
+        "Roca Solida"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Condena Silvana"
+        },
+        {
+          "lvl": 1,
+          "m": "Antiaéreo"
+        },
+        {
+          "lvl": 1,
+          "m": "Venganza"
+        },
+        {
+          "lvl": 1,
+          "m": "Abatidoras"
+        },
+        {
+          "lvl": 1,
+          "m": "Mofa"
+        },
+        {
+          "lvl": 1,
+          "m": "Aura Magnética"
+        },
+        {
+          "lvl": 1,
+          "m": "Onda Vacío"
+        },
+        {
+          "lvl": 1,
+          "m": "Octopresa"
+        },
+        {
+          "lvl": 1,
+          "m": "Colmillo Veneno"
+        },
+        {
+          "lvl": 9,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 12,
+          "m": "Puño Mareo"
+        },
+        {
+          "lvl": 14,
+          "m": "Rugido de Guerra"
+        },
+        {
+          "lvl": 15,
+          "m": "Colmillo Ígneo"
+        },
+        {
+          "lvl": 18,
+          "m": "Trapicheo"
+        },
+        {
+          "lvl": 21,
+          "m": "Estímulo"
+        },
+        {
+          "lvl": 24,
+          "m": "Bostezo"
+        },
+        {
+          "lvl": 27,
+          "m": "Alarido"
+        },
+        {
+          "lvl": 33,
+          "m": "Tajo Umbrío"
+        },
+        {
+          "lvl": 37,
+          "m": "Canto Mortal"
+        },
+        {
+          "lvl": 42,
+          "m": "Pulso Umbrío"
+        },
+        {
+          "lvl": 47,
+          "m": "Ponzochoque"
+        },
+        {
+          "lvl": 52,
+          "m": "Avalancha"
+        },
+        {
+          "lvl": 59,
+          "m": "Sonámbulo"
+        }
+      ],
+      "tmMoves": [
+        "Alivio",
+        "Anillo Ígneo",
+        "Bomba Caramelo",
+        "Bomba Lodo",
+        "Brecha Negra",
+        "Brillo Mágico",
+        "Canto Mortal",
+        "Carga Dragón",
+        "Cerrojo Feérico",
+        "Chispa",
+        "Cola Veneno",
+        "Desarrollo",
+        "Doble Golpe",
+        "Encanto",
+        "Escudo Real",
+        "Giro Mortífero",
+        "Golpe Umbrío",
+        "Hoja Aguda",
+        "Hora del Té",
+        "Ladrón",
+        "Legado",
+        "Moluscañón",
+        "Motivación",
+        "Onda Certera",
+        "Picotazo Veneno",
+        "Roca Veloz",
+        "Salazón",
+        "Saña",
+        "Sorpresa",
+        "Tinieblas",
+        "Trampa Rocas",
+        "Voz Cautivadora"
+      ],
+      "firstMoves": [
+        "Pin Misil",
+        "Absorbefuerza",
+        "Rodar",
+        "Puntapié"
+      ],
+      "spriteKey": "TYRANITAR"
+    },
     {
       "nickname": "Rammus",
       "species": "Venusaur",
@@ -179,184 +357,6 @@
         "Residuos"
       ],
       "spriteKey": "VENUSAUR"
-    },
-    {
-      "nickname": "Tita",
-      "species": "Tyranitar",
-      "level": 56,
-      "types": [
-        "Roca",
-        "Siniestro"
-      ],
-      "ability": "Roca Solida",
-      "nature": "Plácida",
-      "item": "Seguro Debilidad",
-      "shiny": true,
-      "moves": [
-        "Escudo Real",
-        "Hachazo Pétreo",
-        "Presa Maxilar",
-        "Ponzochoque"
-      ],
-      "natureMint": true,
-      "natureBase": "Serena",
-      "iv": [
-        9,
-        10,
-        1,
-        11,
-        23,
-        25
-      ],
-      "ev": [
-        7,
-        4,
-        4,
-        3,
-        5,
-        6
-      ],
-      "abilPool": [
-        "Rezagado"
-      ],
-      "abilHidden": [
-        "Roca Solida"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Condena Silvana"
-        },
-        {
-          "lvl": 1,
-          "m": "Antiaéreo"
-        },
-        {
-          "lvl": 1,
-          "m": "Venganza"
-        },
-        {
-          "lvl": 1,
-          "m": "Abatidoras"
-        },
-        {
-          "lvl": 1,
-          "m": "Mofa"
-        },
-        {
-          "lvl": 1,
-          "m": "Aura Magnética"
-        },
-        {
-          "lvl": 1,
-          "m": "Onda Vacío"
-        },
-        {
-          "lvl": 1,
-          "m": "Octopresa"
-        },
-        {
-          "lvl": 1,
-          "m": "Colmillo Veneno"
-        },
-        {
-          "lvl": 9,
-          "m": "Cerrojo Feérico"
-        },
-        {
-          "lvl": 12,
-          "m": "Puño Mareo"
-        },
-        {
-          "lvl": 14,
-          "m": "Rugido de Guerra"
-        },
-        {
-          "lvl": 15,
-          "m": "Colmillo Ígneo"
-        },
-        {
-          "lvl": 18,
-          "m": "Trapicheo"
-        },
-        {
-          "lvl": 21,
-          "m": "Estímulo"
-        },
-        {
-          "lvl": 24,
-          "m": "Bostezo"
-        },
-        {
-          "lvl": 27,
-          "m": "Alarido"
-        },
-        {
-          "lvl": 33,
-          "m": "Tajo Umbrío"
-        },
-        {
-          "lvl": 37,
-          "m": "Canto Mortal"
-        },
-        {
-          "lvl": 42,
-          "m": "Pulso Umbrío"
-        },
-        {
-          "lvl": 47,
-          "m": "Ponzochoque"
-        },
-        {
-          "lvl": 52,
-          "m": "Avalancha"
-        },
-        {
-          "lvl": 59,
-          "m": "Sonámbulo"
-        }
-      ],
-      "tmMoves": [
-        "Alivio",
-        "Anillo Ígneo",
-        "Bomba Caramelo",
-        "Bomba Lodo",
-        "Brecha Negra",
-        "Brillo Mágico",
-        "Canto Mortal",
-        "Carga Dragón",
-        "Cerrojo Feérico",
-        "Chispa",
-        "Cola Veneno",
-        "Desarrollo",
-        "Doble Golpe",
-        "Encanto",
-        "Escudo Real",
-        "Giro Mortífero",
-        "Golpe Umbrío",
-        "Hoja Aguda",
-        "Hora del Té",
-        "Ladrón",
-        "Legado",
-        "Moluscañón",
-        "Motivación",
-        "Onda Certera",
-        "Picotazo Veneno",
-        "Roca Veloz",
-        "Salazón",
-        "Saña",
-        "Sorpresa",
-        "Tinieblas",
-        "Trampa Rocas",
-        "Voz Cautivadora"
-      ],
-      "firstMoves": [
-        "Pin Misil",
-        "Absorbefuerza",
-        "Rodar",
-        "Puntapié"
-      ],
-      "spriteKey": "TYRANITAR"
     },
     {
       "nickname": "Izan",
@@ -567,11 +567,11 @@
       ],
       "ev": [
         19,
-        14,
-        12,
+        15,
+        13,
         11,
         12,
-        12
+        16
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -701,11 +701,11 @@
       ],
       "ev": [
         14,
-        6,
-        10,
+        7,
+        11,
         3,
         5,
-        9
+        13
       ],
       "abilPool": [
         "Fuerza Mental"
@@ -879,11 +879,11 @@
       ],
       "ev": [
         54,
-        134,
-        83,
+        135,
+        84,
         83,
         50,
-        92
+        96
       ],
       "abilPool": [
         "Pelaje Recio",
@@ -6675,17 +6675,6 @@
   ],
   "captures": [
     {
-      "route": "ruta_5",
-      "where": "Ruta 5",
-      "species": "Venusaur",
-      "nickname": "Rammus",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 21,
-      "mon": "Venusaur"
-    },
-    {
       "route": "ruta_2_sur",
       "where": "Ruta 2 Sur",
       "species": "Tyranitar",
@@ -6695,6 +6684,17 @@
       "category": "salvaje",
       "level": 6,
       "mon": "Tyranitar"
+    },
+    {
+      "route": "ruta_5",
+      "where": "Ruta 5",
+      "species": "Venusaur",
+      "nickname": "Rammus",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 21,
+      "mon": "Venusaur"
     },
     {
       "route": "",
@@ -7226,8 +7226,8 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ruta_5": true,
       "ruta_2_sur": true,
+      "ruta_5": true,
       "ciudad_celeste": true,
       "ruta_1": true,
       "ruta_15": true,
@@ -7268,7 +7268,8 @@
       "ruta_13": true,
       "ruta_14": true,
       "ciudad_fucsia": true,
-      "isla_canela": true
+      "isla_canela": true,
+      "mansion_quemada": true
     },
     "items": {},
     "encounters": {
@@ -7389,6 +7390,7 @@
       198,
       199,
       201,
+      207,
       209,
       214,
       216,
@@ -7406,6 +7408,7 @@
       "Acopio Ball",
       "Activaobjeto",
       "Aecapsula",
+      "Agua Fresca",
       "Agua Mística",
       "Álbum de Fotos",
       "Amuleto",
@@ -7463,6 +7466,7 @@
       "Cuchara Torcida",
       "Cuerda Huida",
       "Defensa X 2",
+      "Elixir Máximo",
       "Fósil Hélix",
       "Fósil Pluma",
       "Franja Recia",
@@ -8224,6 +8228,18 @@
       {
         "id": "BERRYJUICE",
         "name": "Zumo de Baya",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "FRESHWATER",
+        "name": "Agua Fresca",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "MAXELIXIR",
+        "name": "Elixir Máximo",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -9262,7 +9278,7 @@
       {
         "id": "XACCURACY2",
         "name": "Precisión X 2",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos de combate"
       },
       {
