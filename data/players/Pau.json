@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 17h 53m jugadas · 388,655₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 17h 58m jugadas · 388,655₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -9062,7 +9062,8 @@
       "tunel_diglett": true,
       "tunel_roca": true,
       "pueblo_marengo": true,
-      "ruta_17": true
+      "ruta_17": true,
+      "volcan_canela": true
     },
     "items": {},
     "encounters": {
@@ -9335,6 +9336,7 @@
       "Mochi Aguante",
       "Mochi Ímpetu",
       "Mochi Intelecto",
+      "Monedaprodig",
       "Monedero",
       "MT03",
       "MT04",
@@ -9915,6 +9917,12 @@
       {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "MONEDAPRODIG",
+        "name": "Monedaprodig",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -10665,7 +10673,7 @@
       {
         "id": "ASPEARBERRY",
         "name": "Baya Perasi",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Bayas"
       },
       {
