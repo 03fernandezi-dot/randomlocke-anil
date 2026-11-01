@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 27h 58m jugadas · 560,860₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 27h 59m jugadas · 560,860₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
       "species": "Dragonite",
-      "level": 65,
+      "level": 66,
       "types": [
         "Dragón",
         "Volador"
@@ -503,7 +503,7 @@
     {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 55,
+      "level": 65,
       "types": [
         "Planta"
       ],
@@ -831,7 +831,7 @@
     {
       "nickname": "Tobi!",
       "species": "Okidogi",
-      "level": 50,
+      "level": 65,
       "types": [
         "Veneno",
         "Lucha"
@@ -842,7 +842,7 @@
       "shiny": false,
       "moves": [
         "Giro Mortífero",
-        "Ultrapuño",
+        "Llave Corsé",
         "Búnker",
         "Batido"
       ],
@@ -8730,7 +8730,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 307,
+        "qty": 281,
         "pocket": "Medicinas"
       },
       {
