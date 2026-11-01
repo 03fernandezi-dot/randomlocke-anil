@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 35m jugadas · 413,770₽ · vidas en el juego: 20",
+  "notes": "Importado del save · 26h 36m jugadas · 418,810₽ · vidas en el juego: 20",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,11 +34,11 @@
       ],
       "ev": [
         16,
-        27,
+        28,
         22,
-        5,
+        8,
         7,
-        15
+        18
       ],
       "abilPool": [
         "Fuerza Mental"
@@ -211,11 +211,11 @@
       ],
       "ev": [
         23,
-        35,
+        36,
         24,
+        18,
         15,
-        15,
-        21
+        24
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -530,11 +530,11 @@
       ],
       "ev": [
         11,
-        25,
+        26,
         16,
-        7,
+        10,
         8,
-        15
+        18
       ],
       "abilPool": [
         "Rezagado"
