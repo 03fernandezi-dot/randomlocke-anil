@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 30m jugadas · 403,040₽ · vidas en el juego: 20",
+  "notes": "Importado del save · 26h 31m jugadas · 403,040₽ · vidas en el juego: 20",
   "team": [
     {
       "nickname": "Cucatrampada",
       "species": "Dragonite",
-      "level": 57,
+      "level": 58,
       "types": [
         "Dragón",
         "Volador"
@@ -503,7 +503,7 @@
     {
       "nickname": "Tita",
       "species": "Tyranitar",
-      "level": 57,
+      "level": 59,
       "types": [
         "Roca",
         "Siniestro"
@@ -7532,6 +7532,7 @@
       207,
       209,
       210,
+      211,
       214,
       216,
       271,
@@ -7801,6 +7802,7 @@
       "Swiftfeather",
       "Tabla Cielo",
       "Tabla Linfa",
+      "Tabla Llama",
       "Tabla Oscura",
       "Tabla Pradal",
       "Tabla Terrax",
@@ -8271,6 +8273,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "FLAMEPLATE",
+        "name": "Tabla Llama",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ANTIDOTE",
         "name": "Antídoto",
         "qty": 1,
@@ -8291,7 +8299,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 356,
+        "qty": 353,
         "pocket": "Medicinas"
       },
       {
