@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 7m jugadas · 373,380₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 26h 8m jugadas · 373,380₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Nescafé",
@@ -7656,6 +7656,7 @@
       "MO Corte",
       "MO Destello",
       "MO Golpe Roca",
+      "Mochi Vigor",
       "Monedero",
       "MT02",
       "MT03",
@@ -8314,7 +8315,7 @@
       {
         "id": "NAIVEMINT",
         "name": "Menta Ingenua",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -8374,6 +8375,12 @@
       {
         "id": "MAXELIXIR",
         "name": "Elixir Máximo",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "HEALTHMOCHI",
+        "name": "Mochi Vigor",
         "qty": 1,
         "pocket": "Medicinas"
       },
