@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 18h 35m jugadas · 567,625₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 18h 45m jugadas · 579,875₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -35,10 +35,10 @@
         20
       ],
       "ev": [
-        28,
-        72,
+        30,
+        74,
         13,
-        34,
+        37,
         19,
         47
       ],
@@ -375,10 +375,10 @@
         0
       ],
       "ev": [
-        28,
-        72,
+        30,
+        74,
         13,
-        31,
+        34,
         19,
         47
       ],
@@ -722,10 +722,10 @@
         18
       ],
       "ev": [
-        10,
-        16,
+        12,
+        18,
         3,
-        13,
+        16,
         3,
         5
       ],
@@ -849,7 +849,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 65,
+      "level": 66,
       "types": [
         "Veneno",
         "Dragón"
@@ -873,10 +873,10 @@
         22
       ],
       "ev": [
-        35,
-        113,
+        37,
+        115,
         38,
-        42,
+        45,
         35,
         72
       ],
