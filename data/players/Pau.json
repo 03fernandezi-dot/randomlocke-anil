@@ -3,8 +3,8 @@
   "name": "Pau",
   "lives": 30,
   "livesUsed": 11,
-  "champion": false,
-  "notes": "Importado del save · 18h 59m jugadas · 579,875₽ · vidas en el juego: 13",
+  "champion": true,
+  "notes": "Importado del save · 19h 9m jugadas · 589,775₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -35,12 +35,12 @@
         20
       ],
       "ev": [
-        30,
-        74,
+        33,
+        81,
         13,
-        37,
-        19,
-        47
+        38,
+        22,
+        48
       ],
       "abilPool": [
         "Manto Níveo",
@@ -189,7 +189,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 65,
+      "level": 66,
       "types": [
         "Psíquico",
         "Volador"
@@ -375,12 +375,12 @@
         0
       ],
       "ev": [
-        30,
-        74,
+        33,
+        81,
         13,
-        34,
-        19,
-        47
+        35,
+        22,
+        48
       ],
       "abilPool": [
         "Recogebolas",
@@ -698,7 +698,7 @@
     {
       "nickname": "Juanca",
       "species": "Greattusk",
-      "level": 65,
+      "level": 66,
       "types": [
         "Tierra",
         "Lucha"
@@ -722,12 +722,12 @@
         18
       ],
       "ev": [
-        12,
-        18,
+        15,
+        25,
         3,
-        16,
-        3,
-        5
+        17,
+        6,
+        6
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -873,12 +873,12 @@
         22
       ],
       "ev": [
-        37,
-        115,
+        40,
+        122,
         38,
-        45,
-        35,
-        72
+        46,
+        38,
+        73
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -9361,7 +9361,8 @@
       "gym4": true,
       "gym5": true,
       "gym6": true,
-      "gym7": true
+      "gym7": true,
+      "gym8": true
     },
     "bosses": {},
     "npcs": {},
@@ -9555,6 +9556,7 @@
       213,
       214,
       216,
+      225,
       226,
       227,
       228,
@@ -9810,6 +9812,7 @@
       "Real Plata",
       "Reglamento",
       "Resguardo",
+      "Revest. Metálico",
       "Rillaboomite",
       "Roca Calor",
       "Roca Helada",
@@ -9838,6 +9841,7 @@
       "Tabla Helada",
       "Tabla Linfa",
       "Tabla Pétrea",
+      "Tabla Tóxica",
       "Tesecreto",
       "Ticket Barco",
       "Tmagn1",
@@ -10233,6 +10237,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "METALCOAT",
+        "name": "Revest. Metálico",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "TOXICPLATE",
+        "name": "Tabla Tóxica",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -10253,7 +10269,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 688,
+        "qty": 686,
         "pocket": "Medicinas"
       },
       {
@@ -10265,7 +10281,7 @@
       {
         "id": "CENIZASSAGRADAS",
         "name": "Cenizas Sagradas",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -11051,7 +11067,7 @@
       {
         "id": "KELPSYBERRY",
         "name": "Baya Algama",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Bayas"
       },
       {
