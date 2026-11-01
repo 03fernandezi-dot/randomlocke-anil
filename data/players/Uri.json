@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 47m jugadas · 441,340₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 26h 51m jugadas · 444,980₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,9 +34,9 @@
       ],
       "ev": [
         18,
-        35,
+        38,
         26,
-        11,
+        13,
         8,
         18
       ],
@@ -211,9 +211,9 @@
       ],
       "ev": [
         25,
-        38,
+        41,
         25,
-        18,
+        20,
         16,
         24
       ],
@@ -530,9 +530,9 @@
       ],
       "ev": [
         13,
-        33,
+        36,
         20,
-        13,
+        15,
         9,
         18
       ],
@@ -9491,7 +9491,7 @@
       {
         "id": "XSPATK2",
         "name": "At. Esp. X 2",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos de combate"
       },
       {
