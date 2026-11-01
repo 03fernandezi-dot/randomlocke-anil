@@ -4,143 +4,8 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 8m jugadas · 373,380₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 26h 9m jugadas · 378,330₽ · vidas en el juego: 21",
   "team": [
-    {
-      "nickname": "Nescafé",
-      "species": "Magmortar",
-      "level": 56,
-      "types": [
-        "Fuego"
-      ],
-      "ability": "Piel Tétrica",
-      "nature": "Modesta",
-      "item": "Gafas Especiales",
-      "shiny": false,
-      "moves": [
-        "Moluscañón",
-        "Canto Ardiente",
-        "Onda Certera",
-        "Coraza Trampa"
-      ],
-      "natureMint": true,
-      "natureBase": "Alegre",
-      "iv": [
-        28,
-        5,
-        31,
-        0,
-        19,
-        17
-      ],
-      "ev": [
-        19,
-        16,
-        14,
-        11,
-        12,
-        18
-      ],
-      "abilPool": [
-        "Piel Tétrica"
-      ],
-      "abilHidden": [
-        "Silvano"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Magnitud"
-        },
-        {
-          "lvl": 1,
-          "m": "Calcinación"
-        },
-        {
-          "lvl": 1,
-          "m": "Escudo Real"
-        },
-        {
-          "lvl": 1,
-          "m": "Carga Tóxica"
-        },
-        {
-          "lvl": 1,
-          "m": "Estímulo"
-        },
-        {
-          "lvl": 12,
-          "m": "Fuego Fatuo"
-        },
-        {
-          "lvl": 12,
-          "m": "Llama Protectora"
-        },
-        {
-          "lvl": 15,
-          "m": "Represión Metal"
-        },
-        {
-          "lvl": 16,
-          "m": "Hachazo Pétreo"
-        },
-        {
-          "lvl": 20,
-          "m": "Manos Juntas"
-        },
-        {
-          "lvl": 22,
-          "m": "Ascuas"
-        },
-        {
-          "lvl": 24,
-          "m": "Pirotecnia"
-        },
-        {
-          "lvl": 28,
-          "m": "Buena Baza"
-        },
-        {
-          "lvl": 34,
-          "m": "Onda Ígnea"
-        },
-        {
-          "lvl": 40,
-          "m": "Cólera Ardiente"
-        },
-        {
-          "lvl": 45,
-          "m": "Constricción"
-        },
-        {
-          "lvl": 46,
-          "m": "Voto Fuego"
-        },
-        {
-          "lvl": 52,
-          "m": "Presente"
-        },
-        {
-          "lvl": 55,
-          "m": "Coraza Trampa"
-        },
-        {
-          "lvl": 58,
-          "m": "Latigazo"
-        },
-        {
-          "lvl": 64,
-          "m": "Erupción de Ira"
-        }
-      ],
-      "firstMoves": [
-        "Anticipo",
-        "Fuego Fatuo",
-        "Lanzarrocas",
-        "Barrera"
-      ],
-      "spriteKey": "MAGMORTAR"
-    },
     {
       "nickname": "Rammus",
       "species": "Venusaur",
@@ -314,6 +179,141 @@
         "Residuos"
       ],
       "spriteKey": "VENUSAUR"
+    },
+    {
+      "nickname": "Nescafé",
+      "species": "Magmortar",
+      "level": 57,
+      "types": [
+        "Fuego"
+      ],
+      "ability": "Piel Tétrica",
+      "nature": "Modesta",
+      "item": "Gafas Especiales",
+      "shiny": false,
+      "moves": [
+        "Moluscañón",
+        "Canto Ardiente",
+        "Onda Certera",
+        "Coraza Trampa"
+      ],
+      "natureMint": true,
+      "natureBase": "Alegre",
+      "iv": [
+        28,
+        5,
+        31,
+        0,
+        19,
+        17
+      ],
+      "ev": [
+        21,
+        19,
+        14,
+        11,
+        12,
+        18
+      ],
+      "abilPool": [
+        "Piel Tétrica"
+      ],
+      "abilHidden": [
+        "Silvano"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Magnitud"
+        },
+        {
+          "lvl": 1,
+          "m": "Calcinación"
+        },
+        {
+          "lvl": 1,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 1,
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 1,
+          "m": "Estímulo"
+        },
+        {
+          "lvl": 12,
+          "m": "Fuego Fatuo"
+        },
+        {
+          "lvl": 12,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 15,
+          "m": "Represión Metal"
+        },
+        {
+          "lvl": 16,
+          "m": "Hachazo Pétreo"
+        },
+        {
+          "lvl": 20,
+          "m": "Manos Juntas"
+        },
+        {
+          "lvl": 22,
+          "m": "Ascuas"
+        },
+        {
+          "lvl": 24,
+          "m": "Pirotecnia"
+        },
+        {
+          "lvl": 28,
+          "m": "Buena Baza"
+        },
+        {
+          "lvl": 34,
+          "m": "Onda Ígnea"
+        },
+        {
+          "lvl": 40,
+          "m": "Cólera Ardiente"
+        },
+        {
+          "lvl": 45,
+          "m": "Constricción"
+        },
+        {
+          "lvl": 46,
+          "m": "Voto Fuego"
+        },
+        {
+          "lvl": 52,
+          "m": "Presente"
+        },
+        {
+          "lvl": 55,
+          "m": "Coraza Trampa"
+        },
+        {
+          "lvl": 58,
+          "m": "Latigazo"
+        },
+        {
+          "lvl": 64,
+          "m": "Erupción de Ira"
+        }
+      ],
+      "firstMoves": [
+        "Anticipo",
+        "Fuego Fatuo",
+        "Lanzarrocas",
+        "Barrera"
+      ],
+      "spriteKey": "MAGMORTAR"
     },
     {
       "nickname": "Izan",
@@ -524,8 +524,8 @@
         25
       ],
       "ev": [
-        7,
-        6,
+        9,
+        9,
         6,
         3,
         5,
@@ -700,8 +700,8 @@
         13
       ],
       "ev": [
-        14,
-        8,
+        16,
+        11,
         12,
         3,
         5,
@@ -878,8 +878,8 @@
         3
       ],
       "ev": [
-        54,
-        136,
+        55,
+        139,
         85,
         83,
         50,
@@ -6796,17 +6796,6 @@
   ],
   "captures": [
     {
-      "route": "ciudad_celeste",
-      "where": "Ciudad Celeste",
-      "species": "Magmortar",
-      "nickname": "Nescafé",
-      "shiny": false,
-      "status": "captured",
-      "category": "ciudad",
-      "level": 17,
-      "mon": "Magmortar"
-    },
-    {
       "route": "ruta_5",
       "where": "Ruta 5",
       "species": "Venusaur",
@@ -6816,6 +6805,17 @@
       "category": "salvaje",
       "level": 21,
       "mon": "Venusaur"
+    },
+    {
+      "route": "ciudad_celeste",
+      "where": "Ciudad Celeste",
+      "species": "Magmortar",
+      "nickname": "Nescafé",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 17,
+      "mon": "Magmortar"
     },
     {
       "route": "",
@@ -7358,8 +7358,8 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "ciudad_celeste": true,
       "ruta_5": true,
+      "ciudad_celeste": true,
       "ruta_2_sur": true,
       "ruta_1": true,
       "ruta_15": true,
