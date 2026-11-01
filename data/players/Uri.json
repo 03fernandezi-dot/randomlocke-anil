@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 34m jugadas · 408,640₽ · vidas en el juego: 20",
+  "notes": "Importado del save · 26h 35m jugadas · 413,770₽ · vidas en el juego: 20",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,7 +34,7 @@
       ],
       "ev": [
         16,
-        21,
+        27,
         22,
         5,
         7,
@@ -211,7 +211,7 @@
       ],
       "ev": [
         23,
-        29,
+        35,
         24,
         15,
         15,
@@ -323,7 +323,7 @@
     {
       "nickname": "Izan",
       "species": "Swampert",
-      "level": 58,
+      "level": 59,
       "types": [
         "Agua",
         "Tierra"
@@ -530,7 +530,7 @@
       ],
       "ev": [
         11,
-        19,
+        25,
         16,
         7,
         8,
@@ -681,7 +681,7 @@
     {
       "nickname": "Rammus",
       "species": "Venusaur",
-      "level": 58,
+      "level": 59,
       "types": [
         "Planta",
         "Veneno"
@@ -855,7 +855,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 58,
+      "level": 59,
       "types": [
         "Hada",
         "Acero"
