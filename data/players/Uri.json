@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 28h 25m jugadas · 576,610₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 26m jugadas · 576,610₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -860,7 +860,7 @@
       "item": "Tabla Tóxica",
       "shiny": false,
       "moves": [
-        "Colmillo Veneno",
+        "Puño Sombra",
         "Mil Púas Tóxicas",
         "Puño Incremento",
         "Cabeza de Hierro"
