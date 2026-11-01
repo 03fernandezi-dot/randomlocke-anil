@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 18h 19m jugadas · 388,655₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 18h 30m jugadas · 556,105₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -300,6 +300,7 @@
         }
       ],
       "tmMoves": [
+        "Ácido Málico",
         "Alarido",
         "Alboroto",
         "Anulación",
@@ -314,6 +315,7 @@
         "Danza Pétalo",
         "Electropico",
         "Esfera Aural",
+        "Espejo",
         "Gas Corrosivo",
         "Giro Mortífero",
         "Granizo",
@@ -322,6 +324,7 @@
         "Joya de Luz",
         "Manto Espejo",
         "Mirada Heladora",
+        "Multiataque",
         "Onda Tóxica",
         "Pulso de Campo",
         "Represión Metal",
@@ -358,7 +361,7 @@
       "moves": [
         "Buena Baza",
         "Chuzos",
-        "Cabezazo Zen",
+        "Puño Incremento",
         "Quemarrueda"
       ],
       "natureMint": true,
@@ -486,7 +489,9 @@
         "Hachazo Pétreo",
         "Hora del Té",
         "Mirada Heladora",
+        "Multiataque",
         "Ominochoque",
+        "Otra Vez",
         "Palma Rauda",
         "Piñón Auxiliar",
         "Planta Feroz",
@@ -977,14 +982,18 @@
         "Decalcomanía",
         "Eco Metálico",
         "Empujón",
+        "Espejo",
         "Estrujón",
         "Fotocolisión",
+        "Fuerza Bruta",
         "Fuerza G",
         "Granizo",
         "Láser Doble",
         "Manto Espejo",
         "Mirada Heladora",
+        "Multiataque",
         "Onda Tóxica",
+        "Otra Vez",
         "Piñón Auxiliar",
         "Psicocarga",
         "Púas",
@@ -9867,12 +9876,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "RELICSILVER",
-        "name": "Real Plata",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "IRONPLATE",
         "name": "Tabla Acero",
         "qty": 1,
@@ -9885,12 +9888,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "SUPEREVIOLITE",
-        "name": "Supereviolita",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "POWERBELT",
         "name": "Cinto Recio",
         "qty": 1,
@@ -9899,13 +9896,7 @@
       {
         "id": "SUPERREPEL",
         "name": "Superrepelente",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "HEATROCK",
-        "name": "Roca Calor",
-        "qty": 1,
+        "qty": 15,
         "pocket": "Objetos"
       },
       {
@@ -9917,18 +9908,6 @@
       {
         "id": "ROOMSERVICE",
         "name": "Servicio Raro",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "OVALSTONE",
-        "name": "Piedra Oval",
-        "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "MISTYSEED",
-        "name": "Semilla Bruma",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -10011,18 +9990,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "COMETSHARD",
-        "name": "Fragmento Cometa",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "SMOOTHROCK",
-        "name": "Roca Suave",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "CHOICEBAND",
         "name": "Cinta Elección",
         "qty": 2,
@@ -10067,24 +10034,6 @@
       {
         "id": "MENTALHERB",
         "name": "Hierba Mental",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "BIGNUGGET",
-        "name": "Maxipepita",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "PEARL",
-        "name": "Perla",
-        "qty": 2,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "RELICVASE",
-        "name": "Ánfora",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -10163,12 +10112,6 @@
       {
         "id": "PSYCHICGEM",
         "name": "Gema Psíquica",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "GRASSYSEED",
-        "name": "Semilla Hierba",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -10253,12 +10196,6 @@
       {
         "id": "LINKINGCORD",
         "name": "Cordón Unión",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "BALMMUSHROOM",
-        "name": "Seta Aroma",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -10505,7 +10442,7 @@
       {
         "id": "PREMIERBALL",
         "name": "Honor Ball",
-        "qty": 11,
+        "qty": 12,
         "pocket": "Poké Balls"
       },
       {
@@ -10535,7 +10472,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 17,
+        "qty": 27,
         "pocket": "Poké Balls"
       },
       {
