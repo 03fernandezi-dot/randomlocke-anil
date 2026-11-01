@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 18h 30m jugadas · 556,105₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 18h 33m jugadas · 561,865₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
       "species": "Tinkaton",
-      "level": 65,
+      "level": 66,
       "types": [
         "Hada",
         "Acero"
@@ -39,8 +39,8 @@
         70,
         13,
         31,
-        17,
-        45
+        19,
+        47
       ],
       "abilPool": [
         "Manto Níveo",
@@ -361,7 +361,7 @@
       "moves": [
         "Buena Baza",
         "Chuzos",
-        "Puño Incremento",
+        "Hachazo Pétreo",
         "Quemarrueda"
       ],
       "natureMint": true,
@@ -379,8 +379,8 @@
         70,
         13,
         28,
-        17,
-        45
+        19,
+        47
       ],
       "abilPool": [
         "Recogebolas",
@@ -516,7 +516,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 65,
+      "level": 66,
       "types": [
         "Eléctrico"
       ],
@@ -698,7 +698,7 @@
     {
       "nickname": "Juanca",
       "species": "Greattusk",
-      "level": 64,
+      "level": 65,
       "types": [
         "Tierra",
         "Lucha"
@@ -726,8 +726,8 @@
         14,
         3,
         10,
-        1,
-        3
+        3,
+        5
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -854,7 +854,7 @@
         "Veneno",
         "Dragón"
       ],
-      "ability": "Punto Tóxico",
+      "ability": "Cuerpo Horneado",
       "nature": "Serena",
       "item": "Dragalgite",
       "shiny": false,
@@ -877,8 +877,8 @@
         111,
         38,
         39,
-        33,
-        70
+        35,
+        72
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -10460,7 +10460,7 @@
       {
         "id": "LOVEBALL",
         "name": "Amor Ball",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Poké Balls"
       },
       {
