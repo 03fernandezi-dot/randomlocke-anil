@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 9m jugadas · 378,330₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 26h 10m jugadas · 378,330₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Rammus",
@@ -7601,6 +7601,7 @@
       "Crítico X 2",
       "Cuchara Torcida",
       "Cuerda Huida",
+      "Defensa X",
       "Defensa X 2",
       "Elixir Máximo",
       "Fósil Hélix",
@@ -8335,7 +8336,7 @@
       {
         "id": "POTION",
         "name": "Poción",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -9451,6 +9452,12 @@
       {
         "id": "XSPEED2",
         "name": "Velocidad X 2",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "XDEFENSE",
+        "name": "Defensa X",
         "qty": 1,
         "pocket": "Objetos de combate"
       },
