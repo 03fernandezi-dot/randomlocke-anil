@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 25h 56m jugadas · 353,870₽ · vidas en el juego: 21",
+  "notes": "Importado del save · 25h 58m jugadas · 353,870₽ · vidas en el juego: 21",
   "team": [
     {
       "nickname": "Rammus",
@@ -7120,6 +7120,7 @@
       "ruta_13": true,
       "ruta_14": true,
       "ciudad_fucsia": true,
+      "ruta_19": true,
       "isla_canela": true
     },
     "items": {},
@@ -7515,7 +7516,8 @@
       "Velocidad X 2",
       "Veloz Ball",
       "Vial",
-      "Visor Silph"
+      "Visor Silph",
+      "Zumo de Baya"
     ],
     "bag": [
       {
@@ -7869,7 +7871,7 @@
       {
         "id": "TOXICPLATE",
         "name": "Tabla Tóxica",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -8067,6 +8069,12 @@
       {
         "id": "DECapsula",
         "name": "Cápsula DE",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "BERRYJUICE",
+        "name": "Zumo de Baya",
         "qty": 1,
         "pocket": "Medicinas"
       },
