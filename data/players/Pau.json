@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 18h 18m jugadas · 388,655₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 18h 19m jugadas · 388,655₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -9653,6 +9653,7 @@
       "Hueso Grueso",
       "Incienso Duplo",
       "Incienso Marino",
+      "Incienso Roca",
       "Incubadora",
       "Leche Mu-mu",
       "Lente de la Verdad",
@@ -10102,7 +10103,7 @@
       {
         "id": "ADAMANTORB",
         "name": "Diamansfera",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos"
       },
       {
@@ -10282,6 +10283,12 @@
       {
         "id": "PROTECTIVEPADS",
         "name": "Paracontacto",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ROCKINCENSE",
+        "name": "Incienso Roca",
         "qty": 1,
         "pocket": "Objetos"
       },
