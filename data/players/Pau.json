@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": false,
-  "notes": "Importado del save · 17h 58m jugadas · 388,655₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 18h 1m jugadas · 388,655₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -36,7 +36,7 @@
       ],
       "ev": [
         25,
-        68,
+        70,
         11,
         31,
         17,
@@ -373,7 +373,7 @@
       ],
       "ev": [
         25,
-        68,
+        70,
         11,
         28,
         17,
@@ -718,7 +718,7 @@
       ],
       "ev": [
         7,
-        12,
+        14,
         1,
         10,
         1,
@@ -869,7 +869,7 @@
       ],
       "ev": [
         32,
-        109,
+        111,
         36,
         39,
         33,
@@ -6549,6 +6549,116 @@
       "spriteKey": "DONDOZO"
     },
     {
+      "nickname": "Toby",
+      "species": "Herdier",
+      "level": 60,
+      "types": [
+        "Normal"
+      ],
+      "ability": "Ventosas",
+      "nature": "Mansa",
+      "item": "",
+      "shiny": true,
+      "moves": [
+        "Confidencia",
+        "Antiaéreo",
+        "Decalcomanía",
+        "Luna Roja"
+      ],
+      "iv": [
+        29,
+        19,
+        13,
+        10,
+        7,
+        17
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Puño Invisible",
+        "Ventosas"
+      ],
+      "abilHidden": [
+        "Perro Guardián"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 1,
+          "m": "Desarrollo"
+        },
+        {
+          "lvl": 1,
+          "m": "Paz Mental"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Rastrero"
+        },
+        {
+          "lvl": 1,
+          "m": "Ofrenda"
+        },
+        {
+          "lvl": 12,
+          "m": "Refuerzo"
+        },
+        {
+          "lvl": 19,
+          "m": "Truco"
+        },
+        {
+          "lvl": 24,
+          "m": "Obstrucción"
+        },
+        {
+          "lvl": 30,
+          "m": "Deseo"
+        },
+        {
+          "lvl": 36,
+          "m": "Presente"
+        },
+        {
+          "lvl": 42,
+          "m": "Confidencia"
+        },
+        {
+          "lvl": 48,
+          "m": "Antiaéreo"
+        },
+        {
+          "lvl": 54,
+          "m": "Decalcomanía"
+        },
+        {
+          "lvl": 60,
+          "m": "Luna Roja"
+        },
+        {
+          "lvl": 66,
+          "m": "Garra Brutal"
+        }
+      ],
+      "firstMoves": [
+        "Confidencia",
+        "Antiaéreo",
+        "Decalcomanía",
+        "Luna Roja"
+      ],
+      "spriteKey": "HERDIER"
+    },
+    {
       "nickname": "Toxicroak",
       "species": "Toxicroak",
       "level": 48,
@@ -8872,6 +8982,17 @@
       "mon": "Dondozo"
     },
     {
+      "route": "volcan_canela",
+      "where": "Volcán Canela",
+      "species": "Herdier",
+      "nickname": "Toby",
+      "shiny": true,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 60,
+      "mon": "Herdier"
+    },
+    {
       "route": "",
       "where": "Isla Canela",
       "species": "Toxicroak",
@@ -9048,6 +9169,7 @@
       "ruta_19": true,
       "ruta_11": true,
       "cueva_celeste": true,
+      "volcan_canela": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_16": true,
@@ -9062,8 +9184,7 @@
       "tunel_diglett": true,
       "tunel_roca": true,
       "pueblo_marengo": true,
-      "ruta_17": true,
-      "volcan_canela": true
+      "ruta_17": true
     },
     "items": {},
     "encounters": {
@@ -9112,7 +9233,8 @@
       "mansion_quemada": true,
       "ruta_19": true,
       "cueva_celeste": true,
-      "bosque_celeste": true
+      "bosque_celeste": true,
+      "volcan_canela": true
     },
     "switches": [
       48,
@@ -9243,6 +9365,7 @@
       "Baya Baribá",
       "Baya Biglia",
       "Baya Caoca",
+      "Baya Chilan",
       "Baya Grana",
       "Baya Kouba",
       "Baya Lagro",
@@ -9265,6 +9388,7 @@
       "Carbón",
       "Cascabel Alivio",
       "Cascabel Concha",
+      "Cebo Ball",
       "Cenizas Sagradas",
       "Chaleco Asalto",
       "Chesnaughtite",
@@ -9352,6 +9476,7 @@
       "MT112",
       "MT113",
       "MT114",
+      "MT117",
       "MT118",
       "MT119",
       "MT12",
@@ -9408,11 +9533,13 @@
       "MT89",
       "MT90",
       "MT91",
+      "MT92",
       "MT95",
       "MT99",
       "Nivel Ball",
       "Ornitofósil",
       "Pañuelo de Seda",
+      "Paracontacto",
       "Parasol Multiuso",
       "Parte Azul",
       "Pepita",
@@ -9927,6 +10054,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "PROTECTIVEPADS",
+        "name": "Paracontacto",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -10157,13 +10290,13 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 10,
+        "qty": 9,
         "pocket": "Poké Balls"
       },
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 19,
+        "qty": 17,
         "pocket": "Poké Balls"
       },
       {
@@ -10175,6 +10308,12 @@
       {
         "id": "LUXURYBALL",
         "name": "Lujo Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "LUREBALL",
+        "name": "Cebo Ball",
         "qty": 1,
         "pocket": "Poké Balls"
       },
@@ -10539,6 +10678,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM92",
+        "name": "MT92",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM94",
         "name": "MT94",
         "qty": 1,
@@ -10625,6 +10770,12 @@
       {
         "id": "TM114",
         "name": "MT114",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM117",
+        "name": "MT117",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -10755,6 +10906,12 @@
         "pocket": "Bayas"
       },
       {
+        "id": "CHILANBERRY",
+        "name": "Baya Chilan",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
         "id": "APICOTBERRY",
         "name": "Baya Aricoc",
         "qty": 1,
@@ -10865,7 +11022,7 @@
       {
         "id": "XACCURACY",
         "name": "Precisión X",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos de combate"
       },
       {
