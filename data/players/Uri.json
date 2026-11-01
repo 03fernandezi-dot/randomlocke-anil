@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 28h 7m jugadas · 560,860₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 10m jugadas · 560,860₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -832,7 +832,7 @@
     {
       "nickname": "Frederic",
       "species": "Sneasler",
-      "level": 58,
+      "level": 66,
       "types": [
         "Lucha",
         "Veneno"
@@ -8788,7 +8788,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 281,
+        "qty": 273,
         "pocket": "Medicinas"
       },
       {
