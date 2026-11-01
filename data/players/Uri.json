@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 5,
   "champion": false,
-  "notes": "Importado del save · 26h 51m jugadas · 444,980₽ · vidas en el juego: 19",
+  "notes": "Importado del save · 26h 56m jugadas · 453,170₽ · vidas en el juego: 19",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,9 +34,9 @@
       ],
       "ev": [
         18,
-        38,
-        26,
-        13,
+        40,
+        29,
+        16,
         8,
         18
       ],
@@ -211,9 +211,9 @@
       ],
       "ev": [
         25,
-        41,
-        25,
-        20,
+        43,
+        28,
+        23,
         16,
         24
       ],
@@ -530,9 +530,9 @@
       ],
       "ev": [
         13,
-        36,
-        20,
-        15,
+        38,
+        23,
+        18,
         9,
         18
       ],
@@ -6133,6 +6133,120 @@
         "Amnesia"
       ],
       "spriteKey": "DARUMAKA"
+    },
+    {
+      "nickname": "Che",
+      "species": "Nosepass",
+      "level": 58,
+      "types": [
+        "Roca"
+      ],
+      "ability": "Puño Invisible",
+      "nature": "Amable",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Chispazo",
+        "Poder Reserva",
+        "Electropico",
+        "Alboroto"
+      ],
+      "iv": [
+        19,
+        6,
+        31,
+        17,
+        12,
+        3
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Recogida",
+        "Puño Invisible"
+      ],
+      "abilHidden": [
+        "Mandíbula Fuerte"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Rodar"
+        },
+        {
+          "lvl": 4,
+          "m": "Antiaéreo"
+        },
+        {
+          "lvl": 7,
+          "m": "Giro Mortífero"
+        },
+        {
+          "lvl": 10,
+          "m": "Salazón"
+        },
+        {
+          "lvl": 13,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 16,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 19,
+          "m": "Poder Pasado"
+        },
+        {
+          "lvl": 22,
+          "m": "Carámbano"
+        },
+        {
+          "lvl": 25,
+          "m": "Masa Cósmica"
+        },
+        {
+          "lvl": 28,
+          "m": "Plumerazo"
+        },
+        {
+          "lvl": 31,
+          "m": "Pulimento"
+        },
+        {
+          "lvl": 34,
+          "m": "Desahogo"
+        },
+        {
+          "lvl": 37,
+          "m": "Chispazo"
+        },
+        {
+          "lvl": 40,
+          "m": "Poder Reserva"
+        },
+        {
+          "lvl": 43,
+          "m": "Electropico"
+        },
+        {
+          "lvl": 43,
+          "m": "Alboroto"
+        }
+      ],
+      "firstMoves": [
+        "Chispazo",
+        "Poder Reserva",
+        "Electropico",
+        "Alboroto"
+      ],
+      "spriteKey": "NOSEPASS"
     }
   ],
   "graveyard": [
@@ -7294,6 +7408,17 @@
       "mon": "Darumaka"
     },
     {
+      "route": "cueva_celeste",
+      "where": "Cueva Celeste",
+      "species": "Nosepass",
+      "nickname": "Che",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 58,
+      "mon": "Nosepass"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -7394,6 +7519,7 @@
       "islas_espuma": true,
       "ruta_19": true,
       "mansion_quemada": true,
+      "cueva_celeste": true,
       "ruta_22": true,
       "pueblo_paleta": true,
       "tunel_roca": true,
@@ -7451,7 +7577,8 @@
       "ruta_18": true,
       "islas_espuma": true,
       "ruta_19": true,
-      "mansion_quemada": true
+      "mansion_quemada": true,
+      "cueva_celeste": true
     },
     "switches": [
       48,
@@ -8483,7 +8610,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 7,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
