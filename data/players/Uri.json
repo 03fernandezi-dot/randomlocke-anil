@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 28h 26m jugadas · 576,610₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 30m jugadas · 576,610₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -20,7 +20,7 @@
       "shiny": true,
       "moves": [
         "Vasto Impacto",
-        "Respiro",
+        "Voltiocambio",
         "Picoteo",
         "Espora"
       ],
@@ -144,6 +144,7 @@
         "Beso Drenaje",
         "Bomba Lodo",
         "Brecha Negra",
+        "Cabeza de Hierro",
         "Cambiaalmas",
         "Cañón Batidor",
         "Cañón Dinamax",
@@ -175,7 +176,8 @@
         "Tajo Metralla",
         "Venganza",
         "Viento Feérico",
-        "Voz Cautivadora"
+        "Voz Cautivadora",
+        "Yo Primero"
       ],
       "firstMoves": [
         "Ciclón",
