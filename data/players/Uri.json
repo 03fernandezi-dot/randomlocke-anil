@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 28h 43m jugadas · 576,110₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 49m jugadas · 576,110₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -36,7 +36,7 @@
         28,
         71,
         36,
-        37,
+        39,
         26,
         33
       ],
@@ -217,7 +217,7 @@
         23,
         71,
         32,
-        42,
+        44,
         27,
         33
       ],
@@ -394,7 +394,7 @@
         35,
         76,
         37,
-        47,
+        49,
         34,
         39
       ],
@@ -752,7 +752,7 @@
         5,
         16,
         2,
-        11,
+        13,
         17,
         8
       ],
@@ -916,7 +916,7 @@
         2,
         6,
         0,
-        5,
+        7,
         6,
         3
       ],
@@ -4503,6 +4503,153 @@
       "spriteKey": "GOTHITELLE"
     },
     {
+      "nickname": "Moltres?",
+      "species": "Sinistcha",
+      "level": 65,
+      "types": [
+        "Planta",
+        "Fantasma"
+      ],
+      "ability": "",
+      "nature": "Alegre",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Fulgor Semilla",
+        "Espora",
+        "Maquinación",
+        "Fuerza G"
+      ],
+      "iv": [
+        12,
+        21,
+        8,
+        9,
+        31,
+        21
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Cobardía",
+        "Espada Debacle"
+      ],
+      "abilHidden": [
+        "Puño Férreo"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 1,
+          "m": "Isofuerza"
+        },
+        {
+          "lvl": 1,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 1,
+          "m": "Abrecaminos"
+        },
+        {
+          "lvl": 1,
+          "m": "Bomba Imán"
+        },
+        {
+          "lvl": 1,
+          "m": "Sol Matinal"
+        },
+        {
+          "lvl": 1,
+          "m": "Paz Mental"
+        },
+        {
+          "lvl": 6,
+          "m": "Brazo Pincho"
+        },
+        {
+          "lvl": 12,
+          "m": "Follaje"
+        },
+        {
+          "lvl": 18,
+          "m": "Pikaturbo"
+        },
+        {
+          "lvl": 18,
+          "m": "Magnitud"
+        },
+        {
+          "lvl": 24,
+          "m": "Arañazo"
+        },
+        {
+          "lvl": 24,
+          "m": "Somnífero"
+        },
+        {
+          "lvl": 30,
+          "m": "Rizo Algodón"
+        },
+        {
+          "lvl": 30,
+          "m": "Garra Umbría"
+        },
+        {
+          "lvl": 36,
+          "m": "Extracto Picante"
+        },
+        {
+          "lvl": 42,
+          "m": "Seducción"
+        },
+        {
+          "lvl": 42,
+          "m": "Truco Floral"
+        },
+        {
+          "lvl": 42,
+          "m": "Cerco Dimensión"
+        },
+        {
+          "lvl": 48,
+          "m": "Fulgor Semilla"
+        },
+        {
+          "lvl": 54,
+          "m": "Espora"
+        },
+        {
+          "lvl": 60,
+          "m": "Maquinación"
+        },
+        {
+          "lvl": 60,
+          "m": "Fuerza G"
+        },
+        {
+          "lvl": 66,
+          "m": "Megapuño"
+        }
+      ],
+      "firstMoves": [
+        "Fulgor Semilla",
+        "Espora",
+        "Maquinación",
+        "Fuerza G"
+      ],
+      "spriteKey": "SINISTCHA"
+    },
+    {
       "nickname": "Dododondonzo",
       "species": "Dondozo",
       "level": 53,
@@ -7738,6 +7885,17 @@
       "mon": "Gothitelle"
     },
     {
+      "route": "volcan_canela",
+      "where": "Volcán Canela",
+      "species": "Sinistcha",
+      "nickname": "Moltres?",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 65,
+      "mon": "Sinistcha"
+    },
+    {
       "route": "islas_espuma",
       "where": "Islas Espuma",
       "species": "Dondozo",
@@ -7995,6 +8153,7 @@
       "pueblo_marengo": true,
       "torre_pokemon": true,
       "isla_canela": true,
+      "volcan_canela": true,
       "islas_espuma": true,
       "ruta_4": true,
       "ruta_21": true,
@@ -8017,8 +8176,7 @@
       "ruta_11": true,
       "ruta_13": true,
       "ruta_14": true,
-      "ciudad_fucsia": true,
-      "volcan_canela": true
+      "ciudad_fucsia": true
     },
     "items": {},
     "encounters": {
@@ -9144,7 +9302,7 @@
       {
         "id": "GREATBALL",
         "name": "Super Ball",
-        "qty": 14,
+        "qty": 13,
         "pocket": "Poké Balls"
       },
       {
