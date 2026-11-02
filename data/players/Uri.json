@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 29h 33m jugadas · 576,110₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 29h 51m jugadas · 576,110₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Frederic",
@@ -35,7 +35,7 @@
         26
       ],
       "ev": [
-        2,
+        4,
         6,
         0,
         7,
@@ -236,7 +236,7 @@
         17
       ],
       "ev": [
-        35,
+        37,
         76,
         37,
         49,
@@ -409,7 +409,7 @@
         13
       ],
       "ev": [
-        28,
+        30,
         71,
         36,
         39,
@@ -587,7 +587,7 @@
         13
       ],
       "ev": [
-        5,
+        7,
         16,
         2,
         13,
@@ -937,7 +937,7 @@
         25
       ],
       "ev": [
-        23,
+        25,
         71,
         32,
         44,
