@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 29h 54m jugadas · 576,110₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 29h 56m jugadas · 576,110₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Frederic",
@@ -8683,6 +8683,7 @@
       "Defensa X 2",
       "Diente Marino",
       "Elixir Máximo",
+      "Escudo Habilidad",
       "Fósil Garra",
       "Fósil Hélix",
       "Fósil Pluma",
@@ -9431,6 +9432,12 @@
       {
         "id": "METRONOME",
         "name": "Metrónomo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "ABILITYSHIELD",
+        "name": "Escudo Habilidad",
         "qty": 1,
         "pocket": "Objetos"
       },
