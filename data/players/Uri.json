@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": true,
-  "notes": "Importado del save · 31h 8m jugadas · 617,480₽ · vidas en el juego: 12",
+  "notes": "Importado del save · 31h 9m jugadas · 617,480₽ · vidas en el juego: 12",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -9275,6 +9275,7 @@
       "Gema Dragón",
       "Gema Eléctrica",
       "Gema Fantasma",
+      "Gema Fuego",
       "Gema Hada",
       "Gema Hielo",
       "Gema Lucha",
@@ -10094,6 +10095,18 @@
       {
         "id": "WEAKNESSPOLICY",
         "name": "Seguro Debilidad",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "FIREGEM",
+        "name": "Gema Fuego",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PEARLSTRING",
+        "name": "Sarta Perlas",
         "qty": 1,
         "pocket": "Objetos"
       },
