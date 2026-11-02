@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 29h 51m jugadas · 576,110₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 29h 54m jugadas · 576,110₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Frederic",
@@ -36,9 +36,9 @@
       ],
       "ev": [
         4,
-        6,
-        0,
         7,
+        1,
+        8,
         8,
         4
       ],
@@ -237,9 +237,9 @@
       ],
       "ev": [
         37,
-        76,
-        37,
-        49,
+        77,
+        38,
+        50,
         36,
         40
       ],
@@ -410,9 +410,9 @@
       ],
       "ev": [
         30,
-        71,
-        36,
-        39,
+        72,
+        37,
+        40,
         28,
         34
       ],
@@ -588,9 +588,9 @@
       ],
       "ev": [
         7,
-        16,
-        2,
-        13,
+        17,
+        3,
+        14,
         19,
         9
       ],
@@ -938,9 +938,9 @@
       ],
       "ev": [
         25,
-        71,
-        32,
-        44,
+        72,
+        33,
+        45,
         29,
         34
       ],
@@ -6634,6 +6634,130 @@
       ],
       "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10242.png",
       "spriteKey": "GOODRA_1"
+    },
+    {
+      "nickname": "Coca",
+      "species": "Celesteela",
+      "level": 65,
+      "types": [
+        "Acero",
+        "Volador"
+      ],
+      "ability": "",
+      "nature": "Pícara",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Tóxico",
+        "Triple Patada",
+        "Bomba Fango",
+        "Capa Mágica"
+      ],
+      "iv": [
+        24,
+        7,
+        31,
+        27,
+        29,
+        31
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Toque Ardiente"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Viento Aciago"
+        },
+        {
+          "lvl": 1,
+          "m": "Picoteo"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Incremento"
+        },
+        {
+          "lvl": 5,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 10,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 15,
+          "m": "Marcha Espectral"
+        },
+        {
+          "lvl": 20,
+          "m": "Detección"
+        },
+        {
+          "lvl": 25,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 29,
+          "m": "Doble Bofetón"
+        },
+        {
+          "lvl": 30,
+          "m": "Ala de Acero"
+        },
+        {
+          "lvl": 35,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 40,
+          "m": "Desquite"
+        },
+        {
+          "lvl": 45,
+          "m": "Hoja Aguda"
+        },
+        {
+          "lvl": 47,
+          "m": "Recuperación"
+        },
+        {
+          "lvl": 50,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 55,
+          "m": "Triple Patada"
+        },
+        {
+          "lvl": 60,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 65,
+          "m": "Capa Mágica"
+        },
+        {
+          "lvl": 70,
+          "m": "Meteoimpacto"
+        }
+      ],
+      "firstMoves": [
+        "Tóxico",
+        "Triple Patada",
+        "Bomba Fango",
+        "Capa Mágica"
+      ],
+      "spriteKey": "CELESTEELA"
     }
   ],
   "graveyard": [
@@ -8178,6 +8302,17 @@
       "mon": "Goodra"
     },
     {
+      "route": "islas_espuma",
+      "where": "Islas Espuma",
+      "species": "Celesteela",
+      "nickname": "Coca",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 65,
+      "mon": "Celesteela"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -9494,7 +9629,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 11,
+        "qty": 10,
         "pocket": "Poké Balls"
       },
       {
