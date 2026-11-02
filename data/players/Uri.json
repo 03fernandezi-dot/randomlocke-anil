@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 28h 41m jugadas · 576,110₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 42m jugadas · 576,110₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,7 +34,7 @@
       ],
       "ev": [
         28,
-        69,
+        71,
         36,
         37,
         26,
@@ -215,7 +215,7 @@
       ],
       "ev": [
         23,
-        69,
+        71,
         32,
         42,
         27,
@@ -392,7 +392,7 @@
       ],
       "ev": [
         35,
-        74,
+        76,
         37,
         47,
         34,
@@ -750,7 +750,7 @@
       ],
       "ev": [
         5,
-        14,
+        16,
         2,
         11,
         17,
@@ -914,7 +914,7 @@
       ],
       "ev": [
         2,
-        4,
+        6,
         0,
         5,
         6,
@@ -8067,7 +8067,8 @@
       "mansion_quemada": true,
       "cueva_celeste": true,
       "bosque_celeste": true,
-      "isla_canela": true
+      "isla_canela": true,
+      "volcan_canela": true
     },
     "switches": [
       48,
@@ -8895,7 +8896,7 @@
       {
         "id": "SPLASHPLATE",
         "name": "Tabla Linfa",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
