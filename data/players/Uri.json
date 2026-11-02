@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 28h 37m jugadas · 576,610₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 38m jugadas · 576,610₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -8274,6 +8274,7 @@
       "Guante de Boxeo",
       "Hechizo",
       "Hierba Copia",
+      "Incienso Duplo",
       "Incienso Lento",
       "Incienso Suave",
       "Incubadora",
@@ -8601,7 +8602,7 @@
       {
         "id": "BUGGEM",
         "name": "Gema Bicho",
-        "qty": 3,
+        "qty": 4,
         "pocket": "Objetos"
       },
       {
@@ -8937,6 +8938,12 @@
       {
         "id": "METALPOWDER",
         "name": "Polvo Metálico",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LUCKINCENSE",
+        "name": "Incienso Duplo",
         "qty": 1,
         "pocket": "Objetos"
       },
