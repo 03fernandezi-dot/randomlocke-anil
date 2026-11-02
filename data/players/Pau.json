@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 19h 38m jugadas · 612,215₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 19h 42m jugadas · 618,580₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -35,10 +35,10 @@
         20
       ],
       "ev": [
-        33,
+        36,
         89,
         15,
-        48,
+        53,
         24,
         48
       ],
@@ -375,10 +375,10 @@
         0
       ],
       "ev": [
-        33,
+        36,
         89,
         15,
-        45,
+        50,
         24,
         48
       ],
@@ -722,10 +722,10 @@
         18
       ],
       "ev": [
-        15,
+        18,
         33,
         5,
-        27,
+        32,
         8,
         6
       ],
@@ -873,10 +873,10 @@
         22
       ],
       "ev": [
-        40,
+        43,
         130,
         40,
-        56,
+        61,
         40,
         73
       ],
@@ -4794,6 +4794,125 @@
         "Mal de Ojo"
       ],
       "spriteKey": "COPPERAJAH"
+    },
+    {
+      "nickname": "POLLAGORDA",
+      "species": "Ironjugulis",
+      "level": 65,
+      "types": [
+        "Siniestro",
+        "Volador"
+      ],
+      "ability": "Aura Feérica",
+      "nature": "Rara",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Capa Mágica",
+        "Destello",
+        "Velocidad Extrema",
+        "Sacrificio"
+      ],
+      "iv": [
+        22,
+        25,
+        0,
+        25,
+        24,
+        11
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Aura Feérica"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Giro Vil"
+        },
+        {
+          "lvl": 1,
+          "m": "Caída Libre"
+        },
+        {
+          "lvl": 1,
+          "m": "Veneno X"
+        },
+        {
+          "lvl": 1,
+          "m": "Trapicheo"
+        },
+        {
+          "lvl": 1,
+          "m": "Castigo"
+        },
+        {
+          "lvl": 7,
+          "m": "Chulería"
+        },
+        {
+          "lvl": 14,
+          "m": "Garra Metal"
+        },
+        {
+          "lvl": 21,
+          "m": "Ayuda"
+        },
+        {
+          "lvl": 28,
+          "m": "Hachazo Pétreo"
+        },
+        {
+          "lvl": 35,
+          "m": "Capa Mágica"
+        },
+        {
+          "lvl": 42,
+          "m": "Destello"
+        },
+        {
+          "lvl": 56,
+          "m": "Velocidad Extrema"
+        },
+        {
+          "lvl": 63,
+          "m": "Sacrificio"
+        },
+        {
+          "lvl": 70,
+          "m": "Espora"
+        },
+        {
+          "lvl": 77,
+          "m": "Pirotecnia"
+        },
+        {
+          "lvl": 84,
+          "m": "Pico Taladro"
+        },
+        {
+          "lvl": 91,
+          "m": "Presa Maxilar"
+        }
+      ],
+      "tmMoves": [
+        "Retribución"
+      ],
+      "firstMoves": [
+        "Capa Mágica",
+        "Destello",
+        "Velocidad Extrema",
+        "Sacrificio"
+      ],
+      "spriteKey": "IRONJUGULIS"
     },
     {
       "nickname": "Toby",
@@ -9507,6 +9626,17 @@
       "mon": "Copperajah"
     },
     {
+      "route": "ruta_25_sur",
+      "where": "Ruta 25 Sur",
+      "species": "Ironjugulis",
+      "nickname": "POLLAGORDA",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 65,
+      "mon": "Ironjugulis"
+    },
+    {
       "route": "volcan_canela",
       "where": "Volcán Canela",
       "species": "Stoutland",
@@ -9862,6 +9992,7 @@
       "ruta_6": true,
       "cataratas_tohjo": true,
       "ruta_24": true,
+      "ruta_25_sur": true,
       "volcan_canela": true,
       "monte_moon_exterior": true,
       "ruta_10_norte": true,
@@ -9943,7 +10074,8 @@
       "volcan_canela": true,
       "central_energia": true,
       "ruta_23": true,
-      "ruta_24": true
+      "ruta_24": true,
+      "ruta_25_sur": true
     },
     "switches": [
       48,
@@ -9998,6 +10130,7 @@
       120,
       121,
       126,
+      128,
       129,
       152,
       176,
@@ -11004,7 +11137,7 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 5,
+        "qty": 4,
         "pocket": "Poké Balls"
       },
       {
@@ -11682,7 +11815,7 @@
       {
         "id": "KEEBERRY",
         "name": "Baya Biglia",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Bayas"
       },
       {
