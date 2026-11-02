@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": true,
-  "notes": "Importado del save · 30h 51m jugadas · 617,480₽ · vidas en el juego: 12",
+  "notes": "Importado del save · 31h 4m jugadas · 617,480₽ · vidas en el juego: 12",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -186,182 +186,131 @@
       "spriteKey": "DRAGONITE"
     },
     {
-      "nickname": "Cartman",
-      "species": "Goodra (Hisui)",
-      "level": 68,
+      "nickname": "Sunny",
+      "species": "Ursaluna",
+      "level": 69,
       "types": [
-        "Acero",
-        "Dragón"
+        "Tierra",
+        "Normal"
       ],
-      "ability": "Raíz robusta",
-      "nature": "Afable",
-      "item": "Garra Rápida",
+      "ability": "Cambio Color",
+      "nature": "Huraña",
+      "item": "Toxisfera",
       "shiny": false,
       "moves": [
-        "Orbes Espectro",
-        "Bomba Fango",
-        "Cañón Dinamax",
-        "Amplificador"
+        "Terremoto",
+        "Sorpresa",
+        "Fachada",
+        "Puño Bala"
       ],
-      "natureMint": true,
-      "natureBase": "Ingenua",
       "iv": [
-        10,
-        2,
-        16,
-        24,
-        16,
-        5
+        29,
+        20,
+        1,
+        7,
+        18,
+        22
       ],
       "ev": [
-        1,
-        6,
         0,
-        10,
-        4,
-        5
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Espanto",
-        "Raíz robusta"
+        "Cambio Color",
+        "Sombra Trampa"
       ],
       "abilHidden": [
-        "Respondón"
+        "Hurto"
       ],
       "learnset": [
         {
-          "lvl": 0,
-          "m": "Electrificación"
+          "lvl": 1,
+          "m": "Palma Rauda"
         },
         {
           "lvl": 1,
-          "m": "Viraje"
+          "m": "Danza Amiga"
         },
         {
           "lvl": 1,
-          "m": "Cola Dragón"
+          "m": "Meteoros"
         },
         {
           "lvl": 1,
-          "m": "Bomba Fango"
+          "m": "Cola Veneno"
         },
         {
           "lvl": 1,
-          "m": "Defensa Floral"
+          "m": "Canto Mortal"
         },
         {
-          "lvl": 1,
-          "m": "Constricción"
+          "lvl": 8,
+          "m": "Defensa Férrea"
         },
         {
-          "lvl": 1,
-          "m": "Tormenta Arena"
-        },
-        {
-          "lvl": 1,
-          "m": "Látigo Cepa"
-        },
-        {
-          "lvl": 1,
-          "m": "Luz Lunar"
+          "lvl": 13,
+          "m": "Meteorobola"
         },
         {
           "lvl": 15,
-          "m": "Cuerno Certero"
+          "m": "Pulso Cura"
         },
         {
-          "lvl": 20,
-          "m": "Colmillo Hielo"
+          "lvl": 17,
+          "m": "Aguzar"
+        },
+        {
+          "lvl": 22,
+          "m": "Cuchillada"
         },
         {
           "lvl": 25,
-          "m": "Ultrapuño"
+          "m": "Desquite"
         },
         {
-          "lvl": 30,
-          "m": "Escudo Real"
+          "lvl": 29,
+          "m": "Anticura"
         },
         {
           "lvl": 35,
-          "m": "Cadena Virulenta"
+          "m": "Último Lugar"
         },
         {
-          "lvl": 43,
-          "m": "Golpe Aéreo"
+          "lvl": 41,
+          "m": "Velo Sagrado"
         },
         {
-          "lvl": 49,
-          "m": "Mordisco"
+          "lvl": 41,
+          "m": "Llama Embrujada"
         },
         {
-          "lvl": 49,
-          "m": "Poder Oculto"
+          "lvl": 48,
+          "m": "Furia Candente"
         },
         {
-          "lvl": 58,
-          "m": "Patada Salto Alta"
+          "lvl": 55,
+          "m": "Resarcimiento"
         },
         {
-          "lvl": 67,
-          "m": "Buceo"
+          "lvl": 56,
+          "m": "Cuerpo Pesado"
+        },
+        {
+          "lvl": 64,
+          "m": "Aria Burbuja"
         }
       ],
-      "tmMoves": [
-        "Absorbefuerza",
-        "Agarre",
-        "Aire Afilado",
-        "Alivio",
-        "Anillo Ígneo",
-        "Ascuas",
-        "Batido",
-        "Brillo Mágico",
-        "Cañón Batidor",
-        "Cañón Dinamax",
-        "Carga Dragón",
-        "Ciclón",
-        "Copión",
-        "Corpulencia",
-        "Cura Floral",
-        "Descanso",
-        "Divide Dolor",
-        "Fertilizante",
-        "Fitoimpulso",
-        "Gas Venenoso",
-        "Golpe Bis",
-        "Golpe Umbrío",
-        "Hidrochorro",
-        "Hoja Aguda",
-        "Ida y Vuelta",
-        "Impactrueno",
-        "Ladrón",
-        "Legado",
-        "Llama Azul",
-        "Meteorobola",
-        "Moluscañón",
-        "Motivación",
-        "Nitrocarga",
-        "Pikapicado",
-        "Piñón Auxiliar",
-        "Poder Pasado",
-        "Presa Maxilar",
-        "Pulpocañón",
-        "Rayo Confuso",
-        "Rayo Señal",
-        "Reducción",
-        "Refuerzo",
-        "Roca Veloz",
-        "Salazón",
-        "Sorpresa",
-        "Tinieblas"
-      ],
       "firstMoves": [
-        "Arrumaco",
-        "Piñón Auxiliar",
-        "Cambio de Marcha",
-        "Vendetta"
+        "Liofilización",
+        "Deslome",
+        "Tormenta Arena",
+        "Acróbata"
       ],
-      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10242.png",
-      "spriteKey": "GOODRA_1"
+      "spriteKey": "URSALUNA"
     },
     {
       "nickname": "Roger",
@@ -4924,130 +4873,182 @@
       "spriteKey": "TAUROS_1"
     },
     {
-      "nickname": "Sunny",
-      "species": "Teddiursa",
-      "level": 64,
+      "nickname": "Cartman",
+      "species": "Goodra (Hisui)",
+      "level": 68,
       "types": [
-        "Normal"
+        "Acero",
+        "Dragón"
       ],
-      "ability": "Unísono",
-      "nature": "Huraña",
-      "item": "",
+      "ability": "Raíz robusta",
+      "nature": "Afable",
+      "item": "Garra Rápida",
       "shiny": false,
       "moves": [
-        "Liofilización",
-        "Deslome",
-        "Tormenta Arena",
-        "Acróbata"
+        "Orbes Espectro",
+        "Bomba Fango",
+        "Cañón Dinamax",
+        "Amplificador"
       ],
+      "natureMint": true,
+      "natureBase": "Ingenua",
       "iv": [
-        29,
-        20,
-        1,
-        7,
-        18,
-        22
+        10,
+        2,
+        16,
+        24,
+        16,
+        5
       ],
       "ev": [
+        1,
+        6,
         0,
-        0,
-        0,
-        0,
-        0,
-        0
+        10,
+        4,
+        5
       ],
       "abilPool": [
-        "Unísono",
-        "Punto Tóxico"
+        "Espanto",
+        "Raíz robusta"
       ],
       "abilHidden": [
-        "Inmunidad"
+        "Respondón"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Puño Furia"
+          "lvl": 0,
+          "m": "Electrificación"
         },
         {
           "lvl": 1,
-          "m": "Autosugestión"
+          "m": "Viraje"
         },
         {
           "lvl": 1,
-          "m": "Cara Susto"
+          "m": "Cola Dragón"
         },
         {
           "lvl": 1,
-          "m": "Sorpresa"
+          "m": "Bomba Fango"
         },
         {
           "lvl": 1,
-          "m": "Divide Dolor"
+          "m": "Defensa Floral"
         },
         {
           "lvl": 1,
-          "m": "Restricción"
+          "m": "Constricción"
         },
         {
           "lvl": 1,
-          "m": "Clemencia"
-        },
-        {
-          "lvl": 8,
-          "m": "Ciclón"
-        },
-        {
-          "lvl": 13,
-          "m": "Represalia"
-        },
-        {
-          "lvl": 15,
-          "m": "Celebración"
-        },
-        {
-          "lvl": 17,
-          "m": "Desarrollo"
-        },
-        {
-          "lvl": 22,
-          "m": "Truco Fuerza"
-        },
-        {
-          "lvl": 25,
-          "m": "Golpe Roca"
-        },
-        {
-          "lvl": 29,
-          "m": "Picoteo"
-        },
-        {
-          "lvl": 33,
-          "m": "Daño Secreto"
-        },
-        {
-          "lvl": 37,
-          "m": "Liofilización"
-        },
-        {
-          "lvl": 37,
-          "m": "Deslome"
-        },
-        {
-          "lvl": 41,
           "m": "Tormenta Arena"
         },
         {
-          "lvl": 57,
-          "m": "Acróbata"
+          "lvl": 1,
+          "m": "Látigo Cepa"
+        },
+        {
+          "lvl": 1,
+          "m": "Luz Lunar"
+        },
+        {
+          "lvl": 15,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 20,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 25,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 30,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 35,
+          "m": "Cadena Virulenta"
+        },
+        {
+          "lvl": 43,
+          "m": "Golpe Aéreo"
+        },
+        {
+          "lvl": 49,
+          "m": "Mordisco"
+        },
+        {
+          "lvl": 49,
+          "m": "Poder Oculto"
+        },
+        {
+          "lvl": 58,
+          "m": "Patada Salto Alta"
+        },
+        {
+          "lvl": 67,
+          "m": "Buceo"
         }
       ],
-      "firstMoves": [
-        "Liofilización",
-        "Deslome",
-        "Tormenta Arena",
-        "Acróbata"
+      "tmMoves": [
+        "Absorbefuerza",
+        "Agarre",
+        "Aire Afilado",
+        "Alivio",
+        "Anillo Ígneo",
+        "Ascuas",
+        "Batido",
+        "Brillo Mágico",
+        "Cañón Batidor",
+        "Cañón Dinamax",
+        "Carga Dragón",
+        "Ciclón",
+        "Copión",
+        "Corpulencia",
+        "Cura Floral",
+        "Descanso",
+        "Divide Dolor",
+        "Fertilizante",
+        "Fitoimpulso",
+        "Gas Venenoso",
+        "Golpe Bis",
+        "Golpe Umbrío",
+        "Hidrochorro",
+        "Hoja Aguda",
+        "Ida y Vuelta",
+        "Impactrueno",
+        "Ladrón",
+        "Legado",
+        "Llama Azul",
+        "Meteorobola",
+        "Moluscañón",
+        "Motivación",
+        "Nitrocarga",
+        "Pikapicado",
+        "Piñón Auxiliar",
+        "Poder Pasado",
+        "Presa Maxilar",
+        "Pulpocañón",
+        "Rayo Confuso",
+        "Rayo Señal",
+        "Reducción",
+        "Refuerzo",
+        "Roca Veloz",
+        "Salazón",
+        "Sorpresa",
+        "Tinieblas"
       ],
-      "spriteKey": "TEDDIURSA"
+      "firstMoves": [
+        "Arrumaco",
+        "Piñón Auxiliar",
+        "Cambio de Marcha",
+        "Vendetta"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10242.png",
+      "spriteKey": "GOODRA_1"
     },
     {
       "nickname": "Makakinho",
@@ -8259,15 +8260,15 @@
       "mon": "Dragonite"
     },
     {
-      "route": "torre_pokemon",
-      "where": "Torre Pokémon",
-      "species": "Goodra",
-      "nickname": "Cartman",
+      "route": "monte_plateado",
+      "where": "Monte Plateado",
+      "species": "Ursaluna",
+      "nickname": "Sunny",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 33,
-      "mon": "Goodra"
+      "level": 64,
+      "mon": "Ursaluna"
     },
     {
       "route": "monte_moon_exterior",
@@ -8644,15 +8645,15 @@
       "mon": "Tauros"
     },
     {
-      "route": "monte_plateado",
-      "where": "Monte Plateado",
-      "species": "Teddiursa",
-      "nickname": "Sunny",
+      "route": "torre_pokemon",
+      "where": "Torre Pokémon",
+      "species": "Goodra",
+      "nickname": "Cartman",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 64,
-      "mon": "Teddiursa"
+      "level": 33,
+      "mon": "Goodra"
     },
     {
       "route": "mansion_quemada",
@@ -8901,7 +8902,7 @@
     "npcs": {},
     "routes": {
       "ruta_1": true,
-      "torre_pokemon": true,
+      "monte_plateado": true,
       "monte_moon_exterior": true,
       "ruta_15": true,
       "ruta_2_sur": true,
@@ -8926,7 +8927,7 @@
       "ruta_21": true,
       "ciudad_azafran": true,
       "ruta_18": true,
-      "monte_plateado": true,
+      "torre_pokemon": true,
       "mansion_quemada": true,
       "ruta_9": true,
       "ruta_10_norte": true,
@@ -9896,12 +9897,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "TOXICORB",
-        "name": "Toxisfera",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "METALPOWDER",
         "name": "Polvo Metálico",
         "qty": 1,
@@ -10072,7 +10067,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 34,
+        "qty": 29,
         "pocket": "Medicinas"
       },
       {
