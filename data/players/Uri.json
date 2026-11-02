@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 28h 42m jugadas · 576,110₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 43m jugadas · 576,110₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -8195,6 +8195,7 @@
       "Antídoto",
       "Antihielo",
       "At. Esp. X 2",
+      "Banda Atadura",
       "Baya Alcho",
       "Baya Ango",
       "Baya Aranja",
@@ -8376,6 +8377,7 @@
       "MT83",
       "MT85",
       "MT86",
+      "MT88",
       "MT89",
       "MT90",
       "MT91",
@@ -8974,6 +8976,12 @@
       {
         "id": "LUCKYEGG",
         "name": "Huevo Suerte",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BINDINGBAND",
+        "name": "Banda Atadura",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -9664,6 +9672,12 @@
       {
         "id": "TM86",
         "name": "MT86",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM88",
+        "name": "MT88",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
