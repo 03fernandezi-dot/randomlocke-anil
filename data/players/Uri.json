@@ -4,23 +4,23 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 28h 55m jugadas · 576,110₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 56m jugadas · 576,110₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Makakinho",
-      "species": "Darumaka",
-      "level": 53,
+      "species": "Darmanitan",
+      "level": 64,
       "types": [
         "Fuego"
       ],
-      "ability": "Bromista",
+      "ability": "Tintineo",
       "nature": "Rara",
       "item": "",
       "shiny": false,
       "moves": [
         "Sonámbulo",
         "Nitrocarga",
-        "Danza Aleteo",
+        "Deslizamiento",
         "Descanso"
       ],
       "iv": [
@@ -40,135 +40,72 @@
         0
       ],
       "abilPool": [
-        "Bromista"
+        "Tintineo"
       ],
       "abilHidden": [
-        "Nado Rápido"
+        "Gula"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Clavo Cañón"
+          "lvl": 0,
+          "m": "Deslizamiento"
         },
         {
           "lvl": 1,
-          "m": "Día Soleado"
+          "m": "Calcinación"
         },
         {
-          "lvl": 3,
-          "m": "Piñón Auxiliar"
-        },
-        {
-          "lvl": 4,
-          "m": "Bastión Final"
-        },
-        {
-          "lvl": 8,
-          "m": "Triple Inmersión"
-        },
-        {
-          "lvl": 9,
-          "m": "Polvo Ira"
-        },
-        {
-          "lvl": 12,
+          "lvl": 1,
           "m": "Superdiente"
         },
         {
-          "lvl": 16,
-          "m": "Látigo Cepa"
+          "lvl": 1,
+          "m": "Colmillo Hielo"
         },
         {
-          "lvl": 19,
-          "m": "Pin Misil"
+          "lvl": 1,
+          "m": "Pirotecnia"
+        },
+        {
+          "lvl": 12,
+          "m": "Plumerazo"
+        },
+        {
+          "lvl": 16,
+          "m": "Frío Polar"
         },
         {
           "lvl": 20,
-          "m": "Foco Energía"
+          "m": "Pulso de Campo"
         },
         {
           "lvl": 24,
-          "m": "Fisura"
+          "m": "Viento Hielo"
         },
         {
           "lvl": 28,
-          "m": "Espabila"
+          "m": "Carámbano"
         },
         {
           "lvl": 32,
-          "m": "Carga Dragón"
+          "m": "Vasto Impacto"
         },
         {
-          "lvl": 36,
-          "m": "Lanzarrocas"
-        },
-        {
-          "lvl": 40,
-          "m": "Lluvia Ígnea"
-        },
-        {
-          "lvl": 42,
-          "m": "Nitrocarga"
+          "lvl": 38,
+          "m": "Absorber"
         },
         {
           "lvl": 44,
-          "m": "Danza Aleteo"
+          "m": "Daño Secreto"
         },
         {
-          "lvl": 48,
-          "m": "Amnesia"
+          "lvl": 50,
+          "m": "Relajo"
+        },
+        {
+          "lvl": 56,
+          "m": "Fijar Blanco"
         }
-      ],
-      "tmMoves": [
-        "Adaptación",
-        "Alivio",
-        "Anillo Ígneo",
-        "Beso Drenaje",
-        "Bomba Caramelo",
-        "Bomba Lodo",
-        "Cabeza de Hierro",
-        "Cañón Batidor",
-        "Cerrojo Feérico",
-        "Ciclón",
-        "Cola Veneno",
-        "Copión",
-        "Cuchillada",
-        "Daño Secreto",
-        "Desarrollo",
-        "Descanso",
-        "Divide Dolor",
-        "Escalofrío",
-        "Espora",
-        "Fitoimpulso",
-        "Gas Venenoso",
-        "Giro Mortífero",
-        "Golpe Bis",
-        "Hachazo Pétreo",
-        "Ida y Vuelta",
-        "Ladrón",
-        "Llama Azul",
-        "Meteorobola",
-        "Mil Temblores",
-        "Moluscañón",
-        "Motivación",
-        "Nitrocarga",
-        "Pataleta",
-        "Pesadilla",
-        "Pin Misil",
-        "Presa Maxilar",
-        "Puño Sombra",
-        "Rayo Señal",
-        "Refuerzo",
-        "Retribución",
-        "Roca Veloz",
-        "Saña",
-        "Sonámbulo",
-        "Tajo Metralla",
-        "Tinieblas",
-        "Venganza",
-        "Viento Feérico",
-        "Voz Cautivadora",
-        "Yo Primero"
       ],
       "firstMoves": [
         "Lluvia Ígnea",
@@ -176,7 +113,7 @@
         "Danza Aleteo",
         "Amnesia"
       ],
-      "spriteKey": "DARUMAKA"
+      "spriteKey": "DARMANITAN"
     },
     {
       "nickname": "Roger",
@@ -807,6 +744,9 @@
           "lvl": 46,
           "m": "Furia Natural"
         }
+      ],
+      "tmMoves": [
+        "Saña"
       ],
       "firstMoves": [
         "Golpe Cabeza",
@@ -7617,13 +7557,13 @@
     {
       "route": "mansion_quemada",
       "where": "Mansión Quemada",
-      "species": "Darumaka",
+      "species": "Darmanitan",
       "nickname": "Makakinho",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 53,
-      "mon": "Darumaka"
+      "mon": "Darmanitan"
     },
     {
       "route": "monte_moon_exterior",
@@ -9269,7 +9209,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 272,
+        "qty": 261,
         "pocket": "Medicinas"
       },
       {
