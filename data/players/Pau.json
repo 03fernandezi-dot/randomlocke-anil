@@ -693,7 +693,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 67,
+      "level": 68,
       "types": [
         "Psíquico",
         "Volador"
@@ -11229,7 +11229,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 635,
+        "qty": 634,
         "pocket": "Medicinas"
       },
       {
