@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 20h 13m jugadas · 424,700₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 20h 16m jugadas · 424,700₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -7329,6 +7329,141 @@
       "spriteKey": "BRAVIARY_1"
     },
     {
+      "nickname": "Dinotren",
+      "species": "Arctozolt",
+      "level": 56,
+      "types": [
+        "Eléctrico",
+        "Hielo"
+      ],
+      "ability": "Acero Templado",
+      "nature": "Floja",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Cabeza de Hierro",
+        "Electropico",
+        "Cambio de Marcha",
+        "Sol Matinal"
+      ],
+      "iv": [
+        12,
+        1,
+        11,
+        26,
+        30,
+        6
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Acero Templado",
+        "Antibarrera"
+      ],
+      "abilHidden": [
+        "Manto Frondoso"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Cortina Plasma"
+        },
+        {
+          "lvl": 1,
+          "m": "Sol Matinal"
+        },
+        {
+          "lvl": 7,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 14,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 21,
+          "m": "Arrumaco"
+        },
+        {
+          "lvl": 28,
+          "m": "Tajo Umbrío"
+        },
+        {
+          "lvl": 35,
+          "m": "Puño Hielo"
+        },
+        {
+          "lvl": 42,
+          "m": "Choque Anímico"
+        },
+        {
+          "lvl": 42,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 49,
+          "m": "Trueno"
+        },
+        {
+          "lvl": 56,
+          "m": "Chuzos"
+        },
+        {
+          "lvl": 63,
+          "m": "Atiborramiento"
+        },
+        {
+          "lvl": 63,
+          "m": "Esquirla Helada"
+        },
+        {
+          "lvl": 70,
+          "m": "Paisaje Nevado"
+        },
+        {
+          "lvl": 77,
+          "m": "Rueda Aural"
+        }
+      ],
+      "tmMoves": [
+        "Anulación",
+        "Arrumaco",
+        "As Oculto",
+        "Asalto Barrera",
+        "Bálsamo Osado",
+        "Bruma Explosiva",
+        "Camelo",
+        "Chuzos",
+        "Danza Aleteo",
+        "Deslome",
+        "Eco Metálico",
+        "Electropico",
+        "Estrujón",
+        "Fuerza G",
+        "Granizo",
+        "Hachazo Pétreo",
+        "Hora del Té",
+        "Llave Corsé",
+        "Onda Certera",
+        "Rayo Fusión",
+        "Shuriken de Agua",
+        "Sylveotornado",
+        "Viento Carámbano"
+      ],
+      "firstMoves": [
+        "Cortina Plasma",
+        "Sol Matinal",
+        "Cabeza de Hierro"
+      ],
+      "spriteKey": "ARCTOZOLT"
+    },
+    {
       "nickname": "Mariconada",
       "species": "Florges",
       "level": 67,
@@ -7499,141 +7634,6 @@
         "Furia Natural"
       ],
       "spriteKey": "FLORGES"
-    },
-    {
-      "nickname": "Dinotren",
-      "species": "Arctozolt",
-      "level": 56,
-      "types": [
-        "Eléctrico",
-        "Hielo"
-      ],
-      "ability": "Acero Templado",
-      "nature": "Floja",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Cabeza de Hierro",
-        "Electropico",
-        "Cambio de Marcha",
-        "Sol Matinal"
-      ],
-      "iv": [
-        12,
-        1,
-        11,
-        26,
-        30,
-        6
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Acero Templado",
-        "Antibarrera"
-      ],
-      "abilHidden": [
-        "Manto Frondoso"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Cortina Plasma"
-        },
-        {
-          "lvl": 1,
-          "m": "Sol Matinal"
-        },
-        {
-          "lvl": 7,
-          "m": "Cambio de Marcha"
-        },
-        {
-          "lvl": 14,
-          "m": "Pulso de Campo"
-        },
-        {
-          "lvl": 21,
-          "m": "Arrumaco"
-        },
-        {
-          "lvl": 28,
-          "m": "Tajo Umbrío"
-        },
-        {
-          "lvl": 35,
-          "m": "Puño Hielo"
-        },
-        {
-          "lvl": 42,
-          "m": "Choque Anímico"
-        },
-        {
-          "lvl": 42,
-          "m": "Meteorobola"
-        },
-        {
-          "lvl": 49,
-          "m": "Trueno"
-        },
-        {
-          "lvl": 56,
-          "m": "Chuzos"
-        },
-        {
-          "lvl": 63,
-          "m": "Atiborramiento"
-        },
-        {
-          "lvl": 63,
-          "m": "Esquirla Helada"
-        },
-        {
-          "lvl": 70,
-          "m": "Paisaje Nevado"
-        },
-        {
-          "lvl": 77,
-          "m": "Rueda Aural"
-        }
-      ],
-      "tmMoves": [
-        "Anulación",
-        "Arrumaco",
-        "As Oculto",
-        "Asalto Barrera",
-        "Bálsamo Osado",
-        "Bruma Explosiva",
-        "Camelo",
-        "Chuzos",
-        "Danza Aleteo",
-        "Deslome",
-        "Eco Metálico",
-        "Electropico",
-        "Estrujón",
-        "Fuerza G",
-        "Granizo",
-        "Hachazo Pétreo",
-        "Hora del Té",
-        "Llave Corsé",
-        "Onda Certera",
-        "Rayo Fusión",
-        "Shuriken de Agua",
-        "Sylveotornado",
-        "Viento Carámbano"
-      ],
-      "firstMoves": [
-        "Cortina Plasma",
-        "Sol Matinal",
-        "Cabeza de Hierro"
-      ],
-      "spriteKey": "ARCTOZOLT"
     },
     {
       "nickname": "La coñona",
@@ -10097,17 +10097,6 @@
       "mon": "Braviary"
     },
     {
-      "route": "monte_moon_exterior",
-      "where": "Monte Moon Exterior",
-      "species": "Florges",
-      "nickname": "Mariconada",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 15,
-      "mon": "Florges"
-    },
-    {
       "route": "",
       "where": "Laboratorio Canela",
       "species": "Arctozolt",
@@ -10117,6 +10106,17 @@
       "category": "estatico_regalo",
       "level": 1,
       "mon": "Arctozolt"
+    },
+    {
+      "route": "monte_moon_exterior",
+      "where": "Monte Moon Exterior",
+      "species": "Florges",
+      "nickname": "Mariconada",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 15,
+      "mon": "Florges"
     },
     {
       "route": "monte_plateado",
