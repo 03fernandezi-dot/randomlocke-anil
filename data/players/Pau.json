@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 20h 52m jugadas · 458,825₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 20h 57m jugadas · 458,825₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -10905,6 +10905,7 @@
       "Fósil Mandíbula",
       "Fragmento Cometa",
       "Freshstartmochi",
+      "Gafas Especiales",
       "Garra Afilada",
       "Gema Acero",
       "Gema Dragón",
@@ -11579,6 +11580,18 @@
         "id": "MOONSTONE",
         "name": "Piedra Lunar",
         "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BIGNUGGET",
+        "name": "Maxipepita",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "WISEGLASSES",
+        "name": "Gafas Especiales",
+        "qty": 1,
         "pocket": "Objetos"
       },
       {
@@ -12430,7 +12443,7 @@
       {
         "id": "LEPPABERRY",
         "name": "Baya Zanama",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Bayas"
       },
       {
