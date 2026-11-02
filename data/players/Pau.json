@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 20h 19m jugadas · 424,700₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 20h 33m jugadas · 457,480₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
       "species": "Tinkaton",
-      "level": 68,
+      "level": 69,
       "types": [
         "Hada",
         "Acero"
@@ -35,12 +35,12 @@
         20
       ],
       "ev": [
-        36,
-        89,
-        15,
-        53,
-        27,
-        52
+        42,
+        97,
+        16,
+        55,
+        34,
+        56
       ],
       "abilPool": [
         "Manto Níveo",
@@ -140,12 +140,14 @@
         }
       ],
       "tmMoves": [
+        "Ácido Málico",
         "Ala de Acero",
         "Alarido",
         "Arenas Ardientes",
         "As Oculto",
         "Asalto Barrera",
         "Azote",
+        "Batería Asalto",
         "Bola Voltio",
         "Bruma Explosiva",
         "Carga",
@@ -189,7 +191,7 @@
     {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 68,
+      "level": 69,
       "types": [
         "Siniestro",
         "Acero"
@@ -201,7 +203,7 @@
       "moves": [
         "Buena Baza",
         "Chuzos",
-        "Empujón",
+        "Batería Asalto",
         "Quemarrueda"
       ],
       "natureMint": true,
@@ -215,12 +217,12 @@
         0
       ],
       "ev": [
-        36,
-        89,
-        15,
-        50,
-        27,
-        52
+        42,
+        97,
+        16,
+        52,
+        34,
+        56
       ],
       "abilPool": [
         "Recogebolas",
@@ -312,6 +314,7 @@
         "Alarido",
         "Arenas Ardientes",
         "Asalto Barrera",
+        "Batería Asalto",
         "Bola Voltio",
         "Cabezazo Zen",
         "Cambiavelocidad",
@@ -358,7 +361,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 68,
+      "level": 69,
       "types": [
         "Eléctrico"
       ],
@@ -498,6 +501,7 @@
         "As Oculto",
         "Bálsamo Osado",
         "Barrera",
+        "Batería Asalto",
         "Bloqueo",
         "Buceo",
         "Cambiavelocidad",
@@ -542,7 +546,7 @@
     {
       "nickname": "Juanca",
       "species": "Greattusk",
-      "level": 68,
+      "level": 69,
       "types": [
         "Tierra",
         "Lucha"
@@ -566,12 +570,12 @@
         18
       ],
       "ev": [
+        24,
+        41,
+        6,
+        34,
         18,
-        33,
-        5,
-        32,
-        11,
-        10
+        14
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -655,6 +659,7 @@
         "Asalto Barrera",
         "Bálsamo Osado",
         "Barrera",
+        "Batería Asalto",
         "Bloqueo",
         "Bola Voltio",
         "Bruma Explosiva",
@@ -666,6 +671,7 @@
         "Empujón",
         "Estrujón",
         "Fuerza G",
+        "Furia Taurina",
         "Golpe Roca",
         "Halloween",
         "Láser Doble",
@@ -693,7 +699,7 @@
     {
       "nickname": "POLLAGORDA",
       "species": "Ironjugulis",
-      "level": 67,
+      "level": 69,
       "types": [
         "Siniestro",
         "Volador"
@@ -717,12 +723,12 @@
         11
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        3,
-        4
+        6,
+        8,
+        1,
+        2,
+        10,
+        8
       ],
       "abilPool": [
         "Aura Feérica"
@@ -842,7 +848,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 68,
+      "level": 69,
       "types": [
         "Veneno",
         "Dragón"
@@ -866,12 +872,12 @@
         22
       ],
       "ev": [
-        43,
-        130,
-        40,
-        61,
-        43,
-        77
+        49,
+        138,
+        41,
+        63,
+        50,
+        81
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -965,6 +971,7 @@
         "Asalto Barrera",
         "Azote",
         "Barrera",
+        "Batería Asalto",
         "Bloqueo",
         "Bomba Ácida",
         "Cambiavelocidad",
@@ -10530,6 +10537,7 @@
       "Bola Luminosa",
       "Bono Bici",
       "Botón Escape",
+      "Brazal",
       "Brazal Firme",
       "Caramelo Furia",
       "Carbón",
@@ -10549,6 +10557,7 @@
       "Cuchara Torcida",
       "Cuerda Huida",
       "Cura Total",
+      "Def. Esp. X 2",
       "Def. Esp. X 3",
       "Defensa X",
       "Diamansfera",
@@ -10617,6 +10626,7 @@
       "Mochi Intelecto",
       "Monedaprodig",
       "Monedero",
+      "MT01",
       "MT02",
       "MT03",
       "MT04",
@@ -10770,6 +10780,7 @@
       "Tmagn1",
       "Tmagn2",
       "Toxisfera",
+      "Turno Ball",
       "Tyranitarita",
       "Ultra Ball",
       "Vcapsula",
@@ -10827,7 +10838,7 @@
       {
         "id": "SUPERREPEL",
         "name": "Superrepelente",
-        "qty": 12,
+        "qty": 9,
         "pocket": "Objetos"
       },
       {
@@ -11133,7 +11144,7 @@
       {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos"
       },
       {
@@ -11209,6 +11220,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "RELICBAND",
+        "name": "Brazal",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "COMETSHARD",
+        "name": "Fragmento Cometa",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -11277,7 +11300,7 @@
       {
         "id": "BIGMALASADA",
         "name": "Malasada Maxi",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -11439,7 +11462,7 @@
       {
         "id": "SPORTBALL",
         "name": "Competi Ball",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Poké Balls"
       },
       {
@@ -11469,7 +11492,7 @@
       {
         "id": "TIMERBALL",
         "name": "Turno Ball",
-        "qty": 5,
+        "qty": 6,
         "pocket": "Poké Balls"
       },
       {
@@ -11483,6 +11506,12 @@
         "name": "Cebo Ball",
         "qty": 1,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM01",
+        "name": "MT01",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "TM02",
@@ -12219,7 +12248,7 @@
       {
         "id": "DIREHIT3",
         "name": "Crítico X 3",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos de combate"
       },
       {
@@ -12279,6 +12308,12 @@
       {
         "id": "XSPDEF3",
         "name": "Def. Esp. X 3",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "XSPDEF2",
+        "name": "Def. Esp. X 2",
         "qty": 1,
         "pocket": "Objetos de combate"
       },
