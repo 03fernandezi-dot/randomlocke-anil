@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 19h 59m jugadas · 618,580₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 20h 1m jugadas · 618,580₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -40,7 +40,7 @@
         15,
         53,
         24,
-        48
+        50
       ],
       "abilPool": [
         "Manto Níveo",
@@ -220,7 +220,7 @@
         15,
         50,
         24,
-        48
+        50
       ],
       "abilPool": [
         "Recogebolas",
@@ -569,7 +569,7 @@
         5,
         32,
         8,
-        6
+        8
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -720,7 +720,7 @@
         0,
         0,
         0,
-        0
+        2
       ],
       "abilPool": [
         "Aura Feérica"
@@ -869,7 +869,7 @@
         40,
         61,
         40,
-        73
+        75
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -4785,6 +4785,169 @@
         "Mal de Ojo"
       ],
       "spriteKey": "COPPERAJAH"
+    },
+    {
+      "nickname": "La coñona",
+      "species": "Froslass",
+      "level": 64,
+      "types": [
+        "Hielo",
+        "Fantasma"
+      ],
+      "ability": "Ventosas",
+      "nature": "Osada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Salpicadura",
+        "Agarrón",
+        "Carga Dragón",
+        "Carámbano"
+      ],
+      "iv": [
+        4,
+        28,
+        9,
+        11,
+        30,
+        0
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Ventosas",
+        "Energía Pura"
+      ],
+      "abilHidden": [
+        "Indefenso"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Ida y Vuelta"
+        },
+        {
+          "lvl": 1,
+          "m": "Prensa Metálica"
+        },
+        {
+          "lvl": 1,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 1,
+          "m": "Robo"
+        },
+        {
+          "lvl": 1,
+          "m": "Acua Jet"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Roca"
+        },
+        {
+          "lvl": 1,
+          "m": "Kinético"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Cometa"
+        },
+        {
+          "lvl": 1,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 1,
+          "m": "Deseo"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 15,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": 20,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 22,
+          "m": "Cepo"
+        },
+        {
+          "lvl": 25,
+          "m": "Campo Eléctrico"
+        },
+        {
+          "lvl": 28,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 30,
+          "m": "Neblina"
+        },
+        {
+          "lvl": 35,
+          "m": "Chapoteo Lodo"
+        },
+        {
+          "lvl": 37,
+          "m": "Rencor Reprimido"
+        },
+        {
+          "lvl": 40,
+          "m": "Pirueta Helada"
+        },
+        {
+          "lvl": 40,
+          "m": "Mazazo"
+        },
+        {
+          "lvl": 45,
+          "m": "Martillazo"
+        },
+        {
+          "lvl": 47,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 48,
+          "m": "Salpicadura"
+        },
+        {
+          "lvl": 54,
+          "m": "Agarrón"
+        },
+        {
+          "lvl": 55,
+          "m": "Carga Dragón"
+        },
+        {
+          "lvl": 61,
+          "m": "Carámbano"
+        },
+        {
+          "lvl": 68,
+          "m": "Martillo Hielo"
+        }
+      ],
+      "firstMoves": [
+        "Salpicadura",
+        "Agarrón",
+        "Carga Dragón",
+        "Carámbano"
+      ],
+      "spriteKey": "FROSLASS"
     },
     {
       "nickname": "Misty",
@@ -9701,6 +9864,17 @@
       "mon": "Copperajah"
     },
     {
+      "route": "monte_plateado",
+      "where": "Monte Plateado",
+      "species": "Froslass",
+      "nickname": "La coñona",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 64,
+      "mon": "Froslass"
+    },
+    {
       "route": "ruta_10_norte",
       "where": "Ruta 10 Norte",
       "species": "Clefairy",
@@ -10067,6 +10241,7 @@
       "ruta_6": true,
       "cataratas_tohjo": true,
       "ruta_24": true,
+      "monte_plateado": true,
       "ruta_10_norte": true,
       "ruta_9": true,
       "ciudad_plateada": true,
@@ -10150,7 +10325,8 @@
       "central_energia": true,
       "ruta_23": true,
       "ruta_24": true,
-      "ruta_25_sur": true
+      "ruta_25_sur": true,
+      "monte_plateado": true
     },
     "switches": [
       48,
@@ -10948,7 +11124,7 @@
       {
         "id": "THUNDERSTONE",
         "name": "Piedra Trueno",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -11200,13 +11376,13 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 4,
+        "qty": 3,
         "pocket": "Poké Balls"
       },
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 26,
+        "qty": 25,
         "pocket": "Poké Balls"
       },
       {
