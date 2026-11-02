@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 20h 1m jugadas · 618,580₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 20h 2m jugadas · 618,580₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -10521,6 +10521,7 @@
       "Fragmento Cometa",
       "Freshstartmochi",
       "Garra Afilada",
+      "Gema Acero",
       "Gema Dragón",
       "Gema Normal",
       "Gema Psíquica",
@@ -10557,6 +10558,7 @@
       "Menta Agitada",
       "Menta Audaz",
       "Menta Huraña",
+      "Menta Mansa",
       "Menta Miedosa",
       "Menta Pícara",
       "Menta Seria",
@@ -10720,6 +10722,7 @@
       "Tmagn1",
       "Tmagn2",
       "Toxisfera",
+      "Tyranitarita",
       "Ultra Ball",
       "Vcapsula",
       "Velocidad X 3",
@@ -11134,6 +11137,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "STEELGEM",
+        "name": "Gema Acero",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -11328,6 +11337,12 @@
       {
         "id": "ETHER",
         "name": "Éter",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "QUIETMINT",
+        "name": "Menta Mansa",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -12114,6 +12129,12 @@
       {
         "id": "GYARADOSITE",
         "name": "Gyaradosita",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
+        "id": "TYRANITARITE",
+        "name": "Tyranitarita",
         "qty": 1,
         "pocket": "Piedras Mega"
       },
