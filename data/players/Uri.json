@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 29h 20m jugadas · 576,110₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 29h 21m jugadas · 576,110₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Frederic",
@@ -723,132 +723,190 @@
       "spriteKey": "INTELEON"
     },
     {
-      "nickname": "Cartman",
-      "species": "Goodra (Hisui)",
-      "level": 60,
+      "nickname": "Mataró",
+      "species": "Tinkaton",
+      "level": 66,
       "types": [
-        "Acero",
-        "Dragón"
+        "Hada",
+        "Acero"
       ],
-      "ability": "Raíz robusta",
-      "nature": "Ingenua",
-      "item": "",
+      "ability": "Pompa",
+      "nature": "Alegre",
+      "item": "Revest. Metálico",
       "shiny": false,
       "moves": [
-        "Orbes Espectro",
-        "Cañón Resplandor",
-        "Cañón Dinamax",
-        "Amplificador"
+        "Escudo Real",
+        "Brillo Mágico",
+        "Cabeza de Hierro",
+        "Cambio de Marcha"
       ],
+      "natureMint": true,
+      "natureBase": "Rara",
       "iv": [
-        10,
-        2,
+        30,
+        0,
         16,
-        24,
-        16,
-        5
+        15,
+        3,
+        3
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        55,
+        139,
+        85,
+        83,
+        50,
+        98
       ],
       "abilPool": [
-        "Espanto",
-        "Raíz robusta"
+        "Pelaje Recio",
+        "Pompa"
       ],
       "abilHidden": [
-        "Respondón"
+        "Tintineo"
       ],
       "learnset": [
         {
-          "lvl": 0,
-          "m": "Electrificación"
+          "lvl": -1,
+          "m": "Geocontrol"
         },
         {
           "lvl": 1,
-          "m": "Viraje"
+          "m": "Llama Protectora"
         },
         {
           "lvl": 1,
-          "m": "Cola Dragón"
+          "m": "Bomba Caramelo"
         },
         {
-          "lvl": 1,
-          "m": "Bomba Fango"
+          "lvl": 5,
+          "m": "Robo"
         },
         {
-          "lvl": 1,
-          "m": "Defensa Floral"
+          "lvl": 8,
+          "m": "Sacrificio"
         },
         {
-          "lvl": 1,
-          "m": "Constricción"
+          "lvl": 11,
+          "m": "Telatrampa"
         },
         {
-          "lvl": 1,
-          "m": "Tormenta Arena"
+          "lvl": 14,
+          "m": "Daño Secreto"
         },
         {
-          "lvl": 1,
-          "m": "Látigo Cepa"
+          "lvl": 17,
+          "m": "Voz Cautivadora"
         },
         {
-          "lvl": 1,
-          "m": "Luz Lunar"
+          "lvl": 21,
+          "m": "Bomba Imán"
         },
         {
-          "lvl": 15,
-          "m": "Cuerno Certero"
+          "lvl": 24,
+          "m": "Impactrueno"
         },
         {
-          "lvl": 20,
-          "m": "Colmillo Hielo"
+          "lvl": 27,
+          "m": "Defensa Férrea"
         },
         {
-          "lvl": 25,
-          "m": "Ultrapuño"
-        },
-        {
-          "lvl": 30,
-          "m": "Escudo Real"
+          "lvl": 31,
+          "m": "Aerochorro"
         },
         {
           "lvl": 35,
-          "m": "Cadena Virulenta"
+          "m": "Cola Férrea"
+        },
+        {
+          "lvl": 39,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 40,
+          "m": "Electrificación"
+        },
+        {
+          "lvl": 40,
+          "m": "Prensa Metálica"
+        },
+        {
+          "lvl": 40,
+          "m": "Llama Embrujada"
+        },
+        {
+          "lvl": 42,
+          "m": "Tajo Taquión"
         },
         {
           "lvl": 43,
-          "m": "Golpe Aéreo"
+          "m": "Onda Vacío"
         },
         {
-          "lvl": 49,
-          "m": "Mordisco"
+          "lvl": 47,
+          "m": "Niebla Aromática"
         },
         {
-          "lvl": 49,
-          "m": "Poder Oculto"
+          "lvl": 52,
+          "m": "Gran Ojo"
         },
         {
-          "lvl": 58,
-          "m": "Patada Salto Alta"
-        },
-        {
-          "lvl": 67,
-          "m": "Buceo"
+          "lvl": 55,
+          "m": "Desarme"
         }
       ],
-      "firstMoves": [
-        "Arrumaco",
+      "tmMoves": [
+        "Acua Cola",
+        "Aire Afilado",
+        "Amplificador",
+        "Batido",
+        "Bomba Lodo",
+        "Brillo Mágico",
+        "Cabeza de Hierro",
+        "Cañón Dinamax",
+        "Cerrojo Feérico",
+        "Chispa",
+        "Ciclón",
+        "Clemencia",
+        "Colmillo Veneno",
+        "Copión",
+        "Cura Floral",
+        "Daño Secreto",
+        "Desarrollo",
+        "Encanto",
+        "Escudo Real",
+        "Fertilizante",
+        "Gas Venenoso",
+        "Golpe Umbrío",
+        "Hoja Aguda",
+        "Hora del Té",
+        "Ladrón",
+        "Legado",
+        "Moluscañón",
+        "Motivación",
+        "Pataleta",
+        "Pesadilla",
+        "Pin Misil",
         "Piñón Auxiliar",
-        "Cambio de Marcha",
-        "Vendetta"
+        "Presa Maxilar",
+        "Pulso Noche",
+        "Rayo Señal",
+        "Roca Veloz",
+        "Saña",
+        "Shuriken de Agua",
+        "Sonámbulo",
+        "Trampa Rocas",
+        "Treparrocas",
+        "Viento Feérico",
+        "Yo Primero"
       ],
-      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10242.png",
-      "spriteKey": "GOODRA_1"
+      "firstMoves": [
+        "Giro Vil",
+        "Conversión",
+        "Geocontrol",
+        "Bramido Dragón"
+      ],
+      "spriteKey": "TINKATON"
     },
     {
       "nickname": "Tita",
@@ -6450,190 +6508,132 @@
       "spriteKey": "MUK_1"
     },
     {
-      "nickname": "Mataró",
-      "species": "Tinkaton",
-      "level": 66,
+      "nickname": "Cartman",
+      "species": "Goodra (Hisui)",
+      "level": 60,
       "types": [
-        "Hada",
-        "Acero"
+        "Acero",
+        "Dragón"
       ],
-      "ability": "Pompa",
-      "nature": "Alegre",
-      "item": "Revest. Metálico",
+      "ability": "Raíz robusta",
+      "nature": "Ingenua",
+      "item": "",
       "shiny": false,
       "moves": [
-        "Escudo Real",
-        "Brillo Mágico",
-        "Cabeza de Hierro",
-        "Cambio de Marcha"
+        "Orbes Espectro",
+        "Cañón Resplandor",
+        "Cañón Dinamax",
+        "Amplificador"
       ],
-      "natureMint": true,
-      "natureBase": "Rara",
       "iv": [
-        30,
-        0,
+        10,
+        2,
         16,
-        15,
-        3,
-        3
+        24,
+        16,
+        5
       ],
       "ev": [
-        55,
-        139,
-        85,
-        83,
-        50,
-        98
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Pelaje Recio",
-        "Pompa"
+        "Espanto",
+        "Raíz robusta"
       ],
       "abilHidden": [
-        "Tintineo"
+        "Respondón"
       ],
       "learnset": [
         {
-          "lvl": -1,
-          "m": "Geocontrol"
-        },
-        {
-          "lvl": 1,
-          "m": "Llama Protectora"
-        },
-        {
-          "lvl": 1,
-          "m": "Bomba Caramelo"
-        },
-        {
-          "lvl": 5,
-          "m": "Robo"
-        },
-        {
-          "lvl": 8,
-          "m": "Sacrificio"
-        },
-        {
-          "lvl": 11,
-          "m": "Telatrampa"
-        },
-        {
-          "lvl": 14,
-          "m": "Daño Secreto"
-        },
-        {
-          "lvl": 17,
-          "m": "Voz Cautivadora"
-        },
-        {
-          "lvl": 21,
-          "m": "Bomba Imán"
-        },
-        {
-          "lvl": 24,
-          "m": "Impactrueno"
-        },
-        {
-          "lvl": 27,
-          "m": "Defensa Férrea"
-        },
-        {
-          "lvl": 31,
-          "m": "Aerochorro"
-        },
-        {
-          "lvl": 35,
-          "m": "Cola Férrea"
-        },
-        {
-          "lvl": 39,
-          "m": "Cambio de Marcha"
-        },
-        {
-          "lvl": 40,
+          "lvl": 0,
           "m": "Electrificación"
         },
         {
-          "lvl": 40,
-          "m": "Prensa Metálica"
+          "lvl": 1,
+          "m": "Viraje"
         },
         {
-          "lvl": 40,
-          "m": "Llama Embrujada"
+          "lvl": 1,
+          "m": "Cola Dragón"
         },
         {
-          "lvl": 42,
-          "m": "Tajo Taquión"
+          "lvl": 1,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 1,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 1,
+          "m": "Constricción"
+        },
+        {
+          "lvl": 1,
+          "m": "Tormenta Arena"
+        },
+        {
+          "lvl": 1,
+          "m": "Látigo Cepa"
+        },
+        {
+          "lvl": 1,
+          "m": "Luz Lunar"
+        },
+        {
+          "lvl": 15,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 20,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 25,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 30,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 35,
+          "m": "Cadena Virulenta"
         },
         {
           "lvl": 43,
-          "m": "Onda Vacío"
+          "m": "Golpe Aéreo"
         },
         {
-          "lvl": 47,
-          "m": "Niebla Aromática"
+          "lvl": 49,
+          "m": "Mordisco"
         },
         {
-          "lvl": 52,
-          "m": "Gran Ojo"
+          "lvl": 49,
+          "m": "Poder Oculto"
         },
         {
-          "lvl": 55,
-          "m": "Desarme"
+          "lvl": 58,
+          "m": "Patada Salto Alta"
+        },
+        {
+          "lvl": 67,
+          "m": "Buceo"
         }
       ],
-      "tmMoves": [
-        "Acua Cola",
-        "Aire Afilado",
-        "Amplificador",
-        "Batido",
-        "Bomba Lodo",
-        "Brillo Mágico",
-        "Cabeza de Hierro",
-        "Cañón Dinamax",
-        "Cerrojo Feérico",
-        "Chispa",
-        "Ciclón",
-        "Clemencia",
-        "Colmillo Veneno",
-        "Copión",
-        "Cura Floral",
-        "Daño Secreto",
-        "Desarrollo",
-        "Encanto",
-        "Escudo Real",
-        "Fertilizante",
-        "Gas Venenoso",
-        "Golpe Umbrío",
-        "Hoja Aguda",
-        "Hora del Té",
-        "Ladrón",
-        "Legado",
-        "Moluscañón",
-        "Motivación",
-        "Pataleta",
-        "Pesadilla",
-        "Pin Misil",
-        "Piñón Auxiliar",
-        "Presa Maxilar",
-        "Pulso Noche",
-        "Rayo Señal",
-        "Roca Veloz",
-        "Saña",
-        "Shuriken de Agua",
-        "Sonámbulo",
-        "Trampa Rocas",
-        "Treparrocas",
-        "Viento Feérico",
-        "Yo Primero"
-      ],
       "firstMoves": [
-        "Giro Vil",
-        "Conversión",
-        "Geocontrol",
-        "Bramido Dragón"
+        "Arrumaco",
+        "Piñón Auxiliar",
+        "Cambio de Marcha",
+        "Vendetta"
       ],
-      "spriteKey": "TINKATON"
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10242.png",
+      "spriteKey": "GOODRA_1"
     }
   ],
   "graveyard": [
@@ -7705,15 +7705,15 @@
       "mon": "Inteleon"
     },
     {
-      "route": "torre_pokemon",
-      "where": "Torre Pokémon",
-      "species": "Goodra",
-      "nickname": "Cartman",
+      "route": "ruta_15",
+      "where": "Ruta 15",
+      "species": "Tinkaton",
+      "nickname": "Mataró",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 33,
-      "mon": "Goodra"
+      "level": 22,
+      "mon": "Tinkaton"
     },
     {
       "route": "ruta_2_sur",
@@ -8167,15 +8167,15 @@
       "mon": "Muk"
     },
     {
-      "route": "ruta_15",
-      "where": "Ruta 15",
-      "species": "Tinkaton",
-      "nickname": "Mataró",
+      "route": "torre_pokemon",
+      "where": "Torre Pokémon",
+      "species": "Goodra",
+      "nickname": "Cartman",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
-      "level": 22,
-      "mon": "Tinkaton"
+      "level": 33,
+      "mon": "Goodra"
     },
     {
       "route": "ruta_22",
@@ -8273,7 +8273,7 @@
       "ciudad_celeste": true,
       "ruta_1": true,
       "monte_moon": true,
-      "torre_pokemon": true,
+      "ruta_15": true,
       "ruta_2_sur": true,
       "bosque_verde": true,
       "pueblo_lavanda": true,
@@ -8303,7 +8303,7 @@
       "ciudad_plateada": true,
       "tunel_diglett": true,
       "ruta_19": true,
-      "ruta_15": true,
+      "torre_pokemon": true,
       "ruta_22": true,
       "pueblo_paleta": true,
       "tunel_roca": true,
