@@ -4,152 +4,25 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 29h 10m jugadas · 576,110₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 29h 15m jugadas · 576,110₽ · vidas en el juego: 15",
   "team": [
     {
-      "nickname": "Cartman",
-      "species": "Goodra (Hisui)",
-      "level": 60,
-      "types": [
-        "Acero",
-        "Dragón"
-      ],
-      "ability": "Raíz robusta",
-      "nature": "Ingenua",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Orbes Espectro",
-        "Cañón Resplandor",
-        "Cañón Dinamax",
-        "Amplificador"
-      ],
-      "iv": [
-        10,
-        2,
-        16,
-        24,
-        16,
-        5
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Espanto",
-        "Raíz robusta"
-      ],
-      "abilHidden": [
-        "Respondón"
-      ],
-      "learnset": [
-        {
-          "lvl": 0,
-          "m": "Electrificación"
-        },
-        {
-          "lvl": 1,
-          "m": "Viraje"
-        },
-        {
-          "lvl": 1,
-          "m": "Cola Dragón"
-        },
-        {
-          "lvl": 1,
-          "m": "Bomba Fango"
-        },
-        {
-          "lvl": 1,
-          "m": "Defensa Floral"
-        },
-        {
-          "lvl": 1,
-          "m": "Constricción"
-        },
-        {
-          "lvl": 1,
-          "m": "Tormenta Arena"
-        },
-        {
-          "lvl": 1,
-          "m": "Látigo Cepa"
-        },
-        {
-          "lvl": 1,
-          "m": "Luz Lunar"
-        },
-        {
-          "lvl": 15,
-          "m": "Cuerno Certero"
-        },
-        {
-          "lvl": 20,
-          "m": "Colmillo Hielo"
-        },
-        {
-          "lvl": 25,
-          "m": "Ultrapuño"
-        },
-        {
-          "lvl": 30,
-          "m": "Escudo Real"
-        },
-        {
-          "lvl": 35,
-          "m": "Cadena Virulenta"
-        },
-        {
-          "lvl": 43,
-          "m": "Golpe Aéreo"
-        },
-        {
-          "lvl": 49,
-          "m": "Mordisco"
-        },
-        {
-          "lvl": 49,
-          "m": "Poder Oculto"
-        },
-        {
-          "lvl": 58,
-          "m": "Patada Salto Alta"
-        },
-        {
-          "lvl": 67,
-          "m": "Buceo"
-        }
-      ],
-      "firstMoves": [
-        "Arrumaco",
-        "Piñón Auxiliar",
-        "Cambio de Marcha",
-        "Vendetta"
-      ],
-      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10242.png",
-      "spriteKey": "GOODRA_1"
-    },
-    {
       "nickname": "Tahm Kench",
-      "species": "Rhyhorn",
-      "level": 9,
+      "species": "Rhyperior",
+      "level": 66,
       "types": [
         "Tierra",
         "Roca"
       ],
-      "ability": "Cromolente",
+      "ability": "Acérrimo",
       "nature": "Modesta",
       "item": "",
       "shiny": false,
       "moves": [
-        "Lanzarrocas",
-        "Deslome",
-        "Gruñido"
+        "Hachazo Pétreo",
+        "Ida y Vuelta",
+        "Terremoto",
+        "Látigo Ígneo"
       ],
       "iv": [
         19,
@@ -168,130 +41,104 @@
         0
       ],
       "abilPool": [
-        "Cromolente",
-        "Coránima"
+        "Acérrimo",
+        "Teracaparazón"
       ],
       "abilHidden": [
-        "Esclusa de Aire"
+        "Veleta"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Lanzarrocas"
+          "m": "Gravedad"
         },
         {
           "lvl": 1,
-          "m": "Deslome"
+          "m": "Pulimento"
         },
         {
-          "lvl": 5,
-          "m": "Gruñido"
+          "lvl": 1,
+          "m": "Fisura"
         },
         {
-          "lvl": 10,
-          "m": "Sellar"
+          "lvl": 1,
+          "m": "Alto Voltaje"
         },
         {
-          "lvl": 12,
-          "m": "Cerrojo Feérico"
+          "lvl": 1,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 1,
+          "m": "Vasta Guardia"
+        },
+        {
+          "lvl": 1,
+          "m": "Confusión"
         },
         {
           "lvl": 15,
-          "m": "Envidia ardiente"
+          "m": "Terratemblor"
         },
         {
           "lvl": 20,
-          "m": "Aromaterapia"
+          "m": "Cara Susto"
         },
         {
           "lvl": 25,
-          "m": "Nieve Polvo"
+          "m": "Manos Juntas"
         },
         {
           "lvl": 30,
-          "m": "Tragar"
+          "m": "Mismo Destino"
         },
         {
-          "lvl": 34,
-          "m": "Terremoto"
+          "lvl": 30,
+          "m": "Ataque Arena"
         },
         {
           "lvl": 35,
-          "m": "Puño Trueno"
+          "m": "Filo del Abismo"
         },
         {
           "lvl": 40,
-          "m": "Deseo Cura"
-        },
-        {
-          "lvl": 43,
-          "m": "Viento Afín"
+          "m": "Campo de Hierba"
         },
         {
           "lvl": 45,
-          "m": "Púas"
+          "m": "Estallido"
         },
         {
-          "lvl": 50,
-          "m": "Sustituto"
+          "lvl": 47,
+          "m": "Decalcomanía"
         },
         {
-          "lvl": 55,
-          "m": "Zumbido"
+          "lvl": 52,
+          "m": "Fertilizante"
         },
         {
-          "lvl": 60,
-          "m": "Patada Tropical"
+          "lvl": 54,
+          "m": "As Oculto"
+        },
+        {
+          "lvl": 61,
+          "m": "Manto Espejo"
+        },
+        {
+          "lvl": 68,
+          "m": "Polvo Mágico"
+        },
+        {
+          "lvl": 75,
+          "m": "Pájaro Osado"
         }
-      ],
-      "tmMoves": [
-        "Absorbefuerza",
-        "Acua Cola",
-        "Alivio",
-        "Amplificador",
-        "Batido",
-        "Bomba Fango",
-        "Bomba Lodo",
-        "Brillo Mágico",
-        "Cañón Batidor",
-        "Chispa",
-        "Corpulencia",
-        "Daño Secreto",
-        "Descanso",
-        "Divide Dolor",
-        "Escalofrío",
-        "Espora",
-        "Giro Mortífero",
-        "Golpe Bis",
-        "Hachazo Pétreo",
-        "Ida y Vuelta",
-        "Látigo Ígneo",
-        "Llama Azul",
-        "Mil Temblores",
-        "Moluscañón",
-        "Motivación",
-        "Nitrocarga",
-        "Onda Certera",
-        "Pataleta",
-        "Pesadilla",
-        "Piñón Auxiliar",
-        "Pulpocañón",
-        "Pulso Noche",
-        "Rayo Señal",
-        "Retribución",
-        "Roca Veloz",
-        "Salazón",
-        "Señuelo",
-        "Sorpresa",
-        "Sumisión",
-        "Yo Primero"
       ],
       "firstMoves": [
         "Lanzarrocas",
         "Deslome",
         "Gruñido"
       ],
-      "spriteKey": "RHYHORN"
+      "spriteKey": "RHYPERIOR"
     },
     {
       "nickname": "Bergamote",
@@ -6649,6 +6496,134 @@
         "Campo Eléctrico"
       ],
       "spriteKey": "SNEASLER_1"
+    },
+    {
+      "nickname": "Cartman",
+      "species": "Goodra (Hisui)",
+      "level": 60,
+      "types": [
+        "Acero",
+        "Dragón"
+      ],
+      "ability": "Raíz robusta",
+      "nature": "Ingenua",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Orbes Espectro",
+        "Cañón Resplandor",
+        "Cañón Dinamax",
+        "Amplificador"
+      ],
+      "iv": [
+        10,
+        2,
+        16,
+        24,
+        16,
+        5
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Espanto",
+        "Raíz robusta"
+      ],
+      "abilHidden": [
+        "Respondón"
+      ],
+      "learnset": [
+        {
+          "lvl": 0,
+          "m": "Electrificación"
+        },
+        {
+          "lvl": 1,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 1,
+          "m": "Cola Dragón"
+        },
+        {
+          "lvl": 1,
+          "m": "Bomba Fango"
+        },
+        {
+          "lvl": 1,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 1,
+          "m": "Constricción"
+        },
+        {
+          "lvl": 1,
+          "m": "Tormenta Arena"
+        },
+        {
+          "lvl": 1,
+          "m": "Látigo Cepa"
+        },
+        {
+          "lvl": 1,
+          "m": "Luz Lunar"
+        },
+        {
+          "lvl": 15,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 20,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 25,
+          "m": "Ultrapuño"
+        },
+        {
+          "lvl": 30,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 35,
+          "m": "Cadena Virulenta"
+        },
+        {
+          "lvl": 43,
+          "m": "Golpe Aéreo"
+        },
+        {
+          "lvl": 49,
+          "m": "Mordisco"
+        },
+        {
+          "lvl": 49,
+          "m": "Poder Oculto"
+        },
+        {
+          "lvl": 58,
+          "m": "Patada Salto Alta"
+        },
+        {
+          "lvl": 67,
+          "m": "Buceo"
+        }
+      ],
+      "firstMoves": [
+        "Arrumaco",
+        "Piñón Auxiliar",
+        "Cambio de Marcha",
+        "Vendetta"
+      ],
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10242.png",
+      "spriteKey": "GOODRA_1"
     }
   ],
   "graveyard": [
@@ -7676,26 +7651,15 @@
   ],
   "captures": [
     {
-      "route": "torre_pokemon",
-      "where": "Torre Pokémon",
-      "species": "Goodra",
-      "nickname": "Cartman",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 33,
-      "mon": "Goodra"
-    },
-    {
       "route": "ruta_2_norte",
       "where": "Ruta 2 Norte",
-      "species": "Rhyhorn",
+      "species": "Rhyperior",
       "nickname": "Tahm Kench",
       "shiny": false,
       "status": "captured",
       "category": "salvaje",
       "level": 9,
-      "mon": "Rhyhorn"
+      "mon": "Rhyperior"
     },
     {
       "route": "ruta_10_sur",
@@ -8193,6 +8157,17 @@
       "mon": "Sneasler"
     },
     {
+      "route": "torre_pokemon",
+      "where": "Torre Pokémon",
+      "species": "Goodra",
+      "nickname": "Cartman",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 33,
+      "mon": "Goodra"
+    },
+    {
       "route": "ruta_22",
       "where": "Ruta 22",
       "species": "Diglett",
@@ -8284,7 +8259,6 @@
     "bosses": {},
     "npcs": {},
     "routes": {
-      "torre_pokemon": true,
       "ruta_2_norte": true,
       "ruta_10_sur": true,
       "bosque_verde": true,
@@ -8319,6 +8293,7 @@
       "ruta_2_sur": true,
       "monte_moon": true,
       "bosque_celeste": true,
+      "torre_pokemon": true,
       "ruta_22": true,
       "pueblo_paleta": true,
       "tunel_roca": true,
@@ -9330,7 +9305,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 155,
+        "qty": 98,
         "pocket": "Medicinas"
       },
       {
