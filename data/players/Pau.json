@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 20h 39m jugadas · 457,480₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 20h 52m jugadas · 458,825₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
       "species": "Tinkaton",
-      "level": 69,
+      "level": 70,
       "types": [
         "Hada",
         "Acero"
@@ -35,11 +35,11 @@
         20
       ],
       "ev": [
-        42,
-        99,
-        16,
-        55,
-        34,
+        45,
+        105,
+        18,
+        57,
+        36,
         56
       ],
       "abilPool": [
@@ -191,7 +191,7 @@
     {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 69,
+      "level": 70,
       "types": [
         "Siniestro",
         "Acero"
@@ -217,11 +217,11 @@
         0
       ],
       "ev": [
-        42,
-        99,
-        16,
-        52,
-        34,
+        45,
+        105,
+        18,
+        54,
+        36,
         56
       ],
       "abilPool": [
@@ -361,7 +361,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 69,
+      "level": 70,
       "types": [
         "Eléctrico"
       ],
@@ -546,7 +546,7 @@
     {
       "nickname": "Juanca",
       "species": "Greattusk",
-      "level": 69,
+      "level": 70,
       "types": [
         "Tierra",
         "Lucha"
@@ -570,11 +570,11 @@
         18
       ],
       "ev": [
-        24,
-        43,
-        6,
-        34,
-        18,
+        27,
+        49,
+        8,
+        36,
+        20,
         14
       ],
       "abilPool": [
@@ -723,11 +723,11 @@
         11
       ],
       "ev": [
-        6,
-        10,
-        1,
-        2,
-        10,
+        9,
+        16,
+        3,
+        4,
+        12,
         8
       ],
       "abilPool": [
@@ -848,7 +848,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 69,
+      "level": 70,
       "types": [
         "Veneno",
         "Dragón"
@@ -872,11 +872,11 @@
         22
       ],
       "ev": [
-        49,
-        140,
-        41,
-        63,
-        50,
+        52,
+        146,
+        43,
+        65,
+        52,
         81
       ],
       "abilPool": [
@@ -7987,6 +7987,167 @@
         "Amago"
       ],
       "spriteKey": "MALAMAR"
+    },
+    {
+      "nickname": "SolSolet",
+      "species": "Sunflora",
+      "level": 69,
+      "types": [
+        "Planta"
+      ],
+      "ability": "Intrépido",
+      "nature": "Seria",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Géiser Fotónico",
+        "Llama Embrujada",
+        "Psicorruido",
+        "Onda Simple"
+      ],
+      "iv": [
+        6,
+        23,
+        15,
+        24,
+        23,
+        15
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Intrépido"
+      ],
+      "abilHidden": [
+        "Levitación"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Giro Rápido"
+        },
+        {
+          "lvl": 1,
+          "m": "Estrujón"
+        },
+        {
+          "lvl": 1,
+          "m": "Absorbefuerza"
+        },
+        {
+          "lvl": 1,
+          "m": "Poder Reserva"
+        },
+        {
+          "lvl": 1,
+          "m": "Velo Sagrado"
+        },
+        {
+          "lvl": 1,
+          "m": "Ciclón de Hojas"
+        },
+        {
+          "lvl": 1,
+          "m": "Semilladora"
+        },
+        {
+          "lvl": 4,
+          "m": "Luminicola"
+        },
+        {
+          "lvl": 7,
+          "m": "Viento Feérico"
+        },
+        {
+          "lvl": 7,
+          "m": "Ovocuración"
+        },
+        {
+          "lvl": 10,
+          "m": "Bálsamo Osado"
+        },
+        {
+          "lvl": 13,
+          "m": "Drenadoras"
+        },
+        {
+          "lvl": 16,
+          "m": "Fitoimpulso"
+        },
+        {
+          "lvl": 19,
+          "m": "Esporagodón"
+        },
+        {
+          "lvl": 22,
+          "m": "Beso Amoroso"
+        },
+        {
+          "lvl": 25,
+          "m": "Colmillo Ígneo"
+        },
+        {
+          "lvl": 28,
+          "m": "Agarrón"
+        },
+        {
+          "lvl": 30,
+          "m": "Relajo"
+        },
+        {
+          "lvl": 31,
+          "m": "Homenaje Póstumo"
+        },
+        {
+          "lvl": 31,
+          "m": "Danza Pétalo"
+        },
+        {
+          "lvl": 37,
+          "m": "Confusión"
+        },
+        {
+          "lvl": 37,
+          "m": "Envite Ígneo"
+        },
+        {
+          "lvl": 39,
+          "m": "Plegaria Lunar"
+        },
+        {
+          "lvl": 43,
+          "m": "Hoja Aguda"
+        },
+        {
+          "lvl": 48,
+          "m": "Géiser Fotónico"
+        },
+        {
+          "lvl": 50,
+          "m": "Llama Embrujada"
+        },
+        {
+          "lvl": 55,
+          "m": "Psicorruido"
+        },
+        {
+          "lvl": 60,
+          "m": "Onda Simple"
+        }
+      ],
+      "firstMoves": [
+        "Géiser Fotónico",
+        "Llama Embrujada",
+        "Psicorruido",
+        "Onda Simple"
+      ],
+      "spriteKey": "SUNFLORA"
     }
   ],
   "graveyard": [
@@ -10287,6 +10448,17 @@
       "mon": "Malamar"
     },
     {
+      "route": "ciudad_anil",
+      "where": "Ciudad Añil",
+      "species": "Sunflora",
+      "nickname": "SolSolet",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 69,
+      "mon": "Sunflora"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -10461,6 +10633,7 @@
       "monte_moon_exterior": true,
       "monte_plateado": true,
       "ruta_25_norte": true,
+      "ciudad_anil": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_16": true,
@@ -10531,7 +10704,8 @@
       "ruta_24": true,
       "ruta_25_sur": true,
       "monte_plateado": true,
-      "ruta_25_norte": true
+      "ruta_25_norte": true,
+      "ciudad_anil": true
     },
     "switches": [
       48,
@@ -10641,6 +10815,7 @@
       242,
       243,
       244,
+      245,
       252,
       271,
       301,
@@ -10691,8 +10866,10 @@
       "Botón Escape",
       "Brazal",
       "Brazal Firme",
+      "Buceo Ball",
       "Caramelo Furia",
       "Carbón",
+      "Carburante",
       "Cascabel Alivio",
       "Cascabel Concha",
       "Cebo Ball",
@@ -10721,6 +10898,7 @@
       "Espada Oxidada",
       "Espray Bucal",
       "Éter",
+      "Éter Máximo",
       "Flecha Venenosa",
       "Fósil Garra",
       "Fósil Hélix",
@@ -10785,6 +10963,7 @@
       "MT05",
       "MT06",
       "MT07",
+      "MT09",
       "MT100",
       "MT101",
       "MT102",
@@ -10967,7 +11146,7 @@
       {
         "id": "POWERWEIGHT",
         "name": "Pesa Recia",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos"
       },
       {
@@ -10991,7 +11170,7 @@
       {
         "id": "SUPERREPEL",
         "name": "Superrepelente",
-        "qty": 7,
+        "qty": 6,
         "pocket": "Objetos"
       },
       {
@@ -11027,7 +11206,7 @@
       {
         "id": "PRETTYFEATHER",
         "name": "Prettyfeather",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -11391,6 +11570,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "OVALSTONE",
+        "name": "Piedra Oval",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "MOONSTONE",
+        "name": "Piedra Lunar",
+        "qty": 2,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -11429,7 +11620,7 @@
       {
         "id": "AECapsula",
         "name": "Aecapsula",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Medicinas"
       },
       {
@@ -11507,7 +11698,7 @@
       {
         "id": "SWIFTMOCHI",
         "name": "Mochi Ímpetu",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -11595,6 +11786,18 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "MAXETHER",
+        "name": "Éter Máximo",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "CARBOS",
+        "name": "Carburante",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 18,
@@ -11639,7 +11842,7 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 2,
+        "qty": 1,
         "pocket": "Poké Balls"
       },
       {
@@ -11663,6 +11866,12 @@
       {
         "id": "LUREBALL",
         "name": "Cebo Ball",
+        "qty": 1,
+        "pocket": "Poké Balls"
+      },
+      {
+        "id": "DIVEBALL",
+        "name": "Buceo Ball",
         "qty": 1,
         "pocket": "Poké Balls"
       },
@@ -11705,6 +11914,12 @@
       {
         "id": "TM07",
         "name": "MT07",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM09",
+        "name": "MT09",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -12317,7 +12532,7 @@
       {
         "id": "MICLEBERRY",
         "name": "Baya Lagro",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Bayas"
       },
       {
