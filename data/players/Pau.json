@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 19h 29m jugadas · 605,615₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 19h 38m jugadas · 612,215₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -37,8 +37,8 @@
       "ev": [
         33,
         89,
-        13,
-        45,
+        15,
+        48,
         24,
         48
       ],
@@ -189,7 +189,7 @@
     {
       "nickname": "Ruffles",
       "species": "Braviary (Hisui)",
-      "level": 66,
+      "level": 67,
       "types": [
         "Psíquico",
         "Volador"
@@ -377,8 +377,8 @@
       "ev": [
         33,
         89,
-        13,
-        42,
+        15,
+        45,
         24,
         48
       ],
@@ -698,7 +698,7 @@
     {
       "nickname": "Juanca",
       "species": "Greattusk",
-      "level": 66,
+      "level": 67,
       "types": [
         "Tierra",
         "Lucha"
@@ -724,8 +724,8 @@
       "ev": [
         15,
         33,
-        3,
-        24,
+        5,
+        27,
         8,
         6
       ],
@@ -875,8 +875,8 @@
       "ev": [
         40,
         130,
-        38,
-        53,
+        40,
+        56,
         40,
         73
       ],
@@ -10129,6 +10129,7 @@
       "Escama Dragón",
       "Espada Oxidada",
       "Espray Bucal",
+      "Éter",
       "Flecha Venenosa",
       "Fósil Garra",
       "Fósil Hélix",
@@ -10142,6 +10143,8 @@
       "Gema Roca",
       "Gema Siniestra",
       "Globo Helio",
+      "Gran Griseosfera",
+      "Gyaradosita",
       "Hierba Copia",
       "Hierba Mental",
       "Hierba Única",
@@ -10211,6 +10214,7 @@
       "MT15",
       "MT16",
       "MT17",
+      "MT18",
       "MT19",
       "MT21",
       "MT22",
@@ -10388,7 +10392,7 @@
       {
         "id": "SUPERREPEL",
         "name": "Superrepelente",
-        "qty": 15,
+        "qty": 13,
         "pocket": "Objetos"
       },
       {
@@ -10700,7 +10704,7 @@
       {
         "id": "TINYMUSHROOM",
         "name": "Miniseta",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -10748,6 +10752,12 @@
       {
         "id": "SHINYSTONE",
         "name": "Piedra Día",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "GRISEOUSCORE",
+        "name": "Gran Griseosfera",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -10944,6 +10954,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "ETHER",
+        "name": "Éter",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 18,
@@ -11096,6 +11112,12 @@
       {
         "id": "TM17",
         "name": "MT17",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM18",
+        "name": "MT18",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -11714,6 +11736,12 @@
       {
         "id": "REDORB",
         "name": "Prisma Rojo",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
+        "id": "GYARADOSITE",
+        "name": "Gyaradosita",
         "qty": 1,
         "pocket": "Piedras Mega"
       },
