@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 19h 23m jugadas · 597,695₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 19h 28m jugadas · 605,615₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
       "species": "Tinkaton",
-      "level": 66,
+      "level": 67,
       "types": [
         "Hada",
         "Acero"
@@ -36,10 +36,10 @@
       ],
       "ev": [
         33,
-        87,
+        89,
         13,
-        39,
-        22,
+        45,
+        24,
         48
       ],
       "abilPool": [
@@ -349,7 +349,7 @@
     {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 66,
+      "level": 67,
       "types": [
         "Siniestro",
         "Acero"
@@ -376,10 +376,10 @@
       ],
       "ev": [
         33,
-        87,
+        89,
         13,
-        36,
-        22,
+        42,
+        24,
         48
       ],
       "abilPool": [
@@ -516,7 +516,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 66,
+      "level": 67,
       "types": [
         "Eléctrico"
       ],
@@ -723,10 +723,10 @@
       ],
       "ev": [
         15,
-        31,
+        33,
         3,
-        18,
-        6,
+        24,
+        8,
         6
       ],
       "abilPool": [
@@ -849,7 +849,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 66,
+      "level": 67,
       "types": [
         "Veneno",
         "Dragón"
@@ -874,10 +874,10 @@
       ],
       "ev": [
         40,
-        128,
+        130,
         38,
-        47,
-        38,
+        53,
+        40,
         73
       ],
       "abilPool": [
@@ -7152,6 +7152,289 @@
         "Octopresa"
       ],
       "spriteKey": "TOXICROAK"
+    },
+    {
+      "nickname": "Araña",
+      "species": "Copperajah",
+      "level": 63,
+      "types": [
+        "Acero"
+      ],
+      "ability": "Enjambre",
+      "nature": "Fuerte",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Envite Acuático",
+        "Voto Fuego",
+        "Sacrificio",
+        "Mal de Ojo"
+      ],
+      "iv": [
+        19,
+        17,
+        9,
+        31,
+        11,
+        24
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Enjambre"
+      ],
+      "abilHidden": [
+        "Fuente Energía"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Fotosíntesis"
+        },
+        {
+          "lvl": 1,
+          "m": "Represión Metal"
+        },
+        {
+          "lvl": 1,
+          "m": "Onda Simple"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Aéreo"
+        },
+        {
+          "lvl": 1,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 15,
+          "m": "Fuego Fatuo"
+        },
+        {
+          "lvl": 20,
+          "m": "Puño Bala"
+        },
+        {
+          "lvl": 25,
+          "m": "Geocontrol"
+        },
+        {
+          "lvl": 30,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 37,
+          "m": "Rueda Doble"
+        },
+        {
+          "lvl": 44,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 48,
+          "m": "Tajo Taquión"
+        },
+        {
+          "lvl": 51,
+          "m": "Envite Acuático"
+        },
+        {
+          "lvl": 55,
+          "m": "Voto Fuego"
+        },
+        {
+          "lvl": 58,
+          "m": "Sacrificio"
+        },
+        {
+          "lvl": 58,
+          "m": "Mal de Ojo"
+        },
+        {
+          "lvl": 65,
+          "m": "Ferropuño Doble"
+        }
+      ],
+      "firstMoves": [
+        "Envite Acuático",
+        "Voto Fuego",
+        "Sacrificio",
+        "Mal de Ojo"
+      ],
+      "spriteKey": "COPPERAJAH"
+    },
+    {
+      "nickname": "Gatete",
+      "species": "Umbreon",
+      "level": 65,
+      "types": [
+        "Siniestro"
+      ],
+      "ability": "Néctar dulce",
+      "nature": "Dócil",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Dragoaliento",
+        "Genufendiente",
+        "Mofa",
+        "Don Natural"
+      ],
+      "iv": [
+        30,
+        26,
+        15,
+        11,
+        29,
+        9
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Néctar dulce"
+      ],
+      "abilHidden": [
+        "Tintineo"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Trapicheo"
+        },
+        {
+          "lvl": 1,
+          "m": "Gran Ojo"
+        },
+        {
+          "lvl": 1,
+          "m": "Obstrucción"
+        },
+        {
+          "lvl": 1,
+          "m": "Rueda Fuego"
+        },
+        {
+          "lvl": 1,
+          "m": "Arenas Ardientes"
+        },
+        {
+          "lvl": 1,
+          "m": "Ráfaga Escamas"
+        },
+        {
+          "lvl": 1,
+          "m": "Anulación"
+        },
+        {
+          "lvl": 1,
+          "m": "Camelo"
+        },
+        {
+          "lvl": 1,
+          "m": "Tajo Metralla"
+        },
+        {
+          "lvl": 1,
+          "m": "Vendetta"
+        },
+        {
+          "lvl": 1,
+          "m": "Red Viscosa"
+        },
+        {
+          "lvl": 1,
+          "m": "Aligerar"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Bajo"
+        },
+        {
+          "lvl": 1,
+          "m": "Colmillo Rayo"
+        },
+        {
+          "lvl": 1,
+          "m": "Asalto Barrera"
+        },
+        {
+          "lvl": 5,
+          "m": "Extracto Picante"
+        },
+        {
+          "lvl": 9,
+          "m": "Tajo Umbrío"
+        },
+        {
+          "lvl": 10,
+          "m": "Calamidad"
+        },
+        {
+          "lvl": 15,
+          "m": "Mordisco"
+        },
+        {
+          "lvl": 20,
+          "m": "Resarcimiento"
+        },
+        {
+          "lvl": 21,
+          "m": "Pantalla de Humo"
+        },
+        {
+          "lvl": 25,
+          "m": "Constricción"
+        },
+        {
+          "lvl": 30,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 35,
+          "m": "Golpe Oscuro"
+        },
+        {
+          "lvl": 40,
+          "m": "Carga Tóxica"
+        },
+        {
+          "lvl": 41,
+          "m": "Dragoaliento"
+        },
+        {
+          "lvl": 45,
+          "m": "Genufendiente"
+        },
+        {
+          "lvl": 50,
+          "m": "Mofa"
+        },
+        {
+          "lvl": 55,
+          "m": "Don Natural"
+        }
+      ],
+      "firstMoves": [
+        "Dragoaliento",
+        "Genufendiente",
+        "Mofa",
+        "Don Natural"
+      ],
+      "spriteKey": "UMBREON",
+      "dup": true
     }
   ],
   "graveyard": [
@@ -9397,6 +9680,28 @@
       "mon": "Toxicroak"
     },
     {
+      "route": "ruta_24",
+      "where": "Ruta 24",
+      "species": "Copperajah",
+      "nickname": "Araña",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 63,
+      "mon": "Copperajah"
+    },
+    {
+      "route": "cataratas_tohjo",
+      "where": "Cataratas Tohjo",
+      "species": "Umbreon",
+      "nickname": "Gatete",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 65,
+      "mon": "Umbreon"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -9566,6 +9871,8 @@
       "ruta_5": true,
       "central_energia": true,
       "cueva_celeste": true,
+      "ruta_24": true,
+      "cataratas_tohjo": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_16": true,
@@ -9632,7 +9939,8 @@
       "bosque_celeste": true,
       "volcan_canela": true,
       "central_energia": true,
-      "ruta_23": true
+      "ruta_23": true,
+      "ruta_24": true
     },
     "switches": [
       48,
@@ -9871,6 +10179,7 @@
       "Mochi Intelecto",
       "Monedaprodig",
       "Monedero",
+      "MT02",
       "MT03",
       "MT04",
       "MT05",
@@ -9928,6 +10237,7 @@
       "MT65",
       "MT66",
       "MT67",
+      "MT71",
       "MT72",
       "MT73",
       "MT74",
@@ -9957,10 +10267,12 @@
       "Periscopio",
       "Perla",
       "Pesa Recia",
+      "Piedra Día",
       "Piedra Fuego",
       "Piedra Noche",
       "Piedra Oval",
       "Piedra Solar",
+      "Piedra Trueno",
       "Plesiofósil",
       "Pluma Salud",
       "Poké Flauta",
@@ -10425,6 +10737,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "THUNDERSTONE",
+        "name": "Piedra Trueno",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "SHINYSTONE",
+        "name": "Piedra Día",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -10529,7 +10853,7 @@
       {
         "id": "NAUGHTYMINT",
         "name": "Menta Pícara",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -10661,7 +10985,7 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 7,
+        "qty": 5,
         "pocket": "Poké Balls"
       },
       {
@@ -10687,6 +11011,12 @@
         "name": "Cebo Ball",
         "qty": 1,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM02",
+        "name": "MT02",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "TM03",
@@ -10961,6 +11291,12 @@
       {
         "id": "TM67",
         "name": "MT67",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM71",
+        "name": "MT71",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
