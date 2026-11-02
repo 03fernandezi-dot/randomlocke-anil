@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 29h 22m jugadas · 576,110₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 29h 33m jugadas · 576,110₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Frederic",
@@ -40,7 +40,7 @@
         0,
         7,
         8,
-        3
+        4
       ],
       "abilPool": [
         "Despiste",
@@ -241,7 +241,7 @@
         37,
         49,
         36,
-        39
+        40
       ],
       "abilPool": [
         "Piel Tétrica"
@@ -414,7 +414,7 @@
         36,
         39,
         28,
-        33
+        34
       ],
       "abilPool": [
         "Fuerza Mental"
@@ -592,7 +592,7 @@
         2,
         13,
         19,
-        8
+        9
       ],
       "abilPool": [
         "Viscosidad"
@@ -942,7 +942,7 @@
         32,
         44,
         29,
-        33
+        34
       ],
       "abilPool": [
         "Rezagado"
@@ -8582,6 +8582,7 @@
       "Incienso Suave",
       "Incubadora",
       "Inteleonita",
+      "Laprasite",
       "Leche Mu-mu",
       "Lente de la Verdad",
       "Lente Recia",
@@ -8602,7 +8603,9 @@
       "Menta Ingenua",
       "Menta Modesta",
       "Menta Osada",
+      "Menta Pícara",
       "Menta Plácida",
+      "Metrónomo",
       "Mineral Evol",
       "Miniseta",
       "MO Corte",
@@ -8697,6 +8700,7 @@
       "Pesa Recia",
       "Pico Afilado",
       "Piedra Eterna",
+      "Piedra Fuego",
       "Piedra Lunar",
       "Piedra Noche",
       "Piedra Oval",
@@ -8719,6 +8723,7 @@
       "Prisma Rojo",
       "Protección X",
       "Puerro",
+      "Quitaestado",
       "Radar",
       "Rapid Ball",
       "Real Cobre",
@@ -8913,7 +8918,7 @@
       {
         "id": "DRAGONGEM",
         "name": "Gema Dragón",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos"
       },
       {
@@ -9093,7 +9098,7 @@
       {
         "id": "FIRESTONE",
         "name": "Piedra Fuego",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -9213,7 +9218,7 @@
       {
         "id": "EARTHPLATE",
         "name": "Tabla Terrax",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -9285,6 +9290,12 @@
       {
         "id": "MAGMARIZER",
         "name": "Magmatizador",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "METRONOME",
+        "name": "Metrónomo",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -9393,7 +9404,7 @@
       {
         "id": "GENIUSFEATHER",
         "name": "Geniusfeather",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -9445,6 +9456,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "NAUGHTYMINT",
+        "name": "Menta Pícara",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 13,
@@ -9459,7 +9476,7 @@
       {
         "id": "REPEATBALL",
         "name": "Acopio Ball",
-        "qty": 6,
+        "qty": 7,
         "pocket": "Poké Balls"
       },
       {
@@ -10441,6 +10458,12 @@
         "pocket": "Piedras Mega"
       },
       {
+        "id": "LAPRASITE",
+        "name": "Laprasite",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
         "id": "ITEMURGE",
         "name": "Activaobjeto",
         "qty": 1,
@@ -10515,6 +10538,12 @@
       {
         "id": "XDEFENSE",
         "name": "Defensa X",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
+        "id": "RESETURGE",
+        "name": "Quitaestado",
         "qty": 1,
         "pocket": "Objetos de combate"
       },
