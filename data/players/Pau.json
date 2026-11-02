@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 20h 2m jugadas · 618,580₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 20h 13m jugadas · 424,700₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
       "species": "Tinkaton",
-      "level": 67,
+      "level": 68,
       "types": [
         "Hada",
         "Acero"
@@ -39,8 +39,8 @@
         89,
         15,
         53,
-        24,
-        50
+        27,
+        52
       ],
       "abilPool": [
         "Manto Níveo",
@@ -189,7 +189,7 @@
     {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 67,
+      "level": 68,
       "types": [
         "Siniestro",
         "Acero"
@@ -219,8 +219,8 @@
         89,
         15,
         50,
-        24,
-        50
+        27,
+        52
       ],
       "abilPool": [
         "Recogebolas",
@@ -358,7 +358,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 67,
+      "level": 68,
       "types": [
         "Eléctrico"
       ],
@@ -513,12 +513,14 @@
         "Empujón",
         "Estrujón",
         "Fotocolisión",
+        "Furia Taurina",
         "Giro Mortífero",
         "Golpe Roca",
         "Granizo",
         "Halloween",
         "Llave Corsé",
         "Manto Espejo",
+        "Moflete Estático",
         "Onda Certera",
         "Onda Tóxica",
         "Palma Rauda",
@@ -540,7 +542,7 @@
     {
       "nickname": "Juanca",
       "species": "Greattusk",
-      "level": 67,
+      "level": 68,
       "types": [
         "Tierra",
         "Lucha"
@@ -568,8 +570,8 @@
         33,
         5,
         32,
-        8,
-        8
+        11,
+        10
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -719,8 +721,8 @@
         0,
         0,
         0,
-        0,
-        2
+        3,
+        4
       ],
       "abilPool": [
         "Aura Feérica"
@@ -840,7 +842,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 67,
+      "level": 68,
       "types": [
         "Veneno",
         "Dragón"
@@ -868,8 +870,8 @@
         130,
         40,
         61,
-        40,
-        75
+        43,
+        77
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -4787,169 +4789,6 @@
       "spriteKey": "COPPERAJAH"
     },
     {
-      "nickname": "La coñona",
-      "species": "Froslass",
-      "level": 64,
-      "types": [
-        "Hielo",
-        "Fantasma"
-      ],
-      "ability": "Ventosas",
-      "nature": "Osada",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Salpicadura",
-        "Agarrón",
-        "Carga Dragón",
-        "Carámbano"
-      ],
-      "iv": [
-        4,
-        28,
-        9,
-        11,
-        30,
-        0
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Ventosas",
-        "Energía Pura"
-      ],
-      "abilHidden": [
-        "Indefenso"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Ida y Vuelta"
-        },
-        {
-          "lvl": 1,
-          "m": "Prensa Metálica"
-        },
-        {
-          "lvl": 1,
-          "m": "Avivar"
-        },
-        {
-          "lvl": 1,
-          "m": "Robo"
-        },
-        {
-          "lvl": 1,
-          "m": "Acua Jet"
-        },
-        {
-          "lvl": 1,
-          "m": "Golpe Roca"
-        },
-        {
-          "lvl": 1,
-          "m": "Kinético"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Cometa"
-        },
-        {
-          "lvl": 1,
-          "m": "Tinieblas"
-        },
-        {
-          "lvl": 1,
-          "m": "Deseo"
-        },
-        {
-          "lvl": 1,
-          "m": "Puño Furia"
-        },
-        {
-          "lvl": 15,
-          "m": "Torbellino"
-        },
-        {
-          "lvl": 20,
-          "m": "Defensa Floral"
-        },
-        {
-          "lvl": 22,
-          "m": "Cepo"
-        },
-        {
-          "lvl": 25,
-          "m": "Campo Eléctrico"
-        },
-        {
-          "lvl": 28,
-          "m": "Viraje"
-        },
-        {
-          "lvl": 30,
-          "m": "Neblina"
-        },
-        {
-          "lvl": 35,
-          "m": "Chapoteo Lodo"
-        },
-        {
-          "lvl": 37,
-          "m": "Rencor Reprimido"
-        },
-        {
-          "lvl": 40,
-          "m": "Pirueta Helada"
-        },
-        {
-          "lvl": 40,
-          "m": "Mazazo"
-        },
-        {
-          "lvl": 45,
-          "m": "Martillazo"
-        },
-        {
-          "lvl": 47,
-          "m": "Tóxico"
-        },
-        {
-          "lvl": 48,
-          "m": "Salpicadura"
-        },
-        {
-          "lvl": 54,
-          "m": "Agarrón"
-        },
-        {
-          "lvl": 55,
-          "m": "Carga Dragón"
-        },
-        {
-          "lvl": 61,
-          "m": "Carámbano"
-        },
-        {
-          "lvl": 68,
-          "m": "Martillo Hielo"
-        }
-      ],
-      "firstMoves": [
-        "Salpicadura",
-        "Agarrón",
-        "Carga Dragón",
-        "Carámbano"
-      ],
-      "spriteKey": "FROSLASS"
-    },
-    {
       "nickname": "Misty",
       "species": "Clefairy",
       "level": 26,
@@ -7795,6 +7634,213 @@
         "Cabeza de Hierro"
       ],
       "spriteKey": "ARCTOZOLT"
+    },
+    {
+      "nickname": "La coñona",
+      "species": "Froslass",
+      "level": 67,
+      "types": [
+        "Hielo",
+        "Fantasma"
+      ],
+      "ability": "Ventosas",
+      "nature": "Osada",
+      "item": "Froslassite",
+      "shiny": false,
+      "moves": [
+        "Rencor Reprimido",
+        "Esfera Aural",
+        "Fotocolisión",
+        "Onda Tóxica"
+      ],
+      "iv": [
+        4,
+        28,
+        9,
+        11,
+        30,
+        0
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Ventosas",
+        "Energía Pura"
+      ],
+      "abilHidden": [
+        "Indefenso"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Ida y Vuelta"
+        },
+        {
+          "lvl": 1,
+          "m": "Prensa Metálica"
+        },
+        {
+          "lvl": 1,
+          "m": "Avivar"
+        },
+        {
+          "lvl": 1,
+          "m": "Robo"
+        },
+        {
+          "lvl": 1,
+          "m": "Acua Jet"
+        },
+        {
+          "lvl": 1,
+          "m": "Golpe Roca"
+        },
+        {
+          "lvl": 1,
+          "m": "Kinético"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Cometa"
+        },
+        {
+          "lvl": 1,
+          "m": "Tinieblas"
+        },
+        {
+          "lvl": 1,
+          "m": "Deseo"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 15,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": 20,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 22,
+          "m": "Cepo"
+        },
+        {
+          "lvl": 25,
+          "m": "Campo Eléctrico"
+        },
+        {
+          "lvl": 28,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 30,
+          "m": "Neblina"
+        },
+        {
+          "lvl": 35,
+          "m": "Chapoteo Lodo"
+        },
+        {
+          "lvl": 37,
+          "m": "Rencor Reprimido"
+        },
+        {
+          "lvl": 40,
+          "m": "Pirueta Helada"
+        },
+        {
+          "lvl": 40,
+          "m": "Mazazo"
+        },
+        {
+          "lvl": 45,
+          "m": "Martillazo"
+        },
+        {
+          "lvl": 47,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 48,
+          "m": "Salpicadura"
+        },
+        {
+          "lvl": 54,
+          "m": "Agarrón"
+        },
+        {
+          "lvl": 55,
+          "m": "Carga Dragón"
+        },
+        {
+          "lvl": 61,
+          "m": "Carámbano"
+        },
+        {
+          "lvl": 68,
+          "m": "Martillo Hielo"
+        }
+      ],
+      "tmMoves": [
+        "Ala de Acero",
+        "Alarido",
+        "Arrumaco",
+        "As Oculto",
+        "Asalto Barrera",
+        "Bálsamo Osado",
+        "Bloqueo",
+        "Bola Voltio",
+        "Bomba Ácida",
+        "Buceo",
+        "Cabezazo Zen",
+        "Cambiavelocidad",
+        "Camelo",
+        "Carga",
+        "Coraza Trampa",
+        "Cura Floral",
+        "Danza Aleteo",
+        "Danza Lunar",
+        "Eco Metálico",
+        "Esfera Aural",
+        "Fotocolisión",
+        "Gas Corrosivo",
+        "Golpe Roca",
+        "Granizo",
+        "Hachazo Pétreo",
+        "Hipnosis",
+        "Llave Corsé",
+        "Moflete Estático",
+        "Multiataque",
+        "Onda Tóxica",
+        "Ovocuración",
+        "Palma Rauda",
+        "Piñón Auxiliar",
+        "Púas",
+        "Pulso de Campo",
+        "Purificación",
+        "Rayo Fusión",
+        "Rencor Reprimido",
+        "Sacrificio",
+        "Sylveotornado",
+        "Vendaval",
+        "Viento Carámbano"
+      ],
+      "firstMoves": [
+        "Salpicadura",
+        "Agarrón",
+        "Carga Dragón",
+        "Carámbano"
+      ],
+      "spriteKey": "FROSLASS"
     }
   ],
   "graveyard": [
@@ -9864,17 +9910,6 @@
       "mon": "Copperajah"
     },
     {
-      "route": "monte_plateado",
-      "where": "Monte Plateado",
-      "species": "Froslass",
-      "nickname": "La coñona",
-      "shiny": false,
-      "status": "captured",
-      "category": "salvaje",
-      "level": 64,
-      "mon": "Froslass"
-    },
-    {
       "route": "ruta_10_norte",
       "where": "Ruta 10 Norte",
       "species": "Clefairy",
@@ -10084,6 +10119,17 @@
       "mon": "Arctozolt"
     },
     {
+      "route": "monte_plateado",
+      "where": "Monte Plateado",
+      "species": "Froslass",
+      "nickname": "La coñona",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 64,
+      "mon": "Froslass"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -10241,7 +10287,6 @@
       "ruta_6": true,
       "cataratas_tohjo": true,
       "ruta_24": true,
-      "monte_plateado": true,
       "ruta_10_norte": true,
       "ruta_9": true,
       "ciudad_plateada": true,
@@ -10257,6 +10302,7 @@
       "cueva_celeste": true,
       "monte_moon": true,
       "monte_moon_exterior": true,
+      "monte_plateado": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_16": true,
@@ -10677,6 +10723,7 @@
       "Precisión X 3",
       "Prettyfeather",
       "Prisma Rojo",
+      "Protector",
       "Proteína",
       "Puerro",
       "Radar",
@@ -10700,6 +10747,7 @@
       "Seguro Fallo",
       "Semilla Bruma",
       "Semilla Hierba",
+      "Semilla Psique",
       "Servicio Raro",
       "Seta Aroma",
       "Shinyzador",
@@ -10779,7 +10827,7 @@
       {
         "id": "SUPERREPEL",
         "name": "Superrepelente",
-        "qty": 13,
+        "qty": 12,
         "pocket": "Objetos"
       },
       {
@@ -11143,6 +11191,24 @@
         "pocket": "Objetos"
       },
       {
+        "id": "PSYCHICSEED",
+        "name": "Semilla Psique",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PROTECTOR",
+        "name": "Protector",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "BLACKSLUDGE",
+        "name": "Lodo Negro",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -11163,7 +11229,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 638,
+        "qty": 635,
         "pocket": "Medicinas"
       },
       {
@@ -12135,6 +12201,12 @@
       {
         "id": "TYRANITARITE",
         "name": "Tyranitarita",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
+        "id": "COPPERAJITE",
+        "name": "Copperajite",
         "qty": 1,
         "pocket": "Piedras Mega"
       },
