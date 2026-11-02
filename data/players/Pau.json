@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 20h 33m jugadas · 457,480₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 20h 39m jugadas · 457,480₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -36,7 +36,7 @@
       ],
       "ev": [
         42,
-        97,
+        99,
         16,
         55,
         34,
@@ -218,7 +218,7 @@
       ],
       "ev": [
         42,
-        97,
+        99,
         16,
         52,
         34,
@@ -571,7 +571,7 @@
       ],
       "ev": [
         24,
-        41,
+        43,
         6,
         34,
         18,
@@ -724,7 +724,7 @@
       ],
       "ev": [
         6,
-        8,
+        10,
         1,
         2,
         10,
@@ -873,7 +873,7 @@
       ],
       "ev": [
         49,
-        138,
+        140,
         41,
         63,
         50,
@@ -7848,6 +7848,145 @@
         "Carámbano"
       ],
       "spriteKey": "FROSLASS"
+    },
+    {
+      "nickname": "Tramuntana",
+      "species": "Malamar",
+      "level": 67,
+      "types": [
+        "Siniestro",
+        "Psíquico"
+      ],
+      "ability": "Madrugar",
+      "nature": "Agitada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Golpe Bajo",
+        "Lanzamiento",
+        "Cabeza Sorpresa",
+        "Amago"
+      ],
+      "iv": [
+        31,
+        20,
+        13,
+        26,
+        17,
+        31
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Madrugar",
+        "Levitación"
+      ],
+      "abilHidden": [
+        "Insonorizar"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Giro Mortífero"
+        },
+        {
+          "lvl": 1,
+          "m": "Robo"
+        },
+        {
+          "lvl": 1,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": 1,
+          "m": "Danza Lunar"
+        },
+        {
+          "lvl": 1,
+          "m": "Velo Aurora"
+        },
+        {
+          "lvl": 1,
+          "m": "Sombra Vil"
+        },
+        {
+          "lvl": 4,
+          "m": "Viraje"
+        },
+        {
+          "lvl": 9,
+          "m": "Arrumaco"
+        },
+        {
+          "lvl": 12,
+          "m": "Destructor"
+        },
+        {
+          "lvl": 13,
+          "m": "Colmillo Hielo"
+        },
+        {
+          "lvl": 15,
+          "m": "Ataque Furia"
+        },
+        {
+          "lvl": 15,
+          "m": "Chapoteo Lodo"
+        },
+        {
+          "lvl": 18,
+          "m": "Gravedad"
+        },
+        {
+          "lvl": 21,
+          "m": "Pulso Cura"
+        },
+        {
+          "lvl": 24,
+          "m": "Campo de Niebla"
+        },
+        {
+          "lvl": 27,
+          "m": "Agua Fría"
+        },
+        {
+          "lvl": 31,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 33,
+          "m": "Psicorrayo"
+        },
+        {
+          "lvl": 37,
+          "m": "Golpe Bajo"
+        },
+        {
+          "lvl": 42,
+          "m": "Lanzamiento"
+        },
+        {
+          "lvl": 43,
+          "m": "Cabeza Sorpresa"
+        },
+        {
+          "lvl": 47,
+          "m": "Amago"
+        }
+      ],
+      "firstMoves": [
+        "Golpe Bajo",
+        "Lanzamiento",
+        "Cabeza Sorpresa",
+        "Amago"
+      ],
+      "spriteKey": "MALAMAR"
     }
   ],
   "graveyard": [
@@ -10137,6 +10276,17 @@
       "mon": "Froslass"
     },
     {
+      "route": "ruta_25_norte",
+      "where": "Ruta 25 Norte",
+      "species": "Malamar",
+      "nickname": "Tramuntana",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 67,
+      "mon": "Malamar"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -10310,6 +10460,7 @@
       "monte_moon": true,
       "monte_moon_exterior": true,
       "monte_plateado": true,
+      "ruta_25_norte": true,
       "ruta_1": true,
       "bosque_verde": true,
       "ruta_16": true,
@@ -10379,7 +10530,8 @@
       "ruta_23": true,
       "ruta_24": true,
       "ruta_25_sur": true,
-      "monte_plateado": true
+      "monte_plateado": true,
+      "ruta_25_norte": true
     },
     "switches": [
       48,
@@ -10773,6 +10925,7 @@
       "Tabla Duende",
       "Tabla Helada",
       "Tabla Linfa",
+      "Tabla Oscura",
       "Tabla Pétrea",
       "Tabla Tóxica",
       "Tesecreto",
@@ -10838,7 +10991,7 @@
       {
         "id": "SUPERREPEL",
         "name": "Superrepelente",
-        "qty": 9,
+        "qty": 7,
         "pocket": "Objetos"
       },
       {
@@ -10970,7 +11123,7 @@
       {
         "id": "UTILITYUMBRELLA",
         "name": "Parasol Multiuso",
-        "qty": 2,
+        "qty": 3,
         "pocket": "Objetos"
       },
       {
@@ -11232,6 +11385,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "DREADPLATE",
+        "name": "Tabla Oscura",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -11480,13 +11639,13 @@
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 3,
+        "qty": 2,
         "pocket": "Poké Balls"
       },
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 25,
+        "qty": 23,
         "pocket": "Poké Balls"
       },
       {
