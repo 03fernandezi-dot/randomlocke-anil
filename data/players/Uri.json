@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 7,
   "champion": true,
-  "notes": "Importado del save · 28h 38m jugadas · 576,610₽ · vidas en el juego: 15",
+  "notes": "Importado del save · 28h 41m jugadas · 576,110₽ · vidas en el juego: 15",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -8017,7 +8017,8 @@
       "ruta_11": true,
       "ruta_13": true,
       "ruta_14": true,
-      "ciudad_fucsia": true
+      "ciudad_fucsia": true,
+      "volcan_canela": true
     },
     "items": {},
     "encounters": {
@@ -8188,6 +8189,7 @@
       "Agua Mística",
       "Álbum de Fotos",
       "Amuleto",
+      "Ánfora",
       "Anillo",
       "Antídoto",
       "Antihielo",
@@ -8247,6 +8249,7 @@
       "Defensa X 2",
       "Diente Marino",
       "Elixir Máximo",
+      "Fósil Garra",
       "Fósil Hélix",
       "Fósil Pluma",
       "Franja Recia",
@@ -8274,6 +8277,7 @@
       "Guante de Boxeo",
       "Hechizo",
       "Hierba Copia",
+      "Huevo Suerte",
       "Incienso Duplo",
       "Incienso Lento",
       "Incienso Suave",
@@ -8387,6 +8391,7 @@
       "Parte Amarilla",
       "Parte Roja",
       "Parte Verde",
+      "Pepita",
       "Periscopio",
       "Perla",
       "Pesa Recia",
@@ -8902,7 +8907,7 @@
       {
         "id": "DREADPLATE",
         "name": "Tabla Oscura",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -8944,6 +8949,30 @@
       {
         "id": "LUCKINCENSE",
         "name": "Incienso Duplo",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "NUGGET",
+        "name": "Pepita",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "CLAWFOSSIL",
+        "name": "Fósil Garra",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "RELICVASE",
+        "name": "Ánfora",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "LUCKYEGG",
+        "name": "Huevo Suerte",
         "qty": 1,
         "pocket": "Objetos"
       },
