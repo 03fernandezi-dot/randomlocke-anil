@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 21h 6m jugadas · 433,125₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 21h 13m jugadas · 429,625₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
       "species": "Tinkaton",
-      "level": 70,
+      "level": 72,
       "types": [
         "Hada",
         "Acero"
@@ -191,7 +191,7 @@
     {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 70,
+      "level": 72,
       "types": [
         "Siniestro",
         "Acero"
@@ -361,7 +361,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 70,
+      "level": 72,
       "types": [
         "Eléctrico"
       ],
@@ -546,7 +546,7 @@
     {
       "nickname": "Juanca",
       "species": "Greattusk",
-      "level": 70,
+      "level": 72,
       "types": [
         "Tierra",
         "Lucha"
@@ -699,7 +699,7 @@
     {
       "nickname": "POLLAGORDA",
       "species": "Ironjugulis",
-      "level": 70,
+      "level": 72,
       "types": [
         "Siniestro",
         "Volador"
@@ -848,7 +848,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 70,
+      "level": 72,
       "types": [
         "Veneno",
         "Dragón"
@@ -7085,7 +7085,7 @@
       ],
       "ability": "Iluminación",
       "nature": "Miedosa",
-      "item": "Seguro Debilidad",
+      "item": "",
       "shiny": false,
       "moves": [
         "Mirada Heladora",
@@ -10781,6 +10781,7 @@
       126,
       128,
       129,
+      138,
       152,
       176,
       179,
@@ -10848,6 +10849,7 @@
     ],
     "foundItems": [
       "Aecapsula",
+      "Álbum de Fotos",
       "Ámbar Viejo",
       "Amor Ball",
       "Anillo",
@@ -11602,6 +11604,18 @@
         "pocket": "Objetos"
       },
       {
+        "id": "FOCUSSASH",
+        "name": "Banda Aguante",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "WEAKNESSPOLICY",
+        "name": "Seguro Debilidad",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -11622,7 +11636,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 633,
+        "qty": 621,
         "pocket": "Medicinas"
       },
       {
@@ -12882,6 +12896,12 @@
       {
         "id": "ROCKCLIMBITEM",
         "name": "Rockclimbitem",
+        "qty": 1,
+        "pocket": "Objetos clave"
+      },
+      {
+        "id": "ALBUMFOTOS",
+        "name": "Álbum de Fotos",
         "qty": 1,
         "pocket": "Objetos clave"
       }
