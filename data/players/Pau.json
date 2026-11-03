@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 21h 29m jugadas · 436,105₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 21h 30m jugadas · 436,105₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -11542,6 +11542,7 @@
       "Paracontacto",
       "Parasol Multiuso",
       "Parte Azul",
+      "Parte Roja",
       "Pepita",
       "Periscopio",
       "Perla",
@@ -11735,7 +11736,7 @@
       {
         "id": "DRAGONGEM",
         "name": "Gema Dragón",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -12105,6 +12106,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "REDSHARD",
+        "name": "Parte Roja",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "ICEHEAL",
         "name": "Antihielo",
         "qty": 1,
@@ -12275,7 +12282,7 @@
       {
         "id": "ANTIDOTE",
         "name": "Antídoto",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
