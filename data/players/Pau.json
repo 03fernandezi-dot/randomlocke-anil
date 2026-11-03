@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 21h 17m jugadas · 429,625₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 21h 25m jugadas · 436,105₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -36,11 +36,11 @@
       ],
       "ev": [
         45,
-        105,
-        18,
+        108,
+        21,
         57,
-        36,
-        56
+        37,
+        57
       ],
       "abilPool": [
         "Manto Níveo",
@@ -218,11 +218,11 @@
       ],
       "ev": [
         45,
-        105,
-        18,
+        108,
+        21,
         54,
-        36,
-        56
+        37,
+        57
       ],
       "abilPool": [
         "Recogebolas",
@@ -571,11 +571,11 @@
       ],
       "ev": [
         27,
-        49,
-        8,
+        52,
+        11,
         36,
-        20,
-        14
+        21,
+        15
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -724,11 +724,11 @@
       ],
       "ev": [
         9,
-        16,
-        3,
+        19,
+        6,
         4,
-        12,
-        8
+        13,
+        9
       ],
       "abilPool": [
         "Aura Feérica"
@@ -873,11 +873,11 @@
       ],
       "ev": [
         52,
-        146,
-        43,
+        149,
+        46,
         65,
-        52,
-        81
+        53,
+        82
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -8167,6 +8167,308 @@
         "Mal de Ojo"
       ],
       "spriteKey": "COPPERAJAH"
+    },
+    {
+      "nickname": "Pedrerol",
+      "species": "Carbink",
+      "level": 65,
+      "types": [
+        "Roca",
+        "Hada"
+      ],
+      "ability": "",
+      "nature": "Pícara",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Señuelo",
+        "Ferropuño Doble",
+        "Ovocuración",
+        "Choque Anímico"
+      ],
+      "iv": [
+        18,
+        25,
+        15,
+        25,
+        28,
+        12
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Irascible"
+      ],
+      "abilHidden": [
+        "Respondón"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Picotazo"
+        },
+        {
+          "lvl": 1,
+          "m": "Ráfaga Escamas"
+        },
+        {
+          "lvl": 5,
+          "m": "Danza Pluma"
+        },
+        {
+          "lvl": 5,
+          "m": "Defensa Floral"
+        },
+        {
+          "lvl": 8,
+          "m": "Truco"
+        },
+        {
+          "lvl": 10,
+          "m": "Punzada Rama"
+        },
+        {
+          "lvl": 15,
+          "m": "Luz Lunar"
+        },
+        {
+          "lvl": 18,
+          "m": "Garra Umbría"
+        },
+        {
+          "lvl": 20,
+          "m": "Purificación"
+        },
+        {
+          "lvl": 25,
+          "m": "Geocontrol"
+        },
+        {
+          "lvl": 30,
+          "m": "Viento Hielo"
+        },
+        {
+          "lvl": 35,
+          "m": "Puños Plasma"
+        },
+        {
+          "lvl": 35,
+          "m": "Carámbano"
+        },
+        {
+          "lvl": 40,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 45,
+          "m": "Frío Polar"
+        },
+        {
+          "lvl": 50,
+          "m": "Llama Embrujada"
+        },
+        {
+          "lvl": 55,
+          "m": "Señuelo"
+        },
+        {
+          "lvl": 55,
+          "m": "Ferropuño Doble"
+        },
+        {
+          "lvl": 60,
+          "m": "Ovocuración"
+        },
+        {
+          "lvl": 60,
+          "m": "Choque Anímico"
+        }
+      ],
+      "firstMoves": [
+        "Señuelo",
+        "Ferropuño Doble",
+        "Ovocuración",
+        "Choque Anímico"
+      ],
+      "spriteKey": "CARBINK"
+    },
+    {
+      "nickname": "Mamonardo",
+      "species": "Flygon",
+      "level": 1,
+      "types": [
+        "Tierra",
+        "Dragón"
+      ],
+      "ability": "",
+      "nature": "Miedosa",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Magnitud",
+        "Zona Extraña",
+        "Carga",
+        "Puño Jet"
+      ],
+      "iv": [
+        21,
+        16,
+        16,
+        10,
+        4,
+        10
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Levitación"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Vasto Impacto"
+        },
+        {
+          "lvl": -1,
+          "m": "Ovocuración"
+        },
+        {
+          "lvl": -1,
+          "m": "Onda Anómala"
+        },
+        {
+          "lvl": -1,
+          "m": "Cosquillas"
+        },
+        {
+          "lvl": -1,
+          "m": "Embargo"
+        },
+        {
+          "lvl": -1,
+          "m": "Anticipo"
+        },
+        {
+          "lvl": -1,
+          "m": "Garra Metal"
+        },
+        {
+          "lvl": -1,
+          "m": "Doble Bofetón"
+        },
+        {
+          "lvl": -1,
+          "m": "Dragoaliento"
+        },
+        {
+          "lvl": 1,
+          "m": "Arenas Ardientes"
+        },
+        {
+          "lvl": 1,
+          "m": "Danza Dragón"
+        },
+        {
+          "lvl": 1,
+          "m": "Paralizador"
+        },
+        {
+          "lvl": 1,
+          "m": "Magnitud"
+        },
+        {
+          "lvl": 1,
+          "m": "Zona Extraña"
+        },
+        {
+          "lvl": 1,
+          "m": "Carga"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 7,
+          "m": "Poder Reserva"
+        },
+        {
+          "lvl": 12,
+          "m": "Contraataque"
+        },
+        {
+          "lvl": 16,
+          "m": "Giro Fuego"
+        },
+        {
+          "lvl": 17,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 20,
+          "m": "Chirrido"
+        },
+        {
+          "lvl": 24,
+          "m": "Púas"
+        },
+        {
+          "lvl": 25,
+          "m": "Ráfaga Escamas"
+        },
+        {
+          "lvl": 28,
+          "m": "Fertilizante"
+        },
+        {
+          "lvl": 32,
+          "m": "Ascenso Draco"
+        },
+        {
+          "lvl": 38,
+          "m": "Corpulencia"
+        },
+        {
+          "lvl": 44,
+          "m": "Cañón Dinamax"
+        },
+        {
+          "lvl": 45,
+          "m": "Corte Vacío"
+        },
+        {
+          "lvl": 52,
+          "m": "Distorsión"
+        },
+        {
+          "lvl": 60,
+          "m": "Cura Floral"
+        },
+        {
+          "lvl": 68,
+          "m": "Martillo Dragón"
+        }
+      ],
+      "firstMoves": [
+        "Magnitud",
+        "Zona Extraña",
+        "Carga",
+        "Puño Jet"
+      ],
+      "spriteKey": "FLYGON"
     }
   ],
   "graveyard": [
@@ -10478,6 +10780,28 @@
       "mon": "Copperajah"
     },
     {
+      "route": "volcan_canela",
+      "where": "Volcán Canela",
+      "species": "Carbink",
+      "nickname": "Pedrerol",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 65,
+      "mon": "Carbink"
+    },
+    {
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Flygon",
+      "nickname": "Mamonardo",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Flygon"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -10783,6 +11107,7 @@
       129,
       138,
       152,
+      171,
       176,
       179,
       180,
@@ -10930,6 +11255,7 @@
       "Garra Afilada",
       "Gema Acero",
       "Gema Dragón",
+      "Gema Fuego",
       "Gema Normal",
       "Gema Psíquica",
       "Gema Roca",
@@ -10965,6 +11291,7 @@
       "Menta Agitada",
       "Menta Audaz",
       "Menta Huraña",
+      "Menta Ingenua",
       "Menta Mansa",
       "Menta Miedosa",
       "Menta Pícara",
@@ -11616,8 +11943,14 @@
         "pocket": "Objetos"
       },
       {
-        "id": "PLUMEFOSSIL",
-        "name": "Fósil Pluma",
+        "id": "FIREGEM",
+        "name": "Gema Fuego",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "NUGGET",
+        "name": "Pepita",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -11838,6 +12171,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "NAIVEMINT",
+        "name": "Menta Ingenua",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "GREATBALL",
         "name": "Super Ball",
         "qty": 18,
@@ -11888,7 +12227,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 23,
+        "qty": 22,
         "pocket": "Poké Balls"
       },
       {
