@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 21h 30m jugadas · 436,105₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 21h 33m jugadas · 436,105₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -37,7 +37,7 @@
       "ev": [
         45,
         110,
-        21,
+        23,
         57,
         37,
         57
@@ -219,7 +219,7 @@
       "ev": [
         45,
         110,
-        21,
+        23,
         54,
         37,
         57
@@ -572,7 +572,7 @@
       "ev": [
         27,
         54,
-        11,
+        13,
         36,
         21,
         15
@@ -725,7 +725,7 @@
       "ev": [
         9,
         21,
-        6,
+        8,
         4,
         13,
         9
@@ -874,7 +874,7 @@
       "ev": [
         52,
         151,
-        46,
+        48,
         65,
         53,
         82
@@ -8608,6 +8608,134 @@
         "Teraexplosión"
       ],
       "spriteKey": "SCIZOR"
+    },
+    {
+      "nickname": "CR7",
+      "species": "Golisopod",
+      "level": 65,
+      "types": [
+        "Bicho",
+        "Agua"
+      ],
+      "ability": "",
+      "nature": "Serena",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Martillazo",
+        "Intercambio",
+        "Trueno",
+        "Tierra Viva"
+      ],
+      "iv": [
+        21,
+        18,
+        16,
+        2,
+        14,
+        2
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Colector"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Abrecaminos"
+        },
+        {
+          "lvl": 1,
+          "m": "Acua Aro"
+        },
+        {
+          "lvl": 1,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 1,
+          "m": "Campo de Hierba"
+        },
+        {
+          "lvl": 4,
+          "m": "Torbellino"
+        },
+        {
+          "lvl": 8,
+          "m": "Hidrochorro"
+        },
+        {
+          "lvl": 12,
+          "m": "Onda Vacío"
+        },
+        {
+          "lvl": 16,
+          "m": "Aura Magnética"
+        },
+        {
+          "lvl": 20,
+          "m": "Pantalla de Luz"
+        },
+        {
+          "lvl": 24,
+          "m": "Truco Fuerza"
+        },
+        {
+          "lvl": 28,
+          "m": "Espora"
+        },
+        {
+          "lvl": 30,
+          "m": "Triple Inmersión"
+        },
+        {
+          "lvl": 32,
+          "m": "Mal de Ojo"
+        },
+        {
+          "lvl": 34,
+          "m": "Pulpocañón"
+        },
+        {
+          "lvl": 36,
+          "m": "Voto Agua"
+        },
+        {
+          "lvl": 36,
+          "m": "Sol Matinal"
+        },
+        {
+          "lvl": 39,
+          "m": "Martillazo"
+        },
+        {
+          "lvl": 40,
+          "m": "Intercambio"
+        },
+        {
+          "lvl": 44,
+          "m": "Trueno"
+        },
+        {
+          "lvl": 48,
+          "m": "Tierra Viva"
+        }
+      ],
+      "firstMoves": [
+        "Martillazo",
+        "Intercambio",
+        "Trueno",
+        "Tierra Viva"
+      ],
+      "spriteKey": "GOLISOPOD"
     }
   ],
   "graveyard": [
@@ -10952,6 +11080,17 @@
       "mon": "Scizor"
     },
     {
+      "route": "islas_espuma",
+      "where": "Islas Espuma",
+      "species": "Golisopod",
+      "nickname": "CR7",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 65,
+      "mon": "Golisopod"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -12384,7 +12523,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 21,
+        "qty": 20,
         "pocket": "Poké Balls"
       },
       {
