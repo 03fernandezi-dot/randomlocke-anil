@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 21h 25m jugadas · 436,105₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 21h 29m jugadas · 436,105₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -36,7 +36,7 @@
       ],
       "ev": [
         45,
-        108,
+        110,
         21,
         57,
         37,
@@ -218,7 +218,7 @@
       ],
       "ev": [
         45,
-        108,
+        110,
         21,
         54,
         37,
@@ -571,7 +571,7 @@
       ],
       "ev": [
         27,
-        52,
+        54,
         11,
         36,
         21,
@@ -724,7 +724,7 @@
       ],
       "ev": [
         9,
-        19,
+        21,
         6,
         4,
         13,
@@ -873,7 +873,7 @@
       ],
       "ev": [
         52,
-        149,
+        151,
         46,
         65,
         53,
@@ -8469,6 +8469,145 @@
         "Puño Jet"
       ],
       "spriteKey": "FLYGON"
+    },
+    {
+      "nickname": "Putellas",
+      "species": "Scizor",
+      "level": 65,
+      "types": [
+        "Bicho",
+        "Acero"
+      ],
+      "ability": "",
+      "nature": "Floja",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Psicocambio",
+        "Golpe Oscuro",
+        "Hipnosis",
+        "Teraexplosión"
+      ],
+      "iv": [
+        31,
+        23,
+        18,
+        2,
+        27,
+        15
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Hospitalidad",
+        "Ensañamiento"
+      ],
+      "abilHidden": [
+        "Cálculo Final"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Alquitranazo"
+        },
+        {
+          "lvl": 1,
+          "m": "Brinco"
+        },
+        {
+          "lvl": 1,
+          "m": "Luminicola"
+        },
+        {
+          "lvl": 1,
+          "m": "Destructor"
+        },
+        {
+          "lvl": 1,
+          "m": "Prensa Metálica"
+        },
+        {
+          "lvl": 1,
+          "m": "Protección"
+        },
+        {
+          "lvl": 1,
+          "m": "Respiro"
+        },
+        {
+          "lvl": 1,
+          "m": "Giro Bola"
+        },
+        {
+          "lvl": 9,
+          "m": "Cuerpo Pesado"
+        },
+        {
+          "lvl": 12,
+          "m": "Danza Lluvia"
+        },
+        {
+          "lvl": 16,
+          "m": "Plegaria Vital"
+        },
+        {
+          "lvl": 20,
+          "m": "Auxilio"
+        },
+        {
+          "lvl": 24,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 28,
+          "m": "Relámpago Súbito"
+        },
+        {
+          "lvl": 32,
+          "m": "Fragor Escamas"
+        },
+        {
+          "lvl": 33,
+          "m": "Branquibocado"
+        },
+        {
+          "lvl": 36,
+          "m": "Cambio de Banda"
+        },
+        {
+          "lvl": 40,
+          "m": "Doble Ataque"
+        },
+        {
+          "lvl": 44,
+          "m": "Psicocambio"
+        },
+        {
+          "lvl": 44,
+          "m": "Golpe Oscuro"
+        },
+        {
+          "lvl": 45,
+          "m": "Hipnosis"
+        },
+        {
+          "lvl": 61,
+          "m": "Teraexplosión"
+        }
+      ],
+      "firstMoves": [
+        "Psicocambio",
+        "Golpe Oscuro",
+        "Hipnosis",
+        "Teraexplosión"
+      ],
+      "spriteKey": "SCIZOR"
     }
   ],
   "graveyard": [
@@ -10802,6 +10941,17 @@
       "mon": "Flygon"
     },
     {
+      "route": "central_energia",
+      "where": "Central Energía",
+      "species": "Scizor",
+      "nickname": "Putellas",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 65,
+      "mon": "Scizor"
+    },
+    {
       "route": "ruta_1",
       "where": "Ruta 1",
       "species": "Hatenna",
@@ -12227,7 +12377,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 22,
+        "qty": 21,
         "pocket": "Poké Balls"
       },
       {
