@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 21h 13m jugadas · 429,625₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 21h 17m jugadas · 429,625₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -11366,7 +11366,7 @@
       {
         "id": "ROCKGEM",
         "name": "Gema Roca",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -11612,6 +11612,12 @@
       {
         "id": "WEAKNESSPOLICY",
         "name": "Seguro Debilidad",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "PLUMEFOSSIL",
+        "name": "Fósil Pluma",
         "qty": 1,
         "pocket": "Objetos"
       },
