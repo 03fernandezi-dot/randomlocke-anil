@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": true,
-  "notes": "Importado del save · 31h 22m jugadas · 630,300₽ · vidas en el juego: 12",
+  "notes": "Importado del save · 31h 24m jugadas · 637,100₽ · vidas en el juego: 12",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,10 +34,10 @@
       ],
       "ev": [
         31,
-        88,
+        91,
         39,
-        57,
-        35,
+        61,
+        36,
         43
       ],
       "abilPool": [
@@ -188,7 +188,7 @@
     {
       "nickname": "Sunny",
       "species": "Ursaluna",
-      "level": 69,
+      "level": 70,
       "types": [
         "Tierra",
         "Normal"
@@ -213,10 +213,10 @@
       ],
       "ev": [
         0,
-        6,
+        9,
         0,
+        7,
         3,
-        2,
         4
       ],
       "abilPool": [
@@ -397,10 +397,10 @@
       ],
       "ev": [
         0,
-        13,
+        16,
         4,
-        5,
-        8,
+        9,
+        9,
         10
       ],
       "abilPool": [
@@ -551,7 +551,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 69,
+      "level": 70,
       "types": [
         "Hada",
         "Acero"
@@ -765,10 +765,10 @@
       ],
       "ev": [
         26,
-        88,
+        91,
         35,
-        62,
-        36,
+        66,
+        37,
         43
       ],
       "abilPool": [
@@ -919,7 +919,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 67,
+      "level": 68,
       "types": [
         "Fuego",
         "Psíquico"
@@ -9332,6 +9332,7 @@
       "MO Golpe Roca",
       "Mochi Vigor",
       "Monedero",
+      "MT01",
       "MT02",
       "MT03",
       "MT04",
@@ -10454,6 +10455,12 @@
         "name": "Veloz Ball",
         "qty": 8,
         "pocket": "Poké Balls"
+      },
+      {
+        "id": "TM01",
+        "name": "MT01",
+        "qty": 1,
+        "pocket": "MTs y MOs"
       },
       {
         "id": "TM02",
