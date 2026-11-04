@@ -9468,6 +9468,7 @@
       "Scizorita",
       "Seguro Debilidad",
       "Seguro Fallo",
+      "Semilla Bruma",
       "Semilla Electro",
       "Semilla Hierba",
       "Semilla Milagro",
@@ -10115,6 +10116,12 @@
       {
         "id": "DAWNSTONE",
         "name": "Piedra Alba",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "MISTYSEED",
+        "name": "Semilla Bruma",
         "qty": 1,
         "pocket": "Objetos"
       },
