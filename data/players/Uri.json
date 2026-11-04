@@ -9010,7 +9010,8 @@
       "ruta_23": true,
       "ruta_24": true,
       "cataratas_tohjo": true,
-      "ruta_25_sur": true
+      "ruta_25_sur": true,
+      "ruta_25_norte": true
     },
     "items": {},
     "encounters": {
@@ -9350,6 +9351,7 @@
       "MT11",
       "MT113",
       "MT116",
+      "MT117",
       "MT119",
       "MT12",
       "MT122",
@@ -11017,6 +11019,12 @@
       {
         "id": "TM116",
         "name": "MT116",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM117",
+        "name": "MT117",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
