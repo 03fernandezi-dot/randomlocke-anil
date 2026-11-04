@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 22h 19m jugadas · 368,415₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 22h 24m jugadas · 379,365₽ · vidas en el juego: 12",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -35,10 +35,10 @@
         20
       ],
       "ev": [
-        60,
-        112,
+        62,
+        117,
         27,
-        113,
+        119,
         42,
         61
       ],
@@ -411,9 +411,9 @@
       ],
       "ev": [
         43,
-        56,
+        59,
         17,
-        42,
+        45,
         26,
         119
       ],
@@ -569,10 +569,10 @@
         11
       ],
       "ev": [
-        24,
-        23,
+        26,
+        28,
         12,
-        60,
+        66,
         18,
         13
       ],
@@ -696,7 +696,7 @@
     {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 73,
+      "level": 74,
       "types": [
         "Siniestro",
         "Acero"
@@ -722,10 +722,10 @@
         0
       ],
       "ev": [
-        60,
-        112,
+        62,
+        117,
         27,
-        60,
+        66,
         43,
         61
       ],
@@ -869,7 +869,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 73,
+      "level": 74,
       "types": [
         "Veneno",
         "Dragón"
@@ -893,10 +893,10 @@
         22
       ],
       "ev": [
-        67,
-        153,
+        69,
+        158,
         52,
-        71,
+        77,
         58,
         86
       ],
@@ -12314,7 +12314,7 @@
       {
         "id": "CENIZASSAGRADAS",
         "name": "Cenizas Sagradas",
-        "qty": 2,
+        "qty": 1,
         "pocket": "Medicinas"
       },
       {
