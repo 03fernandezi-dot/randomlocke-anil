@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 22h 16m jugadas · 357,615₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 22h 19m jugadas · 368,415₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -35,12 +35,12 @@
         20
       ],
       "ev": [
-        57,
+        60,
         112,
-        25,
-        109,
+        27,
+        113,
         42,
-        59
+        61
       ],
       "abilPool": [
         "Manto Níveo",
@@ -386,7 +386,7 @@
     {
       "nickname": "Juanca",
       "species": "Greattusk",
-      "level": 72,
+      "level": 73,
       "types": [
         "Tierra",
         "Lucha"
@@ -410,12 +410,12 @@
         18
       ],
       "ev": [
-        40,
+        43,
         56,
-        15,
-        38,
+        17,
+        42,
         26,
-        117
+        119
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -545,7 +545,7 @@
     {
       "nickname": "POLLAGORDA",
       "species": "Ironjugulis",
-      "level": 72,
+      "level": 73,
       "types": [
         "Siniestro",
         "Volador"
@@ -569,12 +569,12 @@
         11
       ],
       "ev": [
-        21,
+        24,
         23,
-        10,
-        56,
+        12,
+        60,
         18,
-        11
+        13
       ],
       "abilPool": [
         "Aura Feérica"
@@ -722,12 +722,12 @@
         0
       ],
       "ev": [
-        57,
+        60,
         112,
-        25,
-        56,
+        27,
+        60,
         43,
-        59
+        61
       ],
       "abilPool": [
         "Recogebolas",
@@ -893,12 +893,12 @@
         22
       ],
       "ev": [
-        64,
-        153,
-        50,
         67,
+        153,
+        52,
+        71,
         58,
-        84
+        86
       ],
       "abilPool": [
         "Cuerpo Horneado",
