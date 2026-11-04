@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 21h 59m jugadas · 346,605₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 22h 16m jugadas · 357,615₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
       "species": "Tinkaton",
-      "level": 72,
+      "level": 73,
       "types": [
         "Hada",
         "Acero"
@@ -35,11 +35,11 @@
         20
       ],
       "ev": [
-        45,
+        57,
         112,
         25,
         109,
-        40,
+        42,
         59
       ],
       "abilPool": [
@@ -199,7 +199,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 72,
+      "level": 73,
       "types": [
         "Eléctrico"
       ],
@@ -410,11 +410,11 @@
         18
       ],
       "ev": [
-        28,
+        40,
         56,
         15,
         38,
-        24,
+        26,
         117
       ],
       "abilPool": [
@@ -569,11 +569,11 @@
         11
       ],
       "ev": [
-        9,
+        21,
         23,
         10,
         56,
-        16,
+        18,
         11
       ],
       "abilPool": [
@@ -696,7 +696,7 @@
     {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 72,
+      "level": 73,
       "types": [
         "Siniestro",
         "Acero"
@@ -722,11 +722,11 @@
         0
       ],
       "ev": [
-        45,
+        57,
         112,
         25,
         56,
-        41,
+        43,
         59
       ],
       "abilPool": [
@@ -869,7 +869,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 72,
+      "level": 73,
       "types": [
         "Veneno",
         "Dragón"
@@ -893,11 +893,11 @@
         22
       ],
       "ev": [
-        52,
+        64,
         153,
         50,
         67,
-        56,
+        58,
         84
       ],
       "abilPool": [
