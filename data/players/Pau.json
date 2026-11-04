@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 22h 28m jugadas · 379,365₽ · vidas en el juego: 12",
+  "notes": "Importado del save · 22h 36m jugadas · 390,615₽ · vidas en el juego: 12",
   "team": [
     {
       "nickname": "Popiruleta",
       "species": "Tinkaton",
-      "level": 73,
+      "level": 75,
       "types": [
         "Hada",
         "Acero"
@@ -35,9 +35,9 @@
         20
       ],
       "ev": [
-        62,
-        117,
-        27,
+        65,
+        126,
+        29,
         119,
         42,
         61
@@ -199,7 +199,7 @@
     {
       "nickname": "Shawn",
       "species": "Ampharos",
-      "level": 73,
+      "level": 75,
       "types": [
         "Eléctrico"
       ],
@@ -386,7 +386,7 @@
     {
       "nickname": "Juanca",
       "species": "Greattusk",
-      "level": 73,
+      "level": 75,
       "types": [
         "Tierra",
         "Lucha"
@@ -410,9 +410,9 @@
         18
       ],
       "ev": [
-        43,
-        59,
-        17,
+        46,
+        68,
+        19,
         45,
         26,
         119
@@ -545,7 +545,7 @@
     {
       "nickname": "POLLAGORDA",
       "species": "Ironjugulis",
-      "level": 73,
+      "level": 75,
       "types": [
         "Siniestro",
         "Volador"
@@ -569,9 +569,9 @@
         11
       ],
       "ev": [
-        26,
-        28,
-        12,
+        29,
+        37,
+        14,
         66,
         18,
         13
@@ -696,7 +696,7 @@
     {
       "nickname": "Gambito",
       "species": "Bisharp",
-      "level": 74,
+      "level": 75,
       "types": [
         "Siniestro",
         "Acero"
@@ -722,9 +722,9 @@
         0
       ],
       "ev": [
-        62,
-        117,
-        27,
+        65,
+        126,
+        29,
         66,
         43,
         61
@@ -869,7 +869,7 @@
     {
       "nickname": "Wryn",
       "species": "Dragalge",
-      "level": 74,
+      "level": 75,
       "types": [
         "Veneno",
         "Dragón"
@@ -893,9 +893,9 @@
         22
       ],
       "ev": [
-        69,
-        158,
-        52,
+        72,
+        164,
+        53,
         77,
         58,
         86
@@ -12302,7 +12302,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 621,
+        "qty": 611,
         "pocket": "Medicinas"
       },
       {
