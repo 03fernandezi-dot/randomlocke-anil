@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 32h 9m jugadas · 449,720₽ · vidas en el juego: 11",
+  "notes": "Importado del save · 32h 20m jugadas · 449,720₽ · vidas en el juego: 11",
   "team": [
     {
       "nickname": "Milo",
@@ -14,8 +14,8 @@
         "Agua"
       ],
       "ability": "Veleta",
-      "nature": "Huraña",
-      "item": "Feraligite",
+      "nature": "Firme",
+      "item": "Pila",
       "shiny": false,
       "moves": [
         "Puntapié",
@@ -23,6 +23,8 @@
         "Chupavidas",
         "Batido"
       ],
+      "natureMint": true,
+      "natureBase": "Huraña",
       "iv": [
         7,
         12,
@@ -364,7 +366,7 @@
       ],
       "ability": "Mimetismo",
       "nature": "Afable",
-      "item": "Cinta Elección",
+      "item": "Meganiumite",
       "shiny": true,
       "moves": [
         "Fuerza Lunar",
@@ -670,6 +672,7 @@
       "tmMoves": [
         "Acua Cola",
         "Aire Afilado",
+        "Al Ataque",
         "Amplificador",
         "Batido",
         "Bomba Lodo",
@@ -678,6 +681,7 @@
         "Cañón Dinamax",
         "Cerrojo Feérico",
         "Chispa",
+        "Chupavidas",
         "Ciclón",
         "Clemencia",
         "Colmillo Veneno",
@@ -5177,9 +5181,9 @@
         "Agua",
         "Siniestro"
       ],
-      "ability": "",
+      "ability": "Ritmo Propio",
       "nature": "Osada",
-      "item": "Lustresfera",
+      "item": "",
       "shiny": false,
       "moves": [
         "Deslumbrar",
@@ -5763,30 +5767,30 @@
       "spriteKey": "SAWSBUCK_2"
     },
     {
-      "nickname": "Tobi!",
-      "species": "Okidogi",
+      "nickname": "Polteageist",
+      "species": "Polteageist",
       "level": 65,
       "types": [
-        "Veneno",
-        "Lucha"
+        "Fantasma"
       ],
-      "ability": "Experto",
-      "nature": "Serena",
+      "ability": "Expulsarena",
+      "nature": "Grosera",
       "item": "",
       "shiny": false,
       "moves": [
-        "Giro Mortífero",
-        "Llave Corsé",
-        "Búnker",
-        "Batido"
+        "Escudo Real",
+        "Infortunio",
+        "Moluscañón",
+        "Llama Azul"
       ],
+      "origin": "don_prodigio",
       "iv": [
-        7,
-        15,
-        23,
-        21,
-        28,
-        11
+        10,
+        1,
+        9,
+        29,
+        0,
+        16
       ],
       "ev": [
         0,
@@ -5797,133 +5801,136 @@
         0
       ],
       "abilPool": [
-        "Experto"
+        "Expulsarena"
       ],
       "abilHidden": [
-        "Coránima"
+        "Flexibilidad"
       ],
       "learnset": [
         {
-          "lvl": 1,
-          "m": "Búnker"
+          "lvl": -1,
+          "m": "Tinieblas"
         },
         {
           "lvl": 1,
-          "m": "Enrosque"
+          "m": "Sombra Vil"
         },
         {
           "lvl": 1,
-          "m": "Velo Sagrado"
+          "m": "Escudo Real"
         },
         {
           "lvl": 1,
-          "m": "Puño Incremento"
+          "m": "Octopresa"
         },
         {
           "lvl": 1,
-          "m": "Sísmico"
+          "m": "Halloween"
         },
         {
           "lvl": 1,
-          "m": "Ultrapuño"
+          "m": "Ataque Furia"
         },
         {
           "lvl": 1,
-          "m": "Esfuerzo"
+          "m": "Cambiaalmas"
         },
         {
-          "lvl": 8,
-          "m": "Campo de Hierba"
-        },
-        {
-          "lvl": 16,
-          "m": "Pedrada"
-        },
-        {
-          "lvl": 24,
-          "m": "Niebla Clara"
-        },
-        {
-          "lvl": 32,
-          "m": "Guillotina"
-        },
-        {
-          "lvl": 37,
-          "m": "Salmuera"
-        },
-        {
-          "lvl": 40,
-          "m": "Burbuja"
-        },
-        {
-          "lvl": 48,
-          "m": "Recogearena"
-        },
-        {
-          "lvl": 56,
-          "m": "Llave Corsé"
-        },
-        {
-          "lvl": 61,
-          "m": "Palma Rauda"
-        },
-        {
-          "lvl": 64,
-          "m": "Fulgor Semilla"
-        },
-        {
-          "lvl": 67,
-          "m": "Atracción"
-        },
-        {
-          "lvl": 72,
+          "lvl": 1,
           "m": "Rabia"
         },
         {
-          "lvl": 73,
-          "m": "Roca Afilada"
+          "lvl": 1,
+          "m": "Conversión"
+        },
+        {
+          "lvl": 18,
+          "m": "Infortunio"
+        },
+        {
+          "lvl": 24,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 30,
+          "m": "Cambio de Marcha"
+        },
+        {
+          "lvl": 30,
+          "m": "Ataque Rápido"
+        },
+        {
+          "lvl": 36,
+          "m": "Robasombra"
+        },
+        {
+          "lvl": 42,
+          "m": "Destructor"
+        },
+        {
+          "lvl": 48,
+          "m": "Ala de Acero"
+        },
+        {
+          "lvl": 54,
+          "m": "Pulso de Campo"
+        },
+        {
+          "lvl": 60,
+          "m": "Camaradería"
+        },
+        {
+          "lvl": 66,
+          "m": "Huesomerang"
         }
       ],
       "tmMoves": [
+        "Adaptación",
         "Agarre",
-        "Amplificador",
-        "Batido",
-        "Bomba Fango",
+        "Aire Afilado",
+        "Autotomía",
+        "Bomba Caramelo",
         "Bomba Lodo",
-        "Cambiaalmas",
-        "Canto Mortal",
-        "Ciclón",
-        "Clemencia",
-        "Copión",
-        "Corpulencia",
-        "Descanso",
-        "Doble Golpe",
-        "Escalofrío",
-        "Espora",
+        "Brillo Mágico",
+        "Cabeza de Hierro",
+        "Chispa",
+        "Chupavidas",
+        "Cura Floral",
+        "Daño Secreto",
+        "Divide Dolor",
+        "Escudo Real",
+        "Gas Venenoso",
         "Giro Mortífero",
-        "Ladrón",
+        "Golpe Bis",
+        "Golpe Umbrío",
+        "Hora del Té",
         "Látigo Ígneo",
+        "Llama Azul",
+        "Meteorobola",
         "Moluscañón",
-        "Motivación",
-        "Nitrocarga",
-        "Picotazo Veneno",
-        "Pin Misil",
-        "Piñón Auxiliar",
+        "Pesadilla",
         "Presa Maxilar",
+        "Pulpocañón",
         "Puño Sombra",
-        "Refuerzo",
+        "Rayo Confuso",
+        "Rayo Señal",
+        "Retribución",
+        "Salazón",
+        "Señuelo",
         "Sorpresa",
         "Sumisión",
-        "Treparrocas",
-        "Viento Feérico"
+        "Tajo Metralla",
+        "Venganza",
+        "Voz Cautivadora",
+        "Yo Primero"
       ],
       "firstMoves": [
-        "Guillotina",
-        "Salmuera",
-        "Burbuja",
-        "Recogearena"
+        "Destructor",
+        "Ala de Acero",
+        "Pulso de Campo",
+        "Camaradería"
       ],
-      "spriteKey": "OKIDOGI"
+      "spriteKey": "POLTEAGEIST_1"
     },
     {
       "nickname": "Roger",
@@ -9174,14 +9181,14 @@
     },
     {
       "route": "",
-      "where": "Silph S.A",
-      "species": "Okidogi",
-      "nickname": "Tobi!",
+      "where": "Ruta 25 Norte",
+      "species": "Polteageist",
+      "nickname": "",
       "shiny": false,
       "status": "captured",
-      "category": "estatico_regalo",
-      "level": 50,
-      "mon": "Okidogi"
+      "category": "intercambio",
+      "level": 65,
+      "mon": "Polteageist"
     },
     {
       "route": "monte_moon_exterior",
@@ -9645,6 +9652,7 @@
       "At. Esp. X 6",
       "Banda Atadura",
       "Baya Alcho",
+      "Baya Algama",
       "Baya Ango",
       "Baya Aranja",
       "Baya Aricoc",
@@ -10252,7 +10260,7 @@
       {
         "id": "LUSTROUSORB",
         "name": "Lustresfera",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -10396,12 +10404,6 @@
       {
         "id": "THUNDERSTONE",
         "name": "Piedra Trueno",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
-        "id": "CELLBATTERY",
-        "name": "Pila",
         "qty": 1,
         "pocket": "Objetos"
       },
@@ -10568,6 +10570,12 @@
         "pocket": "Objetos"
       },
       {
+        "id": "CHOICEBAND",
+        "name": "Cinta Elección",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
         "id": "FRESHWATER",
         "name": "Agua Fresca",
         "qty": 1,
@@ -10646,12 +10654,6 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "ADAMANTMINT",
-        "name": "Menta Firme",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "LONELYMINT",
         "name": "Menta Huraña",
         "qty": 1,
@@ -10691,12 +10693,6 @@
         "id": "CASTELIACONE",
         "name": "Porcehelado",
         "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "PPMAX",
-        "name": "PP Máximos",
-        "qty": 2,
         "pocket": "Medicinas"
       },
       {
@@ -11536,7 +11532,7 @@
       {
         "id": "KELPSYBERRY",
         "name": "Baya Algama",
-        "qty": 5,
+        "qty": 6,
         "pocket": "Bayas"
       },
       {
@@ -11780,8 +11776,8 @@
         "pocket": "Piedras Mega"
       },
       {
-        "id": "MEGANIUMITE",
-        "name": "Meganiumite",
+        "id": "FERALIGITE",
+        "name": "Feraligite",
         "qty": 1,
         "pocket": "Piedras Mega"
       },
