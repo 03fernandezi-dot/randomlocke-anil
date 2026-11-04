@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 32h 1m jugadas · 450,220₽ · vidas en el juego: 11",
+  "notes": "Importado del save · 32h 2m jugadas · 450,220₽ · vidas en el juego: 11",
   "team": [
     {
       "nickname": "Milo",
       "species": "Feraligatr",
-      "level": 67,
+      "level": 70,
       "types": [
         "Agua"
       ],
@@ -358,7 +358,7 @@
     {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 66,
+      "level": 70,
       "types": [
         "Planta"
       ],
@@ -905,7 +905,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 69,
+      "level": 70,
       "types": [
         "Fuego",
         "Psíquico"
@@ -10457,7 +10457,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 600,
+        "qty": 592,
         "pocket": "Medicinas"
       },
       {
