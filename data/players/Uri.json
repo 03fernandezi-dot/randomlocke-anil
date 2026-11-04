@@ -2,9 +2,9 @@
   "id": "Uri",
   "name": "Uri",
   "lives": 30,
-  "livesUsed": 10,
+  "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 31h 30m jugadas · 643,220₽ · vidas en el juego: 12",
+  "notes": "Importado del save · 31h 33m jugadas · 650,220₽ · vidas en el juego: 11",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,11 +34,11 @@
       ],
       "ev": [
         31,
-        96,
-        41,
-        61,
+        99,
+        43,
+        67,
         36,
-        45
+        48
       ],
       "abilPool": [
         "Fuerza Mental"
@@ -186,193 +186,9 @@
       "spriteKey": "DRAGONITE"
     },
     {
-      "nickname": "Sunny",
-      "species": "Ursaluna",
-      "level": 70,
-      "types": [
-        "Tierra",
-        "Normal"
-      ],
-      "ability": "Sombra Trampa",
-      "nature": "Huraña",
-      "item": "Toxisfera",
-      "shiny": false,
-      "moves": [
-        "Terremoto",
-        "Sorpresa",
-        "Fachada",
-        "Hoja Aguda"
-      ],
-      "iv": [
-        29,
-        20,
-        1,
-        7,
-        18,
-        22
-      ],
-      "ev": [
-        0,
-        14,
-        2,
-        7,
-        3,
-        6
-      ],
-      "abilPool": [
-        "Cambio Color",
-        "Sombra Trampa"
-      ],
-      "abilHidden": [
-        "Hurto"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Palma Rauda"
-        },
-        {
-          "lvl": 1,
-          "m": "Danza Amiga"
-        },
-        {
-          "lvl": 1,
-          "m": "Meteoros"
-        },
-        {
-          "lvl": 1,
-          "m": "Cola Veneno"
-        },
-        {
-          "lvl": 1,
-          "m": "Canto Mortal"
-        },
-        {
-          "lvl": 8,
-          "m": "Defensa Férrea"
-        },
-        {
-          "lvl": 13,
-          "m": "Meteorobola"
-        },
-        {
-          "lvl": 15,
-          "m": "Pulso Cura"
-        },
-        {
-          "lvl": 17,
-          "m": "Aguzar"
-        },
-        {
-          "lvl": 22,
-          "m": "Cuchillada"
-        },
-        {
-          "lvl": 25,
-          "m": "Desquite"
-        },
-        {
-          "lvl": 29,
-          "m": "Anticura"
-        },
-        {
-          "lvl": 35,
-          "m": "Último Lugar"
-        },
-        {
-          "lvl": 41,
-          "m": "Velo Sagrado"
-        },
-        {
-          "lvl": 41,
-          "m": "Llama Embrujada"
-        },
-        {
-          "lvl": 48,
-          "m": "Furia Candente"
-        },
-        {
-          "lvl": 55,
-          "m": "Resarcimiento"
-        },
-        {
-          "lvl": 56,
-          "m": "Cuerpo Pesado"
-        },
-        {
-          "lvl": 64,
-          "m": "Aria Burbuja"
-        }
-      ],
-      "tmMoves": [
-        "Adaptación",
-        "Alivio",
-        "Anillo Ígneo",
-        "Ascuas",
-        "Autotomía",
-        "Bomba Caramelo",
-        "Bomba Lodo",
-        "Brecha Negra",
-        "Cabeza de Hierro",
-        "Cañón Dinamax",
-        "Canto Mortal",
-        "Carga Dragón",
-        "Cerrojo Feérico",
-        "Clemencia",
-        "Colmillo Veneno",
-        "Copión",
-        "Cuchillada",
-        "Cura Floral",
-        "Daño Secreto",
-        "Descanso",
-        "Divide Dolor",
-        "Doble Golpe",
-        "Encanto",
-        "Fertilizante",
-        "Gas Venenoso",
-        "Golpe Mordaza",
-        "Hachazo Pétreo",
-        "Hoja Aguda",
-        "Hora del Té",
-        "Mil Temblores",
-        "Nitrocarga",
-        "Onda Certera",
-        "Pataleta",
-        "Pesadilla",
-        "Picotazo Veneno",
-        "Pikapicado",
-        "Pin Misil",
-        "Piñón Auxiliar",
-        "Profecía",
-        "Pulpocañón",
-        "Puño Sombra",
-        "Reducción",
-        "Refuerzo",
-        "Retribución",
-        "Roca Veloz",
-        "Salazón",
-        "Saña",
-        "Señuelo",
-        "Shuriken de Agua",
-        "Sonámbulo",
-        "Sumisión",
-        "Tajo Metralla",
-        "Treparrocas",
-        "Venganza",
-        "Yo Primero"
-      ],
-      "firstMoves": [
-        "Liofilización",
-        "Deslome",
-        "Tormenta Arena",
-        "Acróbata"
-      ],
-      "spriteKey": "URSALUNA"
-    },
-    {
       "nickname": "Roger",
       "species": "Jellicent",
-      "level": 69,
+      "level": 70,
       "types": [
         "Agua",
         "Fantasma"
@@ -397,11 +213,11 @@
       ],
       "ev": [
         0,
-        21,
-        6,
+        24,
+        8,
+        15,
         9,
-        9,
-        12
+        15
       ],
       "abilPool": [
         "Roca Solida",
@@ -551,7 +367,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 70,
+      "level": 71,
       "types": [
         "Hada",
         "Acero"
@@ -765,11 +581,11 @@
       ],
       "ev": [
         26,
-        96,
+        99,
+        39,
+        72,
         37,
-        66,
-        37,
-        45
+        48
       ],
       "abilPool": [
         "Rezagado"
@@ -919,7 +735,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 68,
+      "level": 69,
       "types": [
         "Fuego",
         "Psíquico"
@@ -6867,6 +6683,193 @@
   ],
   "graveyard": [
     {
+      "nickname": "Sunny",
+      "species": "Ursaluna",
+      "level": 70,
+      "types": [
+        "Tierra",
+        "Normal"
+      ],
+      "ability": "Sombra Trampa",
+      "nature": "Huraña",
+      "item": "Toxisfera",
+      "shiny": false,
+      "moves": [
+        "Terremoto",
+        "Sorpresa",
+        "Fachada",
+        "Hoja Aguda"
+      ],
+      "iv": [
+        29,
+        20,
+        1,
+        7,
+        18,
+        22
+      ],
+      "ev": [
+        0,
+        17,
+        4,
+        11,
+        3,
+        9
+      ],
+      "abilPool": [
+        "Cambio Color",
+        "Sombra Trampa"
+      ],
+      "abilHidden": [
+        "Hurto"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Palma Rauda"
+        },
+        {
+          "lvl": 1,
+          "m": "Danza Amiga"
+        },
+        {
+          "lvl": 1,
+          "m": "Meteoros"
+        },
+        {
+          "lvl": 1,
+          "m": "Cola Veneno"
+        },
+        {
+          "lvl": 1,
+          "m": "Canto Mortal"
+        },
+        {
+          "lvl": 8,
+          "m": "Defensa Férrea"
+        },
+        {
+          "lvl": 13,
+          "m": "Meteorobola"
+        },
+        {
+          "lvl": 15,
+          "m": "Pulso Cura"
+        },
+        {
+          "lvl": 17,
+          "m": "Aguzar"
+        },
+        {
+          "lvl": 22,
+          "m": "Cuchillada"
+        },
+        {
+          "lvl": 25,
+          "m": "Desquite"
+        },
+        {
+          "lvl": 29,
+          "m": "Anticura"
+        },
+        {
+          "lvl": 35,
+          "m": "Último Lugar"
+        },
+        {
+          "lvl": 41,
+          "m": "Velo Sagrado"
+        },
+        {
+          "lvl": 41,
+          "m": "Llama Embrujada"
+        },
+        {
+          "lvl": 48,
+          "m": "Furia Candente"
+        },
+        {
+          "lvl": 55,
+          "m": "Resarcimiento"
+        },
+        {
+          "lvl": 56,
+          "m": "Cuerpo Pesado"
+        },
+        {
+          "lvl": 64,
+          "m": "Aria Burbuja"
+        }
+      ],
+      "tmMoves": [
+        "Adaptación",
+        "Alivio",
+        "Anillo Ígneo",
+        "Ascuas",
+        "Autotomía",
+        "Bomba Caramelo",
+        "Bomba Lodo",
+        "Brecha Negra",
+        "Cabeza de Hierro",
+        "Cañón Dinamax",
+        "Canto Mortal",
+        "Carga Dragón",
+        "Cerrojo Feérico",
+        "Clemencia",
+        "Colmillo Veneno",
+        "Copión",
+        "Cuchillada",
+        "Cura Floral",
+        "Daño Secreto",
+        "Descanso",
+        "Divide Dolor",
+        "Doble Golpe",
+        "Encanto",
+        "Fertilizante",
+        "Gas Venenoso",
+        "Golpe Mordaza",
+        "Hachazo Pétreo",
+        "Hoja Aguda",
+        "Hora del Té",
+        "Mil Temblores",
+        "Nitrocarga",
+        "Onda Certera",
+        "Pataleta",
+        "Pesadilla",
+        "Picotazo Veneno",
+        "Pikapicado",
+        "Pin Misil",
+        "Piñón Auxiliar",
+        "Profecía",
+        "Pulpocañón",
+        "Puño Sombra",
+        "Reducción",
+        "Refuerzo",
+        "Retribución",
+        "Roca Veloz",
+        "Salazón",
+        "Saña",
+        "Señuelo",
+        "Shuriken de Agua",
+        "Sonámbulo",
+        "Sumisión",
+        "Tajo Metralla",
+        "Treparrocas",
+        "Venganza",
+        "Yo Primero"
+      ],
+      "firstMoves": [
+        "Liofilización",
+        "Deslome",
+        "Tormenta Arena",
+        "Acróbata"
+      ],
+      "spriteKey": "URSALUNA",
+      "cause": "",
+      "route": "Monte Plateado",
+      "date": ""
+    },
+    {
       "nickname": "Samuel",
       "species": "Diglett",
       "level": 11,
@@ -8452,7 +8455,7 @@
       "species": "Ursaluna",
       "nickname": "Sunny",
       "shiny": false,
-      "status": "captured",
+      "status": "dead",
       "category": "salvaje",
       "level": 64,
       "mon": "Ursaluna"
@@ -9317,6 +9320,7 @@
       242,
       243,
       244,
+      245,
       246,
       252,
       271,
@@ -9342,6 +9346,7 @@
       "Antídoto",
       "Antihielo",
       "At. Esp. X 2",
+      "At. Esp. X 6",
       "Banda Atadura",
       "Baya Alcho",
       "Baya Ango",
@@ -9602,6 +9607,7 @@
       "Repelente Máximo",
       "Resguardo",
       "Resistfeather",
+      "Restaurar Todo",
       "Revest. Metálico",
       "Revivir",
       "Roca Helada",
@@ -10459,6 +10465,12 @@
       {
         "id": "PPUP",
         "name": "Más PP",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "FULLRESTORE",
+        "name": "Restaurar Todo",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -11585,6 +11597,12 @@
         "pocket": "Objetos de combate"
       },
       {
+        "id": "XSPATK6",
+        "name": "At. Esp. X 6",
+        "qty": 1,
+        "pocket": "Objetos de combate"
+      },
+      {
         "id": "RULEBOOK",
         "name": "Reglamento",
         "qty": 1,
@@ -11741,7 +11759,8 @@
     "2500383999",
     "2546394985",
     "67622120",
-    "2341825488"
+    "2341825488",
+    "3258188526"
   ],
   "revividos": 1
 }
