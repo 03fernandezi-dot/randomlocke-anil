@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 21h 55m jugadas · 336,105₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 21h 59m jugadas · 346,605₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -36,11 +36,11 @@
       ],
       "ev": [
         45,
-        110,
-        23,
-        107,
-        37,
-        57
+        112,
+        25,
+        109,
+        40,
+        59
       ],
       "abilPool": [
         "Manto Níveo",
@@ -217,7 +217,7 @@
         10,
         4,
         31,
-        1,
+        11,
         11,
         19
       ],
@@ -411,11 +411,11 @@
       ],
       "ev": [
         28,
-        54,
-        13,
-        36,
-        21,
-        115
+        56,
+        15,
+        38,
+        24,
+        117
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -564,17 +564,17 @@
         22,
         25,
         0,
-        25,
+        31,
         24,
         11
       ],
       "ev": [
         9,
-        21,
-        8,
-        54,
-        13,
-        9
+        23,
+        10,
+        56,
+        16,
+        11
       ],
       "abilPool": [
         "Aura Feérica"
@@ -723,11 +723,11 @@
       ],
       "ev": [
         45,
-        110,
-        23,
-        54,
-        38,
-        57
+        112,
+        25,
+        56,
+        41,
+        59
       ],
       "abilPool": [
         "Recogebolas",
@@ -885,20 +885,20 @@
         "Rencor Reprimido"
       ],
       "iv": [
-        7,
+        17,
         19,
         19,
-        14,
+        24,
         21,
         22
       ],
       "ev": [
         52,
-        151,
-        48,
-        65,
-        53,
-        82
+        153,
+        50,
+        67,
+        56,
+        84
       ],
       "abilPool": [
         "Cuerpo Horneado",
@@ -11471,6 +11471,7 @@
       243,
       244,
       245,
+      247,
       252,
       271,
       301,
@@ -12314,18 +12315,6 @@
         "id": "CENIZASSAGRADAS",
         "name": "Cenizas Sagradas",
         "qty": 2,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "AECapsula",
-        "name": "Aecapsula",
-        "qty": 3,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "SCapsula",
-        "name": "Scapsula",
-        "qty": 1,
         "pocket": "Medicinas"
       },
       {
