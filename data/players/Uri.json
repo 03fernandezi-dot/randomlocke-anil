@@ -10204,7 +10204,7 @@
       {
         "id": "SPLASHPLATE",
         "name": "Tabla Linfa",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -11722,7 +11722,7 @@
       {
         "id": "XSPEED",
         "name": "Velocidad X",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos de combate"
       },
       {
