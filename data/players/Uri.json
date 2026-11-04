@@ -2,14 +2,14 @@
   "id": "Uri",
   "name": "Uri",
   "lives": 30,
-  "livesUsed": 11,
+  "livesUsed": 12,
   "champion": true,
-  "notes": "Importado del save · 32h 51m jugadas · 452,370₽ · vidas en el juego: 11",
+  "notes": "Importado del save · 33h 10m jugadas · 474,120₽ · vidas en el juego: 10",
   "team": [
     {
       "nickname": "Milo",
       "species": "Feraligatr",
-      "level": 72,
+      "level": 73,
       "types": [
         "Agua"
       ],
@@ -35,10 +35,10 @@
       ],
       "ev": [
         15,
-        20,
-        21,
-        23,
-        19,
+        32,
+        25,
+        26,
+        24,
         23
       ],
       "abilPool": [
@@ -183,192 +183,9 @@
       "spriteKey": "FERALIGATR"
     },
     {
-      "nickname": "Cucatrampada",
-      "species": "Dragonite",
-      "level": 72,
-      "types": [
-        "Dragón",
-        "Volador"
-      ],
-      "ability": "Fuerza Mental",
-      "nature": "Activa",
-      "item": "Pico Afilado",
-      "shiny": true,
-      "moves": [
-        "Vasto Impacto",
-        "Tormenta Floral",
-        "Picoteo",
-        "Espora"
-      ],
-      "iv": [
-        4,
-        5,
-        22,
-        6,
-        31,
-        13
-      ],
-      "ev": [
-        36,
-        103,
-        45,
-        81,
-        36,
-        49
-      ],
-      "abilPool": [
-        "Fuerza Mental"
-      ],
-      "abilHidden": [
-        "Poder Gélido"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Despejar"
-        },
-        {
-          "lvl": 1,
-          "m": "Amago"
-        },
-        {
-          "lvl": 1,
-          "m": "Clemencia"
-        },
-        {
-          "lvl": 1,
-          "m": "Arañazo"
-        },
-        {
-          "lvl": 1,
-          "m": "Cerrojo Feérico"
-        },
-        {
-          "lvl": 1,
-          "m": "Picoteo"
-        },
-        {
-          "lvl": 1,
-          "m": "Ráfaga Escamas"
-        },
-        {
-          "lvl": 1,
-          "m": "Polvo Explosivo"
-        },
-        {
-          "lvl": 1,
-          "m": "Voltiocambio"
-        },
-        {
-          "lvl": 1,
-          "m": "Vasto Impacto"
-        },
-        {
-          "lvl": 15,
-          "m": "Tornado"
-        },
-        {
-          "lvl": 15,
-          "m": "Envidia ardiente"
-        },
-        {
-          "lvl": 20,
-          "m": "Respiro"
-        },
-        {
-          "lvl": 25,
-          "m": "Confusión"
-        },
-        {
-          "lvl": 33,
-          "m": "Distorsión"
-        },
-        {
-          "lvl": 39,
-          "m": "Corpulencia"
-        },
-        {
-          "lvl": 41,
-          "m": "Esporagodón"
-        },
-        {
-          "lvl": 46,
-          "m": "Infierno"
-        },
-        {
-          "lvl": 53,
-          "m": "Tormenta Floral"
-        },
-        {
-          "lvl": 58,
-          "m": "Tóxico"
-        },
-        {
-          "lvl": 62,
-          "m": "Cañón Dinamax"
-        },
-        {
-          "lvl": 80,
-          "m": "Bucle Arena"
-        }
-      ],
-      "tmMoves": [
-        "Absorbefuerza",
-        "Alivio",
-        "Ascuas",
-        "Autotomía",
-        "Beso Drenaje",
-        "Bomba Lodo",
-        "Brecha Negra",
-        "Cabeza de Hierro",
-        "Cambiaalmas",
-        "Cañón Batidor",
-        "Cañón Dinamax",
-        "Carga Dragón",
-        "Chispa",
-        "Chupavidas",
-        "Clonatipo",
-        "Copión",
-        "Cuchillada",
-        "Cura Floral",
-        "Danza Acuática",
-        "Descanso",
-        "Divide Dolor",
-        "Doble Golpe",
-        "Escalofrío",
-        "Espora",
-        "Fertilizante",
-        "Giro Rápido",
-        "Golpe Bis",
-        "Golpe Umbrío",
-        "Hoja Aguda",
-        "Hora del Té",
-        "Impactrueno",
-        "Ladrón",
-        "Meteorobola",
-        "Onda Certera",
-        "Pulso Noche",
-        "Refuerzo",
-        "Salazón",
-        "Señuelo",
-        "Sorpresa",
-        "Sumisión",
-        "Tajo Metralla",
-        "Venganza",
-        "Viento Feérico",
-        "Voz Cautivadora",
-        "Yo Primero"
-      ],
-      "firstMoves": [
-        "Ciclón",
-        "Maquinación"
-      ],
-      "spriteKey": "DRAGONITE"
-    },
-    {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 72,
+      "level": 73,
       "types": [
         "Planta"
       ],
@@ -394,10 +211,10 @@
       ],
       "ev": [
         44,
-        100,
-        61,
-        82,
-        31,
+        112,
+        65,
+        85,
+        36,
         53
       ],
       "abilPool": [
@@ -549,7 +366,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 72,
+      "level": 73,
       "types": [
         "Hada",
         "Acero"
@@ -743,7 +560,7 @@
     {
       "nickname": "Tita",
       "species": "Tyranitar",
-      "level": 72,
+      "level": 73,
       "types": [
         "Roca",
         "Siniestro"
@@ -770,10 +587,10 @@
       ],
       "ev": [
         81,
-        103,
-        41,
-        86,
-        37,
+        115,
+        45,
+        89,
+        42,
         49
       ],
       "abilPool": [
@@ -924,7 +741,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 72,
+      "level": 73,
       "types": [
         "Fuego",
         "Psíquico"
@@ -6977,6 +6794,192 @@
   ],
   "graveyard": [
     {
+      "nickname": "Cucatrampada",
+      "species": "Dragonite",
+      "level": 73,
+      "types": [
+        "Dragón",
+        "Volador"
+      ],
+      "ability": "Fuerza Mental",
+      "nature": "Activa",
+      "item": "Pico Afilado",
+      "shiny": true,
+      "moves": [
+        "Vasto Impacto",
+        "Tormenta Floral",
+        "Picoteo",
+        "Espora"
+      ],
+      "iv": [
+        4,
+        5,
+        22,
+        6,
+        31,
+        13
+      ],
+      "ev": [
+        36,
+        112,
+        49,
+        84,
+        41,
+        49
+      ],
+      "abilPool": [
+        "Fuerza Mental"
+      ],
+      "abilHidden": [
+        "Poder Gélido"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Despejar"
+        },
+        {
+          "lvl": 1,
+          "m": "Amago"
+        },
+        {
+          "lvl": 1,
+          "m": "Clemencia"
+        },
+        {
+          "lvl": 1,
+          "m": "Arañazo"
+        },
+        {
+          "lvl": 1,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 1,
+          "m": "Picoteo"
+        },
+        {
+          "lvl": 1,
+          "m": "Ráfaga Escamas"
+        },
+        {
+          "lvl": 1,
+          "m": "Polvo Explosivo"
+        },
+        {
+          "lvl": 1,
+          "m": "Voltiocambio"
+        },
+        {
+          "lvl": 1,
+          "m": "Vasto Impacto"
+        },
+        {
+          "lvl": 15,
+          "m": "Tornado"
+        },
+        {
+          "lvl": 15,
+          "m": "Envidia ardiente"
+        },
+        {
+          "lvl": 20,
+          "m": "Respiro"
+        },
+        {
+          "lvl": 25,
+          "m": "Confusión"
+        },
+        {
+          "lvl": 33,
+          "m": "Distorsión"
+        },
+        {
+          "lvl": 39,
+          "m": "Corpulencia"
+        },
+        {
+          "lvl": 41,
+          "m": "Esporagodón"
+        },
+        {
+          "lvl": 46,
+          "m": "Infierno"
+        },
+        {
+          "lvl": 53,
+          "m": "Tormenta Floral"
+        },
+        {
+          "lvl": 58,
+          "m": "Tóxico"
+        },
+        {
+          "lvl": 62,
+          "m": "Cañón Dinamax"
+        },
+        {
+          "lvl": 80,
+          "m": "Bucle Arena"
+        }
+      ],
+      "tmMoves": [
+        "Absorbefuerza",
+        "Alivio",
+        "Ascuas",
+        "Autotomía",
+        "Beso Drenaje",
+        "Bomba Lodo",
+        "Brecha Negra",
+        "Cabeza de Hierro",
+        "Cambiaalmas",
+        "Cañón Batidor",
+        "Cañón Dinamax",
+        "Carga Dragón",
+        "Chispa",
+        "Chupavidas",
+        "Clonatipo",
+        "Copión",
+        "Cuchillada",
+        "Cura Floral",
+        "Danza Acuática",
+        "Descanso",
+        "Divide Dolor",
+        "Doble Golpe",
+        "Escalofrío",
+        "Espora",
+        "Fertilizante",
+        "Giro Rápido",
+        "Golpe Bis",
+        "Golpe Umbrío",
+        "Hoja Aguda",
+        "Hora del Té",
+        "Impactrueno",
+        "Ladrón",
+        "Meteorobola",
+        "Onda Certera",
+        "Pulso Noche",
+        "Refuerzo",
+        "Salazón",
+        "Señuelo",
+        "Sorpresa",
+        "Sumisión",
+        "Tajo Metralla",
+        "Venganza",
+        "Viento Feérico",
+        "Voz Cautivadora",
+        "Yo Primero"
+      ],
+      "firstMoves": [
+        "Ciclón",
+        "Maquinación"
+      ],
+      "spriteKey": "DRAGONITE",
+      "cause": "",
+      "route": "Ruta 1",
+      "date": ""
+    },
+    {
       "nickname": "Samuel",
       "species": "Diglett",
       "level": 11,
@@ -8749,7 +8752,7 @@
       "species": "Dragonite",
       "nickname": "Cucatrampada",
       "shiny": true,
-      "status": "captured",
+      "status": "dead",
       "category": "salvaje",
       "level": 4,
       "mon": "Dragonite"
@@ -12081,7 +12084,8 @@
     "2546394985",
     "67622120",
     "2341825488",
-    "3258188526"
+    "3258188526",
+    "3043483236"
   ],
   "revividos": 1
 }
