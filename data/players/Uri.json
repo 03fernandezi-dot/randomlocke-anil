@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 32h 31m jugadas · 449,720₽ · vidas en el juego: 11",
+  "notes": "Importado del save · 32h 37m jugadas · 431,220₽ · vidas en el juego: 11",
   "team": [
     {
       "nickname": "Milo",
@@ -21,7 +21,7 @@
         "Puntapié",
         "Vasto Impacto",
         "Chupavidas",
-        "Batido"
+        "Danza Acuática"
       ],
       "natureMint": true,
       "natureBase": "Huraña",
@@ -134,6 +134,7 @@
         }
       ],
       "tmMoves": [
+        "Ácido Málico",
         "Amplificador",
         "Anillo Ígneo",
         "Ascuas",
@@ -145,16 +146,19 @@
         "Chupavidas",
         "Ciclón",
         "Cola Veneno",
+        "Danza Acuática",
         "Divide Dolor",
         "Doble Golpe",
         "Escudo Real",
         "Espora",
+        "Giro Rápido",
         "Golpe Bis",
         "Golpe Mordaza",
         "Golpe Umbrío",
         "Hidrochorro",
         "Hoja Aguda",
         "Impactrueno",
+        "Metaláser",
         "Meteorobola",
         "Onda Certera",
         "Pataleta",
@@ -322,15 +326,19 @@
         "Cañón Dinamax",
         "Carga Dragón",
         "Chispa",
+        "Chupavidas",
+        "Clonatipo",
         "Copión",
         "Cuchillada",
         "Cura Floral",
+        "Danza Acuática",
         "Descanso",
         "Divide Dolor",
         "Doble Golpe",
         "Escalofrío",
         "Espora",
         "Fertilizante",
+        "Giro Rápido",
         "Golpe Bis",
         "Golpe Umbrío",
         "Hoja Aguda",
@@ -489,6 +497,7 @@
         }
       ],
       "tmMoves": [
+        "Ácido Málico",
         "Acua Cola",
         "Aire Afilado",
         "Al Ataque",
@@ -516,6 +525,7 @@
         "Hidrochorro",
         "Impactrueno",
         "Látigo Ígneo",
+        "Metaláser",
         "Moluscañón",
         "Onda Certera",
         "Pikapicado",
@@ -670,6 +680,7 @@
         }
       ],
       "tmMoves": [
+        "Ácido Málico",
         "Acua Cola",
         "Aire Afilado",
         "Al Ataque",
@@ -684,6 +695,7 @@
         "Chupavidas",
         "Ciclón",
         "Clemencia",
+        "Clonatipo",
         "Colmillo Veneno",
         "Copión",
         "Cura Floral",
@@ -692,12 +704,15 @@
         "Encanto",
         "Escudo Real",
         "Fertilizante",
+        "Gancho Alto",
         "Gas Venenoso",
+        "Giro Rápido",
         "Golpe Umbrío",
         "Hoja Aguda",
         "Hora del Té",
         "Ladrón",
         "Legado",
+        "Metaláser",
         "Moluscañón",
         "Motivación",
         "Pataleta",
@@ -10636,12 +10651,6 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "PPUP",
-        "name": "Más PP",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "MAXHONEY",
         "name": "Maxipanal",
         "qty": 1,
@@ -11008,6 +11017,12 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM33",
+        "name": "MT33",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM34",
         "name": "MT34",
         "qty": 1,
@@ -11230,6 +11245,18 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM76",
+        "name": "MT76",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM77",
+        "name": "MT77",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM78",
         "name": "MT78",
         "qty": 1,
@@ -11274,6 +11301,12 @@
       {
         "id": "TM86",
         "name": "MT86",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM87",
+        "name": "MT87",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
@@ -11422,6 +11455,18 @@
         "pocket": "MTs y MOs"
       },
       {
+        "id": "TM114",
+        "name": "MT114",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM115",
+        "name": "MT115",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
         "id": "TM116",
         "name": "MT116",
         "qty": 1,
@@ -11460,6 +11505,12 @@
       {
         "id": "TM124",
         "name": "MT124",
+        "qty": 1,
+        "pocket": "MTs y MOs"
+      },
+      {
+        "id": "TM125",
+        "name": "MT125",
         "qty": 1,
         "pocket": "MTs y MOs"
       },
