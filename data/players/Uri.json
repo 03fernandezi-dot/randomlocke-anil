@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 32h 3m jugadas · 450,220₽ · vidas en el juego: 11",
+  "notes": "Importado del save · 32h 9m jugadas · 449,720₽ · vidas en el juego: 11",
   "team": [
     {
       "nickname": "Milo",
@@ -27,7 +27,7 @@
         7,
         12,
         3,
-        17,
+        27,
         3,
         8
       ],
@@ -379,14 +379,14 @@
         28,
         14,
         12,
-        27,
+        31,
         5
       ],
       "ev": [
-        37,
+        39,
         98,
         59,
-        66,
+        68,
         31,
         52
       ],
@@ -559,7 +559,7 @@
         0,
         16,
         15,
-        3,
+        13,
         3
       ],
       "ev": [
@@ -750,7 +750,7 @@
         25
       ],
       "ev": [
-        26,
+        76,
         101,
         39,
         72,
@@ -5170,6 +5170,138 @@
       "spriteKey": "PINCURCHIN"
     },
     {
+      "nickname": "Otro",
+      "species": "Crawdaunt",
+      "level": 1,
+      "types": [
+        "Agua",
+        "Siniestro"
+      ],
+      "ability": "",
+      "nature": "Osada",
+      "item": "Lustresfera",
+      "shiny": false,
+      "moves": [
+        "Deslumbrar",
+        "Finta",
+        "Pirotecnia",
+        "Palmeo"
+      ],
+      "iv": [
+        23,
+        21,
+        23,
+        14,
+        13,
+        0
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Ritmo Propio",
+        "Unísono"
+      ],
+      "abilHidden": [
+        "Puño Férreo"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 1,
+          "m": "Mofa"
+        },
+        {
+          "lvl": 1,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 1,
+          "m": "Deslumbrar"
+        },
+        {
+          "lvl": 1,
+          "m": "Finta"
+        },
+        {
+          "lvl": 1,
+          "m": "Pirotecnia"
+        },
+        {
+          "lvl": 1,
+          "m": "Palmeo"
+        },
+        {
+          "lvl": 12,
+          "m": "Campo Psíquico"
+        },
+        {
+          "lvl": 16,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 20,
+          "m": "Campo Eléctrico"
+        },
+        {
+          "lvl": 24,
+          "m": "Vendetta"
+        },
+        {
+          "lvl": 28,
+          "m": "Alarido"
+        },
+        {
+          "lvl": 34,
+          "m": "Agua Fría"
+        },
+        {
+          "lvl": 37,
+          "m": "Persecución"
+        },
+        {
+          "lvl": 40,
+          "m": "Hidrobomba"
+        },
+        {
+          "lvl": 42,
+          "m": "Danza Acuática"
+        },
+        {
+          "lvl": 46,
+          "m": "Psicorruido"
+        },
+        {
+          "lvl": 52,
+          "m": "Calcinación"
+        },
+        {
+          "lvl": 58,
+          "m": "Obstrucción"
+        },
+        {
+          "lvl": 64,
+          "m": "Bombardeo"
+        }
+      ],
+      "firstMoves": [
+        "Deslumbrar",
+        "Finta",
+        "Pirotecnia",
+        "Palmeo"
+      ],
+      "spriteKey": "CRAWDAUNT",
+      "dup": true
+    },
+    {
       "nickname": "Cartman",
       "species": "Goodra (Hisui)",
       "level": 68,
@@ -8997,6 +9129,17 @@
       "mon": "Pincurchin"
     },
     {
+      "route": "",
+      "where": "Museo Pokémon",
+      "species": "Crawdaunt",
+      "nickname": "Otro",
+      "shiny": false,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 1,
+      "mon": "Crawdaunt"
+    },
+    {
       "route": "torre_pokemon",
       "where": "Torre Pokémon",
       "species": "Goodra",
@@ -9939,12 +10082,6 @@
         "pocket": "Objetos"
       },
       {
-        "id": "PLUMEFOSSIL",
-        "name": "Fósil Pluma",
-        "qty": 1,
-        "pocket": "Objetos"
-      },
-      {
         "id": "POWERANKLET",
         "name": "Franja Recia",
         "qty": 2,
@@ -10461,18 +10598,6 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "DECapsula",
-        "name": "Cápsula DE",
-        "qty": 2,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "AECapsula",
-        "name": "Aecapsula",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
         "id": "FULLHEAL",
         "name": "Cura Total",
         "qty": 1,
@@ -10554,24 +10679,6 @@
         "id": "RELAXEDMINT",
         "name": "Menta Plácida",
         "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "HEALTHMOCHI",
-        "name": "Mochi Vigor",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "GENIUSFEATHER",
-        "name": "Geniusfeather",
-        "qty": 2,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "HEALTHFEATHER",
-        "name": "Pluma Salud",
-        "qty": 2,
         "pocket": "Medicinas"
       },
       {
