@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 32h 27m jugadas · 449,720₽ · vidas en el juego: 11",
+  "notes": "Importado del save · 32h 31m jugadas · 449,720₽ · vidas en el juego: 11",
   "team": [
     {
       "nickname": "Milo",
       "species": "Feraligatr",
-      "level": 70,
+      "level": 72,
       "types": [
         "Agua"
       ],
@@ -181,7 +181,7 @@
     {
       "nickname": "Cucatrampada",
       "species": "Dragonite",
-      "level": 70,
+      "level": 72,
       "types": [
         "Dragón",
         "Volador"
@@ -360,7 +360,7 @@
     {
       "nickname": "Graham",
       "species": "Meganium",
-      "level": 70,
+      "level": 72,
       "types": [
         "Planta"
       ],
@@ -539,7 +539,7 @@
     {
       "nickname": "Mataró",
       "species": "Tinkaton",
-      "level": 71,
+      "level": 72,
       "types": [
         "Hada",
         "Acero"
@@ -728,7 +728,7 @@
     {
       "nickname": "Tita",
       "species": "Tyranitar",
-      "level": 70,
+      "level": 72,
       "types": [
         "Roca",
         "Siniestro"
@@ -909,7 +909,7 @@
     {
       "nickname": "Niggy",
       "species": "Armarouge",
-      "level": 70,
+      "level": 72,
       "types": [
         "Fuego",
         "Psíquico"
@@ -10602,7 +10602,7 @@
       {
         "id": "RARECANDY",
         "name": "Caramelo Raro",
-        "qty": 592,
+        "qty": 581,
         "pocket": "Medicinas"
       },
       {
