@@ -4,12 +4,12 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": true,
-  "notes": "Importado del save · 31h 26m jugadas · 637,100₽ · vidas en el juego: 12",
+  "notes": "Importado del save · 31h 28m jugadas · 643,220₽ · vidas en el juego: 12",
   "team": [
     {
       "nickname": "Cucatrampada",
       "species": "Dragonite",
-      "level": 69,
+      "level": 70,
       "types": [
         "Dragón",
         "Volador"
@@ -34,11 +34,11 @@
       ],
       "ev": [
         31,
-        91,
-        39,
+        94,
+        41,
         61,
         36,
-        43
+        45
       ],
       "abilPool": [
         "Fuerza Mental"
@@ -213,11 +213,11 @@
       ],
       "ev": [
         0,
-        9,
-        0,
+        12,
+        2,
         7,
         3,
-        4
+        6
       ],
       "abilPool": [
         "Cambio Color",
@@ -397,11 +397,11 @@
       ],
       "ev": [
         0,
-        16,
-        4,
+        19,
+        6,
         9,
         9,
-        10
+        12
       ],
       "abilPool": [
         "Roca Solida",
@@ -738,7 +738,7 @@
     {
       "nickname": "Tita",
       "species": "Tyranitar",
-      "level": 69,
+      "level": 70,
       "types": [
         "Roca",
         "Siniestro"
@@ -765,11 +765,11 @@
       ],
       "ev": [
         26,
-        91,
-        35,
+        94,
+        37,
         66,
         37,
-        43
+        45
       ],
       "abilPool": [
         "Rezagado"
