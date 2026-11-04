@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 31h 52m jugadas · 450,220₽ · vidas en el juego: 11",
+  "notes": "Importado del save · 32h 1m jugadas · 450,220₽ · vidas en el juego: 11",
   "team": [
     {
       "nickname": "Milo",
@@ -363,15 +363,17 @@
         "Planta"
       ],
       "ability": "Mimetismo",
-      "nature": "Firme",
+      "nature": "Afable",
       "item": "Cinta Elección",
       "shiny": true,
       "moves": [
-        "Hachazo Pétreo",
-        "Truco Floral",
-        "Látigo Ígneo",
-        "Patada Giro"
+        "Fuerza Lunar",
+        "Energibola",
+        "Moluscañón",
+        "Voto Agua"
       ],
+      "natureMint": true,
+      "natureBase": "Firme",
       "iv": [
         25,
         28,
@@ -10453,6 +10455,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "RARECANDY",
+        "name": "Caramelo Raro",
+        "qty": 600,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "DECapsula",
         "name": "Cápsula DE",
         "qty": 2,
@@ -10461,6 +10469,12 @@
       {
         "id": "AECapsula",
         "name": "Aecapsula",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "FULLHEAL",
+        "name": "Cura Total",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -10489,14 +10503,14 @@
         "pocket": "Medicinas"
       },
       {
-        "id": "MAXHONEY",
-        "name": "Maxipanal",
+        "id": "PPUP",
+        "name": "Más PP",
         "qty": 1,
         "pocket": "Medicinas"
       },
       {
-        "id": "MILDMINT",
-        "name": "Menta Afable",
+        "id": "MAXHONEY",
+        "name": "Maxipanal",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -10521,6 +10535,12 @@
       {
         "id": "NAIVEMINT",
         "name": "Menta Ingenua",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
+        "id": "BOLDMINT",
+        "name": "Menta Osada",
         "qty": 1,
         "pocket": "Medicinas"
       },
@@ -10573,6 +10593,12 @@
         "pocket": "Medicinas"
       },
       {
+        "id": "FULLRESTORE",
+        "name": "Restaurar Todo",
+        "qty": 1,
+        "pocket": "Medicinas"
+      },
+      {
         "id": "REVIVE",
         "name": "Revivir",
         "qty": 1,
@@ -10594,36 +10620,6 @@
         "id": "BERRYJUICE",
         "name": "Zumo de Baya",
         "qty": 2,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "BOLDMINT",
-        "name": "Menta Osada",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "FULLHEAL",
-        "name": "Cura Total",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "PPUP",
-        "name": "Más PP",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "FULLRESTORE",
-        "name": "Restaurar Todo",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "RARECANDY",
-        "name": "Caramelo Raro",
-        "qty": 600,
         "pocket": "Medicinas"
       },
       {
