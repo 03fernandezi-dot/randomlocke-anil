@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": true,
-  "notes": "Importado del save · 31h 28m jugadas · 643,220₽ · vidas en el juego: 12",
+  "notes": "Importado del save · 31h 30m jugadas · 643,220₽ · vidas en el juego: 12",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,7 +34,7 @@
       ],
       "ev": [
         31,
-        94,
+        96,
         41,
         61,
         36,
@@ -213,7 +213,7 @@
       ],
       "ev": [
         0,
-        12,
+        14,
         2,
         7,
         3,
@@ -397,7 +397,7 @@
       ],
       "ev": [
         0,
-        19,
+        21,
         6,
         9,
         9,
@@ -765,7 +765,7 @@
       ],
       "ev": [
         26,
-        94,
+        96,
         37,
         66,
         37,
@@ -4930,6 +4930,136 @@
       "spriteKey": "TAUROS_1"
     },
     {
+      "nickname": "Roque",
+      "species": "Lycanroc",
+      "level": 66,
+      "types": [
+        "Roca"
+      ],
+      "ability": "Piel Helada",
+      "nature": "Grosera",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Deslome",
+        "Clavo Cañón",
+        "Branquibocado",
+        "Hueso Sombrío"
+      ],
+      "iv": [
+        1,
+        29,
+        4,
+        14,
+        15,
+        11
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Acérrimo",
+        "Piel Helada"
+      ],
+      "abilHidden": [
+        "Mandíbula dragón"
+      ],
+      "learnset": [
+        {
+          "lvl": 0,
+          "m": "Lengüetazo"
+        },
+        {
+          "lvl": 1,
+          "m": "Bofetón Lodo"
+        },
+        {
+          "lvl": 1,
+          "m": "Disparo Lodo"
+        },
+        {
+          "lvl": 1,
+          "m": "Niebla Aromática"
+        },
+        {
+          "lvl": 1,
+          "m": "Clonatipo"
+        },
+        {
+          "lvl": 1,
+          "m": "Calcinación"
+        },
+        {
+          "lvl": 1,
+          "m": "Poder Pasado"
+        },
+        {
+          "lvl": 4,
+          "m": "Remolino"
+        },
+        {
+          "lvl": 7,
+          "m": "Lanzarrocas"
+        },
+        {
+          "lvl": 12,
+          "m": "Puño Jet"
+        },
+        {
+          "lvl": 15,
+          "m": "Cola Dragón"
+        },
+        {
+          "lvl": 18,
+          "m": "Alivio"
+        },
+        {
+          "lvl": 23,
+          "m": "Puño Furia"
+        },
+        {
+          "lvl": 26,
+          "m": "Cuerno Certero"
+        },
+        {
+          "lvl": 29,
+          "m": "Sellar"
+        },
+        {
+          "lvl": 34,
+          "m": "Bombardeo"
+        },
+        {
+          "lvl": 37,
+          "m": "Deslome"
+        },
+        {
+          "lvl": 40,
+          "m": "Clavo Cañón"
+        },
+        {
+          "lvl": 45,
+          "m": "Branquibocado"
+        },
+        {
+          "lvl": 48,
+          "m": "Hueso Sombrío"
+        }
+      ],
+      "firstMoves": [
+        "Deslome",
+        "Clavo Cañón",
+        "Branquibocado",
+        "Hueso Sombrío"
+      ],
+      "spriteKey": "LYCANROC_1"
+    },
+    {
       "nickname": "Cartman",
       "species": "Goodra (Hisui)",
       "level": 68,
@@ -8702,6 +8832,17 @@
       "mon": "Tauros"
     },
     {
+      "route": "ruta_25_norte",
+      "where": "Ruta 25 Norte",
+      "species": "Lycanroc",
+      "nickname": "Roque",
+      "shiny": false,
+      "status": "captured",
+      "category": "salvaje",
+      "level": 66,
+      "mon": "Lycanroc"
+    },
+    {
       "route": "torre_pokemon",
       "where": "Torre Pokémon",
       "species": "Goodra",
@@ -8984,6 +9125,7 @@
       "ruta_21": true,
       "ciudad_azafran": true,
       "ruta_18": true,
+      "ruta_25_norte": true,
       "torre_pokemon": true,
       "mansion_quemada": true,
       "ruta_9": true,
@@ -9010,8 +9152,7 @@
       "ruta_23": true,
       "ruta_24": true,
       "cataratas_tohjo": true,
-      "ruta_25_sur": true,
-      "ruta_25_norte": true
+      "ruta_25_sur": true
     },
     "items": {},
     "encounters": {
@@ -9067,7 +9208,8 @@
       "ruta_24": true,
       "cataratas_tohjo": true,
       "ruta_25_sur": true,
-      "monte_plateado": true
+      "monte_plateado": true,
+      "ruta_25_norte": true
     },
     "switches": [
       48,
@@ -10125,7 +10267,7 @@
       {
         "id": "MISTYSEED",
         "name": "Semilla Bruma",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -10449,13 +10591,13 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 21,
+        "qty": 19,
         "pocket": "Poké Balls"
       },
       {
         "id": "QUICKBALL",
         "name": "Veloz Ball",
-        "qty": 8,
+        "qty": 7,
         "pocket": "Poké Balls"
       },
       {
