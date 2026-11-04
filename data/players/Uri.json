@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 10,
   "champion": true,
-  "notes": "Importado del save · 31h 9m jugadas · 617,480₽ · vidas en el juego: 12",
+  "notes": "Importado del save · 31h 14m jugadas · 617,480₽ · vidas en el juego: 12",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -10239,7 +10239,7 @@
       {
         "id": "HEALTHFEATHER",
         "name": "Pluma Salud",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Medicinas"
       },
       {
