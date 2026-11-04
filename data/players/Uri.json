@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 32h 37m jugadas · 431,220₽ · vidas en el juego: 11",
+  "notes": "Importado del save · 32h 51m jugadas · 452,370₽ · vidas en el juego: 11",
   "team": [
     {
       "nickname": "Milo",
@@ -34,12 +34,12 @@
         8
       ],
       "ev": [
-        10,
-        18,
+        15,
+        20,
+        21,
+        23,
         19,
-        9,
-        19,
-        22
+        23
       ],
       "abilPool": [
         "Veleta"
@@ -209,12 +209,12 @@
         13
       ],
       "ev": [
-        31,
-        101,
-        43,
-        67,
         36,
-        48
+        103,
+        45,
+        81,
+        36,
+        49
       ],
       "abilPool": [
         "Fuerza Mental"
@@ -393,12 +393,12 @@
         5
       ],
       "ev": [
-        39,
-        98,
-        59,
-        68,
+        44,
+        100,
+        61,
+        82,
         31,
-        52
+        53
       ],
       "abilPool": [
         "Mimetismo"
@@ -769,12 +769,12 @@
         25
       ],
       "ev": [
-        76,
-        101,
-        39,
-        72,
+        81,
+        103,
+        41,
+        86,
         37,
-        48
+        49
       ],
       "abilPool": [
         "Rezagado"
@@ -9640,6 +9640,7 @@
       244,
       245,
       246,
+      247,
       252,
       271,
       301,
