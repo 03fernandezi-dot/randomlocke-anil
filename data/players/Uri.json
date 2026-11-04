@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 31h 34m jugadas · 450,220₽ · vidas en el juego: 11",
+  "notes": "Importado del save · 31h 37m jugadas · 450,220₽ · vidas en el juego: 11",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -34,7 +34,7 @@
       ],
       "ev": [
         31,
-        99,
+        101,
         43,
         67,
         36,
@@ -213,7 +213,7 @@
       ],
       "ev": [
         0,
-        24,
+        26,
         8,
         15,
         9,
@@ -581,7 +581,7 @@
       ],
       "ev": [
         26,
-        99,
+        101,
         39,
         72,
         37,
@@ -4876,6 +4876,127 @@
       "spriteKey": "LYCANROC_1"
     },
     {
+      "nickname": "Garota",
+      "species": "Pincurchin",
+      "level": 69,
+      "types": [
+        "Eléctrico"
+      ],
+      "ability": "Espada Indómita",
+      "nature": "Alocada",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Azote Torrencial",
+        "Pikaturbo",
+        "Joltioparálisis",
+        "Bola Voltio"
+      ],
+      "iv": [
+        7,
+        26,
+        0,
+        0,
+        15,
+        13
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Espada Indómita"
+      ],
+      "abilHidden": [
+        "Ignífugo"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Profecía"
+        },
+        {
+          "lvl": 1,
+          "m": "Drenadoras"
+        },
+        {
+          "lvl": 5,
+          "m": "Cerrojo Feérico"
+        },
+        {
+          "lvl": 10,
+          "m": "Refuerzo"
+        },
+        {
+          "lvl": 15,
+          "m": "Carga"
+        },
+        {
+          "lvl": 20,
+          "m": "Corpulencia"
+        },
+        {
+          "lvl": 25,
+          "m": "Rayo Carga"
+        },
+        {
+          "lvl": 30,
+          "m": "Giro Bola"
+        },
+        {
+          "lvl": 35,
+          "m": "Adaptación"
+        },
+        {
+          "lvl": 38,
+          "m": "Impactrueno"
+        },
+        {
+          "lvl": 40,
+          "m": "Danza Pétalo"
+        },
+        {
+          "lvl": 40,
+          "m": "Escudo Real"
+        },
+        {
+          "lvl": 42,
+          "m": "Carga Parábola"
+        },
+        {
+          "lvl": 45,
+          "m": "Eco Metálico"
+        },
+        {
+          "lvl": 50,
+          "m": "Azote Torrencial"
+        },
+        {
+          "lvl": 50,
+          "m": "Pikaturbo"
+        },
+        {
+          "lvl": 55,
+          "m": "Joltioparálisis"
+        },
+        {
+          "lvl": 60,
+          "m": "Bola Voltio"
+        }
+      ],
+      "firstMoves": [
+        "Azote Torrencial",
+        "Pikaturbo",
+        "Joltioparálisis",
+        "Bola Voltio"
+      ],
+      "spriteKey": "PINCURCHIN"
+    },
+    {
       "nickname": "Cartman",
       "species": "Goodra (Hisui)",
       "level": 68,
@@ -8846,6 +8967,17 @@
       "mon": "Lycanroc"
     },
     {
+      "route": "ciudad_anil",
+      "where": "Ciudad Añil",
+      "species": "Pincurchin",
+      "nickname": "Garota",
+      "shiny": false,
+      "status": "captured",
+      "category": "ciudad",
+      "level": 69,
+      "mon": "Pincurchin"
+    },
+    {
       "route": "torre_pokemon",
       "where": "Torre Pokémon",
       "species": "Goodra",
@@ -9129,6 +9261,7 @@
       "ciudad_azafran": true,
       "ruta_18": true,
       "ruta_25_norte": true,
+      "ciudad_anil": true,
       "torre_pokemon": true,
       "mansion_quemada": true,
       "ruta_9": true,
@@ -9155,8 +9288,7 @@
       "ruta_23": true,
       "ruta_24": true,
       "cataratas_tohjo": true,
-      "ruta_25_sur": true,
-      "ciudad_anil": true
+      "ruta_25_sur": true
     },
     "items": {},
     "encounters": {
@@ -9213,7 +9345,8 @@
       "cataratas_tohjo": true,
       "ruta_25_sur": true,
       "monte_plateado": true,
-      "ruta_25_norte": true
+      "ruta_25_norte": true,
+      "ciudad_anil": true
     },
     "switches": [
       48,
@@ -9365,6 +9498,7 @@
       "Baya Lagro",
       "Baya Meloc",
       "Baya Meluce",
+      "Baya Pabaya",
       "Baya Pasio",
       "Baya Perasi",
       "Baya Rimoya",
@@ -10016,7 +10150,7 @@
       {
         "id": "ICYROCK",
         "name": "Roca Helada",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -10034,7 +10168,7 @@
       {
         "id": "ELECTRICSEED",
         "name": "Semilla Electro",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -10604,7 +10738,7 @@
       {
         "id": "ULTRABALL",
         "name": "Ultra Ball",
-        "qty": 19,
+        "qty": 18,
         "pocket": "Poké Balls"
       },
       {
@@ -11264,6 +11398,12 @@
       {
         "id": "MAGOBERRY",
         "name": "Baya Ango",
+        "qty": 1,
+        "pocket": "Bayas"
+      },
+      {
+        "id": "IAPAPABERRY",
+        "name": "Baya Pabaya",
         "qty": 1,
         "pocket": "Bayas"
       },
