@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 31h 33m jugadas · 650,220₽ · vidas en el juego: 11",
+  "notes": "Importado del save · 31h 34m jugadas · 450,220₽ · vidas en el juego: 11",
   "team": [
     {
       "nickname": "Cucatrampada",
@@ -9155,7 +9155,8 @@
       "ruta_23": true,
       "ruta_24": true,
       "cataratas_tohjo": true,
-      "ruta_25_sur": true
+      "ruta_25_sur": true,
+      "ciudad_anil": true
     },
     "items": {},
     "encounters": {
@@ -9769,7 +9770,7 @@
       {
         "id": "GRIPCLAW",
         "name": "Garra Garfio",
-        "qty": 1,
+        "qty": 2,
         "pocket": "Objetos"
       },
       {
@@ -11509,6 +11510,18 @@
       {
         "id": "GYARADOSITE",
         "name": "Gyaradosita",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
+        "id": "MEGANIUMITE",
+        "name": "Meganiumite",
+        "qty": 1,
+        "pocket": "Piedras Mega"
+      },
+      {
+        "id": "FERALIGITE",
+        "name": "Feraligite",
         "qty": 1,
         "pocket": "Piedras Mega"
       },
