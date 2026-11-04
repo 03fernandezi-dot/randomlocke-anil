@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 11,
   "champion": true,
-  "notes": "Importado del save · 21h 46m jugadas · 336,105₽ · vidas en el juego: 13",
+  "notes": "Importado del save · 21h 53m jugadas · 336,105₽ · vidas en el juego: 13",
   "team": [
     {
       "nickname": "Popiruleta",
@@ -15,7 +15,7 @@
         "Acero"
       ],
       "ability": "Retirada",
-      "nature": "Agitada",
+      "nature": "Seria",
       "item": "Chaleco Asalto",
       "shiny": false,
       "moves": [
@@ -38,7 +38,7 @@
         45,
         110,
         23,
-        57,
+        107,
         37,
         57
       ],
@@ -410,12 +410,12 @@
         18
       ],
       "ev": [
-        27,
+        28,
         54,
         13,
         36,
         21,
-        15
+        115
       ],
       "abilPool": [
         "Unidad Ecuestre"
@@ -572,7 +572,7 @@
         9,
         21,
         8,
-        4,
+        54,
         13,
         9
       ],
@@ -726,7 +726,7 @@
         110,
         23,
         54,
-        37,
+        38,
         57
       ],
       "abilPool": [
@@ -12391,36 +12391,12 @@
       {
         "id": "SERIOUSMINT",
         "name": "Menta Seria",
-        "qty": 2,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "SWIFTMOCHI",
-        "name": "Mochi Ímpetu",
-        "qty": 2,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "GENIUSMOCHI",
-        "name": "Mochi Intelecto",
-        "qty": 2,
+        "qty": 1,
         "pocket": "Medicinas"
       },
       {
         "id": "FRESHSTARTMOCHI",
         "name": "Freshstartmochi",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "CLEVERFEATHER",
-        "name": "Cleverfeather",
-        "qty": 1,
-        "pocket": "Medicinas"
-      },
-      {
-        "id": "HEALTHFEATHER",
-        "name": "Pluma Salud",
         "qty": 1,
         "pocket": "Medicinas"
       },
